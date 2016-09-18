@@ -1,0 +1,83 @@
+description<br />
+<br />
+ <br />
+|駅構造  = 地上駅（橋上駅）<br />
+|ホーム  = 2面2線<br />
+|開業年月日= 1<a href="http://localhost/keyword/986%E5%B9%B4">986年</a>（昭和<a href="http://localhost/keyword/61%E5%B9%B4">61年</a>）4月26日<br />
+|廃止年月日= <br />
+|乗車人員= 3,103<br />
+|乗降人員= <br />
+|統計年度= 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|電報略号= ロコ<br />
+|所属路線= 東海道本線<br />
+|前の駅  = 藤枝<br />
+|駅間A   = 4.6<br />
+|駅間B   = 2.9<br />
+|次の駅  = 島田<br />
+|駅番号  =<br />
+|キロ程  = 204.9<br />
+|起点駅  = 東京<br />
+|備考    = 業務委託駅みどりの窓口 有<br />
+}}<br />
+ホーム<br />
+クモヤ93最高速記念碑。19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>11月21日、当駅付近で当時の狭軌世界最高速度である175km/hを記録した。]]<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E5%85%AD%E5%90%88%E9%A7%85">六合駅</a>&#39;（ろくごうえき）は、静岡県島田市道悦一丁目にある、東海旅客鉄道（JR東海）東海道本線の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/986%E5%B9%B4">986年</a>（昭和<a href="http://localhost/keyword/61%E5%B9%B4">61年</a>）4月26日 - 国鉄東海道本線の藤枝 - 島田間に新設開業（旅客営業のみ）。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、東海旅客鉄道の駅となる。<br />
+* 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>（平成<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）3月1日 - TOICAのサービス開始。<br />
+<br />
+== 駅構造 ==<br />
+長さ210mの相対式ホーム2面2線を有する地上駅。駅の南北を結ぶ簡便な橋上駅舎を備える。<br />
+<br />
+東海交通事業の職員が業務を担当する業務委託駅で、藤枝駅が当駅を管理している。駅舎内部にはみどりの窓口などが置かれている。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+== 利用状況 ==<br />
+「静岡県統計年鑑」によると、1日の平均乗車人員は以下の通りである。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+=== 北口 ===<br />
+* 島田六合郵便局<br />
+* 狭軌最高速度記念碑<br />
+* 静岡県立島田工業高等学校<br />
+<br />
+=== 南口 ===<br />
+* 島田市立六合幼稚園<br />
+* 島田市立六合中学校<br />
+* バス停　<a href="http://localhost/keyword/%E5%85%AD%E5%90%88%E9%A7%85">六合駅</a>（しずてつジャストライン）<br />
+** 【島田市コミュニティバス】大津線、湯日線<br />
+* 【島田市コミュニティタクシー】六合南線<br />
+<br />
+== 隣の駅 ==<br />
+<br />
+; 東海旅客鉄道<br />
+: 東海道本線<br />
+:: 藤枝駅 - &#39;<a href="http://localhost/keyword/%E5%85%AD%E5%90%88%E9%A7%85">六合駅</a>&#39; - 島田駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://railway.jr-central.co.jp/station-guide/shizuoka/rokugo/index.html JR東海 <a href="http://localhost/keyword/%E5%85%AD%E5%90%88%E9%A7%85">六合駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+Category:島田市の鉄道駅<br />
+くこう<br />
+Category:東海旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:東海道線 (JR東海)<br />
+Category:1<a href="http://localhost/keyword/986%E5%B9%B4">986年</a>開業の鉄道駅<br />
+<br />

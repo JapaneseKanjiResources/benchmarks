@@ -1,0 +1,81 @@
+description<br />
+<br />
+<br />
+<br />
+|所属事業者 = 21px大阪高速鉄道（大阪モノレール）<br />
+|所属路線   = 大阪モノレール線（本線）<br />
+|キロ程     = 16.0<br />
+|起点駅     = <a href="http://localhost/keyword/%E5%A4%A7%E9%98%AA%E7%A9%BA%E6%B8%AF">大阪空港</a><br />
+|所在地     = 大阪府摂津市鶴野<br />
+|座標       = <br />
+|駅構造     = 高架駅<br />
+|ホーム     = 島式 1面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>（平成<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）8月22日<br />
+|廃止年月日 = <br />
+|乗車人員   = <br />
+|乗降人員   = 4,866<br />
+|統計年度   = 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a><br />
+|乗換       = <br />
+|備考       = <br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E6%91%82%E6%B4%A5%E9%A7%85">摂津駅</a>&#39;（せっつえき）は、大阪府摂津市鶴野にある大阪高速鉄道大阪モノレール線（本線）の駅のことである。駅番号は&#39;21&#39;。<br />
+<br />
+日本国内の鉄道駅において、<a href="http://localhost/keyword/%E6%97%A7%E5%9B%BD%E5%90%8D">旧国名</a>と同一の市名を冠する駅で「〜市駅」ではない駅は現在、当駅を除けば北海道にある3駅北見駅、釧路駅、根室駅の3駅。のみである19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>3月までは名鉄美濃町線に美濃駅があった。また、JR常磐線・磐越東線にはいわき駅があるが、いわき市の由来は磐城国だけではないため、厳密には該当しない。。<br />
+<br />
+== 駅構造 ==<br />
+島式ホーム1面2線を有する高架駅。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 摂津市役所<br />
+* 摂津市消防本部<br />
+* 摂津市立青少年運動広場 - 摂津まつりの会場となる。<br />
+* 摂津市立環境センター<br />
+* 摂津市立温水プール<br />
+* 摂津市立三宅柳田小学校<br />
+* 摂津市立味舌小学校<br />
+* 星翔高等学校<br />
+* ローソン モノレール<a href="http://localhost/keyword/%E6%91%82%E6%B4%A5%E9%A7%85">摂津駅</a>前店<br />
+* 日本出版販売 関西サービスセンター<br />
+* 塩野義製薬 摂津工場、医科学研究所<br />
+* 梅丹本舗 本社<br />
+* 独立行政法人高齢・障害・求職者雇用支援機構大阪支部 関西職業能力開発促進センター（愛称：ポリテクセンター関西）<br />
+* 摂津市商工会館<br />
+* 北大阪流通業務団地<br />
+* <a href="http://localhost/keyword/%E8%BF%91%E7%95%BF%E8%87%AA%E5%8B%95%E8%BB%8A%E9%81%93">近畿自動車道</a> 摂津北インターチェンジ<br />
+* 新幹線鳥飼車両基地<br />
+* JR貨物 東海道本線貨物支線 大阪貨物ターミナル駅<br />
+* 阪急京都線 摂津市駅とは約1km離れている（阪急京都線の乗換には南茨木駅が至便）。<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）度の1日平均の乗降客数は&#39;4,866人&#39;である。<br />
+<br />
+各年度の1日平均乗車・乗降人員数は下表のとおり。<br />
+<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>8月22日 - 大阪モノレール線南茨木・門真市間開通と同時に開業。<br />
+<br />
+== 隣の駅 ==<br />
+; 大阪高速鉄道<br />
+: 大阪モノレール線（本線）<br />
+:: <a href="http://localhost/keyword/%E6%B2%A2%E8%89%AF%E5%AE%9C%E9%A7%85">沢良宜駅</a> (20) - &#39;<a href="http://localhost/keyword/%E6%91%82%E6%B4%A5%E9%A7%85">摂津駅</a> (21)&#39; - 南<a href="http://localhost/keyword/%E6%91%82%E6%B4%A5%E9%A7%85">摂津駅</a> (22)<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.osaka-monorail.co.jp/station/r21_settu.html 大阪モノレール（<a href="http://localhost/keyword/%E6%91%82%E6%B4%A5%E9%A7%85">摂津駅</a>）]<br />
+<br />
+<br />
+<br />
+<br />
+Category:大阪府の鉄道駅<br />
+つつ<br />
+Category:大阪高速鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>開業の鉄道駅<br />
+せつつえき<br />

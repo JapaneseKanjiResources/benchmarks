@@ -1,0 +1,107 @@
+description<br />
+<br />
+<br />
+<br />
+<br />
+&#39;<a href="http://localhost/keyword/ACOS">ACOS</a>&#39;（&#39;エイコス&#39;）は日本電気 (NEC) が開発・販売しているオペレーティングシステム（OS）およびそれを搭載するメインフレームのこと。「<a href="http://localhost/keyword/ACOS">ACOS</a>」は英語の「」および「」の頭文字に由来する『日本電気株式会社百年史』, p514.。<br />
+<br />
+== 概要 ==<br />
+<a href="http://localhost/keyword/ACOS">ACOS</a>はNEAC-シリーズ2200の置き換えを狙って新たに開発されたメインフレームおよびOSで、1<a href="http://localhost/keyword/974%E5%B9%B4">974年</a>5月に&#39;<a href="http://localhost/keyword/ACOS">ACOS</a>シリーズ77&#39;としてシステム200、300、400の3機種を発表、同年12月に出荷が開始された。<br />
+<br />
+NEAC-シリーズ2200では処理単位は可変長なキャラクタ単位であったが、<a href="http://localhost/keyword/ACOS">ACOS</a>では小型機・中型機は8ビット・バイト単位、大型機は36ビット・ワード単位に統一した。ソフトウェアで行っていた複雑な処理やハードウェアで制御していた部分はROMの中に組み込んでファームウェア化した。また、新たに仮想記憶とプロセスの概念を持ち込み、1台のコンピュータを時間的・空間的に共有するTSSを導入した（この機能はG<a href="http://localhost/keyword/COS">COS</a>に由来する）。主記憶装置は磁気コアメモリからMOSメモリに変更し、論理素子にTTL-ICを用いることで信頼性を向上しつつ高速化と小型化を実現した。<br />
+<br />
+NEAC-シリーズ2200の後継機種が長い間不在だったことやOSの開発が遅れたことにより、出荷当初の市場の反応は芳しくなかった。しかしその後、高性能機や価格性能比（コストパフォーマンス）が優れた新機種を投入して徐々に注目を集め、売り上げを伸ばしていった。そして19<a href="http://localhost/keyword/80%E5%B9%B4">80年</a>にメインフレームのメーカー別国内シェアで第3位、1<a href="http://localhost/keyword/986%E5%B9%B4">986年</a>には第2位にまで上り詰めた。<br />
+<br />
+19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>代に入ってバブルが崩壊すると性能よりも価格性能比を優先する傾向が一段と強くなった。そこでNECは従来のバイポーラ素子に代わってCMOS素子を用いて演算プロセッサを1チップ化し、これを複数個用いて並列処理を行う&#39;パラレル<a href="http://localhost/keyword/ACOS">ACOS</a>シリーズ&#39;を開発。1<a href="http://localhost/keyword/994%E5%B9%B4">994年</a>5月に最初の小型機 &#39;AX7300&#39; を発表した。パラレル<a href="http://localhost/keyword/ACOS">ACOS</a>シリーズは現在も開発および販売が続けられている。<br />
+<br />
+== 開発の経緯 ==<br />
+1<a href="http://localhost/keyword/950%E5%B9%B4">950年</a>代のパラメトロンコンピュータやFONTAC(富士通/沖/NEC共同コンピュータ)の流れの中、19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>代半ばに始まる通産省主体の大型プロジェクト超高性能電子計算機開発計画において、IBMなどの海外のコンピュータベンダに依らない日本独自のコンピュータシステムを構築すべく、NEC/日立製作所/富士通/東京芝浦電気（東芝）/沖電気/松下通信工業（松下）/三菱電機などに通産省の元でコンピュータシステムの開発を進めさせた。松下などは、コンピュータはまだ商売にならないと判断して早々と撤退を行ったが、それ以外のベンダはコンピュータの開発にしのぎを削っていく事になる。<br />
+<br />
+その後、日本では1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>4月に米国からの圧力などで<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>後のコンピュータの輸入自由化が決定された。通商産業省は、当時の国内コンピュータメーカーの体力ではIBMを初めとする海外メーカーに日本市場を席巻され打撃を受けるとして、当時6社あったコンピュータ業界の再編に乗り出した。富士通と日立、三菱電機と沖電気、それに東芝とNECの3グループにまとめ、技術研究組合を作らせて<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>間にわたって補助金を支給し、各社に「IBM対抗機」の開発に当たらせた。<br />
+<br />
+当時NECがハネウェル社から、東芝がジェネラル・エレクトリック社 (GE) から、それぞれ技術供与を受けてコンピュータを開発していた。ところが、1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>にGEはコンピュータ事業から撤退して事業をハネウェルに売却し、ハネウェルは統合したコンピュータ部門をハネウェル・インフォメーション・システムズ社 (HIS) として独立させた。このため、同社と提携するNECと東芝がグループを組むことになった。<br />
+<br />
+両社は共同開発にあたり、小型機と中型機をNECで、また大型機を東芝で、それぞれ開発を分担した。中型機向けのOS <a href="http://localhost/keyword/ACOS">ACOS</a>-4 はHIS社から技術供与を受ける予定だったが、HIS社の度重なる計画変更や開発・改良の中止によりやがてNECが単独で小型機向けの<a href="http://localhost/keyword/ACOS">ACOS</a>-2と共に開発を進めてゆくことになった。当初システム200にはHIS社が開発した<a href="http://localhost/keyword/ACOS">ACOS</a>-2が使用されたが、1<a href="http://localhost/keyword/975%E5%B9%B4">975年</a>10月からNECが独自に改良した<a href="http://localhost/keyword/ACOS">ACOS</a>-2が提供された。<a href="http://localhost/keyword/ACOS">ACOS</a>-4は予定通り同年10月から提供された。大型機向けのOSは東芝がHIS社から提供されたG<a href="http://localhost/keyword/COS">COS</a>-3を<a href="http://localhost/keyword/ACOS">ACOS</a>-6として出荷した。<br />
+<br />
+その後HIS社は仮想記憶機能を持つOSの改良を中止したが、東芝はHIS社とは別に仮想記憶機能をもつ<a href="http://localhost/keyword/ACOS">ACOS</a>-6の開発を進めていた。しかし1<a href="http://localhost/keyword/978%E5%B9%B4">978年</a>2月に東芝は中・大型機から撤退することになった。このためNECはアーキテクチャが異なるOSを同時に開発・改良していくことになり、資金や技術者の不足といった問題に直面した。そこで<a href="http://localhost/keyword/ACOS">ACOS</a>-2/4と<a href="http://localhost/keyword/ACOS">ACOS</a>-6の両OSを共通化することで費用削減を図る一方、多くの人員を営業部門に配転し販売力を強化した。こうしてHIS社への依存から離脱して自主開発体制を確立した。<br />
+<br />
+このような経緯により出荷当初の市場の反応はよくなかった。しかし、IBMのメインフレームの新機種 IBM 4331 の発表に対抗して1週間後に発表された&#39;システム250&#39;、当時世界最高速の15MIPSの演算能力を持った&#39;システム1000&#39;といった新機種を投入して注目を集め、売り上げを伸ばしていった。そして19<a href="http://localhost/keyword/80%E5%B9%B4">80年</a>にメインフレームのメーカー別国内シェアで第3位に、1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a>に念願の黒字化を達成し、1<a href="http://localhost/keyword/986%E5%B9%B4">986年</a>にはシェアで富士通に次ぐ第2位にまで回復した。<br />
+<br />
+<a href="http://localhost/keyword/ACOS">ACOS</a>-2と<a href="http://localhost/keyword/ACOS">ACOS</a>-4はバイトマシン、<a href="http://localhost/keyword/ACOS">ACOS</a>-6はワードマシンと互いに大きく異なるアーキテクチャのシステムになったため、部分共通化を図った後もその差異は大きかった。それが両OS間でのソフトウェア資産の移行を難しくしたほか、ソフトウェア開発にも大きな負担をかけることになった。<br />
+<br />
+== ハードウェア ==<br />
+=== <a href="http://localhost/keyword/ACOS">ACOS</a>シリーズ(販売終了) ===<br />
+* &#39;<a href="http://localhost/keyword/ACOS">ACOS</a>-2系&#39;：小型機<br />
+**&#39;システム200&#39;（1<a href="http://localhost/keyword/974%E5%B9%B4">974年</a>5月）：<a href="http://localhost/keyword/ACOS">ACOS</a>-4系との互換性を維持しつつLSIなどを使用して小型化。<br />
+**&#39;システム250&#39;（1<a href="http://localhost/keyword/979%E5%B9%B4">979年</a>2月）：機能分散プロセッサ構成。LSIを全面採用して価格性能比を向上させ、ベストセラーとなった。<br />
+**&#39;システム410&#39;（1<a href="http://localhost/keyword/983%E5%B9%B4">983年</a>4月）：システム250の後継<br />
+**&#39;システム3300&#39;（1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>7月）：システム410の後継<br />
+* &#39;<a href="http://localhost/keyword/ACOS">ACOS</a>-4系&#39;：ハネウェルの技術による32bit・バイトマシン。中型機からスタートして次第に大型機・超大型機に発展。<br />
+**&#39;システム300、400&#39;（1<a href="http://localhost/keyword/974%E5%B9%B4">974年</a>5月）：<a href="http://localhost/keyword/%E3%83%9E%E3%83%AB%E3%83%81%E3%82%BF%E3%82%B9%E3%82%AF">マルチタスク</a>、セグメント方式の導入。<br />
+**&#39;システム500&#39;（1<a href="http://localhost/keyword/975%E5%B9%B4">975年</a>6月）：上位機。Bull（当時、ハネウェルの子会社）との共同開発が中止され、発売が遅れた。<br />
+**&#39;システム350、450、550&#39;（1<a href="http://localhost/keyword/979%E5%B9%B4">979年</a>10月）：システム300、400、500の後継。マルチプロセッサ、ページング方式。<br />
+**&#39;システム750&#39;（1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a>6月）：BullへOEM供給<br />
+**&#39;システム950&#39;（1<a href="http://localhost/keyword/983%E5%B9%B4">983年</a>5月）<br />
+**&#39;システム430&#39;（1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>2月）：システム350の後継<br />
+**&#39;システム610、630&#39;（1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>4月）：システム450、550の後継<br />
+**&#39;システム1500&#39;（1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>2月）：当時、世界最高速の130MIPS。<br />
+**&#39;システム910&#39;（1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>1月）：システム750の後継<br />
+**&#39;システム3400&#39;（19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>7月）：システム430の後継<br />
+**&#39;システム3600&#39;（19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>2月）：システム610、630の後継<br />
+**&#39;システム3800&#39;（19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>7月）：当時、世界最高速の500MIPS。<br />
+**&#39;システム3500&#39;（1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a>10月）：システム3400の後継<br />
+* &#39;<a href="http://localhost/keyword/ACOS">ACOS</a>-6系&#39;：GEの技術による36bit・ワードマシン。大型～超大型機<br />
+**&#39;システム600、700&#39;（1<a href="http://localhost/keyword/974%E5%B9%B4">974年</a>11月）：TOSBAC-5600互換でアーキテクチャを強化。仮想記憶方式。キャッシュメモリを使用したマルチプロセッサ。<br />
+**&#39;システム800、900&#39;（19<a href="http://localhost/keyword/76%E5%B9%B4">76年</a>）：プロセッサの二重化。900ではさらに浮動小数点演算を強化。当初、ハネウェルとの共同開発だったが、設計方針の違いから日本電気独自で開発。<br />
+**&#39;システム1000&#39;（19<a href="http://localhost/keyword/80%E5%B9%B4">80年</a>9月）：当時、世界最高速の15MIPS。また、初めて日本電気からハネウェルへOEM供給した（ただし、契約が締結された翌年にハネウェルはコンピュータ事業から撤退）。<br />
+**&#39;システム650&#39;（1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a>6月）：システム600の後継<br />
+**&#39;システム850&#39;（1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a>1月）：システム800の後継<br />
+**&#39;システム2000&#39;（1<a href="http://localhost/keyword/986%E5%B9%B4">986年</a>2月）：当時、世界最高速の170MIPS。液冷方式を採用。<br />
+**&#39;システム830、930&#39;（1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>1月）：システム650、850の後継<br />
+**&#39;システム3700&#39;（1<a href="http://localhost/keyword/991%E5%B9%B4">991年</a>3月）：システム830の後継<br />
+**&#39;システム3900&#39;（1<a href="http://localhost/keyword/991%E5%B9%B4">991年</a>3月）：システム930、2000の後継<br />
+<br />
+=== パラレル<a href="http://localhost/keyword/ACOS">ACOS</a>シリーズ(現行機種) ===<br />
+*i-PX7300シリーズ: インテルXeonプロセッサによる<a href="http://localhost/keyword/ACOS">ACOS</a>-2系対応の小型機<br />
+*i-PX7600シリーズ: 独自CMOSプロセッサ(NOAH-4)による<a href="http://localhost/keyword/ACOS">ACOS</a>-4系OS対応の中型機<br />
+*i-PX7800シリーズ: 独自64ビットCMOSプロセッサ(NOAH-5)による<a href="http://localhost/keyword/ACOS">ACOS</a>-4系OS対応の大型機<br />
+*i-PX9000シリーズ: インテル Itanium 2プロセッサによる<a href="http://localhost/keyword/ACOS">ACOS</a>-4系OS対応の中小規模向け機から大型機<br />
+*PX-7900シリーズ: 独自CMOSプロセッサ(NOAH-3)による<a href="http://localhost/keyword/ACOS">ACOS</a>-6系OS対応の大型機<br />
+<br />
+==== IPF版<a href="http://localhost/keyword/ACOS">ACOS</a> ====<br />
+200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>8月に発表されたNECのサーバ戦略によれば、<a href="http://localhost/keyword/ACOS">ACOS</a>-4系のCPUを独自CMOSプロセッサ（NOAHシリーズ）からIPF(インテルのItaniumプロセッサファミリ）に転換し、従来版<a href="http://localhost/keyword/ACOS">ACOS</a>-4のバイナリをエミュレーションにより、またItaniumネイティブの<a href="http://localhost/keyword/ACOS">ACOS</a>-4のほか、Windows、Linux、HP-UXを実行できるシリーズを200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>度に発表した。これにより従来の<a href="http://localhost/keyword/ACOS">ACOS</a>ソフトウェア資産を生かしつつ現代の業界標準のソフトウェアに徐々に移行可能であるとしている。なお、このサーバー戦略を実現する機種として、i-PX9000シリーズを200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>10月07日に発表している。<br />
+<br />
+==== 独自プロセッサへの再転換 ====<br />
+20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>6月、NECは、大型機においてそれまでのItaniumによる実装から、独自プロセッサNOAH-6に切り替えた新モデルi-PX9800/A100を発表した。http://www.itmedia.co.jp/enterprise/articles/1206/28/news082.html<br />
+<br />
+== OS ==<br />
+初期の版を発売後、版を重ねるにつれて名称の変更や派生版を生じている。<br />
+* <a href="http://localhost/keyword/ACOS">ACOS</a>-2系：小型機向け、<a href="http://localhost/keyword/ACOS">ACOS</a>-4のサブセット（8ビットバイト・32ビットワード という点は共通）<br />
+* <a href="http://localhost/keyword/ACOS">ACOS</a>-4系：中型機向け、8ビットバイト・32ビットワード<br />
+* <a href="http://localhost/keyword/ACOS">ACOS</a>-6系：大型機向け、9ビットバイト・36ビットワード<br />
+詳細はそれぞれの記事を参照。<br />
+<br />
+== その他 ==<br />
+以前は日電東芝情報システム(通称 NTIS)も販売していたが、東芝が提携を解消したため(会社名は広く知れ渡っているNTISを活かす形でNECトータルインテグレーションサービス株式会社に変更、その後200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>10月に日本電気とNECネクサソリューションズに全事業を譲渡して事実上吸収される)、現在は日本電気のみが販売を行なっている。<br />
+<br />
+== 関連項目 ==<br />
+*G<a href="http://localhost/keyword/COS">COS</a><br />
+*NEAC<br />
+*三大コンピューターグループ<br />
+<br />
+== 脚注・出典 ==<br />
+<br />
+<br />
+== 参考文献 ==<br />
+*<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.nec.co.jp/products/acosclub/index.html <a href="http://localhost/keyword/ACOS">ACOS</a>シリーズポータルサイト] - NEC<br />
+** [http://www.nec.co.jp/press/ja/0410/0701.html 次世代大型メインフレームサーバ<a href="http://localhost/keyword/ACOS">ACOS</a>シリーズ「i-PX9000」の発売について] - プレスリリース(200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>10月7日付)<br />
+** [http://www.nec.co.jp/press/ja/0512/0602.html オープン系OS対応を強化した基幹サーバ「i-PX9000／SXモデル」の発売] - プレスリリース(200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>12月6日付)<br />
+* [http://museum.ipsj.or.jp/computer/os/nec/genealogy.html 日本電気メインフレーム用OSの系譜図] - コンピュータ博物館（情報処理学会）<br />
+<br />
+Category:メインフレームのオペレーティングシステム<br />
+Category:メインフレーム<br />
+Category:日本電気の製品<br />
+Category:1<a href="http://localhost/keyword/974%E5%B9%B4">974年</a>のソフトウェア<br />

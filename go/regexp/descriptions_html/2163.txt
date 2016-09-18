@@ -1,0 +1,105 @@
+description<br />
+<br />
+（岡山 - 鳥取間）<br />
+|journeytime=<br />
+|frequency=6往復<br />
+|trainnumber=<br />
+|line_used=JR西日本：山陽本線因美線山陰本線<a href="http://localhost/keyword/%E6%99%BA%E9%A0%AD%E6%80%A5%E8%A1%8C">智頭急行</a>：<a href="http://localhost/keyword/%E6%99%BA%E9%A0%AD%E6%80%A5%E8%A1%8C">智頭急行</a>智頭線<br />
+|class=普通車<br />
+|access=<br />
+|seating=<br />
+|sleeping=<br />
+|autorack=<br />
+|catering=<br />
+|observation=<br />
+|entertainment=<br />
+|baggage=<br />
+|otherfacilities=<br />
+|stock=キハ187系気動車（後藤総合車両所）<br />
+|gauge=<br />
+|el=非電化<br />
+|speed=最高<br />
+|owners=<br />
+|routenumber=<br />
+|map=<br />
+|map_state=<br />
+}}<br />
+<br />
+&#39;スーパーいなば&#39;は、西日本旅客鉄道（JR西日本）および<a href="http://localhost/keyword/%E6%99%BA%E9%A0%AD%E6%80%A5%E8%A1%8C">智頭急行</a>が岡山駅 - 鳥取駅間を山陽本線・<a href="http://localhost/keyword/%E6%99%BA%E9%A0%AD%E6%80%A5%E8%A1%8C">智頭急行</a>智頭線・因美線経由で運行する特急列車である。<br />
+<br />
+== 概要 ==<br />
+急行「砂丘」が<a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a>・因美線経由で岡山県と鳥取県東部を結ぶ列車として役割を担っていたが、1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>11月29日に「いなば」が運転を開始しその役割を担うようになった。2003年10月1日にキハ187系が投入されたことにより、列車名が「スーパーいなば」に変更された。<br />
+<br />
+岡山駅 - 鳥取駅間については走行距離が<a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a>経由の「砂丘」は132.1kmであるのに対し、<a href="http://localhost/keyword/%E6%99%BA%E9%A0%AD%E6%80%A5%E8%A1%8C">智頭急行</a>経由の「いなば」は141.8kmと約10km長くなっているが、最高速度は「いなば」の方が速く、かつ線形の良い山陽本線・<a href="http://localhost/keyword/%E6%99%BA%E9%A0%AD%E6%80%A5%E8%A1%8C">智頭急行</a>智頭線を経由するので、所要時間は約30分短縮された。<br />
+<br />
+=== 列車名の由来 ===<br />
+鳥取県東部の<a href="http://localhost/keyword/%E6%97%A7%E5%9B%BD%E5%90%8D">旧国名</a>である因幡国が由来となっていることと、大阪方面から<a href="http://localhost/keyword/%E6%99%BA%E9%A0%AD%E6%80%A5%E8%A1%8C">智頭急行</a>智頭線を経由して運転している特急「スーパーはくと」の由来である日本神話の「因幡の白兎」（いなばのしろうさぎ）と関連づけている。<br />
+<br />
+== 運行概況 ==<br />
+20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>6月20日現在の運行概況は次の通り『JR時刻表』20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>7月号、交通新聞社。。<br />
+<br />
+全列車が岡山駅 - 鳥取駅間で、6往復が運転されている。この区間の所要時間は約1時間50分である。1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a>3月14日から2001年3月3日までは、1往復が鳥取駅 - 倉吉駅間で臨時列車として延長運転を行っていた。<br />
+<br />
+運転開始当初から車内販売はなく、飲料の自動販売機も設置されていない。寝台特急「出雲」廃止により、1号・12号は岡山駅で「サンライズ瀬戸」「サンライズ出雲」と接続を行い、鳥取県東部と首都圏の利便性を図る役割もある。<br />
+<br />
+列車番号は区間により異なり、岡山駅 - 上郡駅間は、下りは号数+2071の偶数、上りは号数+2069の奇数、上郡駅 - 鳥取駅間は、下りは号数+70の奇数、上りは号数+70の偶数となり、山陽本線内は列車番号の上下が逆転する。<br />
+<br />
+=== 停車駅 ===<br />
+岡山駅 - 上郡駅 - 佐用駅 - 大原駅 - 智頭駅 - 郡家駅 - 鳥取駅<br />
+* 用瀬駅には一部の列車が「流し雛行事」にあわせて臨時停車する - <a href="http://localhost/keyword/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93%E7%B1%B3%E5%AD%90%E6%94%AF%E7%A4%BE">西日本旅客鉄道米子支社</a>プレスリリース 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>1月20日。<br />
+<br />
+=== 使用車両・編成 ===<br />
+<br />
+|-<br />
+|style=&#34;text-align:left; font-size:80%;&#34;|<br />
+* 上郡でスイッチバック<br />
+* 全車禁煙<br />
+;凡例<br />
+: 指=普通車座席指定席<br />
+: 自=普通車自由席<br />
+|}<br />
+JR西日本の後藤総合車両所に所属するキハ187系のうち、ATS-Pが搭載されている500番台が充当されている。これは<a href="http://localhost/keyword/%E6%99%BA%E9%A0%AD%E6%80%A5%E8%A1%8C">智頭急行</a>線がATS-Pを整備しているためである。<br />
+<br />
+キハ187系には、ほかに「スーパーまつかぜ」・「スーパーおき」で運用されている0番台・10番台があるが、ATS-Pが搭載されていないため、「スーパーいなば」には運用されない。ただし、中間車としての使用は可能で、多客期に実際に増結車として中間に組み込むことがあった。<br />
+<br />
+通常は2両編成でグリーン車は連結されていない。多客期は1両単位で増結されているが、専用車両は8両しかないため、2両編成3本と予備1本で運用され、最大4両編成での運用となる。ただ、過去に6両編成で運用されたことがあり、その時は、0番台・10番台を中間に組み込んでいた。<br />
+<br />
+=== 担当車掌区 ===<br />
+上郡駅から<a href="http://localhost/keyword/%E6%99%BA%E9%A0%AD%E6%80%A5%E8%A1%8C">智頭急行</a>線内は、運転士業務は<a href="http://localhost/keyword/%E6%99%BA%E9%A0%AD%E6%80%A5%E8%A1%8C">智頭急行</a>所属の乗務員が担当するが、車掌業務はJR西日本が受け持つ。<br />
+* 岡山車掌区<br />
+* 鳥取鉄道部<br />
+* <a href="http://localhost/keyword/%E6%99%BA%E9%A0%AD%E6%80%A5%E8%A1%8C">智頭急行</a>：鳥取駅 - 上郡駅間<br />
+<br />
+== 臨時列車 ==<br />
+過去に臨時列車として「ビクトリーいなば」が鳥取大学2次試験の日に岡山駅 - 鳥取<a href="http://localhost/keyword/%E5%A4%A7%E5%AD%A6%E5%89%8D%E9%A7%85">大学前駅</a>間で運転されていた[http://web.archive.org/web/19980205215336/http://www.westjr.co.jp/new/1press/n971017f.html 平成<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>《冬》の臨時列車の運転について 《主な臨時列車》在来線]（インターネット・アーカイブ）- 西日本旅客鉄道プレスリリース 1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>10月17日。試験に勝つようにという意味を込めた愛称で、受験生向けとして全車指定席とし、試験前日の昼間に鳥取大学前行きが運行され、当日の試験終了後の夕方に岡山行きが運行されていたが、その後の定期列車の増発により臨時列車の運行が困難となったことから、現在は運転されていない。<br />
+<br />
+== 沿革 ==<br />
+「いなば」（2003年、[[山陽本線岡山駅）]]<br />
+* 1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>（平成<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）11月29日：岡山駅 - 鳥取駅間で「いなば」3往復が運転開始。キハ181系気動車を使用。<br />
+* 2003年（平成<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）10月1日：ダイヤ改正により次のように変更[http://web.archive.org/web/20031001163934/www.westjr.co.jp/news/newslist/article/030730b.html 平成<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>秋 ダイヤ改正]（インターネット・アーカイブ）- 西日本旅客鉄道プレスリリース 2003年7月30日。<br />
+*# キハ187系が投入され、列車名が「&#39;スーパーいなば&#39;」に変更。<br />
+*# 2往復増発され、「スーパーいなば」は5往復になる。<br />
+* 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>（平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）3月18日：寝台特急「出雲」廃止に伴い、鳥取県東部と首都圏の利便性を図るため、岡山駅 - 鳥取駅間で、毎日運転の臨時列車として上郡駅で「サンライズ瀬戸」「サンライズ出雲」と接続する91・92号（「サンライズリレー号」）が1往復増発[http://web.archive.org/web/20060203031421/http://www.westjr.co.jp/news/newslist/article/060130b.html 平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>3月18日ダイヤ改正]（インターネット・アーカイブ）- 西日本旅客鉄道プレスリリース 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>1月30日。なお、東京発3月17日の下り「出雲」は運行されたため、上り（92号）が3月18日から、下り（91号）が3月19日から運転された。<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）3月18日：喫煙コーナーの使用が停止され、全車禁煙になる（インターネット・アーカイブ） - 西日本旅客鉄道プレスリリース 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>12月22日。<br />
+* 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>（平成<a href="http://localhost/keyword/21%E5%B9%B4">21年</a>）8月10日 - 28日：台風9号接近に伴う豪雨で<a href="http://localhost/keyword/%E6%99%BA%E9%A0%AD%E6%80%A5%E8%A1%8C">智頭急行</a>智頭線の線路に土砂が流れ込み、運休になる[http://www.kobe-np.co.jp/rentoku/shakai/gou09/0002298305.shtml <a href="http://localhost/keyword/%E6%99%BA%E9%A0%AD%E6%80%A5%E8%A1%8C">智頭急行</a>が全面復旧 豪雨被害で20日ぶり] - 神戸新聞 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>8月29日。<br />
+* 20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>（平成<a href="http://localhost/keyword/22%E5%B9%B4">22年</a>）3月13日：従来「サンライズリレー号」として運行されていた91・92号が定期列車化。1号・12号となり、「サンライズ瀬戸」「サンライズ出雲」との接続が岡山駅に変更。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* スーパーはくと - <a href="http://localhost/keyword/%E6%99%BA%E9%A0%AD%E6%80%A5%E8%A1%8C">智頭急行</a>線を経由し、鳥取県と京阪神を結ぶ特急列車<br />
+* 石破茂 - 鉄道好きとして知られる政治家であり、地元である鳥取県と東京都の往復に「スーパーいなば」と「サンライズ出雲・瀬戸」を利用。<br />
+<br />
+== 外部リンク ==<br />
+*　<br />
+<br />
+<br />
+<br />
+<br />
+Category:日本の特急列車<br />
+なは<br />
+Category:西日本旅客鉄道の列車<br />
+列いなは<br />
+Category:日本国有鉄道の列車<br />

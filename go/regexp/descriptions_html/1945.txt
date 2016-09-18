@@ -1,0 +1,60 @@
+description<br />
+<br />
+、属格:<br />
+ |symbology = The Little Bear<br />
+ |RA = 15<br />
+ |dec = +75<br />
+ |culmination date = 6月25日21時<br />
+ |areatotal = 256<br />
+ |arearank = 56<br />
+ |numbermainstars = 7<br />
+ |numberbfstars = 23<br />
+ |numberstarsplanets = 1<br />
+ |numberbrightstars = 2<br />
+ |numbernearbystars = 0<br />
+ |brighteststarname = ポラリス（&amp;alpha; UMi）<br />
+ |starmagnitude = 2.005<br />
+ |neareststarname = &amp;pi;1 UMi<br />
+ |stardistance = 70.8<br />
+ |numbermessierobjects = 0<br />
+ |meteorshowers = <a href="http://localhost/keyword/%E3%81%93%E3%81%90%E3%81%BE%E5%BA%A7">こぐま座</a>流星群<br />
+ |bordering = りゅう座きりん座ケフェウス座<br />
+ |notes = <br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E3%81%93%E3%81%90%E3%81%BE%E5%BA%A7">こぐま座</a>&#39;（小熊座、Ursa Minor）は、北天の星座で、トレミーの48星座の1つ。北半球では1年中見ることができる。<br />
+<br />
+小北斗七星と呼ばれる事がある[http://www.geocities.jp/kanotuno/tuusinn/sirube.htm 「道しるべ」～導く星☆<a href="http://localhost/keyword/%E5%8C%97%E6%A5%B5%E6%98%9F">北極星</a>～]鹿角平天文台通信。<br />
+<br />
+&amp;alpha;星の&#39;ポラリス&#39;は、現在の&#39;<a href="http://localhost/keyword/%E5%8C%97%E6%A5%B5%E6%98%9F">北極星</a>&#39;である。<br />
+<br />
+== 主な天体 ==<br />
+=== 恒星 ===<br />
+<br />
+&amp;alpha;星、β星の2つの2等星がある。<br />
+* &amp;alpha;星：ポラリス。この星は三重連星であるが、光度差が大きく望遠鏡でも見分けにくい。<br />
+* &amp;beta;星：コカブは、紀元前1<a href="http://localhost/keyword/500%E5%B9%B4">500年</a>から紀元前<a href="http://localhost/keyword/500%E5%B9%B4">500年</a>頃にかけて天の北極の近くにあり当時<a href="http://localhost/keyword/%E5%8C%97%E6%A5%B5%E6%98%9F">北極星</a>として使われていた。<br />
+* &amp;gamma;星：フェルカド：3等星。<br />
+&amp;beta;星と&amp;gamma;星は「矢来（やらい・楯がわりの柵）星」とも呼ばれた。北斗七星を矢に見立て、それから星達を守っているという意味である。<br />
+<br />
+== 由来と歴史 ==<br />
+紀元前6世紀の古代ギリシアの天文学者タレスが設定した星座だとされるが、これ以前に船乗りたちが方位を見つけるためにこの星座を使っていたのは確かである。その後古代においては忘れ去られ、長く&#39;ドラゴンの翼座&#39;(近くにりゅう座があるため)と呼ばれた。そのほかのさまざまな文明でも、天の北極がここにあると認識されていた。<br />
+<br />
+== 神話 ==<br />
+ギリシア神話による由来は<a href="http://localhost/keyword/%E3%81%8A%E3%81%8A%E3%81%90%E3%81%BE%E5%BA%A7">おおぐま座</a>を参照。<br />
+<br />
+== 出典 ==<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+*<br />
+Category:天文学に関する記事<br />

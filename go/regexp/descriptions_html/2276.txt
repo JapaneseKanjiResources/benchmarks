@@ -1,0 +1,77 @@
+description<br />
+&#39;TI 33&#39;<br />
+|所属事業者 = 32px 東武鉄道<br />
+|所属路線 = TI 佐野線<br />
+|キロ程 = 9.0<br />
+|起点駅 = 館林<br />
+|所在地 = 栃木県佐野市上台町2164<br />
+|緯度度=36|緯度分=18|緯度秒=21.80<br />
+|経度度=139|経度分=34|経度秒=30.63<br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面3線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/914%E5%B9%B4">914年</a>（大正3年）8月2日<br />
+|廃止年月日 =<br />
+|乗車人員 =<br />
+|乗降人員 = 764<br />
+|統計年度 = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|乗換 =<br />
+|備考 = 1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a>（昭和<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）4月1日 佐野町駅から改称<br />
+}}<br />
+構内遠景（200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>3月）<br />
+&#39;<a href="http://localhost/keyword/%E4%BD%90%E9%87%8E%E5%B8%82%E9%A7%85">佐野市駅</a>&#39;（さのしえき）は、栃木県佐野市上台町にある東武鉄道佐野線の駅である。特急「りょうもう」停車駅。駅番号は&#39;TI 33&#39;。<br />
+<br />
+== 年表 ==<br />
+* 1<a href="http://localhost/keyword/914%E5%B9%B4">914年</a>（大正3年）8月2日 &#39;佐野町駅&#39;として開業。<br />
+* 1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a>（昭和<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）4月1日 &#39;<a href="http://localhost/keyword/%E4%BD%90%E9%87%8E%E5%B8%82%E9%A7%85">佐野市駅</a>&#39;に改称。<br />
+<br />
+== 駅構造 ==<br />
+相対式ホーム2面3線の地上駅。中線は待避線であったが、貨物輸送が廃止されてからは使用されていない。駅舎は葛生方面ホーム側に立地し、館林方面ホームとは地下道により連絡している。葛生方面行きの列車では東日本旅客鉄道（JR東日本）両毛線との乗換駅は当駅ではなく隣の佐野駅である旨のアナウンスがあり、葛生方面ホームには注意書きも掲出されている。<br />
+<br />
+駅スタンプを常備しており、利用時は改札口に申し出ると利用できる。<br />
+<br />
+200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>（平成<a href="http://localhost/keyword/21%E5%B9%B4">21年</a>）6月5日までは当駅始発・終着列車が上下1本ずつ設定されていたが、翌6月6日実施のダイヤ改正により佐野駅始発・終着に変更された。<br />
+<br />
+==== のりば ====<br />
+<br />
+<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>度の1日平均乗降人員は&#39;764人&#39;である[http://www.tobu.co.jp/corporation/rail/station_info/ 駅情報（乗降人員) | 企業情報 | 東武鉄道ポータルサイト] 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>4月5日閲覧。。<br />
+<br />
+近年の1日平均乗降人員の推移は下表のとおりである。佐野厄除け大師の最寄駅である。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 佐野警察署<br />
+* 佐野市文化会館<br />
+* 佐野七軒町郵便局<br />
+* 佐野植上郵便局<br />
+* 惣宗寺（佐野厄除け大師）<br />
+* セントラルスポーツクラブ佐野（旧・東武スポーツクラブ さの）<br />
+<br />
+== 隣の駅 ==<br />
+; 32px 東武鉄道<br />
+: TI 佐野線<br />
+:* 特急「りょうもう」停車駅<br />
+:: 普通<br />
+::: 田島駅（TI 32） - &#39;<a href="http://localhost/keyword/%E4%BD%90%E9%87%8E%E5%B8%82%E9%A7%85">佐野市駅</a>（TI 33）&#39; - 佐野駅（TI 34）<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 日本の鉄道駅一覧<br />
+* 市駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.tobu.co.jp/station/info/2404.html 東武鉄道 <a href="http://localhost/keyword/%E4%BD%90%E9%87%8E%E5%B8%82%E9%A7%85">佐野市駅</a>]<br />
+<br />
+<br />
+<br />
+Category:栃木県の鉄道駅<br />
+のし<br />
+Category:東武鉄道の鉄道駅<br />
+さのしえき<br />
+Category:1<a href="http://localhost/keyword/914%E5%B9%B4">914年</a>開業の鉄道駅<br />

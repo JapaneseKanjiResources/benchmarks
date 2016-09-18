@@ -1,0 +1,54 @@
+description<br />
+陸羽東線<br />
+|キロ程 = 50.0<br />
+|起点駅 = 小牛田<br />
+|所在地 = 宮城県大崎市鳴子温泉字星沼79<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/917%E5%B9%B4">917年</a>（大正<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）11月1日<br />
+|廃止年月日 =<br />
+|乗車人員 =<br />
+|乗降人員 =<br />
+|統計年度 =<br />
+|乗換 =<br />
+|備考 = 無人駅* 1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>に中山平駅から改称<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E4%B8%AD%E5%B1%B1%E5%B9%B3%E6%B8%A9%E6%B3%89%E9%A7%85">中山平温泉駅</a>&#39;（なかやまだいらおんせんえき）は、宮城県大崎市鳴子温泉字星沼にある、東日本旅客鉄道（JR東日本）陸羽東線の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/917%E5%B9%B4">917年</a>（大正<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）11月1日 - &#39;中山平駅&#39;（なかやまだいらえき）として開業。<br />
+* 1<a href="http://localhost/keyword/983%E5%B9%B4">983年</a>（昭和<a href="http://localhost/keyword/58%E5%B9%B4">58年</a>）3月7日 - 交換設備撤去、簡易委託化（駅前商店）。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）2月 - 委託先欠札状態により簡易委託休止（のちに廃止）。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、JR東日本の駅となる。<br />
+* 1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>（平成<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）3月22日 - &#39;<a href="http://localhost/keyword/%E4%B8%AD%E5%B1%B1%E5%B9%B3%E6%B8%A9%E6%B3%89%E9%A7%85">中山平温泉駅</a>&#39;に改称。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を有する地上駅である。かつては島式ホーム1面2線であったが1<a href="http://localhost/keyword/983%E5%B9%B4">983年</a>CTC化により駅舎側の1線が撤去され、現在は旧下り線を使用している。コンクリート製の、待合室兼用の駅舎がある。<br />
+<br />
+鳴子温泉駅管理の無人駅。<br />
+<br />
+== 駅周辺 ==<br />
+駅前には道路沿いに商店や住宅がある。駅前にはC58 356機が<a href="http://localhost/keyword/%E9%9D%99%E6%85%8B%E4%BF%9D%E5%AD%98">静態保存</a>されている。<br />
+* 中山平簡易郵便局<br />
+* 中山平温泉<br />
+* 国道47号<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 陸羽東線<br />
+:: 鳴子温泉駅 - &#39;<a href="http://localhost/keyword/%E4%B8%AD%E5%B1%B1%E5%B9%B3%E6%B8%A9%E6%B3%89%E9%A7%85">中山平温泉駅</a>&#39; - 堺田駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=1115 JR東日本 <a href="http://localhost/keyword/%E4%B8%AD%E5%B1%B1%E5%B9%B3%E6%B8%A9%E6%B3%89%E9%A7%85">中山平温泉駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+Category:大崎市の鉄道駅<br />
+かやまたいらおんせん<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/917%E5%B9%B4">917年</a>開業の鉄道駅<br />

@@ -1,0 +1,65 @@
+description<br />
+石巻線<br />
+|キロ程 = 30.9<br />
+|起点駅 = 小牛田<br />
+|所在地 = 宮城県石巻市井内字滝ノ口2<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/939%E5%B9%B4">939年</a>（昭和<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）10月7日<br />
+|廃止年月日 =<br />
+|乗車人員 = <br />
+|乗降人員 =<br />
+|統計年度 = <br />
+|乗換 =<br />
+|備考 = 無人駅（自動券売機 有）<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E9%99%B8%E5%89%8D%E7%A8%B2%E4%BA%95%E9%A7%85">陸前稲井駅</a>&#39;（りくぜんいないえき）は、宮城県石巻市井内字滝ノ口にある、東日本旅客鉄道（JR東日本）石巻線の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/939%E5%B9%B4">939年</a>（昭和<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）10月7日：鉄道省石巻線の駅として牡鹿郡稲井村に開業。<br />
+* 1<a href="http://localhost/keyword/959%E5%B9%B4">959年</a>（昭和<a href="http://localhost/keyword/34%E5%B9%B4">34年</a>）4月1日：稲井村が町制施行して稲井町となり、当駅は同町内となる。<br />
+* 1<a href="http://localhost/keyword/967%E5%B9%B4">967年</a>（昭和<a href="http://localhost/keyword/42%E5%B9%B4">42年</a>）3月23日：稲井町が石巻市に編入合併され、当駅は同市内となる。<br />
+* 1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>（昭和<a href="http://localhost/keyword/46%E5%B9%B4">46年</a>）4月1日：構内配線棒線化、無人化。 <br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日：国鉄分割民営化によりJR東日本の駅となる。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）3月11日：東北地方太平洋沖地震とそれに伴う大津波の影響により、全線で不通となる。<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）3月17日：石巻 - 渡波間復旧により営業再開 。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を有する地上駅である。石巻駅管理の無人駅。簡易自動券売機のみ設置。<br />
+<br />
+元は島式ホーム1面2線だったが、無人化した際に片側が撤去されて単式ホームになっている。同時期に駅舎（待合室）はカプセル型のものに建て替えられた。駅前には元石材店の土台が残る。<br />
+かつては駅の前に汲み取り式トイレがあった。<br />
+駅舎の隣には駐輪場がある。<br />
+<br />
+== 駅周辺 ==<br />
+* 石巻市役所稲井支所<br />
+* <a href="http://localhost/keyword/%E3%82%B3%E3%82%B3%E3%82%B9">ココス</a>トア井内店<br />
+* 稲井郵便局<br />
+* 宮城県道192号石巻雄勝線<br />
+* 真野川<br />
+* 旧北上川<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 石巻線<br />
+:: 石巻駅 - &#39;<a href="http://localhost/keyword/%E9%99%B8%E5%89%8D%E7%A8%B2%E4%BA%95%E9%A7%85">陸前稲井駅</a>&#39; - 渡波駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=1659 JR東日本 <a href="http://localhost/keyword/%E9%99%B8%E5%89%8D%E7%A8%B2%E4%BA%95%E9%A7%85">陸前稲井駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+Category:石巻市の鉄道駅<br />
+くせんいない<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/939%E5%B9%B4">939年</a>開業の鉄道駅<br />
+Category:石巻線<br />

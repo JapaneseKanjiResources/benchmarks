@@ -1,0 +1,76 @@
+description<br />
+<br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/909%E5%B9%B4">909年</a>（明治<a href="http://localhost/keyword/42%E5%B9%B4">42年</a>）12月28日*<br />
+|廃止年月日 =<br />
+|乗車人員 = 592<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|乗換 =<br />
+|備考 = 駅員無配置駅標高：720m<br />
+|備考全幅 = * 旧線上の停留場としての開業日。新線切り替え後一時廃止されていた。<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E5%AE%AE%E6%9C%A8%E9%A7%85">宮木駅</a>&#39;（みやきえき）は、長野県上伊那郡辰野町大字伊那富にある、東海旅客鉄道（JR東海）飯田線の駅である。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を有する地上駅。ホームは本線の西側にある。伊那市駅管理の無人駅で、駅舎はない。出入口は下り方向端にあり、ホーム中央付近に待合所がある。トイレは待合所横の階段下に設置されている。<br />
+<br />
+簡易委託駅であった頃には、現在の待合所奥にあった駅舎で入場券を含む硬券の切符を販売していた。<br />
+<br />
+== 利用状況 ==<br />
+「長野県統計書」によると、1日平均の乗車人員は以下の通りである。<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>度 - 593人<br />
+* 20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>度 - 576人<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>度 - 534人<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>度 - 536人<br />
+* 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>度 - 592人<br />
+<br />
+== 駅周辺 ==<br />
+駅前は東西に並木道路が整っており、商店もある。並木道路を東へ向かうと、天竜川を越え、辰野町立辰野中学校、徒歩15分程度で辰野町立辰野東小学校、信州豊南短期大学、長野県道19号伊那辰野停車場線 (竜東線)、中央自動車道辰野PAに繋がる。同道路を西へ向かうと、辰野町立辰野西小学校があり、徒歩10分で国道153号と交差する。<br />
+<br />
+北西側は辰野宮木郵便局を越えて、長野県辰野高等学校まで徒歩10分。北にはアルプス中央信用金庫宮木支店があり、南側にはいくつかの工場が集積している。<br />
+<br />
+かつて、駅東側にパルプ工場（南信パルプ：200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>6月30日解散）があり、製紙工場特有の臭いがホームにも漂っていた。駅西側に菓子製造工場があり、香ばしい臭いがホームにも漂っている。<br />
+* ファミリードラッグ辰野ファミリー薬局<br />
+* ほっともっと辰野店<br />
+<br />
+== 路線バス ==<br />
+* 辰野町営バス - 大石線：<a href="http://localhost/keyword/%E5%AE%AE%E6%9C%A8%E9%A7%85">宮木駅</a>前<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/909%E5%B9%B4">909年</a>（明治<a href="http://localhost/keyword/42%E5%B9%B4">42年</a>）12月28日 - 伊那電車軌道（1<a href="http://localhost/keyword/919%E5%B9%B4">919年</a>に伊那電気鉄道へ改称）が松島（現・伊那松島） - 辰野（のちの西町）間で開業した際に、の&#39;宮木停留場&#39;として設置。<br />
+* 1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>（大正<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）3月16日 - 伊那松島 - 辰野間の新線切り替えにより一旦廃止。<br />
+* 1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>（大正<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）7月24日 - 宮木停留場が新線上に再開業。旅客駅。<br />
+* 1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a>（昭和<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）8月1日 - 伊那電気鉄道線が飯田線の一部として国有化され、国鉄が継承。同時に駅に昇格し、&#39;<a href="http://localhost/keyword/%E5%AE%AE%E6%9C%A8%E9%A7%85">宮木駅</a>&#39;となる。<br />
+** 当時は、東海道本線浜松 - 名古屋間の各駅や飯田線の各駅、中央本線<a href="http://localhost/keyword/%E4%B8%8A%E8%AB%8F%E8%A8%AA">上諏訪</a> - 塩尻間の各駅、松本駅を発着する旅客のみ利用できた。<br />
+* 1<a href="http://localhost/keyword/954%E5%B9%B4">954年</a>（昭和<a href="http://localhost/keyword/29%E5%B9%B4">29年</a>）12月1日 - 東京都区内の各駅や長野駅を発着する旅客も利用可能となる。<br />
+* 1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>（昭和<a href="http://localhost/keyword/46%E5%B9%B4">46年</a>）4月1日 - 旅客発着駅の制限を撤廃。<br />
+* 1<a href="http://localhost/keyword/986%E5%B9%B4">986年</a>（昭和<a href="http://localhost/keyword/61%E5%B9%B4">61年</a>）ごろ - 簡易委託終了、無人化。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、東海旅客鉄道（JR東海）の駅となる。<br />
+* 1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a>（平成<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>）6月 - ホーム中央付近の業務委託施設を撤去。<br />
+<br />
+== 隣の駅 ==<br />
+; 東海旅客鉄道<br />
+: 飯田線<br />
+:: 快速（「みすず」以外の快速は通過）<br />
+::: 羽場駅 - （下りのみ伊那新町駅） - &#39;<a href="http://localhost/keyword/%E5%AE%AE%E6%9C%A8%E9%A7%85">宮木駅</a>&#39; - 辰野駅<br />
+:: 普通<br />
+::: 伊那新町駅 - &#39;<a href="http://localhost/keyword/%E5%AE%AE%E6%9C%A8%E9%A7%85">宮木駅</a>&#39; - 辰野駅<br />
+※国有化以前は、当駅と辰野駅の間に西町駅が存在した。<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+<br />
+Category:長野県の鉄道駅<br />
+やき<br />
+Category:伊那電気鉄道<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:東海旅客鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>開業の鉄道駅<br />
+みやきえき<br />
+Category:飯田線<br />

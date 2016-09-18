@@ -1,0 +1,16 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%83%BB%E3%83%95%E3%82%A9%E3%83%B3">ロボット・フォン</a>&#39;は、クマのぬいぐるみの形をしたIP電話。<br />
+<br />
+音声と共に、ぬいぐるみの形状データも送信できるので、コミュニケーションの幅が広がる。マルチモーダル・インタフェースの一例である。<br />
+<br />
+東京大学教授・舘暲氏が提唱するバーチャルリアリティのコンセプトである、R<a href="http://localhost/keyword/%E3%82%AD%E3%83%A5%E3%83%BC">キュー</a>ブ（リアルタイム・リモート・ロボティクス＝実時間・遠隔・ロボティクス）を取り入れたコミュニケーション・ツール。<br />
+<br />
+== 関連語 ==<br />
+*[http://www.star.t.u-tokyo.ac.jp/ 舘研究室]<br />
+*イワヤ（株）<br />
+*R<a href="http://localhost/keyword/%E3%82%AD%E3%83%A5%E3%83%BC">キュー</a>ブ<br />
+<br />
+<br />
+Category:ロボット<br />
+Category:電話機<br />
+<br />

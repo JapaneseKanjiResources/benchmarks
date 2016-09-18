@@ -1,0 +1,81 @@
+description<br />
+東山本線（1系統）<br />
+|キロ程 = 0.9<br />
+|起点駅 = 岡山駅前<br />
+|所在地 = 岡山市北区天神町・表町一丁目<br />
+| 緯度度 = 34|緯度分 = 39|緯度秒 = 56.29<br />
+| 経度度 = 133|経度分 = 55|経度秒 = 47.36<br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面2線<br />
+|開業年月日 =  1<a href="http://localhost/keyword/912%E5%B9%B4">912年</a>（明治<a href="http://localhost/keyword/45%E5%B9%B4">45年</a>）5月5日 <br />
+|廃止年月日 = <br />
+|乗車人員 = <br />
+|乗降人員 = <br />
+|統計年度 = <br />
+|乗換 = <br />
+|備考全幅   = * 改称経歴 - 1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a> 上之町駅→表町入口駅 - 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a> 表町入口駅→<a href="http://localhost/keyword/%E5%9F%8E%E4%B8%8B%E5%81%9C%E7%95%99%E5%A0%B4">城下停留場</a> <br />
+}}<br />
+岡山シンフォニーホール<br />
+後楽園と<a href="http://localhost/keyword/%E5%B2%A1%E5%B1%B1%E5%9F%8E">岡山城</a><br />
+<br />
+&#39;<a href="http://localhost/keyword/%E5%9F%8E%E4%B8%8B%E5%81%9C%E7%95%99%E5%A0%B4">城下停留場</a>&#39;（しろしたていりゅうじょう）は岡山県岡山市北区天神町および表町一丁目にある岡山電気軌道東山本線の停留場である。後楽園および<a href="http://localhost/keyword/%E5%B2%A1%E5%B1%B1%E5%9F%8E">岡山城</a>の最寄駅である。<br />
+<br />
+== 構造 ==<br />
+島式ホーム1面2線。東山方に地下へ降りる階段があり、交差点の真下は「しろちか」という地下広場となっている。この地下広場は当停留場の目の前にある岡山シンフォニーホールに直結している他、後楽園、県立美術館方面に交差点を介さず行くことが可能である。<br />
+<br />
+== 周辺 ==<br />
+; 表町方面<br />
+* 宇野バス「表町入口」バス停<br />
+* 岡山県道27号岡山吉井線（桃太郎大通り、城下筋）<br />
+* 城下地下広場<br />
+* 城下地下駐車場<br />
+* 岡山シンフォニーホール<br />
+* 岡山表町商店街<br />
+* 岡山ランドリー本社<br />
+; 後楽園・<a href="http://localhost/keyword/%E5%B2%A1%E5%B1%B1%E5%9F%8E">岡山城</a>方面<br />
+* 烏城みち<br />
+* 岡山市民会館<br />
+* 心臓病センター榊原病院<br />
+* 岡山市立岡山後楽館中学校・高等学校<br />
+* 山陽放送本社<br />
+* 後楽園<br />
+* <a href="http://localhost/keyword/%E5%B2%A1%E5%B1%B1%E5%9F%8E">岡山城</a><br />
+* 夢二郷土美術館<br />
+; 天神町・石関町方面<br />
+* 岡電バス・宇野バス「美術館前」バス停<br />
+* 岡山県道400号後楽園線（城下筋）<br />
+* 日本経済新聞社岡山支局<br />
+* 両備不動産<br />
+* 岡山東税務署<br />
+* 岡山市立オリエント美術館<br />
+* 岡山県立美術館<br />
+* 岡山神社<br />
+* シネマ・クレール<br />
+<br />
+== 歴史 ==<br />
+<br />
+* 1<a href="http://localhost/keyword/912%E5%B9%B4">912年</a>（明治<a href="http://localhost/keyword/45%E5%B9%B4">45年</a>）5月5日 駅前（現：岡山駅前） - 御城下間の開通と同時に&#39;上之町停留場&#39;として、現在よりも約100m終点方に開業『日本鉄道旅行地図帳11号中国・四国』、新潮社、200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>、ISBN 978-4-10-790029-6より。当駅（上之町駅）からさらに約100m終点方には、内山下支線（後の番町線）との分岐点であった御<a href="http://localhost/keyword/%E5%9F%8E%E4%B8%8B%E5%81%9C%E7%95%99%E5%A0%B4">城下停留場</a>があった。御<a href="http://localhost/keyword/%E5%9F%8E%E4%B8%8B%E5%81%9C%E7%95%99%E5%A0%B4">城下停留場</a>は1<a href="http://localhost/keyword/921%E5%B9%B4">921年</a>（大正<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>）～1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>（大正<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）に<a href="http://localhost/keyword/%E5%9F%8E%E4%B8%8B%E5%81%9C%E7%95%99%E5%A0%B4">城下停留場</a>に改称、1<a href="http://localhost/keyword/954%E5%B9%B4">954年</a>（昭和<a href="http://localhost/keyword/29%E5%B9%B4">29年</a>）12月20日に上之町停留場に改称、1<a href="http://localhost/keyword/965%E5%B9%B4">965年</a>（昭和40年）7月に移設、1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>（昭和<a href="http://localhost/keyword/43%E5%B9%B4">43年</a>）6月1日に番町線廃線に伴い廃止されている。。<br />
+* 1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a>（昭和<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）3月18日 廃止。<br />
+* 1<a href="http://localhost/keyword/949%E5%B9%B4">949年</a>（昭和<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）4月8日 復活。<br />
+* 1<a href="http://localhost/keyword/954%E5%B9%B4">954年</a>（昭和<a href="http://localhost/keyword/29%E5%B9%B4">29年</a>）12月20日 番町線との分岐駅である<a href="http://localhost/keyword/%E5%9F%8E%E4%B8%8B%E5%81%9C%E7%95%99%E5%A0%B4">城下停留場</a>（旧：御<a href="http://localhost/keyword/%E5%9F%8E%E4%B8%8B%E5%81%9C%E7%95%99%E5%A0%B4">城下停留場</a>）に統合され、廃止。<a href="http://localhost/keyword/%E5%9F%8E%E4%B8%8B%E5%81%9C%E7%95%99%E5%A0%B4">城下停留場</a>が上之町停留場に改称。<br />
+* 1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>（昭和<a href="http://localhost/keyword/43%E5%B9%B4">43年</a>）6月1日 番町線廃止に伴い上之町停留場として再度復活実質的には当駅の統合先であった上之町停留場を東山本線単独の停留場としてそのまま継承したものである。。<br />
+* 1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>（昭和<a href="http://localhost/keyword/45%E5%B9%B4">45年</a>）10月17日 &#39;表町入口停留場&#39;に改称。<br />
+* 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>（昭和<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>）7月1日 100m起点方に移設、&#39;<a href="http://localhost/keyword/%E5%9F%8E%E4%B8%8B%E5%81%9C%E7%95%99%E5%A0%B4">城下停留場</a>&#39;に改称。<br />
+<br />
+== 隣の停留場 ==<br />
+; 岡山電気軌道<br />
+: 東山本線<br />
+:: 柳川停留場 - &#39;<a href="http://localhost/keyword/%E5%9F%8E%E4%B8%8B%E5%81%9C%E7%95%99%E5%A0%B4">城下停留場</a>&#39; - 県庁通り停留場<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:岡山市北区の鉄道駅<br />
+ろした<br />
+Category:岡山電気軌道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/912%E5%B9%B4">912年</a>開業の鉄道駅<br />

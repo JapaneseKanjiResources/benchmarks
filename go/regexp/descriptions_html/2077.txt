@@ -1,0 +1,75 @@
+description<br />
+ <br />
+|所属事業者 =21px大阪高速鉄道（大阪モノレール）<br />
+|所属路線   = 大阪モノレール線（本線）<br />
+|キロ程     = 14.5<br />
+|起点駅     = <a href="http://localhost/keyword/%E5%A4%A7%E9%98%AA%E7%A9%BA%E6%B8%AF">大阪空港</a><br />
+|所在地     = 大阪府茨木市高浜町<br />
+|座標       = <br />
+|駅構造     = 高架駅<br />
+|ホーム     = 島式 1面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>（平成<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）8月22日<br />
+|廃止年月日 = <br />
+|乗車人員   = <br />
+|乗降人員   = 3,193<br />
+|統計年度   = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|乗換       = <br />
+|備考       = <br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E6%B2%A2%E8%89%AF%E5%AE%9C%E9%A7%85">沢良宜駅</a>&#39;（さわらぎえき）は、大阪府茨木市高浜町にある大阪高速鉄道大阪モノレール線（本線）の駅。駅番号は&#39;20&#39;。<br />
+<br />
+== 駅構造 ==<br />
+ホームは1面2線の島式構造。ホーム上には待合室が設置されている。ホームへのエスカレーターは上りのみ。改札口は2階部分で、ホームは3階にある。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+== バス ==<br />
+&#39;近鉄バス&#39;<br />
+<br />
+駅北口の細い路地から発着。停留所名は｢モノレール<a href="http://localhost/keyword/%E6%B2%A2%E8%89%AF%E5%AE%9C%E9%A7%85">沢良宜駅</a>｣<br />
+* 30番 阪急茨木市駅行（野々宮･神社前経由。土曜日の朝1便のみ。）<br />
+<br />
+== 駅周辺 ==<br />
+* 元茨木川緑地<br />
+* 読売新聞別館<br />
+* ショッパーズ南茨木<br />
+** ラ・ムー 南茨木店（20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>1月15日閉店）<br />
+* ダイエー 茨木食品センター<br />
+* 泉北高速鉄道 北大阪流通センター<br />
+* <a href="http://localhost/keyword/%E8%BF%91%E7%95%BF%E8%87%AA%E5%8B%95%E8%BB%8A%E9%81%93">近畿自動車道</a><br />
+* 茨木市立天王中学校<br />
+* サンドライビングスクール吹田茨木<br />
+* コーナン 茨木店<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）度の1日平均の乗降客数は&#39;3,193人&#39;である。<br />
+<br />
+各年度の1日平均乗車・乗降人員数は下表のとおり。<br />
+<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>8月22日 - 大阪モノレール線南茨木 - 門真市間開通と同時に開業。<br />
+<br />
+== 隣の駅 ==<br />
+; 大阪高速鉄道<br />
+: 大阪モノレール線（本線）<br />
+:: 南茨木駅 (19) - &#39;<a href="http://localhost/keyword/%E6%B2%A2%E8%89%AF%E5%AE%9C%E9%A7%85">沢良宜駅</a> (20)&#39; - <a href="http://localhost/keyword/%E6%91%82%E6%B4%A5%E9%A7%85">摂津駅</a> (21)<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.osaka-monorail.co.jp/station/r20_sawaragi.html 大阪モノレール（<a href="http://localhost/keyword/%E6%B2%A2%E8%89%AF%E5%AE%9C%E9%A7%85">沢良宜駅</a>）]<br />
+<br />
+<br />
+<br />
+Category:大阪府の鉄道駅<br />
+わらき<br />
+Category:大阪高速鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>開業の鉄道駅<br />
+さわらきえき<br />

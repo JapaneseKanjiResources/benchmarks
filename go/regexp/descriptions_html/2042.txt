@@ -1,0 +1,73 @@
+description<br />
+<br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/914%E5%B9%B4">914年</a>（大正3年）4月29日<br />
+|廃止年月日 = <br />
+|乗車人員 = <br />
+|乗降人員 = <a href="http://localhost/keyword/110">110</a><br />
+|統計年度 = 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a><br />
+|乗換 = <br />
+|備考 = 無人駅<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E6%97%85%E4%BC%8F%E9%A7%85">旅伏駅</a>&#39;（たぶしえき）は、島根県出雲市西代町に位置する一畑電車北松江線の駅である。<br />
+<br />
+駅舎には出雲市立平田中学校の美術部が制作した絵が飾られている。<br />
+<br />
+== 駅構造 ==<br />
+松江方面に向かって左側に単式ホーム1面1線を有する地上駅（停留所）。無人駅である。<br />
+<br />
+== 駅周辺 ==<br />
+* 平田国富郵便局<br />
+* 国富コミュニティセンター<br />
+* 出雲市立国富小学校<br />
+* 平田自動車教習所<br />
+* 上島古墳（あげしまこふん）<br />
+: 出雲市国富町上島の、水田からの比高約35メートルの山腹に位置する。6世紀中葉ごろに築造された。直径約15メートル、高さ約2メートルの円墳、家形石棺と竪穴式石室を持つ。1<a href="http://localhost/keyword/957%E5%B9%B4">957年</a>（昭和3<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）に国の史跡に指定された。<br />
+* 康國寺<br />
+: 松江藩松平不昧公お抱えの築庭師・沢玄丹が3年をかけて作り上げた寺院。駅名の由来となった旅伏山を借景とした枯山水の庭園を持つ。[http://www.ichibata.co.jp/railway/operate/stations/12.html 一畑電車公式サイト <a href="http://localhost/keyword/%E6%97%85%E4%BC%8F%E9%A7%85">旅伏駅</a>]<br />
+* 国道431号<br />
+<br />
+== 利用状況 ==<br />
+1日平均の乗降人員は以下の通り。出典：島根県統計書<br />
+* 196人（19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>度）<br />
+* 101人（2000年度）<br />
+* 104人（2001年度）<br />
+* 109人（200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>度）<br />
+* 92人（2003年度）<br />
+* 88人（200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>度）<br />
+* 148人（200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>度）<br />
+* 143人（200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>度）<br />
+* 131人（200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>度）<br />
+* 108人（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>度）<br />
+* <a href="http://localhost/keyword/110">110</a>人（200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>度）<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/914%E5%B9%B4">914年</a>（大正3年）4月29日 - 開業寺田裕一『日本のローカル私鉄2000』、ネコ・パブリッシング、2000年、270頁。ISBN 4-87366-207-9。<br />
+* 1<a href="http://localhost/keyword/979%E5%B9%B4">979年</a>（昭和<a href="http://localhost/keyword/54%E5%B9%B4">54年</a>）11月1日 - 無人駅化。<br />
+* 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>（平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）4月1日 - 一畑電気鉄道の持株会社移行に伴い、新設の一畑電車株式会社が鉄道事業を承継。<br />
+<br />
+== 隣の駅 ==<br />
+; 一畑電車<br />
+: 北松江線<br />
+::特急「スーパーライナー」・急行「出雲大社号」・急行<br />
+::: &#39;通過&#39;<br />
+:: 普通<br />
+::: 美談駅 - &#39;<a href="http://localhost/keyword/%E6%97%85%E4%BC%8F%E9%A7%85">旅伏駅</a>&#39; - 雲州平田駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.ichibata.co.jp/railway/operate/stations/12.html 8.旅伏 | 停車駅のご案内] - 一畑電車<br />
+<br />
+<br />
+<br />
+<br />
+Category:出雲市の鉄道駅<br />
+ふし<br />
+Category:一畑電車の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/914%E5%B9%B4">914年</a>開業の鉄道駅<br />

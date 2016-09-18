@@ -1,0 +1,47 @@
+description<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E8%B6%85%E5%AF%BE%E7%A7%B0%E6%80%A7%E7%B2%92%E5%AD%90">超対称性粒子</a>&#39;（ちょうたいしょうせいりゅうし、、SUSY粒子） は、超<a href="http://localhost/keyword/%E5%AF%BE%E7%A7%B0%E6%80%A7">対称性</a>理論によって存在が予想されている、既存の粒子に対し、スピンが1/2ずれただけで、電荷などは等しい素粒子。スピンが1/2ずれているため、既存のフェルミオンに対し未知のボソン、既存のボソンに対し未知のフェルミオンが予想されている。ボソンとフェルミオンの対応する相方を&#39;超<a href="http://localhost/keyword/%E5%AF%BE%E7%A7%B0%E6%80%A7">対称性</a>パートナー&#39; (supersymmetric partner) という。<br />
+<br />
+現在の宇宙ではこのような粒子は観測されていない為、少なくとも低エネルギーでは超<a href="http://localhost/keyword/%E5%AF%BE%E7%A7%B0%E6%80%A7">対称性</a>は破れており、超<a href="http://localhost/keyword/%E5%AF%BE%E7%A7%B0%E6%80%A7">対称性</a>の破れによって粒子とその超対称パートナーの質量が異なっていると考えられている。200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>より稼働したCERNの加速器LHCでの発見が期待されている。<br />
+<br />
+<a href="http://localhost/keyword/%E8%B6%85%E5%AF%BE%E7%A7%B0%E6%80%A7%E7%B2%92%E5%AD%90">超対称性粒子</a>の中で最も軽いものはLSP (Lightest Supersymmetric Particle) と呼ばれる。の保存を仮定すればその粒子は崩壊しない安定粒子となるため、LSPが電気的に中性であればダークマターの候補となる。<br />
+<br />
+== 命名法 ==<br />
+ボソンに対するフェルミオンの超<a href="http://localhost/keyword/%E5%AF%BE%E7%A7%B0%E6%80%A7">対称性</a>パートナーは、元のボース粒子の名の語尾を-inoとする。-inoは「小さい」という意味。<br />
+<br />
+フェルミオンに対するボソンの超<a href="http://localhost/keyword/%E5%AF%BE%E7%A7%B0%E6%80%A7">対称性</a>パートナーは、元のフェルミ粒子の名の語頭にs-をつける。s-はスカラーの略で、フェルミオンに対する<a href="http://localhost/keyword/%E8%B6%85%E5%AF%BE%E7%A7%B0%E6%80%A7%E7%B2%92%E5%AD%90">超対称性粒子</a>はスピンが0のスカラー粒子であることを表す。略さず「スカラー」を頭につけることもある。<br />
+<br />
+== 主な<a href="http://localhost/keyword/%E8%B6%85%E5%AF%BE%E7%A7%B0%E6%80%A7%E7%B2%92%E5%AD%90">超対称性粒子</a> ==<br />
+*ボシーノ (bosino) ⇔ （通常の）ボソン<br />
+**ゲージーノ (gaugino) ⇔ ゲージ粒子<br />
+***フォティーノ (photino) ⇔ 光子（フォトン）<br />
+***ウィーノ (wino) ⇔ Wボソン<br />
+***ジーノ (zino) ⇔ Zボソン<br />
+***グルイーノ (gluino) ⇔ グルーオン<br />
+***グラヴィティーノ (gravitino) ⇔ 重力子（グラヴィトン）<br />
+**ヒグシーノ (higgsino) ⇔ ヒッグス粒子<br />
+***中性ヒグシーノ ⇔ 中性ヒッグス粒子<br />
+***荷電ヒグシーノ ⇔ 荷電ヒッグス粒子<br />
+**混合状態<br />
+***ニュートラリーノ (neutralino) = フォティーノ + ジーノ + 中性ヒグシーノ<br />
+***チャージーノ (chargino) = ウィーノ + 荷電ヒグシーノ<br />
+**アクシーノ (axino) ⇔ アクシオン<br />
+*スフェルミオン (sfermion) ⇔ （通常の）フェルミオン<br />
+**スクォーク (squark) ⇔ クォーク<br />
+***sdown、sup、sstrange、scharm、sbottom、stop<br />
+**スレプトン (slepton) ⇔ レプトン<br />
+***セレクトロン (selectron) ⇔ 電子（エレクトロン）<br />
+***スミューオン (smuon) ⇔ ミューオン<br />
+***スタウ (stau) ⇔ タウオン<br />
+***スニュートリノ (sneutrino) ⇔ ニュートリノ<br />
+****e-sneutrino、μ-sneutrino、τ-sneutrino<br />
+**サクシオン (saxion) ⇔ アクシーノ<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:素粒子<br />
+*<br />
+Category:素粒子物理学<br />
+Category:統一場理論<br />

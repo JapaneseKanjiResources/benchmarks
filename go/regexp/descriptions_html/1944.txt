@@ -1,0 +1,60 @@
+description<br />
+、属格:<br />
+ |symbology = the Peacock<br />
+ |RA = 20<br />
+ |dec = &amp;minus;65<br />
+ |culmination date = 8月25日21時<br />
+ |quadrant = SQ4<br />
+ |areatotal = 378<br />
+ |arearank = 44<br />
+ |numbermainstars = 7<br />
+ |numberbfstars = 24<br />
+ |numberstarsplanets = 3<br />
+ |numberbrightstars = 1<br />
+ |numbernearbystars = 2<br />
+ |brighteststarname = &amp;alpha; Pav<br />
+ |starmagnitude = 1.910<br />
+ |neareststarname = SCR 1845-6357<br />
+ |stardistance = 12.6<br />
+ |numbermessierobjects = 0<br />
+ |meteorshowers = Delta Pavonids<br />
+ |bordering = はちぶんぎ座ふうちょう座さいだん座ぼうえんきょう座インディアン座<br />
+ |notes = <br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E3%81%8F%E3%81%98%E3%82%83%E3%81%8F%E5%BA%A7">くじゃく座</a>&#39;（孔雀座、Pavo）は南天の星座の1つ。<br />
+<br />
+== 主な天体 ==<br />
+=== 恒星 ===<br />
+<br />
+* &amp;alpha;星：ピーコックは、<a href="http://localhost/keyword/%E3%81%8F%E3%81%98%E3%82%83%E3%81%8F%E5%BA%A7">くじゃく座</a>で最も明るい恒星で、唯一の2等星。<br />
+* &amp;delta;星：太陽系から近く、太陽と似ている恒星。<br />
+* SCR 1845-6357：赤色矮星。太陽系から24番目に近い恒星。<br />
+<br />
+=== 星団・星雲・銀河 ===<br />
+* NGC 6752：球状星団。肉眼で見ることも可能な全天で3番目に明るい球状星団。<br />
+<br />
+== 由来と歴史 ==<br />
+<br />
+<a href="http://localhost/keyword/%E3%81%8F%E3%81%98%E3%82%83%E3%81%8F%E5%BA%A7">くじゃく座</a>は16世紀以降に作られた新しい星座であり、神話はないギリシア神話における孔雀に関する神話についてはアルゴスの項を参照。。<br />
+<br />
+ペーテル・ケイセルとフレデリック・デ・ハウトマンが残した観測記録を元にペトルス・プランシウスが1<a href="http://localhost/keyword/597%E5%B9%B4">597年</a>に作成した地球儀に残したものが最初である。ヨハン・バイエルが1<a href="http://localhost/keyword/603%E5%B9%B4">603年</a>に発刊したウラノメトリアでそれを引用したことにより世に知られるようになった。<br />
+<br />
+== 脚注 ==<br />
+=== 注釈 ===<br />
+<br />
+<br />
+=== 出典 ===<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+*<br />
+Category:天文学に関する記事<br />

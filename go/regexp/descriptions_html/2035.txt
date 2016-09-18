@@ -1,0 +1,90 @@
+description<br />
+};<br />
+| other_name = <br />
+| name = }<br />
+| image = <br />
+| image_width = 300px<br />
+| image_alt = <br />
+| caption = <br />
+| type = <br />
+| status = 廃止<br />
+| start = 起点：米島口停留場<br />
+| end = 終点：伏木港駅<br />
+| stations = 7駅<br />
+| open = <br />
+| event1label = <br />
+| event1 = <br />
+| close = <br />
+| owner = 富山地方鉄道→加越能鉄道<br />
+| operator = <br />
+| depot = <br />
+| stock = <br />
+| linelength_km = 2.9<br />
+| linelength = <br />
+| gauge = <br />
+| minradius_m = <br />
+| el = 直流600 V 架空電車線方式<br />
+| speed = <br />
+| maxincline = <br />
+| map = <br />
+| map_state = <br />
+}}<br />
+}<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+|}<br />
+|}<br />
+&#39;伏木線&#39;（ふしきせん）は、かつて富山県高岡市の米島口停留場から伏木港駅までを結んでいた加越能鉄道（現在の加越能バス）の軌道路線。線籍上は高岡軌道線の一部だった。1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>に廃止。<br />
+<br />
+== 路線データ ==<br />
+*路線距離（営業キロ）：2.9km<br />
+*軌間：1067mm<br />
+*駅数：7駅（起終点駅含む）<br />
+*複線区間：なし（全線単線）<br />
+*電化区間：全線（直流600V）<br />
+*閉塞方式：不明<br />
+<br />
+== 歴史 ==<br />
+1<a href="http://localhost/keyword/948%E5%B9%B4">948年</a>4月10日、富山地方鉄道により地鉄高岡 - 伏木港間7.3kmの高岡軌道線の一部として開業した。1<a href="http://localhost/keyword/951%E5%B9%B4">951年</a>、途中の米島口停留場から射水線新湊駅（現・六渡寺駅）へ伸びる3.6kmの路線が開業してそちらが本線のようになり、米島口 - 伏木港間2.9kmは事実上支線扱いとなっていった。1<a href="http://localhost/keyword/959%E5%B9%B4">959年</a>、伏木線を含む高岡軌道線は加越能鉄道（1<a href="http://localhost/keyword/950%E5%B9%B4">950年</a>設立、現在の加越能バス）に譲渡された。<br />
+<br />
+高岡から伏木へは国鉄氷見線もあったことやモータリゼーションの進行により旅客数は見込めず、その割には支線があることで高岡軌道線の運用が煩雑になっていたこと、また、道路交通の障害になるという高岡市からの要請もあり、1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>9月1日をもって廃止された。<br />
+<br />
+*1<a href="http://localhost/keyword/948%E5%B9%B4">948年</a>（昭和<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）4月10日 - 富山地方鉄道により地鉄高岡 - 米島口 - 伏木港間開業。<br />
+*1<a href="http://localhost/keyword/959%E5%B9%B4">959年</a>（昭和<a href="http://localhost/keyword/34%E5%B9%B4">34年</a>）4月1日 - 加越能鉄道に譲渡。<br />
+*1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>（昭和<a href="http://localhost/keyword/46%E5%B9%B4">46年</a>）9月1日 - 米島口 - 伏木港間廃止。<br />
+<br />
+== 駅一覧 ==<br />
+※駅名は伏木線廃止時のもの<br />
+<br />
+米島口停留場 - 米島駅 - 高美町駅 - 矢田駅 - 串岡駅 - 古府口駅 - 伏木港駅<br />
+<br />
+*高美町駅には交換設備があった。<br />
+<br />
+== 接続路線 ==<br />
+※駅名・事業者名は伏木線廃止時のもの<br />
+<br />
+*米島口駅：加越能鉄道高岡軌道線<br />
+*伏木港駅：国鉄氷見線（伏木駅）<br />
+<br />
+== 関連項目 ==<br />
+* <a href="http://localhost/keyword/%E5%8A%A0%E8%B6%8A%E8%83%BD%E9%89%84%E9%81%93%E5%8A%A0%E8%B6%8A%E7%B7%9A">加越能鉄道加越線</a>（廃止）<br />
+* 万葉線新湊港線（元加越能鉄道の路線で、万葉線に譲渡され現存）<br />
+* 万葉線高岡軌道線（元加越能鉄道の路線で、万葉線に譲渡され現存）<br />
+<br />
+<br />
+Category:<a href="http://localhost/keyword/%E4%B8%AD%E9%83%A8%E5%9C%B0%E6%96%B9">中部地方</a>の鉄道路線 (廃止)<br />
+路ふしきせん<br />
+ふしきせん<br />
+Category:かつて存在した路面電車路線<br />
+Category:富山県の交通史<br />
+廃かえつのうてつとうふしきせん<br />
+Category:高岡市の歴史<br />

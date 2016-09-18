@@ -1,0 +1,78 @@
+description<br />
+<br />
+|駅構造 = 地下駅<br />
+|ホーム = 2面2線<br />
+|開業年月日 = 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>（平成<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）8月24日<br />
+|乗車人員 = 6,028<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換 =<br />
+|備考 =<br />
+}}<br />
+1番線ホーム（200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>8月29日）<br />
+&#39;<a href="http://localhost/keyword/%E9%9D%92%E4%BA%95%E9%A7%85">青井駅</a>&#39;（あおいえき）は、東京都足立区青井三丁目24番1号にある、首都圏新都市鉄道つくばエクスプレスの駅。駅番号は&#39;06&#39;。<br />
+<br />
+== 駅構造 ==<br />
+相対式ホーム2面2線を有する地下駅。<br />
+=== のりば ===<br />
+<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度の一日平均乗車人員は&#39;6,028人&#39;である[http://www.mir.co.jp/company/number.html つくばエクスプレス乗車人員]。<br />
+<br />
+開業以来の一日平均&#39;乗車&#39;人員推移は下表のとおりである。<br />
+<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+<br />
+<br />
+* 青井兵和通り商店街<br />
+* 西友青井店<br />
+* 綾瀬川<br />
+* 環七通り<br />
+* 首都高速6号三郷線 加平出入口<br />
+* 足立西加平郵便局<br />
+* 足立綾瀬郵便局<br />
+* 青和バラ公園<br />
+* 東京地下鉄（東京メトロ）千代田線北綾瀬駅（徒歩15分）<br />
+* 足立区立青井小学校<br />
+* 青井保育園<br />
+* ヤマダ電機 テックランド DIGITAL館足立<br />
+* 東京都立江北高等学校<br />
+<br />
+== バス路線 ==<br />
+足立区コミュニティバス「はるかぜ」の路線が当駅を発着する。<br />
+<br />
+* 当駅から徒歩で綾瀬川をみどり歩道橋で渡り、約650m東側の東武バスセントラル綾瀬七丁目停留所（主に八潮駅、竹ノ塚駅方面の路線が発着）へ行くことも可能である。<br />
+<br />
+== 歴史 ==<br />
+* 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>（平成<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）8月24日 開業。<br />
+<br />
+== 隣の駅 ==<br />
+; 23px 首都圏新都市鉄道<br />
+: 23px つくばエクスプレス<br />
+:: 快速・通勤快速・区間快速<br />
+::: &#39;通過&#39;<br />
+:: 普通<br />
+::: <a href="http://localhost/keyword/%E5%8C%97%E5%8D%83%E4%BD%8F%E9%A7%85">北千住駅</a> (05) - &#39;<a href="http://localhost/keyword/%E9%9D%92%E4%BA%95%E9%A7%85">青井駅</a> (06)&#39; - 六町駅 (07)<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.mir.co.jp/route_map/aoi/ つくばエクスプレス <a href="http://localhost/keyword/%E9%9D%92%E4%BA%95%E9%A7%85">青井駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:足立区の鉄道駅<br />
+おい<br />
+Category:首都圏新都市鉄道の鉄道駅<br />
+Category:200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>開業の鉄道駅<br />

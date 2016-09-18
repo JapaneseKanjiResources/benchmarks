@@ -1,0 +1,55 @@
+description<br />
+石巻線<br />
+|キロ程 = 23.7<br />
+|起点駅 = 小牛田<br />
+|所在地 = 宮城県石巻市鹿又字曽波神前239<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/956%E5%B9%B4">956年</a>（昭和<a href="http://localhost/keyword/31%E5%B9%B4">31年</a>）4月5日<br />
+|廃止年月日 =<br />
+|乗車人員 =<br />
+|乗降人員 =<br />
+|統計年度 =<br />
+|乗換 =<br />
+|備考 = 無人駅<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E6%9B%BD%E6%B3%A2%E7%A5%9E%E9%A7%85">曽波神駅</a>&#39;（そばのかみえき）は、宮城県石巻市鹿又字曽波神前にある、東日本旅客鉄道（JR東日本）石巻線の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/956%E5%B9%B4">956年</a>（昭和<a href="http://localhost/keyword/31%E5%B9%B4">31年</a>）4月5日 - 日本国有鉄道（国鉄）石巻線の駅として開業。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化によりJR東日本の駅となる。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を有する地上駅である。小牛田駅管理の無人駅。<br />
+<br />
+== 駅周辺 ==<br />
+* 国道45号<br />
+* 三陸自動車道<br />
+* 曽波神山（愛宕山）<br />
+** 愛宕神社<br />
+** 曽波神社<br />
+* 旧北上川<br />
+* パセオドライビングカレッジ<br />
+* ミヤコーバス「<a href="http://localhost/keyword/%E6%9B%BD%E6%B3%A2%E7%A5%9E%E9%A7%85">曽波神駅</a>入口」停留所<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 石巻線<br />
+:: 鹿又駅 - &#39;<a href="http://localhost/keyword/%E6%9B%BD%E6%B3%A2%E7%A5%9E%E9%A7%85">曽波神駅</a>&#39; - 石巻駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=924 JR東日本 <a href="http://localhost/keyword/%E6%9B%BD%E6%B3%A2%E7%A5%9E%E9%A7%85">曽波神駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+Category:石巻市の鉄道駅<br />
+はのかみ<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/956%E5%B9%B4">956年</a>開業の鉄道駅<br />
+Category:石巻線<br />

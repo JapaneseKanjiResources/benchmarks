@@ -1,0 +1,17 @@
+description<br />
+<br />
+| Section2 = <br />
+| Section3 = <br />
+| Section4 = <br />
+| Section7 = <br />
+| Section8 = <br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E4%B8%89%E9%85%B8%E5%8C%96%E4%BA%8C%E7%AA%92%E7%B4%A0">三酸化二窒素</a>&#39;（さんさんかにちっそ、dinitrogen trioxide, 化学式 N2O3）は不安定な無色の気体で、二酸化窒素 (NO2) と一酸化窒素 (NO) に解離する。液体では濃青色、固体では淡青色である。酸性である。水に溶けると亜硝酸となる。窒素酸化物である。窒素の酸化数は+3。<br />
+<br />
+:\\rm N_2O_3 \\longrightarrow NO_2 + NO<br />
+<br />
+<br />
+<br />
+<br />
+Category:酸化物<br />
+Category:無機窒素化合物<br />

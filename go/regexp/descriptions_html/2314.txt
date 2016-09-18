@@ -1,0 +1,74 @@
+description<br />
+<br />
+仙山線<br />
+|所在地幅 = long<br />
+|所在地 = 山形県山形市大字山寺字面白山8387<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日*<br />
+|廃止年月日 =<br />
+|乗車人員 = 76<br />
+|乗降人員 =<br />
+|統計年度 = 2001年<br />
+|乗換 =<br />
+|備考 = 無人駅（自動券売機 有）<br />
+|備考全幅 = * 1<a href="http://localhost/keyword/937%E5%B9%B4">937年</a>（昭和<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）11月10日に面白山仮乗降場として開業。19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>（昭和<a href="http://localhost/keyword/63%E5%B9%B4">63年</a>）に常設駅昇格と同時に改称。** この間に<a href="http://localhost/keyword/%E9%9D%A2%E7%99%BD%E5%B1%B1%E4%BF%A1%E5%8F%B7%E5%A0%B4">面白山信号場</a>有り（当駅から1.0km先）。<br />
+}}<br />
+駅の上にかかる橋より仙台方面を見る。奥は仙山トンネル。トンネル入口左側の空き地に[[<a href="http://localhost/keyword/%E9%9D%A2%E7%99%BD%E5%B1%B1%E4%BF%A1%E5%8F%B7%E5%A0%B4">面白山信号場</a>信号扱所の建物があった、1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>撤去。]]<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E9%9D%A2%E7%99%BD%E5%B1%B1%E9%AB%98%E5%8E%9F%E9%A7%85">面白山高原駅</a>&#39;（おもしろやまこうげんえき）は、山形県山形市大字山寺字面白山にある、東日本旅客鉄道（JR東日本）仙山線の駅である。<br />
+<br />
+仙山トンネル（面白山トンネル）の山形県側出口にあり、列車によっては後半部をトンネル内に残したまま停車することもあった。現在は6両編成に対応できるようホームが延長されており、この問題は解消されている。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/937%E5%B9%B4">937年</a>（昭和<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）11月10日 - &#39;面白山仮乗降場&#39;として開業。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、東日本旅客鉄道の駅となる。<br />
+* 19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>（昭和<a href="http://localhost/keyword/63%E5%B9%B4">63年</a>）3月13日 - 臨時駅から常設駅となり、&#39;<a href="http://localhost/keyword/%E9%9D%A2%E7%99%BD%E5%B1%B1%E9%AB%98%E5%8E%9F%E9%A7%85">面白山高原駅</a>&#39;に改称。<br />
+* 200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>（平成<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>）3月13日 - 快速がすべて停車。<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）3月17日 - 一部を除いて快速が通過。<br />
+* 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>（平成<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）3月14日 -利用客減少に伴い快速列車がすべて通過  普通列車のみの停車駅となる<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を有する地上駅。無人駅であるが、自動券売機が設置されている。スキーシーズンや登山シーズンには、管理駅の山形駅より駅員を臨時に派遣して改札業務を行う。<br />
+<br />
+駅舎はコスモスをイメージしてつくられた。<br />
+<br />
+== 駅周辺 ==<br />
+車では、林道から行けるが、道路は冬季閉鎖になるため、スキー利用は鉄道のみとなる。<br />
+* 面白山高原国定公園<br />
+* スノーパーク面白山 - 冬期間、鉄道でしか行けないスキー場として有名である。当駅で電車を降りれば、すぐにリフトに乗れる（2009 - 20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>シーズンはリフト故障のため営業休止。2010 - 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>シーズンも営業休止）。<br />
+* 面白山コスモスベルグ - 夏期間はコスモス園となる。林道を通って、当駅へ行ける（冬季閉鎖）。<br />
+* 紅葉川渓谷<br />
+** 藤花の滝 - 駅のホームとは反対側にあり、車窓からも眺めることができる。<br />
+** トレッキングコース（11月中旬から4月中旬まで閉鎖される）<br />
+<br />
+画像:Omosiroyama 2005 Cosmos Berg.jpg|コスモスベルグ<br />
+画像:Omoshiroyama Mt 2006.jpg|駅名の由来となった面白山<br />
+<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 仙山線<br />
+:: 快速<br />
+::: &#39;通過&#39;<br />
+:: 普通<br />
+::: 奥新川駅 - （<a href="http://localhost/keyword/%E9%9D%A2%E7%99%BD%E5%B1%B1%E4%BF%A1%E5%8F%B7%E5%A0%B4">面白山信号場</a>） - &#39;<a href="http://localhost/keyword/%E9%9D%A2%E7%99%BD%E5%B1%B1%E9%AB%98%E5%8E%9F%E9%A7%85">面白山高原駅</a>&#39; - 山寺駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+* 鉄子の旅 - アニメ第4話で当駅が登場。鉄道ファンの横見浩彦と漫画家の菊池直恵がここを訪れる。<br />
+* <a href="http://localhost/keyword/%E3%82%AC%E3%83%BC%E3%83%A9%E6%B9%AF%E6%B2%A2%E9%A7%85">ガーラ湯沢駅</a> - 駅舎がガーラ湯沢スキー場と一体化している。<br />
+* 秘境駅<br />
+<br />
+== 外部リンク ==<br />
+* <br />
+<br />
+<br />
+<br />
+<br />
+Category:山形市の鉄道駅<br />
+もしろやまこうけん<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+おもしろやまこうけんえき<br />
+Category:1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>開業の鉄道駅<br />

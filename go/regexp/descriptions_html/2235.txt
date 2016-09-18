@@ -1,0 +1,5 @@
+description<br />
+*正規表現 (regular expression) の別名<br />
+*数学の表現論における<a href="http://localhost/keyword/%E6%AD%A3%E5%89%87%E8%A1%A8%E7%8F%BE">正則表現</a> (regular representation)<br />
+<br />
+<br />

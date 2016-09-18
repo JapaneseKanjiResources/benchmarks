@@ -1,0 +1,95 @@
+description<br />
+<br />
+|所属事業者 =阪急電鉄<br />
+|所属路線 = <a href="http://localhost/keyword/%E5%B5%90%E5%B1%B1%E7%B7%9A">嵐山線</a><br />
+|キロ程 = 2.8<br />
+|起点駅 = 桂<br />
+|所在地 = 京都市西京区嵐山宮ノ前町49番地<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/928%E5%B9%B4">928年</a>（昭和3年）11月9日<br />
+|廃止年月日 =<br />
+|乗車人員 =<br />
+|乗降人員 = 5,383<br />
+|統計年度 = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換 =<br />
+|備考 =<br />
+|備考全幅 = * 1<a href="http://localhost/keyword/948%E5%B9%B4">948年</a>（昭和<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>） 松尾神社前駅 → 松尾駅に改称20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>） 松尾駅 → <a href="http://localhost/keyword/%E6%9D%BE%E5%B0%BE%E5%A4%A7%E7%A4%BE%E9%A7%85">松尾大社駅</a>に改称<br />
+}}<br />
+ホーム<br />
+嵐山方面ホームの旅客上屋<br />
+&#39;<a href="http://localhost/keyword/%E6%9D%BE%E5%B0%BE%E5%A4%A7%E7%A4%BE%E9%A7%85">松尾大社駅</a>&#39;（まつおたいしゃえき）は、京都市西京区嵐山宮ノ前町にある、阪急電鉄<a href="http://localhost/keyword/%E5%B5%90%E5%B1%B1%E7%B7%9A">嵐山線</a>の駅。駅番号は&#39;HK-97&#39;。駅名の由来となった松尾大社の正式な読みは「&#39;まつのお&#39;たいしゃ」であるが、駅名は通称の「&#39;まつお&#39;たいしゃ」の読みを採用している。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/928%E5%B9%B4">928年</a>（昭和3年）11月9日 - 新京阪鉄道<a href="http://localhost/keyword/%E5%B5%90%E5%B1%B1%E7%B7%9A">嵐山線</a>開通と同時に、&#39;松尾神社前駅&#39;（まつおじんじゃまええき）として開業。<br />
+* 1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>（昭和<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）9月15日 - 会社合併により京阪電気鉄道の駅となる。<br />
+* 1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a>（昭和<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）10月1日 - 会社合併により京阪神急行電鉄（現在の阪急電鉄）の駅となる。<br />
+* 1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>（昭和<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）1月9日 - 資材供出のため<a href="http://localhost/keyword/%E5%B5%90%E5%B1%B1%E7%B7%9A">嵐山線</a>全線単線化。棒線駅となる。<br />
+* 1<a href="http://localhost/keyword/948%E5%B9%B4">948年</a>（昭和<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）1月1日 - &#39;松尾駅&#39;（まつおえき）に改称。<br />
+* 1<a href="http://localhost/keyword/950%E5%B9%B4">950年</a>（昭和<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）3月13日 - 駅構内の片線を復活させ、行き違い駅となる京阪神急行電鉄『京阪神急行電鉄五十年史』（1<a href="http://localhost/keyword/957%E5%B9%B4">957年</a>） p.55。<br />
+* 1<a href="http://localhost/keyword/979%E5%B9%B4">979年</a>（昭和<a href="http://localhost/keyword/54%E5%B9%B4">54年</a>）11月28日 - 自動券売機設置（阪急電鉄で最後まで残った有人出札駅であった）。<br />
+* 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）12月21日 - &#39;<a href="http://localhost/keyword/%E6%9D%BE%E5%B0%BE%E5%A4%A7%E7%A4%BE%E9%A7%85">松尾大社駅</a>&#39;に改称 阪急阪神ホールディングス20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>4月30日。同時に駅番号導入。<br />
+<br />
+== 駅構造 ==<br />
+相対式ホーム2面2線を有し、交換設備を備えた地上駅。松尾橋西詰、松尾大社前交差点東南角に位置する。<br />
+<br />
+駅舎（改札口）は嵐山行ホーム嵐山寄りにあり、反対側の桂方面ホームへは地下道により連絡している。<br />
+<br />
+=== のりば ===<br />
+<br />
+※のりば番号は設定されていない。<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>（平成<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>）度の1日あたりの乗降人員は&#39;約5,383人&#39;である（年間1,965千人、京都市統計書より）。<br />
+<br />
+== 駅周辺 ==<br />
+* 松尾橋（桂川）<br />
+* 松尾大社<br />
+* 月読神社<br />
+* 梅宮大社<br />
+* 西芳寺（苔寺）<br />
+* 華厳寺（鈴虫寺）<br />
+* 嵐山東公園<br />
+* 京都梅津徳丸郵便局<br />
+* 四条通<br />
+<br />
+=== バス路線 ===<br />
+&#39;松尾大社前&#39;バス停があり、京都市営バスと京都バスの路線が乗り入れる。<br />
+* 京都市営バス<br />
+** 28号系統：嵐山 大覚寺行／四条大宮 京都駅行<br />
+** 29号系統：国道中山 洛西バスターミナル行／松尾橋 四条烏丸行<br />
+* 京都バス[http://www.kyotobus.jp/rosen/matsuotaishamae/index.html 京都バス時刻表]<br />
+** 63・73・83系統：苔寺すず虫寺 行<br />
+** 63系統：嵐山・太秦広隆寺・映画村・円町駅･二条駅・堀川御池（二条城）・烏丸御池・河原町三条 経由 四条河原町･三条京阪行<br />
+** 73・快速73系統：嵐山・太秦広隆寺（映画村）・太秦天神川駅前・西大路四条・四条大宮・四条烏丸 経由 京都駅行<br />
+** 83系統：京福嵐山駅・常盤仲之町（映画村）・太秦天神川駅前・中の橋五条・五条通り 経由 京都駅行<br />
+** 系統なし：有栖川行<br />
+このほか松尾橋東詰の&#39;松尾橋&#39;バス停では、他に京都市営バスの3・67・71号系統に乗車可能。<br />
+<br />
+== 隣の駅 ==<br />
+; 阪急電鉄<br />
+: <a href="http://localhost/keyword/%E5%B5%90%E5%B1%B1%E7%B7%9A">嵐山線</a><br />
+::快速特急・直通特急・普通<br />
+::: 上桂駅 (HK-96) - &#39;<a href="http://localhost/keyword/%E6%9D%BE%E5%B0%BE%E5%A4%A7%E7%A4%BE%E9%A7%85">松尾大社駅</a> (HK-97)&#39; - 嵐山駅 (HK-98)<br />
+:* 快速特急・直通特急は、いずれも春・秋の行楽シーズンにのみ運転。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://rail.hankyu.co.jp/station/matsuo.html <a href="http://localhost/keyword/%E6%9D%BE%E5%B0%BE%E5%A4%A7%E7%A4%BE%E9%A7%85">松尾大社駅</a>（阪急電鉄）]<br />
+<br />
+<br />
+<br />
+Category:京都市の鉄道駅<br />
+つおたいしや<br />
+Category:阪急電鉄の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/928%E5%B9%B4">928年</a>開業の鉄道駅<br />
+まつおしんしやまえ<br />
+まつおたいしやえき<br />
+Category:嵯峨野・嵐山<br />

@@ -43,18 +43,31 @@ func Htmlify(content string, keywords []string) string {
 }
 
 func Htmlify2(content string, re *regexp.Regexp) string {
-	kw2sha := make(map[string]string)
-	content = re.ReplaceAllStringFunc(content, func(kw string) string {
-		kw2sha[kw] = "isuda_" + fmt.Sprintf("%x", sha1.Sum([]byte(kw)))
-		return kw2sha[kw]
-	})
 	content = html.EscapeString(content)
-	for kw, hash := range kw2sha {
+
+	content = re.ReplaceAllStringFunc(content, func(kw string) string {
 		u, err := url.Parse("http://localhost/keyword/" + pathURIEscape(kw))
 		panicIf(err)
-		link := fmt.Sprintf("<a href=\"%s\">%s</a>", u, html.EscapeString(kw))
-		content = strings.Replace(content, hash, link, -1)
+		return fmt.Sprintf("<a href=\"%s\">%s</a>", u, html.EscapeString(kw))
+	})
+	return strings.Replace(content, "\n", "<br />\n", -1)
+}
+
+func Htmlify3(content string, keywords []string) string {
+	reps := []string{}
+
+	for _, kw := range keywords {
+		reps = append(reps, kw)
+		u, err := url.Parse("http://localhost/keyword/" + pathURIEscape(kw))
+		panicIf(err)
+		reps = append(reps, fmt.Sprintf("<a href=\"%s\">%s</a>", u, html.EscapeString(kw)))
 	}
+
+	r := strings.NewReplacer(reps...)
+
+	content = html.EscapeString(content)
+	content = r.Replace(content)
+
 	return strings.Replace(content, "\n", "<br />\n", -1)
 }
 

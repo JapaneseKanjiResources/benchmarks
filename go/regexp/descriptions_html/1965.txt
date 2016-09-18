@@ -1,0 +1,56 @@
+description<br />
+<br />
+&#39;一般社団法人 <a href="http://localhost/keyword/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%91%97%E4%BD%9C%E6%A8%A9%E5%8D%94%E4%BC%9A">コンピュータソフトウェア著作権協会</a>&#39;（いっぱんしゃだんほうじん コンピュータソフトウェアちょさくけんきょうかい、英文名称：Association of Copyright for Computer Software、略称：ACCS）は、1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>10月に社団法人日本パーソナルコンピュータソフトウェア協会（JPSA、現コンピュータソフトウェア協会）内に設立されたソフトウェア法的保護監視機構を祖とするコンピュータソフトウェア、コンテンツなどの著作権者で構成する業界団体。デジタル著作物の著作権者の権利を保護、著作権の普及活動及びモラルハラスメントに代表される情報モラルの普及を目的とする。<br />
+<br />
+==概要==<br />
+代表者は辻本憲三・株式会社カプコン代表取締役社長（1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>7月 - ）。久保田裕が、社団法人化以来事務局長、1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a>より理事、19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>より専務理事を兼任。<br />
+<br />
+== 沿革 ==<br />
+*1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a> JPSAの内部組織としてソフトウェア法的保護監視機構設立<br />
+*19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a> JPSAより独立<br />
+*19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a> <a href="http://localhost/keyword/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%91%97%E4%BD%9C%E6%A8%A9%E5%8D%94%E4%BC%9A">コンピュータソフトウェア著作権協会</a>に名称変更<br />
+*1<a href="http://localhost/keyword/991%E5%B9%B4">991年</a> 文部省（当時）より認可を受け、社団法人となる<br />
+*1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a> 社団法人コンピュータエンターテインメントソフトウェア協会（CESA、現コンピュータエンターテインメント協会）・JPSAと共同で「違法中古ゲームソフト撲滅キャンペーン」を開始。これに並行してゲームソフトの再販価格維持及び中古品売買禁止を小売店に強要していたとして独占禁止法違反で公正取引委員会より勧告を受けた正会員企業ソニー・コンピュータエンタテインメントに対する擁護活動や小売店に対する訴訟を指揮。<br />
+*2001年<br />
+**京都府警察ハイテク犯罪対策室の要請を受け、ファイルの調査を行い、WinMX利用者逮捕の協力を行う。<br />
+**事業部事業調整課長・葛山博志（現・戦略法務室長）がZDNet Japan（現ITmedia）のインタビューで著作権侵害を（<a href="http://localhost/keyword/%E4%BA%A4%E9%80%9A%E9%81%95%E5%8F%8D">交通違反</a>ではなく）交通事故に例えた発言が、道路交通法軽視ととられ物議を醸した。<br />
+*200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a> 最高裁判所判決で中古ゲームソフト売買は著作権法に違反しないことが確定。撲滅キャンペーンは失敗に終わる。<br />
+*2003年 Winny利用者のファイルの調査を行い、Winny利用者逮捕の協力を行う。<br />
+*200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a><br />
+**協会のWebサーバがAntinnyウイルスによるDoS攻撃を受け始める。<br />
+**協会が当時運営していたQ&amp;Aサイト “<a href="http://localhost/keyword/ASK">ASK</a>ACCS” から個人情報を盗み、流出させたとして不正アクセス禁止法違反に問われ、京都大学研究員が警視庁に逮捕される（200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>3月に一審で有罪判決、6月に控訴取り下げ、確定）。但しこの事件では、ACCSのサイトに於ける個人情報管理の仕方にも批判が集っている（サイバー・ノーガード戦法を参照）。<br />
+**インターネットオークション事業者大手3社（Yahoo! JAPAN、楽天、ディー・エヌ・エー）と連携し、海賊版の掃討・殲滅作戦を開始する。<br />
+*200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a> AntinnyによるDoS攻撃を受け公開しているサイトのURLを&#34;www.accsjp.or.jp&#34;から&#34;www2.accsjp.or.jp&#34;に暫定的に変更。<br />
+*200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>11月7日 専務理事・久保田裕は、自身のブログで、個人情報保護法を犯してヤフーオークション利用者のメールアドレスを不正に入手していることを告白した。<br />
+*200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>4月8日 関西テレビの情報番組「ぶったま！」で放送された、天台宗の僧侶がチベット問題について発言する動画をYouTubeから削除。現在、そのページにアクセスすると、ACCSからの申し立てで削除したことを伝える<a href="http://localhost/keyword/%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8">メッセージ</a>が表示されるため、 「なぜ関西テレビではなくACCS名義で削除されたのか」などとインターネット上で議論を呼んだ。4月8日に経緯をWebサイトで説明した。<br />
+<br />
+== 出典 ==<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>3月31日限りで閉鎖されたサイトの跡地: <br />
+<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+*松本零士（漫画家、2003年よりACCS理事）<br />
+*日本音楽著作権協会（JASRAC）<br />
+<br />
+== 外部リンク ==<br />
+*[http://www2.accsjp.or.jp/ 一般社団法人<a href="http://localhost/keyword/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%91%97%E4%BD%9C%E6%A8%A9%E5%8D%94%E4%BC%9A">コンピュータソフトウェア著作権協会</a>]<br />
+*[http://blogs.itmedia.co.jp/kubota/ 愚直なまでも著作権（専務理事・久保田裕のブログ）]<br />
+<br />
+<br />
+<br />
+<br />
+Category:著作権に関連する組織<br />
+Category:ソフトウェア<br />
+Category:文京区の一般社団法人<br />
+Category:日本のコンピュータゲーム関連団体<br />
+Category:コンピュータに関連する組織<br />

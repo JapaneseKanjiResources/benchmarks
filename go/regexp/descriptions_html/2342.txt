@@ -1,0 +1,129 @@
+description<br />
+<br />
+|所属事業者=   15px名古屋鉄道<br />
+|所属路線= 津島線<br />
+|キロ程  = 2.0<br />
+|起点駅  = 須ヶ口<br />
+|所在地  = 愛知県あま市甚目寺郷浦35<br />
+|座標      = <br />
+|駅構造  = 地上駅<br />
+|ホーム  = 相対式 2面2線<br />
+|開業年月日= 1<a href="http://localhost/keyword/914%E5%B9%B4">914年</a>（大正3年）1月23日 <br />
+|廃止年月日=<br />
+|乗車人員   = <br />
+|乗降人員   = 9,529<br />
+|統計年度   = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|乗換    =<br />
+|備考    = <br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E7%94%9A%E7%9B%AE%E5%AF%BA%E9%A7%85">甚目寺駅</a>&#39;（じもくじえき）は、愛知県あま市甚目寺郷浦にある、名古屋鉄道（名鉄）津島線の駅である。全列車が停車するあま市の代表駅である。<br />
+<br />
+== 概要 ==<br />
+旧海部郡甚目寺町の玄関口の役割を持ち利用者も多く、津島線内では津島駅に次いで2番目に多い。<br />
+尾張四観音の一つである甚目寺観音の最寄駅であり、初詣や節分会などの行事が開催されると多くの参拝客で賑わう。かつては、特急が当駅を通過していたが、200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>12月27日のダイヤ改正で全列車停車駅となった。終日駅員配置駅で、ミューチケットや定期券の購入が可能。ICカード<a href="http://localhost/keyword/%E4%B9%97%E8%BB%8A%E5%88%B8">乗車券</a>manacaが利用できる。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/914%E5%B9%B4">914年</a>（大正3年）1月23日 - 開業。<br />
+* 1<a href="http://localhost/keyword/915%E5%B9%B4">915年</a>（大正<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>） - 駅舎竣工。<br />
+* 1<a href="http://localhost/keyword/975%E5%B9%B4">975年</a>（昭和<a href="http://localhost/keyword/50%E5%B9%B4">50年</a>）10月1日 - 南口新駅舎竣工。<br />
+* 200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>（平成<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>）7月15日 - トランパス導入。<br />
+* 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>（平成<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）12月27日 - 河和発佐屋行きの特急4本新設され、特急停車駅となる。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）<br />
+**2月11日 - manaca導入。<br />
+**3月26日 - 北口駅舎竣工。<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）2月29日 - トランパス供用終了。<br />
+<br />
+== 駅構造 ==<br />
+相対式2面2線ホームを持つ地上駅で、互いのホームは跨線橋で連絡している。直営駅であり、終日駅員が業務を行う。ホームは津島方面が6両分、名古屋方面が8両分。<br />
+<br />
+改札口は北改札口と南改札口の2箇所で、南改札口に駅員がおり、北改札口は無人である。両改札には自動改札機とタッチパネル式自動券売機が設置されていて、ミューチケットの購入も可能。自動精算機は設置されていない。北改札口にはチャージ機もないので、乗り越し精算やICカードチャージの際は南改札口に回る必要がある。(北口入場時はタッチパネル式券売機にてチャージ可能）ホームに列車案内や駅自動放送はないが、朝ラッシュ時には駅員による肉声放送が行われることがある。<br />
+<br />
+=== 設備 ===<br />
+ホームの嵩上げ、エレベーターやスロープの設置などバリアフリー工事は実施済みである。<br />
+* 自動改札機<br />
+* 自動券売機<br />
+* 車椅子対応エレベーター（上下ホーム、北口）<br />
+* スロープ（南口）<br />
+* 男女トイレ（下りホーム）<br />
+* 多機能トイレ（下りホーム）<br />
+* 売店（南口）<br />
+* 自動販売機<br />
+<br />
+かつては駅の北側にディーゼル特急（北アルプス）用給油施設があった。現在は留置線となっている（平日の昼間には1000-1200系が留置されている）。名古屋方面へ回送する列車は、須ヶ口のホームの状況によっては一旦当駅に回送し折り返すことがある。<br />
+20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>北改札口が新設され、北側駅前にはロータリーの整備が進められている。<br />
+<br />
+<br />
+MT-Jimokuji Station-Indwelling line 1.jpg|留置線<br />
+MT-Jimokuji Station-NorthGate.JPG|完成後の北口<br />
+MT-Jimokuji Station-Plaza.JPG|じもくじ夢広場<br />
+<br />
+=== 配線図 ===<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+== 利用状況 ==<br />
+*『名鉄<a href="http://localhost/keyword/120%E5%B9%B4">120年</a>：近<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>のあゆみ』によると20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>度当時の1日平均乗降人員は9,529人であり、この値は名鉄全駅（275駅）中44位、津島線（8駅）中2位であった。<br />
+*『名古屋鉄道百年史』によると1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a>度当時の1日平均乗降人員は9,842人であり、この値は岐阜市内線均一運賃区間内各駅（岐阜市内線・田神線・美濃町線徹明町駅 - 琴塚駅間）を除く名鉄全駅（342駅）中43位、津島線（8駅）中3位であった。<br />
+*『海部郡史稿本』によると、1<a href="http://localhost/keyword/922%E5%B9%B4">922年</a>当時の年間利用者数は乗車97,044人、降車94,083人（1日平均では乗車266人、降車258人）であった。<br />
+<br />
+あま市の統計によると、近年の1日平均乗降人員は下表のとおりである。[https://www.city.ama.aichi.jp/dbps_data/_material_/_files/000/000/003/074/betten1.pdf あま市 都市づくり前提条件]<br />
+<br />
+200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>12月27日のダイヤ改正までは特急が当駅を通過していたが、以前から特急停車駅であった須ヶ口駅や木田駅、勝幡駅より乗車人数が多く、津島線内では津島駅に次いで2番目に多い。<br />
+<br />
+== 駅周辺 ==<br />
+200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>から駅周辺整備事業に着手し、20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>に<a href="http://localhost/keyword/%E7%94%9A%E7%9B%AE%E5%AF%BA%E9%A7%85">甚目寺駅</a>北口駅前広場が完成した。駅前ロータリーが改築され、ロータリー内にはタクシー乗り場とバス乗り場が設置されている。<br />
+* 鳳凰山甚目寺<br />
+* あま市民病院<br />
+* あま市役所甚目寺庁舎（旧・甚目寺町役場）<br />
+* あま市甚目寺総合体育館<br />
+* あま市甚目寺総合福祉会館<br />
+* 甚目寺郵便局<br />
+* 愛知県立五条高等学校（徒歩約13分）<br />
+* あま市立甚目寺中学校<br />
+* あま市立甚目寺小学校<br />
+* ヨシヅヤ甚目寺店<br />
+=== バス ===<br />
+* あま市巡回バス（東部巡回ルート）<br />
+* あま市民病院巡回バス<br />
+<br />
+== 隣の駅 ==<br />
+七宝駅との間に新居屋駅があったが、19<a href="http://localhost/keyword/69%E5%B9%B4">69年</a>4月に廃止された。<br />
+<br />
+; 名古屋鉄道<br />
+: 津島線<br />
+:: ■特急・■急行・■準急<br />
+::: 須ヶ口駅 - &#39;<a href="http://localhost/keyword/%E7%94%9A%E7%9B%AE%E5%AF%BA%E9%A7%85">甚目寺駅</a>&#39; - 木田駅<br />
+:: ■普通<br />
+::: 須ヶ口駅 - &#39;<a href="http://localhost/keyword/%E7%94%9A%E7%9B%AE%E5%AF%BA%E9%A7%85">甚目寺駅</a>&#39; - 七宝駅　<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.meitetsu.co.jp/train/station_info/line09/station/2511.html <a href="http://localhost/keyword/%E7%94%9A%E7%9B%AE%E5%AF%BA%E9%A7%85">甚目寺駅</a>（名古屋鉄道）]<br />
+<br />
+<br />
+<br />
+<br />
+Category:愛知県の鉄道駅<br />
+もくし<br />
+Category:名古屋鉄道の鉄道駅<br />
+Category:名古屋電気鉄道<br />
+Category:名古屋鉄道 (初代)<br />
+Category:名岐鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/914%E5%B9%B4">914年</a>開業の鉄道駅<br />
+しもくしえき<br />

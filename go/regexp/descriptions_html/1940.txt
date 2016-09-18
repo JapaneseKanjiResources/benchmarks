@@ -1,0 +1,121 @@
+description<br />
+ 片町線（学研都市線）<br />
+|キロ程     = 39.8<br />
+|起点駅     = 木津<br />
+|所在地幅   = <br />
+|所在地     = 大阪府東大阪市稲田上町一丁目1-19<br />
+|座標       = <br />
+|駅構造     = 地上駅（橋上駅）<br />
+|ホーム     = 2面3線（旅客使用は2面2線）<br />
+|開業年月日 = 1<a href="http://localhost/keyword/895%E5%B9%B4">895年</a>（明治2<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）8月22日<br />
+|廃止年月日 = <br />
+|乗車人員   = 10,113<br />
+|乗降人員   = <br />
+|統計年度   = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|備考       = 直営駅みどりの窓口 有<br />
+}}<br />
+}<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+↓放出駅<br />
+----<br />
+※は近畿車輌への引込線<br />
+|}<br />
+|}<br />
+橋上駅舎（改札口）<br />
+ホーム<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E5%BE%B3%E5%BA%B5%E9%A7%85">徳庵駅</a>&#39;（とくあんえき）は、大阪府東大阪市稲田上町一丁目にある、西日本旅客鉄道（JR西日本）・日本貨物鉄道（JR貨物）片町線（学研都市線）の駅である。<br />
+<br />
+駅のすぐ西側の商店街（道路の西側）は大阪市鶴見区である。近畿車輛で製作された車両を輸送する列車の発駅となっている。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/895%E5%B9%B4">895年</a>（明治2<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）8月22日 - 浪速鉄道の四条畷駅 - 片町駅間開通と同時に開業。<br />
+* 1<a href="http://localhost/keyword/897%E5%B9%B4">897年</a>（明治<a href="http://localhost/keyword/30%E5%B9%B4">30年</a>）2月9日 - 浪速鉄道が関西鉄道に路線譲渡。同社の駅となる。<br />
+* 190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（明治40年）10月1日 - 関西鉄道が鉄道国有法により国有化。国有鉄道の駅となる。<br />
+* 1<a href="http://localhost/keyword/909%E5%B9%B4">909年</a>（明治<a href="http://localhost/keyword/42%E5%B9%B4">42年</a>）10月12日 - 線路名称制定。桜ノ宮線の所属となる。<br />
+* 1<a href="http://localhost/keyword/913%E5%B9%B4">913年</a>（大正<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）11月15日 - 線路名称改定。桜ノ宮線が片町線に編入され、当駅もその所属となる。<br />
+* 1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a>（昭和<a href="http://localhost/keyword/56%E5%B9%B4">56年</a>） - 駅舎を橋上化。従来からあった跨線橋を改修したもので西口は大阪市鶴見区、東口は東大阪市が負担した。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、JR西日本・JR貨物に承継。<br />
+*1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a>（平成<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）11月 - みどりの窓口営業開始。<br />
+* 2003年（平成<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）11月1日 - ICカードICOCA供用開始。<br />
+* 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>（平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>） - 西口に有料の駐輪所を設置。<br />
+* 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>（平成<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）3月15日 - 四条畷駅の被管理駅から放出駅の被管理駅となる。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線と島式ホーム1面2線、合計2面3線のホームを持つ地上駅で橋上駅舎を有する。2・3番のりばが島式である。<br />
+<br />
+1番のりばが上り本線、2番のりばが下り本線、3番のりばが下り副本線である。ただし<a href="http://localhost/keyword/%E6%97%85%E5%AE%A2%E5%88%97%E8%BB%8A">旅客列車</a>が主に停車するのは1番のりばと2番のりばである。3番のりばは普段は回送列車やダイヤ乱れ等の運転打ち切りによる京橋方面への折返し列車が停車するのみであるが、駅の近くにある近畿車輛で製造された車両の試運転やディーゼル車の回送の場合は3番のりばが使われることもある。そのため、3番のりばには両方向から入れるようになっている。<br />
+<br />
+直営駅（放出駅の被管理駅）かつICOCA利用可能駅（相互利用可能ICカードはICOCAの項を参照）。<br />
+<br />
+バリアフリーの一環として20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>3月26日にエレベーターと多目的トイレが設置された。<br />
+<br />
+=== のりば ===<br />
+<br />
+* 上表の路線名は旅客案内上の名称（愛称）で表記している。<br />
+<br />
+== ダイヤ ==<br />
+日中時間帯は各駅停車のみ1時間あたり4本停車する。朝夕は本数が多くなる。夕方は<a href="http://localhost/keyword/%E4%BA%AC%E6%A9%8B%E9%A7%85">京橋駅</a> - 四条畷駅間を往復する列車が運行されている関係で8本が停車する。<br />
+<br />
+== 利用状況 ==<br />
+大阪府統計年鑑[http://www.pref.osaka.jp/toukei/nenkan/ 大阪府統計年鑑] - 大阪府によると、1日の平均乗車人員は以下の通りである。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 徳庵商連会（府道15号線に立地、東大阪市と大阪市鶴見区の市境）<br />
+* 稲田商店街（稲田プラスロード）<br />
+* 近畿車輛本社・車両製作所<br />
+<br />
+=== バス路線 ===<br />
+大阪市営バス（&#39;<a href="http://localhost/keyword/%E5%BE%B3%E5%BA%B5%E9%A7%85">徳庵駅</a>口&#39;停留所・<a href="http://localhost/keyword/%E5%BE%B3%E5%BA%B5%E9%A7%85">徳庵駅</a>から西口=大阪市側400m程度）<br />
+* 46号系統：鶴見区役所前経由 天満橋 行<br />
+* 46号系統：焼野 行<br />
+:※20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>3月31日まで走っていた28号系統のバスは今津比枝神社→<a href="http://localhost/keyword/%E5%BE%B3%E5%BA%B5%E9%A7%85">徳庵駅</a>口→今津北四丁目→徳庵橋→<a href="http://localhost/keyword/%E5%BE%B3%E5%BA%B5%E9%A7%85">徳庵駅</a>口→今津比枝神社をループ運行した。<br />
+: このほか、20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>3月31日まで赤バス鶴見ループ（横堤バスターミナル 行）が停車していた。<br />
+近鉄バス（&#39;<a href="http://localhost/keyword/%E5%BE%B3%E5%BA%B5%E9%A7%85">徳庵駅</a>前&#39;停留所・<a href="http://localhost/keyword/%E5%BE%B3%E5%BA%B5%E9%A7%85">徳庵駅</a>東口南側のロータリー）<br />
+* 21番：小阪駅前 行（<a href="http://localhost/keyword/%E5%85%AB%E6%88%B8%E3%83%8E%E9%87%8C%E9%A7%85">八戸ノ里駅</a>前経由）<br />
+: 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>4月1日より乗り入れ。それまでは東口から500mほど南側の徳庵停留所が終点で、ターンテーブルのある折返場で折り返していた（現在は折返場の跡地はコインパーキングになっている）。<br />
+<br />
+<br />
+画像:Tokuan Syotengai.jpg|徳庵商連会<br />
+画像:Inada Plus1.jpg|稲田プラスロード1<br />
+画像:Inada Plus2.jpg|稲田プラスロード2<br />
+画像:Kinki Sharyou.jpg|近畿車輛本社<br />
+File:Kintetsu-bus-tokuan.jpg|近鉄バス<a href="http://localhost/keyword/%E5%BE%B3%E5%BA%B5%E9%A7%85">徳庵駅</a>前バス停<br />
+<br />
+<br />
+== 隣の駅 ==<br />
+; 西日本旅客鉄道<br />
+:  学研都市線（片町線）<br />
+:: 快速・区間快速<br />
+::: &#39;通過&#39;<br />
+:: 普通<br />
+::: 鴻池新田駅 - &#39;<a href="http://localhost/keyword/%E5%BE%B3%E5%BA%B5%E9%A7%85">徳庵駅</a>&#39; - 放出駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.jr-odekake.net/eki/top.php?id=0610916 JR西日本（<a href="http://localhost/keyword/%E5%BE%B3%E5%BA%B5%E9%A7%85">徳庵駅</a>）]<br />
+<br />
+<br />
+<br />
+<br />
+Category:東大阪市の鉄道駅<br />
+くあん<br />
+Category:西日本旅客鉄道の鉄道駅<br />
+Category:日本貨物鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:関西鉄道<br />
+Category:浪速鉄道<br />
+Category:1<a href="http://localhost/keyword/895%E5%B9%B4">895年</a>開業の鉄道駅<br />

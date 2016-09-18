@@ -1,0 +1,70 @@
+description<br />
+八戸線<br />
+|キロ程 = 10.3<br />
+|起点駅 = 八戸<br />
+|所在地幅 =<br />
+|所在地 = 青森県八戸市大字白銀町字大沢片平<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>（昭和<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）6月1日<br />
+|廃止年月日 =<br />
+|乗車人員 = 779<br />
+|乗降人員 =<br />
+|統計年度 = 200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a><br />
+|備考 = 無人駅（自動券売機 有）<br />
+}}<br />
+ホーム（200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>11月）<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E7%99%BD%E9%8A%80%E9%A7%85">白銀駅</a>&#39;（しろがねえき）は、青森県八戸市大字白銀町字大沢片平にある、東日本旅客鉄道（JR東日本）八戸線の駅。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>（昭和<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）6月1日 - 開業（管理駅:鮫駅）。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化によりJR東日本の駅となる。<br />
+* 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>（平成<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）12月10日 - 鮫駅の本八戸駅被管理化により駅員派遣廃止、無人化（簡易自動券売機設置まで暫定的に盛岡運輸区から要員派遣）。<br />
+* 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>（平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）2月23日 - 自動券売機設置。<br />
+* 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>（平成<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）12月1日 - 本八戸駅業務委託化による駅長・助役配置廃止に伴い、八戸駅長管理下となる。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を有する地上駅。200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>まではPOS端末（白銀451）が設置され、鮫駅より駅員が派遣されていた。現在は八戸駅管理の無人駅となり、便所は撤去され、簡易自動券売機が設置されているのみである。<br />
+<br />
+== 利用状況 ==<br />
+* 200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>度の乗車人員は、1日平均779人である。<br />
+<br />
+== 駅周辺 ==<br />
+* 青森県道1号八戸階上線<br />
+* 青森県道29号八戸環状線<br />
+* 青森銀行白銀支店<br />
+* 独立行政法人労働者健康福祉機構青森労災病院<br />
+* 八戸学院光星高等学校<br />
+* 八戸工業大学第一高等学校<br />
+* 青森県立八戸北高等学校<br />
+*八戸警察署みなと白銀交番<br />
+* 八戸白銀郵便局<br />
+* 青い森信用金庫白銀支店（旧・八戸信金店）<br />
+* 八戸漁港<br />
+* 三嶋神社<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 八戸線<br />
+:: 陸奥湊駅 - &#39;<a href="http://localhost/keyword/%E7%99%BD%E9%8A%80%E9%A7%85">白銀駅</a>&#39; - 鮫駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=852 JR東日本 <a href="http://localhost/keyword/%E7%99%BD%E9%8A%80%E9%A7%85">白銀駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+Category:八戸市の鉄道駅<br />
+ろかね<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>開業の鉄道駅<br />

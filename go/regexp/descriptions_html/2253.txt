@@ -1,0 +1,18 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E7%AD%89%E9%9B%BB%E7%82%B9">等電点</a>&#39;（とうでんてん、、IEP）はアニオンになる官能基とカチオンになる官能基の両方を持つ化合物において、電離後の化合物全体の電荷平均が0となるpHのこと。<br />
+<br />
+==アミノ酸の<a href="http://localhost/keyword/%E7%AD%89%E9%9B%BB%E7%82%B9">等電点</a>==<br />
+アミノ酸はアミノ基とカルボキシル基の両方を持っているので<a href="http://localhost/keyword/%E7%AD%89%E9%9B%BB%E7%82%B9">等電点</a>がある代表的な化合物であるが、カルボキシル基を複数もつ酸性アミノ酸(アスパラギン酸及びグルタミン酸)は一般に<a href="http://localhost/keyword/%E7%AD%89%E9%9B%BB%E7%82%B9">等電点</a>が低く、アミノ基を複数もつ塩基性アミノ酸(アルギニン、ヒスチジン及びリシン)は一般に<a href="http://localhost/keyword/%E7%AD%89%E9%9B%BB%E7%82%B9">等電点</a>が高い。その他の中性アミノ酸の<a href="http://localhost/keyword/%E7%AD%89%E9%9B%BB%E7%82%B9">等電点</a>はアミノ基の酸解離定数（pKa）とカルボキシル基の酸解離定数を足して2で割ると容易に算出できる。<br />
+<br />
+== 関連項目 ==<br />
+*電気化学<br />
+*イオン<br />
+*沈殿<br />
+*電気泳動<br />
+<br />
+== 外部リンク ==<br />
+*[http://www.embl-heidelberg.de/cgi/pi-wrapper.pl EMBL WWW Gateway to Isoelectric Point Service] &amp;mdash; calculates the pI for an input amino acid sequence.<br />
+*[http://isoelectric.ovh.org Calculation of protein isoelectric point] &amp;mdash; free online and offline program to calculation pI and more theoretical information about this subject<br />
+<br />
+とうてんてん<br />
+とうてんてん<br />

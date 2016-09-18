@@ -1,0 +1,65 @@
+description<br />
+<br />
+石巻線<br />
+|キロ程 = 38.3<br />
+|起点駅 = 小牛田<br />
+|所在地 = 宮城県石巻市沢田字沢田1714<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/939%E5%B9%B4">939年</a>（昭和<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）10月7日<br />
+|廃止年月日 =<br />
+|乗車人員 =<br />
+|乗降人員 =<br />
+|統計年度 =<br />
+|乗換 =<br />
+|備考 = 無人駅<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E6%B2%A2%E7%94%B0%E9%A7%85">沢田駅</a>&#39;（さわだえき）は、宮城県石巻市沢田字沢田にある、東日本旅客鉄道（JR東日本）石巻線の駅である。<br />
+<br />
+== 歴史 ==<br />
+震災後の<a href="http://localhost/keyword/%E6%B2%A2%E7%94%B0%E9%A7%85">沢田駅</a><br />
+復旧後の<a href="http://localhost/keyword/%E6%B2%A2%E7%94%B0%E9%A7%85">沢田駅</a><br />
+* 1<a href="http://localhost/keyword/939%E5%B9%B4">939年</a>（昭和<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）10月7日：鉄道省石巻線の駅として開業。当時は上下列車が交換可能の有人駅で荷扱いも行っていた。<br />
+* 1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>（昭和<a href="http://localhost/keyword/35%E5%B9%B4">35年</a>）10月1日：無人化。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日：国鉄分割民営化によりJR東日本の駅となる。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）3月11日：東北地方太平洋沖地震と、それに伴う大津波の影響により全線で不通となる。地震で地盤沈下が起きたため駅一帯は満潮時に線路が冠水状態となる。<br />
+* 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）3月16日：渡波駅 - 浦宿駅間復旧により営業再開。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を有する地上駅である。<br />
+<br />
+石巻駅管理の無人駅で、設備はベンチだけの小さな待合室と駅入口に運行情報やお知らせを流す案内表示器が設置されている。<br />
+<br />
+== 駅周辺 ==<br />
+* 石巻地区漁業協同組合沢田支所<br />
+* 万石浦<br />
+* イオン石巻東ショッピングセンター<br />
+* 国道398号（女川街道）<br />
+* 宮城県道234号稲井沢田線<br />
+* ミヤコーバス「<a href="http://localhost/keyword/%E6%B2%A2%E7%94%B0%E9%A7%85">沢田駅</a>前」停留所<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 石巻線<br />
+:: 万石浦駅 - &#39;<a href="http://localhost/keyword/%E6%B2%A2%E7%94%B0%E9%A7%85">沢田駅</a>&#39; - 浦宿駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 出典 ==<br />
+<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=762 JR東日本 <a href="http://localhost/keyword/%E6%B2%A2%E7%94%B0%E9%A7%85">沢田駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+Category:石巻市の鉄道駅<br />
+わた<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/939%E5%B9%B4">939年</a>開業の鉄道駅<br />
+Category:石巻線<br />

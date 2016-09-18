@@ -1,0 +1,60 @@
+description<br />
+<br />
+|所属事業者 = 四国旅客鉄道（JR四国）<br />
+|所属路線 = 予讃線<br />
+|キロ程 = 149.6<br />
+|起点駅 = 高松<br />
+|所在地 = 愛媛県今治市高部<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/924%E5%B9%B4">924年</a>（大正<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）12月1日<br />
+|廃止年月日 =<br />
+|乗車人員 =<br />
+|乗降人員 =<br />
+|統計年度 =<br />
+|乗換 =<br />
+|備考 =無人駅<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E6%B3%A2%E6%AD%A2%E6%B5%9C%E9%A7%85">波止浜駅</a>&#39;（はしはまえき）は、愛媛県今治市高部にある四国旅客鉄道（JR四国）予讃線の駅である。<br />
+<br />
+愛媛県では最北端の駅である。<br />
+<br />
+== 駅構造 ==<br />
+1番線が上下本線（<a href="http://localhost/keyword/%E4%BB%8A%E6%B2%BB%E9%A7%85">今治駅</a>方制限速度90km/h、松山駅方制限速度65km/h）、2番線が上下副本線となっている一線スルーで対向式2面2線の交換可能な地上駅。<br />
+<br />
+現在は無人化された。また、駅前にあったソテツなどの木々が切られていた。（2009.7.16）<br />
+<br />
+== 駅周辺 ==<br />
+*波止浜興産自動車教習所<br />
+*ディオ今治北店<br />
+*コメリハードアンドグリーン波止浜店<br />
+*国道317号<br />
+*愛媛県道158号波止浜停車場線<br />
+*愛媛県道325号今治大三島自転車道線（瀬戸内海横断自転車道）<a href="http://localhost/keyword/%E6%9D%A5%E5%B3%B6%E6%B5%B7%E5%B3%A1">来島海峡</a>大橋自転車・歩行者入口まで2.4km（サイクルトレインが走行したことあり）。<br />
+*西瀬戸自動車道（しまなみ海道）今治北インターチェンジ<br />
+<br />
+== 歴史 ==<br />
+*1<a href="http://localhost/keyword/924%E5%B9%B4">924年</a>（大正<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）12月1日 開業。当時は塩田開発で富豪が多く住んでいたため、<a href="http://localhost/keyword/%E4%BB%8A%E6%B2%BB%E9%A7%85">今治駅</a>〜大西駅間を遠回りするルートになった。<br />
+*1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 国鉄分割民営化により、四国旅客鉄道の駅となる。<br />
+<br />
+== 隣の駅 ==<br />
+;四国旅客鉄道<br />
+:予讃線<br />
+::<a href="http://localhost/keyword/%E4%BB%8A%E6%B2%BB%E9%A7%85">今治駅</a> (Y40) - &#39;<a href="http://localhost/keyword/%E6%B3%A2%E6%AD%A2%E6%B5%9C%E9%A7%85">波止浜駅</a> (Y41)&#39; - <a href="http://localhost/keyword/%E6%B3%A2%E6%96%B9%E9%A7%85">波方駅</a> (Y42)<br />
+<br />
+== 関連項目 ==<br />
+*日本の鉄道駅一覧<br />
+* 日本の都道府県の東西南北端の駅の一覧<br />
+<br />
+<br />
+<br />
+<br />
+category:愛媛県の鉄道駅<br />
+しはま<br />
+category:四国旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+はしはまえき<br />
+Category:1<a href="http://localhost/keyword/924%E5%B9%B4">924年</a>開業の鉄道駅<br />
+はしはまえき<br />

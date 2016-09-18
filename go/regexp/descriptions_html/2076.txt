@@ -1,0 +1,71 @@
+description<br />
+ <br />
+|所属事業者 =23px大阪高速鉄道（大阪モノレール）<br />
+|所属路線   = 大阪モノレール線（本線）<br />
+|キロ程     = 0.0<br />
+|起点駅     = 当駅<br />
+|所在地     = 大阪府豊中市蛍池西町3丁目551番地<br />
+|座標       = <br />
+|駅構造     = 高架駅<br />
+|ホーム     = 島式 1面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>（平成<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）4月1日<br />
+|廃止年月日 = <br />
+|乗車人員   = <br />
+|乗降人員   = 13,505<br />
+|統計年度   = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換       = <br />
+|備考       = <br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E5%A4%A7%E9%98%AA%E7%A9%BA%E6%B8%AF%E9%A7%85">大阪空港駅</a>&#39;（おおさかくうこうえき）は、大阪府豊中市蛍池西町にある大阪高速鉄道大阪モノレール線（本線）の駅。<br />
+大阪国際空港（伊丹空港）ターミナルビルに直結する。駅番号は&#39;11&#39;。<br />
+<br />
+なお、駅舎付近は豊中市域（蛍池西町、南空港町）と池田市域（空港）、兵庫県伊丹市域（小阪田）が複雑に入り組む「錯雑地」となっており、駅舎も各市にまたがっているが、公式な住所は駅長室の位置より豊中市となっている。<br />
+<br />
+== 駅構造 ==<br />
+島式ホーム1面2線を有する高架駅。原則として2番ホームのみが使用され、1番ホームに発着する<a href="http://localhost/keyword/%E6%97%85%E5%AE%A2%E5%88%97%E8%BB%8A">旅客列車</a>は初発列車と平日ラッシュ時のごく一部のみとなっている。1番ホームはこの他当駅到着後に回送車になる列車の降車用として使われる。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 大阪国際空港（伊丹空港） 2階と直結<br />
+** 北ターミナルビル<br />
+** 南ターミナルビル<br />
+** <a href="http://localhost/keyword/%E5%A4%A7%E9%98%AA%E7%A9%BA%E6%B8%AF">大阪空港</a>ホテル<br />
+** 全日空整備センター<br />
+** 貨物ビル<br />
+* <a href="http://localhost/keyword/%E5%A4%A7%E9%98%AA%E7%A9%BA%E6%B8%AF">大阪空港</a>出入口 阪神高速11号池田線<br />
+<br />
+==利用状況==<br />
+20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）度の1日平均の乗降客数は&#39;12,786人&#39;である。<br />
+<br />
+各年度の1日平均乗車・乗降人員数は下表のとおり。<br />
+<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>4月1日 - 大阪モノレール線当駅～柴原間延伸時に開業。<br />
+<br />
+== 隣の駅 ==<br />
+; 大阪高速鉄道<br />
+: 大阪モノレール線（本線）<br />
+:: &#39;<a href="http://localhost/keyword/%E5%A4%A7%E9%98%AA%E7%A9%BA%E6%B8%AF%E9%A7%85">大阪空港駅</a> (11)&#39; - 蛍池駅 (12)<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.osaka-monorail.co.jp/station/r11_osaka_air.html 大阪モノレール（<a href="http://localhost/keyword/%E5%A4%A7%E9%98%AA%E7%A9%BA%E6%B8%AF%E9%A7%85">大阪空港駅</a>）]<br />
+<br />
+<br />
+<br />
+<br />
+Category:豊中市の鉄道駅<br />
+おさかくうこう<br />
+Category:大阪高速鉄道の鉄道駅<br />
+Category:日本の空港駅<br />
+Category:1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>開業の鉄道駅<br />
+おおさかくうこうえき<br />

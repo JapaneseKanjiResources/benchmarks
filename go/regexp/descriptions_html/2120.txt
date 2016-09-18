@@ -1,0 +1,92 @@
+description<br />
+<br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/918%E5%B9%B4">918年</a>（大正<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）2月11日<br />
+|廃止年月日 =<br />
+|乗車人員 = 353<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|乗換 =<br />
+|備考 = 簡易委託駅標高：647m<br />
+|備考全幅 =<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E9%A3%AF%E5%B3%B6%E9%A7%85">飯島駅</a>&#39;（いいじまえき）は、長野県上伊那郡飯島町飯島にある、東海旅客鉄道（JR東海）飯田線の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/918%E5%B9%B4">918年</a>（大正<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）<br />
+** 2月11日 - 伊那電車軌道（1<a href="http://localhost/keyword/919%E5%B9%B4">919年</a>に伊那電気鉄道に改称）が伊那福岡終点（廃止）から延伸した際に終着駅として開業。一般駅。<br />
+** 7月23日 - 伊那電車軌道が七久保駅まで延伸し、途中駅となる。<br />
+* 1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a>（昭和<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）8月1日 - 伊那電気鉄道線が飯田線の一部として国有化され、国鉄の駅となる。<br />
+* 1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>（昭和<a href="http://localhost/keyword/46%E5%B9%B4">46年</a>）12月1日 - 貨物の取扱を廃止（旅客駅となる）。<br />
+* 1<a href="http://localhost/keyword/983%E5%B9%B4">983年</a>（昭和<a href="http://localhost/keyword/58%E5%B9%B4">58年</a>）2月24日 - CTC化に伴い業務委託開始。<br />
+* 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>（昭和<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>）3月14日 - 荷物の取扱を廃止。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、東海旅客鉄道の駅となる。<br />
+* 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）4月1日 - 自治体による簡易委託駅になる[http://www.chunichi.co.jp/article/nagano/20130209/CK2013020902000014.html 飯田市内2駅が無人駅に　JR飯田線] - 中日新聞（20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>2月9日）20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>3月8日閲覧。。<br />
+<br />
+== 駅構造 ==<br />
+相対式ホーム2面2線を持つ地上駅。下り線ホームに駅舎があり、上り線ホームとは田切駅方面にある構内踏切で繋がっている。<br />
+<br />
+伊那市駅管理の簡易委託駅で、飯島町が業務を受託している。20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>3月31日までは東海交通事業の職員が業務を担当する業務委託駅で、みどりの窓口も設置されていた。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+== 利用状況 ==<br />
+「長野県統計書」によると、1日平均の乗車人員は以下の通りである。<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>度 - 344人<br />
+* 20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>度 - 323人<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>度 - 335人<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>度 - 327人<br />
+* 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>度 - 353人<br />
+<br />
+== 駅周辺 ==<br />
+市街地活性化事業が完成し、美しい町並みになっている。<br />
+* 飯島町役場<br />
+* 飯島町立飯島中学校<br />
+* 飯島町立飯島小学校<br />
+* 飯島郵便局<br />
+* 八十二銀行飯島支店<br />
+* JA上伊那飯島支所<br />
+* アルプス中央信用金庫飯島支店<br />
+* 飯島陣屋<br />
+* 国道153号<br />
+<br />
+== 路線バス ==<br />
+飯島町いいちゃんバス<br />
+* 病院線　 昭和伊南総合病院行き （1日4往復）<br />
+* 南部線　 本郷・七久保方面 （1日4往復・デマンド式）<br />
+* 西部線　 豊岡・岩間・赤坂・上ノ原・春日平方面 （1日4往復・デマンド式）<br />
+* 東部線　 日曽利・鳥居原・石曽根・親町・田切方面 （1日4往復・デマンド式）<br />
+<br />
+中川村営巡回バス<br />
+* 巡回北回り線<br />
+<br />
+== 隣の駅 ==<br />
+; 東海旅客鉄道<br />
+: 飯田線<br />
+:: 快速「みすず」<br />
+::: 七久保駅 - （上りのみ伊那本郷駅） - &#39;<a href="http://localhost/keyword/%E9%A3%AF%E5%B3%B6%E9%A7%85">飯島駅</a>&#39; - 伊那福岡駅<br />
+:: 普通<br />
+::: 伊那本郷駅 - &#39;<a href="http://localhost/keyword/%E9%A3%AF%E5%B3%B6%E9%A7%85">飯島駅</a>&#39; - 田切駅<br />
+※国有化以前は当駅と田切駅の間に伊那赤坂停留場が存在した。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+<br />
+Category:長野県の鉄道駅<br />
+Category:飯島町<br />
+いしま<br />
+Category:伊那電気鉄道<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:東海旅客鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/918%E5%B9%B4">918年</a>開業の鉄道駅<br />
+Category:飯田線<br />

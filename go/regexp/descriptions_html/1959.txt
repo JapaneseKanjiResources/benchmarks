@@ -1,0 +1,70 @@
+description<br />
+ <br />
+|infobox_width       =<br />
+|image               =Leaning Tower of Pisa (April 2012).jpg<br />
+|image_size          =<br />
+|caption             =<br />
+|location            =<br />
+|geo                 =<br />
+|religious_affiliation=カトリック教会<br />
+|rite                =<br />
+|province            =トスカーナ州<br />
+|prefecture          =ピサ県<br />
+|status              =公開<br />
+|website             =http://www.opapisa.it/en/home-page.html<br />
+|architect           =<br />
+|architecture_type   =鐘楼<br />
+|architecture_style  =<a href="http://localhost/keyword/%E3%83%AD%E3%83%9E%E3%83%8D%E3%82%B9%E3%82%AF">ロマネスク</a>建築<br />
+|facade_direction    =<br />
+|groundbreaking      =1<a href="http://localhost/keyword/173%E5%B9%B4">173年</a><br />
+|year_completed      =1<a href="http://localhost/keyword/372%E5%B9%B4">372年</a><br />
+|capacity            =<br />
+|length              =<br />
+|width               =<br />
+|height_max          =<br />
+|materials           =大理石}}<br />
+&#39;<a href="http://localhost/keyword/%E3%83%94%E3%82%B5%E3%81%AE%E6%96%9C%E5%A1%94">ピサの斜塔</a>&#39;（ピサのしゃとう、）は、イタリアのピサ市にあるピサ大聖堂の鐘楼であり、世界遺産「ピサのドゥオモ広場」を構成する観光スポットである。高さは地上55.86m、階段は296段あり、重量は14,453t、地盤にかかる平均応力は50.7tf/m2と見積もられている。一時傾斜の増大と倒壊の危惧があったがその後の処置により、当分問題ないと判断されている（後述）。5.5度傾いていたが、19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>から2001年の間に行われた工事によって、現在は約3.99度に是正されている。 かつてのガリレオの実験に対して行われた異端審問の弾圧に関連してローマ法王が侘びの公式声明を塔の頂上にて行った事も有名。<br />
+<br />
+== 傾斜の原因 ==<br />
+傾斜の原因は、19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>から改修工事前に行われた地質調査によれば、地盤の土質が極めて不均質であったことである。南側の土質が相対的にやわらかく年月を経るうちに傾き始め、それにより回転モーメントが増大してますます地盤に対する負担が大きくなり、結果的には塔の南側が大きく沈下するという事態に陥ったのである。<br />
+<br />
+工期は、第1工期1<a href="http://localhost/keyword/173%E5%B9%B4">173年</a> - 1<a href="http://localhost/keyword/178%E5%B9%B4">178年</a>、第2工期1<a href="http://localhost/keyword/272%E5%B9%B4">272年</a> - 1<a href="http://localhost/keyword/278%E5%B9%B4">278年</a>、第3工期1<a href="http://localhost/keyword/360%E5%B9%B4">360年</a> - 1<a href="http://localhost/keyword/372%E5%B9%B4">372年</a>で、工期間隔が非常に長い。というのも、1<a href="http://localhost/keyword/173%E5%B9%B4">173年</a>8月9日の着工時には鉛直であったが、第1工期後には既に塔が傾きはじめ、第2工期でややその傾斜を修正しつつ建設が再開されたものの、その傾きはなおも止まらず、第3工期を迎えたのである。傾斜が修正できなかったため、最上階層のみ鉛直に建てられている。オリジナルの建築計画上では現在あるものよりも遥かに高い鐘楼ができる予定であったという。しかし「<a href="http://localhost/keyword/%E3%83%94%E3%82%B5%E3%81%AE%E6%96%9C%E5%A1%94">ピサの斜塔</a>」として世界で最も有名な不等沈下の事例として現在もその姿を保つこととなった。<br />
+<br />
+== 傾斜の克服 ==<br />
+1<a href="http://localhost/keyword/935%E5%B9%B4">935年</a>、地下水が地盤をやわらかくしてしまうのを防ぐため薬液を注入して地下水の浸入を止めようとする応急処置がとられた。しかし、現場の地盤は&#39;鋭敏比&#39;（詳細は土質力学の項を参照）が非常に高く、攪乱によって強度が著しく低下し、沈下は更に進んでしまった。19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>代、現地の地下水汲み上げによって地下水位が下がり、またも傾斜進行という危機を迎え、1<a href="http://localhost/keyword/964%E5%B9%B4">964年</a>2月27日ついに、イタリア政府は<a href="http://localhost/keyword/%E3%83%94%E3%82%B5%E3%81%AE%E6%96%9C%E5%A1%94">ピサの斜塔</a>を崩壊から回避するための支援を求めた。<br />
+<br />
+19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>1月7日、安全上の問題により公開を休止し、傾斜角を是正するために改修工事が行われた。当初は沈み込んだ側と反対の北側におもりを載せることでバランスをとろうとしたが、根本的な解決には至らなかった。その後、改修工法には世界各国の建設会社から様々な提案がなされたが、最終的に、北側の地盤を掘削するという工法が採られた。他にも、薬液を注入して地盤改良を行うなどの案もあったが、透水性の低い粘土層への注入は難しく、強引に注入すれば攪乱が起こり前述の鋭敏比の問題は避けられなかった。そして2001年6月16日、<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>間にわたる作業が終了し公開は再開された。<br />
+<br />
+200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>5月28日、監視担当のエンジニアで地質学者でもあるミケレ・ジャミオルコウスキ教授により、少なくともあと<a href="http://localhost/keyword/300%E5%B9%B4">300年</a>は倒れる危険がないとの見解が示されている。<br />
+<br />
+== 見学 ==<br />
+かつては一時立ち入り禁止となった時期もあったものの現在では塔が安定したため有料で最上階まで階段で登ることが出来る。ただし混雑するために人数制限があり、入場券の枚数は限られている。通路が狭いので大きな荷物は持ち込むことはできない。<br />
+<br />
+== ギネスブック掲載 ==<br />
+長らく世界中で最も傾斜している建物と認識されていたが、ギネスブックは15世紀に建造されたドイツ北西部エムデンの付近にある教会の尖塔（ズールフーゼンの斜塔）の方が傾斜していると判定した。200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>のギネスブックからは<a href="http://localhost/keyword/%E3%83%94%E3%82%B5%E3%81%AE%E6%96%9C%E5%A1%94">ピサの斜塔</a>に代わって掲載されるとされた。<br />
+<br />
+20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>6月にはアラブ首長国連邦アブダビにあるキャピタルゲートビル（35階建てビル）が傾斜角約18度であるとしてギネスブック世界記録に認定された。ただし、<a href="http://localhost/keyword/%E3%83%94%E3%82%B5%E3%81%AE%E6%96%9C%E5%A1%94">ピサの斜塔</a>と違いこちらは意図的に傾斜させている。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 世界遺産の一覧<br />
+* ガリレオ・ガリレイ - ここで実験を行ったとするエピ<a href="http://localhost/keyword/%E3%82%BD%E3%83%BC%E3%83%89">ソード</a>があるが、創作であるとの説もある。<br />
+* 斜塔錯視<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://whc.unesco.org/pg.cfm?cid=31&amp;id_site=395 ユネスコによる紹介]<br />
+* [http://www.opapisa.it/en/home.html Official Website]<br />
+<br />
+<br />
+Category:イタリアの世界遺産<br />
+Category:イタリアの塔<br />
+Category:イタリアの歴史的建築物<br />
+Category:傾いた建築物<br />
+Category:鐘楼<br />
+Category:世界遺産 は行<br />
+Category:ピサの建築物<br />
+Category:ピサの<a href="http://localhost/keyword/%E8%A6%B3%E5%85%89%E5%9C%B0">観光地</a><br />
+Category:円形建築物<br />

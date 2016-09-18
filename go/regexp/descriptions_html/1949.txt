@@ -1,0 +1,62 @@
+description<br />
+、属格: |<br />
+symbology = the water snake |<br />
+RA = 0h05m - 4h40m |<br />
+dec= &amp;minus;58&amp;deg; - &amp;minus;82 |<br />
+quadrant = SQ1 |<br />
+areatotal = 243 |<br />
+arearank = 61 |<br />
+numbermainstars = 3 |<br />
+numberbfstars = 19 |<br />
+numberstarsplanets = 1 |<br />
+numberbrightstars = 2 |<br />
+numbernearbystars = 1 |<br />
+brighteststarname =  &amp;beta; Hyi |<br />
+starmagnitude = 2.79 |<br />
+neareststarname = &amp;beta; Hyi |<br />
+stardistance = 24.3|<br />
+numbermessierobjects = 0 |<br />
+meteorshowers =  |<br />
+bordering =かじき座エリダヌス座とけい座テーブルさん座はちぶんぎ座ほうおう座（角で接する）レチクル座きょしちょう座 |<br />
+notes=}}<br />
+&#39;<a href="http://localhost/keyword/%E3%81%BF%E3%81%9A%E3%81%B8%E3%81%B3%E5%BA%A7">みずへび座</a>&#39;（水蛇座、Hydrus）は、南天の星座の1つ。<br />
+<br />
+== 主な天体 ==<br />
+=== 恒星 ===<br />
+<br />
+* &amp;alpha;星：紀元前3000年頃には南極星だった。<br />
+* &amp;beta;星：2.79等の恒星。太陽とよく似た黄色い星。<br />
+* HD 10180：太陽と良く似た恒星。惑星が確定したもので7個と最多であり、未確定も2個ある。<br />
+<br />
+=== 星団・星雲・銀河 ===<br />
+* NGC 643：渦巻銀河。<br />
+* NGC 1511：渦巻銀河。<br />
+<br />
+== 由来と歴史 ==<br />
+<br />
+<a href="http://localhost/keyword/%E3%81%BF%E3%81%9A%E3%81%B8%E3%81%B3%E5%BA%A7">みずへび座</a>は16世紀以降に作られた新しい星座であり、神話はない。<br />
+<br />
+ペーテル・ケイセルとフレデリック・デ・ハウトマンが残した観測記録を元にペトルス・プランシウスが1<a href="http://localhost/keyword/597%E5%B9%B4">597年</a>に作成した地球儀に残したものが最初である。ヨハン・バイエルが1<a href="http://localhost/keyword/603%E5%B9%B4">603年</a>に発刊したウラノメトリアでそれを引用したことにより世に知られるようになった。「ウラノメトリア」では<a href="http://localhost/keyword/%E3%81%8F%E3%81%98%E3%82%83%E3%81%8F%E5%BA%A7">くじゃく座</a>ときょしちょう座の間をくねり抜けながら天の南極を過ぎてふうちょう座の手前まで姿が描かれていたが、ラカイユは自ら考案したはちぶんぎ座に場所を開けるために尻尾の部分を切り取り、大<a href="http://localhost/keyword/%E3%83%9E%E3%82%BC%E3%83%A9%E3%83%B3">マゼラン</a>雲と小<a href="http://localhost/keyword/%E3%83%9E%E3%82%BC%E3%83%A9%E3%83%B3">マゼラン</a>雲を結ぶように描き直した。<br />
+<br />
+<a href="http://localhost/keyword/%E3%81%86%E3%81%BF%E3%81%B8%E3%81%B3%E5%BA%A7">うみへび座</a> () とはラテン語の綴りもよく似ているが、文法的には同じ単語の男性形と女性形である。一般名詞としてのヒュドラーの定訳は「水蛇」であるため、直訳で区別すれば、<a href="http://localhost/keyword/%E3%81%BF%E3%81%9A%E3%81%B8%E3%81%B3%E5%BA%A7">みずへび座</a>は「雄の水蛇」、<a href="http://localhost/keyword/%E3%81%86%E3%81%BF%E3%81%B8%E3%81%B3%E5%BA%A7">うみへび座</a>は「雌の水蛇」となる。<br />
+<br />
+ラカイユは、<a href="http://localhost/keyword/1756%E5%B9%B4">1756年</a>に出版した彼の星図上で &#39;&#39;l’Hydre Mâle&#39;&#39; 「雄のうみへび」と名付け、<a href="http://localhost/keyword/%E3%81%86%E3%81%BF%E3%81%B8%E3%81%B3%E5%BA%A7">うみへび座</a>とは性別が異なることを強調した。<br />
+<br />
+== 呼称と方言 ==<br />
+日本では戦中まで&#39;こ<a href="http://localhost/keyword/%E3%81%86%E3%81%BF%E3%81%B8%E3%81%B3%E5%BA%A7">うみへび座</a>&#39;（小海蛇座）と呼ばれていた。<br />
+<br />
+== 出典 ==<br />
+<br />
+<br />
+<br />
+<br />
+|page=B 21頁<br />
+|ref=harv}}<br />
+}}<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+*<br />
+Category:天文学に関する記事<br />

@@ -1,0 +1,69 @@
+description<br />
+もしくは; 属格: |<br />
+symbology = Perseus |<br />
+RA = 3 |<br />
+dec= +45 |<br />
+quadrant = NQ1 |<br />
+areatotal = 615 |<br />
+arearank = 24 |<br />
+numbermainstars = 6, 22 |<br />
+numberbfstars = 65 |<br />
+numberstarsplanets = 3 |<br />
+numberbrightstars = 5 |<br />
+numbernearbystars = 2 |<br />
+brighteststarname = &amp;alpha; Per |<br />
+starmagnitude = 1.816 |<br />
+neareststarname = &amp;iota; Per |<br />
+stardistance = 34.4 |<br />
+numbermessierobjects = 2 |<br />
+meteorshowers =<a href="http://localhost/keyword/%E3%83%9A%E3%83%AB%E3%82%BB%E3%82%A6%E3%82%B9%E5%BA%A7">ペルセウス座</a>流星群9月の<a href="http://localhost/keyword/%E3%83%9A%E3%83%AB%E3%82%BB%E3%82%A6%E3%82%B9%E5%BA%A7">ペルセウス座</a>流星群 |<br />
+bordering =カシオペヤ座アンドロメダ座さんかく座おひつじ座おうし座ぎょしゃ座きりん座 |<br />
+notes=}}<br />
+&#39;<a href="http://localhost/keyword/%E3%83%9A%E3%83%AB%E3%82%BB%E3%82%A6%E3%82%B9%E5%BA%A7">ペルセウス座</a>&#39;（Perseus）は、北天の星座でトレミーの48星座の1つ。<br />
+<br />
+有名な変光星アルゴル（Algol）（<a href="http://localhost/keyword/%E3%83%9A%E3%83%AB%E3%82%BB%E3%82%A6%E3%82%B9%E5%BA%A7">ペルセウス座</a>&amp;beta;星）があり、毎年<a href="http://localhost/keyword/%E3%83%9A%E3%83%AB%E3%82%BB%E3%82%A6%E3%82%B9%E5%BA%A7">ペルセウス座</a>流星群も観測される。<br />
+<br />
+== 主な天体 ==<br />
+<br />
+=== 恒星 ===<br />
+<br />
+<br />
+&amp;alpha;星、&amp;beta;星の2つの2等星がある。<br />
+<br />
+* &amp;alpha;星：ミルファク（Mirphak）は、<a href="http://localhost/keyword/%E3%83%9A%E3%83%AB%E3%82%BB%E3%82%A6%E3%82%B9%E5%BA%A7">ペルセウス座</a>で最も明るい恒星で、&#39;アルゲニブ&#39;（Algenib）とも呼ばれる。薄黄色の超巨星である。全く同じAlgenibという固有名の星は他にもたとえばペガスス座&amp;gamma;星などがある。意味はアラビア語の「ひじ」である。<br />
+<br />
+* &amp;beta;星：アルゴル(Algol)は、星座で最も明るい恒星ではないが、この星座で最も有名な恒星である。この星はアラビアのal-Ghul(は悪鬼あるいはアルゴールを意味する)で、星座内の位置はペルセウスが持つ怪物メドゥーサの目の部分に当たる。この星は食変光星で、視等級は2.12等から3.39等まで変化し、周期は2.867日である。当時は変光星は知られていなかったはずだが、命名、そして、メドゥーサの首の部分に当たることから、ひょっとするとギリシャ時代から明るさが変わることが知られていた可能性があるとも言われる。<br />
+<br />
+=== 星団・星雲・銀河 ===<br />
+<br />
+*Mel20：<a href="http://localhost/keyword/%E6%95%A3%E9%96%8B%E6%98%9F%E5%9B%A3">散開星団</a>。&amp;alpha;星付近で広範囲に広がる。<br />
+<br />
+* h+&amp;chi; PerまたはNGC869とNGC884（二重星団）：2つの接近した<a href="http://localhost/keyword/%E6%95%A3%E9%96%8B%E6%98%9F%E5%9B%A3">散開星団</a>。非常に美しい天体である。これらは双眼鏡で見ることができる。これらは地球から7,000光年離れており、それぞれが数百光年離れている。半規則型変光星のS星・T星・RS星も含むロバート・バーナム・ジュニア 著 斉田博 訳 『星百科大事典 改訂版』 地人書館、19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>2月10日初版発行、ISBN 4-8052-0266-1、1215頁。。<br />
+<br />
+* M34：<a href="http://localhost/keyword/%E6%95%A3%E9%96%8B%E6%98%9F%E5%9B%A3">散開星団</a>。視等級5.5等。視直径は満月より若干広く、この領域に約100の星がある。<br />
+<br />
+* NGC 1499（カリフォルニア星雲）：散光星雲。アメリカ合衆国のカリフォルニア州に形がよく似ている。この星雲は暗く、望遠鏡でもよく見えない。<br />
+<br />
+* M76（小亜鈴状星雲）：惑星状星雲。視直径は約65秒ある。視等級10.1等。<br />
+<br />
+== 神話 ==<br />
+<br />
+ペルセウス（<a href="http://localhost/keyword/%E3%83%9A%E3%83%AB%E3%82%BB%E3%82%A6%E3%82%B9%E5%BA%A7">ペルセウス座</a>）は、怪物メドゥーサを倒し、また海の怪物ケートス（くじら座）の生贄にされようとしていたアンドロメダー姫（アンドロメダ座）を救って結婚した。天上のペルセウスは、右手に剣、左手にはメドゥーサの首を持っている。メドゥーサの首はあまりに恐ろしく、見たものは石になってしまうという。<br />
+<br />
+== 出典 ==<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+*<br />
+Category:天文学に関する記事<br />

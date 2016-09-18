@@ -1,0 +1,75 @@
+description<br />
+、属格:<br />
+ |symbology = the sea serpent<br />
+ |RA = 8-15<br />
+ |dec = −20<br />
+ |culmination date = 4月<br />
+ |quadrant = SQ2<br />
+ |areatotal = 1303<br />
+ |arearank = 1<br />
+ |numbermainstars = 17<br />
+ |numberbfstars = 75<br />
+ |numberstarsplanets = 7<br />
+ |numberbrightstars = 2<br />
+ |numbernearbystars = 2<br />
+ |brighteststarname = &amp;alpha; Hya<br />
+ |starmagnitude = 2.004<br />
+ |neareststarname = LHS 3003<br />
+ |stardistance = 20.9<br />
+ |numbermessierobjects = 3<br />
+ |meteorshowers = <a href="http://localhost/keyword/%E3%81%86%E3%81%BF%E3%81%B8%E3%81%B3%E5%BA%A7">うみへび座</a>α流星群<a href="http://localhost/keyword/%E3%81%86%E3%81%BF%E3%81%B8%E3%81%B3%E5%BA%A7">うみへび座</a>σ流星群 (σ Hydrids)<br />
+ |bordering = ポンプ座かに座こいぬ座ケンタウルス座からす座コップ座しし座てんびん座おおかみ座（角で接する）いっかくじゅう座とも座らしんばん座ろくぶんぎ座おとめ座<br />
+ |notes= <br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E3%81%86%E3%81%BF%E3%81%B8%E3%81%B3%E5%BA%A7">うみへび座</a>&#39;（海蛇座、Hydra）は、トレミーの48星座の1つ。星座の中で最も領域が広い。<br />
+<br />
+<a href="http://localhost/keyword/%E3%81%BF%E3%81%9A%E3%81%B8%E3%81%B3%E5%BA%A7">みずへび座</a>(Hydrus)とは、ラテン語の綴りもよく似ている。<br />
+<br />
+== 主な天体 ==<br />
+=== 恒星 ===<br />
+<br />
+全天で最も大きな星座であるにもかかわらず、2等星の&amp;alpha;星以外には、3等星が5つあるのみで、残りは暗い星である。<br />
+* &amp;alpha;星：アルファルド (Alphard) は、<a href="http://localhost/keyword/%E3%81%86%E3%81%BF%E3%81%B8%E3%81%B3%E5%BA%A7">うみへび座</a>で最も明るい恒星で、唯一の2等星。<br />
+* &amp;gamma;星：<a href="http://localhost/keyword/%E3%81%86%E3%81%BF%E3%81%B8%E3%81%B3%E5%BA%A7">うみへび座</a>の尾部に輝く3等星。<br />
+* &amp;zeta;星：<a href="http://localhost/keyword/%E3%81%86%E3%81%BF%E3%81%B8%E3%81%B3%E5%BA%A7">うみへび座</a>の頭部に輝く3等星。<br />
+* &amp;nu;星：3等星。<br />
+* R星：ミラ型変光星。<br />
+* V星：SRA型の半規則型変光星。<br />
+* W星：ミラ型変光星。<br />
+* TW星：おうし座T型星。<br />
+* SDSS J090745.0+024507：銀河系からの脱出速度の2倍に達する速さで移動している超高速度星の1つ。<br />
+* HE 1327-2326：最も金属量の少ない恒星。<br />
+<br />
+=== 星団・星雲・銀河 ===<br />
+* M48：<a href="http://localhost/keyword/%E6%95%A3%E9%96%8B%E6%98%9F%E5%9B%A3">散開星団</a>。<br />
+* M68：球状星団。<br />
+* NGC 3242（木星状星雲）：惑星状星雲。<br />
+* M83（南の回転花火銀河）：渦巻銀河。<br />
+なお、<a href="http://localhost/keyword/%E3%81%86%E3%81%BF%E3%81%B8%E3%81%B3%E5%BA%A7">うみへび座</a>には、<a href="http://localhost/keyword/%E3%81%86%E3%81%BF%E3%81%B8%E3%81%B3%E5%BA%A7">うみへび座</a>銀河団という銀河団がある。<br />
+<br />
+=== その他 ===<br />
+* <a href="http://localhost/keyword/%E3%81%86%E3%81%BF%E3%81%B8%E3%81%B3%E5%BA%A7">うみへび座</a>A：電波源。<br />
+<br />
+== 神話 ==<br />
+勇者ヘーラク<a href="http://localhost/keyword/%E3%83%AC%E3%83%BC%E3%82%B9">レース</a>(ヘルクレス座)の12の冒険のうち、2番目がこの怪物ヒュドラー退治であった。この怪物は、9つの首を持ち、そのうちの1つは不死であった。また首を切ればすぐに新しい首が2つ生えてくるため、ヘーラク<a href="http://localhost/keyword/%E3%83%AC%E3%83%BC%E3%82%B9">レース</a>は苦戦した。彼は従者のイオラオスを呼び、切り口に火を当てて焼き、新しい首が生えないようにした。そして、不死の首は大きな岩の下敷きにしてようやく退治した。<br />
+<br />
+== 呼称と方言 ==<br />
+日本では、&#39;ヒドラ座&#39;と呼んだ時代がある。<br />
+<br />
+== 出典 ==<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+*<br />
+Category:天文学に関する記事<br />

@@ -1,0 +1,46 @@
+description<br />
+<br />
+|開業年月日 = 1<a href="http://localhost/keyword/932%E5%B9%B4">932年</a>（昭和<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）4月24日<br />
+|廃止年月日 =<br />
+|隣の駅 =<br />
+|前の駅 = 芦野公園<br />
+|駅間A = 1.7<br />
+|駅間B = 1.7<br />
+|次の駅 = 大沢内<br />
+|備考 =<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E5%B7%9D%E5%80%89%E9%A7%85">川倉駅</a>&#39;（かわくらえき）は青森県五所川原市金木町川倉にある津軽鉄道津軽鉄道線の駅。<br />
+<br />
+== 構造 ==<br />
+* 1面1線の地上駅<br />
+* 待合室を併設する無人駅である。<br />
+<br />
+== 歴史 ==<br />
+<br />
+* 1<a href="http://localhost/keyword/932%E5%B9%B4">932年</a>（昭和<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）4月24日 - 開業。<br />
+* 1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a>（昭和<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）4月1日 - 休止。<br />
+* 1<a href="http://localhost/keyword/955%E5%B9%B4">955年</a>（昭和<a href="http://localhost/keyword/30%E5%B9%B4">30年</a>）10月20日 - 復活開業。<br />
+<br />
+== 周辺 ==<br />
+* 川倉地蔵尊<br />
+<br />
+== 隣の駅 ==<br />
+; 津軽鉄道<br />
+: 津軽鉄道線<br />
+: 普通（下り・上りの一部）<br />
+:: &#39;通過&#39;<br />
+: 普通<br />
+:: 芦野公園駅 - &#39;<a href="http://localhost/keyword/%E5%B7%9D%E5%80%89%E9%A7%85">川倉駅</a>&#39; - 大沢内駅<br />
+<br />
+== 外部リンク ==<br />
+*[http://tsutetsu.com/station/local.html 津軽鉄道株式会社 各駅案内]<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:青森県の鉄道駅<br />
+わくら<br />
+Category:津軽鉄道の鉄道駅<br />
+かわくらえき<br />
+Category:1<a href="http://localhost/keyword/932%E5%B9%B4">932年</a>開業の鉄道駅<br />

@@ -1,0 +1,57 @@
+description<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E7%B4%B0%E8%8F%8C%E5%AD%A6">細菌学</a>&#39;（さいきんがく、英語：bacteriology）とは、<br />
+<br />
+# 微生物全般の中で、特に病原性を持つ微生物に対して適用される学問（＝病原微生物学）<br />
+# 細菌（真正細菌と古細菌を含む、<a href="http://localhost/keyword/%E5%8E%9F%E6%A0%B8%E7%94%9F%E7%89%A9">原核生物</a>）を対象に研究する学問（＝狭義の<a href="http://localhost/keyword/%E7%B4%B0%E8%8F%8C%E5%AD%A6">細菌学</a>）<br />
+# 細菌のうち古細菌を除いた、真正細菌を対象に研究する学問（真正<a href="http://localhost/keyword/%E7%B4%B0%E8%8F%8C%E5%AD%A6">細菌学</a>）<br />
+# 細菌を含めた微生物全般（真菌、ウイルスなどを含む）を扱う学問（＝微生物学）<br />
+# 病原微生物のうち、特に細菌に対して適用される学問（＝病原<a href="http://localhost/keyword/%E7%B4%B0%E8%8F%8C%E5%AD%A6">細菌学</a>）<br />
+<br />
+以上のような学問分野を意味するものとして扱われる。日本の専門学校や大学などでは、医学・歯学・薬学・看護学・栄養学・調理科学・農学・理学などの分野で専門教科の一つとして扱われることが多い。200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>現在、これらの専門教育の課程では、しばしば上記のうち、1（病原微生物学）または5（病原<a href="http://localhost/keyword/%E7%B4%B0%E8%8F%8C%E5%AD%A6">細菌学</a>）を指すことが多いが、研究の場では2（狭義の<a href="http://localhost/keyword/%E7%B4%B0%E8%8F%8C%E5%AD%A6">細菌学</a>）または3（真正<a href="http://localhost/keyword/%E7%B4%B0%E8%8F%8C%E5%AD%A6">細菌学</a>）の意味で扱われることも多い。<br />
+<br />
+== 概要 ==<br />
+<a href="http://localhost/keyword/%E7%B4%B0%E8%8F%8C%E5%AD%A6">細菌学</a>という分野が指す領域が複数に亘っている理由は、その成立した過程による。<br />
+<br />
+<a href="http://localhost/keyword/%E3%83%AD%E3%83%99%E3%83%AB%E3%83%88%E3%83%BB%E3%82%B3%E3%83%83%E3%83%9B">ロベルト・コッホ</a>による炭疽菌の発見からはじまった、病原体としての細菌研究の黎明期から、日本人はその研究に従事・貢献して北里柴三郎や志賀潔などの<a href="http://localhost/keyword/%E7%B4%B0%E8%8F%8C%E5%AD%A6">細菌学</a>者を輩出してきた。この関係から、日本国内においては<a href="http://localhost/keyword/%E7%B4%B0%E8%8F%8C%E5%AD%A6">細菌学</a>という学問が病原体を扱う分野として成長を遂げてきた。その後、細菌以外の病原体であるウイルスの発見や、分類学の発達によって細菌と真菌の違いや真正細菌と古細菌の違いが明確化されたことなどから、これらを「<a href="http://localhost/keyword/%E7%B4%B0%E8%8F%8C%E5%AD%A6">細菌学</a>」の対象として扱うことには齟齬が生じたため、より適した名称として「微生物学」が用いることが主流になり、今日に至っている。<br />
+しかしながら、古くから続いている学会（日本<a href="http://localhost/keyword/%E7%B4%B0%E8%8F%8C%E5%AD%A6">細菌学</a>会）や、研究機関、書籍においては、未だに微生物学を表すもの（上記の4）として<a href="http://localhost/keyword/%E7%B4%B0%E8%8F%8C%E5%AD%A6">細菌学</a>を用いているものも見られる。<br />
+<br />
+また、歯学分野では、口腔<a href="http://localhost/keyword/%E7%B4%B0%E8%8F%8C%E5%AD%A6">細菌学</a>という口腔領域の研究分野が存在し、多くの歯科医師、感染症専門医、インフェクションコントロールドクター、理学・農学研究者が研究に従事している。（詳細は「口腔<a href="http://localhost/keyword/%E7%B4%B0%E8%8F%8C%E5%AD%A6">細菌学</a>」へ）<br />
+<br />
+細菌や微生物については、その病原体としての重要性とヒトとの関わりの深さから医学領域からの研究がもっとも進んでいる。このため、ヒトに対して病原性のあるものについての研究が数多く、古細菌など非病原性のものについての研究は比較的少ない。このことから<a href="http://localhost/keyword/%E7%B4%B0%E8%8F%8C%E5%AD%A6">細菌学</a>全般としても、細菌や微生物の病原性に関するテーマが扱われることが多く、上述の1や5の意味で用いられることが多い。この傾向は、特に医学関連の専門教育の分野で顕著である。また<a href="http://localhost/keyword/%E7%B4%B0%E8%8F%8C%E5%AD%A6">細菌学</a>に関連する事象として、感染症学全般や免疫学、遺伝学などについても触れられることがある。<br />
+<br />
+しかしながら、<a href="http://localhost/keyword/%E7%B4%B0%E8%8F%8C%E5%AD%A6">細菌学</a>には細菌や微生物を生態学的に扱う立場も含まれており、発酵や醸造など微生物の有効利用や、分子生物学的な研究・応用もまた、<a href="http://localhost/keyword/%E7%B4%B0%E8%8F%8C%E5%AD%A6">細菌学</a>で扱うテーマの一つである。<br />
+<br />
+== 関連用語 ==<br />
+*口腔<a href="http://localhost/keyword/%E7%B4%B0%E8%8F%8C%E5%AD%A6">細菌学</a>／微生物学（微生物）／生物学／ウイルス学（ウイルス）／寄生虫学（寄生虫）／真菌学（真菌）<br />
+*<a href="http://localhost/keyword/%E3%83%AD%E3%83%99%E3%83%AB%E3%83%88%E3%83%BB%E3%82%B3%E3%83%83%E3%83%9B">ロベルト・コッホ</a>／ルイ・パスツール／ジェンナー／アントニー・ファン・レーウェンフック<br />
+*感染症／伝染病<br />
+*炭疽／ペスト／偏性細胞内寄生性微生物<br />
+*免疫学／遺伝学／生化学／分子生物学／生物学<br />
+*医学／歯学／理化学／農学／理学／公衆衛生学／疫学<br />
+*医師／歯科医師／薬剤師／臨床検査技師／歯科衛生士<br />
+*感染症専門医／インフェクションコントロールドクター／日本歯周病学会認定歯周病専門医／医療環境管理士／感染制御専門薬剤師／感染症対策看護師（感染症管理看護師）／日本歯周病学会認定歯科衛生士<br />
+*染色法（グラム染色）／細菌叢調査／院内感染<br />
+*日本<a href="http://localhost/keyword/%E7%B4%B0%E8%8F%8C%E5%AD%A6">細菌学</a>会／日本感染症学会／日本環境感染学会／日本口腔感染症学会／日本ウイルス学会／日本寄生虫学会／日本医真菌学会／日本免疫学会／日本生化学会／日本分子生物学会／日本ブドウ球菌研究会／レンサ球菌感染症研究会／緒方医学化学研究所<br />
+*WHO／アメリカ疾病予防管理センター(CDC)／国立感染症研究所／厚生労働省／保健所<br />
+*731部隊／バイオテロ／ABC兵器<br />
+<br />
+== 外部リンク ==<br />
+*[http://www.nacos.com/jsbac/ 日本<a href="http://localhost/keyword/%E7%B4%B0%E8%8F%8C%E5%AD%A6">細菌学</a>会 公式サイト]<br />
+*[http://www.jscm.org/ 日本臨床微生物学会 公式サイト]<br />
+*[http://www.jarmam.gr.jp/index.html 臨床微生物迅速診断研究会 公式サイト]<br />
+*[http://www.kansensho.or.jp/ 日本感染症学会 公式サイト]<br />
+*[http://www.kankyokansen.org/index.html/ 日本環境感染学会 公式サイト]<br />
+*[http://www.jaoid.org/main 日本口腔感染症学会 公式サイト]<br />
+*[http://www.jsmm.org/ 日本医真菌学会 公式サイト]<br />
+*[http://jsp.tm.nagasaki-u.ac.jp/~parasite/welcome-2.html 日本寄生虫学会 公式サイト]<br />
+*[http://www0.nih.go.jp/virus/ 日本ウイルス学会 公式サイト]<br />
+*[http://www.icd.umin.jp/ ICD制度協議会 公式サイト]<br />
+*[http://www.cdc.gov/ アメリカ疾病管理予防センター(CDC)の公式サイト]<br />
+*[http://idsc.nih.go.jp/disease/influenza/ 国立感染症研究所感染症情報センター 公式サイト]<br />
+<br />
+<br />
+<br />
+*<br />
+Category:微生物学<br />
+*さいきんかく<br />
