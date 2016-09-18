@@ -4,24 +4,24 @@ import (
 	"crypto/sha1"
 	"fmt"
 	"html"
-	//"io/ioutil"
+	"io/ioutil"
 	"net/url"
-	//"os"
+	"os"
 	"regexp"
-	//"strconv"
+	"strconv"
 	"strings"
 )
 
 func main() {
-	//keywords, _ := ioutil.ReadFile("./keywords.txt")
+	keywords, _ := ioutil.ReadFile("./keywords.txt")
 
 	for n := 1; n < 7001; n++ {
-		//content, err := ioutil.ReadFile("./descriptions/" + strconv.Itoa(n) + ".txt")
-		//panicIf(err)
+		content, err := ioutil.ReadFile("./descriptions/" + strconv.Itoa(n) + ".txt")
+		panicIf(err)
 
-		//result := Htmlify(string(content), strings.Split(strings.TrimSpace(string(keywords)), "\n"))
-		//err = ioutil.WriteFile("./descriptions_html/"+strconv.Itoa(n)+".txt", []byte(result), os.ModePerm)
-		//panicIf(err)
+		result := Htmlify3(string(content), strings.Split(strings.TrimSpace(string(keywords)), "\n"))
+		err = ioutil.WriteFile("./descriptions_html/"+strconv.Itoa(n)+".txt", []byte(result), os.ModePerm)
+		panicIf(err)
 	}
 }
 
@@ -60,7 +60,7 @@ func Htmlify3(content string, keywords []string) string {
 		reps = append(reps, kw)
 		u, err := url.Parse("http://localhost/keyword/" + pathURIEscape(kw))
 		panicIf(err)
-		reps = append(reps, fmt.Sprintf("<a href=\"%s\">%s</a>", u, html.EscapeString(kw)))
+		reps = append(reps, fmt.Sprintf("<a href=\"%s\">%s</a>", u, kw))
 	}
 
 	r := strings.NewReplacer(reps...)
