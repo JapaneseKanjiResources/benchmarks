@@ -35,6 +35,11 @@ func TestHtmlify(t *testing.T) {
 		if actual != string(expected) {
 			t.Errorf("Htmlify2 failed: %d", f)
 		}
+
+		actual = ""
+		if actual == string(expected) {
+			t.Errorf("Something wrong with expected.", f)
+		}
 	}
 }
 
@@ -42,7 +47,7 @@ func BenchmarkHtmlify(b *testing.B) {
 	f, _ := ioutil.ReadFile("./keywords.txt")
 	keywords := strings.Split(strings.TrimSpace((string(f))), "\n")
 
-	for n := 1; n < 10; n++ {
+	for n := 1; n < b.N; n++ {
 		b.Logf("Benchmark start for %d.txt", n)
 		desc, err := ioutil.ReadFile("./descriptions/" + strconv.Itoa((n)) + ".txt")
 		panicIf(err)
@@ -56,7 +61,7 @@ func BenchmarkHtmlify2(b *testing.B) {
 	keywords := strings.Split(strings.TrimSpace((string(f))), "\n")
 	re := regexp.MustCompile("(" + strings.Join(keywords, "|") + ")")
 
-	for n := 1; n < 10; n++ {
+	for n := 1; n < b.N; n++ {
 		b.Logf("Benchmark start for %d.txt", n)
 		desc, err := ioutil.ReadFile("./descriptions/" + strconv.Itoa((n)) + ".txt")
 		panicIf(err)
@@ -68,7 +73,7 @@ func BenchmarkHtmlify3(b *testing.B) {
 	f, _ := ioutil.ReadFile("./keywords.txt")
 	keywords := strings.Split(strings.TrimSpace((string(f))), "\n")
 
-	for n := 1; n < 10; n++ {
+	for n := 1; n < b.N; n++ {
 		b.Logf("Benchmark start for %d.txt", n)
 		desc, err := ioutil.ReadFile("./descriptions/" + strconv.Itoa((n)) + ".txt")
 		panicIf(err)
