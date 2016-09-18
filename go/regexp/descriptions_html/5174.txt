@@ -1,0 +1,62 @@
+description<br />
+<br />
+|駅構造=地上駅<br />
+|ホーム=2面2線<br />
+|乗車人員=<br />
+|乗降人員=83<br />
+|統計年度=20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a><br />
+|開業年月日=1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>（昭和<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）3月21日19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>（昭和<a href="http://localhost/keyword/63%E5%B9%B4">63年</a>）4月1日（転換）<br />
+|廃止年月日=<br />
+|前の駅=里<br />
+|駅間A=1.1<br />
+|駅間B=1.4<br />
+|次の駅=鳴石<br />
+|備考=<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E6%A5%A0%E4%B9%85%E9%A7%85">楠久駅</a>&#39;（くすくえき）は、佐賀県伊万里市山代町楠久にある松浦鉄道西九州線の駅。<br />
+<br />
+== 駅構造 ==<br />
+2面2線ホームの地上駅である。無人駅で駅舎は無いが、待合室とトイレがある。構内踏切がある。<br />
+<br />
+== 利用状況 ==<br />
+1日の平均乗車人員は以下の通りである。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 国道204号<br />
+* 楠久郵便局<br />
+* 荒熊稲荷神社<br />
+* 賢海寺<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>（昭和<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）3月21日 - 開業。<br />
+* 1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>（昭和<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）10月1日 - 貨物営業を廃止。<br />
+* 1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>（昭和<a href="http://localhost/keyword/45%E5%B9%B4">45年</a>）10月1日 - 無人化。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により九州旅客鉄道松浦線の駅となる。<br />
+* 19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>（昭和<a href="http://localhost/keyword/63%E5%B9%B4">63年</a>）4月1日 - 第三セクター松浦鉄道への転換により、松浦鉄道西九州線の駅となる。<br />
+<br />
+== 隣の駅 ==<br />
+; 松浦鉄道<br />
+: 西九州線<br />
+:: 里駅 - &#39;<a href="http://localhost/keyword/%E6%A5%A0%E4%B9%85%E9%A7%85">楠久駅</a>&#39; - 鳴石駅<br />
+<br />
+==脚注==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://matutetu.com/publics/index/71/ <a href="http://localhost/keyword/%E6%A5%A0%E4%B9%85%E9%A7%85">楠久駅</a>時刻表] - 松浦鉄道<br />
+<br />
+<br />
+<br />
+<br />
+Category:佐賀県の鉄道駅<br />
+すく<br />
+Category:松浦鉄道の鉄道駅<br />
+Category:九州旅客鉄道の廃駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:伊万里市の交通<br />
+Category:1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>開業の鉄道駅<br />

@@ -1,0 +1,26 @@
+description<br />
+書体見本<br />
+&#39;<a href="http://localhost/keyword/%E6%96%B0%E4%B8%B8%E3%82%B4">新丸ゴ</a>&#39;（しんまるゴ）はモリサワの<a href="http://localhost/keyword/%E4%B8%B8%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93">丸ゴシック体</a>およびそのフォント製品。1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a>にDTP向け<a href="http://localhost/keyword/PostScript">PostScript</a>フォントとして発売された。<br />
+<br />
+== 概要 ==<br />
+モダンゴシック体として一定のシェアを築いた新ゴをベースとし、既に写植時代からリリースされている同社の<a href="http://localhost/keyword/%E4%B8%B8%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93">丸ゴシック体</a>である「じゅん」ファミリーとの棲み分けとしては、可読性（読みやすさ）、軽快さを追求した点にあるとされる。また「じゅん」では4ウェイトまでしかファミリー展開がなされておらず、すでに6ウェイトが展開され、幅広い媒体で使用されていたフォントワークス社のスーラに対し、モリサワのDTP向け<a href="http://localhost/keyword/%E4%B8%B8%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93">丸ゴシック体</a>としては初めてLからUまでの7ウェイト展開となった。しかし、平仮名の「い」「ら」などに「クセ」に近い特徴が見られる。<br />
+<br />
+ユニバーサルデザインフォントである「UD<a href="http://localhost/keyword/%E6%96%B0%E4%B8%B8%E3%82%B4">新丸ゴ</a>」もリリースされているが、これは「UD新ゴNT」を基にしたもので、漢字以外は『ネオツデイ』の骨格が用いられている。UD<a href="http://localhost/keyword/%E6%96%B0%E4%B8%B8%E3%82%B4">新丸ゴ</a>は国内でスマートフォンなどに搭載されている。<br />
+<br />
+== ファミリー ==<br />
+* <a href="http://localhost/keyword/%E6%96%B0%E4%B8%B8%E3%82%B4">新丸ゴ</a> L<br />
+* <a href="http://localhost/keyword/%E6%96%B0%E4%B8%B8%E3%82%B4">新丸ゴ</a> R<br />
+* <a href="http://localhost/keyword/%E6%96%B0%E4%B8%B8%E3%82%B4">新丸ゴ</a> M<br />
+* <a href="http://localhost/keyword/%E6%96%B0%E4%B8%B8%E3%82%B4">新丸ゴ</a> DB<br />
+* <a href="http://localhost/keyword/%E6%96%B0%E4%B8%B8%E3%82%B4">新丸ゴ</a> B <br />
+* <a href="http://localhost/keyword/%E6%96%B0%E4%B8%B8%E3%82%B4">新丸ゴ</a> H<br />
+* <a href="http://localhost/keyword/%E6%96%B0%E4%B8%B8%E3%82%B4">新丸ゴ</a> U<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.morisawa.co.jp/font/fontlist/details/fontfamily013.html?s=37 M<a href="http://localhost/keyword/ORI">ORI</a>SAWA（公式サイト）]<br />
+* [http://www.akibatec.net/wabunfont/library/morisawa/morisawa1.html 和文フォント大図鑑]<br />
+<br />
+<br />
+ <br />
+Category:書体<br />
+Category:タイポグラフィ<br />

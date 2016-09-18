@@ -1,0 +1,17 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E3%82%B9%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E8%BB%8C%E9%81%93">スレーター軌道</a>&#39;（スレーターきどう、Slater-type orbital, STO）は量子力学において、多電子系、例えば<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>の大きい原子の原子軌道関数をみつもるために提案された近似的な波動関数である。ジョン・スレーターによって提案された。<br />
+<br />
+角度方向の波動関数は、水素原子で求められたものと同じとして、動径波動関数を次の式で近似する。<br />
+<br />
+: R(r) = r^\\left(n-l\\right)\\exp \\left( \\frac{-(Z-s)r}{n&#39;a_0} \\right) <br />
+<br />
+ここで &#39;&#39;n&#39;&#39; は主量子数 &#39;&#39;l&#39;&#39; は軌道角運動量、&#39;&#39;n&#39; は有効主量子数で n&gt;3の時小さく見積もる。aoは遮蔽定数、Z は<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>（電子数）、sは他の電子による遮蔽で、スレーターの規則に従って他電子の寄与をきめる。<br />
+<br />
+== 関連項目 ==<br />
+* ガウス軌道<br />
+<br />
+<br />
+<br />
+Category:量子力学<br />
+Category:量子化学<br />
+Category:電子軌道<br />

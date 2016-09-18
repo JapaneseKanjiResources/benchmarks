@@ -1,0 +1,36 @@
+description<br />
+ &#39;&#39;Ğalğaj mott&#39;&#39; <br />
+|states=<br />
+|region=イングーシ共和国チェチェン共和国<br />
+|speakers=413,000人（200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）[http://www.ethnologue.com/show_language.asp?code=inh Ethnologue report for Ingush]<br />
+|familycolor=コーカサス諸語<br />
+|fam1=北東コーカサス語族<br />
+|fam2=ナフ語派<br />
+|fam3=ヴェイナフ諸語 (チェチェン＝<a href="http://localhost/keyword/%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%BC%E3%82%B7%E8%AA%9E">イングーシ語</a>)<br />
+|script=キリル文字<br />
+|nation=イングーシ共和国<br />
+|iso1=<br />
+|iso2=inh<br />
+|iso3=inh<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%BC%E3%82%B7%E8%AA%9E">イングーシ語</a>&#39;は、ロシア連邦内のイングーシ共和国の公用語。話者は約23万人。話者のほとんどはロシア語との二言語併用者である。<br />
+<br />
+系統的には北東コーカサス語族（ナフ・ダゲスタン語族）のナフ語派（Nakh）に属する。ナフ語派に属する言語には、ほかにチェチェン語とバツ語（あるいはバツビ語、ツォヴァ・トゥシ語）がある。<a href="http://localhost/keyword/%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%BC%E3%82%B7%E8%AA%9E">イングーシ語</a>は特にチェチェン語と近い。<br />
+<br />
+6つの文法性（名詞クラス）を区別し、多くの格を持つ。能格型の格標示を行う。<br />
+<br />
+アラビア文字やラテン文字で書かれていたこともあるが、現在はキリル文字をもとにした正書法によって表記される。<br />
+<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 外部リンク ==<br />
+<br />
+<br />
+<br />
+Category:イングーシ共和国<br />
+Category:ロシアの言語<br />
+Category:ナフ語派<br />
+<br />

@@ -1,0 +1,73 @@
+description<br />
+<br />
+|所属事業者 = 和歌山電鐵<br />
+|所属路線   = 貴志川線<br />
+|キロ程     = 1.4<br />
+|起点駅     = 和歌山<br />
+|所在地     = 和歌山県和歌山市有家<br />
+|座標       = <br />
+|駅構造     = 地上駅<br />
+|ホーム     = 1面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/916%E5%B9%B4">916年</a>（大正<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）2月15日<br />
+|廃止年月日 = <br />
+|乗車人員   = <br />
+|乗降人員   = 586<br />
+|統計年度   =20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>度 <br />
+|乗換       = <br />
+|備考       = <br />
+}}<br />
+駅全景（ホーム側より）<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E6%97%A5%E5%89%8D%E5%AE%AE%E9%A7%85">日前宮駅</a>&#39;（にちぜんぐうえき）は、和歌山県和歌山市有家にある和歌山電鐵貴志川線の駅。駅番号は&#39;03&#39;。<br />
+<br />
+紀伊国の一の宮たる日前宮の最寄り駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/916%E5%B9%B4">916年</a>（大正<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）2月15日 - 山東軽便鉄道の大橋駅 - 山東駅（現在の伊太祈曽駅）間の開通とともに&#39;秋月駅&#39;として開業。<br />
+* 1<a href="http://localhost/keyword/922%E5%B9%B4">922年</a>（大正<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）2月28日 - 紀勢西線（紀勢本線）東和歌山駅（現在の和歌山駅）の開業に合わせ、同駅 - 当駅間が開業。これに伴い当駅 - 中ノ島駅間が廃止。<br />
+* 1<a href="http://localhost/keyword/929%E5%B9%B4">929年</a>（昭和<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）11月 - 社名変更により山東鉄道の駅となる。<br />
+* 1<a href="http://localhost/keyword/931%E5%B9%B4">931年</a>（昭和<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）4月28日 - 社名変更により和歌山鉄道の駅となる。<br />
+* 1<a href="http://localhost/keyword/933%E5%B9%B4">933年</a>（昭和<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>） - &#39;<a href="http://localhost/keyword/%E6%97%A5%E5%89%8D%E5%AE%AE%E9%A7%85">日前宮駅</a>&#39;（にちぜんぐうえき）に改称。<br />
+* 1<a href="http://localhost/keyword/957%E5%B9%B4">957年</a>（昭和3<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）11月1日 - 和歌山電気軌道との合併により同社鉄道線の駅となる。<br />
+* 1<a href="http://localhost/keyword/961%E5%B9%B4">961年</a>（昭和<a href="http://localhost/keyword/36%E5%B9%B4">36年</a>）11月1日 - 南海電気鉄道との合併により同社貴志川線の駅となる。<br />
+* 2000年（平成<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）10月1日 - 無人化。<br />
+* 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>（平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）4月1日 - 南海貴志川線を和歌山電鐵が継承、同社貴志川線の駅となる。<br />
+<br />
+== 駅構造 ==<br />
+島式ホーム1面2線を持つ地上駅。かつては小さな木造駅舎を持ち自動券売機も設置されていたが、2000年（平成<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）の無人化に伴い自動券売機は撤去され、やがて駅舎も解体されてしまった。現在は無人駅で、スルッとKANSAI対応のカードは使用できない。<br />
+<br />
+== 駅周辺 ==<br />
+当駅は、日前宮の最寄り駅である。また当駅の付近には和歌山県の歴史を語る上で重要な遺跡も数多く存在している。<br />
+* 日前神宮・國懸神宮 - 広い境内を入って左側には日前神宮が、右側には国懸神宮があり日前宮とはこの二つの神社の総称。紀伊国の一の宮でもある。当駅の北600mほどのところにある。<br />
+* 秋月遺跡 - 日前宮を中心としておよそ1km四方ほどの範囲に広がる遺跡。古くは弥生時代のさまざまな遺物がのこされており、古墳も点在している。当駅の北に広がっている。<br />
+* 鳴神貝塚 - 国の史跡に指定されている古墳。縄文時代のもので明治2<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>（1<a href="http://localhost/keyword/895%E5%B9%B4">895年</a>）に鳥居龍蔵と直良信夫によって近畿地方で古墳としては初めて発見された。当駅の北東1km程のところにある。<br />
+* 和歌山県立向陽中学校・高等学校<br />
+* 和歌山市立日進中学校<br />
+* 和歌山市立宮小学校<br />
+* 和歌山市立日進中学校虎伏分校<br />
+* 秋月郵便局<br />
+* 花山温泉<br />
+* <a href="http://localhost/keyword/%E5%9B%BD%E9%81%9324%E5%8F%B7">国道24号</a><br />
+* 和歌山インターチェンジ - 阪和自動車道<br />
+<br />
+== 隣の駅 ==<br />
+; 和歌山電鐵<br />
+: 貴志川線<br />
+:: <a href="http://localhost/keyword/%E7%94%B0%E4%B8%AD%E5%8F%A3%E9%A7%85">田中口駅</a> (02) - &#39;<a href="http://localhost/keyword/%E6%97%A5%E5%89%8D%E5%AE%AE%E9%A7%85">日前宮駅</a> (03)&#39; - <a href="http://localhost/keyword/%E7%A5%9E%E5%89%8D%E9%A7%85">神前駅</a> (04)<br />
+* （）内は駅番号を示す。<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+*  - 和歌山電鐵<br />
+* [http://watchizu.gsi.go.jp/ 国土地理院地図閲覧サービス] - [http://watchizu.gsi.go.jp/watchizu.aspx?latitude=34.22638889&amp;longitude=<a href="http://localhost/keyword/135">135</a>.2018694 <a href="http://localhost/keyword/%E6%97%A5%E5%89%8D%E5%AE%AE%E9%A7%85">日前宮駅</a>周辺の1/25000地形図]<br />
+<br />
+<br />
+<br />
+<br />
+ちせんくう<br />
+Category:和歌山市の鉄道駅<br />
+Category:和歌山電鐵の鉄道駅<br />
+Category:南海電気鉄道の廃駅<br />
+Category:1<a href="http://localhost/keyword/916%E5%B9%B4">916年</a>開業の鉄道駅<br />

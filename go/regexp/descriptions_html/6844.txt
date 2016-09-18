@@ -1,0 +1,51 @@
+description<br />
+<br />
+<br />
+| 画像 = &#39;&#39;Megalosaurus&#39;&#39;<br />
+<br />
+| status = <br />
+| 地質時代 = JR<br />
+| 地質時代2 = <br />
+| 省略 = 爬虫綱<br />
+| 亜綱 = 双弓亜綱 Diapsida<br />
+| 下綱 = 主竜形下綱 Archosauromorpha<br />
+| 上目 = 恐竜上目 Dinosauria<br />
+| 目 = 竜盤目 Saurischia<br />
+| 亜目 = 獣脚亜目 Theropoda<br />
+| 下目 = テタヌラ下目 Tetanurae<br />
+| 科 = <a href="http://localhost/keyword/%E3%83%A1%E3%82%AC%E3%83%AD%E3%82%B5%E3%82%A6%E3%83%AB%E3%82%B9">メガロサウルス</a>科 Megalosauridae<br />
+| 属 = &#39;<a href="http://localhost/keyword/%E3%83%A1%E3%82%AC%E3%83%AD%E3%82%B5%E3%82%A6%E3%83%AB%E3%82%B9">メガロサウルス</a>属&#39; &#39;&#39;Megalosaurus&#39;&#39; Buckland, 1824<br />
+| 下位分類名 = 種<br />
+| 下位分類 = <br />
+* &#39;&#39;M. bucklandii&#39;&#39;<br />
+* &#39;&#39;M. hesperis&#39;&#39;<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E3%83%A1%E3%82%AC%E3%83%AD%E3%82%B5%E3%82%A6%E3%83%AB%E3%82%B9">メガロサウルス</a>&#39;（&#39;&#39;Megalosaurus&#39;&#39;）はイグアノドンと並び、恐竜研究史の最初期に発見された獣脚類で、<a href="http://localhost/keyword/%E3%83%A1%E3%82%AC%E3%83%AD%E3%82%B5%E3%82%A6%E3%83%AB%E3%82%B9">メガロサウルス</a>属の総称。体長7～10m。「大きな龍（トカゲ）」を意味する。和名は&#39;斑竜&#39;（はんりゅう）。<br />
+<br />
+中生代ジュラ紀にヨーロッパ・北アメリカ・アジアなど、広範囲に分布していた肉食恐竜。<a href="http://localhost/keyword/%E4%BA%8C%E8%B6%B3%E6%AD%A9%E8%A1%8C">二足歩行</a>をしていた。手3本 足4本の指と鋸歯が特徴。日本でも、福岡県で断片的な化石（歯）が発見されている（<a href="http://localhost/keyword/%E3%83%A1%E3%82%AC%E3%83%AD%E3%82%B5%E3%82%A6%E3%83%AB%E3%82%B9">メガロサウルス</a>のものかどうか疑問視する向きもある）。<br />
+<br />
+発見は最初期にもかかわらず、現在も詳しい生態が不明のままである。「<a href="http://localhost/keyword/%E3%83%A1%E3%82%AC%E3%83%AD%E3%82%B5%E3%82%A6%E3%83%AB%E3%82%B9">メガロサウルス</a>の化石の多くが断片的であること」「恐竜の研究が未発達だった時代に、肉食恐竜と思しき化石の多くを『<a href="http://localhost/keyword/%E3%83%A1%E3%82%AC%E3%83%AD%E3%82%B5%E3%82%A6%E3%83%AB%E3%82%B9">メガロサウルス</a>』として分類してしまった結果、<a href="http://localhost/keyword/%E3%83%A1%E3%82%AC%E3%83%AD%E3%82%B5%E3%82%A6%E3%83%AB%E3%82%B9">メガロサウルス</a>という種が、本来ならば全く別個であるはずの雑多な恐竜が含まれた“ゴミ箱”のような状況になってしまったこと」などが主な理由である。<br />
+<br />
+長くケラトサウルスなどと同様にアロサウルス上科に分類されていたが、近年になってその分類を改める動きがあり、それにあわせて<a href="http://localhost/keyword/%E3%83%A1%E3%82%AC%E3%83%AD%E3%82%B5%E3%82%A6%E3%83%AB%E3%82%B9">メガロサウルス</a>も<a href="http://localhost/keyword/%E3%83%A1%E3%82%AC%E3%83%AD%E3%82%B5%E3%82%A6%E3%83%AB%E3%82%B9">メガロサウルス</a>科に分類しなおされた。<a href="http://localhost/keyword/%E3%83%A1%E3%82%AC%E3%83%AD%E3%82%B5%E3%82%A6%E3%83%AB%E3%82%B9">メガロサウルス</a>はピアトニツキーサウルスなどと近縁であり、同じく原始的なテタヌラ類であるスピノサウルス類に比較的近い系統に属するとされる。<br />
+<br />
+== 関連項目 ==<br />
+* 恐竜<br />
+* 恐竜の一覧<br />
+* 絶滅した動物一覧<br />
+* イグアノドン<br />
+* アロサウルス<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:<a href="http://localhost/keyword/%E3%83%A1%E3%82%AC%E3%83%AD%E3%82%B5%E3%82%A6%E3%83%AB%E3%82%B9">メガロサウルス</a>類<br />
+Category:ジュラ紀の恐竜<br />
+Category:ヨーロッパの恐竜<br />
+Category:北アメリカの恐竜<br />
+Category:アジアの恐竜<br />
+<br />

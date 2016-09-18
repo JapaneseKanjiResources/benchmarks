@@ -1,0 +1,7 @@
+description<br />
+&#39;<a href="http://localhost/keyword/ILE">ILE</a>&#39;<br />
+<br />
+* イソ<a href="http://localhost/keyword/%E3%83%AD%E3%82%A4%E3%82%B7%E3%83%B3">ロイシン</a><br />
+* インターリングのISO 639コード<br />
+<br />
+<br />

@@ -1,0 +1,61 @@
+description<br />
+<br />
+<br />
+|名前                   = 茨城県道162号岩井関宿野田線千葉県道162号岩井関宿野田線<br />
+|総距離                 = -.-- km<br />
+|制定年                 = 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>5月28日<br />
+|起点                   = 茨城県坂東市<br />
+|主な経由都市     = 千葉県野田市木間ケ瀬<br />
+|終点                   = 千葉県野田市<br />
+|接続する主な道路       = 千葉県道7号千葉県道17号24px国道16号<br />
+}}<br />
+茨城県側（20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>3月）<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E8%8C%A8%E5%9F%8E%E7%9C%8C%E9%81%93%E3%83%BB%E5%8D%83%E8%91%89%E7%9C%8C%E9%81%93162%E5%8F%B7%E5%B2%A9%E4%BA%95%E9%96%A2%E5%AE%BF%E9%87%8E%E7%94%B0%E7%B7%9A">茨城県道・千葉県道162号岩井関宿野田線</a>&#39;（いばらきけんどう・ちばけんどう162ごう いわいせきやどのだせん）は、茨城県坂東市から千葉県野田市に至る一般県道である。利根川を横断する区間は、下総利根大橋有料道路である。<br />
+<br />
+== 概要 ==<br />
+* 距離：-.--km（茨城県内区間 : -.--km、千葉県内区間 : -.--km）<br />
+* 起点：茨城県坂東市長須（茨城県道215号伏木坂東線交点）<br />
+* 終点：千葉県野田市<br />
+* 重要な経過地：千葉県野田市木間ケ瀬路線認定時の告示記載では、千葉県東葛飾郡関宿町大字木間ケ瀬。<br />
+<br />
+== 歴史 ==<br />
+茨城県と千葉県の陸上交通を分断する利根川に架けられていた芽吹大橋と境大橋は約17km程離れており、この中間の交通を補完する新たな橋を架けるため、1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>（昭和<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>）5月28日、茨城県では道路法（昭和<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>6月10日法律第180号）第7条の規定に基き県道を新規追加認定した1路線で、起点を茨城県岩井市大字長須、重要な経過地を千葉県東葛飾郡関宿町大字木間ケ瀬、終点を千葉県野田市とする路線が&#39;県道岩井関宿野田線&#39;である。有料道路区間にあたる下総利根大橋有料道路の改築工事が着手され、19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>（平成<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）1月に開通した。1<a href="http://localhost/keyword/995%E5%B9%B4">995年</a>（平成<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）に整理番号162となり現在に至る。<br />
+=== 年表 ===<br />
+* 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>（昭和<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>）5月28日：&#39;県道岩井関宿野田線&#39;（整理番号415）として路線認定|periodical=茨城県報|publisher=茨城県|volume=号外第65号|pages=p.3|date=1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>5月28日}}。<br />
+* 19<a href="http://localhost/keyword/89%E5%B9%B4">89年</a>（平成元年）12月25日：茨城県区間において有料道路の道路区域（岩井市大字長須から岩井市大字木間ケ瀬まで、延長1.04km）が決定,茨城県報 第101号（19<a href="http://localhost/keyword/89%E5%B9%B4">89年</a>（平成元年）12月25日）p.6より。<br />
+* 19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>（平成<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）1月11日：有料道路区間（下総利根大橋有料道路）が開通,茨城県報 第105号（19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>（平成<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）1月11日）p.5 より。<br />
+* 1<a href="http://localhost/keyword/995%E5%B9%B4">995年</a>（平成<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）3月30日：茨城県区間において、整理番号が整理番号415から現在の番号（整理番号162）に変更される,茨城県報 第637号（1<a href="http://localhost/keyword/995%E5%B9%B4">995年</a>（平成<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）3月30日）より。<br />
+* 2001年（平成<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）3月1日：茨城県岩井市大字長須 - 同市(県境)の区間が、通行する車両の最大重量限度25トンの道路に指定される|periodical=茨城県報|publisher=茨城県|volume=第1241号|pages=p.10-14|date=2001年3月1日}}。<br />
+* 200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>（平成<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>）3月22日：岩井市大字長須 - 同市大字木間ケ瀬(県界)の区間が、通行する車両の高さの最高限度4.1mの道路に指定される|periodical=茨城県報|publisher=茨城県|volume=第1551号|pages=p.9-14|date=200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>3月15日}}。<br />
+<br />
+== 路線状況 ==<br />
+<br />
+=== 道路施設 ===<br />
+* 下総利根大橋（利根川）<br />
+<br />
+== 地理 ==<br />
+=== 通過する自治体 ===<br />
+* 茨城県<br />
+** 坂東市<br />
+* 千葉県<br />
+** 野田市<br />
+<br />
+=== 交差する道路 ===<br />
+* 千葉県道7号我孫子関宿線（千葉県野田市木間ケ瀬新田）<br />
+<br />
+<br />
+== 脚注 ==<br />
+<br />
+=== 注釈 ===<br />
+<br />
+=== 出典 ===<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 茨城県の県道一覧<br />
+* 千葉県の県道一覧<br />
+<br />
+<br />
+162<br />
+162<br />

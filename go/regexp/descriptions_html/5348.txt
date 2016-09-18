@@ -1,0 +1,15 @@
+description<br />
+&#39;<a href="http://localhost/keyword/NEGiES">NEGiES</a>&#39;（ねじえす）とは、2003年から公開された、Windows 2000、Windows XP用のフリーのファイアウォールソフトウェア。作者公認の略称は「ねぎ」。「ねぎーず」という読み方も容認されているようである。<br />
+<br />
+純粋にスタティックなパケットフィルタ型のファイアウォールだが、プロセスごとの帯域指定や、TCPのSYNパケットのみの遮断、TCPコネクションのモニタ・操作機能など、PC上で動作するパーソナルユースのファイアウォールとしては必要十分な高い機能を有している。ただし設定にはIPについてのある程度の知識が必要である。<br />
+<br />
+== 外部リンク ==<br />
+*[http://hp.vector.co.jp/authors/VA036210/ <a href="http://localhost/keyword/NEGiES">NEGiES</a> Official Homepage]<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:セキュリティソフト<br />
+Category:フリーウェア<br />

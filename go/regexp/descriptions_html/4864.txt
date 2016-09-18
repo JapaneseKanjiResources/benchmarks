@@ -1,0 +1,51 @@
+description<br />
+<br />
+|駅構造     = 地上駅<br />
+|ホーム     = 単式　1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/965%E5%B9%B4">965年</a>（昭和40年）9月16日<br />
+|廃止年月日 = <br />
+|乗車人員   = 30<br />
+|乗降人員   = <br />
+|統計年度   = 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>度<br />
+|乗換       = <br />
+|備考       = <br />
+}}<br />
+ホーム（200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>10月）<br />
+&#39;<a href="http://localhost/keyword/%E4%BB%A3%E5%AE%98%E7%94%BA%E9%A7%85">代官町駅</a>&#39;（だいかんちょうえき）は、静岡県島田市金谷代官町にある大井川鐵道大井川本線の駅。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線の地上駅。ログハウス風の木造の待合室が設置されている。<br />
+<br />
+== 利用状況 ==<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>度の1日平均乗車人員は30人（静岡県統計年鑑による）<br />
+<br />
+== 駅周辺 ==<br />
+* 島田市役所 金谷庁舎（旧・<a href="http://localhost/keyword/%E9%87%91%E8%B0%B7%E7%94%BA">金谷町</a>役場）<br />
+* 金谷生涯学習センター「みんくる」<br />
+* 金谷保健福祉センター<br />
+* 金谷体育センター<br />
+* 金谷郵便局<br />
+* 国道1号<br />
+* 国道473号<br />
+* 大代川<br />
+* 島田市立金谷中学校<br />
+<br />
+== 歴史 == <br />
+*1<a href="http://localhost/keyword/965%E5%B9%B4">965年</a>9月16日 - 開業。<br />
+<br />
+==隣の駅==<br />
+;大井川鐵道<br />
+:大井川本線<br />
+::新金谷駅 - &#39;<a href="http://localhost/keyword/%E4%BB%A3%E5%AE%98%E7%94%BA%E9%A7%85">代官町駅</a>&#39; - 日切駅<br />
+<br />
+==関連項目==<br />
+<br />
+*日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+<br />
+category:島田市の鉄道駅<br />
+いかんちよう<br />
+category:大井川鐵道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/965%E5%B9%B4">965年</a>開業の鉄道駅<br />

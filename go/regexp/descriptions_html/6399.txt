@@ -1,0 +1,24 @@
+description<br />
+&#39;<a href="http://localhost/keyword/NYAOS">NYAOS</a>&#39; (「にゃおす」と発音する)は Windows及びOS/2 用のフリーな日本語拡張 UNIX ライクコマンドラインシェルである。command.com, cmd.exe に比べて多機能で、tcsh ライクなヒストリー機能、Tab による入力補完機能のほか、エイリアスや関数機能によるシェルスクリプトの実行など強力な機能を備える。<br />
+<br />
+GPLライセンスの元で公開されている。その動作環境はメジャーバージョンによって異なる。<br />
+<br />
+== <a href="http://localhost/keyword/NYAOS">NYAOS</a> 1.xx ==<br />
+Nihongo Yet Another &#39;OS/2&#39; Shell の略とされ、OS/2 の上で動作する。YAOS と呼ばれるOS/2用の米国製コマンドラインシェルを手本として、CMD.EXE のラッパーとして開発された。<br />
+<br />
+現在はメンテナンスは停止している。<br />
+<br />
+== <a href="http://localhost/keyword/NYAOS">NYAOS</a> 2.xx ==<br />
+Nihongo Yet Another &#39;OSes&#39; Shell の略とされ、DOSでも動くよう、スクラッチから再開発された。その処理系はWindows NT系列及びWindows 9x系の 32bit オペレーティングシステム用の &#39;NYACUS&#39;（にゃーかす、Nihongo Yet Another CUI Shell）、 DOS及びWindows9x系の 16bit オペレーティングシステム用の &#39;NYADOS&#39;（にゃーどす、Nihongo Yet Another DOS Shell）, OS/2 用の &#39;<a href="http://localhost/keyword/NYAOS">NYAOS</a>弐&#39;（にゃおすつー、Nihongo Yet Another OS/2 Shell-II）からなっている。<br />
+<br />
+このバージョンでも、DOS あるいは Windows のデフォルトで動作する command.com, cmd.exe の上で動作する。NYACUS は standalone オプションを与えることで Windows 32bit ネイティブアプリケーションとして単独動作が可能である。また、9x系での NYACUS は日本語がうまく扱えない一方で、単独動作させることによりパイプなどの一部の機能について command.com の制限を取り除くことが可能である。<br />
+<br />
+現在、安定版として、バグフィクスのみが行われている。<br />
+<br />
+== <a href="http://localhost/keyword/NYAOS">NYAOS</a> 3.xx ==<br />
+Nihongo Yet Another &#39;Open&#39; Shell の略とされ、<a href="http://localhost/keyword/NYAOS">NYAOS</a> 2.xx の次世代バージョンとして開発されている。開発コードネームは「<a href="http://localhost/keyword/NYAOS">NYAOS</a> 3000」。当バージョンより DOS/Windows9x環境はサポートから外された。Luaインタプリタを内蔵し、シェルの各種動作をLuaでカスタマイズできる。また、standaloneモードのみとなり、基本的に単独で動作するシェルに進化している(ただし、バッチファイル実行などで、一部では CMD.EXE を必要とするシーンもある)。<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.nyaos.org/index.cgi <a href="http://localhost/keyword/NYAOS">NYAOS</a>.ORG]<br />
+<br />
+にやおす<br />

@@ -1,0 +1,133 @@
+description<br />
+があるガル県の位置。黄色の部分が<a href="http://localhost/keyword/%E3%82%AC%E3%83%AA%E5%9C%B0%E5%8C%BA">ガリ地区</a>。<br />
+|latd= |latm= |lats=|latNS=N<br />
+|longd= |longm= |longs= |longEW=E<br />
+|simplified        = 阿里<br />
+|traditional       = 阿里<br />
+|pinyin            = Ālĭ<br />
+|katakana          = アーリー<br />
+|tibetan           = མངའ་རིས་ས་ཁུལ་<br />
+|wylie             = Mnga&#39; ris <br />
+|tibetan_pinyin    = <br />
+|class             = 地区<br />
+|subdivision_type  = 国家<br />
+|subdivision_name  = 中華人民共和国<br />
+|subdivision_type1 = 自治区<br />
+|subdivision_name1 = チベット<br />
+|subdivision_type2 = <br />
+|subdivision_name2 = <br />
+|established_title = <br />
+|established_date  = <br />
+|established_title1= <br />
+|established_date1 = <br />
+|leader_title      = <br />
+|leader_name       = <br />
+|leader_title1     = <br />
+|leader_name1      = <br />
+|area_total        = 304,683<br />
+|area_urban        = <br />
+|area_metro        = <br />
+|area_metro_as_of  = <br />
+|elevation         = <br />
+|population_total  = 8<br />
+|population_as_of  = 2003<br />
+|population_density= <br />
+|population_urban  = <br />
+|population_urban_as_of = <br />
+|GDP               = <br />
+|GDP_as_of         = <br />
+|GDPPC             = <br />
+|Urban_GDP         =  <br />
+|GDP_urban_as_of   = <br />
+|areacode          = 0897<br />
+|postcode          = 859000<br />
+|carlicense        = <br />
+|admini_division_code = 542500<br />
+|tree              = <br />
+|flower            = <br />
+|website           = <br />
+|footnotes         = <br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E3%82%AC%E3%83%AA%E5%9C%B0%E5%8C%BA">ガリ地区</a>&#39;（ガリちく）は中華人民共和国チベット自治区に位置する地区のひとつ。自治区の西部を占める。ガリー（མངའ་རིས་ mnga&#39; ris）はチベット高原西部地域を指す歴史的地域名。日本語ではチベット語に基づく「<a href="http://localhost/keyword/%E3%82%AC%E3%83%AA%E5%9C%B0%E5%8C%BA">ガリ地区</a>」、「ンガリ」、漢字表記「阿里」からの重訳の「アリ地区」という表記が見られる。英語表記では &#39;&#39;Ngari&#39;&#39;。<br />
+<br />
+平均海抜4500m。政治経済上の中心都市は、。<br />
+<br />
+古くは、シャンシュン王国、<a href="http://localhost/keyword/%E3%82%B0%E3%82%B2%E7%8E%8B%E5%9B%BD">グゲ王国</a>があり、西部チベットの中心であった。<br />
+<br />
+== 地理 ==<br />
+[[カイラス山]]<br />
+西蔵自治区の西部に位置する。南はインドのヒマーチャル・プラデーシュ州、シガツェ市、東はナチュ地区、北は新疆ウイグル自治区、西はインド、パキスタン間で係争中のカシミール地方と接する。インドとの帰属問題を抱えるアクサイチンを含む。<br />
+南部のブラン県にはいくつもの宗教の聖地とされるカイラス山や、ラークシャスタール湖と<a href="http://localhost/keyword/%E3%83%9E%E3%83%BC%E3%83%8A">マーナ</a>サローワル湖という2つの大きな湖がある。<br />
+<br />
+* グゲ遺跡<br />
+<br />
+=== 都市 ===<br />
+* 獅泉河（あるいは、歴史的には、とも呼ばれる。）。この都市の名前の由来となった獅泉河（Sênggêzangbo）が、による音写によりローマ字で、漢字で「」と充てられている。中心街からG219国道で南へ60kmほど離れた場所にガリ空港がある。<br />
+<br />
+* 普蘭<br />
+プラン。ネパールへの交易路上の街<br />
+* 札達<br />
+ツァンダ。<br />
+<br />
+== 歴史 ==<br />
+<a href="http://localhost/keyword/%E3%82%AC%E3%83%AA%E5%9C%B0%E5%8C%BA">ガリ地区</a>にはシャンシュン王国（象雄、小羊同）という国があり、ボン教が栄えていた。7世紀に中央チベットで栄えた吐蕃を支配する一族も、この地区出身だったと言われている。シャンシュン王国は7世紀半ばに吐蕃に滅ぼされた。10世紀には吐蕃から分かれた<a href="http://localhost/keyword/%E3%82%B0%E3%82%B2%E7%8E%8B%E5%9B%BD">グゲ王国</a>が仏教国として栄えた旅行人ノート p.127。<br />
+<br />
+== 行政区画 ==<br />
+本地区には、以下の7県（ゾン）がある。<br />
+<br />
+<br />
+<br />
+* ツァンダ県には、10世紀に<a href="http://localhost/keyword/%E3%82%B0%E3%82%B2%E7%8E%8B%E5%9B%BD">グゲ王国</a>の仏教都市・があったが、17世紀にラダック王国に滅ぼされた。かつてトリン（托林）と呼ばれていたが、1<a href="http://localhost/keyword/956%E5%B9%B4">956年</a>にツァパラン(札布譲)とダワ(達巴)が合併して札達となった旅行人ノートpp.130-155。中心都市には、町の北側をランチェン・ツァンポ（朗欽蔵布河）が流れ、古刹のの他、<a href="http://localhost/keyword/%E3%82%B0%E3%82%B2%E7%8E%8B%E5%9B%BD">グゲ王国</a>の遺跡が数多く残る。<br />
+* インド、ネパールの貿易拠点として栄えたが、中印の国境紛争以降は国境が閉ざされたため揮わない。<br />
+<br />
+=== 年表 ===<br />
+====ド・ガルプン====<br />
+* 1<a href="http://localhost/keyword/951%E5%B9%B4">951年</a>5月23日 - 中華人民共和国チベット地方&#39;ド・ガルプン&#39;が成立。&#39;ガルトクゾン&#39;・&#39;ルトクゾン&#39;・&#39;ダバゾン&#39;が発足。(3ゾン)<br />
+* 1<a href="http://localhost/keyword/952%E5%B9%B4">952年</a> - ド・ガルプンが&#39;ガリ・チキャプ&#39;に改称。<br />
+<br />
+====ガリ・チキャプ====<br />
+* 1<a href="http://localhost/keyword/952%E5%B9%B4">952年</a> - ド・ガルプンが&#39;ガリ・チキャプ&#39;に改称。(4ゾン1シカ)<br />
+** ダバ・ゾンの一部が分立し、&#39;プランゾン&#39;・&#39;ドンパロチャンシカ&#39;が発足。<br />
+* 1<a href="http://localhost/keyword/955%E5%B9%B4">955年</a>3月9日 - ガリ・チキャプが&#39;ガリ弁事処&#39;に改称。<br />
+<br />
+====ガリ弁事処====<br />
+* 1<a href="http://localhost/keyword/955%E5%B9%B4">955年</a>3月9日 - ガリ・チキャプが&#39;ガリ弁事処&#39;に改称。(5ゾン3シカ)<br />
+** ガルトク・ゾンの一部が分立し、&#39;ツァプランゾン&#39;・&#39;ゲギェシカ&#39;・&#39;ゲルツェシカ&#39;が発足。<br />
+** ガルトク・ゾンが&#39;ガル・ゾン&#39;に改称。<br />
+* 1<a href="http://localhost/keyword/956%E5%B9%B4">956年</a> - ツァプランゾン・ダバゾンが合併し、&#39;ツァンダ・ゾン弁事処&#39;が発足。(3ゾン3シカ1弁事処)<br />
+* 1<a href="http://localhost/keyword/959%E5%B9%B4">959年</a>10月8日 - ガル・ゾンが県制施行し、&#39;ガル県&#39;となる。(1県2ゾン3シカ1弁事処)<br />
+* 19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>1月7日 - ガル県・プランゾン・ルトクゾン・ドンパロチャンシカ・ゲギェシカ・ゲルツェシカ・ツァンダゾン弁事処が&#39;ガリ専区&#39;に編入。<br />
+<br />
+====チベット地方ガリ専区====<br />
+* 19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>1月7日 - ガリ弁事処&#39;ガル県&#39;・&#39;プランゾン&#39;・&#39;ルトクゾン&#39;・&#39;ドンパロチャンシカ&#39;・&#39;ゲギェシカ&#39;・&#39;ゲルツェシカ&#39;・&#39;ツァンダゾン弁事処&#39;を編入。&#39;ガリ専区&#39;が成立。(1県2ゾン3シカ1弁事処)<br />
+* 19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>5月 - ツァンダ・ゾン弁事処が県制施行し、&#39;ツァンダ県&#39;となる。(2県2ゾン3シカ)<br />
+* 19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>8月 - ゲギェ・シカが県制施行し、&#39;ゲギェ県&#39;となる。(3県2ゾン2シカ)<br />
+* 19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>10月 (6県1ゾン)<br />
+** ゲルツェ・シカが県制施行し、&#39;ゲルツェ県&#39;となる。<br />
+** ドンパロチャン・シカが県制施行し、&#39;ドンパ県&#39;となる。<br />
+** プラン・ゾンが県制施行し、&#39;プラン県&#39;となる。<br />
+* 1<a href="http://localhost/keyword/961%E5%B9%B4">961年</a>3月 - ルトク・ゾンが県制施行し、&#39;ルトク県&#39;となる。(7県)<br />
+* 1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>11月22日 - ドンパ県が&#39;シガツェ専区&#39;に編入。(6県)<br />
+* 1<a href="http://localhost/keyword/965%E5%B9%B4">965年</a>8月23日 - チベット自治区の成立により、チベット自治区&#39;シガツェ専区&#39;となる。<br />
+<br />
+====チベット自治区<a href="http://localhost/keyword/%E3%82%AC%E3%83%AA%E5%9C%B0%E5%8C%BA">ガリ地区</a>====<br />
+* 1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>11月20日 - ガリ専区が&#39;<a href="http://localhost/keyword/%E3%82%AC%E3%83%AA%E5%9C%B0%E5%8C%BA">ガリ地区</a>&#39;に改称。(7県)<br />
+** ゲルツェ県の一部が分立し、&#39;ツォチェン県&#39;が発足。<br />
+* 1<a href="http://localhost/keyword/983%E5%B9%B4">983年</a>10月8日 - シガツェ地区ドンパ県の一部が分立し、&#39;ルンガル(隆格爾)県&#39;が発足。(8県)<br />
+* 19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>9月21日 - ルンガル県がシガツェ地区ドンパ県に編入。(7県)<br />
+<br />
+== 交通 ==<br />
+*ガリ空港<br />
+*219国道<br />
+<br />
+== 注釈・出典 ==<br />
+<br />
+<br />
+== 参考文献 ==<br />
+* 旅行人ノート『チベット』第4版、200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>、ISBN 4-947702-56-7<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:チベット自治区の行政区画<br />

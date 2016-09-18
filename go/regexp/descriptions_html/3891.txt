@@ -1,0 +1,50 @@
+description<br />
+<br />
+|<a href="http://localhost/keyword/%E9%83%B5%E4%BE%BF%E7%95%AA%E5%8F%B7">郵便番号</a> = 770-0843<br />
+|本社所在地 = 徳島県<a href="http://localhost/keyword/%E9%98%BF%E6%B3%A2%E5%B8%82">阿波市</a>市場町市場字岸の下303番地地先<br />
+|設立 = <br />
+|業種 = 5050<br />
+|事業内容 =  一般乗合旅客自動車運送事業一般貸切旅客自動車運送事業旅行業<br />
+|代表者 = <br />
+|<a href="http://localhost/keyword/%E8%B3%87%E6%9C%AC%E9%87%91">資本金</a> = <br />
+|従業員数 = <br />
+|外部リンク = <br />
+}}<br />
+<br />
+<a href="http://localhost/keyword/%E5%B8%82%E5%A0%B4%E4%BA%A4%E9%80%9A">市場交通</a>日野リエッセ現行塗色(徳島線学駅前にて)<br />
+&#39;有限会社 <a href="http://localhost/keyword/%E5%B8%82%E5%A0%B4%E4%BA%A4%E9%80%9A">市場交通</a>&#39;（いちばこうつう）は、徳島県の<a href="http://localhost/keyword/%E9%98%BF%E6%B3%A2%E5%B8%82">阿波市</a>を中心に営業する路線バス・貸切バス・タクシー事業者。旧市場町に本社がある。<br />
+<br />
+== 概要 ==<br />
+もともとはタクシー会社であったが、路線バスの乗客減少に伴い、旧国鉄バスの市場～学駅間と、徳島バスの市場～界目（さかいめ、旧市場町と香川県東かがわ市の県境。大川バス境目停留所と隣接）及び旧阿波町の土柱の路線を引き継ぎ、路線を合わせる形で、学駅～界目、学駅～土柱の2路線を運行している。<br />
+<br />
+なお路線用の車両として日野・リエッセが使用されている。<br />
+<br />
+===路線===<br />
+*市場学線（学駅～市場）<br />
+*市場二俣境目線（市場～二又～境目）<br />
+*市場二俣線（市場～二又）<br />
+*市場大俣土柱線（市場～土柱）<br />
+<a href="http://localhost/keyword/%E5%B8%82%E5%A0%B4%E4%BA%A4%E9%80%9A">市場交通</a>の路線は上記4系統を運行している[http://www.city.awa.lg.jp/itwinfo/i2472/file/kaigiroku%20H20.12.19.pdf 平成２０年第４回<a href="http://localhost/keyword/%E9%98%BF%E6%B3%A2%E5%B8%82">阿波市</a>議会定例会会議録（第４号）]が、実際には学駅～二又～境目、学駅～土柱という連続運行の形態を取っている（一部便を除く）。1<a href="http://localhost/keyword/973%E5%B9%B4">973年</a>（昭和<a href="http://localhost/keyword/48%E5%B9%B4">48年</a>）4月1日に市場町（当時）から委託を受けた、旧道路運送法第21条による廃止代替バスとして許認可を得た[http://www.city.tokushima.tokushima.jp/bus/osirase/pdf/tosin03.pdf 資料1 市バス運行路線の状況（運賃区間）]。ダイヤは基本的にJR徳島線に接続したものとなっている。20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>2月1日のダイヤ改正では、学駅～市場系統の1往復、学駅～二又系統の1往復を廃止した。この改正以降、全便が<a href="http://localhost/keyword/%E9%98%BF%E6%B3%A2%E5%B8%82">阿波市</a>による運行補助対象となっている。<br />
+<br />
+===運行ダイヤ・運賃（20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>冬現在）===<br />
+*学駅～境目系統　1日3.5往復、平日のみ0.5往復（平日のみ境目→学駅間を運行、それ以外は市場始発）<br />
+**このうち、0.5往復は学駅→市場止、約30分後に市場始発→境目として運行。<br />
+*学駅～土柱系統　1日2往復<br />
+*学駅より　市場まで12分・250円、二又まで19分・330円、境目まで35分・660円、土柱まで27分・540円。<br />
+*学駅発境目行きに接続するJR徳島線の列車番号　442D、456D（市場止）、470D、467D<br />
+*学駅発土柱行きに接続するJR徳島線の列車番号　443D、453D<br />
+*境目発学駅行きに接続するJR徳島線の列車番号　444D（土休は市場始発）452D、4462D、476D<br />
+*土柱発学駅行きに接続するJR徳島線の列車番号　456D、470D<br />
+<br />
+== 関連項目 ==<br />
+* 市場町<br />
+* 四国地方の乗合バス事業者<br />
+*[http://www.city.awa.lg.jp/ <a href="http://localhost/keyword/%E9%98%BF%E6%B3%A2%E5%B8%82">阿波市</a>役所]→観光情報→アクセス情報→[http://www.city.awa.lg.jp/docs/20<a href="http://localhost/keyword/110">110</a>40100580/files/ichibazikokuhyou231001.pdf <a href="http://localhost/keyword/%E5%B8%82%E5%A0%B4%E4%BA%A4%E9%80%9A">市場交通</a>バス時刻表]・[http://www.city.awa.lg.jp/docs/20<a href="http://localhost/keyword/110">110</a>40100580/files/ichiba_untin.pdf 運賃表]<br />
+<br />
+<br />
+<br />
+category:四国地方の乗合バス事業者<br />
+category:四国地方の貸切バス事業者<br />
+Category:<a href="http://localhost/keyword/%E9%98%BF%E6%B3%A2%E5%B8%82">阿波市</a>の企業<br />
+Category:徳島県の交通<br />
+<br />

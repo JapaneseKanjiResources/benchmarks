@@ -1,0 +1,455 @@
+description<br />
+<br />
+<br />
+<br />
+| 本社<a href="http://localhost/keyword/%E9%83%B5%E4%BE%BF%E7%95%AA%E5%8F%B7">郵便番号</a> = 164-0001<br />
+| 本社所在地 = 東京都中野区中野2丁目14番21号<br />
+| 設立 = 19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>（平成<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）7月5日<br />
+| 業種 = 5250<br />
+| 統一金融機関コード = <br />
+| SWIFTコード = <br />
+| 事業内容 = 有線テレビジョン放送事業有線ラジオ放送事業電気通信事業<br />
+| 代表者 = 清水 正康（代表取締役社長）（20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>（平成<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）6月1日現在）<br />
+| <a href="http://localhost/keyword/%E8%B3%87%E6%9C%AC%E9%87%91">資本金</a> = 21億5,925万円（20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>（平成<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）6月1日現在）<br />
+| 発行済株式総数 = <br />
+| 売上高 = <br />
+| 営業利益 = <br />
+| 純利益 = <br />
+| 純資産 = <br />
+| 総資産 = <br />
+| 従業員数 = <br />
+| 支店舗数 = <br />
+| 決算期 = <br />
+| 主要株主 = 株式会社ジュピターテレコム東京都中野区<br />
+| 主要子会社 = <br />
+| 関係する人物 = <br />
+| 外部リンク = http://group-companies.jcom.co.jp/nakano/<br />
+|特記事項 = <br />
+}}<br />
+&#39;<br />
+| 団体 = 株式会社<a href="http://localhost/keyword/%E3%82%B8%E3%82%A7%E3%82%A4%E3%82%B3%E3%83%A0%E4%B8%AD%E9%87%8E">ジェイコム中野</a><br />
+| 略称 = <br />
+| コミュチャン愛称 = J:COMチャンネル中野<br />
+| MSO = JCN<br />
+| 系列 = MSO<br />
+| メインセンター <a href="http://localhost/keyword/%E9%83%B5%E4%BE%BF%E7%95%AA%E5%8F%B7">郵便番号</a> = 164-0001<br />
+| メインセンター 都道府県名 = 東京都<br />
+| メインセンター 郡名 =<br />
+| メインセンター 自治体名 = 中野区<br />
+| メインセンター 以降 = 中野2丁目14番21号<br />
+| サブセンター <a href="http://localhost/keyword/%E9%83%B5%E4%BE%BF%E7%95%AA%E5%8F%B7">郵便番号</a> = <br />
+| サブセンター 都道府県名 = <br />
+| サブセンター 郡名 = <br />
+| サブセンター 自治体名 = <br />
+| サブセンター 以降 = <br />
+| サブセンター名称 = <br />
+| デジタル放送上位配信事業者 = JCN<br />
+| 独自備考 = <br />
+| 開局年月日 = 1<a href="http://localhost/keyword/995%E5%B9%B4">995年</a>（平成<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）10月1日<br />
+| 開局備考 = （株式会社シティテレビ中野として）<br />
+| 閉局年月日 = <br />
+| 閉局備考 = <br />
+| 市数 = <br />
+| 特別区数 = 1<br />
+| 町数 = <br />
+| 村数 = <br />
+| 大阪市行政区数 = <br />
+| 名古屋市行政区数 = <br />
+| 京都市行政区数 = <br />
+| 横浜市行政区数 = <br />
+| 神戸市行政区数 = <br />
+| 北九州市行政区数 = <br />
+| 札幌市行政区数 = <br />
+| 川崎市行政区数 = <br />
+| 福岡市行政区数 = <br />
+| 広島市行政区数 = <br />
+| 仙台市行政区数 = <br />
+| 千葉市行政区数 = <br />
+| <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市行政区数 = <br />
+| 静岡市行政区数 = <br />
+| 堺市行政区数 = <br />
+| 新潟市行政区数 = <br />
+| 浜松市行政区数 = <br />
+| 岡山市行政区数 = <br />
+| 相模原市行政区数 = <br />
+| 熊本市行政区数 = <br />
+| 地上波総数 = 11<br />
+| 区域内数 = 9<br />
+| 区域外数 = 2<br />
+| BS放送 = <br />
+| BS波総数 = <br />
+| BS SD数 = <br />
+| BS HD数 = <br />
+| CS放送 = <br />
+| CS波総数 = <br />
+| CS SD数 = <br />
+| CS HD数 = <br />
+| 自主放送 = <br />
+| 自主放送総数 = <br />
+| 自主放送 SD数 = <br />
+| 自主放送 HD数 = <br />
+| 地デジ自主放送 = あり<br />
+| 地デジ化計画 = <br />
+| 地デジID番号1 = 11<br />
+| 地デジID番号2 = 10<br />
+| ラジオ数 = 5<br />
+| ネット接続 = あり<br />
+| プライマリ電話 = あり<br />
+| CATV TOP_URL = http://www.myjcom.jp/town/nakano.html<br />
+| CATV TV-service_URL = <br />
+| CATV NET-service_URL = <br />
+| CATV PHONE-service_URL = <br />
+| 特記事項 = <br />
+}}<br />
+<br />
+&#39;株式会社<a href="http://localhost/keyword/%E3%82%B8%E3%82%A7%E3%82%A4%E3%82%B3%E3%83%A0%E4%B8%AD%E9%87%8E">ジェイコム中野</a>&#39;（ジェイコムなかの）は、東京都中野区に本社を置き、放送法に規定する一般放送（有線一般放送）に基づく有線テレビジョン放送（ケーブルテレビ）1局（1施設）を運営し、放送（テレビ、ラジオ）、通信（インターネット、IP電話）を業務する、株式会社ジュピターテレコム（J:COM）の連結子会社である。会社および局呼称は「J:COM 中野」。<br />
+<br />
+== 沿革 ==<br />
+* 19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>（平成<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）<br />
+** 7月5日<br />
+*** 「&#39;株式会社シティテレビ中野&#39;」として設立。<br />
+* 1<a href="http://localhost/keyword/994%E5%B9%B4">994年</a>（平成<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）<br />
+** 6月9日<br />
+*** 有線テレビジョン放送施設設置許可取得。<br />
+* 1<a href="http://localhost/keyword/995%E5%B9%B4">995年</a>（平成<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）<br />
+** 10月1日<br />
+*** 開局。<br />
+* 1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>（平成<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）<br />
+** 8月6日<br />
+*** 第一種電気通信事業許可取得。<br />
+* 1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a>（平成<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>）<br />
+** 1月1日<br />
+*** インターネット接続事業サービス「ctn.ne.jp」開始。<br />
+* 19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>（平成<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）<br />
+** 10月1日<br />
+*** インターネット接続事業サービス「Cable@nifty」開始。<br />
+* 2000年（平成<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）<br />
+** 12月1日<br />
+*** BSデジタル放送サービス（TM（複数TS伝送）方式）を開始。<br />
+* 2001年（平成<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）<br />
+** 9月30日<br />
+*** ジャパンケーブルネット株式会社が株式取得。JCNグループに参画。<br />
+* 200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>（平成<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）<br />
+** 1月31日<br />
+*** インターネット接続事業サービス「ctn.ne.jp」終了。<br />
+* 2003年（平成<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）<br />
+** 12月1日<br />
+*** 地上デジタル放送サービス（OFDM方式）を同一周波数で一部地域で開始（NHK総合・東京のみ）。<br />
+* 200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>（平成<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>）<br />
+** 4月1日<br />
+*** デジタル多チャンネル放送サービス（ISDB-C（リマックス）方式）を開始。<br />
+** 7月5日<br />
+*** 地上デジタル放送サービス（OFDM方式）を同一周波数で一部地域を除いた全域で開始（全チャンネル）。<br />
+** 9月1日<br />
+*** 050 IP電話サービス『JCNetフォン.CTN』を開始[http://jcntv.jp/corporate/news2/1172736_809.php ジャパンケーブルネット株式会社がIP電話サービス「JCNet.PHONE」を提供開始!] ジャパンケーブルネット株式会社（JCNニュースリリース） 2003年7月3日[http://jcntv.jp/corporate/news2/1172737_809.php ジャパンケーブルネット株式会社(JCN)のIP電話サービス「JCNet.PHONE」概要] ジャパンケーブルネット株式会社（JCNニュースリリース） 2003年7月3日。<br />
+* 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>（平成<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）<br />
+** 1月1日<br />
+*** 地上デジタル放送サービス（OFDM方式）を同一周波数で全域で開始。<br />
+** 6月1日<br />
+*** アナログ多チャンネル放送サービスのチャンネル番号をJCN各局共通番号に変更。<br />
+* 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>（平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）<br />
+** 1月1日<br />
+*** 呼称を「&#39;&#39;」に変更[http://jcntv.jp/corporate/news2/1<a href="http://localhost/keyword/176">176</a>197_809.php ジャパンケーブルネット、グループ局の呼称を変更] ジャパンケーブルネット株式会社（JCNニュースリリース） 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>12月26日。<br />
+** 7月1日<br />
+*** JCN共通ロゴデザインのロゴマークを展開[http://jcntv.jp/corporate/news2/1172625_809.php JCNのロゴデザインをグループ全局に展開。ロゴマークを共通化] ジャパンケーブルネット株式会社（JCNニュースリリース） 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>7月4日。<br />
+*** JCN統一サービス名称として『JCNテレビ』、『JCNインターネット』および『JCN電話』を制定し展開。<br />
+*** JCN統一サービスラインナップ導入。<br />
+** 10月1日<br />
+*** 『JCN電話』として、KDDI株式会社のプライマリIP電話（0AB〜J IP電話）サービス「ケーブルプラス電話」を開始。<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）<br />
+** 4月1日<br />
+*** JCN会員誌『JCN plus』を創刊。<br />
+** 7月1日<br />
+*** HDD内蔵録画機能付きSTB『録りま専科』を提供開始[http://jcntv.jp/corporate/news2/1192010_809.php JCNグループ全局で提供開始 HDD録画機能付きSTBサービス「録りま専科」] ジャパンケーブルネット株式会社（JCNニュースリリース） 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>5月23日『録りま専科』の機種は、Panasonic社製「TZ-DCH2800」が採用されている。。<br />
+** 9月1日<br />
+*** 『JCN VODサービス』として、KDDI株式会社のVODサービス「MOVIE SPLASH VOD」を開始[http://jcntv.jp/corporate/news2/1192793_809.php JCN、KDDIと協業でVODサービスを提供開始] ジャパンケーブルネット株式会社（JCNニュースリリース） 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>6月12日。<br />
+* 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>（平成<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）<br />
+** 1月1日<br />
+*** 地上デジタル放送で『CTNチャンネル5』を開始し、名称を『JCNプラスチャンネル』に変更[http://jcntv.jp/corporate/news2/1192583_809.php JCNグループ、コミュニティチャンネルのデジタル放送を開始] ジャパンケーブルネット株式会社（JCNニュースリリース） 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>5月31日。<br />
+** 1月30日<br />
+*** 『JCN電話』の050 IP電話サービス『JCNetフォン.CTN』を終了[http://jcntv.jp/corporate/news2/1197377_809.php IP電話サービス「JCNetフォン」の提供終了について] ジャパンケーブルネット株式会社（JCNニュースリリース） 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>11月16日。<br />
+** 10月1日<br />
+*** 『JCN VODサービス』で、FODサービス『JCNプラスビデオ』を開始[http://jcntv.jp/corporate/news2/1203682_809.php VODサービス『JCNプラスビデオ』を開始] ジャパンケーブルネット株式会社（JCNニュースリリース） 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>6月27日。<br />
+* 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>（平成<a href="http://localhost/keyword/21%E5%B9%B4">21年</a>）<br />
+** 2月10日<br />
+*** au携帯電話端末を販売開始[http://jcntv.jp/corporate/news/090209.php 「JCNケータイ」の提供について] ジャパンケーブルネット株式会社（JCNニュースリリース） 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>2月9日。<br />
+** 4月1日<br />
+*** DVDドライブ搭載HDD内蔵録画機能付きSTB『録りま専科DVD』を提供開始[http://jcntv.jp/corporate/news/090318.php DVD/HDD録画機能付きSTBサービス『録りま専科DVD』を提供開始] ジャパンケーブルネット株式会社（JCNニュースリリース） 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>3月18日『録りま専科DVD』の機種は、Panasonic社製「TZ-DCH9800」が採用されている。。<br />
+*** 気象庁の高度利用者向けサービス用いたサービス『JCN緊急地震速報』を開始[http://jcntv.jp/corporate/news2/1207594_809.php JCN新サービス『緊急地震速報』を開始] ジャパンケーブルネット株式会社（JCNニュースリリース） 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>11月25日。<br />
+** 6月1日<br />
+*** 双方向設置済みの「HDD内蔵STB」利用者向けに、リモート録画予約サービス『ケータイ録画予約』を提供開始[http://jcntv.jp/corporate/news/090525.php 携帯電話から番組録画予約できる新機能を本格提供開始〜HDD録画機能付きSTBサービスの利便性を向上〜] ジャパンケーブルネット株式会社（JCNニュースリリース） 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>5月25日。<br />
+** 9月1日<br />
+*** 『JCN VODサービス』で、『NHKオンデマンド(NOD)』を開始[http://www.kddi.com/corporate/news_release/2009/0305a/ KDDIのケーブルテレビ局向けVODサービスにおける「NHKオンデマンド」の配信開始について] KDDI株式会社 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>3月5日[http://jcntv.jp/corporate/news/09083102.php NHKオンデマンドを提供開始] ジャパンケーブルネット株式会社（JCNニュースリリース） 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>8月31日。<br />
+** 9月17日<br />
+*** アナログ多チャンネル放送サービス終了。<br />
+** 12月1日<br />
+*** 下り最大160Mbpsの超高速インターネット接続サービス『スピードスター160』を開始[http://jcntv.jp/corporate/news/090217.php 『下り最大160Mbpsの超高速インターネットサービス』を開始] ジャパンケーブルネット株式会社（JCNニュースリリース） 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>2月17日。<br />
+* 20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>（平成<a href="http://localhost/keyword/22%E5%B9%B4">22年</a>）<br />
+** 4月1日<br />
+*** 地デジコミュニティチャンネルで「デジタル録画コピー制御」を運用開始。<br />
+** 7月1日<br />
+*** JCNインターネットの『スタンダード』を、下り最大伝送速度8Mbpsから15Mbpsに増速。<br />
+** 12月27日<br />
+*** 『JCNインターネット』利用者に限定し、UQ WiMA<a href="http://localhost/keyword/X%E7%AB%AF%E6%9C%AB">X端末</a>を販売開始。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）<br />
+** 4月1日<br />
+*** 『JCNプラスチャンネル』をハイビジョン化。<br />
+*** BD・DVDドライブ搭載HDD内蔵録画機能付きSTB『録りま専科ブルーレイ』を提供開始[http://jcntv.jp/corporate/news/<a href="http://localhost/keyword/110">110</a>20402.php 3D対応ブルーレイディスクドライブ搭載HDD録画機能付きSTBサービス『録りま専科ブルーレイ』を提供開始] ジャパンケーブルネット株式会社（JCNニュースリリース） 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>2月4日『録りま専科ブルーレイ』の機種は、Panasonic社製「TZ-BDT910F」が採用されている。。<br />
+*** HDD内蔵録画機能付きSTBセットの新コース『HDDコース』を提供開始[http://jcntv.jp/corporate/news/<a href="http://localhost/keyword/110">110</a>22801.php HDD録画機能付きSTBとテレビ向けポータルサービス「JCNおすすめナビ」をセットにした新コース「デジマックスHDD」、「デジエースHDD」、「デジスタHDD」を一挙開始] ジャパンケーブルネット株式会社（JCNニュースリリース） 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>2月28日『HDDコース』の機種は、Panasonic社製「TZ-HDW600F」が採用されている。。<br />
+*** 双方向設置済みの特定STB利用者向けに、『STBポータルサービス』および『JCNおすすめナビ』を提供開始。<br />
+** 6月1日<br />
+*** リモート録画予約サービス『ケータイ録画予約』を拡充し、『ケータイde録画予約』を提供開始[http://jcntv.jp/corporate/news/<a href="http://localhost/keyword/110">110</a>523.php CSおすすめ番組からHDD付きSTBに簡単録画予約〜JCNケータイサイトのリニューアルにより利便性向上〜] ジャパンケーブルネット株式会社（JCNニュースリリース） 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>5月31日。<br />
+** 7月14日<br />
+*** 地上放送の暫定的「デジアナ変換」を提供開始[http://jcntv.jp/corporate/news/10042101.php デジアナ変換の暫定的な導入方針を決定〜お客様のアナログテレビ等の継続使用ニーズに期間限定で対応〜] ジャパンケーブルネット株式会社（JCNニュースリリース） 20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>4月21日[http://jcntv.jp/corporate/news/<a href="http://localhost/keyword/110">110</a>12001.php デジアナ変換サービスの早期開始を決定〜お客様のアナログテレビ等の継続使用ニーズに期間限定で対応〜] ジャパンケーブルネット株式会社（JCNニュースリリース） 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>1月20日 - ジャパンケーブルネット株式会社（JCNニュースリリース） 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>1月20日 - ジャパンケーブルネット株式会社（JCNニュースリリース） 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>1月20日。<br />
+** 7月24日<br />
+*** 地上アナログ放送の放送対象地域外テレビ局を再送信終了。<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）<br />
+** 3月12日<br />
+*** 『JCNインターネット』利用者向けに、『JCN WiMAX』を提供開始[http://jcntv.jp/corporate/news/120119.php 高速モバイルインターネット「JCN WiMAX」の提供開始について] ジャパンケーブルネット株式会社（JCNニュースリリース） 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>1月19日 - ジャパンケーブルネット株式会社（JCNニュースリリース） 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>1月29日。<br />
+** 4月1日<br />
+*** 双方向設置済みの特定STB利用者向けに、『Shufoo!』を提供開始[http://jcntv.jp/corporate/news/120326.php 電子チラシサイト「Shufoo!」をSTBポータルサービスに導入] ジャパンケーブルネット株式会社（JCNニュースリリース） 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>3月26日。<br />
+** 6月25日<br />
+*** 『JCNインターネット』利用者向けに、『Wi-Fi内蔵モデム』を提供開始[http://jcntv.jp/corporate/news/120619_02.php ケーブルモデムにWi-Fiを内蔵した一体型モデムのレンタル開始について] ジャパンケーブルネット株式会社（JCNニュースリリース） 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>6月19日。<br />
+** 7月20日<br />
+*** 『JCNインターネット』利用者向けに、公衆無線LANサービス『ケーブルTV Wi-Fi』を提供開始[http://jcntv.jp/corporate/news/120628.php 公衆無線LAN「ケーブルＴＶ Wi-Fi」の開始について] ジャパンケーブルネット株式会社（JCNニュースリリース） 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>6月29日。<br />
+** 10月1日<br />
+*** 商号を「&#39;株式会社JCNシティテレビ中野&#39;」に変更[http://jcntv.jp/corporate/news/120903.php JCNグループケーブルテレビ局の社名変更について] ジャパンケーブルネット株式会社（JCNニュースリリース） 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>9月3日。<br />
+*** 『JCNプラスチャンネル』の名称を『JCN中野チャンネル』に変更。<br />
+*** 新しいコミュニティチャンネル『にっぽんケーブルチャンネル』を放送開始[http://jcntv.jp/corporate/news/120808.php 新しいコミュニティチャンネル「にっぽんケーブルチャンネル」の放送開始について〜JCNコミュニティチャンネルで日本各地の地域番組が視聴可能に〜] ジャパンケーブルネット株式会社（JCNニュースリリース） 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>8月8日。<br />
+* 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）<br />
+** 10月31日<br />
+*** 『JCN VODサービス』の新規登録終了。<br />
+* 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>（平成<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>）<br />
+** 3月31日<br />
+*** 『JCN VODサービス』を終了。<br />
+** 4月1日<br />
+*** 親会社のジャパンケーブルネット株式会社が株式会社ジュピターテレコムに吸収合併されたことに伴い、株式会社ジュピターテレコムの連結子会社となる。<br />
+** 6月1日<br />
+*** 呼称を「&#39;&#39;」に変更[http://www.jcom.co.jp/corporate/newsreleases/2014/_52779.html JCNグループ20社の社名および局呼称の変更について] 株式会社ジュピターテレコム（ニュースリリース） 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>3月31日。<br />
+*** 『JCN中野チャンネル』の名称を『J:COMチャンネル中野』に変更。<br />
+*** 「JCN」ブランドを廃止。<br />
+*** J:COM統一サービス名称として『J:COM TV』、『J:COM NET』および『J:COM PHONE』を制定し展開。<br />
+*** J:COMサービスラインナップ導入。<br />
+*** 『J:COM PHONE プラス』を提供開始。<br />
+*** 「にっぽんケーブルチャンネル」（JCN）を「J:COMテレビ」（J：COM）に統合[http://www.jcom.co.jp/corporate/newsreleases/2014/_53046.html 「J:COMテレビ」（J：COM）と「にっぽんケーブルチャンネル」（JCN）を統合 統合を記念し6月1日にJ:COM初の16時間“テレソン*”を実施 「柴又100K」や「アップアップガールズ（仮）」の初全国ツアー最終公演を生中継！] 株式会社ジュピターテレコム（ニュースリリース） 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>5月16日。<br />
+** 7月1日<br />
+*** 商号を「&#39;株式会社<a href="http://localhost/keyword/%E3%82%B8%E3%82%A7%E3%82%A4%E3%82%B3%E3%83%A0%E4%B8%AD%E9%87%8E">ジェイコム中野</a>&#39;」に変更。<br />
+** 10月1日<br />
+*** 『J:COM WiMAX 2+』を提供開始。<br />
+* 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>（平成<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）<br />
+** 3月18日<br />
+*** 地上放送の暫定的「デジアナ変換」を終了。<br />
+** 3月31日<br />
+*** 「ケーブルプラス電話」を終了。<br />
+** 4月15日<br />
+*** 『J:COM 緊急地震速報』を提供開始。<br />
+** 4月17日<br />
+*** 『J:COM NET』および『JCNインターネット』のインターネットサービスプロバイダーを『ZAQ』に変更。<br />
+** 4月27日<br />
+*** 『J:COMオンデマンド』を提供開始。<br />
+<br />
+== 事業所 ==<br />
+; 本社・事務所<br />
+* 本社（）<br />
+** 東京都中野区中野2丁目14番21号<br />
+* 中野営業事務所（）<br />
+** 東京都中野区中野2丁目14番21号（本社内）<br />
+<br />
+; 局舎<br />
+* 中野局（）<br />
+** 東京都中野区中野2丁目14番21号（本社内）<br />
+<br />
+== 提供区域内自治体 ==<br />
+* 東京都<br />
+** 中野区<br />
+<br />
+== 業務内容 ==<br />
+<br />
+<br />
+; 基本サービス<br />
+# &#39;ケーブルテレビサービス&#39;<br />
+## &#39;J:COM TV&#39;地上デジタル放送やBSデジタル放送も視聴可能。<br />
+## &#39;双方向機能&#39;（STBインターネット接続サービス）<br />
+## &#39;インタラクTV&#39;（STBテレビ向け情報サービス）<br />
+## &#39;ナビシェル&#39;（STB向けご案内画面サービス）<br />
+## &#39;J:COMオンデマンド&#39;（VODサービス）<br />
+## &#39;ケータイde録画予約&#39;（リモート番組録画予約）<br />
+# &#39;インターネット接続サービス&#39;<br />
+## &#39;J:COM NET&#39;<br />
+## &#39;ZAQ&#39;（インターネットサービスプロバイダ）<br />
+## &#39;J:COM WiMAX 2+&#39;WiMAXシステムは、KDDIグループの&#39;UQコミュニケーションズ&#39;のWiMAX回線にて、J:COMが仮想移動体通信事業を行っている。（WiMAXサービス）<br />
+# &#39;プライマリ電話サービス&#39;<br />
+## &#39;J:COM PHONEプラス&#39;電話システムは、KDDIのケーブルプラス電話を卸採用している。<br />
+<br />
+; 付加サービス<br />
+* &#39;ジェイコム マガジン&#39;（番組ガイド誌）<br />
+* &#39;J:COMチャンネル番組ガイド&#39;（地域情報誌）<br />
+* &#39;J:COMチャンネル中野&#39;（第一コミュニティチャンネル）<br />
+* &#39;J:COMテレビ&#39;（第二コミュニティチャンネル）<br />
+* &#39;J:COM 緊急地震速報&#39;（高度利用者向け地震速報）<br />
+<br />
+=== J:COM TV ===<br />
+<br />
+<br />
+==== テレビ ====<br />
+* 地上波テレビ放送のアナログ方式は、20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>（平成<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）3月18日まで「デジアナ変換」による再送信を実施していた。<br />
+* 表中、「配信方式」欄の『部類』に関しては下記を参照。<br />
+** 「PT」はパススルー方式。<br />
+** 「TM」はトランスモジュレーション方式。<br />
+* 表中、『記号』に関しては下記を参照。<br />
+** 「●」は視聴可能。<br />
+** 「×」は視聴不可。<br />
+** 「?」は不明。<br />
+<br />
+* 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>（平成<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）6月1日現在。<br />
+<br />
+<br />
+==== ラジオ ====<br />
+* 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>（平成<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）6月1日現在。<br />
+<br />
+<br />
+==== 専門チャンネル ====<br />
+<br />
+<br />
+=== J:COM NET ===<br />
+<br />
+<br />
+==== 主なサービス ====<br />
+<br />
+<br />
+=== J:COM PHONE ===<br />
+<br />
+<br />
+== コミュニティチャンネル ==<br />
+<br />
+| HDチャンネル名 = <br />
+| キャッチコピー = <br />
+| ジャンル = コミュニティチャンネル<br />
+| 旧チャンネル名 = <br />
+| 運営 = 株式会社<a href="http://localhost/keyword/%E3%82%B8%E3%82%A7%E3%82%A4%E3%82%B3%E3%83%A0%E4%B8%AD%E9%87%8E">ジェイコム中野</a><br />
+| MSO = J:COM<br />
+| 放送時間 = 24時間<br />
+| 開局年 = 2014<br />
+| 開局月 = 6<br />
+| 開局日 = 1<br />
+| HD開始年 = 2014<br />
+| HD開始月 = 6<br />
+| HD開始日 = 1<br />
+| 閉局年 = <br />
+| 閉局月 = <br />
+| 閉局日 = <br />
+| 視聴料金 = <br />
+| 地アナ = <br />
+| 地デジ = 111 &amp; 112<br />
+| JC-HITS = <br />
+| CATV = <br />
+| その他メディア = <br />
+| URL = http://www.myjcom.jp/tv/channel/kanto/nakano-index.html<br />
+| 特記事項 = <br />
+}}<br />
+&#39;<br />
+| HDチャンネル名 = <br />
+| キャッチコピー = <br />
+| ジャンル = コミュニティチャンネル<br />
+| 旧チャンネル名 = <br />
+| 運営 = 株式会社JCNシティテレビ中野<br />
+| MSO = JCN<br />
+| 放送時間 = 24時間<br />
+| 開局年 = 2012<br />
+| 開局月 = 10<br />
+| 開局日 = 1<br />
+| HD開始年 = 2012<br />
+| HD開始月 = 10<br />
+| HD開始日 = 1<br />
+| 閉局年 = 2014<br />
+| 閉局月 = 5<br />
+| 閉局日 = 31<br />
+| 視聴料金 = <br />
+| 地アナ = 5<br />
+| 地デジ = 111 &amp; 112<br />
+| JC-HITS = <br />
+| CATV = <br />
+| その他メディア = <br />
+| URL = <br />
+| 特記事項 = <br />
+}}<br />
+&#39;<br />
+| HDチャンネル名 = <br />
+| キャッチコピー = <br />
+| ジャンル = コミュニティチャンネル<br />
+| 旧チャンネル名 = CTNチャンネル5<br />
+| 運営 = JCNシティテレビ中野<br />
+| MSO/系列 = JCN<br />
+| 放送時間 = 24時間<br />
+| 開局年 = 1995<br />
+| 開局月 = 10<br />
+| 開局日 = 1<br />
+| HD開始年 = <br />
+| HD開始月 = <br />
+| HD開始日 = <br />
+| 閉局年 = 2012<br />
+| 閉局月 = 9<br />
+| 閉局日 = 30<br />
+| 視聴料金 = <br />
+| 地アナ = 5<br />
+| 地デジ = 111<br />
+| JC-HITS = <br />
+| CATV = <br />
+| その他メディア = <br />
+| URL = <br />
+| 特記事項 = アナログ放送では「CTNチャンネル5」<br />
+}}<br />
+<br />
+=== 放送番組 ===<br />
+<br />
+<br />
+=== アナウンサー ===<br />
+<br />
+<br />
+*小峰麻由<br />
+*綾見有紀<br />
+*山口繭<br />
+<br />
+=== 過去のアナウンサー ===<br />
+<br />
+* 藤原奈々 <br />
+* 夏目ちえ<br />
+* 佐藤まひろ<br />
+* 山田路津子<br />
+* 豊田瑠衣<br />
+* 本岡なり美 <br />
+* 菅原えり <br />
+* 光部愛<br />
+<br />
+== 備考・脚注 ==<br />
+<br />
+<br />
+=== 脚注 ===<br />
+<br />
+<br />
+=== 備考 ===<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 株式会社ジュピターテレコム<br />
+* ケーブルテレビ局の一覧<br />
+* ケーブルテレビ<br />
+* 一般社団法人日本ケーブルテレビ連盟<br />
+* 一般社団法人日本CATV技術協会<br />
+* 一般社団法人日本ケーブルラボ<br />
+<br />
+== 外部リンク ==<br />
+* [http://group-companies.jcom.co.jp/nakano.html 株式会社<a href="http://localhost/keyword/%E3%82%B8%E3%82%A7%E3%82%A4%E3%82%B3%E3%83%A0%E4%B8%AD%E9%87%8E">ジェイコム中野</a>]<br />
+* [http://www.myjcom.jp/town/nakano.html <a href="http://localhost/keyword/%E3%81%82%E3%81%AA%E3%81%9F">あなた</a>の街のJ:COM 中野]<br />
+* [http://www.myjcom.jp/tv/channel/kanto/nakano-index.html J:COMチャンネル中野]<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:東京都のケーブルテレビ局<br />
+なかの<br />
+Category:中野区の企業<br />
+Category:19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>設立のテレビ局<br />

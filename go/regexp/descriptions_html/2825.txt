@@ -1,0 +1,30 @@
+description<br />
+<br />
+&#39;<a href="http://localhost/keyword/135">135</a>&#39;（&#39;百三十五&#39;、ひゃくさんじゅうご）は、自然数また整数において、134の次で136の前の数である。<br />
+<br />
+== 性質 ==<br />
+* <a href="http://localhost/keyword/135">135</a>は合成数であり、約数は1, 3, 5, 9, 15, 27, 45 と <a href="http://localhost/keyword/135">135</a>である。<br />
+**約数の和は240。<br />
+*  = 0.00740…（下線部は循環節）。循環節の長さは3 。<br />
+* <a href="http://localhost/keyword/135">135</a>=11+32+53　このような性質を持つ3桁の自然数は他に175, 518, 598のみである。()<br />
+* <a href="http://localhost/keyword/135">135</a>=(1+3+5)×(1×3×5)　このような性質を持つ自然数は他に1と144のみである。(参照)<br />
+** 0を乗法に含めないとすると1088もこの性質を持つ。(参照)<br />
+* 45番目のハーシャッド数である。1つ前は133、次は140。<br />
+** 9を基としたとき14番目のハーシャッド数である。1つ前は126、次は144。<br />
+<br />
+== その他 <a href="http://localhost/keyword/135">135</a> に関連すること ==<br />
+* <a href="http://localhost/keyword/135">135</a>° =  &#39;&#39;π&#39;&#39; (rad) =  R である。これは正八角形の内角に等しい。<br />
+* 日本の標準時子午線は東経<a href="http://localhost/keyword/135">135</a>度である。<br />
+* 西暦<a href="http://localhost/keyword/135%E5%B9%B4">135年</a><br />
+* <a href="http://localhost/keyword/%E9%83%B5%E4%BE%BF%E7%95%AA%E5%8F%B7">郵便番号</a><a href="http://localhost/keyword/135">135</a>は、東京都江東区の深川地域（森下、門前仲町、東陽など）及び隣接する東京湾岸エリア（港区台場、品川区東八潮）を指す。 <br />
+* 国道<a href="http://localhost/keyword/135">135</a>号（神奈川県小田原市-静岡県下田市間）<br />
+* 第<a href="http://localhost/keyword/135">135</a>番小惑星はヘルタである。<br />
+* 第<a href="http://localhost/keyword/135">135</a>代ローマ教皇はベネディクトゥス7世（在位：<a href="http://localhost/keyword/974%E5%B9%B4">974年</a>～<a href="http://localhost/keyword/983%E5%B9%B4">983年</a>）である。<br />
+* <a href="http://localhost/keyword/135">135</a>（いち・さん・ご） - 日本のバンド。<br />
+* 写真フィルム#<a href="http://localhost/keyword/135">135</a> 一般に35mmフィルムやライカ判と呼ばれるもの。<br />
+* 1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a>～20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>にかけて行われたスペースシャトルは合計<a href="http://localhost/keyword/135">135</a>回のフライト回数であった。(スペースシャトルのミッション一覧参照)<br />
+<br />
+== 関連項目 ==<br />
+* 45 90 <a href="http://localhost/keyword/135">135</a> 180 225 270 315 360<br />
+* 数の一覧<br />
+* 名数一覧<br />

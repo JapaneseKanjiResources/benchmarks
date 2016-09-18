@@ -1,0 +1,30 @@
+description<br />
+数学において&#39;<a href="http://localhost/keyword/%E4%B8%8D%E5%AE%8C%E5%85%A8%E3%83%99%E3%83%BC%E3%82%BF%E9%96%A2%E6%95%B0">不完全ベータ関数</a>&#39;（ふかんぜんベータかんすう、incomplete beta function）とは、ベータ関数の一般化の一つで、ベータ関数の定義に現れる定積分を不定積分に置き換えた関数である。ガンマ関数を一般化して不完全ガンマ関数を定義する方法に似ている。<br />
+<br />
+== 定義 ==<br />
+<a href="http://localhost/keyword/%E4%B8%8D%E5%AE%8C%E5%85%A8%E3%83%99%E3%83%BC%E3%82%BF%E9%96%A2%E6%95%B0">不完全ベータ関数</a>は0 \\leq \\mathrm{Re} \\ z \\leq 1に対して、以下の積分で定義される。<br />
+<br />
+<br />
+<br />
+この式においてz = 1のときが、ベータ関数である。<a href="http://localhost/keyword/%E4%B8%8D%E5%AE%8C%E5%85%A8%E3%83%99%E3%83%BC%E3%82%BF%E9%96%A2%E6%95%B0">不完全ベータ関数</a>に対する用語として、普通のベータ関数を&#39;完全ベータ関数&#39; (complete beta function) ということもある。<br />
+<br />
+&#39;正則化された<a href="http://localhost/keyword/%E4%B8%8D%E5%AE%8C%E5%85%A8%E3%83%99%E3%83%BC%E3%82%BF%E9%96%A2%E6%95%B0">不完全ベータ関数</a>&#39; (regularized incomplete beta function)（あるいは単に&#39;正則ベータ関数&#39; (regularized beta function)）とは、<a href="http://localhost/keyword/%E4%B8%8D%E5%AE%8C%E5%85%A8%E3%83%99%E3%83%BC%E3%82%BF%E9%96%A2%E6%95%B0">不完全ベータ関数</a>とベータ関数を用いて以下のように定義される。<br />
+<br />
+<br />
+== 性質 ==<br />
+<br />
+<br />
+<br />
+== 参考文献 ==<br />
+* M. Abramowitz and I. A. Stegun, eds. (1972) Handbook of Mathematical Functions with Formulas, Graphs, and Mathematical Tables. New York: Dover. &#39;&#39;(See sections 6.6 and 26.5)&#39;&#39;<br />
+* W. H. Press, B. P. Flannery, S. A. Teukolsky, W. T. Vetterling. (1992) [http://nr.com/ Numerical Recipes] in C. Cambridge, UK: Cambridge University Press. Second edition. &#39;&#39;(See section 6.4)&#39;&#39;<br />
+* NIST: Digital Library of Mathematical Functions.  [http://dlmf.nist.gov/8.17　(section 8.17, Incomplete Beta Functinos)]<br />
+<br />
+== 関連項目 ==<br />
+* ベータ関数<br />
+<br />
+<br />
+Category:特殊関数<br />
+Category:数学に関する記事<br />
+<br />
+en:Beta function#Incomplete beta function<br />

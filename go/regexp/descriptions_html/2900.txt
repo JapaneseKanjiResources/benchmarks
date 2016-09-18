@@ -1,0 +1,54 @@
+description<br />
+<br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/952%E5%B9%B4">952年</a>（昭和<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）8月21日<br />
+|廃止年月日 =<br />
+|乗車人員 = 61<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a><br />
+|乗換 =<br />
+|備考 = 無人駅<br />
+}}<br />
+跨線橋から見た<a href="http://localhost/keyword/%E3%83%AA%E3%83%8B%E3%82%A2">リニア</a>実験線<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E6%9D%B1%E9%83%BD%E8%BE%B2%E9%A7%85">東都農駅</a>&#39;（ひがしつのえき）は、宮崎県児湯郡都農町大字川北字山末にある、九州旅客鉄道（JR九州）<a href="http://localhost/keyword/%E6%97%A5%E8%B1%8A%E6%9C%AC%E7%B7%9A">日豊本線</a>の駅。<br />
+<br />
+== 駅構造 ==<br />
+相対式ホーム2面2線を有する地上駅で、跨線橋を備える。<br />
+<br />
+無人駅で、駅舎は無く待合所が設置されている。併設されていた都農町の<a href="http://localhost/keyword/%E3%83%AA%E3%83%8B%E3%82%A2">リニア</a>実験線見学施設・資料館は200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>（平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）に解体されている。<br />
+<br />
+== 利用状況 ==<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>度の1日平均乗車人員は61人（前年度比±0人）である。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+美々津駅附近から<a href="http://localhost/keyword/%E6%97%A5%E8%B1%8A%E6%9C%AC%E7%B7%9A">日豊本線</a>沿いに宮崎<a href="http://localhost/keyword/%E3%83%AA%E3%83%8B%E3%82%A2">リニア</a>実験線が平行しており、駅構内からも見ることが出来る。<br />
+* <a href="http://localhost/keyword/%E5%9B%BD%E9%81%9310%E5%8F%B7">国道10号</a><br />
+* 東都農郵便局<br />
+<br />
+== 歴史 == <br />
+* 1<a href="http://localhost/keyword/952%E5%B9%B4">952年</a>（昭和<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）8月21日 - 日本国有鉄道が開設。<br />
+* 1<a href="http://localhost/keyword/974%E5%B9%B4">974年</a>（昭和<a href="http://localhost/keyword/49%E5%B9%B4">49年</a>）11月20日 - 荷物取扱廃止、旅客のみ取扱。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により九州旅客鉄道が継承。<br />
+<br />
+== 隣の駅 ==<br />
+; 九州旅客鉄道<br />
+: <a href="http://localhost/keyword/%E6%97%A5%E8%B1%8A%E6%9C%AC%E7%B7%9A">日豊本線</a><br />
+:: 美々津駅 - &#39;<a href="http://localhost/keyword/%E6%9D%B1%E9%83%BD%E8%BE%B2%E9%A7%85">東都農駅</a>&#39; - 都農駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* <br />
+<br />
+<br />
+<br />
+<br />
+かしつの<br />
+Category:九州旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+ひかしつのえき<br />
+Category:1<a href="http://localhost/keyword/952%E5%B9%B4">952年</a>開業の鉄道駅<br />

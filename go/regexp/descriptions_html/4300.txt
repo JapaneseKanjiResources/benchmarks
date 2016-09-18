@@ -1,0 +1,61 @@
+description<br />
+<br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/933%E5%B9%B4">933年</a>（昭和<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）4月10日<br />
+|廃止年月日 =<br />
+|乗車人員 = 18<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>度<br />
+|乗換 =<br />
+|備考 =無人駅<br />
+}}<br />
+<a href="http://localhost/keyword/%E4%B8%8A%E7%B7%8F%E4%B9%85%E4%BF%9D%E9%A7%85">上総久保駅</a>の大銀杏<br />
+&#39;<a href="http://localhost/keyword/%E4%B8%8A%E7%B7%8F%E4%B9%85%E4%BF%9D%E9%A7%85">上総久保駅</a>&#39;（かずさくぼえき）は、千葉県市原市久保にある、小湊鉄道線の駅である。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を有する地上駅。待合所がホーム上にあるのみで駅舎はなく、無人駅となっている。トイレ、公衆電話がある。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+== 利用状況 ==<br />
+1日平均乗車人員 18人（20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>度）<br />
+<br />
+近年の一日平均&#39;乗車&#39;人員推移は下表の通り。<br />
+<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+目の前は田んぼである。住宅は道路沿いにある。<br />
+<br />
+* 木造地蔵菩薩坐像<br />
+* 千葉県道81号市原天津小湊線<br />
+* 首都圏中央連絡自動車道<br />
+* 高滝湖パーキングエリア<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/933%E5%B9%B4">933年</a>（昭和<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）4月10日 - 開業。<br />
+* 1<a href="http://localhost/keyword/956%E5%B9%B4">956年</a>（昭和<a href="http://localhost/keyword/31%E5%B9%B4">31年</a>） - 無人駅となる。<br />
+<br />
+== 隣の駅 ==<br />
+; 小湊鉄道<br />
+: ■小湊鉄道線<br />
+:: 上総鶴舞駅 - &#39;<a href="http://localhost/keyword/%E4%B8%8A%E7%B7%8F%E4%B9%85%E4%BF%9D%E9%A7%85">上総久保駅</a>&#39; - 高滝駅<br />
+* 上総久保 - 高滝間はPC枕木を使用している区間である。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+<br />
+Category:市原市の鉄道駅<br />
+すさくほ<br />
+Category:小湊鐵道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/933%E5%B9%B4">933年</a>開業の鉄道駅<br />

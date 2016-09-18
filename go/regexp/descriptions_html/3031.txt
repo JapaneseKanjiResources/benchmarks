@@ -1,0 +1,86 @@
+description<br />
+<a href="http://localhost/keyword/%E4%BF%A1%E8%B6%8A%E6%9C%AC%E7%B7%9A">信越本線</a><br />
+|キロ程 = 42.2<br />
+|起点駅 = 直江津<br />
+|所在地 = 新潟県<a href="http://localhost/keyword/%E6%9F%8F%E5%B4%8E%E5%B8%82">柏崎市</a>大字安田1725-1<br />
+|座標 = <br />
+|開業年月日 = 1<a href="http://localhost/keyword/899%E5%B9%B4">899年</a>（明治3<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）12月10日<br />
+|廃止年月日 =<br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面2線<br />
+|乗車人員 = 313<br />
+|統計年度 = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|備考 = 業務委託駅<br />
+|備考全幅 =<br />
+}}<br />
+&#39;安田駅&#39;（やすだえき）は、新潟県<a href="http://localhost/keyword/%E6%9F%8F%E5%B4%8E%E5%B8%82">柏崎市</a>大字安田にある、東日本旅客鉄道（JR東日本）<a href="http://localhost/keyword/%E4%BF%A1%E8%B6%8A%E6%9C%AC%E7%B7%9A">信越本線</a>の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/899%E5%B9%B4">899年</a>（明治3<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）12月10日 - 北越鉄道が柏崎 - 北条間に新設開業[ 「停車場設置」『官報』1<a href="http://localhost/keyword/899%E5%B9%B4">899年</a>12月13日]（国立国会図書館デジタル化資料）。<br />
+* 190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（明治40年）8月1日 - 北越鉄道が国有化され、帝国鉄道庁（国有鉄道）の駅となる。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化によりJR東日本の駅となる。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム2面2線を持つ地上駅。両ホームは跨線橋で連絡している。島式内側の旧2番線へは乗り越し分岐器となっている他、架線が撤去されており、現在は使用していない。なお、線路は保守用に上りと下りを連絡している（北越急行開業前は2番線は完全に機能しており、特急待ち合わせのため、安田駅駅員がポイントを切り替えていた）。<br />
+<br />
+長岡駅管理で、ジェイアール新潟ビジネスが駅業務を受託する業務委託駅だが、みどりの窓口は非設置。駅舎には切符売場、自動券売機のほか、自動販売機、トイレなどがある。<br />
+<br />
+かつては快速列車も停車していたが、現在は停車しない。<br />
+<br />
+=== のりば ===<br />
+<br />
+※2番線があった当時は、下りホームを1番線、上りホームを3番線としていたが、20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>10月現在は案内上ののりば番号の設定が無くなっている。<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度の1日平均乗車人員は313人である。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+駅周辺に学校施設が多く、それらの利用者が多い。<br />
+* 新潟県道116号安田停車場線<br />
+* 国道252号<br />
+* 新潟産業大学附属高等学校<br />
+* 新潟産業大学<br />
+* イガイ電気設備<br />
+<br />
+== バス路線 ==<br />
+駅前を通る国道252号沿いに北越後観光バスのバス停がある。<br />
+<br />
+* &#39;安田駅前&#39;<br />
+** 杉平 行<br />
+** 南条経由五中・岡野町 行<br />
+** 柏崎インター前経由 柏崎駅前 行<br />
+** 産業大学前・工科大学前・半田経由 柏崎駅南口 行<br />
+<br />
+== 隣の駅 ==<br />
+<br />
+; 東日本旅客鉄道<br />
+: <a href="http://localhost/keyword/%E4%BF%A1%E8%B6%8A%E6%9C%AC%E7%B7%9A">信越本線</a><br />
+:: 快速<br />
+::: &#39;通過&#39;<br />
+:: 普通<br />
+::: 茨目駅 - &#39;安田駅&#39; - 北条駅<br />
+<br />
+== その他 ==<br />
+当駅から分岐して高柳町、十日町方面へ至る刈羽鉄道明治期（1<a href="http://localhost/keyword/912%E5%B9%B4">912年</a>免許[ 「軽便鉄道免許状下付」『官報』1<a href="http://localhost/keyword/912%E5%B9%B4">912年</a>3月29日]（国立国会図書館デジタル化資料）1<a href="http://localhost/keyword/914%E5%B9%B4">914年</a>失効[ 「軽便鉄道免許失効」『官報』1<a href="http://localhost/keyword/914%E5%B9%B4">914年</a>3月4日]（国立国会図書館デジタル化資料））大正期（1<a href="http://localhost/keyword/921%E5%B9%B4">921年</a>免許[ 「鉄道免許状下付」『官報』1<a href="http://localhost/keyword/921%E5%B9%B4">921年</a>11月25日]（国立国会図書館デジタル化資料）19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>失効[ 「鉄道免許失効」『官報』19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>7月10日]（国立国会図書館デジタル化資料））の計画が存在した。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=1578 JR東日本 安田駅]<br />
+<br />
+<br />
+<br />
+<br />
+Category:<a href="http://localhost/keyword/%E6%9F%8F%E5%B4%8E%E5%B8%82">柏崎市</a>の鉄道駅<br />
+すた<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:<a href="http://localhost/keyword/%E4%BF%A1%E8%B6%8A%E6%9C%AC%E7%B7%9A">信越本線</a><br />
+Category:北越鉄道<br />
+Category:1<a href="http://localhost/keyword/899%E5%B9%B4">899年</a>開業の鉄道駅<br />

@@ -1,0 +1,72 @@
+description<br />
+釜石線<br />
+|キロ程 = 56.6<br />
+|起点駅 = 花巻<br />
+|所在地 = 岩手県遠野市上郷町平倉<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/915%E5%B9%B4">915年</a>（大正<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）11月23日『歴史でめぐる鉄道全路線 国鉄・JR』 通巻21号 釜石線・山田線・岩泉線・北上線・八戸線 10頁<br />
+|廃止年月日 =<br />
+|乗車人員 =<br />
+|乗降人員 =<br />
+|統計年度 =<br />
+|乗換 =<br />
+|備考 = 無人駅<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E5%B9%B3%E5%80%89%E9%A7%85">平倉駅</a>&#39;（ひらくらえき）は、岩手県遠野市上郷町平倉にある、東日本旅客鉄道（JR東日本）釜石線の駅である。<br />
+<br />
+== 歴史 ==<br />
+当駅を含む区間は1<a href="http://localhost/keyword/914%E5%B9%B4">914年</a>（大正3年）4月18日に岩手軽便鉄道が遠野 - 仙人峠間で開通させた。当初は当駅は開設されなかったが、翌1<a href="http://localhost/keyword/915%E5%B9%B4">915年</a>（大正<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）11月23日に開業した。その頃は762mm特殊狭軌の軽便鉄道であった。また、岩手軽便鉄道の中間区間での工事が難航して東側で部分開業をしたため、東線として孤立した区間で運行していたが、花巻 - 仙人峠の全線が完成したのは当駅の開業と同じ1<a href="http://localhost/keyword/915%E5%B9%B4">915年</a>（大正<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）11月23日のことであった。<br />
+<br />
+1<a href="http://localhost/keyword/936%E5%B9%B4">936年</a>（昭和<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）8月1日に国有化され、国鉄の駅となった。その後は国鉄標準の1,067mm軌間への改軌工事が進められた。しかし、第二次世界大戦の戦局悪化に伴い労働力や資材が不足し改軌工事は一旦中止となった『歴史でめぐる鉄道全路線 国鉄・JR』 通巻21号 釜石線・山田線・岩泉線・北上線・八戸線 11頁。1<a href="http://localhost/keyword/948%E5%B9%B4">948年</a>（昭和<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）9月にアイオン台風によって山田線が大きな被害を受けると、三陸海岸方面への鉄道連絡を早期に回復させるために釜石線の工事が再開されることになり、12月に再着工した。1<a href="http://localhost/keyword/950%E5%B9%B4">950年</a>（昭和<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）10月10日に仙人峠を越える区間が完成して釜石線が全通するとともに、遠野 - 足ヶ瀬間の改軌工事が完成し、全区間を1,067mm軌間の列車が運転されるようになった。<br />
+<br />
+=== 年表 ===<br />
+* 1<a href="http://localhost/keyword/915%E5%B9%B4">915年</a>（大正<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）11月23日 - 開業[ 「軽便鉄道運輸開始停留場新設並停車場名称変更」『官報』1<a href="http://localhost/keyword/915%E5%B9%B4">915年</a>11月27日]（国立国会図書館デジタル化資料）。<br />
+* 1<a href="http://localhost/keyword/936%E5%B9%B4">936年</a>（昭和<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）8月1日 - 岩手軽便鉄道の国有化により国鉄釜石線の駅となる。<br />
+* 1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>（昭和<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）10月11日 - 国鉄釜石東線の開業に伴い、所属の路線名が釜石西線に変更となる。<br />
+* 1<a href="http://localhost/keyword/950%E5%B9%B4">950年</a>（昭和<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）10月10日 - 国鉄釜石線の全通により、再び釜石線の駅となる。1,067mm軌間への改軌工事が完成する。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、東日本旅客鉄道の駅となる。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を有する地上駅。遠野駅管理の無人駅である。<br />
+<br />
+== 駅周辺 ==<br />
+* 国道340号<br />
+* 釜石自動車道 遠野住田IC<br />
+* 早瀬川<br />
+<br />
+== その他 ==<br />
+* エスペラントによる、「Monta Dio（モンタ・ディーオ：山の神）」という愛称がついている。<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 釜石線<br />
+:: 快速「はまゆり」<br />
+::: &#39;通過&#39;<br />
+:: 普通<br />
+::: 岩手上郷駅 - &#39;<a href="http://localhost/keyword/%E5%B9%B3%E5%80%89%E9%A7%85">平倉駅</a>&#39; - 足ヶ瀬駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 参考文献 ==<br />
+* 白土貞夫「岩手軽便鉄道 歴史拾遺」『鉄道ピクトリアル』No.813（200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>1月） pp.130 - 137 電気車研究会<br />
+* <br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=1335 JR東日本 <a href="http://localhost/keyword/%E5%B9%B3%E5%80%89%E9%A7%85">平倉駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+Category:遠野市の鉄道駅<br />
+らくら<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:岩手軽便鉄道<br />
+Category:1<a href="http://localhost/keyword/915%E5%B9%B4">915年</a>開業の鉄道駅<br />

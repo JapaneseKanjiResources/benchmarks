@@ -1,0 +1,122 @@
+description<br />
+<br />
+|所属事業者 =  15px名古屋鉄道<br />
+|所属路線   = 瀬戸線<br />
+|キロ程     = 18.0<br />
+|起点駅     = 栄町<br />
+|所在地     = 愛知県瀬戸市效範町二丁目87<br />
+|座標      = <br />
+|駅構造     = 地上駅<br />
+|ホーム     = 相対式 2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/905%E5%B9%B4">905年</a>（明治<a href="http://localhost/keyword/38%E5%B9%B4">38年</a>）4月2日<br />
+|廃止年月日 =<br />
+|乗車人員   = <br />
+|乗降人員   = 4,645<br />
+|統計年度   = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|乗換       =<br />
+|備考       = * 1<a href="http://localhost/keyword/939%E5%B9%B4">939年</a> 今村駅から改称。200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>より無人駅<br />
+}}<br />
+ホーム<br />
+&#39;<a href="http://localhost/keyword/%E6%B0%B4%E9%87%8E%E9%A7%85">水野駅</a>&#39;（みずのえき）は、愛知県瀬戸市效範町にある、名鉄瀬戸線の駅である。<br />
+<br />
+瀬戸市の最西端駅。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/905%E5%B9%B4">905年</a>（明治<a href="http://localhost/keyword/38%E5%B9%B4">38年</a>）4月2日 - &#39;今村駅&#39;として開業。<br />
+* 1<a href="http://localhost/keyword/939%E5%B9%B4">939年</a>（昭和<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）9月1日 - &#39;<a href="http://localhost/keyword/%E6%B0%B4%E9%87%8E%E9%A7%85">水野駅</a>&#39;に改称。<br />
+* 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>（昭和<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>）12月27日 - 駅舎改築。<br />
+* 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>（平成<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）1月29日 - 急行停車駅に昇格。<br />
+* 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>（平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）<br />
+**8月29日 - 駅集中管理システム導入に伴い、終日無人化。<br />
+**12月16日 - トランパス導入。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）2月11日 - ICカード<a href="http://localhost/keyword/%E4%B9%97%E8%BB%8A%E5%88%B8">乗車券</a>「manaca」供用開始。<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）2月29日 - トランパス供用終了。<br />
+* 20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a> (平成2<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）北口改札口設置及び駅前ロータリー整備開始。<br />
+<br />
+== 駅構造 ==<br />
+相対式2面2線ホームの地上駅。<a href="http://localhost/keyword/%E3%82%AB%E3%83%BC%E3%83%96">カーブ</a>上にあるため、乗り降りの際には、足元に注意が必要。<br />
+<br />
+一部時間帯無人駅だったが、現在は駅集中管理システムが導入されたため終日無人駅となっている。<br />
+<br />
+=== 配線図 ===<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+住宅地である。<br />
+* 瀬戸警察署共栄交番<br />
+* 愛知県立瀬戸高等学校<br />
+* 瀬戸公共職業安定所<br />
+* 瀬戸市立今村保育園<br />
+* 瀬戸旭医師会館<br />
+* セコム瀬戸営業所<br />
+* 愛知県営水野住宅<br />
+* 雇用促進住宅瀬戸<br />
+* 瀬戸信用金庫本店営業部効範出張所<br />
+* 瀬戸信用金庫共栄支店<br />
+* 瀬戸市立效範小学校<br />
+* 瀬戸市立東山小学校<br />
+* 瀬戸少年院<br />
+* 瀬戸市立こうはん南保育園<br />
+* 効範公民館<br />
+* 青山病院<br />
+* 效範郵便局<br />
+* ジーユー瀬戸店<br />
+* サンワフード<br />
+* Vドラッグ瀬戸水野店<br />
+* 自転車のジョイ瀬戸店<br />
+* スギ薬局瀬戸西山店<br />
+* びっくりドンキー瀬戸長根店<br />
+* 東京靴流通センター瀬戸水野店<br />
+* 道とん堀瀬戸店<br />
+* ガスト瀬戸店<br />
+* サーティワンアイスクリーム瀬戸ロードサイド店<br />
+* サガミ瀬戸店<br />
+* パスタ・デ・CoCo瀬戸寺山店<br />
+* メンズプラザアオキ瀬戸共栄通店<br />
+* デニーズ瀬戸共栄通店<br />
+* 手芸センタートーカイ瀬戸店<br />
+* メガネの愛眼瀬戸店<br />
+* auショップ瀬戸瀬港店<br />
+* 酒ゃビック瀬戸店<br />
+* 聖カピタニオ女子高等学校<br />
+* 緑ヶ丘女学院<br />
+* ビジネスホテル九番館<br />
+* 西友瀬戸店<br />
+* 慶昌院<br />
+* 天晴寺<br />
+* 八王子神社<br />
+* 聖ヨゼフ修道院<br />
+* 瀬戸共立クリニック<br />
+* 松屋瀬戸店<br />
+* 名鉄バス松原町バス停<br />
+* 瀬戸街道（愛知県道61号名古屋瀬戸線）<br />
+* 国道363号<br />
+<br />
+== 利用状況 ==<br />
+*『名鉄<a href="http://localhost/keyword/120%E5%B9%B4">120年</a>：近<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>のあゆみ』によると20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>度当時の1日平均乗降人員は4,645人であり、この値は名鉄全駅（275駅）中89位、瀬戸線（20駅）中12位であった。<br />
+*『名古屋鉄道百年史』によると1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a>度当時の1日平均乗降人員は5,151人であり、この値は岐阜市内線均一運賃区間内各駅（岐阜市内線・田神線・美濃町線徹明町駅 - 琴塚駅間）を除く名鉄全駅（342駅）中90位、瀬戸線（19駅）中11位であった。<br />
+*瀬戸市統計書によると、1日平均の乗車人員は、200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>度2,032人、200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>度2,103人、20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>度2,232人である。<br />
+<br />
+== 隣の駅 ==<br />
+; 名古屋鉄道<br />
+: 瀬戸線<br />
+:: 急行・準急・普通<br />
+::: 三郷駅 - &#39;<a href="http://localhost/keyword/%E6%B0%B4%E9%87%8E%E9%A7%85">水野駅</a>&#39; - 新<a href="http://localhost/keyword/%E7%80%AC%E6%88%B8%E9%A7%85">瀬戸駅</a><br />
+<br />
+== その他 ==<br />
+* 毎年9月に行われる「せともの祭り」開催日には、急行の臨時停車が実施されていた。200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>（平成<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）1月から正式に急行停車駅となったためこの措置は行われなくなった。<br />
+* 車内放送（自動放送）での読みのアクセントは「&#39;み&#39;ずの」ではなく「み&#39;ず&#39;の」と中高型に発音される。<br />
+<br />
+== 脚注 ==<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+<br />
+Category:愛知県の鉄道駅<br />
+すの<br />
+Category:名古屋鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/905%E5%B9%B4">905年</a>開業の鉄道駅<br />
+みすのえき<br />

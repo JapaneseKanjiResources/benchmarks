@@ -1,0 +1,10 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB">タイムテーブル</a>&#39;（&#39;timetable&#39;）とは、<br />
+* 交通機関（鉄道、バス、航空機、船舶等）の時刻表<br />
+* テレビ、ラジオ、イベントなどの番組表（プログラム表）<br />
+* 学校の時間割<br />
+<br />
+<br />
+<br />
+Category:表<br />
+Category:時間<br />

@@ -1,0 +1,25 @@
+description<br />
+<br />
+角が<a href="http://localhost/keyword/%E9%9D%A2%E5%8F%96%E3%82%8A">面取り</a>された家具<br />
+丸材の切断面が<a href="http://localhost/keyword/%E9%9D%A2%E5%8F%96%E3%82%8A">面取り</a>されている<br />
+&#39;<a href="http://localhost/keyword/%E9%9D%A2%E5%8F%96%E3%82%8A">面取り</a>&#39;（めんとり、chamfering）とは、工作物の角または隅を斜めに削る加工法の一つである。<br />
+<br />
+== 概要 ==<br />
+<a href="http://localhost/keyword/%E9%9D%A2%E5%8F%96%E3%82%8A">面取り</a>は、工業製品（鋼材、木工など）において、角部を削り角面や丸面などの形状に加工する工法である。加工においては、ヤスリや<a href="http://localhost/keyword/%E9%9D%A2%E5%8F%96%E3%82%8A">面取り</a>工具が使用される。人が接触した時に発生する可能性のある怪我を防止したり、物との接触による破損を防止することを目的としている。<br />
+<br />
+== 表記 ==<br />
+=== JIS規格 ===<br />
+JIS規格-機械製図において、寸法補助記号の表し方が規定されている。丸み<a href="http://localhost/keyword/%E9%9D%A2%E5%8F%96%E3%82%8A">面取り</a>の場合には、記号Rを寸法数値の前に寸法数値と同じ大きさで記入して表し、45°<a href="http://localhost/keyword/%E9%9D%A2%E5%8F%96%E3%82%8A">面取り</a>の場合には、記号Cを寸法数値の前に寸法数値と同じ大きさで記入して表す。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連用語 ==<br />
+*ヤスリ<br />
+*面取機（<a href="http://localhost/keyword/%E9%9D%A2%E5%8F%96%E3%82%8A">面取り</a>機）<br />
+*（めんとり<a href="http://localhost/keyword/%E3%81%8B%E3%82%93%E3%81%AA">かんな</a>）<br />
+*隅切り、切頂、切稜<br />
+<br />
+<br />
+Category:加工<br />
+<br />

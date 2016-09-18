@@ -1,0 +1,55 @@
+description<br />
+大船渡線<br />
+|キロ程 = 23.3<br />
+|起点駅 = 一ノ関<br />
+|所在地幅 = long<br />
+|所在地 = 岩手県一関市<a href="http://localhost/keyword/%E6%9D%B1%E5%B1%B1%E7%94%BA">東山町</a>長坂字町裏393<br />
+|座標 = <br />
+|駅構造 = 地上駅（盛土上）<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/986%E5%B9%B4">986年</a>（昭和<a href="http://localhost/keyword/61%E5%B9%B4">61年</a>）11月1日<br />
+|廃止年月日 =<br />
+|乗車人員 =<br />
+|乗降人員 =<br />
+|統計年度 =<br />
+|乗換 =<br />
+|備考 = 無人駅<br />
+}}<br />
+ホームと駅前（20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>5月）<br />
+&#39;<a href="http://localhost/keyword/%E7%8C%8A%E9%BC%BB%E6%B8%93%E9%A7%85">猊鼻渓駅</a>&#39;（げいびけいえき）は、岩手県一関市<a href="http://localhost/keyword/%E6%9D%B1%E5%B1%B1%E7%94%BA">東山町</a>長坂字町裏にある、東日本旅客鉄道（JR東日本）大船渡線の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/986%E5%B9%B4">986年</a>（昭和<a href="http://localhost/keyword/61%E5%B9%B4">61年</a>）11月1日 - 国鉄最後のダイヤ改正で開業。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化によりJR東日本の駅となる。<br />
+<br />
+== 駅構造 ==<br />
+築堤上に単式ホーム1面1線を有する地上駅。気仙沼駅管理の無人駅。ホームに待合所があるのみで駅舎はない。<br />
+<br />
+== 駅周辺 ==<br />
+旧<a href="http://localhost/keyword/%E6%9D%B1%E5%B1%B1%E7%94%BA">東山町</a>の中心街に位置しており、猊鼻渓への観光客のアクセスの他に地元住民の利用客も多い。<br />
+* 岩手県道19号一関大東線<br />
+* 岩手県道106号前沢東山線<br />
+* 猊鼻渓<br />
+* 一関市役所東山支所（旧・<a href="http://localhost/keyword/%E6%9D%B1%E5%B1%B1%E7%94%BA">東山町</a>役場）<br />
+* 東山郵便局<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 大船渡線<br />
+::陸中松川駅 - &#39;<a href="http://localhost/keyword/%E7%8C%8A%E9%BC%BB%E6%B8%93%E9%A7%85">猊鼻渓駅</a>&#39; - 柴宿駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* <br />
+<br />
+<br />
+<br />
+<br />
+Category:一関市の鉄道駅<br />
+いひけい<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/986%E5%B9%B4">986年</a>開業の鉄道駅<br />
+けいひけいえき<br />

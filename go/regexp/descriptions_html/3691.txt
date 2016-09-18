@@ -1,0 +1,89 @@
+description<br />
+これは、&#39;航空機のN<a href="http://localhost/keyword/ATO">ATO</a>コードネームの一覧&#39;である。なお、N<a href="http://localhost/keyword/ATO">ATO</a>コードネームでの機種区分は、当該の機体がN<a href="http://localhost/keyword/ATO">ATO</a>側に認知された際に決められたもので、実際の機種区分とはずれているものも少な<a href="http://localhost/keyword/%E3%81%8F%E3%81%AA%E3%81%84">くない</a>。<br />
+<br />
+なお、N<a href="http://localhost/keyword/ATO">ATO</a>コードネーム形成前の  ナンバー、1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>代以降にアメリカが衛星写真などから識別したDoD識別記号についても説明する。<br />
+== Typeナンバー ==<br />
+ASCC設立前にアメリカ空軍がソ連新型航空機・ミサイルに与えたコードネームAndreas Parsch, Aleksey V. Martynov [http://www.designation-systems.net/non-us/soviet.html#_DOD_Type Designations of Soviet and Russian Military Aircraft and Missiles - 5.1 &#34;Type&#34; Numbers (1947-1955)] - designation-systems.net. 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>3月10日閲覧。資料の中には（）内の機体に Type ナンバーを与えたとするものもあるが、典拠ではMiG-17が Type 20 に割り当てられるのは時系列からして不自然であると指摘している。。<br />
+<br />
+*Type 1 - MiG-9 (2代)<br />
+*Type 2 - Yak-15<br />
+*Type 3 - La-150<br />
+*Type 4 - La-152<br />
+*Type 5 - La-156<br />
+*Type 6 - La-160<br />
+*Type 7 - Yak-19<br />
+*Type 8 - Su-9 «K» <br />
+*Type 9 - Tu-12<br />
+*Type 10 - Il-22 (初代)<br />
+*Type 11 - I-270<br />
+*Type 12 - Tu-73<br />
+*Type 13 - Yak-25 (初代) (未使用)<br />
+*Type 14 - MiG-15<br />
+*Type 15 - La-168<br />
+*Type 16 - Yak-17<br />
+*Type 17 - Tu-82 (Su-11 «LK») <br />
+*Type 18 - I-320 (Su-15 «P») <br />
+*Type 19 - SP-1 (MiG-15P) (KS-1)<br />
+*Type 20 - Yak-30 (初代) (MiG-17)<br />
+*Type 21 - La-15<br />
+*Type 22 - An-2 (Tu-2R (Tu-6))<br />
+*Type 23 - Su-12<br />
+*Type 24 - Yak-14 (Yak-10)<br />
+*Type 25 - Tz-25<br />
+*Type 26 - Yak-17UTI<br />
+*Type 27 - Il-28<br />
+*Type 28 - Yak-23<br />
+*Type 29 - MiG-15UTI<br />
+*Type 30 - Il-28U<br />
+*Type 31 - Tu-85<br />
+*Type 32 - Mi-1<br />
+*Type 33 - Be-8<br />
+*Type 34 - Be-6<br />
+*Type 35 - Tu-14<br />
+*Type 36 - Mi-4<br />
+*Type 37 - M-4<br />
+*Type 38 - MiG-17 (Yak-24)<br />
+*Type 39 - Tu-16<br />
+*Type 40 - Tu-95<br />
+<br />
+<br />
+<br />
+== N<a href="http://localhost/keyword/ATO">ATO</a>コードネーム ==<br />
+=== 戦闘機 ===<br />
+英語で戦闘機を意味する  に合わせて、頭文字は「F」に統一されているAndreas Parsch, Aleksey V. Martynov [http://www.designation-systems.net/non-us/soviet.html#_Listings_Fighter Designations of Soviet and Russian Military Aircraft and Missiles - 4.3 F - Fighters] - designation-systems.net. 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>3月10日閲覧。。<br />
+<br />
+<br />
+=== 爆撃機 ===<br />
+英語で爆撃機を意味する  に合わせて、頭文字は「B」に統一されているAndreas Parsch, Aleksey V. Martynov [http://www.designation-systems.net/non-us/soviet.html#_Listings_Bomber Designations of Soviet and Russian Military Aircraft and Missiles - 4.1 B - Bombers] - designation-systems.net. 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>3月10日閲覧。。<br />
+<br />
+<br />
+=== 輸送機 / 旅客機 ===<br />
+英語で輸送機を意味する  に合わせて、頭文字は「C」に統一されているAndreas Parsch, Aleksey V. Martynov [http://www.designation-systems.net/non-us/soviet.html#_Listings_Cargo Designations of Soviet and Russian Military Aircraft and Missiles - 4.2 C - Transports] - designation-systems.net. 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>3月10日閲覧。。<br />
+<br />
+<br />
+=== ヘリコプター ===<br />
+英語でヘリコプターを意味する「」に合わせて、頭文字は「H」に統一されているAndreas Parsch, Aleksey V. Martynov [http://www.designation-systems.net/non-us/soviet.html#_Listings_Helicopter Designations of Soviet and Russian Military Aircraft and Missiles - 4.4 H - Helicopters] - designation-systems.net. 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>3月11日閲覧。。<br />
+<br />
+<br />
+=== その他の航空機 ===<br />
+英語で「種々雑多な」を意味する「」に合わせて、頭文字は「M」に統一されているAndreas Parsch, Aleksey V. Martynov [http://www.designation-systems.net/non-us/soviet.html#_Listings_Misc Designations of Soviet and Russian Military Aircraft and Missiles - 4.5 M - Miscellaneous] - designation-systems.net. 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>3月12日閲覧。。<br />
+<br />
+<br />
+== DoD識別記号 ==<br />
+1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>代以降、アメリカ国防総省（DoD）は、西側で未だ認知されていなかったソ連・中国の未確認機を偵察衛星によって発見した場合、発見した場所とアルファベットを組み合わせたコードネーム（DoD識別記号）を与えていたAndreas Parsch, Aleksey V. Martynov [http://www.designation-systems.net/non-us/soviet.html#_DOD_Location_Aircraft Designations of Soviet and Russian Military Aircraft and Missiles - 5.2 Codes for Research and Prototype Aircraft] - designation-systems.net. 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>3月13日閲覧。。<br />
+<br />
+<br />
+== 脚注 ==<br />
+<br />
+== 関連項目 ==<br />
+* N<a href="http://localhost/keyword/ATO">ATO</a>コードネーム<br />
+** 一覧： ミサイル - 航空機 - 潜水艦 - 水上艦<br />
+* N<a href="http://localhost/keyword/ATO">ATO</a><br />
+* 航空機メーカーの一覧<br />
+* ソビエト連邦<br />
+<br />
+<br />
+Category:軍用機<br />
+Category:兵器の一覧<br />
+Category:航空機一覧<br />
+*いちらんこうくうき<br />

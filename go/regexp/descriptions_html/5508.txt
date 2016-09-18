@@ -1,0 +1,57 @@
+description<br />
+<br />
+|国=<br />
+|都市=広島県呉市起点:蒲刈町向 - 終点:下蒲刈町三之瀬<br />
+|水域=三之瀬瀬戸（瀬戸内海）<br />
+|緯度度 = 34|緯度分 = 11|緯度秒 = 5.4<br />
+|経度度 = 132|経度分 = 41|経度秒 = 3.4<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E8%92%B2%E5%88%88%E5%A4%A7%E6%A9%8B">蒲刈大橋</a>&#39;（かまがりおおはし）は、広島県呉市（旧安芸郡蒲刈町および旧安芸郡下蒲刈町）の上蒲刈島と下蒲刈島を結ぶ道路橋。<br />
+<br />
+== 概要 ==<br />
+1<a href="http://localhost/keyword/979%E5%B9%B4">979年</a>10月開通。県の「蒲刈地区広域営農団地農道整備事業」により建設された農道橋である。本州と安芸灘諸島を8つの橋で結ぶ安芸灘諸島連絡架橋の1つであり通称「安芸灘2号橋」、蒲刈広域農道の一部を構成する。上蒲刈と下蒲刈を結ぶ唯一の橋である。<br />
+<br />
+竣工当時は農道橋としては国内最長であった。20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>現在でトラス橋としては国内第7位の支間長にあたり、トラス橋としては広島県最大の橋にあたる。<br />
+<br />
+施工は石川島播磨重工業（現IHI）で、架設はフローティングクレーンを用いた大ブロック一括架設工法を用いた、トラス橋として初施工例となった。また橋脚施工に際し、ニューマチックケーソンと一体化したものを仮設<a href="http://localhost/keyword/%E3%83%A4%E3%83%BC%E3%83%89">ヤード</a>で組みFCで運ぶ、橋脚付き設置ケーソン工法を採用している。<br />
+<br />
+== 構造 ==<br />
+* 橋長 : 480メートル<br />
+* 最大支間長 : 255.0メートル<br />
+* 全幅 : 8.0メートル<br />
+* 幅員 : 車道6.5メートル + 歩道1.5メートル<br />
+* 橋種 : 3径間連続下曲弦プラットトラス橋<br />
+* 橋格 : 1種橋（TL-20）<br />
+* 海面からの高さ : 23.0メートル<br />
+<br />
+== ギャラリー ==<br />
+<br />
+Kamagari Bridge-1.jpg<br />
+KamagariBridge 01.jpg<br />
+KamagariBridge_02.jpg<br />
+Kamikamagarijima Kure City Hiroshima.jpg<br />
+Kamagari Bridge 319886.jpg<br />
+Kamagari Bridge 319890.jpg<br />
+Kamagari Bridge 319907.jpg<br />
+Kamagari Bridge 319906.jpg<br />
+Kamagari Bridge 319898.jpg<br />
+<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+<br />
+<br />
+* 日本の離島架橋<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:安芸灘諸島連絡架橋<br />
+Category:日本の鋼橋<br />
+Category:トラス橋<br />
+Category:呉市の橋<br />
+Category:1<a href="http://localhost/keyword/979%E5%B9%B4">979年</a>竣工の建築物<br />

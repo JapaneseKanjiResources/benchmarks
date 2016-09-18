@@ -1,0 +1,24 @@
+description<br />
+<br />
+&#39;<a href="http://localhost/keyword/Classic">Classic</a>&#39;（クラシック）は、Mac OS X上で動作するハードウェア抽象化レイヤーである。Mac OS XでMac OS 9上で動作するアプリケーション（クラシックアプリケーション）を使用するために、Mac OS 9そのものをインストールして実行させるための環境である。PowerPCを使用したMacintoshにインストールされたMac OS X v10.4までの Mac OS X のコンポーネントである。実行可能な Mac OS は、Mac OS 9.1 以降である。<br />
+<br />
+== 概要 ==<br />
+Mac OS Xでクラシックアプリケーションを使用するには、クラシックアプリケーションのアイコンか、その書類のアイコンをダブルクリックする。あるいは、起動時に<a href="http://localhost/keyword/Classic">Classic</a>が自動的に起動するよう設定することもできる。<br />
+<br />
+Mac OS 9が独立して動作しているため、<a href="http://localhost/keyword/Classic">Classic</a>環境のウィンドウ枠やメニューバーなどのアピアランス、インプットメソッドも Mac OS 9のものである。また、Mac OS 9の個々のソフトウェアでは、Mac OS Xのプリエンプティブ・<a href="http://localhost/keyword/%E3%83%9E%E3%83%AB%E3%83%81%E3%82%BF%E3%82%B9%E3%82%AF">マルチタスク</a>の恩恵を受けられず、一部のアプリケーションがCPUを占有した場合には、<a href="http://localhost/keyword/Classic">Classic</a>環境で動く全てのプロセスがユーザの操作を受け付けなくなる。メモリ保護機能もないため、一部のアプリケーションが強制終了した場合には、<a href="http://localhost/keyword/Classic">Classic</a>環境を起動しなおす必要がある。また、ハードウェアに直接アクセスするものなど、一部のソフトウェアには互換性がない。<br />
+<br />
+Mac OS Xへの移行にともない、2003年1月以降に発表されたMacintoshではMac OS 9で起動することはできなくなった。有力なアプリケーションもすぐにMac OS Xに移行できなかったため、OSの移行期において過去のソフトウェア資産をもつユーザにとって重要な機能であった。200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>に発売されたインテル搭載のMacintoshでは、<a href="http://localhost/keyword/Classic">Classic</a>環境がサポートされていないため、Mac OS 9用アプリケーションは使用できない。Mac OS X への移行が進んだことにともない、200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>10月に発売されたMac OS X v10.5 Leopardより<a href="http://localhost/keyword/Classic">Classic</a>環境は完全に廃止された。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:OS X<br />
+Category:Mac OS<br />
+Category:エミュレーションソフトウェア<br />

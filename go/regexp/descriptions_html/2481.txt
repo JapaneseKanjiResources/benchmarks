@@ -1,0 +1,69 @@
+description<br />
+<br />
+<br />
+<br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/983%E5%B9%B4">983年</a>（昭和<a href="http://localhost/keyword/58%E5%B9%B4">58年</a>）8月8日<br />
+|廃止年月日 =<br />
+|乗車人員 = 538<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換 =<br />
+|備考 = 駅員無配置駅<br />
+|備考全幅   = * この間に朝明信号場有り（当駅から3.1km先）。<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E6%9C%9D%E6%97%A5%E9%A7%85">朝日駅</a>&#39;（あさひえき）は、三重県<a href="http://localhost/keyword/%E4%B8%89%E9%87%8D%E9%83%A1">三重郡</a>朝日町大字柿にある、東海旅客鉄道（JR東海）関西本線の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/983%E5%B9%B4">983年</a>（昭和<a href="http://localhost/keyword/58%E5%B9%B4">58年</a>）8月8日 - 国鉄関西本線の朝明信号場 - 富田駅間に新設開業。旅客取扱いのみ。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 国鉄分割民営化により東海旅客鉄道（JR東海）が継承。<br />
+* 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>（平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）11月25日 - TOICA導入。<br />
+<br />
+== 駅構造 ==<br />
+相対式ホーム2面2線を有する地上駅。当初から無人駅として開業したため駅舎などの設備は一切ない。桑名駅が管理している。<br />
+<br />
+列車が停車し車掌が降りた所が出入口となっており、上下線で出入り口の位置がずれている。これは車掌が切符を回収しやすいようにするためである（ただしワンマン運転の場合は出入口の前の扉は開かない）。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+== 利用状況 ==<br />
+「三重県統計書」によると、1日の平均乗車人員は以下の通りである。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 朝日町役場<br />
+* 朝日町体育館<br />
+* 東芝三重工場<br />
+* 近鉄名古屋線伊勢<a href="http://localhost/keyword/%E6%9C%9D%E6%97%A5%E9%A7%85">朝日駅</a><br />
+* 旧東海道<br />
+* 和菓子屋若松園<br />
+<br />
+== 隣の駅 ==<br />
+; 東海旅客鉄道<br />
+: 関西本線<br />
+:: 快速「みえ」・快速<br />
+::: &#39;通過&#39;<br />
+:: 区間快速・普通<br />
+::: 桑名駅 - （朝明信号場） - &#39;<a href="http://localhost/keyword/%E6%9C%9D%E6%97%A5%E9%A7%85">朝日駅</a>&#39; - 富田駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+* 関西線 (名古屋地区)<br />
+<br />
+<br />
+<br />
+<br />
+Category:三重県の鉄道駅<br />
+さひ<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:東海旅客鉄道の鉄道駅<br />
+Category:朝日町 (三重県)<br />
+Category:1<a href="http://localhost/keyword/983%E5%B9%B4">983年</a>開業の鉄道駅<br />
+Category:関西本線<br />

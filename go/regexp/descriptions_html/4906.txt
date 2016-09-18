@@ -1,0 +1,67 @@
+description<br />
+ <br />
+|駅構造  = 地上駅<br />
+|ホーム  = 1面1線<br />
+|開業年月日= 1<a href="http://localhost/keyword/929%E5%B9%B4">929年</a>（昭和<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）2月11日<br />
+|廃止年月日= <br />
+|乗車人員= 60<br />
+|乗降人員= <br />
+|統計年度= 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a><br />
+|乗換    =<br />
+|備考    = 無人駅<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E8%8A%A6%E5%B7%9D%E9%A7%85">芦川駅</a>&#39;（あしがわえき）は、山梨県西八代郡市川三郷町上野にある、東海旅客鉄道（JR東海）身延線の駅である。<br />
+<br />
+==駅構造==<br />
+単式ホーム1面1線のみを有する地上駅。線路は南西から北東に走りホームは線路の北西側にある。<br />
+<br />
+ホームの中ほどに1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>（平成<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）に旧木造から改築された待合所が設けられており、ここから外に出る。開業当初からの無人駅で駅舎は設けられていない。駅前に、水洗の公衆トイレあり。<a href="http://localhost/keyword/%E5%8D%97%E7%94%B2%E5%BA%9C%E9%A7%85">南甲府駅</a>管理。<br />
+<br />
+== 駅周辺 ==<br />
+隣の甲斐上野駅とともに町内の三珠地区の中心集落上野にある。甲斐上野駅と当駅は線路のキロ数にしてわずか1.1キロしか離れておらず、そのほぼ中間にある旧三珠町の中心部にはどちらからも500メートル程度の距離となっている。<br />
+<br />
+身延線の線路は当駅の市<a href="http://localhost/keyword/%E5%B7%9D%E6%9C%AC%E7%94%BA">川本町</a>方120メートルほどのところで小さな川を鉄橋で渡るが、この川こそ当駅の駅名になった芦川である。芦川は当駅の北西1キロメートルほどのところで笛吹川に注ぐが、その笛吹川もやがて富士川に合流する。<br />
+<br />
+当駅から県道を300メートルほど歩いて芦川を渡るとそこは市川の市街地である。身延線の線路も当駅を出て芦川をわたると市川大門駅の附近まで市川の市街地に沿って進んでいる。<br />
+<br />
+* 市川三郷町立上野小学校 - 駅の北すぐ<br />
+* 市川三郷町役場三珠庁舎（旧三珠町役場）<br />
+* 山梨県道3号甲府市川三郷線<br />
+* 山梨県道36号笛吹市川三郷線<br />
+<br />
+== 利用状況 ==<br />
+1日平均乗車人員は以下の通りとなっている。<br />
+<br />
+<br />
+== 歴史 ==<br />
+昭和<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>上野村議会は村内に駅を設置することを希望し昭和3年度から昭和<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>度迄富士身延鉄道に対し毎年寄付をすることを決議した『三珠町誌』19<a href="http://localhost/keyword/80%E5%B9%B4">80年</a>、835頁<br />
+* 1<a href="http://localhost/keyword/929%E5%B9%B4">929年</a>（昭和<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）2月11日 - 富士身延鉄道の芦川停留場（旅客駅）として開業。<br />
+* 1<a href="http://localhost/keyword/938%E5%B9%B4">938年</a>（昭和<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）10月1日 - 富士身延鉄道を国が借り上げ。同時に駅に昇格。<br />
+* 1<a href="http://localhost/keyword/941%E5%B9%B4">941年</a>（昭和<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>）5月1日 - 国有化され、国鉄身延線の駅となる。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、東海旅客鉄道の駅となる。<br />
+<br />
+== 隣の駅 ==<br />
+; 東海旅客鉄道<br />
+: 身延線<br />
+:: 市<a href="http://localhost/keyword/%E5%B7%9D%E6%9C%AC%E7%94%BA">川本町</a>駅 - &#39;<a href="http://localhost/keyword/%E8%8A%A6%E5%B7%9D%E9%A7%85">芦川駅</a>&#39; - 甲斐上野駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+* 宗谷本線・<a href="http://localhost/keyword/%E8%8A%A6%E5%B7%9D%E9%A7%85">芦川駅</a>（北海道） - あし&#39;か&#39;わえき。2001年（平成<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）まで同字異音の駅が宗谷本線に存在した。<br />
+<br />
+== 外部リンク ==<br />
+* [http://watchizu.gsi.go.jp/ 国土地理院地図閲覧サービス] - [http://watchizu.gsi.go.jp/watchizu.aspx?latitude=35.55864722&amp;longitude=138.51425 <a href="http://localhost/keyword/%E8%8A%A6%E5%B7%9D%E9%A7%85">芦川駅</a>周辺の1/25000地形図]<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:山梨県の鉄道駅<br />
+しかわ<br />
+Category:東海旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+あしかわえき<br />
+Category:1<a href="http://localhost/keyword/929%E5%B9%B4">929年</a>開業の鉄道駅<br />
+あしかわえき<br />

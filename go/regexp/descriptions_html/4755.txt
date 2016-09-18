@@ -1,0 +1,55 @@
+description<br />
+八戸線<br />
+|キロ程 = 38.1<br />
+|起点駅 = 八戸<br />
+|所在地幅 =<br />
+|所在地 = 岩手県九戸郡洋野町種市第13地割7-3<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/954%E5%B9%B4">954年</a>（昭和<a href="http://localhost/keyword/29%E5%B9%B4">29年</a>）8月5日<br />
+|廃止年月日 =<br />
+|乗車人員 =<br />
+|乗降人員 =<br />
+|統計年度 =<br />
+|備考 = 無人駅<br />
+}}<br />
+&#39;玉川駅&#39;（たまがわえき）は、岩手県九戸郡洋野町種市にある、東日本旅客鉄道（JR東日本）八戸線の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/954%E5%B9%B4">954年</a>（昭和<a href="http://localhost/keyword/29%E5%B9%B4">29年</a>）8月5日 - 開業。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化によりJR東日本の駅となる。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）3月11日 - 東北地方太平洋沖地震とこれにより発生した大津波により全線で不通。<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）3月17日 - 運転再開。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を有する地上駅。<a href="http://localhost/keyword/%E4%B9%85%E6%85%88%E9%A7%85">久慈駅</a>管理の無人駅で、ホームには待合室があるだけである。<br />
+<br />
+== 駅周辺 ==<br />
+* 岩手県道247号角ノ浜玉川線<br />
+* 国道45号（種市バイパス）<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 八戸線<br />
+:: <a href="http://localhost/keyword/%E7%A8%AE%E5%B8%82%E9%A7%85">種市駅</a> - &#39;玉川駅&#39; - 宿戸駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=973 JR東日本 玉川駅]<br />
+<br />
+<br />
+<br />
+<br />
+Category:岩手県の鉄道駅<br />
+まかわ<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+たまかわえき<br />
+Category:1<a href="http://localhost/keyword/954%E5%B9%B4">954年</a>開業の鉄道駅<br />

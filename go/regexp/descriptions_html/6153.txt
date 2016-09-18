@@ -1,0 +1,444 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E5%A4%A9%E6%96%87%E5%8F%B0%E3%82%B3%E3%83%BC%E3%83%89%E4%B8%80%E8%A6%A7">天文台コード一覧</a>&#39;（てんもんだいコードいちらん）は、国際天文学連合 (IAU) の監督下にある小惑星センター (MPC) が世界各地の天文台に割り当てた3桁の固有なコードの一覧である。<br />
+<br />
+イギリスの旧グリニッジ天文台を 000 とし、初期のコードは概ね東回りの経度順に並んでいるが、小規模の天文台まで登録されるにつれ、その規則は断続的である。また、ハッブル宇宙望遠鏡など宇宙空間にある天体観測施設にも付与されている為、順序規則も曖昧化しつつある。コードそのものも、当初は3桁全てが数字で構成されていたが、1000を超えてしまった為にアルファベットを含めたコードが割り当てられている。<br />
+<br />
+このコードの主な目的は、天文台の位置を世界中の天文家が確認できることにある。超新星や周期彗星などを発見した天文家が第一発見者であることを証明するには、他の天文台に確認してもらうことが必要になるが、観測点が異なれば観測角度も異なってしまう。通常、天文台は世界中の天文家から同様の依頼を毎日のように受けており、1件ずつ依頼情報から彗星の軌道要素等を算出することは多大な労力を要することになる。天文台コードとは、世界の天文台を一意に管理することで、観測結果の正確性と算出労力の軽減を目指したものである。<br />
+<br />
+<br />
+以下は、天文台コードの一覧である。<br />
+<br />
+<br />
+== 000–099 ==<br />
+* 000: Greenwich ()<br />
+* 001: Crowborough ()<br />
+* 002: Rayleigh ()<br />
+* 003: Montpellier ()<br />
+* 004: Toulouse ()<br />
+* 005: Meudon ()<br />
+* 006: Fabra Observatory, Barcelona ()<br />
+* 007: Paris ()<br />
+* 008: Algiers-Bouzareah ()<br />
+* 009: Bern-Uecht ()<br />
+* 010: Caussols ()<br />
+* 011: Wetzikon ()<br />
+* 012: Uccle ()<br />
+* 013: Leiden ()<br />
+* 014: Marseille ()<br />
+* 015: Utrecht ()<br />
+* 016: Besançon ()<br />
+* 017: Hoher List ()<br />
+* 018: Düsseldorf-Bilk ()<br />
+* 019: Neuchâtel ()<br />
+* 020: Nice ()<br />
+* 021: Karlsruhe ()<br />
+* 022: Pino Torinese ()<br />
+* 023: Wiesbaden ()<br />
+* 024: Heidelberg-Königstuhl ()<br />
+* 025: Stuttgart ()<br />
+* 026: Bern-Zimmerwald ()<br />
+* 027: Milan ()<br />
+* 028: Würzburg ()<br />
+* 029: Hamburg-Bergedorf ()<br />
+* 030: Arcetri Observatory, Florence ()<br />
+* 031: Sonneberg ()<br />
+* 032: Jena ()<br />
+* 033: Karl Schwarzschild Observatory, Tautenburg ()<br />
+* 034: Monte Mario Observatory, Rome ()<br />
+* 035: Copenhagen ()<br />
+* 036: Castel Gandolfo ()<br />
+* 037: Collurania Observatory, Teramo ()<br />
+* 038: Trieste ()<br />
+* 039: Lund ()<br />
+* 040: Lohrmann Institute, Dresden ()<br />
+* 041: Innsbruck ()<br />
+* 042: Potsdam ()<br />
+* 043: Asiago Astrophysical Observatory, Padua ()<br />
+* 044: Capodimonte Observatory, Naples ()<br />
+* 045: Vienna (since 1879) ()<br />
+* 046: Kleť Observatory, České Budějovice ()<br />
+* 047: Poznań ()<br />
+* 048: Hradec Králové ()<br />
+* 049: Uppsala-Kvistaberg ()<br />
+* 050: Stockholm (before 1931) ()<br />
+* 051: Cape ()<br />
+* 052: Stockholm-Saltsjöbaden ()<br />
+* 053: Konkoly Observatory, Budapest (since 1934) ()<br />
+* 054: Brorfelde ()<br />
+* 055: Cracow ()<br />
+* 056: Skalnaté Pleso ()<br />
+* 057: Belgrade ()<br />
+* 058: Kaliningrad ()<br />
+* 059: Lomnický štít ()<br />
+* 060: Warsaw-Ostrowik ()<br />
+* 061: Uzhgorod ()<br />
+* 062: Turku ()<br />
+* 063: Turku-Tuorla ()<br />
+* 064: Turku-Kevola ()<br />
+* 065: Traunstein ()<br />
+* 066: Athens ()<br />
+* 067: Lvov University Observatory ()<br />
+* 068: Lvov Polytechnic Institute ()<br />
+* 069: Baldone ()<br />
+* 070: Vilnius (before 1939) ()<br />
+* 071: NAO Rozhen, Smolyan ()<br />
+* 072: Scheuren Observatory ()<br />
+* 073: Bucharest ()<br />
+* 074: Boyden Observatory, Bloemfontein ()<br />
+* 075: Tartu ()<br />
+* 076: Johannesburg-Hartbeespoort ()<br />
+* 077: Yale-Columbia Station, Johannesburg ()<br />
+* 078: Johannesburg ()<br />
+* 079: Radcliffe Observatory, Pretoria ()<br />
+* 080: Istanbul ()<br />
+* 081: Leiden Station, Johannesburg ()<br />
+* 082: St. Pölten ()<br />
+* 083: Golosseevo-Kiev ()<br />
+* 084: Pulkovo Observatory ()<br />
+* 085: Kiev ()<br />
+* 086: Odessa ()<br />
+* 087: Helwan ()<br />
+* 088: Kottomia ()<br />
+* 089: Nikolaev ()<br />
+* 090: Mainz ()<br />
+* 091: Observatoire de Nurol, Aurec sur Loire ()<br />
+* 092: Torun-Piwnice ()<br />
+* 093: Skibotn ()<br />
+* 094: Crimea-Simeïs ()<br />
+* 095: Crimea-Nauchnij ()<br />
+* 096: Merate ()<br />
+* 097: Wise Observatory, Mitzpeh Ramon ()<br />
+* 098: Asiago Observatory, Cima Ekar ()<br />
+* 099: Lahti ()<br />
+<br />
+== 100–199 ==<br />
+* 100: Ähtäri ()<br />
+* 101: Kharkov ()<br />
+* 102: Zvenigorod ()<br />
+* 103: Ljubljana ()<br />
+* 104: San Marcello Pistoiese ()<br />
+* 105: Moscow ()<br />
+* 106: Črni Vrh ()<br />
+* 107: Cavezzo ()<br />
+* 108: Montelupo ()<br />
+* 109: Algiers-Kouba ()<br />
+* <a href="http://localhost/keyword/110">110</a>: Rostov ()<br />
+* 111: Piazzano Observatory, Florence ()<br />
+* 112: Pleiade Observatory, Verona ()<br />
+* 113: Volkssternwarte Drebach, Schoenbrunn ()<br />
+* 114: Engelhardt Observatory, Zelenchukskaya Station ()<br />
+* 115: Zelenchukskaya ()<br />
+* 116: Giesing ()<br />
+* 117: Sendling ()<br />
+* 118: Astronomical and Geophysical Observatory, Modra ()<br />
+* 119: Abastuman ()<br />
+* 120: Višnjan ()<br />
+* 121: Kharkov University, Chuguevskaya Station ()<br />
+* <a href="http://localhost/keyword/122">122</a>: Pises Observatory ()<br />
+* 123: Byurakan ()<br />
+* 124: Castres ()<br />
+* 125: Tbilisi ()<br />
+* 126: Monte Viseggi ()<br />
+* 127: Bornheim ()<br />
+* 128: Saratov ()<br />
+* 129: Ordubad ()<br />
+* 130: Lumezzane ()<br />
+* 131: Observatoire de l&#39;Ardeche ()<br />
+* 132: Bedoin ()<br />
+* 133: Les Tardieux ()<br />
+* 134: Groszschwabhausen ()<br />
+* <a href="http://localhost/keyword/135">135</a>: Kasan ()<br />
+* 136: Engelhardt Observatory, Kasan ()<br />
+* 137: Givatayim Observatory ()<br />
+* 138: Village-Neuf ()<br />
+* 139: Antibes ()<br />
+* 140: Augerolles ()<br />
+* 141: Hottviller ()<br />
+* 142: Sinsen ()<br />
+* 143: Gnosca ()<br />
+* 144: Bray et Lu ()<br />
+* 145: &#39;s-Gravenwezel ()<br />
+* 146: Frignano ()<br />
+* 147: Osservatorio Astronomico di Suno ()<br />
+* 148: Guitalens ()<br />
+* 149: Beine-Nauroy ()<br />
+* 150: Maisons Laffitte ()<br />
+* 151: Eschenberg Observatory, Winterthur ()<br />
+* 152: Moletai Astronomical Observatory ()<br />
+* 153: Stuttgart-Hoffeld ()<br />
+* 154: Cortina ()<br />
+* 155: Ole Romer Observatory, Aarhus ()<br />
+* 156: Catania Astrophysical Observatory ()<br />
+* 157: Frasso Sabino ()<br />
+* 158: Promiod ()<br />
+* 159: Monte Agliale ()<br />
+* 160: Castelmartini ()<br />
+* 161: Cerrina Tololo Observatory ()<br />
+* 162: Potenza ()<br />
+* 163: Roeser Observatory, Luxembourg ()<br />
+* 164: St. Michel sur Meurthe ()<br />
+* 165: Piera Observatory, Barcelona ()<br />
+* 166: Upice ()<br />
+* 167: Bülach Observatory ()<br />
+* 168: Kourovskaya ()<br />
+* 169: Airali Observatory ()<br />
+* 170: Observatorio de Begues ()<br />
+* 171: Flarestar Observatory, San Gwann ()<br />
+* 172: Onnens ()<br />
+* 173: St. Clotilde, Réunion ()<br />
+* 174: Nyrölä Observatory, Jyväskylä ()<br />
+* 175: F.-X. Bagnoud Observatory, St-Luc ()<br />
+* <a href="http://localhost/keyword/176">176</a>: Observatorio Astronómico de Consell ()<br />
+* 177: Le Cres ()<br />
+* 178: Collonges ()<br />
+* 179: Monte Generoso ()<br />
+* 180: Mauguio ()<br />
+* 181: Observatoire des Makes, Saint-Louis ()<br />
+* 182: St. Paul, Réunion ()<br />
+* 183: Starlab Observatory, Karachay-Cherkessia ()<br />
+* 184: Valmeca Observatory, Puimichel ()<br />
+* 185: Observatoire Astronomique Jurassien-Vicques ()<br />
+* 186: Kitab ()<br />
+* 187: Astronomical Observatory, Borowiec ()<br />
+* 188: Majdanak ()<br />
+* 189: Geneva (before 1967) ()<br />
+* 190: Gissar ()<br />
+* 191: Dushanbe ()<br />
+* 192: Tashkent ()<br />
+* 193: Sanglok ()<br />
+* 194: Tivoli ()<br />
+* 195: Untermenzing Observatory, Munich ()<br />
+* 196: Homburg-Erbach ()<br />
+* 197: Bastia ()<br />
+* 198: Wildberg ()<br />
+* 199: Buthiers ()<br />
+<br />
+== 200–299 ==<br />
+* 200: Beersel Hills Observatory ()<br />
+* 201: Jonathan B. Postel Observatory ()<br />
+* 202: Tamaris Observatoire, La Seyne sur Mer ()<br />
+* 203: GiaGa Observatory ()<br />
+* 204: Schiaparelli Observatory ()<br />
+* 205: Obs. Casalecchio di Reno, Bologna ()<br />
+* 206: Haagaar Observatory, Eina ()<br />
+* 207: Osservatorio Antonio Grosso ()<br />
+* 208: Rivalta ()<br />
+* 209: Asiago Observatory, Cima Ekar-ADAS ()<br />
+* 210: Alma-Ata ()<br />
+* 211: Scandicci ()<br />
+* 212: Observatorio La Dehesilla ()<br />
+* 213: Observatorio Montcabre ()<br />
+* 214: Garching Observatory ()<br />
+* 215: Buchloe ()<br />
+* 216: Observatoire des Côte de Meuse ()<br />
+* 217: Assah ()<br />
+* 218: Hyderabad ()<br />
+* 219: Japal-Rangapur ()<br />
+* 220: Vainu Bappu Observatory, Kavalur ()<br />
+* 221: IAS Observatory, Hakos ()<br />
+* 222: Yerres-Canotiers ()<br />
+* 223: Madras ()<br />
+* 224: Ottmarsheim ()<br />
+* 225: Northwood Ridge Observatory ()<br />
+* 226: Guido Ruggieri Observatory, Padua ()<br />
+* 227: OrbitJet Observatory, Colden ()<br />
+* 228: Bruno Zugna Observatory, Trieste ()<br />
+* 229: G. C. Gloriosi Astronomical Observatory, Salerno ()<br />
+* 230: Mt. Wendelstein Observatory ()<br />
+* 231: Vesqueville ()<br />
+* 232: Masquefa Observatory ()<br />
+* 233: Sauro Donati Astronomical Observatory, San Vito ()<br />
+* 234: Coddenham Observatory ()<br />
+* 235: CAST Observatory, Talmassons ()<br />
+* 236: Tomsk ()<br />
+* 237: Baugy ()<br />
+* 238: Grorudalen Optical Observatory ()<br />
+* 239: Trebur ()<br />
+* 240: Herrenberg Sternwarte ()<br />
+* 241: Schaerding ()<br />
+* 242: Varennes ()<br />
+* 243: Umbrella Observatory, Fredenbeck ()<br />
+* 244: Geocentric Occultation Observation<br />
+* 245: Spitzer Space Telescope (宇宙空間上の宇宙望遠鏡)<br />
+* 246: Kleť Observatory-KLENOT ()<br />
+* 247: Roving Observer<br />
+* 248: Hipparcos (宇宙空間上の宇宙望遠鏡 - 廃止)<br />
+* 249: SOHO (宇宙空間上の太陽探査機)<br />
+* 250: Hubble Space Telescope (宇宙空間上の宇宙望遠鏡)<br />
+* 251: Arecibo (領 )<br />
+* 252: Goldstone DSS 13, Fort Irwin ()<br />
+* 253: Goldstone DSS 14, Fort Irwin ()<br />
+* 254: Haystack, Westford ()<br />
+* 255: Evpatoria ()<br />
+* 256: Green Bank ()<br />
+* 257: Goldstone DSS 25, Fort Irwin ()<br />
+<br />
+* 259: EISCAT Tromso UHF ()<br />
+* 260: Siding Spring Observatory-DSS ()<br />
+* 261: Palomar Mountain-DSS ()<br />
+* 262: European Southern Observatory, La Silla-DSS ()<br />
+<br />
+* 266: New Horizons KBO Search-Subaru ()<br />
+* 267: New Horizons KBO Search-CFHT ()<br />
+* 268: New Horizons KBO Search-Magellan/Clay ()<br />
+* 269: New Horizons KBO Search-Magellan/Baade ()<br />
+<br />
+* 277: Royal Observatory, Blackford Hill, Edinburgh ()<br />
+* 278: Peking, Transit of Venus site ()<br />
+* 279: Seeberg Observatory, Gotha (1787-1857) ()<br />
+* 280: Lilienthal ()<br />
+* 281: Bologna ()<br />
+* 282: Nîmes ()<br />
+* 283: Bremen ()<br />
+* 284: Driesen ()<br />
+* 285: Flammarion Observatory, Juvisy ()<br />
+* 286: Yunnan Observatory ()<br />
+<br />
+* 290: Mt. Graham-VATT ()<br />
+* 291: LPL/Spacewatch II ()<br />
+* 292: Burlington, New Jersey ()<br />
+* 293: Burlington remote site ()<br />
+* 294: Astrophysical Obs., College of Staten Island ()<br />
+* 295: Catholic University Observatory, Washington ()<br />
+* 296: Dudley Observatory, Albany (after 1893) ()<br />
+* 297: Middlebury ()<br />
+* 298: Van Vleck Observatory ()<br />
+* 299: Bosscha Observatory, Lembang ()<br />
+<br />
+== 300–399 ==<br />
+* 300: Bisei Spaceguard Center – BATTeRS ( 岡山県)<br />
+* 301: Mont Mégantic ()<br />
+* 302: University of the Andes station ()<br />
+* 303: OAN de Llano del Hato, Merida ()<br />
+* 304: Las Campanas Observatory ()<br />
+* 305: Purple Mountain, Hainan Island station ()<br />
+* 306: Observatorio Taya Beixo, Barquisimeto ()<br />
+<br />
+* 309: Cerro Paranal ()<br />
+<br />
+* 312: Tsingtao field station, Xisha Islands ()<br />
+<br />
+* 318: Quinns Rock ()<br />
+* 319: Perth Observatory, Perth-Lowell Telescope ()<br />
+* 320: Chiro Observatory ()<br />
+* 321: Craigie ()<br />
+* 322: Perth Observatory, Bickley-MCT ()<br />
+* 323: Perth Observatory, Bickley ()<br />
+* 324: Peking Observatory, Shaho Station ()<br />
+<br />
+* 327: Peking Observatory, Xinglong Station ()<br />
+<br />
+* 330: Purple Mountain Observatory, Nanking ()<br />
+<br />
+* 333: Desert Eagle Observatory, Arizona ()<br />
+* 334: Tsingtao ()<br />
+<br />
+* 337: Sheshan, formerly Zô-Sé ()<br />
+<br />
+* 340: Toyonaka ( 大阪府)<br />
+* 341: Akashina ( 長野県)<br />
+* 342: Shishikui ( 徳島県)<br />
+* 343: Younchun ()<br />
+* 344: Bohyunsan Optical Astronomy Observatory ()<br />
+* 345: Sobaeksan Optical Astronomy Observatory ()<br />
+* 346: KNUE Astronomical Observatory ()<br />
+* 347: Utsunomiya-Imaizumi ( 栃木県)<br />
+* 348: Ayabe ( 京都府)<br />
+* 349: Ageo ( 埼玉県)<br />
+* 350: Kurohone ( 群馬県)<br />
+* 351: Sakamoto ( 滋賀県)<br />
+* 352: Konan ( 滋賀県)<br />
+* 353: Nishi Kobe ( 兵庫県)<br />
+* 354: Kawachi ()<br />
+* 355: Hadano ( 神奈川県)<br />
+* 356: Kogota ( 宮城県)<br />
+* 357: Shimotsuma ( 茨城県)<br />
+* 358: Nanyo ( 山形県)<br />
+* 359: Wakayama ( 和歌山県)<br />
+* 360: Kuma Kogen ( 愛媛県)<br />
+* 361: Sumoto ( 兵庫県)<br />
+* 362: Ray Observatory ( 北海道)<br />
+* 363: Yamada ( 福岡県)<br />
+* 364: YCPM Kagoshima Station ( 鹿児島県)<br />
+* 365: Uto Observatory ( 奈良県)<br />
+* 366: Miyasaka Observatory ( 山梨県)<br />
+* 367: Yatsuka ( 島根県)<br />
+* 368: Ochiai ()<br />
+* 369: Chichibu ( 埼玉県)<br />
+* 370: Kochi ( 高知県)<br />
+* 371: Tokyo-Okayama ( 岡山県)<br />
+* 372: Geisei Observatory ( 高知県)<br />
+* 373: Oishi ( 和歌山県)<br />
+* 374: Minami-Oda Observatory ( 兵庫県)<br />
+* 375: Uzurano ( 兵庫県)<br />
+* 376: Uenohara ( 山梨県)<br />
+* 377: Kwasan Observatory ( 京都府)<br />
+* 378: Murou ( 奈良県)<br />
+* 379: Hamamatsu-Yuto ( 静岡県)<br />
+* 380: Ishiki ( 愛知県)<br />
+* 381: Tokyo-Kiso ( 長野県)<br />
+* 382: Tokyo-Norikura ( 長野県/岐阜県)<br />
+* 383: Chirorin ( 長野県)<br />
+* 384: Shimada ( 静岡県)<br />
+* 385: Nihondaira Observatory ( 静岡県)<br />
+* 386: Yatsugatake-Kobuchizawa ( 山梨県)<br />
+* 387: Tokyo-Dodaira ( 埼玉県)<br />
+* 388: Tokyo-Mitaka ( 東京都)<br />
+* 389: Tokyo (before 1938) ( 東京都)<br />
+* 390: Utsunomiya ( 栃木県)<br />
+* 391: Sendai Observatory, Ayashi Station ( 宮城県)<br />
+* 392: JCPM Sapporo Station ( 北海道)<br />
+* 393: JCPM Sakura Station ( 茨城県)<br />
+* 394: JCPM Hamatonbetsu Station ( 北海道)<br />
+* 395: Tokyo-Asahikawa ( 北海道)<br />
+* 396: Asahikawa ( 北海道)<br />
+* 397: Sapporo Science Center ( 北海道)<br />
+* 398: Nagatoro ( 埼玉県)<br />
+* 399: Kushiro ( 北海道)<br />
+<br />
+== 400–499 ==<br />
+== 500–599 ==<br />
+== 600–699 ==<br />
+== 700–799 ==<br />
+== 800–899 ==<br />
+== 900–999 ==<br />
+== A00–A99 ==<br />
+== B00–B99 ==<br />
+== C00–C99 ==<br />
+== D00–D99 ==<br />
+== E00–E99 ==<br />
+== F00–F99 ==<br />
+== G00–G99 ==<br />
+== H00–H99 ==<br />
+== I00–I99 ==<br />
+== J00–J99 ==<br />
+== K00–K99 ==<br />
+== L00–L99 ==<br />
+== N00–N99 ==<br />
+== O00–O99 ==<br />
+== P00–P99 ==<br />
+== Q00–Q99 ==<br />
+== T00–T99 ==<br />
+== U00–U99 ==<br />
+== V00–V99 ==<br />
+== W00–W99 ==<br />
+== X00–X99 ==<br />
+== Y00–Y99 ==<br />
+== Z00–Z99 ==<br />
+<br />
+== 関連項目 ==<br />
+* 天文台一覧<br />
+<br />
+== 外部リンク ==<br />
+*[http://www.minorplanetcenter.net/iau/lists/ObsCodesF.html 小惑星センター - 天文台コードの一覧]  <br />
+*[http://news.local-group.jp/mp/hyogo/ 小惑星「Hyogo」- 天文台コードの利用例]<br />
+*[http://www.spaceguard.or.jp/ja/mpnews/0140.html 小惑星ニュース - JSGA Web News No.140 - 天文台コードの利用例]<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:識別子<br />
+*てんもんたいこおと<br />
+Category:天文学に関する記事<br />
+Category:天文学の一覧<br />

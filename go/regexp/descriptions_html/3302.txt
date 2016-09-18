@@ -1,0 +1,69 @@
+description<br />
+<br />
+|alternate_name    = 長狭街道<br />
+|alternate_name_notes = <br />
+|length            = 27.0 km<br />
+|starting_terminus = 千葉県鴨川市横渚<br />
+|junction          = 24px国道128号24px<a href="http://localhost/keyword/%E5%9B%BD%E9%81%93410%E5%8F%B7">国道410号</a><a href="http://localhost/keyword/%E5%AF%8C%E6%B4%A5%E9%A4%A8%E5%B1%B1%E9%81%93%E8%B7%AF">富津館山道路</a>24px国道127号<br />
+|ending_terminus   = 千葉県安房郡鋸南町保田<br />
+|cities            = <br />
+|established       = 1<a href="http://localhost/keyword/955%E5%B9%B4">955年</a><br />
+|system            = 主要地方道<br />
+|<br />
+}}<br />
+<a href="http://localhost/keyword/%E5%8D%83%E8%91%89%E7%9C%8C%E9%81%9334%E5%8F%B7%E9%B4%A8%E5%B7%9D%E4%BF%9D%E7%94%B0%E7%B7%9A">千葉県道34号鴨川保田線</a>・鴨川市宮山の長狭中学校前付近（20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>5月）<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E5%8D%83%E8%91%89%E7%9C%8C%E9%81%9334%E5%8F%B7%E9%B4%A8%E5%B7%9D%E4%BF%9D%E7%94%B0%E7%B7%9A">千葉県道34号鴨川保田線</a>&#39;（ちばけんどう34ごう かもがわほたせん）は、千葉県鴨川市から安房郡鋸南町に至る県道（主要地方道）。<br />
+鋸南保田インターチェンジ・道の駅保田小学校付近（20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>12月）<br />
+<br />
+<br />
+== 概要 ==<br />
+房総半島を横断する主要道路のひとつで、通称&#39;長狭街道&#39;（ながさかいどう）と呼ばれる。}}。江戸時代より東京湾と太平洋を結ぶ街道として栄えた。<br />
+<br />
+毎年冬に「長狭街道駅伝」が、鋸南町保健福祉センター「すこやか」 - 鴨川市総合運動施設間で毎年スタートとゴールを交代して開催されている。<br />
+=== 路線データ ===<br />
+* 起点：鴨川市横渚 長狭街道入口<a href="http://localhost/keyword/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%96%E3%83%AB%E4%BA%A4%E5%B7%AE%E7%82%B9">スクランブル交差点</a>（千葉県道247号浜波太港線交点）<br />
+* 終点：安房郡鋸南町保田 保田交差点（国道127号・千葉県道238号保田停車場線交点）<br />
+* 総延長：27,007m<br />
+* 認定年月日：1<a href="http://localhost/keyword/955%E5%B9%B4">955年</a>（昭和<a href="http://localhost/keyword/30%E5%B9%B4">30年</a>）3月4日<br />
+<br />
+== 路線状況 ==<br />
+=== 重複区間 ===<br />
+* 千葉県道88号富津館山線（金束交差点 - 平塚入口交差点）<br />
+<br />
+=== 道路施設 ===<br />
+* 御園橋（<a href="http://localhost/keyword/%E5%8A%A0%E8%8C%82%E5%B7%9D">加茂川</a>、鴨川市松尾寺 - 同市寺門）<br />
+<br />
+== 地理 ==<br />
+=== 通過する自治体 ===<br />
+* 千葉県<br />
+** 鴨川市<br />
+** 富津市<br />
+** 安房郡鋸南町<br />
+<br />
+=== 交差する道路 ===<br />
+<br />
+<br />
+=== 沿線 ===<br />
+* 安房鴨川駅<br />
+* 千葉県立長狭高等学校<br />
+*鴨川市総合運動場<br />
+* 鴨川市立長狭小学校<br />
+* 鴨川市立長狭中学校<br />
+* 津森山<br />
+* 横根峠<br />
+* 保田駅<br />
+<br />
+== 脚注 ==<br />
+=== 注釈 ===<br />
+<br />
+<br />
+=== 出典 ===<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 千葉県の県道一覧<br />
+<br />
+<br />
+<br />
+034<br />

@@ -1,0 +1,24 @@
+description<br />
+<br />
+| CASNo = 9003-20-7<br />
+|   PubChem = 7758<br />
+| KEGG_Ref = <br />
+| KEGG = C<a href="http://localhost/keyword/122">122</a>82<br />
+  }}<br />
+| Section2 = <br />
+| Section7 = <br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E3%83%9D%E3%83%AA%E9%85%A2%E9%85%B8%E3%83%93%E3%83%8B%E3%83%AB">ポリ酢酸ビニル</a>&#39;（ぽりさくさんびにる、polyvinyl acetate）は酢酸ビニルをラジカル重合することで得られる無色透明の熱可塑性樹脂である。略号として&#39;PVAc&#39;が用いられる。<br />
+<br />
+==用途==<br />
+ポリビニルアルコールの中間体原料であるほか、エマルジョン系接着剤（木工用ボンド®）、スクリーン印刷用の感光性材料、洗濯糊、チューインガムベース、乳化剤、化粧品の基材（パック等）に利用される。 略称として「酢ビ（さくび）」といえば、通常はポリマーである「<a href="http://localhost/keyword/%E3%83%9D%E3%83%AA%E9%85%A2%E9%85%B8%E3%83%93%E3%83%8B%E3%83%AB">ポリ酢酸ビニル</a>」のことを指す。<br />
+<br />
+==関連項目==<br />
+*合成樹脂<br />
+*高分子<br />
+<br />
+<br />
+<br />
+category:合成樹脂<br />
+Category:酢酸エステル<br />

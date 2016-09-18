@@ -1,0 +1,61 @@
+description<br />
+<br />
+| type               =<br />
+| inflow             =<br />
+| outflow            =<br />
+| catchment_km2      =<br />
+| basin_countries    = ノルウェー<br />
+| length_km          = <br />
+| width_km           = <br />
+| area_km2           = 1380000 <br />
+| depth_m            = 2000<br />
+| max-depth_m        = 3970<br />
+| volume_km3         = <br />
+| residence_time     =<br />
+| temperature_high_C =<br />
+| temperature_low_C  =<br />
+| shore_km           =<br />
+| islands            =<br />
+| cities             =<br />
+| trenches           =<br />
+| benches            =<br />
+| frozen             =<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E3%83%8E%E3%83%AB%E3%82%A6%E3%82%A7%E3%83%BC%E6%B5%B7">ノルウェー海</a>&#39; () とは大西洋の一部で、北海とグリーンランド海の間の海。南東側にスカンジナビア半島・ノルウェーの陸地が位置する。<br />
+<br />
+== 地理 ==<br />
+=== 範囲・接続海域 ===<br />
+<a href="http://localhost/keyword/%E3%83%8E%E3%83%AB%E3%82%A6%E3%82%A7%E3%83%BC%E6%B5%B7">ノルウェー海</a>。赤はIHOの定める境界。<br />
+国際水路機関（IHO）の定める66の海域のひとつである。国際水路機関の定義によれば、その境界は以下の通り。<br />
+;北東<br />
+:<a href="http://localhost/keyword/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84%E3%83%99%E3%83%AB%E3%82%B2%E3%83%B3%E5%B3%B6">スピッツベルゲン島</a>（西<a href="http://localhost/keyword/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84%E3%83%99%E3%83%AB%E3%82%B2%E3%83%B3%E5%B3%B6">スピッツベルゲン島</a>）南端から、ビュルネイ島（ベアー島）の北岬（North Cape）および同島のケープ・ブル（Cape Bull）を経て、ノルウェー本土北端 ノール<a href="http://localhost/keyword/%E3%82%AB%E3%83%83%E3%83%97">カップ</a>に至る線。<br />
+;南東<br />
+:ノール<a href="http://localhost/keyword/%E3%82%AB%E3%83%83%E3%83%97">カップ</a>からCape Stadt（）に至る、ノルウェーの西海岸。<br />
+;南<br />
+:ノルウェー西海岸が北緯61度線と交わる地点から、地点、フグロイ島（フェロー諸島）北東端（）を経て、アイスランド東端 :is:Gerpir（）に至る線<br />
+;西<br />
+:グリーンランド海の南東限<br />
+:（<a href="http://localhost/keyword/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84%E3%83%99%E3%83%AB%E3%82%B2%E3%83%B3%E5%B3%B6">スピッツベルゲン島</a>南端から、ヤンマイエン島北端、西海岸を下り同島南端を経て、アイスランド東端  Gerpir に至る線）。<br />
+<br />
+北東でバレンツ海と、南に北海および北大西洋と、西にグリーンランド海とそれぞれ接する。<br />
+<br />
+=== 主要な島嶼 ===<br />
+ノルウェー沿岸は<a href="http://localhost/keyword/%E3%83%95%E3%82%A3%E3%83%A8%E3%83%AB%E3%83%89">フィヨルド</a>地形のために多くの島がある。<a href="http://localhost/keyword/%E3%83%8E%E3%83%AB%E3%82%A6%E3%82%A7%E3%83%BC%E6%B5%B7">ノルウェー海</a>の主要な島としては以下がある。* はIHOの定義において境界を構成する島である。<br />
+<br />
+<br />
+== 海洋 ==<br />
+北大西洋海流と<a href="http://localhost/keyword/%E3%83%8E%E3%83%AB%E3%82%A6%E3%82%A7%E3%83%BC%E6%B5%B7">ノルウェー海</a>流<br />
+=== 海流 ===<br />
+暖流の北大西洋海流（およびその続流である<a href="http://localhost/keyword/%E3%83%8E%E3%83%AB%E3%82%A6%E3%82%A7%E3%83%BC%E6%B5%B7">ノルウェー海</a>流）が海域の南西から北東方向へ流入しているため、高緯度地帯に位置しているにもかかわらず、冬季でも流氷などは無い。<br />
+<br />
+== 資源 ==<br />
+ノルウェー沿岸においては、海底油田開発も行われている[http://www.no.emb-japan.go.jp/Japanese/Nikokukan/norue_enerugi_jijou.pdf ノルウェーのエネルギー事情]。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:ノルウェーの海域<br />
+Category:大西洋の海域<br />

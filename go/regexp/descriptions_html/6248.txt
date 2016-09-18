@@ -1,0 +1,51 @@
+description<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E3%82%B1%E3%83%A2%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9">ケモインフォマティクス</a>&#39;（英語：cheminformatics, chemoinformatics）はコンピュータと情報化技術を用いて、化学領域の問題に適用する方法論である。&#39;<a href="http://localhost/keyword/%E3%82%B1%E3%83%A2%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9">ケモインフォマティクス</a>&#39;および&#39;化学情報&#39;の技術は<a href="http://localhost/keyword/%E5%8C%BB%E8%96%AC%E5%93%81%E5%8C%96%E5%AD%A6">医薬品化学</a>の創薬研究過程でも利用されている。<br />
+<br />
+== 基本 ==<br />
+&#39;<a href="http://localhost/keyword/%E3%82%B1%E3%83%A2%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9">ケモインフォマティクス</a>&#39;は化学領域と情報工学領域の融合した学際領域で、特に化学におけるグラフ理論（Bonchev/Rouvray, 1990）や化学物質空間のデータ探索に関する研究が盛んである。化学物質空間は少なくとも10^{62}個の分子構造が存在すると見積もられている（Lahana, 1999）。それに比して、200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>現在既知の化学物質の総数は10^{9}程度である。<br />
+<br />
+== 応用 ==<br />
+=== 検索 ===<br />
+<a href="http://localhost/keyword/%E8%A8%88%E7%AE%97%E6%A9%9F%E5%8C%96%E5%AD%A6">計算機化学</a>の技術を使用して巨大な化合物のin silico &#39;&#39;virtual libraries&#39;&#39;を構築すると、化学物質空間のデータ探索に効果的である。<br />
+<br />
+=== 定量的構造活性相関 (QSAR) ===<br />
+定量的構造活性相関や定量的構造属性相関（en:QSPR）の値を算出し化合物の活性をその分子構造から推定するのに用いられる。<br />
+<br />
+=== ファイルフォーマット ===<br />
+「In silico」の化学構造を表す内部表現形として, XML技術に基づいたChemical Markup LanguageやSM<a href="http://localhost/keyword/ILE">ILE</a>S記法などが使用される。この内部表現形は巨大な化学<a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a>において外部とデータ交換する際にも使用される。　化学<a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a>に詳しい。<br />
+<br />
+== 関連項目 ==<br />
+* 計算化学<br />
+* <a href="http://localhost/keyword/%E8%A8%88%E7%AE%97%E6%A9%9F%E5%8C%96%E5%AD%A6">計算機化学</a><br />
+* 計算科学<br />
+* 統計<br />
+* データマイニング<br />
+* データ解析<br />
+* 科学データの可視化<br />
+* バイオインフォマティクス<br />
+* <a href="http://localhost/keyword/%E8%A8%88%E7%AE%97%E6%A9%9F%E5%8C%96%E5%AD%A6">計算機化学</a><br />
+<br />
+== 関連文献 ==<br />
+* D. Bonchev, D.H. Rouvray: &#39;&#39;Chemical Graph Theory: Introduction and Fundamentals&#39;&#39;. Gordon and Breach Science Publishers, 1990, ISBN 0-85626-454-7.<br />
+* R. Lahana: &#39;&#39;How many leads from HTS?&#39;&#39;. Drug Discovery Today, 1999, 4, 447-448. [http://dx.doi.org/10.1016/S<a href="http://localhost/keyword/135">135</a>9-6446(99)01393-8 DOI: 10.1016/S<a href="http://localhost/keyword/135">135</a>9-6446(99)01393-8].<br />
+* Gasteiger J.(Editor), Engel T.(Editor): &#39;&#39;Chemoinformatics : A Textbook&#39;&#39;. John Wiley &amp; Sons, 2004, ISBN 3-52730-681-1<br />
+* Gasteiger J.(Editor), Engel T.(Editor): &#39;&#39;Chemoinformatics : A Textbook&#39;&#39;. John Wiley &amp; Sons, 2004, ISBN 3-52730-681-1<br />
+<br />
+日本語で読めるものとしては、<br />
+* J.Gasteiger・T.Engel編、船津公人監訳：<a href="http://localhost/keyword/%E3%82%B1%E3%83%A2%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9">ケモインフォマティクス</a> -予測と設計のための化学情報学- 丸善株式会社(2005)<br />
+<br />
+== 外部リンク ==<br />
+* Comprehensive cheminformatics link list and data set repository:（英語）http://www.cheminformatics.org<br />
+* A cheminformatics glossary:（英語） http://www.genomicglossaries.com/content/chemoinformatics_gloss.asp<br />
+* XML- CML.ORG - The Site for Chemical Markup Language:（英語） http://www.xml-cml.org/<br />
+* VCCLAB Virtual Computational Chemistry Laboratory:（英語） http://www.vcclab.org<br />
+* Accelrys Software Inc. http://www.accelrys.com/jp/chem/index.html<br />
+* ChemAxon（英語） http://www.chemaxon.com/<br />
+<br />
+<br />
+<br />
+<br />
+Category:計算化学<br />
+*<br />
+Category:創薬<br />

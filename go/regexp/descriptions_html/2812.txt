@@ -1,0 +1,84 @@
+description<br />
+<br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面2線<br />
+|開業年月日= 1<a href="http://localhost/keyword/929%E5%B9%B4">929年</a>（昭和<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）2月24日<br />
+|廃止年月日=<br />
+|乗車人員=<br />
+|乗降人員=883<br />
+|統計年度=200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a><br />
+|備考 = 無人駅<br />
+}}<br />
+構内（200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>撮影）<br />
+&#39;<a href="http://localhost/keyword/%E7%BE%8E%E6%BF%83%E6%9D%BE%E5%B1%B1%E9%A7%85">美濃松山駅</a>&#39;（みのまつやまえき）は、岐阜県海津市南濃町松山古堤にある、養老鉄道養老線の駅。岐阜県内では最南端に位置する駅である。<br />
+<br />
+近鉄時代末期は桑名駅基準で、昼間時の列車のうち約半数がこの駅で折り返していたが、20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>現在は桑名駅発最終列車のみ当駅止まりとなっている。<br />
+<br />
+== 駅構造 ==<br />
+相対式ホーム2面2線を有する地上駅。駅員無配置駅で駅舎もなく、直接ホームに入る形になっている。上下線ともホーム出入口は大垣寄りに設けられている。構内踏切等はなく、互いのホームの往復は大垣寄りにある一般の踏切を利用しなければならない。便所は駅前広場にあり、車イス対応で男女共用の水洗式。<br />
+<br />
+<br />
+<br />
+* なお、当駅で折り返して桑名行きとなる列車は直接2番線（多度・桑名方面乗り場）に入線して折り返していた。<br />
+<br />
+== 利用状況 ==<br />
+* 主として通学・通勤用に利用される。<br />
+* <a href="http://localhost/keyword/%E7%BE%8E%E6%BF%83%E6%9D%BE%E5%B1%B1%E9%A7%85">美濃松山駅</a>の利用状況の変遷を下表に示す。<br />
+** 輸送実績（乗車人員）の単位は人であり、年度での総計値を示す。年度間の比較に適したデータである。<br />
+** 乗降人員調査結果は任意の1日における値（単位：人）である。調査日の天候・行事等の要因によって変動が大きいので年度間の比較には注意を要する。<br />
+*** 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>（平成<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）11月18日の調査結果によると、1日の利用客は883人。この数字は養老線の駅（27駅、桑名駅含む）の中では、11位（岐阜県内に限定すると、22駅中8位）。なお、200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>（平成<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）11月8日の調査結果では1,098人であった。 <br />
+<br />
+** 表中、最高値を赤色で、最高値を記録した年度以降の最低値を青色で、最高値を記録した年度以前の最低値を緑色で表記している。<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+駅南方で養老線は国道258号の高架をくぐり、この地点以北が岐阜県、以南が三重県となる。鉄道で唯一、両県境と交叉する地点である。<br />
+<br />
+* 松山簡易郵便局<br />
+* 松山台・桜ヶ丘住宅地<br />
+* 松山グリーンハイツ住宅地<br />
+* 三切池<br />
+* 一号舘南濃店<br />
+* セブン-イレブン<br />
+* 桑名信用金庫松山支店<br />
+* JAにしみの（西美濃<a href="http://localhost/keyword/%E8%BE%B2%E6%A5%AD%E5%8D%94%E5%90%8C%E7%B5%84%E5%90%88">農業協同組合</a>）石津支店さくらヶ丘出張所<br />
+* 国土交通省木曽川下流河川事務所南濃出張所<br />
+* 国道258号<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/929%E5%B9%B4">929年</a>（昭和<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）<br />
+** 2月24日 - 養老電気鉄道の多度 - 石津間に新設開業。<br />
+** 10月1日 - 合併により伊勢電気鉄道養老線の駅となる。<br />
+* 1<a href="http://localhost/keyword/936%E5%B9%B4">936年</a>（昭和<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）5月20日 - 分離譲渡により養老電鉄の駅となる。<br />
+* 1<a href="http://localhost/keyword/940%E5%B9%B4">940年</a>（昭和<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）8月1日 - 合併により参宮急行電鉄の駅となる。<br />
+* 1<a href="http://localhost/keyword/941%E5%B9%B4">941年</a>（昭和<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>）3月15日 - <a href="http://localhost/keyword/%E5%A4%A7%E9%98%AA%E9%9B%BB%E6%B0%97%E8%BB%8C%E9%81%93">大阪電気軌道</a>との合併により関西急行鉄道の駅となる。<br />
+* 1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>（昭和<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）6月1日 - 南海鉄道（現在の南海電気鉄道の前身）との合併により近畿日本鉄道の駅となる。<br />
+* 1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>（昭和<a href="http://localhost/keyword/46%E5%B9%B4">46年</a>）12月 - 貨物線廃止。<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）10月1日 - 近鉄からの経営分離に伴い、養老鉄道の駅になる。<br />
+<br />
+== 隣の駅 ==<br />
+; 養老鉄道<br />
+: 養老線<br />
+:: 多度駅 - &#39;<a href="http://localhost/keyword/%E7%BE%8E%E6%BF%83%E6%9D%BE%E5%B1%B1%E9%A7%85">美濃松山駅</a>&#39; - 石津駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+* 日本の都道府県の東西南北端の駅の一覧<br />
+<br />
+<br />
+<br />
+<br />
+みのまつやま<br />
+のまつやま<br />
+みのまつやま<br />
+みのまつやま<br />
+Category:関西急行鉄道<br />
+Category:参宮急行電鉄<br />
+Category:伊勢電気鉄道<br />
+Category:養老電鉄<br />
+Category:海津市の交通<br />
+Category:1<a href="http://localhost/keyword/929%E5%B9%B4">929年</a>開業の鉄道駅<br />

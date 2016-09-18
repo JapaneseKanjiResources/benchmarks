@@ -1,0 +1,66 @@
+description<br />
+<br />
+<br />
+| image_1 = <br />
+| image_title_1 =<br />
+| inflation_rate = 13.1%<br />
+| inflation_source_date = &#39;&#39;[https://www.cia.gov/library/publications/the-world-factbook/fields/2092.html The World Factbook]&#39;&#39;, 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a><br />
+| subunit_ratio_1 = 1/100  <br />
+| subunit_name_1 = センティモ<br />
+| symbol = Kz<br />
+| frequently_used_coins = 1, 2, 5 <a href="http://localhost/keyword/%E3%82%AF%E3%83%AF%E3%83%B3%E3%82%B6">クワンザ</a><br />
+| rarely_used_coins = 10, 50 センティモ<br />
+| used_banknotes = 10, 50, 100, 200, 500, 1,000, 2,000 <a href="http://localhost/keyword/%E3%82%AF%E3%83%AF%E3%83%B3%E3%82%B6">クワンザ</a><br />
+| issuing_authority = アンゴラ国立銀行<br />
+| issuing_authority_website = <br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E3%82%AF%E3%83%AF%E3%83%B3%E3%82%B6">クワンザ</a>&#39; (, 複: ) は、1<a href="http://localhost/keyword/977%E5%B9%B4">977年</a>以降アンゴラで使用されている通貨である。略号は&#39;Kz&#39;。<br />
+<br />
+ISO 4217 コードはデノミごとに変更されており、現行の19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>以降はAOA。<br />
+<br />
+19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>以降の補助通貨単位はセンティモ (, 複: ) で、1<a href="http://localhost/keyword/%E3%82%AF%E3%83%AF%E3%83%B3%E3%82%B6">クワンザ</a> = 100センティモ 。<br />
+<br />
+<br />
+<br />
+== デノミの歴史 ==<br />
+1<a href="http://localhost/keyword/977%E5%B9%B4">977年</a>以降流通した<a href="http://localhost/keyword/%E3%82%AF%E3%83%AF%E3%83%B3%E3%82%B6">クワンザ</a>には以下の4種類がある。 <br />
+<br />
+<br />
+<br />
+== 交換率の歴史 ==<br />
+1USドルとの交換レート<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:通貨単位<br />
+Category:各国の通貨<br />
+Category:アフリカの通貨<br />
+Category:アンゴラの経済<br />

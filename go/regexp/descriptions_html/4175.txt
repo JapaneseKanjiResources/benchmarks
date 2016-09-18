@@ -1,0 +1,81 @@
+description<br />
+<br />
+|id=<br />
+|design= 跳開構造（はね橋）<br />
+|mainspan= <br />
+|length= <br />
+|width=<br />
+|clearance=<br />
+|below=  (closed)  (open)&#39;&#39;(mean high water spring tide)&#39;&#39;<br />
+|traffic=<br />
+|open= <br />
+|closed=<br />
+|toll=<br />
+|heritage =Grade I listed structure<br />
+|map_cue=<br />
+|map_image=<br />
+|map_text=<br />
+|map_width=<br />
+<br />
+|latitude= <br />
+|longitude= <br />
+}}<br />
+&#39;タワー・ブリッジ&#39; () は、イギリスのロンドン市内を流れるテムズ川に架かる跳開橋。1<a href="http://localhost/keyword/886%E5%B9%B4">886年</a>に着工、1<a href="http://localhost/keyword/894%E5%B9%B4">894年</a>に完成した。可動部分は初期の頃は蒸気機関で水をパイプに通して跳開部の端に水圧を掛けシーソーの原理を利用して開閉していた（この技術は世界で初めてこの橋が実用に供した）が、現在は電力を利用している。<br />
+<br />
+第二次世界大戦中はドイツ空軍の爆撃目標、あるいはV2ロケットなどの目標となり、1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>8月2日にV-1ロケット1発が車道部分に命中して被害を受けた。<br />
+<br />
+この橋はロンドンの観光定番スポットとなっているが、同じテムズ川のすぐ上流にある、民謡「ロンドン橋落ちた」で有名なロンドン橋であると、世界中の人からしばしば間違われている[http://vizts.com/london-bridge/london-bridge/ Visit all over the World] London Bridge[http://www.freetoursbyfoot.com/london-bridge-tower-bridge/] London Bridge vs. Tower Bridge[https://www.google.co.jp/search?q=London+bridge&amp;hl=ja&amp;biw=967&amp;bih=590&amp;site=webhp&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwiupY6zn9HLAhXKJZQKHYZEBo8Q_AUIBygC] 「London Bridge」で動画を検索した結果。<br />
+<br />
+== 経緯 ==<br />
+19世紀後半、イーストエンド・オブ・ロンドンの商業発展のためロンドン橋の下流に新たな橋が求められた。しかし、ロンドン橋とロンドン塔の間にプール・オブ・ロンドンが存在し、入港の障害となることを避けるため固定された橋の建設はできなかった。この問題を解決するため1<a href="http://localhost/keyword/876%E5%B9%B4">876年</a>に設立された委員会は、デザインの公募を行い、テムズ川を横断する方法を模索した。50以上集まった提案に対する評価の議論は長引き、1<a href="http://localhost/keyword/884%E5%B9%B4">884年</a>に都市建築家であるホーレス・ジョーンズの設計が承諾された。<br />
+<br />
+== 特徴 ==<br />
+橋の長さは244m、左右にあるゴシック様式のタワーの高さは65mあり、内部は展望通路・歴史博物館がある。タワー間の橋桁の長さは61m、上部橋の高さは44mである。塔のデザインは鉄塔を腐食から守る目的と、名前の由来ともなっている付近のロンドン塔の景観への配慮から、<a href="http://localhost/keyword/%E3%82%B3%E3%83%BC%E3%83%B3">コーン</a>ウォール産花崗岩とで覆われている。タワー上部には跳開用の水を流すパイプを通すために、跳開時用の歩道橋が設けられた。タワーの階段を上って通行できた上部橋は利用者が少なかったことから1<a href="http://localhost/keyword/910%E5%B9%B4">910年</a>に閉鎖されたが、エレベーターが設置されて1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a>に展示室として公開された。<br />
+上部橋の展示室内部<br />
+<br />
+== ギャラリー ==<br />
+<br />
+File:Girl With a Dolphin, Tower Bridge, London - geograph.org.uk - 1804004.jpg|<a href="http://localhost/keyword/%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8">タワーブリッジ</a>と『少女とイルカ』の像<br />
+File:Tower_Bridge,London_Getting_Opened_1.jpg|開橋時1<br />
+File:Tower_Bridge,London_Getting_Opened_2.jpg|開橋時2<br />
+File:Tower_Bridge,London_Getting_Opened_3.jpg|開橋時3<br />
+File:Tower_Bridge,London_Getting_Opened_4.jpg|開橋時4<br />
+File:Tower_Bridge,London_Getting_Opened_5.jpg|開橋時5<br />
+File:Tower_Bridge,London_Getting_Opened_6.jpg|開橋時6<br />
+File:Fale London 43.jpg|橋梁内部の水平式蒸気機関<br />
+<br />
+<br />
+<br />
+<br />
+== 注釈 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+*ロンドン橋<br />
+*テムズ川<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.towerbridge.org.uk/TowerBridge/Japanese/ <a href="http://localhost/keyword/%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8">タワーブリッジ</a>公式サイト] <br />
+<br />
+<br />
+|upstream text = 上流:<br />
+|downstream text = 下流:<br />
+|upstream = ロンドン橋(道路)タワー・サブウェイ(鉄道)<br />
+|downstream = テムズトンネル(鉄道)<br />
+}}<br />
+<br />
+<br />
+Category:可動橋<br />
+Category:イギリスの橋<br />
+Category:テムズ川の橋<br />
+Category:イギリスの交通<br />
+Category:ロンドンの建築物<br />
+Category:ロンドンの博物館<br />
+Category:タワーハムレッツ区<br />
+Category:サザーク区<br />
+Category:ロンドンの<a href="http://localhost/keyword/%E8%A6%B3%E5%85%89%E5%9C%B0">観光地</a><br />
+Category:第一級指定建築物<br />
+Category:19世紀の建築物<br />
+<br />
+<br />

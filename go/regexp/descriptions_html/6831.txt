@@ -1,0 +1,43 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E4%B8%B8%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93">丸ゴシック体</a>&#39;（まるゴシックたい）とはゴシック体と同様にほぼ均一な太さの点画で構成されるが、その画の両端や曲がりなどを丸めた書体である。<br />
+<br />
+== 概要 ==<br />
+角を丸める手法はラウンド処理と呼ばれ、角の両端に円形や楕円形を埋め込んだような形状のほか角ゴシック体を角丸にしたような形状のものもある（後者は「角<a href="http://localhost/keyword/%E4%B8%B8%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93">丸ゴシック体</a>」と表現される場合もある）。また「アニト」のように視認性・可読性を確保するため、あえて曲がりの内側にはラウンド処理を施していない<a href="http://localhost/keyword/%E4%B8%B8%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93">丸ゴシック体</a>も存在する。<br />
+<br />
+活字としての<a href="http://localhost/keyword/%E4%B8%B8%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93">丸ゴシック体</a>の登場は1<a href="http://localhost/keyword/900%E5%B9%B4">900年</a>ごろで、とりわけ初期は篆書のような独特の字形であった。青山進行堂や製文堂に多く見られ画の両端に丸を仕込んだような形状、線の中ほどが細くなる傾向が特徴とされる。骨格・運筆は曲線的で、曲がりにおける丸みが顕著であった。これらは第二次世界大戦を境に姿を消したため、現在の<a href="http://localhost/keyword/%E4%B8%B8%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93">丸ゴシック体</a>の源流は写研の&#39;石井中<a href="http://localhost/keyword/%E4%B8%B8%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93">丸ゴシック体</a>&#39;と考えられる。この書体では線の幅が一定になるなど、戦前の<a href="http://localhost/keyword/%E4%B8%B8%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93">丸ゴシック体</a>とは異なる特徴が見られる。<br />
+<br />
+また1<a href="http://localhost/keyword/973%E5%B9%B4">973年</a>には同社より写植用文字盤として「&#39;<a href="http://localhost/keyword/%E3%83%8A%E3%83%BC%E3%83%AB">ナール</a>&#39;」が発売された。テレビ番組のタイトルや看板文字のデザインを手がけていた中村征宏によるデザインで、詰め組みの手間を省くべく仮想ボディ目いっぱいに設計されたタイプフェイスは<a href="http://localhost/keyword/%E4%B8%B8%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93">丸ゴシック体</a>に対するイメージを刷新した。<br />
+<br />
+欧文書体においては<a href="http://localhost/keyword/%E4%B8%B8%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93">丸ゴシック体</a>に該当するものに“Rounded”があるが、日本における<a href="http://localhost/keyword/%E4%B8%B8%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93">丸ゴシック体</a>ほど普及はしていない（Helvetica Rounded、VAG roundedなど。なお、Helvetica Roundedはディック・ブ<a href="http://localhost/keyword/%E3%83%AB%E3%83%BC%E3%83%8A">ルーナ</a>作の絵本にしばしば見られる）。<br />
+<br />
+== <a href="http://localhost/keyword/%E4%B8%B8%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93">丸ゴシック体</a>に分類される書体製品概況 ==<br />
+* 第二次世界大戦以前<br />
+** <a href="http://localhost/keyword/%E4%B8%B8%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93">丸ゴシック体</a> - 秀英舎、青山進行堂など<br />
+* 以後（およその登場順）<br />
+** 写研 - 石井<a href="http://localhost/keyword/%E4%B8%B8%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93">丸ゴシック体</a>、<a href="http://localhost/keyword/%E3%83%8A%E3%83%BC%E3%83%AB">ナール</a>ファミリー<br />
+** モリサワ - じゅん、<a href="http://localhost/keyword/%E6%96%B0%E4%B8%B8%E3%82%B4">新丸ゴ</a>ファミリー<br />
+** ピー・アンド・アイ - カーサファミリー<br />
+** イワタ - イワタ<a href="http://localhost/keyword/%E4%B8%B8%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93">丸ゴシック体</a>ファミリー<br />
+** 日本活字工業 - 日活<a href="http://localhost/keyword/%E4%B8%B8%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93">丸ゴシック体</a>ファミリー<br />
+** タイプバンク - TB丸ゴシックファミリー<br />
+** モトヤ - モトヤマルベリファミリー<br />
+** リョービイマジクス（タイプバンク） - シリウスファミリー<br />
+** 日本規格協会 - 平成丸ゴシックファミリー<br />
+** フォントワークス - スーラファミリー、筑紫丸ゴシックファミリー<br />
+** タイプラボ - アニトファミリー<br />
+** SCREENホールディングス - ヒラギノ<a href="http://localhost/keyword/%E4%B8%B8%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93">丸ゴシック体</a>ファミリー<br />
+** ニィス - JTCウインRファミリー<br />
+** 大日本印刷 - 秀英丸ゴシック<br />
+<br />
+== 参考文献 ==<br />
+* 府川充男撰輯『聚珍録 - 圖説=近世・近代日本「文字-印刷」文化史』第2巻 <a href="http://localhost/keyword/%E4%B8%89%E7%9C%81%E5%A0%82">三省堂</a>、200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>。<br />
+* 『DTPWORLD別冊　デザイナーのためのフォントスタイルブック 2004』ワー<a href="http://localhost/keyword/%E3%82%AF%E3%82%B9%E3%82%B3">クスコ</a>ーポレーション、200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>。<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jiyu-kobo.co.jp/mojimaga/mm_giants/03/mm_giants03_2.html 「文字の巨人 中村征宏さん」『もじマガ』] 字游工房<br />
+* [http://www.akibatec.net/wabunfont/category/marugo.html 和文フォント大図鑑 [<a href="http://localhost/keyword/%E4%B8%B8%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93">丸ゴシック体</a>]]<br />
+<br />
+<br />
+<br />
+<br />
+Category:書体<br />

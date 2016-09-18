@@ -1,0 +1,50 @@
+description<br />
+<br />
+|駅構造     = 地上駅<br />
+|ホーム     = 1面1線<br />
+|開業年月日 = 19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>（昭和<a href="http://localhost/keyword/35%E5%B9%B4">35年</a>）2月15日<br />
+|廃止年月日 = <br />
+|乗車人員   = <br />
+|乗降人員   = <br />
+|統計年度   = <br />
+|乗換       = <br />
+|備考       = <br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E6%A8%AA%E5%B1%8B%E9%A7%85">横屋駅</a>&#39;（よこやえき）は、岐阜県瑞穂市横屋にある樽見鉄道樽見線の駅である。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を有する地上駅。仮乗降場のように簡素な作りだが、ホームはコンクリートである。駅舎はなく、ホーム上に待合所が設置されている。<br />
+<br />
+無人駅である。<br />
+<br />
+== 駅周辺 ==<br />
+*瑞穂市立南小学校<br />
+*牛牧団地<br />
+*瑞穂牛牧郵便局<br />
+*瑞穂市立牛牧小学校<br />
+*東海道本線<br />
+*国道21号<br />
+<br />
+*大垣方の約1.5km西で、揖斐川を揖斐川橋梁でわたる。<br />
+<br />
+== 歴史 ==<br />
+*19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>（昭和<a href="http://localhost/keyword/35%E5%B9%B4">35年</a>）2月15日 - 国鉄樽見線の駅として開業。<br />
+*1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>（昭和<a href="http://localhost/keyword/59%E5%B9%B4">59年</a>）10月6日 - 樽見鉄道に転換。<br />
+<br />
+== 隣の駅 ==<br />
+;樽見鉄道<br />
+:樽見線<br />
+::東大垣駅 - &#39;<a href="http://localhost/keyword/%E6%A8%AA%E5%B1%8B%E9%A7%85">横屋駅</a>&#39; - 十九条駅<br />
+<br />
+== 関連項目 ==<br />
+*日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+<br />
+Category:岐阜県の鉄道駅<br />
+こや<br />
+Category:樽見鉄道の鉄道駅<br />
+Category:日本国有鉄道の廃駅<br />
+Category:1<a href="http://localhost/keyword/956%E5%B9%B4">956年</a>開業の鉄道駅<br />
+Category:瑞穂市の交通<br />

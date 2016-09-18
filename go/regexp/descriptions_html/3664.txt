@@ -1,0 +1,43 @@
+description<br />
+<br />
+<br />
+<a href="http://localhost/keyword/%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AA%E3%83%AC%E3%83%BC">フレームリレー</a><br />
+<br />
+&#39;<a href="http://localhost/keyword/%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AA%E3%83%AC%E3%83%BC">フレームリレー</a>&#39;(FR : Frame Relay)とは、誤り訂正・再送信手順や送・受信順序制御などを簡素化し高速化をはかったパケット通信方式である。伝送路の信頼性の向上と端末の高機能化にともない19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>代にサービス開始された。<br />
+<br />
+イーサーネットをベースとした回線の普及に伴い利用者数を減らし、日本では20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>3月31日をもってサービスが終了した。<br />
+<br />
+== 特徴 ==<br />
+一般のパケット通信と比べ、次のような利点がある。<br />
+*高速な通信が可能。<br />
+*コストが安い。<br />
+<br />
+欠点としては、次の点があげられる。<br />
+*信頼性の高い伝送装置や伝送路が必要である。<br />
+*誤り訂正・再送信手順や送・受信順序制御などが端末装置に必要である。<br />
+<br />
+== 関連項目 ==<br />
+* 仮想回線<br />
+* 統計多重化<br />
+* X.25<br />
+* Layer 2 Tunneling Protocol<br />
+* Asynchronous Transfer Mode<br />
+* 網・網インタフェース<br />
+* VoIP<br />
+* イントラネット<br />
+* ルーター<br />
+* 交換機<br />
+* フレーム (ネットワーク) - OSI参照モデルのデータリンク層における基本的な伝送単位。<br />
+* Frame Check Sequence（FCS） - フレーム<a href="http://localhost/keyword/%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF">チェック</a>シーケンス<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 外部リンク ==<br />
+*[http://www.ntt.com/fr/index.html NTTコミュニケーションズホームページ]<br />
+*[http://www.softbanktelecom.co.jp/business/frame_relay/detail.html SoftBank Telecom ホームページ]<br />
+<br />
+<br />
+<br />
+<br />
+Category:通信プロトコル<br />

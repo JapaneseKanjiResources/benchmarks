@@ -1,0 +1,20 @@
+description<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E3%83%93%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%88%E3%82%AD%E3%83%B3%E3%82%BD%E3%83%B3">ビル・アトキンソン</a>&#39;(Bill Atkinson,1<a href="http://localhost/keyword/951%E5%B9%B4">951年</a>-月-日 - )は自然写真家でソフトウェアエンジニア。アップルコンピュータのLisaとMacintoshプロジェクトにおける代表的な開発者の1人。ジェフ・ラスキンの教え子で、QuickDraw、HyperCard、MacPaintなどの開発者として知られる。Apple II時代にはUCSDPascalのアップル版なども担当した。<br />
+<br />
+アップルコンピュータを退社後、Magic Capというエージェント技術を中心としたOSの開発会社であるGeneral Magic社をマーク・ポラット、アンディ・ハーツフェルドらと共に創業し、普及させようとしたがうまくいかず、後に同社は解散した。<br />
+<br />
+現在は自然写真家。しかし、その傍ら自らの写真を一般的な四色分解の印刷機を用いて高品質で印刷するためのカラーマネジメントパイプラインの開発・普及を行う傍ら、iPhone用のアプリケーション（Bill Atkinson PhotoCard）の開発も行っている。<br />
+<br />
+== 著書 == <br />
+*<br />
+<br />
+==外部リンク==<br />
+*[http://www.billatkinson.com/ BILL ATKINSON PHOTOGRAPHY]<br />
+<br />
+<br />
+Category:アップルコンピュータの人物<br />
+Category:アメリカ合衆国の技術者<br />
+Category:コンピュータ関連人物<br />
+Category:プログラマ<br />
+Category:存命人物<br />

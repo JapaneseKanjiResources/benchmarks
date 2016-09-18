@@ -1,0 +1,48 @@
+description<br />
+<br />
+<br />
+<br />
+<br />
+| 赤緯 = <br />
+| 視線速度 = 赤経: -14.7 ± 0.8 ミリ秒/年赤緯: 2.0 ± 0.8 ミリ秒/年<br />
+| 固有運動 =<br />
+| 年周視差 =<br />
+| 距離 = 6300 光年<br />
+| 赤方偏移 =<br />
+| 絶対等級 =<br />
+}}<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E3%81%8B%E3%81%AB%E3%83%91%E3%83%AB%E3%82%B5%E3%83%BC">かにパルサー</a>&#39;(Crab Pulsar)は、かに星雲の中心部にある中性子星である。<br />
+<br />
+== 概要 ==<br />
+<a href="http://localhost/keyword/%E3%81%8B%E3%81%AB%E3%83%91%E3%83%AB%E3%82%B5%E3%83%BC">かにパルサー</a>は、<a href="http://localhost/keyword/1054%E5%B9%B4">1054年</a>に観測された超新星「SN 1054」で誕生した中性子星である。1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>に発見され、超新星残骸であるかに星雲との関連性が初めて確認された中性子星である。<br />
+<br />
+<a href="http://localhost/keyword/%E3%81%8B%E3%81%AB%E3%83%91%E3%83%AB%E3%82%B5%E3%83%BC">かにパルサー</a>は33ミリ秒で自転しているパルサーであり、1秒間に約30回転している。この周期で電波からガンマ線にいたるあらゆる波長の電磁波を放出しており、かに星雲を可視光で明るく照らしている。膨大なエネルギーを放出しているので、<a href="http://localhost/keyword/%E3%81%8B%E3%81%AB%E3%83%91%E3%83%AB%E3%82%B5%E3%83%BC">かにパルサー</a>は1日に38ナノ秒ずつ自転が遅くなっている。<br />
+<br />
+非常に強いX線を放出しており、X線天文学において時間のキャリブレーションに使われる。<a href="http://localhost/keyword/%E3%81%8B%E3%81%AB%E3%83%91%E3%83%AB%E3%82%B5%E3%83%BC">かにパルサー</a>を示す「クラブ(crab)」と「ミリクラブ(millicrab)」は、天体のエネルギーフラックスの単位として使われる。1ミリクラブは2.4×10-14W/m2である。<br />
+<br />
+1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>に、天文学者のカーティス・ミシェルは、<a href="http://localhost/keyword/%E3%81%8B%E3%81%AB%E3%83%91%E3%83%AB%E3%82%B5%E3%83%BC">かにパルサー</a>の特定のパターンを説明するために惑星の存在を仮定した。仮説上の惑星は、質量が地球質量の3.28倍以上、パルサーから0.3AU離れている。<br />
+<br />
+== 出典 ==<br />
+* [http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=PSR+B0531%2B21 SIMBAD]<br />
+<br />
+== 関連項目 ==<br />
+* かに星雲<br />
+* SN 1054<br />
+* 中性子星<br />
+* パルサー<br />
+[[ケンブリッジ大学の800nmの波長で撮影した<a href="http://localhost/keyword/%E3%81%8B%E3%81%AB%E3%83%91%E3%83%AB%E3%82%B5%E3%83%BC">かにパルサー</a>のパルス。]]<br />
+チャンドラのX線画像。]]<br />
+<br />
+<br />
+Category:中性子星<br />
+Category:パルサー<br />
+Category:おうし座<br />
+Category:<a href="http://localhost/keyword/1054%E5%B9%B4">1054年</a><br />
+Category:天文学<br />
+Category:天文学に関する記事<br />
+Category:1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>発見の天体<br />

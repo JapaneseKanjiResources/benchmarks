@@ -1,0 +1,82 @@
+description<br />
+ オデッサ（現・ウクライナ領）<br />
+| death_date = <br />
+| death_place =  コロラド州ボルダー<br />
+| residence =<br />
+| nationality = <br />
+| field = 理論物理学天体物理学<br />
+| work_institution = ケンブリッジ大学ジョージ・ワシントン大学コロラド大学<br />
+| alma_mater = レニングラード大学<br />
+| doctoral_advisor =<br />
+| doctoral_students =<br />
+| known_for = ガイガー・ヌッタルの法則を理論的に説明α-β-γ理論の提唱宇宙背景放射の存在を予言理論物理の啓蒙書の執筆<br />
+| prizes =<br />
+| religion =<br />
+| footnotes =<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%83%BB%E3%82%AC%E3%83%A2%E3%83%95">ジョージ・ガモフ</a>&#39;（George Gamow, , , ゲオルギー・アントノヴィッチ・ガモフ, 1<a href="http://localhost/keyword/904%E5%B9%B4">904年</a>3月4日 - 1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>8月19日）は、ロシア帝国領オデッサ（現在はウクライナ領）生まれのアメリカの<a href="http://localhost/keyword/%E7%90%86%E8%AB%96%E7%89%A9%E7%90%86%E5%AD%A6%E8%80%85">理論物理学者</a>。アレクサンドル・フリードマンの弟子。<br />
+<br />
+== 生涯・業績 ==<br />
+1<a href="http://localhost/keyword/928%E5%B9%B4">928年</a>、レニングラード大学を卒業後、ケンブリッジ大学へ移籍。<br />
+<br />
+1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>、ジョージ・ワシントン大学教授に就任。のちコロラド大学に移る。<br />
+<br />
+1<a href="http://localhost/keyword/928%E5%B9%B4">928年</a>に、放射性<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E6%A0%B8">原子核</a>のアルファ崩壊に初めて量子論を応用し、それが<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E6%A0%B8">原子核</a>の周りのポテンシャル壁を アルファ粒子がトンネル効果で透過する現象であるとの理論をたてて、それまで実験的に知られていたガイガー・ヌッタルの法則を導いた。<br />
+<br />
+また1<a href="http://localhost/keyword/948%E5%B9%B4">948年</a>に、ラルフ・アルファー、ハンス・ベーテとの共同論文で、宇宙の核反応段階に関する理論、いわゆる「アルファ・ベータ・ガンマ理論(&#39;α-β-γ理論&#39;)」を発表した。このうちベーテは、実際にはこの研究に全く絡んでいないが、ガモフが「βにあたる人が入れば語呂がいい」と考えて彼を共著者として引きずり込んだものである。この理論はのちに林忠四郎によってその中の一部の誤りが指摘されたデービッド・アボット編、小尾信彌監訳 『世界科学者事典 3 天文学者』 原書房、1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>3月15日、134頁 - <a href="http://localhost/keyword/135">135</a>頁二間瀬敏史「天文学の20世紀 第10回 <a href="http://localhost/keyword/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%83%BB%E3%82%AC%E3%83%A2%E3%83%95">ジョージ・ガモフ</a>」『星ナビ』20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>3月号、KADOKAWA、47頁、50-51頁。二間瀬敏史「天文学の20世紀 第17回 林忠四郎」『星ナビ』20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>10月号、KADOKAWA、49頁。。林によって誤りを訂正した後は林の名を入れて「&#39;α-β-γ-林の理論&#39;」と呼ばれることもある[http://www.civic.ninohe.iwate.jp/100W/02/017/page2.htm 日本の科学者・技術者100人　物理　林忠四郎　主要な業績の説明]二間瀬敏史「天文学の20世紀 第10回 <a href="http://localhost/keyword/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%83%BB%E3%82%AC%E3%83%A2%E3%83%95">ジョージ・ガモフ</a>」『星ナビ』20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>3月号、KADOKAWA、50-51頁。。また林以外にもα-β-γ理論に対する幾つかの誤りの指摘もあった。<br />
+<br />
+また同年、α-β-γ理論を元にして「火の玉宇宙」というアイディアを発表し、ジョルジュ・ルメートルの提唱したビッグバン宇宙論を支持。宇宙背景放射の存在を予言した。彼の予想値は5Kであったが、測定の困難さから、実際にこれを検出する努力はなされなかった。<br />
+<br />
+当時の科学界ではビッグバン理論と定常宇宙論とが対立する構図になっていたが、1<a href="http://localhost/keyword/965%E5%B9%B4">965年</a>に偶然に約3Kの宇宙背景放射が発見され、一躍その優位が確定的になり、現在では標準的な宇宙理論として受け入れられている。<br />
+<br />
+一般向けに難解な物理理論を解りやすく解説する啓蒙書（『不思議の国のトムキンス』など）を多く著している。ガモフは1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>に急死するまでコロラド大学で教鞭を執ると共に著作を続けた。同大学の物理学科の塔にはガモフの名が付けられている。 <br />
+<br />
+1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>、ピー・プロダクション制作のTV特撮番組『宇宙猿人ゴリ（スペクトルマン）』の主人公ヒーロー「蒲生譲二（がもう・じょうじ）」は、ガモフの名をもじってうしおそうじが付けたもの『スペクトルマンVSライオン丸 うしおそうじとピープロの時代』（太田出版）。<br />
+<br />
+== 著作リスト ==<br />
+=== ガモフ全集 ===<br />
+# 不思議の国のトムキンス<br />
+# 太陽の誕生と死<br />
+# 地球の伝記<br />
+# 原子の国のトムキンス<br />
+# 原子力の話<br />
+# 宇宙の創造<br />
+# 生命の国のトムキンス<br />
+# 月<br />
+# 物理の伝記<br />
+# 続・太陽の誕生と死 <br />
+# トムキンス最後の冒険<br />
+# わが世界線 ＝ ガモフ自伝<br />
+<br />
+=== G・ガモフコレクション ===<br />
+# トムキンスの冒険<br />
+# 太陽と月と地球と<br />
+# 宇宙＝1、2、3…無限大<br />
+# 物理学の探検<br />
+<br />
+* 不思議宇宙のトムキンス（<a href="http://localhost/keyword/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%83%BB%E3%82%AC%E3%83%A2%E3%83%95">ジョージ・ガモフ</a>　ラッセル・スタナード著）<br />
+* 数は魔術師 <br />
+* 現代物理科学の世界（上・下）<br />
+<br />
+== 参考文献 ==<br />
+* 二間瀬敏史「天文学の20世紀 第10回 <a href="http://localhost/keyword/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%83%BB%E3%82%AC%E3%83%A2%E3%83%95">ジョージ・ガモフ</a>」『星ナビ』20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>3月号、KADOKAWA、46-51頁。<br />
+* 二間瀬敏史「天文学の20世紀 第17回 林忠四郎」『星ナビ』20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>10月号、KADOKAWA、48-52頁。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:ロシアの物理学者<br />
+Category:宇宙学者<br />
+Category:サイエンスライター<br />
+Category:コロラド大学の教員<br />
+Category:ジョージ・ワシントン大学の教員<br />
+Category:ヨッフェ物理学技術研究所の人物<br />
+Category:ヘルソン県出身の人物<br />
+Category:オデッサ出身の人物<br />
+Category:1<a href="http://localhost/keyword/904%E5%B9%B4">904年</a>生<br />
+Category:1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>没<br />
+Category:天文学に関する記事<br />

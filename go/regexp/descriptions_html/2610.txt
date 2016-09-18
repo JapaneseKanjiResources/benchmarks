@@ -1,0 +1,33 @@
+description<br />
+<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E5%B8%82%E8%A1%97%E5%8C%96%E5%8C%BA%E5%9F%9F">市街化区域</a>&#39;（しがいかくいき）は<a href="http://localhost/keyword/%E9%83%BD%E5%B8%82%E8%A8%88%E7%94%BB%E6%B3%95">都市計画法</a>（第7条以下）に基づき指定される、<a href="http://localhost/keyword/%E9%83%BD%E5%B8%82%E8%A8%88%E7%94%BB%E5%8C%BA%E5%9F%9F">都市計画区域</a>における区域区分（線引き）のひとつ。<br />
+<br />
+== 概要 ==<br />
+<a href="http://localhost/keyword/%E9%83%BD%E5%B8%82%E8%A8%88%E7%94%BB%E6%B3%95">都市計画法</a>の定義としては、「&#39;すでに市街地を形成している区域及びおおむね<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>以内に優先的かつ計画的に市街化を図るべき区域&#39;」とされる<a href="http://localhost/keyword/%E9%83%BD%E5%B8%82%E8%A8%88%E7%94%BB%E6%B3%95">都市計画法</a>第7条第2項。。<br />
+<br />
+<a href="http://localhost/keyword/%E9%83%BD%E5%B8%82%E8%A8%88%E7%94%BB%E5%8C%BA%E5%9F%9F">都市計画区域</a>として指定された区域のうち、既に市街地になっている区域や公共施設を整備したり面的な整備を行うことにより積極的に整備・開発を行っていく区域として区分される。市街化調整区域と対をなす。<a href="http://localhost/keyword/%E5%B8%82%E8%A1%97%E5%8C%96%E5%8C%BA%E5%9F%9F">市街化区域</a>に指定されている面積は1,447,771ヘクタールであり、日本の国土の約3.8%を占めている（20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>3月31日時点）「」『[http://www.mlit.go.jp/toshi/tosiko/H25genkyo.html 都市計画現況調査 平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>調査結果]』国土交通省。<br />
+<br />
+都道府県は、<a href="http://localhost/keyword/%E9%83%BD%E5%B8%82%E8%A8%88%E7%94%BB%E5%8C%BA%E5%9F%9F">都市計画区域</a>について、都市計画に<a href="http://localhost/keyword/%E5%B8%82%E8%A1%97%E5%8C%96%E5%8C%BA%E5%9F%9F">市街化区域</a>と市街化調整区域との区分を定めることができるが、政令指定都市には区域区分を定めなければならない。<br />
+<br />
+<a href="http://localhost/keyword/%E5%B8%82%E8%A1%97%E5%8C%96%E5%8C%BA%E5%9F%9F">市街化区域</a>では、さらにその利用目的に応じて、建築可能な建物が制限される。まず、少なくとも用途地域を定め、土地利用の内容を規制する。また補助的地域地区を定めて地域の特色に合わせた制限を掛ける。これらの規制によって、良好な都市環境の市街地の形成を目指す。 <br />
+<br />
+== <a href="http://localhost/keyword/%E5%B8%82%E8%A1%97%E5%8C%96%E5%8C%BA%E5%9F%9F">市街化区域</a>の特則 ==<br />
+* 1,000平方メートル以上の規模の開発行為を行おうとする者は、原則として都道府県知事から開発許可を受けなければならない<a href="http://localhost/keyword/%E9%83%BD%E5%B8%82%E8%A8%88%E7%94%BB%E6%B3%95">都市計画法</a>第29条、<a href="http://localhost/keyword/%E9%83%BD%E5%B8%82%E8%A8%88%E7%94%BB%E6%B3%95">都市計画法</a>施行令第19条。。<a href="http://localhost/keyword/%E9%83%BD%E5%B8%82%E8%A8%88%E7%94%BB%E6%B3%95">都市計画法</a>では、農林漁業用建築物を建築する目的の開発行為は許可不要としているが、<a href="http://localhost/keyword/%E5%B8%82%E8%A1%97%E5%8C%96%E5%8C%BA%E5%9F%9F">市街化区域</a>はこの許可不要規定の対象外である<a href="http://localhost/keyword/%E9%83%BD%E5%B8%82%E8%A8%88%E7%94%BB%E6%B3%95">都市計画法</a>第29条。。<br />
+* 建築物を新築や増改築移転（防火地域及び準防火地域外において増改築移転部分の床面積が10平方メートル以内のものを除く）をしようとする者は、特定行政庁または指定確認検査機関に申請して<a href="http://localhost/keyword/%E5%BB%BA%E7%AF%89%E7%A2%BA%E8%AA%8D">建築確認</a>を受けなければならない（<a href="http://localhost/keyword/%E5%B8%82%E8%A1%97%E5%8C%96%E5%8C%BA%E5%9F%9F">市街化区域</a>・市街化調整区域共通）建築基準法第6条、第6条の2。。<br />
+* 2,000平方メートル以上の土地取引については、国土利用計画法に基づく届出を行わなければならない国土利用計画法第23条。。<br />
+* 農地法による農地転用・転用目的権利移動について、都道府県知事・農林水産大臣の許可は必要なく、<a href="http://localhost/keyword/%E8%BE%B2%E6%A5%AD%E5%A7%94%E5%93%A1%E4%BC%9A">農業委員会</a>への事前の届出で行うことができる農地法第4条、第5条。。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* <a href="http://localhost/keyword/%E9%83%BD%E5%B8%82%E8%A8%88%E7%94%BB%E5%8C%BA%E5%9F%9F">都市計画区域</a>の一覧<br />
+* 都市計画用語<br />
+<br />
+<br />
+Category:<a href="http://localhost/keyword/%E9%83%BD%E5%B8%82%E8%A8%88%E7%94%BB%E6%B3%95">都市計画法</a><br />
+category:日本の都市計画<br />
+category:日本の地域<br />
+Category:日本の行政区画<br />

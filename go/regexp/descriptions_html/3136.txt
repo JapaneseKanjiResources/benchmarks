@@ -1,0 +1,69 @@
+description<br />
+<br />
+<br />
+|<a href="http://localhost/keyword/%E9%83%B5%E4%BE%BF%E7%95%AA%E5%8F%B7">郵便番号</a>=690-0821<br />
+|本社所在地 = 島根県松江市上東川津町1238番地<br />
+|設立 = 1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>10月28日<br />
+|業種 = 5050<br />
+|統一金融機関コード = <br />
+|SWIFTコード = <br />
+|事業内容 = タクシー事業、乗合バス事業、貸切バス事業<br />
+|代表者 = 代表取締役会長　大谷厚郎代表取締役社長　清井悦郎<br />
+|<a href="http://localhost/keyword/%E8%B3%87%E6%9C%AC%E9%87%91">資本金</a> = 3,000万円<br />
+|売上高 = <br />
+|総資産 = <br />
+|従業員数 = <br />
+|決算期 = 毎年3月<br />
+|主要株主 = 一畑電気鉄道 100%<br />
+|主要子会社 = <br />
+|関係する人物 = <br />
+|外部リンク = http://www.ichibata.co.jp/taxi-matsue/<br />
+|特記事項 = <br />
+}}<br />
+空港リムジンバス<br />
+&#39;<a href="http://localhost/keyword/%E6%9D%BE%E6%B1%9F%E4%B8%80%E7%95%91%E4%BA%A4%E9%80%9A">松江一畑交通</a>株式会社&#39;（まつえいちばたこうつう、&#39;&#39;Matsue Ichibata Kotsu Co.,Ltd.&#39;&#39;）は、タクシー・バスを運行する一畑グループの事業者。<br />
+<br />
+==歴史==<br />
+*1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>10月28日 - 一畑電気鉄道のタクシー部門を分社し、松江一畑タクシーとして設立。<br />
+*1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>12月 - 一畑電気鉄道からタクシー事業を譲り受け営業開始。<br />
+*19<a href="http://localhost/keyword/76%E5%B9%B4">76年</a>10月 - 貸切バス事業を開始。<br />
+*19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>12月 - 乗合バス事業を開始。<br />
+*200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>2月1日 - 社名を<a href="http://localhost/keyword/%E6%9D%BE%E6%B1%9F%E4%B8%80%E7%95%91%E4%BA%A4%E9%80%9A">松江一畑交通</a>に改称。<br />
+*200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>4月1日 - 一畑電気鉄道の持株会社移行に伴い、貸切バス事業を譲り受ける。<br />
+<br />
+==営業所（車庫）の所在地==<br />
+*本社 - タクシー・バス<br />
+**島根県松江市上東川津町1238番地<br />
+*古志原営業所 - タクシー<br />
+**島根県松江市古志原6丁目19番20号<br />
+<br />
+==路線==<br />
+===空港リムジンバス===<br />
+詳細な運行案内は#外部リンクの<a href="http://localhost/keyword/%E6%9D%BE%E6%B1%9F%E4%B8%80%E7%95%91%E4%BA%A4%E9%80%9A">松江一畑交通</a>サイトを参照のこと。<br />
+*松江 - 出雲空港線<br />
+**松江しんじ湖温泉駅 - 出雲空港（出雲縁結び空港）<br />
+**単独運行<br />
+*松江 - 米子空港線<br />
+**松江駅 - 米子空港（米子鬼太郎空港）<br />
+**共同運行：日ノ丸ハイヤー<br />
+<br />
+==関連会社==<br />
+*一畑電気鉄道（持株会社）<br />
+*一畑電車<br />
+*一畑バス<br />
+*出雲一畑交通<br />
+*隠岐一畑交通<br />
+*奥出雲交通（第三セクター、奥出雲町が96%、一畑電気鉄道が4%を出資）<br />
+*双葉タクシー<br />
+*ミツワタクシー<br />
+<br />
+==外部リンク==<br />
+*[http://www.ichibata.co.jp/taxi-matsue/ <a href="http://localhost/keyword/%E6%9D%BE%E6%B1%9F%E4%B8%80%E7%95%91%E4%BA%A4%E9%80%9A">松江一畑交通</a>]<br />
+<br />
+<br />
+Category:中国地方の乗合バス事業者<br />
+Category:中国地方の貸切バス事業者<br />
+Category:日本のタクシー事業者<br />
+社まつえいちはたこうつう<br />
+Category:松江市の企業<br />
+Category:島根県の交通<br />

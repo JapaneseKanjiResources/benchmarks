@@ -1,0 +1,52 @@
+description<br />
+<br />
+|緯度度=34|緯度分=20|緯度秒=26.63<br />
+|経度度=132|経度分=19|経度秒=11.73<br />
+|駅構造     = 地上駅<br />
+|ホーム     = 相対式2面2線<br />
+|開業年月日 = 19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>（大正<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）7月15日<br />
+|廃止年月日 = <br />
+|乗車人員   = <br />
+|乗降人員   = 1,087<br />
+|統計年度   = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|乗換       = <br />
+|備考       = <br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E5%9C%B0%E5%BE%A1%E5%89%8D%E9%A7%85">地御前駅</a>&#39;（じごぜんえき）は、広島県廿日市市地御前五丁目にある広島電鉄宮島線の駅である。<br />
+<br />
+== 駅構造 ==<br />
+相対式2面2線のホームを持ち、西広島方面ホームの宮島方と宮島方面ホームの西広島方の間に踏切がある。<br />
+<br />
+== 駅周辺 ==<br />
+駅東側の国道2号を越えると程なくして瀬戸内海に出る。この付近ではカキ養殖が盛んで、たくさんのカキいかだが見られる。西側は閑静な住宅街が広がる。<br />
+* 国道2号<br />
+* 地御前漁港<br />
+* 地御前神社（厳島の戦いでの毛利氏の拠点）<br />
+<br />
+== 利用状況 ==<br />
+<br />
+<br />
+<br />
+== 歴史 == <br />
+* 19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>（大正<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）7月15日 - 開業。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月6日 - 踏切を挟んで下りホームを宮島口寄り、上りホームを西広島寄りに移設し使用開始。<br />
+<br />
+== 隣の駅 ==<br />
+; 広島電鉄<br />
+: 宮島線<br />
+:: JA広島病院前駅 (M35) - &#39;<a href="http://localhost/keyword/%E5%9C%B0%E5%BE%A1%E5%89%8D%E9%A7%85">地御前駅</a> (M36)&#39; - 阿品東駅 (<a href="http://localhost/keyword/M37">M37</a>)<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+<br />
+こせん<br />
+Category:広島電鉄の鉄道駅<br />
+Category:廿日市市の鉄道駅<br />
+Category:19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>開業の鉄道駅<br />

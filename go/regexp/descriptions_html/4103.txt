@@ -1,0 +1,32 @@
+description<br />
+<br />
+| ChemSpiderID = 17215762<br />
+| InChI = 1/C13H9N3O5.Na/c17-12-6-3-9(7-11(12)13(18)19)15-14-8-1-4-10(5-2-8)16(20)21;/h1-7,17H,(H,18,19);/q;+1/p-1/b15-14+;<br />
+| InChIKey = HXKKTXMJSVFQSL-QUIZLSBABP<br />
+| StdInChI_Ref = <br />
+| StdInChI = 1S/C13H9N3O5.Na/c17-12-6-3-9(7-11(12)13(18)19)15-14-8-1-4-10(5-2-8)16(20)21;/h1-7,17H,(H,18,19);/q;+1/p-1/b15-14+;<br />
+| StdInChIKey_Ref = <br />
+| StdInChIKey = HXKKTXMJSVFQSL-WPDLWGESSA-M<br />
+| CASNo_Ref = <br />
+| CASNo = 1718-34-9<br />
+|   CASOther = &amp;nbsp;(Na salt)2243-76-7 (acid)<br />
+|   SM<a href="http://localhost/keyword/ILE">ILE</a>S = [Na+].O=C([O-])c1cc(ccc1O)/N=N/c2ccc(cc2)[N+]([O-])=O<br />
+}}<br />
+| Section2 = <br />
+| Section3 = <br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E3%82%A2%E3%83%AA%E3%82%B6%E3%83%AA%E3%83%B3%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BCR">アリザリンイエローR</a>&#39;（Alizarine Yellow R）は、黄色のアゾ染料で、ジアゾ<a href="http://localhost/keyword/%E3%82%AB%E3%83%83%E3%83%97">カップ</a>リングで合成される。通常はナ<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>塩として生ずる。純粋なものは赤褐色の固体http://msds.chem.ox.ac.uk/AL/alizarin_yellow_R.html。酸塩基指示薬として用いられる。<br />
+<br />
+<br />
+<br />
+== 出典 ==<br />
+<br />
+<br />
+<br />
+Category:酸塩基指示薬<br />
+Category:アゾ化合物<br />
+Category:ニトロベンゼン<br />
+Category:ナ<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>の化合物<br />
+Category:サリチル酸<br />
+Category:アゾ染料<br />

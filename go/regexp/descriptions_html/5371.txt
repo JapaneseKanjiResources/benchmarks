@@ -1,0 +1,74 @@
+description<br />
+<br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>（大正<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）12月7日<br />
+|廃止年月日 =<br />
+|乗車人員 =<br />
+|統計年度 =<br />
+|乗換 =<br />
+|備考 = 無人駅<br />
+}}<br />
+1<a href="http://localhost/keyword/978%E5%B9%B4">978年</a>の<a href="http://localhost/keyword/%E7%AF%80%E5%A9%A6%E9%A7%85">節婦駅</a>と周囲約500m範囲。右下が静内方面。島式ホーム1面2線であったが、既に駅舎側は静内方が撤去されて駅舎手前までが残されている。また貨物ホームへの引込み線もあったが、そちらも撤去されている。駅裏の<a href="http://localhost/keyword/%E3%83%A4%E3%83%BC%E3%83%89">ヤード</a>には木材が野積みされているが、当線は利用されていない。<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E7%AF%80%E5%A9%A6%E9%A7%85">節婦駅</a>&#39;（せっぷえき）は、北海道（日高振興局）新冠郡新冠町字節婦町にある北海道旅客鉄道（JR北海道）日高本線の駅である。電報略号は&#39;セフ&#39;。<br />
+<br />
+== 歴史 == <br />
+* 1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>（大正<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）12月7日 - &#39;日高拓殖鉄道&#39;厚賀駅 - 静内駅間延伸開通に伴い開業。一般駅。<br />
+* 1<a href="http://localhost/keyword/927%E5%B9%B4">927年</a>（昭和<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）8月1日 - 日高拓殖鉄道が国有化により国有鉄道に移管。線路名を&#39;日高線&#39;に改称、それに伴い同線の駅となる。<br />
+* 1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a>（昭和<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）11月1日 - 線路名を&#39;日高本線&#39;に改称、それに伴い同線の駅となる。<br />
+* 1<a href="http://localhost/keyword/977%E5%B9%B4">977年</a>（昭和<a href="http://localhost/keyword/52%E5%B9%B4">52年</a>）2月1日 - 貨物・荷物取扱い廃止。同時に無人化書籍『無人駅探訪』（監修：西崎さいき、文芸社、20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>6月発行）150ページより。。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）<br />
+** 4月1日 - 国鉄分割民営化によりJR北海道に継承。<br />
+** 月日不詳 - 貨車駅舎に改築書籍『JR・私鉄全線各駅停車1 北海道630駅』（小学館、19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>6月発行）102ページより。。<br />
+<br />
+== 駅構造 ==<br />
+島式ホーム片面使用の1面1線を有する地上駅。ホームは線路の南西側（様似方面に向かって右手側）に存在する。転轍機を持たない棒線駅となっている書籍『JR・私鉄全線各駅停車1 北海道630駅』（小学館、19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>6月発行）102ページより。。かつては島式ホーム1面2線を有する列車交換可能な交換駅であった。使われなくなった駅舎側の1線は交換設備運用廃止後も苫小牧方の転轍機と構内踏切手前までのレールが維持された状態で側線として残っていた（但し1<a href="http://localhost/keyword/983%E5%B9%B4">983年</a>（昭和<a href="http://localhost/keyword/58%E5%B9%B4">58年</a>）4月時点では転轍機の先、ホームに至る間の部分に車止めが設置されていた書籍『国鉄全線各駅停車1 北海道690駅』（小学館、1<a href="http://localhost/keyword/983%E5%B9%B4">983年</a>7月発行）102ページより。）が、19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>（平成<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）3月までには撤去された。ホーム前後の線路は転轍機の名残で湾曲していた。<br />
+<br />
+無人駅となっている。駅舎は構内の南西側に位置しホームに接している。有人駅時代の駅舎は改築され、車掌車改造の貨車駅舎を経て新築のログハウス風の建物に建て替えられ、駅舎の位置も現在の場所に移動している。<br />
+<br />
+先代の貨車駅舎は高級ブランドの「ティファニー」を想起させる淡緑色に塗られていた書籍『ダルマ駅へ行こう!』（著：笹田昌宏、小学館文庫、200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>5月発行）<a href="http://localhost/keyword/110">110</a>-111ページより。。駅舎の前には花壇が設置されていた書籍『北海道鉄道駅大図鑑』（著：本久公洋、北海道新聞社、200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>8月発行）349ページより。。またトイレは工事現場用の仮設便所となっていた。<br />
+<br />
+当線が日高三石駅までしか開業していなかった当時、ほとんどの列車がこの駅で交換した。<br />
+<br />
+File:<a href="http://localhost/keyword/%E7%AF%80%E5%A9%A6%E9%A7%85">節婦駅</a>駅舎.jpg|旧駅舎（200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>4月）<br />
+<br />
+<br />
+== 駅名の由来 ==<br />
+当駅の所在する地名より。地名は、アイヌ語の「ポロ・セプ・ペッ」（親である広い川）書籍『北海道の駅878ものがたり 駅名のルーツ探究』（監修：太田幸夫、富士コンテム、200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>2月発行）101ページより。、或いは「ホロ・セップ・ペッ」（大きな黄色い川の中）、また単に「セプ」（広い所）書籍『ミニブックシリーズ 北海道駅名』（発行出版社、発行年月日不明（19<a href="http://localhost/keyword/80%E5%B9%B4">80年</a>代））20ページより。など、由来には諸説ある。<br />
+<br />
+== 利用状況 ==<br />
+* 1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a>度（昭和<a href="http://localhost/keyword/56%E5%B9%B4">56年</a>度）の1日乗降客数は43人。<br />
+* 1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a>度（平成<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>度）の1日乗降客数は50人。<br />
+<br />
+== 駅周辺 ==<br />
+* 国道235号<br />
+* 静内警察署節婦駐在所<br />
+* 節婦郵便局<br />
+* ひだか漁業協同組合新冠支所<br />
+* 日高軽種馬育成センター<br />
+* 新冠町立節婦小学校<br />
+* 道南バス「節婦」停留所<br />
+<br />
+== 隣の駅 ==<br />
+; 北海道旅客鉄道<br />
+: 日高本線<br />
+:: 大狩部駅 - &#39;<a href="http://localhost/keyword/%E7%AF%80%E5%A9%A6%E9%A7%85">節婦駅</a>&#39; - 新冠駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+<br />
+Category:北海道の鉄道駅<br />
+つふ<br />
+Category:北海道旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:日高拓殖鉄道<br />
+Category:日高本線<br />
+Category:新冠町<br />
+Category:1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>開業の鉄道駅<br />

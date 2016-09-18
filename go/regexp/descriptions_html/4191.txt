@@ -1,0 +1,66 @@
+description<br />
+<br />
+|廃止年月日 = <br />
+|乗車人員   = 187<br />
+|乗降人員   = <br />
+|統計年度   = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|乗換       = <br />
+|備考       = 無人駅<br />
+}}<br />
+ホーム（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>7月15日）<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E5%8C%97%E6%B0%B4%E6%B5%B7%E9%81%93%E9%A7%85">北水海道駅</a>&#39;（きたみつかいどうえき）は、茨城県常総市相野谷町にある関東鉄道常総線の駅。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/972%E5%B9%B4">972年</a>（昭和<a href="http://localhost/keyword/47%E5%B9%B4">47年</a>）3月15日 - 森下土地区画整理事業に伴い、区画整理地内に開業。<br />
+* 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>（平成<a href="http://localhost/keyword/21%E5%B9%B4">21年</a>）3月14日 - ICカードPASMO供用開始。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を有する地上駅で、無人駅である。PASMO簡易改札機設置。駅出入口は車椅子対応。<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>度の一日平均乗車人員は198人である常総市統計書より。近年の一日平均乗車人員の推移は下記のとおり。当駅周辺はより停車本数の多い1駅隣の水海道駅の駅勢圏にも含まれており、なおかつ水海道市街地にも程近いこともあって利用は少ない。<br />
+<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+駅周辺は東西ともに住宅街となっている。駅西側（駅舎側）は、19<a href="http://localhost/keyword/69%E5%B9%B4">69年</a>（昭和<a href="http://localhost/keyword/44%E5%B9%B4">44年</a>）から1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>（昭和<a href="http://localhost/keyword/45%E5%B9%B4">45年</a>）にかけて「森下土地区画整理事業」により造成された住宅街となっており広報みつかいどう No.172（昭和<a href="http://localhost/keyword/45%E5%B9%B4">45年</a>4月10日発行）、それに併せて区画整理地内に新設された経緯から、駅舎・広場共に西側に存在する。<br />
+<br />
+商店は駅から少し離れたところに点在しており、ロードサイド型が多い。毎年8月に行われる「常総きぬ川花火大会」の会場（鬼怒川河川敷）は当駅が最寄りとなっており、普段は利用の少ない当駅も開催時間前後は観客で賑わう[http://vcamera.hobby-web.net/hanabi/323031332FBEEFC1EDA4ADA4CCC0EEB2D6B2D0C2E7B2F1.html 2013/常総きぬ川花火大会]。一方で停車本数の多い1駅隣の水海道駅の利用も多い。<br />
+<br />
+* 水海道さくら病院<br />
+* 常総保健所<br />
+* 常総市立水海道中学校<br />
+* 茨城県立水海道第二高等学校<br />
+* <a href="http://localhost/keyword/%E3%82%B3%E3%82%B3%E3%82%B9">ココス</a>水海道店<br />
+* ビバホーム<br />
+* うおまつ<br />
+* セブン-イレブン<br />
+<br />
+== 隣の駅 ==<br />
+; 関東鉄道<br />
+: 常総線<br />
+:: 快速<br />
+::: &#39;通過&#39;<br />
+:: 普通<br />
+::: 水海道駅 - &#39;<a href="http://localhost/keyword/%E5%8C%97%E6%B0%B4%E6%B5%B7%E9%81%93%E9%A7%85">北水海道駅</a>&#39; - 中妻駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://kantetsu.co.jp/train/station_kitamitsukaido.html <a href="http://localhost/keyword/%E5%8C%97%E6%B0%B4%E6%B5%B7%E9%81%93%E9%A7%85">北水海道駅</a> | 駅案内] - 関東鉄道<br />
+<br />
+<br />
+<br />
+<br />
+Category:茨城県の鉄道駅<br />
+たみつかいとう<br />
+Category:関東鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/972%E5%B9%B4">972年</a>開業の鉄道駅<br />
+きたみつかいとうえき<br />

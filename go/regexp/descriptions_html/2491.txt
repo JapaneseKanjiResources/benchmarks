@@ -1,0 +1,91 @@
+description<br />
+<br />
+|所属事業者 = 20px 東葉高速鉄道<br />
+|所属路線   = TR 東葉高速線<br />
+|キロ程     = 13.8<br />
+|起点駅     = 西船橋<br />
+|所在地     = 千葉県八千代市ゆりのき台一丁目38番<br />
+| 緯度度 = 35 | 緯度分 = 43 | 緯度秒 = 40.6 | N(北緯)及びS(南緯) = N<br />
+| 経度度 = 140 |経度分 = 6 | 経度秒 = 12.3 | E(東経)及びW(西経) = E<br />
+| 地図国コード = JP<br />
+|駅構造     = 高架駅<br />
+|ホーム     = 2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a>（平成<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）4月27日<br />
+|廃止年月日 = <br />
+|乗車人員   = 11,035<br />
+|乗降人員   = <br />
+|統計年度   = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|乗換       = <br />
+|備考       = <br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E5%85%AB%E5%8D%83%E4%BB%A3%E4%B8%AD%E5%A4%AE%E9%A7%85">八千代中央駅</a>&#39;（やちよちゅうおうえき）は、千葉県八千代市ゆりのき台一丁目にある、東葉高速鉄道東葉高速線の駅である。駅番号は&#39;TR07&#39;。<br />
+<br />
+== 歴史 ==<br />
+計画当初は、八千代駅という仮称であった。<br />
+* 1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a>（平成<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）4月27日 - 開業。<br />
+* 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>（平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）10月1日 - エレベーターの供用開始。<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）10月10日 - ホーム待合室の供用開始。<br />
+* 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>（平成<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）9月30日 - PASMO・Suica専用改札機導入。<br />
+<br />
+== 駅構造 ==<br />
+相対式ホーム2面2線を持つ高架駅。改札階から各ホームへは階段が2か所、エスカレーター・エレベーターが各1基設置されている。ホーム上に待合室が設置されている。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>度の一日平均乗車人員は11,035人である千葉県統計年鑑（運輸・通信） 民鉄等駅別1日平均運輸状況。<br />
+<br />
+== 駅周辺 ==<br />
+<br />
+=== 周辺住宅地 ===<br />
+南部は古くからの萱田町の住宅地、大和田新田の小規模マンションが広がる。北部はゆりのき台の新興住宅地や大規模マンション、ゆりのき台団地などがあり対照的である。<br />
+=== 主な施設 ===<br />
+<br />
+* 八千代市役所<br />
+* 八千代警察署<br />
+* 八千代郵便局<br />
+** ゆうちょ銀行 八千代店<br />
+* 八千代市市民会館<br />
+* 八千代総合公園<br />
+** 八千代市市民体育館<br />
+* 萱田地区公園<br />
+* マツモトキヨシ 八千代中央店<br />
+* マルエツ <a href="http://localhost/keyword/%E5%85%AB%E5%8D%83%E4%BB%A3%E4%B8%AD%E5%A4%AE%E9%A7%85">八千代中央駅</a>前店<br />
+* 八千代市立萱田小学校<br />
+* 八千代市立萱田南小学校<br />
+* 八千代市立萱田中学校<br />
+* 八千代市総合生涯学習プラザ<br />
+* 東京女子医科大学八千代医療センター<br />
+<br />
+== バス路線 ==<br />
+=== 路線バス ===<br />
+駅前ロータリーに路線バスが乗り入れている。停留所名は「<a href="http://localhost/keyword/%E5%85%AB%E5%8D%83%E4%BB%A3%E4%B8%AD%E5%A4%AE%E9%A7%85">八千代中央駅</a>」である。古くは京成電鉄直営時代の京成バスも運行されていた。<br />
+* 東洋バス<br />
+<br />
+<br />
+== 隣の駅 ==<br />
+;  20px 東葉高速鉄道<br />
+: TR 東葉高速線<br />
+:: 快速・通勤快速・各駅停車（通勤快速は中野方面のみ運転）<br />
+::: 八千代緑が丘駅 (TR06) - &#39;<a href="http://localhost/keyword/%E5%85%AB%E5%8D%83%E4%BB%A3%E4%B8%AD%E5%A4%AE%E9%A7%85">八千代中央駅</a> (TR07)&#39; - 村上駅 (TR08)<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.toyokosoku.co.jp/station/yachiyochuou 東葉高速鉄道 <a href="http://localhost/keyword/%E5%85%AB%E5%8D%83%E4%BB%A3%E4%B8%AD%E5%A4%AE%E9%A7%85">八千代中央駅</a>]<br />
+<br />
+<br />
+<br />
+Category:千葉県の鉄道駅<br />
+ちよちゆうおう<br />
+Category:東葉高速鉄道<br />
+Category:1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a>開業の鉄道駅<br />
+やちよちゆうおうえき<br />

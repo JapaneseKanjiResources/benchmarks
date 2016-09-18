@@ -1,0 +1,84 @@
+description<br />
+<br />
+|所属事業者 = 21px 福岡市交通局<br />
+|所属路線 = 18px 箱崎線<br />
+|キロ程 = 3.7km（中洲川端起点）姪浜から11.8<br />
+|起点駅 =<br />
+|所在地 = 福岡市東区箱崎三丁目<br />
+|座標 = <br />
+|駅構造 = 地下駅<br />
+|ホーム = 1面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/986%E5%B9%B4">986年</a>（昭和<a href="http://localhost/keyword/61%E5%B9%B4">61年</a>）1月31日<br />
+|廃止年月日 =<br />
+|乗車人員 = 3,664<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換 =<br />
+|備考 =<br />
+}}<br />
+福岡市地下鉄箱崎線<a href="http://localhost/keyword/%E7%AE%B1%E5%B4%8E%E4%B9%9D%E5%A4%A7%E5%89%8D%E9%A7%85">箱崎九大前駅</a><br />
+&#39;<a href="http://localhost/keyword/%E7%AE%B1%E5%B4%8E%E4%B9%9D%E5%A4%A7%E5%89%8D%E9%A7%85">箱崎九大前駅</a>&#39;（はこざききゅうだいまええき）は、福岡県福岡市東区箱崎三丁目にある福岡市地下鉄箱崎線の駅。旧西鉄福岡市内線（正式には宮地岳線）の箱崎<a href="http://localhost/keyword/%E6%9D%BE%E5%8E%9F%E9%A7%85">松原駅</a>の直下に位置する。駅番号は&#39;H06&#39;。<br />
+<br />
+<br />
+駅のシンボルマークは福岡市出身のグラフィックデザイナー、西島伊三雄がデザインしたもので、駅周辺の千代の松原で、枝を九大に因んだ「九」の字に見立てている。<br />
+<br />
+== 歴史 ==<br />
+*1<a href="http://localhost/keyword/983%E5%B9%B4">983年</a>（昭和<a href="http://localhost/keyword/58%E5%B9%B4">58年</a>）9月12日 - 駅名決定。<br />
+*1<a href="http://localhost/keyword/986%E5%B9%B4">986年</a>（昭和<a href="http://localhost/keyword/61%E5%B9%B4">61年</a>）<br />
+**1月31日 - 馬出九大病院前 - 当駅間の延伸に伴い開業。<br />
+**11月12日 - 貝塚駅までの延伸に伴い途中駅となる。<br />
+<br />
+== 駅構造 ==<br />
+地下2階に島式ホーム1面2線を持つ地下駅である。<br />
+<br />
+; のりば<br />
+<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度の1日平均乗車人員は&#39;3,664人&#39;である[http://subway.city.fukuoka.lg.jp/subway/management/transport.php 経営状況 運輸実績 1日平均駅別乗車人員] - 福岡市交通局。<br />
+<br />
+近年の1日平均乗車人員の推移は下表のとおりである。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+駅名の由来である九州大学は、箱崎からの移転を決めている。<br />
+<br />
+*九州大学（箱崎キャンパス）<br />
+*恵泉幼稚園<br />
+*松原保育園<br />
+*Cybac箱崎店<br />
+*箱崎松原郵便局<br />
+*ドン・キホーテ楽市街道箱崎店<br />
+*スシロー福岡箱崎店<br />
+*都市高速箱崎IC<br />
+*米一丸の塔<br />
+*法務局箱崎出張所<br />
+*<a href="http://localhost/keyword/%E7%AE%B1%E5%B4%8E%E9%A7%85">箱崎駅</a> - JR九州鹿児島本線<br />
+*史跡元寇防塁(筥松)<br />
+<br />
+== その他 ==<br />
+*仮称は「九大西門駅」であったが、九州大学に「西門」と名乗る門は存在せず、また、旧電停の名称である「箱崎松原」ただし、西鉄バスのバス停や[http://map.japanpost.jp/pc/syousai.php?id=300174534000 箱崎松原郵便局]など、20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>現在も「箱崎松原」を名乗るものは存在し続けているも松原が消滅した現在にはそぐわないことから、検討の結果「九大前」バス停からかなり離れていることもあって「箱崎九大前」とした。<br />
+*当駅を含め、福岡市地下鉄各駅から西鉄貝塚線への連絡<a href="http://localhost/keyword/%E4%B9%97%E8%BB%8A%E5%88%B8">乗車券</a>が発売されているが、当駅は隣が西鉄貝塚線との連絡駅である貝塚駅であるため、連絡<a href="http://localhost/keyword/%E4%B9%97%E8%BB%8A%E5%88%B8">乗車券</a>を購入するより当駅 - 貝塚間を「おとなりきっぷ」として購入し、貝塚駅で改めて西鉄の<a href="http://localhost/keyword/%E4%B9%97%E8%BB%8A%E5%88%B8">乗車券</a>を購入したほうが安くなる（貝塚駅では地下鉄と西鉄の改札が別にあり、連絡<a href="http://localhost/keyword/%E4%B9%97%E8%BB%8A%E5%88%B8">乗車券</a>を持っていても両者の改札を通る必要がある）。<br />
+<br />
+== 隣の駅 ==<br />
+;21px 福岡市交通局<br />
+:18px 箱崎線<br />
+::箱崎宮前駅 (H05) - &#39;<a href="http://localhost/keyword/%E7%AE%B1%E5%B4%8E%E4%B9%9D%E5%A4%A7%E5%89%8D%E9%A7%85">箱崎九大前駅</a> (H06)&#39; - 貝塚駅 (H07)<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+*日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+*[http://subway.city.fukuoka.lg.jp/eki/stations/hakozakikyudai.php 福岡市地下鉄 <a href="http://localhost/keyword/%E7%AE%B1%E5%B4%8E%E4%B9%9D%E5%A4%A7%E5%89%8D%E9%A7%85">箱崎九大前駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+Category:福岡市東区の鉄道駅<br />
+こさききゆうたいまえ<br />
+Category:福岡市交通局の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/986%E5%B9%B4">986年</a>開業の鉄道駅<br />

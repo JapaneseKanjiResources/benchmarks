@@ -1,0 +1,11 @@
+description<br />
+&#39;<a href="http://localhost/keyword/Ratfor">Ratfor</a>&#39; (&#39;&#39;RATional FORtran&#39;&#39;) は、FORTRANをC言語風に拡張したプログラミング言語。19<a href="http://localhost/keyword/76%E5%B9%B4">76年</a>に、「Software Tools」（Brian W. Kernighan, P. J. Plauger 著。邦訳は『ソフトウェア作法』木村泉訳、共立出版、1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a>） で発表された。<a href="http://localhost/keyword/Ratfor">Ratfor</a>は<a href="http://localhost/keyword/Ratfor">Ratfor</a>で記述されている。<br />
+<br />
+FORTRAN用のプリプロセッサとして実装されている。<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://sepwww.stanford.edu/doku.php?id=sep:software:ratfor <a href="http://localhost/keyword/Ratfor">Ratfor</a>]<br />
+<br />
+<br />
+RATFOR<br />

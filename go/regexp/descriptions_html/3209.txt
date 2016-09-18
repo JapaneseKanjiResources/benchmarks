@@ -1,0 +1,60 @@
+description<br />
+<br />
+<br />
+<br />
+| プログラミング言語 =<br />
+| 対応OS = Windows 98以降<br />
+| エンジン =<br />
+| 対応プラットフォーム = IA-32<br />
+| サイズ = 6351.3KB （フルセット版）<br />
+| 対応言語 =<br />
+| サポート状況 = 開発中<br />
+| 種別 = デスクトップマスコット<br />
+| ライセンス = フリーウェア<br />
+| 公式サイト = [http://ssp.shillest.net/ ばぐとら研究所]<br />
+|frequently updated = yes<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/SSP">SSP</a>&#39;はWindowsで動作する伺かのベースウェア（互換アプリケーション）である。2001年2月9日にDOIchan!が開発表明し、同年2月21日にデモバージョン(Phase 00.01)が公開された。一旦、200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>4月15日にDOIchan!が開発撤退を宣言して配布を終了するが、その翌日に保守・開発をChameleon Ponapalt（ぽな@ばぐとらまたはC.Ponapaltととも）が引き継ぎ、20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>現在も継続されている。また、韓国語版言語パックや中国語版も存在する。<br />
+<br />
+== 概要 ==<br />
+<a href="http://localhost/keyword/SSP">SSP</a>本体に同梱されるデフォルトGhostは「Emily/Phase4.5」(制作はEmily/Phase4 Project)。先代までのデフォルトGhost「エミリ」(DOIchan!とWSPlusの両者により製作されていたが、後にエミリ開発チームに引き継がれる）は現在同梱こそされていないものの、単体での入手が可能である。<br />
+<br />
+動作環境がWindows 98以降となっていることから、Internet Explorer 4.0以上がインストールされたWindows 95/NT 4.0でもある程度動作する可能性はあるが、サポート対象外となる。<br />
+<br />
+当初は&#39;SAKURA Script Player&#39;という名称だったが、2001年4月22日公開のVersion 1.0 beta 0.01から、略称である&#39;<a href="http://localhost/keyword/SSP">SSP</a>&#39;が正式名称となった。Chameleon Ponapaltに管理が移ってから<a href="http://localhost/keyword/SSP">SSP</a>は何の略か問われたときに<a href="http://localhost/keyword/SSP">SSP</a>は何の略でもなくただ<a href="http://localhost/keyword/SSP">SSP</a>であると答えている。また、冗談として&#39;Sima Sima Panchu&#39;という表記が配布元などで使われる事があるがあくまで冗談である。<br />
+<br />
+MATERIA（本家ベースウェア）の開発が停止しているのに対して現在でも開発・サポートが継続されており、プログラムの完成度が高いこと、Surface<a href="http://localhost/keyword/%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF">チェック</a>、スクリプトログ、エラー<a href="http://localhost/keyword/%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF">チェック</a>等のGhost開発において有効な機能が充実していること、&#39;「MATERIAで動作するGhostが<a href="http://localhost/keyword/SSP">SSP</a>で動作しないならば、それは<a href="http://localhost/keyword/SSP">SSP</a>のバグだ」&#39;と開発者が公言する程の互換性を誇る事などから徐々に利用者が増えつつあり、<a href="http://localhost/keyword/SSP">SSP</a>での動作を推奨するGhostも多く、<a href="http://localhost/keyword/SSP">SSP</a>のみの動作を前提としたGhostも見受けられる。ちなみに、DAEの開発開始当初は<a href="http://localhost/keyword/SSP">SSP</a>との互換を前提として開発が進められていた。<br />
+<br />
+== 特徴 ==<br />
+*動作が軽快でスクリプトなどを忠実に再生<br />
+*1プロセスで複数のGhostを起動出来る<br />
+*:MATERIAでは実行ファイルやGhostデータなどを丸ごと複数用意し、その複数用意したものを同時起動しなければ実現できない<br />
+*カレンダー機能<br />
+*Shellの倍率設定機能<br />
+*:マイナスや横(X)と縦(Y)を別々に設定可能<br />
+*発言時のみ手前に出てきて発言後奥に移動する機能<br />
+*バルーン位置を移動・設定<br />
+*Ghost以外のShell・バルーン・ヘッドラインセンサ・プラグインのネットワーク更新に対応<br />
+*タッチパネルに対応(2.2.46以降)<br />
+*:Windows 7およびマルチタッチの環境のみ<br />
+*SSF(SakuraScriptFile)に対応(2.01.08以降)<br />
+*:Ghostで寸劇を簡単に行わせる規格、SAKURA Scriptが記述された拡張子ssfのテキストファイルを寸劇させたいGhostにD&amp;Dする事で実現する。条件分岐などは想定されていない。<br />
+*旧仕様のサポート<br />
+*:何か。（仮）のphase &#34;inverse&#34;で使用されていたGhost・Shell仕様のサポート<br />
+*互換性を考慮して策定された独自の規格<br />
+*その他、独自の機能<br />
+<br />
+== 関連項目 ==<br />
+*伺か<br />
+*C.R.O.W.<br />
+*DAE<br />
+<br />
+== 外部リンク ==<br />
+*[http://ssp.shillest.net/ ばぐとら研究所]<br />
+*[http://d.hatena.ne.jp/ponapalt/ ばぐとらぶごる]（Chameleon Ponapaltのブログ）<br />
+*[http://ukadoc.googlecode.com/svn/trunk/manual/index.html UKADOC project]（<a href="http://localhost/keyword/SSP">SSP</a>公式仕様文書）<br />
+<br />
+<br />
+<br />
+Category:伺か<br />
+Category:フリーウェア<br />

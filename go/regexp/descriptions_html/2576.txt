@@ -1,0 +1,69 @@
+description<br />
+<br />
+|所属事業者 = 四国旅客鉄道（JR四国）<br />
+|所属路線 = 予讃線<br />
+|キロ程 = 36.5<br />
+|起点駅 = 高松<br />
+|所在地幅 = long<br />
+|所在地 = 香川県仲多度郡多度津町大字西白方字川向<br />
+| 緯度度 = 34|緯度分 = 15|緯度秒 = 14.16<br />
+| 経度度 = 133|経度分 = 43|経度秒 = 45.51<br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/913%E5%B9%B4">913年</a>（大正<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）10月20日<br />
+|廃止年月日 =<br />
+|乗車人員 = 70<br />
+|乗降人員 = <br />
+|統計年度 = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換 =<br />
+|備考 = 無人駅<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E6%B5%B7%E5%B2%B8%E5%AF%BA%E9%A7%85">海岸寺駅</a>&#39;（かいがんじえき）は、香川県仲多度郡多度津町西白方にある四国旅客鉄道（JR四国）予讃線の駅。駅番号は&#39;Y13&#39;。<br />
+<br />
+==駅構造==<br />
+島式ホーム1面2線を有する地上駅。線路の使用方法は1番線が上下本線（制限速度100km/h）、2番線が上下副本線（一線スルー）となっている。跨線橋があり、交換列車が無いときは列車種別に関係なく1番線に入線する。<br />
+ <br />
+<br />
+高松駅に自動改札が導入されたのに合わせて、自動券売機が設置された。200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>（平成<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）5月末日までは簡易委託駅であり、駅近くの商店で、観音寺方面は伊予寒川まで、多度津方面は土讃線阿波池田、徳島線阿波加茂、高徳線八栗口までの<a href="http://localhost/keyword/%E4%B9%97%E8%BB%8A%E5%88%B8">乗車券</a>を販売していた。<br />
+<br />
+==駅周辺==<br />
+*海岸寺（四国別格二十霊場18番）<br />
+*海岸寺海水浴場<br />
+*香川県<a href="http://localhost/keyword/%E8%BE%B2%E6%A5%AD%E5%8D%94%E5%90%8C%E7%B5%84%E5%90%88">農業協同組合</a>白方支店<br />
+*海岸寺郵便局<br />
+<br />
+== 利用状況 ==<br />
+1日平均の乗車人員は以下の通り。<br />
+<br />
+<br />
+<br />
+<br />
+==沿革==<br />
+*1<a href="http://localhost/keyword/913%E5%B9%B4">913年</a>（大正<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）10月20日 - 開業。<br />
+*19<a href="http://localhost/keyword/69%E5%B9%B4">69年</a>（昭和<a href="http://localhost/keyword/44%E5%B9%B4">44年</a>）10月1日 - 配達の取扱を廃止。<br />
+*1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>（昭和<a href="http://localhost/keyword/46%E5%B9%B4">46年</a>）11月8日 - 無人駅化（簡易委託駅化）。日本国有鉄道公示S46.11.6公436<br />
+*1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により四国旅客鉄道が承継。<br />
+*200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>（平成<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）6月1日 - 簡易委託による<a href="http://localhost/keyword/%E4%B9%97%E8%BB%8A%E5%88%B8">乗車券</a>発売を終了。<br />
+<br />
+==隣の駅==<br />
+;四国旅客鉄道<br />
+:予讃線<br />
+::多度津駅 (Y12) - &#39;<a href="http://localhost/keyword/%E6%B5%B7%E5%B2%B8%E5%AF%BA%E9%A7%85">海岸寺駅</a> (Y13)&#39; - （津島ノ宮駅） - 詫間駅 (Y14)<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+==関連項目==<br />
+*日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+<br />
+Category:香川県の鉄道駅<br />
+いかんし<br />
+Category:四国旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:多度津町<br />
+Category:1<a href="http://localhost/keyword/913%E5%B9%B4">913年</a>開業の鉄道駅<br />
+Category:予讃線<br />

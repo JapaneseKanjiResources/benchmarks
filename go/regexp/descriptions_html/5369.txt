@@ -1,0 +1,90 @@
+description<br />
+  | <br />
+  Location      = スペイン カタルーニャ州 バルセロナ県 ムンマロー<br />
+| Time          = GMT +1 <br />
+| Coordinates   = <br />
+| Image         = 307px<br />
+| Image_caption = メインストレートのグランドスタンド<br />
+<br />
+| Events        = F1, MotoGP, GP2, スペインGT, DTM <br />
+| Layout1       = 293px <br />
+| Length_km     = 4.655 <br />
+| Length_mi     = 2.875 <br />
+| Turns         = 16 <br />
+| Record_time   = 1:21.670 <br />
+| Record_driver =  キミ・ライコネン<br />
+| Record_team   = フェラーリ <br />
+| Record_year   = 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a><br />
+|Layout2        = 293px<br />
+|Surface2       = アスファルト<br />
+|Length_km2     = 4.727[http://resources.motogp.com/files/results/2013/CAT/CircuitInformation.pdf?v3_42dadf65] - motogp.com Circuit information: Circuit de Catalunya(2013)<br />
+|Length_mi2     = 2.937<br />
+|Turns2         = 13（左コーナー：8／右コーナー：5）<br />
+|Banking2       =<br />
+|Record_time2   = 1:40.546<br />
+|Record_driver2 =  アレイシ・エスパルガロ<br />
+|Record_team2   = Team SUZUKI ECSTAR<br />
+|Record_year2   = 2015<br />
+|Record_class2  = MotoGP<br />
+}}<br />
+&#39;&#39;正式名称はカタルーニャ語の シルクーイト・ダ・バルサローナ＝カタルーニャ。日本では英語由来の<a href="http://localhost/keyword/%E3%82%AB%E3%82%BF%E3%83%AD%E3%83%8B%E3%82%A2%E3%83%BB%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%83%E3%83%88">カタロニア・サーキット</a>の名称が既に定着している。（ シルクーイト・ダ・バルサローナ＝カタルーニャ ）は、スペインカタルーニャ州バルセロナの北部のにあるサーキットである。<br />
+<br />
+コースは開催<a href="http://localhost/keyword/%E3%83%AC%E3%83%BC%E3%82%B9">レース</a>によって異なったレイアウトを使用するため、F1では全長4,655m、ロード<a href="http://localhost/keyword/%E3%83%AC%E3%83%BC%E3%82%B9">レース</a>世界選手権(MotoGP)では全長4,727mである。<br />
+<br />
+==概要==<br />
+1<a href="http://localhost/keyword/991%E5%B9%B4">991年</a>に開業し、国内外の各種<a href="http://localhost/keyword/%E3%83%AC%E3%83%BC%E3%82%B9">レース</a>カテゴリに利用されている。1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a>に開催されたバルセロナオリンピックでは、自転車競技チームタイムトライアルの会場にもなった。低速から高速までバランスの取れたコースレイアウトと、温暖で安定した気候から、テストコースとしても多用されている。<br />
+<br />
+F1ではヘレス・サーキットに代わって1<a href="http://localhost/keyword/991%E5%B9%B4">991年</a>からスペイングランプリの舞台となり、1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a>以降はヨーロッパラウンドの序盤戦に開催されている。走行データが豊富で、マシンの総合性能が結果に表れることから、以後のシーズンの趨勢を占うことができる。2000年代以降は、スペイン出身のフェルナンド・アロンソを応援するファン（アロンソマニア）がスタンドを賑わす光景が見られる。<br />
+<br />
+ロード<a href="http://localhost/keyword/%E3%83%AC%E3%83%BC%E3%82%B9">レース</a>世界選手権（MotoGP）では、ヘレス・サーキットで行われるスペインGPが存在していたため、1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a>から1<a href="http://localhost/keyword/995%E5%B9%B4">995年</a>まで&#39;ヨーロッパグランプリ&#39;として開催され、1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a>以降は&#39;カタルーニャGP&#39;とされている。<br />
+<br />
+2輪<a href="http://localhost/keyword/%E3%83%AC%E3%83%BC%E3%82%B9">レース</a>ではコース各所でオーバーテイクシーンが見られるが、4輪<a href="http://localhost/keyword/%E3%83%AC%E3%83%BC%E3%82%B9">レース</a>ではコース幅の狭さもあり、抜きどころの少ないレイアウトとなっている。そのためコース上で順位変動が見られないことが多く、F1スペインGPでは2001年から<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>連続でポールシッターがそのまま優勝している。<br />
+<br />
+== コースレイアウト ==<br />
+上空からの空撮写真（20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）<br />
+ホームストレートは約1kmの長さがあり、1コーナーに向けて下り勾配となっている。1コーナー「エルフ」への侵入ではスタート直後に多重接触事故が起こりやすい。続く右の高速ロングコーナー「ルノー」では強い横Gが発生する。180度コーナーの「レプソル」から「セアト」ヘアピンで減速し、緩い左<a href="http://localhost/keyword/%E3%82%AB%E3%83%BC%E3%83%96">カーブ</a>を下り、「ウルト」を切り返すと再び上り勾配になる。<br />
+<br />
+コース中盤の高速コーナー「カンプサ」は風の影響でマシンの姿勢が乱れやすい。その先には「ニッサン」シケインがあったが、1<a href="http://localhost/keyword/994%E5%B9%B4">994年</a>スペインGPの際に、サンマリノGPでのアイルトン・セナらの死亡事故を受け、グランプリ・ドライバーズ・アソシエーション (G<a href="http://localhost/keyword/PDA">PDA</a>) から危険だと指摘され、急遽ニッサンシケイン手前を追い越し禁止とし、タイヤバリアでつくった別のシケインを設置して<a href="http://localhost/keyword/%E3%83%AC%E3%83%BC%E3%82%B9">レース</a>を実施することとなった。翌1<a href="http://localhost/keyword/995%E5%B9%B4">995年</a>からはカンプサのRをタイトにし、ニッサンシケインを廃止してバックストレートを1本にした。<br />
+<br />
+バックストレートエンドには左・右に廻り込む2連ヘアピンがある。1つ目の「ラ・カイシャ」は200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>に進入部分が手前になり、短い直線を挟んだ複合コーナーになった。ヘアピンに続く2つの高速コーナーを抜けてホームストレートに戻るレイアウトだったが、200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>より13コーナー「ユーロップカー」を鋭角にカットし、最終コーナー手前に減速用のシケインが追加された。<br />
+<br />
+=== MotoGP開催時のレイアウト ===<br />
+10コーナーの「ラ・カイシャ」は、200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>に増設された10コーナー（ヘアピン<a href="http://localhost/keyword/%E3%82%AB%E3%83%BC%E3%83%96">カーブ</a>）〜11コーナーを使用せずに、奥側にある複合コーナーを使用する。<br />
+<br />
+200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>に増設されたシケイン（13コーナーの「ユーロップカー」と14〜15コーナーの「シケインRACC」）は使用せずに、増設前から使用されている12コーナー「ユーロップカー」を使用する。<br />
+<br />
+== データ ==<br />
+*所在地：スペインカタルーニャ州バルセロナ県モントメロ<br />
+*全長：4.466km<br />
+*コーナー数：16<br />
+*主なイベント：F1、MotoGP<br />
+<br />
+== レコード ==<br />
+;F1<br />
+:*コースレコード - 1&#39;19.995(マーク・ウェバー、レッドブル、20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>)<br />
+:*ラップレコード - 1&#39;21.670(キミ・ライコネン、フェラーリ、200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>)<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+*モータースポーツ<br />
+*サーキットの一覧<br />
+*F1サーキットの一覧<br />
+*Forza Motorsport 3 - Xbox 360のレーシング・ゲーム。コースが登場する。<br />
+*Forza Motorsport 4 - 同上。 <br />
+*Forza Motorsport 5 - Xbox One対応。コースが収録されている。<br />
+<br />
+== 外部リンク ==<br />
+<br />
+*[http://www.circuitcat.com Circuit de Catalunya]（カタルーニャ語、スペイン語、フランス語、英語）<br />
+<br />
+<br />
+<br />
+Category:スペインのサーキット<br />
+Category:F1サーキット<br />
+Category:スペイングランプリ<br />
+さきと<br />
+Category:1<a href="http://localhost/keyword/991%E5%B9%B4">991年</a>竣工の建築物<br />
+Category:1<a href="http://localhost/keyword/991%E5%B9%B4">991年</a>設立<br />
+<br />

@@ -1,0 +1,57 @@
+description<br />
+<br />
+|駅構造 = 高架駅<br />
+|ホーム = 2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>（昭和<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>）1月9日<br />
+|廃止年月日 =<br />
+|乗車人員 =<br />
+|乗降人員 = 1,969<br />
+|統計年度 = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|乗換 =<br />
+|備考 =<br />
+}}<br />
+<br />
+プラットホーム<br />
+<br />
+&#39;城野駅&#39;（じょうのえき）は、福岡県北九州市小倉南区富士見三丁目にある北九州高速鉄道（北九州モノレール）小倉線の駅。<br />
+<br />
+== 駅構造 ==<br />
+相対式2面2線のホームを持つ高架駅である。<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>度の1日平均乗降人員は1,969人であり、これはモノレール線の駅の中で最も少ない[http://www.nishitetsu-media.com/traffic/train/ 西鉄メディア]。<br />
+<br />
+== 駅周辺 ==<br />
+* JR城野駅 - <a href="http://localhost/keyword/%E6%97%A5%E8%B1%8A%E6%9C%AC%E7%B7%9A">日豊本線</a>・<a href="http://localhost/keyword/%E6%97%A5%E7%94%B0%E5%BD%A6%E5%B1%B1%E7%B7%9A">日田彦山線</a> ※当駅からは徒歩で約15分程度（約800m）かかる。<br />
+* 福岡県立小倉商業高等学校<br />
+* 福岡県立小倉南高等学校<br />
+* 北九州市立城南中学校<br />
+* 北九州市立城野小学校<br />
+* ダイエー城野店<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>（昭和<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>）1月9日 - 開業。<br />
+<br />
+== 隣の駅 ==<br />
+; 北九州高速鉄道<br />
+: ■小倉線<br />
+:: <a href="http://localhost/keyword/%E7%89%87%E9%87%8E%E9%A7%85">片野駅</a> - &#39;城野駅&#39; - 北方駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+* 日本の同一駅名・同一市町村で所在地が異なる駅の一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.kitakyushu-monorail.co.jp/route/jouno.html 北九州モノレール 城野駅]<br />
+<br />
+<br />
+<br />
+<br />
+しようの_ものれえる<br />
+ようの<br />
+Category:北九州高速鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>開業の鉄道駅<br />

@@ -1,0 +1,277 @@
+description<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%A6%E4%BA%88%E6%83%B3">ヴェイユ予想</a>&#39;(Weil conjectures)は、有限体上の代数多様体の上にある点を数えることから導出される（合同ゼータ函数として知られる）母函数についての、非常に広い範囲に影響のある提案で、によりなされた。<br />
+<br />
+q 個の元を持つ有限体上の多様体 V は、qk 個の元を持つ全ての有限体の点と同様に、有限個の有理点を持っている。母函数は、qk の元を持つ(本質的には一意的な）体上の数 Nk から導出される係数を持っている。<br />
+<br />
+ヴェイユは、そのような&#39;ゼータ函数&#39;は有理函数であり、函数等式の形を満たし、ゼロ点が限られた中にあるはずであることを予想した。最後の 2つの点はリーマンゼータ函数やリーマン予想でモデル化されたものと非常によく似ている。有理性はにより証明され、函数等式はにより証明され、リーマン予想の類似はにより証明された。<br />
+&#39;&#39;k&#39;&#39; elements containing that field. The generating function has coefficients derived from the numbers &#39;&#39;N&#39;&#39;k&#39;&#39; of points over the (essentially unique) field with &#39;&#39;q&#39;&#39;k&#39;&#39; elements.<br />
+<br />
+Weil conjectured that such &#39;&#39;zeta-functions&#39;&#39; should be rational functions, should satisfy a form of functional equation, and should have their zeroes in restricted places. The last two parts were quite consciously modeled on the Riemann zeta function and Riemann hypothesis.<br />
+The rationality was proved by , the functional equation by , and the analogue of the Riemann hypothesis was  proved by --&gt;<br />
+<br />
+==背景と歴史==<br />
+<a href="http://localhost/keyword/%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%A6%E4%BA%88%E6%83%B3">ヴェイユ予想</a>に関連する最も早い段階の予想は、カール・フリードリヒ・ガウス(Carl Friedrich Gauss)によるもので、彼の著書 &#39;&#39;Disquisitiones Arithmeticae&#39;&#39; のセクション VII に現れていて、1のべき根と(Gaussian period)に関連している。論文の 358 では、二次拡大の塔の構成である周期から正多角形を構成へと変更し、p は  が 3 で割り切れるような素数を前提としていた。従って、1のべき根で p 番目の根の円分体に含まれる(Cyclic cubic field)と、この体の整数の周期の(normal integral basis)が存在する（(Hilbert–Speiser theorem)の例）ことになる。ガウスの構成したものは、位数 3 の周期であり、乗法の下で mod p の 0 ではない剰余の作る巡回群 (&#39;Z&#39;/p&#39;Z&#39;)&amp;times; が唯一存在し、指数 3 の部分群に対応する。ガウスは、\\mathfrak{R}, \\mathfrak{R}&#39;, \\mathfrak{R}&#39;&#39; をコセットとして、これらのコセットに対応する周期（1のべき根の和）をとることを exp(2&amp;pi;i/p) へ適用し、これらの周期が計算可能な乗法テーブルを持つことを注意した。ガウスは積が周期の線型結合であることを示し、結合の係数を決定した。例えば、(\\mathfrak{R}\\mathfrak{R}) は、\\mathfrak{R} の中の &#39;Z&#39;/p&#39;Z&#39; の元の数に等しく、一つ増やすと再び \\mathfrak{R} の中にある。彼はこの数が周期の積の係数であることを証明した。これらの集合と<a href="http://localhost/keyword/%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%A6%E4%BA%88%E6%83%B3">ヴェイユ予想</a>の関係を知るためには、α と  が両方とも \\mathfrak{R} に属せば、x と y が &#39;Z&#39;/p&#39;Z&#39; の中に存在し、x3 = &amp;alpha; と y3 = &amp;alpha; + 1 となり、結局、x3 + 1 = y3 となることに注意すると、(\\mathfrak{R}\\mathfrak{R}) が、有限体 &#39;Z&#39;/p&#39;Z&#39; での x3 + 1 = y3 の解の個数となる。他の係数も同様な解釈を持つ。従って、周期の積の係数を決定したことは、<a href="http://localhost/keyword/%E6%A5%95%E5%86%86%E6%9B%B2%E7%B7%9A">楕円曲線</a>上の点の数を数え上げたこととなり、副産物としてリーマン予想の類似を証明したこととなる。<br />
+&amp;times; of non-zero residues modulo &#39;&#39;p&#39;&#39; under multiplication and its unique subgroup of index three. Gauss lets \\mathfrak{R}, \\mathfrak{R}&#39;, and \\mathfrak{R}&#39;&#39; be its cosets. Taking the periods (sums of roots of unity) corresponding to these cosets applied to exp(2&amp;pi;&#39;&#39;i&#39;&#39;/&#39;&#39;p&#39;&#39;), he notes that these periods have a multiplication table that is accessible to calculation. Products are linear combinations of the periods, and he determines the coefficients. He sets, for example, (\\mathfrak{R}\\mathfrak{R}) equal to the number of elements of &#39;Z&#39;/&#39;&#39;p&#39;&#39;&#39;Z&#39; which are in \\mathfrak{R} and which, after being increased by one, are also in \\mathfrak{R}. He proves that this number and related ones are the coefficients of the products of the periods. To see the relation of these sets to the Weil conjectures, notice that if α and  are both in \\mathfrak{R}, then there exist &#39;&#39;x&#39;&#39; and &#39;&#39;y&#39;&#39; in &#39;Z&#39;/&#39;&#39;p&#39;&#39;&#39;Z&#39; such that &#39;&#39;x&#39;&#39;3 = &amp;alpha; and &#39;&#39;y&#39;&#39;3 = &amp;alpha; + 1; consequently, &#39;&#39;x&#39;&#39;3 + 1 = &#39;&#39;y&#39;&#39;3. Therefore (\\mathfrak{R}\\mathfrak{R}) is the number of solutions to &#39;&#39;x&#39;&#39;3 + 1 = &#39;&#39;y&#39;&#39;3 in the finite field &#39;Z&#39;/&#39;&#39;p&#39;&#39;&#39;Z&#39;. The other coefficients have similar interpretations. Gauss&#39;s determination of the coefficients of the products of the periods therefore counts the number of points on these elliptic curves, and as a byproduct he proves the analog of the Riemann hypothesis.--&gt;<br />
+<br />
+代数曲線という特別な場合の<a href="http://localhost/keyword/%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%A6%E4%BA%88%E6%83%B3">ヴェイユ予想</a>は、により予想された。有限体上の曲線の場合は、ヴェイユにより有限体上の<a href="http://localhost/keyword/%E6%A5%95%E5%86%86%E6%9B%B2%E7%B7%9A">楕円曲線</a>のハッセの定理により始められたプロジェクトを完成させて証明された。プロジェクトの興味は、数論の中で充分高く評価され、(exponential sum)の上界を意味し、解析的整数論に本質的な関係を持つ。<br />
+<br />
+<br />
+他の数学の分野の観点から実際に目に付くことは、代数トポロジーとの関係が提起されたことであった。有限体が自然には&#39;離散的&#39;であり、一方、トポロジーは単に&#39;連続的&#39;であることを記述するということから、ヴェイユの（いくつかの例より抽出されたことを基礎とした）詳細な定式化は、まさに正鵠を得ていた。彼は、有限体上の幾何学が、ベッチ数やレフシェッツ不動点定理などの良く知られたパターンと良く適合することを示唆した。<br />
+<br />
+<br />
+トポロジーを伴う類似は、新しいホモロジー論が代数幾何学の中に適用され設定できることを示唆している。ジャン＝ピエール・セール(Jean-Pierre Serre)により最初に示唆されたことを基礎として、新しいホモロジー論を構成するというアレクサンドル・グロタンディーク(Alexander Grothendieck)と彼の学派の仕事の中心的な目的を果たすことに、<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>を要した。予想の有理性の部分は、で、p-進の方法を使い、初めてに証明された。と彼の協力者は、函数等式とベッチ数とのリンクはエータル・コホモロジーの性質を使い、有理性予想を確立した。新しいコホモロジー理論は、にアウトラインが書かれているように、グロタンディークとアルティンにより<a href="http://localhost/keyword/%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%A6%E4%BA%88%E6%83%B3">ヴェイユ予想</a>を攻略するために開発された。<br />
+<br />
+4つ目のリーマン予想の類似の予想は証明することが最も難しい。でのケーラー多様体に対する<a href="http://localhost/keyword/%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%A6%E4%BA%88%E6%83%B3">ヴェイユ予想</a>の類似の証明に動機づけられ、グロタンディークは代数的サイクルの標準予想を基礎とした証明を展望した。しかし、グロタンディークの標準予想は、未解決（ただし、ドリーニュにより<a href="http://localhost/keyword/%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%A6%E4%BA%88%E6%83%B3">ヴェイユ予想</a>を拡張することで証明された強レフシェッツ定理を除く）であり、リーマン予想の類似はでエータル・コホモロジーを使うことにより、ドリーニュの独創的な議論により標準予想を使うことを避けて証明された。<br />
+<br />
+<a href="http://localhost/keyword/%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%A6%E4%BA%88%E6%83%B3">ヴェイユ予想</a>の一般化が証明され、層のプッシュフォワードのウェイトが有界であることが示された。<br />
+<br />
+<br />
+==<a href="http://localhost/keyword/%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%A6%E4%BA%88%E6%83%B3">ヴェイユ予想</a>のステートメント==<br />
+X を q 個の元を持つ有限体 &#39;F&#39;q 上の非特異な n-次元射影代数多様体とする。X の&#39;ゼータ函数&#39; ζ(X,&amp;nbsp;s) は<br />
+:\\zeta(X, s) = \\exp\\left(\\sum_{m = 1}^\\infty \\frac{N_m}{m} (q^{-s})^m\\right)<br />
+により定義される。ここに、Nm は &#39;F&#39;q の次数 m の拡大 &#39;F&#39;qm上に定義された X の点の数である。<br />
+&#39;&#39;q&#39;&#39; with &#39;&#39;q&#39;&#39; elements. The &#39;zeta function&#39; ζ(&#39;&#39;X&#39;&#39;,&amp;nbsp;&#39;&#39;s&#39;&#39;) of &#39;&#39;X&#39;&#39; is by definition<br />
+<br />
+:\\zeta(X, s) = \\exp\\left(\\sum_{m = 1}^\\infty \\frac{N_m}{m} (q^{-s})^m\\right)<br />
+<br />
+where &#39;&#39;N&#39;&#39;m&#39;&#39;  is the number of points of &#39;&#39;X&#39;&#39; defined over the degree &#39;&#39;m&#39;&#39; extension &#39;F&#39;&#39;&#39;q&#39;&#39;m&#39;&#39; of &#39;F&#39;&#39;&#39;q&#39;&#39;.--&gt;<br />
+<br />
+<a href="http://localhost/keyword/%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%A6%E4%BA%88%E6%83%B3">ヴェイユ予想</a>は次のことを言っている。<br />
+<br />
+:１、&#39;有理性&#39;(Rationality) ζ(X,&amp;nbsp;s) は、T = q&amp;minus;s の有理函数である。さらに詳しくは、ζ(X,&amp;nbsp;s) は有限の交代和<br />
+::\\prod_{i=0}^{2n} P_i(q^{-s})^{(-1)^{i+1}} = \\frac{P_1(T)\\dotsb P_{2n-1}(T)}{P_0(T)\\dotsb P_{2n}(T)}<br />
+:と記述できる。ここに各々の Pi(T) は整数係数の多項式である。さらに、P0(T) = 1 &amp;minus; T, P2n(T) = 1 &amp;minus; qnT であり、 に対し、ある数 αij が存在し、&#39;C&#39; 上の Pi(T) 要素が \\textstyle\\prod_j (1 - \\alpha_{ij}T) として記述できる。<br />
+&amp;minus;s. More precisely, ζ(&#39;&#39;X&#39;&#39;,&amp;nbsp;&#39;&#39;s&#39;&#39;) can be written as a finite alternating product \\textstyle\\prod_{i=0}^{2n} P_i(q^{-s})^{(-1)^{i+1}} = \\frac{P_1(T)\\dotsb P_{2n-1}(T)}{P_0(T)\\dotsb P_{2n}(T)}, where each &#39;&#39;P&#39;&#39;i&#39;&#39;(&#39;&#39;T&#39;&#39;) is an integral polynomial. Furthermore, &#39;&#39;P&#39;&#39;0(&#39;&#39;T&#39;&#39;) = 1 &amp;minus; T, &#39;&#39;P&#39;&#39;2&#39;&#39;n&#39;&#39;(&#39;&#39;T&#39;&#39;) = 1 &amp;minus; &#39;&#39;q&#39;&#39;n&#39;&#39;T&#39;&#39;, and for , &#39;&#39;P&#39;&#39;i&#39;&#39;(&#39;&#39;T&#39;&#39;) factors over &#39;C&#39; as \\textstyle\\prod_j (1 - \\alpha_{ij}T) for some numbers α&#39;&#39;ij&#39;&#39;.--&gt;<br />
+<br />
+:２、&#39;函数等式とポアンカレ双対&#39;((Functional equation and Poincaré duality) ゼータ函数は \\zeta(X,n-s)=\\pm q^{\\frac{nE}{2}-Es}\\zeta(X,s) もしくは、\\zeta(X,q^{-n}T^{-1})=\\pm q^{\\frac{nE}{2}}T^E\\zeta(X,T) を満たす。ここに E は X のオイラー標数とする。特に、各 i に対し、ある順番で、α2n-i,1, α2n-i,2, … は、qn/αi,1, qn/αi,2, … に等しい。<br />
+\\zeta(X,n-s)=\\pm q^{\\frac{nE}{2}-Es}\\zeta(X,s) or equivalently \\zeta(X,q^{-n}T^{-1})=\\pm q^{\\frac{nE}{2}}T^E\\zeta(X,T) where &#39;&#39;E&#39;&#39; is the Euler characteristic of &#39;&#39;X&#39;&#39;.  In particular, for each &#39;&#39;i&#39;&#39;, the numbers α2&#39;&#39;n&#39;&#39;-&#39;&#39;i&#39;&#39;,1, α2&#39;&#39;n&#39;&#39;-&#39;&#39;i&#39;&#39;,2, … equal the numbers &#39;&#39;q&#39;&#39;n&#39;&#39;/α&#39;&#39;i&#39;&#39;,1, &#39;&#39;q&#39;&#39;n&#39;&#39;/α&#39;&#39;i&#39;&#39;,2, … in some order.--&gt;<br />
+<br />
+:３、&#39;リーマン予想&#39;(Riemann hypothesis) 全ての  と全ての j に対して、|αi,j| = qi/2 が成り立つ。このことは、Pk(T) のすべてのゼロ点が実部 k/2 の複素数 s の「臨界線」(critical line)の上にあることを意味する<br />
+<br />
+:４、&#39;ベッチ数&#39;(Betti numbers) 多様体 X が、複素数体へ埋め込まれた有限体の上で定義された非特異射影多様体 Y の(reduction mod p)であれば、Pi の次数は、Y の複素数の中での空間の ith ベッチ数である。<br />
+&#39;&#39;i,j&#39;&#39;| = &#39;&#39;q&#39;&#39;i&#39;&#39;/2 for all  and all &#39;&#39;j&#39;&#39;.  This implies that all zeros of &#39;&#39;P&#39;&#39;k&#39;&#39;(&#39;&#39;T&#39;&#39;) lie on the &#34;critical line&#34; of complex numbers &#39;&#39;s&#39;&#39; with real part &#39;&#39;k&#39;&#39;/2.<br />
+#(Betti numbers) If &#39;&#39;X&#39;&#39; is a (good) &#34;reduction mod &#39;&#39;p&#39;&#39;&#34; of a non-singular projective variety &#39;&#39;Y&#39;&#39; defined over a number field embedded in the field of complex numbers, then the degree of &#39;&#39;P&#39;&#39;i&#39;&#39; is the &#39;&#39;i&#39;&#39;th Betti number of the space of complex points of &#39;&#39;Y&#39;&#39;.--&gt;<br />
+<br />
+==例==<br />
+<br />
+===射影直線===<br />
+（点を除き）最も単純な例は、X として射影直線をとることである。 qm 個の元を持つ体の X の点の数は、ちょうど Nm =&amp;nbsp;qm&amp;nbsp;+&amp;nbsp;1 となる（ここに &#34;+&amp;nbsp;1&#34; は無限遠点を考えに入れることによる）。すると、ゼータ函数は、<br />
+:1/(1&amp;nbsp;&amp;minus;&amp;nbsp;q&amp;minus;s)(1&amp;nbsp;&amp;minus;&amp;nbsp;q1&amp;minus;s).<br />
+となる。<br />
+<br />
+ヴェィユ予想のすべてを直接検証することは容易で、例えば、対応する複素多様体はリーマン球面であり、その最初のベッチ数は &amp;nbsp;1,&amp;nbsp;0,&amp;nbsp;1 である。<br />
+&#39;&#39;m&#39;&#39; elements is just &#39;&#39;N&#39;&#39;m&#39;&#39; =&amp;nbsp;&#39;&#39;q&#39;&#39;m&#39;&#39;&amp;nbsp;+&amp;nbsp;1 (where the &#34;+&amp;nbsp;1&#34; comes from the &#34;point at infinity&#34;). The zeta function is just<br />
+<br />
+:1/(1&amp;nbsp;&amp;minus;&amp;nbsp;&#39;&#39;q&#39;&#39;&amp;minus;&#39;&#39;s&#39;&#39;)(1&amp;nbsp;&amp;minus;&amp;nbsp;&#39;&#39;q&#39;&#39;1&amp;minus;&#39;&#39;s&#39;&#39;).<br />
+<br />
+It is easy to check all parts of the Weil conjectures directly. For example, the corresponding complex variety is the Riemann sphere and its initial Betti numbers are&amp;nbsp;1,&amp;nbsp;0,&amp;nbsp;1.--&gt;<br />
+<br />
+===射影空間===<br />
+n 次元射影空間の場合もそれほど難しくはない。qm 個の元を持つ体の上の X の点の数は、ちょうど Nm =&amp;nbsp;1&amp;nbsp;+&amp;nbsp;qm&amp;nbsp;+&amp;nbsp;q2m&amp;nbsp;+&amp;nbsp;...&amp;nbsp;+&amp;nbsp;qnm である。ゼータ函数は、ちょうど<br />
+<br />
+:1/(1&amp;nbsp;&amp;minus;&amp;nbsp;q&amp;minus;s)(1&amp;nbsp;&amp;minus;&amp;nbsp;q1&amp;minus;s)（1&amp;nbsp;&amp;minus;&amp;nbsp;q2&amp;minus;s)&amp;nbsp;...&amp;nbsp;(1&amp;nbsp;&amp;minus;&amp;nbsp;qn&amp;minus;s).<br />
+<br />
+となる。<br />
+<br />
+ヴェィユ予想を直接、検証することは、容易である（複素射影空間も、直接計算して答えを得ることができる）。<br />
+<br />
+射影直線や射影空間の点の数は、アフィン空間の有限個のコピーの合併として書き出せるので、計算は容易である。同様な方法で計算可能なグラスマン多様体や旗多様体のような空間の場合も、ヴェィユ予想を直接、証明することは容易である。<br />
+&#39;&#39;m&#39;&#39; elements is<br />
+just &#39;&#39;N&#39;&#39;m&#39;&#39; =&amp;nbsp;1&amp;nbsp;+&amp;nbsp;&#39;&#39;q&#39;&#39;m&#39;&#39;&amp;nbsp;+&amp;nbsp;&#39;&#39;q&#39;&#39;2&#39;&#39;m&#39;&#39;&amp;nbsp;+&amp;nbsp;...&amp;nbsp;+&amp;nbsp;&#39;&#39;q&#39;&#39;nm&#39;&#39;.  The zeta function is just<br />
+<br />
+:1/(1&amp;nbsp;&amp;minus;&amp;nbsp;&#39;&#39;q&#39;&#39;&amp;minus;&#39;&#39;s&#39;&#39;)(1&amp;nbsp;&amp;minus;&amp;nbsp;&#39;&#39;q&#39;&#39;1&amp;minus;&#39;&#39;s&#39;&#39;)(1&amp;nbsp;&amp;minus;&amp;nbsp;&#39;&#39;q&#39;&#39;2&amp;minus;&#39;&#39;s&#39;&#39;)&amp;nbsp;...&amp;nbsp;(1&amp;nbsp;&amp;minus;&amp;nbsp;&#39;&#39;q&#39;&#39;n&#39;&#39;&amp;minus;&#39;&#39;s&#39;&#39;).<br />
+<br />
+It is again easy to check all parts of the Weil conjectures directly. (Complex projective space gives the relevant Betti numbers, which nearly determine the answer.)<br />
+<br />
+The number of points on the projective line and projective space are so easy to calculate because they can be written as disjoint unions of a finite number of copies of affine spaces. It is also easy to prove the Weil conjectures for other spaces, such as Grassmannians and flag varieties, which have the same &#34;paving&#34; property.--&gt;<br />
+<br />
+===<a href="http://localhost/keyword/%E6%A5%95%E5%86%86%E6%9B%B2%E7%B7%9A">楕円曲線</a>===<br />
+ヴェィユ予想の最初の非自明な例は<a href="http://localhost/keyword/%E6%A5%95%E5%86%86%E6%9B%B2%E7%B7%9A">楕円曲線</a>であり、ハッセ(Hasse)により証明された。E を q 個の元を持つ有限体上の<a href="http://localhost/keyword/%E6%A5%95%E5%86%86%E6%9B%B2%E7%B7%9A">楕円曲線</a>とすると、qm 個の元を持つ体上に定義された E の点の数は、1&amp;nbsp;&amp;minus;&amp;nbsp;αm&amp;minus; βm&amp;nbsp;+&amp;nbsp;qm である。ここに α と β は絶対値が √q の複素共役どうしである。<br />
+<br />
+ゼータ函数は、<br />
+: ζ(E,s) = (1&amp;nbsp;&amp;minus;&amp;nbsp;αq&amp;minus;s)(1&amp;nbsp;&amp;minus;&amp;nbsp;βq&amp;minus;s)&amp;nbsp;/&amp;nbsp;(1&amp;nbsp;&amp;minus;&amp;nbsp;q&amp;minus;s)(1&amp;nbsp;&amp;minus;&amp;nbsp;q1&amp;minus;s)<br />
+である。<br />
+m&#39;&#39; elements is 1&amp;nbsp;&amp;minus;&amp;nbsp;α&#39;&#39;m&#39;&#39;&amp;minus; β&#39;&#39;m&#39;&#39;&amp;nbsp;+&amp;nbsp;&#39;&#39;q&#39;&#39;m&#39;&#39;, <br />
+where α and β are complex conjugates with absolute value √&#39;&#39;q&#39;&#39;.<br />
+The zeta function is<br />
+<br />
+: ζ(&#39;&#39;E&#39;&#39;,&#39;&#39;s&#39;&#39;) = (1&amp;nbsp;&amp;minus;&amp;nbsp;α&#39;&#39;q&#39;&#39;&amp;minus;&#39;&#39;s&#39;&#39;)(1&amp;nbsp;&amp;minus;&amp;nbsp;β&#39;&#39;q&#39;&#39;&amp;minus;&#39;&#39;s&#39;&#39;)&amp;nbsp;/&amp;nbsp;(1&amp;nbsp;&amp;minus;&amp;nbsp;&#39;&#39;q&#39;&#39;&amp;minus;&#39;&#39;s&#39;&#39;)(1&amp;nbsp;&amp;minus;&amp;nbsp;&#39;&#39;q&#39;&#39;1&amp;minus;&#39;&#39;s&#39;&#39;).--&gt;<br />
+<br />
+==ヴェイユコホモロジー==<br />
+<br />
+ヴェイユは、この予想が複素多様体の有理数係数を持つ普通のコホモロジーと同様に、有限体の上の多様体の適切なヴェイユコホモロジー論の存在から来るのではないかと示唆した。彼のアイデアは、F を有限体上のフロベニウス自己準同型であれば、qm 個の元を持つ有限体上の多様体 X の点の数は、Fm の固定点の数である（代数的閉包上に定義された多様体 X のすべての点に作用する）というものであった。代数トポロジーでは、自己同型の固定点の数はレフシェッツ不動点定理を使い求められる。レフシェッツ不動点定理は、コホモロジー群上のト<a href="http://localhost/keyword/%E3%83%AC%E3%83%BC%E3%82%B9">レース</a>の交代和として与えられる。従って、有限体上の多様体に同じようなコホモロジーがあれば、ゼータ函数がそのコホモロジーの項で表現することができるのではないか。<br />
+<br />
+第一の問題は、ヴェイユコホモロジー論の係数体は有理数ではありえないことである。これを理解するために、標数が p である有限体上の(supersingular)<a href="http://localhost/keyword/%E6%A5%95%E5%86%86%E6%9B%B2%E7%B7%9A">楕円曲線</a>を考える。これの環準同型は、有理数上の四元数代数の中にオーダーを持ち、第一コホモロジー群の上に作用するはずであり、第一コホモロジー群は、複素<a href="http://localhost/keyword/%E6%A5%95%E5%86%86%E6%9B%B2%E7%B7%9A">楕円曲線</a>の場合を類似することにより、係数体上の 2次元ベクトル空間であるはずである。しかし、有理数上の四元数代数は、2次元ベクトル空間に作用し得ない。これと同じ議論により、実数、もしくは p-進数である係数体の可能性は否定される。理由は、四元数代数はこれらの体上の分割された代数であるからである。しかし、係数体がある素数 l&amp;nbsp;≠&amp;nbsp;p に対し l-進数の体である可能性を排除できない。なぜならば、これらの体の上では、商代数は分解し行列代数となり、2次元ベクトル空間上へ作用することができるからである。グロタンディークと(Michael Artin)は、l-進コホモロジーと呼ばれる、ある素数 l&amp;nbsp;≠&amp;nbsp;p に対し l-進数の体上の適切なコホモロジー論を構成することに成功した。<br />
+&#39;&#39;m&#39;&#39; is the number of fixed points of &#39;&#39;F&#39;&#39;m&#39;&#39;  (acting on all points of the variety &#39;&#39;X&#39;&#39; defined over the algebraic closure). In algebraic topology the number of fixed points of an automorphism can be worked out using the Lefschetz fixed point theorem, given as an alternating sum of traces on the cohomology groups. So if there were similar cohomology groups for varieties over finite fields, then the zeta function could be expressed in terms of them.<br />
+<br />
+The first problem with this is that the coefficient field for a Weil cohomology theory cannot be the rational numbers. To see this consider the case of a supersingular elliptic curve over a finite field of characteristic &#39;&#39;p&#39;&#39;.  The endomorphism ring of this is an order in a quaternion algebra over the rationals, and should act on the first cohomology group, which should be a 2-dimensional vector space over the coefficient field by analogy with the case of a complex elliptic curve. However a quaternion algebra over the rationals cannot act on a 2-dimensional vector space over the rationals. The same argument eliminates the possibility of the coefficient field being the reals or the &#39;&#39;p&#39;&#39;-adic numbers, because the quaternion algebra is still a division algebra over these fields. However it does not eliminate the possibility that the coefficient field is the field of &#39;&#39;l&#39;&#39;-adic numbers for some prime &#39;&#39;l&#39;&#39;&amp;nbsp;≠&amp;nbsp;&#39;&#39;p&#39;&#39;, because over these fields the division algebra splits and becomes a matrix algebra, which can act on a 2-dimensional vector space. Grothendieck and Michael Artin managed to construct suitable cohomology theories over the field of &#39;&#39;l&#39;&#39;-adic numbers for each prime &#39;&#39;l&#39;&#39;&amp;nbsp;≠&amp;nbsp;&#39;&#39;p&#39;&#39;, called l-adic cohomology.--&gt;<br />
+<br />
+==ゼータ函数のグロタンディーク公式==<br />
+グロタンディークは、l-進コホモロジー理論のレフシェッツ不動点公式の類似を証明し、これを適用することで、フロベニウス自己準同型 F がゼータ函数の次の公式を証明することを可能とした。<br />
+:\\zeta(s)=\\frac{P_1(T)\\cdots P_{2n-1}(T)}{P_0(T)P_2(T)\\cdots P_{2n}(T)}<br />
+ここに各々の多項式 Pi は、l-進コホモロジー群 Hi 上の I &amp;minus; TF の行列式である。<br />
+<br />
+ゼータ函数の有理性は、これより直ちに従う。ゼータ函数の函数等式は、l-進コホモロジーのポアンカレ双対に従い、リフトした複素ベッチ数との関係性は l-進コホモロジーと複素変数の通常のコホモロジーの間の比較定理に従う。<br />
+<br />
+さらに一般的に、グロタンディークは、層 F0 のゼータ函数の同様な公式を、コホモロジー群<br />
+:Z(X_0, F_0, t) = \\prod_{i}\\det(1-F^* t|H^i_c(F))^{(-1)^{i+1}}<br />
+の上の積として、<br />
+:Z(X_0, F_0, t) = \\prod_{x\\in |X_0|}\\det(1-F^*_xt^{deg(x)}|F_0)^{-1}<br />
+となることを証明した。定数層の特別な場合が普通のゼータ函数となる。<br />
+\\zeta(s)=\\frac{P_1(T)\\cdots P_{2n-1}(T)}{P_0(T)P_2(T)\\cdots P_{2n}(T)}<br />
+where each polynomial &#39;&#39;P&#39;&#39;i&#39;&#39; is the determinant of &#39;&#39;I &amp;minus; TF&#39;&#39; on the &#39;&#39;l&#39;&#39;-adic cohomology group &#39;&#39;H&#39;&#39;i&#39;&#39;.<br />
+<br />
+The rationality of the zeta function follows immediately. The functional equation for the zeta function follows from Poincaré duality for &#39;&#39;l&#39;&#39;-adic cohomology, and the relation with complex Betti numbers of a lift follows from a comparison theorem between &#39;&#39;l&#39;&#39;-adic and ordinary cohomology for complex varieties.<br />
+<br />
+More generally, Grothendieck proved a similar formula for the zeta function of a sheaf &#39;&#39;F&#39;&#39;0:<br />
+:Z(X_0, F_0, t) = \\prod_{x\\in |X_0|}\\det(1-F^*_xt^{deg(x)}|F_0)^{-1}<br />
+as a product over cohomology groups:<br />
+:Z(X_0, F_0, t) = \\prod_{i}\\det(1-F^* t|H^i_c(F))^{(-1)^{i+1}}<br />
+The special case of the constant sheaf gives the usual zeta function.--&gt;<br />
+<br />
+==ドリーニュの第一の証明==<br />
+, , , には、第一の証明 の証明が解説されている。に、l-進コホモロジーの背景の多くが記述されている。<br />
+<br />
+<a href="http://localhost/keyword/%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%A6%E4%BA%88%E6%83%B3">ヴェイユ予想</a>のドリーニュによる第一の証明には、次の各ステップが使われた。<br />
+<br />
+<br />
+===レフシェッツペンシルを使用===<br />
+*グロタンディックは、l-進コホモロジー群上のフロベニウス自己同型のト<a href="http://localhost/keyword/%E3%83%AC%E3%83%BC%E3%82%B9">レース</a>のことばでゼータ函数を表現したので、q 個の元を持った有限体の上の d 次元多様体 V の<a href="http://localhost/keyword/%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%A6%E4%BA%88%E6%83%B3">ヴェイユ予想</a>は、V の i 次 l-進コホモロジー群 Hi(V) に作用するフロベニウス作用の固有値が、絶対値 |&amp;alpha;|=qi/2 を持つことを示すことにかかっている（&#39;Q&#39;l の代数的元の複素数への埋め込みのために）。<br />
+*V を(blowing up)した後、基礎体を拡大すると、多様体 V は、非常にマイルドな（2次の）得意ファイバーを有限個しかもたない射影直線 &#39;P&#39;1 の上への写像を持つことを前提とするかもしれない。(Lefschetz pencil)は、複素多様体（と通常のコホモロジーに）対してはで導入され、 と  で l-進コホモロジーへ拡張され、上記のファイアーのコホモロジーへ V のコホモロジーを関連付ける。この関係は、&#39;消滅サイクル&#39;(vanishing cycles)の空間 Ex とは独立で、非特異ファイバー Vx のコホモロジー Hd&amp;minus;1(Vx) の部分空間は、特異ファイバー上で消滅するクラスにより張られる。<br />
+*(Leray spectral sequence)は、V の中間コホモロジー群をファイバーと基底空間のコホモロジーへ関連付ける。この扱いで難しい部分は、多かれ少なかれ、群 H1(P1, j*E) = H(U,E) の部分であり、そこでは U は非特異ファイバーを持つ射影力戦の点であり、j は射影直線の中への U の埋め込み写像であり、E は消滅サイクルの空間 Ex をファイバーとする層である。<br />
+&#39;&#39;i&#39;&#39;(&#39;&#39;V&#39;&#39;) of &#39;&#39;V&#39;&#39; have absolute  values |&amp;alpha;|=&#39;&#39;q&#39;&#39;i&#39;&#39;/2 (for an embedding of the algebraic elements of &#39;Q&#39;&#39;&#39;l&#39;&#39; into the complex numbers).<br />
+*After blowing up &#39;&#39;V&#39;&#39; and extending the base field, one may assume that the variety &#39;&#39;V&#39;&#39; has a morphism onto the projective line &#39;P&#39;1, with a finite number of singular fibers with very mild (quadratic) singularities. The theory of monodromy of Lefschetz pencils, introduced for complex varieties (and ordinary cohomology) by , and extended by  and  to &#39;&#39;l&#39;&#39;-adic cohomology, relates the cohomology of &#39;&#39;V&#39;&#39; to that of its fibers.  The relation depends on the space &#39;&#39;E&#39;&#39;x&#39;&#39; of &#39;vanishing cycles&#39;, the subspace of the cohomology &#39;&#39;H&#39;&#39;d&#39;&#39;&amp;minus;1(&#39;&#39;V&#39;&#39;x&#39;&#39;) of a non-singular fiber &#39;&#39;V&#39;&#39;x&#39;&#39;, spanned by classes that vanish on singular fibers.<br />
+*The Leray spectral sequence relates the middle cohomology group of &#39;&#39;V&#39;&#39; to the cohomology of the fiber and base. The hard part to deal with is more or less a group &#39;&#39;H&#39;&#39;1(&#39;&#39;P&#39;&#39;1, &#39;&#39;j&#39;&#39;*&#39;&#39;E&#39;&#39;) = &#39;&#39;H&#39;&#39;(&#39;&#39;U&#39;&#39;,&#39;&#39;E&#39;&#39;), where &#39;&#39;U&#39;&#39; is the points the projective line with non-singular fibers, and &#39;&#39;j&#39;&#39; is the inclusion of &#39;&#39;U&#39;&#39; into the projective line, and &#39;&#39;E&#39;&#39; is the sheaf with fibers the spaces &#39;&#39;E&#39;&#39;x&#39;&#39; of vanishing cycles.--&gt;<br />
+<br />
+===キーとなる見極め===<br />
+ドリーニュの証明の心臓部は、U 上の層 E が純粋(pure)であることを示す部分であり、言い換えると、その茎の上のフロベニウス準同型の固有値の絶対値を見つけることである。このことは、E の偶数べき Ek のゼータ函数を研究し、グロタンディェクのコホモロジー群の交代積としてのゼータ函数の公式へ適用することでなされる。E の偶数の k べきを考えるもっとも重要なアイデアは、論文により動機付きられ、その中では k=2 のときと同じようにラマヌジャンのタウ函数に境界を持っていることを使った。では、高次の偶数の k の値に対しランキン(Rankin)の方法を一般化することがラマヌジャン予想を含んでいることを指摘し、ドリーニュは多様体のゼータ函数の場合を一般化した類似がもたらす層のゼータ函数のグロタンディェク理論であることを示した。<br />
+&#39;&#39;k&#39;&#39; of &#39;&#39;E&#39;&#39; and applying   Grothendieck&#39;s formula for the zeta functions as  alternating products over cohomology groups. The crucial idea of considering even &#39;&#39;k&#39;&#39; powers of &#39;&#39;E&#39;&#39; was inspired by the paper , who used a similar idea with &#39;&#39;k&#39;&#39;=2   for bounding  the Ramanujan tau function.  pointed out that a generalization of Rankin&#39;s result for higher even values of &#39;&#39;k&#39;&#39; would imply the Ramanujan conjecture, and Deligne realized that in the case of zeta functions of varieties, Grothendieck&#39;s theory of zeta functions of sheaves provided  an analogue of this generalization.--&gt;<br />
+<br />
+*Ek のゼータ函数の極は、グロタンディエクの公式<br />
+::Z(U,E^k,T) = \\frac{\\det(1-F^* T|H^1_c(E^k))}{\\det(1-F^* T|H^0_c(E^k))\\det(1-F^* T|H^2_c(E^k))}<br />
+:使い発見された。また分母の中のコホモロジー群の計算もなされた。項 H は、普通、U がコンパクトでないので、ちょうど 1 であり、H は、明確に次のようにして計算することができる。ポアンカレ層対性は、H(Ek) を H(Ek) へ関連付け、このことは Ek のファイバーの上へ作用する U の幾何学的基本群であるモノドロミー共変(covariant)な空間であることを意味する。E のファイバーは<a href="http://localhost/keyword/%E3%82%AB%E3%83%83%E3%83%97">カップ</a>積(cup product)による双線形形式を持っていて、d が偶数のときは反<a href="http://localhost/keyword/%E5%AF%BE%E7%A7%B0%E6%80%A7">対称性</a>を持ち、E を対称空間へ写像する。（この記述は少し不正確である。ドリーニュは後日、強レフシェッツ定理を使い、E&amp;cap;E&amp;perp; = 0 であることを示し、このことが<a href="http://localhost/keyword/%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%A6%E4%BA%88%E6%83%B3">ヴェイユ予想</a>を要求し、<a href="http://localhost/keyword/%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%A6%E4%BA%88%E6%83%B3">ヴェイユ予想</a>の証明は、実際、E というよりも E/E&amp;cap;E&amp;perp; でのより複雑な議論を使う必要がある。）カズダン(Kazhdan)とマルグリス(Margulis)の議論は、(Picard–Lefschetz formula)によりあが得られる、E のモノドロミー群の像がシンプレクティク群の中でザリスキー稠密であり、従って、同一の不変量を持っていて、古典不変量として良く知られていることを示した。この計算の中でフロベニウス作用のト<a href="http://localhost/keyword/%E3%83%AC%E3%83%BC%E3%82%B9">レース</a>を保存することで、固有値はすべて qk(d&amp;minus;1)/2+1 であるので、ゼータ函数 Z(Ek,T) は、T=1/qk(d&amp;minus;1)/2+1 で唯一の極を持つ。<br />
+&#39;&#39;k&#39;&#39; are found using Grothendieck&#39;s formula<br />
+::Z(U,E^k,T) = \\frac{\\det(1-F^* T|H^1_c(E^k))}{\\det(1-F^* T|H^0_c(E^k))\\det(1-F^* T|H^2_c(E^k))}<br />
+:and calculating the cohomology groups in the denominator explicitly. The &#39;&#39;H&#39;&#39; term is usually just 1 as &#39;&#39;U&#39;&#39; is usually not compact, and the &#39;&#39;H&#39;&#39; can be calculated explicitly as follows. Poincaré duality relates &#39;&#39;H&#39;&#39;(&#39;&#39;E&#39;&#39;k&#39;&#39;) to &#39;&#39;H&#39;&#39;(&#39;&#39;E&#39;&#39;k&#39;&#39;), which is in turn the space of covariants of the monodromy group, which is the geometric fundamental group of &#39;&#39;U&#39;&#39; acting on the fiber of &#39;&#39;E&#39;&#39;k&#39;&#39; at a point. The fiber of  &#39;&#39;E&#39;&#39; has a bilinear form induced by cup product, which is antisymmetric if &#39;&#39;d&#39;&#39; is even, and makes &#39;&#39;E&#39;&#39; into a symplectic space. (This is a little inaccurate: Deligne did later show that &#39;&#39;E&#39;&#39;&amp;cap;&#39;&#39;E&#39;&#39;&amp;perp; = 0 by using the hard Lefschetz theorem, this requires the Weil conjectures, and the proof of the Weil conjectures really has to use a slightly more complicated argument with &#39;&#39;E&#39;&#39;/&#39;&#39;E&#39;&#39;&amp;cap;&#39;&#39;E&#39;&#39;&amp;perp; rather than &#39;&#39;E&#39;&#39;.) An argument of Kazhdan and Margulis shows that the image of the monodromy group acting on &#39;&#39;E&#39;&#39;, given by the Picard–Lefschetz formula, is Zariski dense in a symplectic group and therefore has the same invariants, which are well known from classical invariant theory. Keeping track of the action of Frobenius in this calculation shows that its eigenvalues are all &#39;&#39;q&#39;&#39;k&#39;&#39;(&#39;&#39;d&#39;&#39;&amp;minus;1)/2+1, so  the zeta function of &#39;&#39;Z&#39;&#39;(&#39;&#39;E&#39;&#39;k&#39;&#39;,&#39;&#39;T&#39;&#39;) has poles only at &#39;&#39;T&#39;&#39;=1/&#39;&#39;q&#39;&#39;k&#39;&#39;(&#39;&#39;d&#39;&#39;&amp;minus;1)&#39;&#39;/2+1.--&gt;<br />
+<br />
+*Ek のゼータ函数のオイラー積は、<br />
+::Z(E^k,T) = \\prod_x \\frac{1}{Z(E^k_x,T)}<br />
+:である。k が&#39;偶数&#39;ならば、（ T のべき級数として考えて）右辺の全ての要素の係数は&#39;非退化&#39;である。このことは、<br />
+::\\frac{1}{\\det(1-T^{deg(x)}F_x|E^k)} =\\exp\\left(\\sum_{n&gt;0}\\frac{T^n}{n}\\text{Trace}(F_x^n|E)^k\\right) <br />
+:と書き、F のべきのト<a href="http://localhost/keyword/%E3%83%AC%E3%83%BC%E3%82%B9">レース</a>が有理的であり、従って、それらの k べきは k が偶数時は非退化であるという事実を使い示される。ドリーニュは、いつも有理整数である多様体の点の数へそれらを関連付けることでト<a href="http://localhost/keyword/%E3%83%AC%E3%83%BC%E3%82%B9">レース</a>の有理性を証明した。<br />
+&#39;&#39;k&#39;&#39; is<br />
+::Z(E^k,T) = \\prod_x \\frac{1}{Z(E^k_x,T)}<br />
+:If &#39;&#39;k&#39;&#39; is &#39;even&#39; then all the coefficients of the factors on the right (considered as power series in &#39;&#39;T&#39;&#39;) are &#39;non-negative&#39;; this follows by writing<br />
+::\\frac{1}{\\det(1-T^{deg(x)}F_x|E^k)} =\\exp\\left(\\sum_{n&gt;0}\\frac{T^n}{n}\\text{Trace}(F_x^n|E)^k\\right) <br />
+:and using the fact that the traces of powers of &#39;&#39;F&#39;&#39; are rational, so their &#39;&#39;k&#39;&#39; powers are non-negative as &#39;&#39;k&#39;&#39; is even.  Deligne proves the rationality of the traces by relating them to numbers of points of varieties, which are always (rational) integers.--&gt;<br />
+<br />
+*Z(Ek, T) のべき級数は、唯一可能な極 1/qk(d&amp;minus;1)/2+1 の絶対値よりも小さな T に対して収束する。k が偶数のとき、オイラー積展開の全ての係数は非負であるので、オイラー積の各要素は (Ek, T) の係数の定数倍で有界な係数を持ち、この領域で収束し極は持たない。従って、偶数の k に対し、多項式 Z(E, T) はこの領域にゼロ点を持たない。言い換えると、Ek の茎(stalk)の上でのフロベニウス準同型の固有値は、大きくとも絶対値が qk(d&amp;minus;1)/2+1 を超えることはない。<br />
+&#39;&#39;k&#39;&#39;, &#39;&#39;T&#39;&#39;) converges for &#39;&#39;T&#39;&#39; less than the absolute value 1/&#39;&#39;q&#39;&#39;k&#39;&#39;(&#39;&#39;d&#39;&#39;&amp;minus;1)/2+1 of its only possible pole. When &#39;&#39;k&#39;&#39; is even  the coefficients of all its Euler factors are non-negative, so that each of the Euler factors has coefficients bounded by a constant times the coefficients of &#39;&#39;Z&#39;&#39;(&#39;&#39;E&#39;&#39;k&#39;&#39;, &#39;&#39;T&#39;&#39;) and therefore converges on the same region and has no poles in this region. So for &#39;&#39;k&#39;&#39; even the polynomials  &#39;&#39;Z&#39;&#39;(&#39;&#39;E&#39;&#39;, &#39;&#39;T&#39;&#39;) have no zeros in this region, or in other words the eigenvalues of Frobenius on the stalks of &#39;&#39;E&#39;&#39;k&#39;&#39; have absolute value at most &#39;&#39;q&#39;&#39;k&#39;&#39;(&#39;&#39;d&#39;&#39;&amp;minus;1)&#39;&#39;/2+1.--&gt;<br />
+<br />
+*この見積もりは、次のように、E のファイバー上のフロベニウス準同型の任意の固有値 α の絶対値を見つけることに使うことができる。任意の整数 k に対し、&amp;alpha;k は、Ek の茎の上のフロベニウス準同型の固有値であり、偶数の k に対し q1+k(d&amp;minus;1)/2 に有界である。従って、<br />
+::|\\alpha^k|\\le q^{k(d-1)/2 +1}<br />
+:任意の大きな偶数に対して、この式が成立するので、このことは、<br />
+::|\\alpha|\\le q^{(d-1)/2 }<br />
+:を意味する。よって、ポアンカレ双対性により、<br />
+::|\\alpha|=q^{(d-1)/2 }<br />
+:を得る。<br />
+&#39;&#39;k&#39;&#39; is an eigenvalue of Frobenius on a stalk of &#39;&#39;E&#39;&#39;k&#39;&#39;, which for &#39;&#39;k&#39;&#39; even is bounded by &#39;&#39;q&#39;&#39;1+&#39;&#39;k&#39;&#39;(&#39;&#39;d&#39;&#39;&amp;minus;1)/2. So<br />
+::|\\alpha^k|\\le q^{k(d-1)/2 +1}<br />
+:As this is true for arbitrarily large even &#39;&#39;k&#39;&#39;, this implies that<br />
+::|\\alpha|\\le q^{(d-1)/2 }.<br />
+:Poincaré duality then implies that<br />
+::|\\alpha|=q^{(d-1)/2 }.--&gt;<br />
+<br />
+===証明の完成===<br />
+この見極めからリーマン予想（の類似）を導くことは、ほぼ標準的なテクニックをまっすぐにつかい、次のようにして完成される。<br />
+*ここで、H(U,E) のフロベニウス準同型の固有値は、ここでは層 E のゼータ函数の零点であるように見極めることができる。このゼータ函数は、E の茎のゼータ函数のオイラー積として書くことができ、茎の固有値の見極めを使うと、この積が |T|&amp;minus;d/2&amp;minus;1/2 で収束し、この領域ではゼータ函数のゼロ点が存在しないことを示すことができる。このことは、E のフロベニウス準同型の固有値が多くとも絶対値で qd/2+1/2 を超えないことを意味する（実際、すぐに絶対値はちょうど qd/2 であることが分かる）。この段階は、リーマンゼータ函数がオイラー積として分解することで 1 以上の実部の領域にはゼロ点が存在しないことを証明することと非常によく似ている。<br />
+*この結論は、中間コホモロジー群の偶数次元の多様体のフロベニウス準同型の固有値 α は、<br />
+::  |\\alpha| \\le q^{d/2+1/2}<br />
+:を満たすことである。リーマン予想を得るためには、べきから 1/2 を消去する必要がある。このことは、次のようになされる。この見極めを V の任意の偶数べき Vk へ適用し、(Künneth formula)を使うと、任意の次元 d の多様体 V の中間次元のコホモロジー上のフロベニウス準同型の固有値が、<br />
+:: |\\alpha^k| \\le q^{kd/2+1/2}<br />
+:を満たす。十分に大きな偶数の k に対し成立するように、このことは<br />
+::|\\alpha| \\le q^{d/2}<br />
+:が成り立つことを意味し、ポアンカレ双対性を使うと、<br />
+::|\\alpha| = q^{d/2}<br />
+:が成り立つことを意味する。<br />
+*これが。T多様体の中間次元の<a href="http://localhost/keyword/%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%A6%E4%BA%88%E6%83%B3">ヴェイユ予想</a>を証明する。中間次元以下のコホモロジーに対する<a href="http://localhost/keyword/%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%A6%E4%BA%88%E6%83%B3">ヴェイユ予想</a>は、弱レフシェッツ定理を適用することから従い、中間次元よりも大きなコホモロジーに対する予想はポアンカレ双対性より従う。<br />
+&amp;minus;&#39;&#39;d&#39;&#39;/2&amp;minus;1/2, so that there are no zeros of the zeta function in this region. This implies that the eigenvalues of Frobenius on &#39;&#39;E&#39;&#39; are at most &#39;&#39;q&#39;&#39;d&#39;&#39;/2+1/2 in absolute value (in fact it will soon be seen that they have absolute value exactly &#39;&#39;q&#39;&#39;d&#39;&#39;/2). This step of the argument is very similar to the usual proof that the Riemann zeta function has no zeros with real part greater than 1, by writing it as an Euler product.<br />
+*The conclusion of this is that the eigenvalues α of the Frobenius of a variety of even dimension &#39;&#39;d&#39;&#39; on the middle cohomology group satisfy<br />
+::  |\\alpha| \\le q^{d/2+1/2}<br />
+:To obtain the Riemann hypothesis one needs to eliminate the 1/2 from the exponent. This can be done as follows. Applying this estimate to any even power &#39;&#39;V&#39;&#39;k&#39;&#39; of &#39;&#39;V&#39;&#39; and using the Künneth formula shows that the eigenvalues of Frobenius on the middle cohomology of a variety &#39;&#39;V&#39;&#39; of any dimension &#39;&#39;d&#39;&#39; satisfy<br />
+:: |\\alpha^k| \\le q^{kd/2+1/2}<br />
+:As this is true for arbitrarily large even &#39;&#39;k&#39;&#39;, this implies that<br />
+::|\\alpha| \\le q^{d/2}<br />
+:Poincaré duality then implies that<br />
+::|\\alpha| = q^{d/2}.<br />
+*This proves the Weil conjectures for the middle cohomology of a variety. The Weil conjectures for the cohomology below the middle dimension follow from this by applying the weak Lefschetz theorem, and the conjectures for cohomology above the middle dimension then follow from Poincaré duality.--&gt;<br />
+<br />
+==ドリーニュの第二の証明==<br />
+は、<a href="http://localhost/keyword/%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%A6%E4%BA%88%E6%83%B3">ヴェイユ予想</a>の一般化を発見し証明され、層のプッシュフォワードされたときのウェイトが有界であることがしめされた。実際、このことは、強レフシェッツ定理のように、応用の中で使われる元々の<a href="http://localhost/keyword/%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%A6%E4%BA%88%E6%83%B3">ヴェイユ予想</a>というより、その一般化である。第二の証明の大半は、かれの第一の証明のアイデアの再整理である。第一の証明と主な異なっている部分は、アダマール(Hadamard)やド・ラ・ヴァレ・プーサン(de la Vallée Poussin)の定理に密接に関連する議論を必要とし、ドリーニュは様々なL-級数は実部 1 を持つゼロ点を持たないことを示すことに使った。<br />
+<br />
+有限体上の多様体の上の構成層は、全ての点 x に対し、x でのフロベニウス準同型の固有値の絶対値が N(x)β/2 であれば、ウェイト β の純粋(pure)であるといい、ウェイト ≤ β を持つ純粋層により繰り返し拡大されるように書くことができると、ウェイト ≤ β の混合であるという。<br />
+β/2, and is called mixed of weight ≤β if it can be written as repeated extensions by pure sheaves with weights ≤β.--&gt;<br />
+<br />
+ドリーニュの定理は、f が有限体上の有限タイプのスキームの射であれば、Rif! は、ウェイト ≤ β+i の混合素へウェイト ≤ β の混合双を写像することを言っている。<br />
+<br />
+元々のヴェイユの予想は、f を滑らかな射影多様体から点への射であるとして、多様体上の定数層 &#39;Q&#39;l を考えることにより得られる。これはフロベニウス写像の固有値の絶対値の上界を与えるので、ポアンカレ双対はこのことが下界でもあることを示している。<br />
+<br />
+一般に、Rif! は純粋層(pure sheaf)を純粋層は写像しない。しかしながら、ポアンカレ双対の適切な形が保持されるときには、純粋層が純粋層へ写像される。例えば、f が滑らかで固有射であるか、または、でしめされたように、層でというよりも、(perverse sheaves)の上で考えるようにすればよい。<br />
+&#39;&#39;i&#39;&#39;f&#39;&#39;! takes mixed sheaves of weight ≤β to mixed sheaves of weight  ≤β+i.<br />
+<br />
+The original Weil conjectures follow by taking &#39;&#39;f&#39;&#39; to be a morphism from a smooth projective variety to a point and considering the constant sheaf &#39;Q&#39;&#39;&#39;l&#39;&#39; on the variety. This gives an upper bound on the absolute values of the eigenvalues of Frobenius, and Poincaré duality then shows that this is also a lower bound.<br />
+<br />
+In general &#39;&#39;R&#39;&#39;i&#39;&#39;f&#39;&#39;! does not take pure sheaves to pure sheaves. However it does when a suitable form of Poincaré duality holds, for example if &#39;&#39;f&#39;&#39; is smooth and proper, or if one works with perverse sheaves rather than sheaves as in .--&gt;<br />
+<br />
+モース理論に関するウィッテンの論文  に動機づけられ、 では、ドリーニュの (l-adic Fourier transform)を使い、ドリーニュの証明とは異なる証明を得た。この方法により、彼は、アダマール(Hadamard)やド・ラ・ヴァレ・プーサン(de la Vallée Poussin)の方法を使うことを避けて、ドリーニュの証明を単純化した。この証明は、<a href="http://localhost/keyword/%E3%83%95%E3%83%BC%E3%83%AA%E3%82%A8">フーリエ</a>変換のノルムが元の函数のノルムと単純な関係を持っているという事実を使い、ガウス和(Gauss sum)の絶対値の古典的な計算を一般化している。は、ドリーニュの定理の提示したことの基礎として、ローモン(Laumon)の証明を使った。は、ドリーニュの第一の証明の精神の中にあるモノドロミーを使い、ローモンの証明をさらに単純化している。は、<a href="http://localhost/keyword/%E3%83%95%E3%83%BC%E3%83%AA%E3%82%A8">フーリエ</a>変換を使い別の証明を与え、エタールコホモロジーを(rigid cohomology)に置き換えた。<br />
+<br />
+<br />
+==応用==<br />
+* は強レフシェッツ定理証明を、第二の<a href="http://localhost/keyword/%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%A6%E4%BA%88%E6%83%B3">ヴェイユ予想</a>の証明を使い、可能とした（部分的には、グロタンディエクにより標準予想である）。<br />
+* は、ヴェィユ予想の証明に先立ち、ラマヌジャン・ピーターソン予想が<a href="http://localhost/keyword/%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%A6%E4%BA%88%E6%83%B3">ヴェイユ予想</a>から従うことが示された。<br />
+* は、<a href="http://localhost/keyword/%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%A6%E4%BA%88%E6%83%B3">ヴェイユ予想</a>を使い、べき和の見積もりを証明した。<br />
+<br />
+<br />
+==関連項目==<br />
+*エタール・コホモロジー<br />
+*ラマヌジャン予想<br />
+<br />
+==参考文献==<br />
+*<br />
+*<br />
+*<br />
+*<br />
+*  \t<br />
+*<br />
+*<br />
+*<br />
+*<br />
+*<br />
+*<br />
+*<br />
+*<br />
+*<br />
+*<br />
+*<br />
+*<br />
+*<br />
+*<br />
+*<br />
+*  Reprinted in <br />
+* <br />
+*<br />
+*<br />
+*<br />
+*<br />
+*<br />
+* Reprinted in Oeuvres Scientifiques/Collected Papers by André Weil ISBN 0-387-90330-5<br />
+*<br />
+<br />
+<br />
+Category:数論の定理<br />
+Category:代数幾何学の位相的方法<br />
+Category:不動点<br />
+Category:ホモロジー代数<br />
+Category:ゼータ関数とL関数<br />
+Category:数学に関する記事<br />

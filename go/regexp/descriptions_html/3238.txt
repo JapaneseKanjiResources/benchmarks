@@ -1,0 +1,57 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>&#39;（せいきか、）とは、データ等々を一定のルール（規則）に基づいて変形し、利用しやすくすること。別の言い方をするならば、正規形でないものを正規形（比較・演算などの操作のために望ましい性質を持った一定の形）に変形することをいう。多くの場合、&#39;規格化&#39;と訳しても同義である。非常に多くの分野で使われている言葉で、分野によって意味も大きく異なるため、頻度が高い分野についてそれぞれ個別に説明する。<br />
+<br />
+==ベクトル==<br />
+ノルムが定義されたベクトル空間のベクトル &#39;&#39;&#39;v&#39;&#39;&#39; に対し、それにノルムの逆数 || &#39;&#39;&#39;v&#39;&#39;&#39; ||-1 を掛けてノルムを1のベクトルにすることを、<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>という。<br />
+<br />
+なお、数学的なベクトルでなく、情報科学分野で数列を意味するベクトルの<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>は、この意味での<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>ではなく、後で述べる数量の<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>の意味になる。多変量データをベクトル空間に表した場合などはどちらの意味にもとれ、結果が定数倍違うので、注意が必要である。<br />
+<br />
+===波動関数===<br />
+<br />
+量子力学で現れる波動関数&amp;Psi;は二乗可積分関数の空間のベクトルとみなすことができる。この意味でベクトル&amp;Psi;は<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>されることが多い。物理的には、この操作は全空間での存在確率の合計を1にすることと解釈される。<br />
+<br />
+==数量==<br />
+数量を代表値で割るなどして無次元量化し、互いに比較できるようにすることを、<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>という。<br />
+<br />
+<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>した結果は単位系によらない。そのため、<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>することで、たとえば身長と体重など、次元が違いそのままでは比較できない数量を比較できる。次元が同じでも、夏と冬の1日の気温変化のように、条件が違うデータも<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>により比較しやすくなる。<br />
+<br />
+<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>は特に多変量解析の前処理として行われ、この用途の<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>を&#39;特徴軸の<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>&#39;と言う。<br />
+<br />
+<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>の方法はさまざまなものがあるが、<br />
+#二乗平均平方根が1になるよう、比例変換する<br />
+#平均が0、分散が1になるよう、線形変換する<br />
+の2つが基本的な<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>である。どちらが適しているかはどんなデータをどんな解析のために<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>するかによるが、多変量解析には2.が使われる。<br />
+<br />
+用途によっては、同じように比例変換や線形変換をするのでも、最大値を1、最小値を0（あるいは-1）のような<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>をすることもある。また、べき乗して歪度を0にする、あらかじめ与えられた分布に一致させるなど、もっと強い<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>が使われることもある。<br />
+<br />
+===パターン認識===<br />
+パターン認識の前処理として、対象の特徴をあらかじめ決められた基準に沿うように加工することを、<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>という。<br />
+<br />
+文字など2次元情報の場合、平行移動で位置をそろえる&#39;位置の<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>&#39;と、伸縮で大きさをそろえる&#39;大きさの<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>&#39;（縦の伸縮と横の伸縮は別個に調整する）が、最も基本的な<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>である。これは、各標本点のX座標とY座標をデータ列とみなし、それぞれに「特徴軸の<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>」を施したことに相当する。<br />
+<br />
+===確率分布===<br />
+確率分布関数については、横軸を線形変換し平均を0、分散を1にすることを<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>という。<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>することで、標準正規分布関数との、あるいは確率分布関数同士の比較が容易になる。<br />
+<br />
+==Unicode==<br />
+<br />
+<br />
+==関係<a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a>==<br />
+<br />
+<br />
+==指数表記==<br />
+<br />
+<br />
+===浮動小数点数===<br />
+<br />
+浮動小数点数には、「非<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>数と<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>数」という概念がある。浮動小数点数において（ゼロを除く）<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>数は、仮数部が必ず1以上基数（通常2）未満である。<br />
+<br />
+== 信号処理 ==<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:線型代数学<br />
+Category:統計学<br />
+Category:情報処理<br />
+Category:数学に関する記事<br />

@@ -1,0 +1,83 @@
+description<br />
+河口湖線<br />
+|キロ程 = 1.4km （富士山起点）大月から25.0<br />
+|起点駅 = <br />
+|所在地幅 = long<br />
+|所在地 = 山梨県南都留郡富士河口湖町船津6663<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日= 1<a href="http://localhost/keyword/961%E5%B9%B4">961年</a>（昭和<a href="http://localhost/keyword/36%E5%B9%B4">36年</a>）12月1日<br />
+|廃止年月日=<br />
+|乗車人員 = <br />
+|乗降人員 = 1,105<br />
+|統計年度 = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>度<br />
+|乗換 =<br />
+|備考 = 標高：829m業務委託駅* 1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a>にハイランド駅から改称<br />
+}}<br />
+駅構内（200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>11月）<br />
+&#39;<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E6%80%A5%E3%83%8F%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E9%A7%85">富士急ハイランド駅</a>&#39;（ふじきゅうハイランドえき）は、山梨県南都留郡富士河口湖町船津にある富士急行河口湖線の駅。駅番号は&#39;FJ17&#39;。<br />
+<br />
+駅名の通り遊園地「富士急ハイランド」の玄関口となっている。標高829m。開業時の駅名は「ハイランド駅」で、日本初のカタカナ表記のみの呼称を用いた駅であった[http://www.fujikyu-railway.jp/station/timetable.php?no=17 <a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E6%80%A5%E3%83%8F%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E9%A7%85">富士急ハイランド駅</a> 時刻表] - 富士急行。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を有する地上駅。臨時列車の入線を考慮して、6両編成に対応している。線路はほぼ南東から北西に走り、ホームはその南西側に設けられている。ホーム上には締め切り可能な待合所が設置されている。<br />
+<br />
+駅舎は系列遊園地「富士急ハイランド」のゲートと一体化した建物で、駅舎として使われている部分には有人の窓口があるほか簡易な自動券売機が1台設置されている。年間約200万人の入場者数を誇る富士急ハイランドと比較して乗降客総数は少ない。<br />
+<br />
+かつては直営駅であったが、1<a href="http://localhost/keyword/978%E5%B9%B4">978年</a>（昭和<a href="http://localhost/keyword/53%E5%B9%B4">53年</a>）から業務委託駅となっている。<br />
+<br />
+== 駅周辺 ==<br />
+駅周辺では富士吉田市と富士河口湖町との境界線が複雑になっており、富士河口湖町にある当駅を出た河口湖駅行きの富士急行線列車は、いったん富士吉田市に入った後再び富士河口湖町に抜けて、河口湖駅に到着する。<br />
+<br />
+* 富士急ハイランド<br />
+* イッツモア赤坂ショッピングセンター<br />
+* 富士急行本社<br />
+* 富士吉田市立吉田西小学校<br />
+* ローソン<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E6%80%A5%E3%83%8F%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E9%A7%85">富士急ハイランド駅</a>前店<br />
+* <a href="http://localhost/keyword/%E3%83%90%E3%83%BC%E3%83%9F%E3%83%A4%E3%83%B3">バーミヤン</a><a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E6%80%A5%E3%83%8F%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E9%A7%85">富士急ハイランド駅</a>前店<br />
+* マックハウスプラザ<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E6%80%A5%E3%83%8F%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E9%A7%85">富士急ハイランド駅</a>前店<br />
+* 国道137号<br />
+* 河口湖インターチェンジ - 中央自動車道<br />
+* 岳麓自動車教習所<br />
+<br />
+=== 路線バス ===<br />
+<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>度（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>度）の1日平均乗降人員は1,105人である国土数値情報　駅別乗降客数データ。<br />
+<br />
+近年の年間乗車人員、乗降人員の推移は以下のとおり。[http://www.city.fujiyoshida.yamanashi.jp/forms/info/info.aspx?info_id=5038 統計ふじよしだ 平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>度版] - 富士吉田市。<br />
+<br />
+<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/961%E5%B9%B4">961年</a>（昭和<a href="http://localhost/keyword/36%E5%B9%B4">36年</a>）12月1日 - &#39;ハイランド駅&#39;として開業。<br />
+* 1<a href="http://localhost/keyword/978%E5%B9%B4">978年</a>（昭和<a href="http://localhost/keyword/53%E5%B9%B4">53年</a>）6月 - 委託化。<br />
+* 1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a>（昭和<a href="http://localhost/keyword/56%E5%B9%B4">56年</a>）1月11日 - &#39;<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E6%80%A5%E3%83%8F%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E9%A7%85">富士急ハイランド駅</a>&#39;に改称。<br />
+<br />
+== 隣の駅 ==<br />
+※「ホリデー快速富士山号」の隣の停車駅は列車記事を参照のこと。<br />
+;  25px 富士急行<br />
+:  河口湖線<br />
+:: フジサン特急・快速「富士登山電車」・普通<br />
+::: 富士山駅 (FJ16) - &#39;<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E6%80%A5%E3%83%8F%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E9%A7%85">富士急ハイランド駅</a> (FJ17)&#39; - 河口湖駅 (FJ18)<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.fujikyu-railway.jp/station/timetable.php?no=17 富士急行 <a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E6%80%A5%E3%83%8F%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E9%A7%85">富士急ハイランド駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+Category:山梨県の鉄道駅<br />
+しきゆうはいらんと<br />
+Category:富士急行の鉄道駅<br />
+ふしきゆうはいらんとえき<br />
+Category:1<a href="http://localhost/keyword/961%E5%B9%B4">961年</a>開業の鉄道駅<br />

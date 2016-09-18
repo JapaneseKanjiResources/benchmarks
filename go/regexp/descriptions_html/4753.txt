@@ -1,0 +1,47 @@
+description<br />
+<br />
+|left= ウンビヘキシウム<br />
+|right= ウンビオクチウム<br />
+|above= (Ac)<br />
+|below= Usb<br />
+|series= 超アクチノイド元素<br />
+|group= ?<br />
+|period= 8<br />
+|block= g<br />
+|appearance= <br />
+|atomic mass= [ - ]<br />
+|electron configuration= &amp;#91;Uuo&amp;#93; 7g2 8s2<br />
+|electrons per shell= 2, 8, 18, 32, 34, 18, 8, 2<br />
+|color= <br />
+|phase= <br />
+|oxidation states= <br />
+|electronegativity= <br />
+|number of ionization energies= <br />
+|1st ionization energy= <br />
+|2nd ionization energy= <br />
+|3rd ionization energy= <br />
+|atomic radius= <br />
+|covalent radius= <br />
+|Van der Waals radius= <br />
+|CAS number= <br />
+|isotopes= <br />
+|isotopes comment=<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E3%82%A6%E3%83%B3%E3%83%93%E3%82%BB%E3%83%97%E3%83%81%E3%82%A6%E3%83%A0">ウンビセプチウム</a>&#39; (Unbiseptium) は、<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>127にあたる未発見の超重元素に付けられた一時的な仮名（元素の系統名）。<br />
+<br />
+== 歴史 ==<br />
+1<a href="http://localhost/keyword/978%E5%B9%B4">978年</a>、ドイツのダルムシュタット市にある重イオン研究所でUNILAC加速器を使い、キセノン136イオンを<a href="http://localhost/keyword/%E3%82%BF%E3%83%B3%E3%82%BF%E3%83%AB">タンタル</a>に衝突させてこの元素を生成する実験が試みられたが、失敗したEmsley, John (2011). Nature&#39;s Building Blocks: An A-Z Guide to the Elements (New ed.). New York, NY: Oxford University Press. p. 588. ISBN 978-0-19-960563-7.。<br />
+<br />
+\\,^{nat}_{73}\\mathrm{Ta} +  \\,^{136}_{54}\\mathrm{Xe} \\to \\,^{316, 317}\\mathrm{Ubs} ^{*} \\to \\mbox{no atoms}<br />
+<br />
+== 参考文献 ==<br />
+<br />
+== 関連項目 ==<br />
+* 未発見元素の一覧<br />
+* 第8周期元素<br />
+<br />
+<br />
+<br />
+<br />
+Category:元素<br />
+Category:<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E6%A0%B8">原子核</a>物理学<br />

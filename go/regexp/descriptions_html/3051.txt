@@ -1,0 +1,41 @@
+description<br />
+<br />
+|駅構造     = 地上駅<br />
+|ホーム     = 2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/913%E5%B9%B4">913年</a>4月1日<br />
+|廃止年月日 = <br />
+|乗車人員   = <br />
+|乗降人員   = <br />
+|統計年度   = <br />
+|乗換       = <br />
+|備考       = <br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E7%94%BA%E5%B1%8B%E4%BA%8C%E4%B8%81%E7%9B%AE%E5%81%9C%E7%95%99%E5%A0%B4">町屋二丁目停留場</a>&#39;（まちやにちょうめていりゅうじょう）は、東京都荒川区荒川六丁目にある都電荒川線の停留場である。<br />
+<br />
+==停留場構造==<br />
+相対式ホーム2面2線を有する地上駅。二つのホームはやや離れている。<br />
+<br />
+==停留場周辺==<br />
+<br />
+==歴史==<br />
+1<a href="http://localhost/keyword/913%E5%B9%B4">913年</a>4月1日に町屋停留場として開業。のち<a href="http://localhost/keyword/%E7%94%BA%E5%B1%8B%E4%BA%8C%E4%B8%81%E7%9B%AE%E5%81%9C%E7%95%99%E5%A0%B4">町屋二丁目停留場</a>に改称。<br />
+<br />
+==隣の停留場==<br />
+; 15px 東京都交通局<br />
+: ■都電荒川線<br />
+:: 東尾久三丁目停留場 - &#39;<a href="http://localhost/keyword/%E7%94%BA%E5%B1%8B%E4%BA%8C%E4%B8%81%E7%9B%AE%E5%81%9C%E7%95%99%E5%A0%B4">町屋二丁目停留場</a>&#39; - 町屋駅前停留場<br />
+<br />
+==関連項目==<br />
+*日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+*[http://www.kotsu.metro.tokyo.jp/toden/stations/machiya2-chome/index.html 東京都交通局 <a href="http://localhost/keyword/%E7%94%BA%E5%B1%8B%E4%BA%8C%E4%B8%81%E7%9B%AE%E5%81%9C%E7%95%99%E5%A0%B4">町屋二丁目停留場</a>]<br />
+<br />
+<br />
+<br />
+<br />
+Category:荒川区の鉄道駅<br />
+ちやにちようめ<br />
+Category:東京都交通局の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/913%E5%B9%B4">913年</a>開業の鉄道駅<br />

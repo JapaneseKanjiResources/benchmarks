@@ -1,0 +1,109 @@
+description<br />
+<br />
+}<br />
+| image = Kadena Station of Okinawa Prefectural Railways.JPG<br />
+| image_width = 300px<br />
+| image_alt = 嘉手納駅（<a href="http://localhost/keyword/%E6%B2%96%E7%B8%84%E7%9C%8C%E5%96%B6%E9%89%84%E9%81%93%E5%98%89%E6%89%8B%E7%B4%8D%E7%B7%9A">沖縄県営鉄道嘉手納線</a>）<br />
+| caption = 嘉手納駅（<a href="http://localhost/keyword/%E6%B2%96%E7%B8%84%E7%9C%8C%E5%96%B6%E9%89%84%E9%81%93%E5%98%89%E6%89%8B%E7%B4%8D%E7%B7%9A">沖縄県営鉄道嘉手納線</a>）<br />
+| type = <br />
+| status = 廃止<br />
+| start = 起点：古波蔵駅<br />
+| end = 終点：嘉手納駅<br />
+| stations = 14駅<br />
+| open = <br />
+| event1label = 運行停止<br />
+| event1 = <br />
+| close = <br />
+| owner = 沖縄県<br />
+| operator = <br />
+| depot = <br />
+| stock = 沖縄県営鉄道#車両の節を参照<br />
+| linelength_km = 22.4<br />
+| linelength = <br />
+| gauge = <br />
+| minradius_m = <br />
+| el = 全線非電化<br />
+| speed = <br />
+| maxincline = <br />
+| map = <br />
+| map_state = <br />
+}}<br />
+}<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+|}<br />
+|}<br />
+&#39;嘉手納線&#39;（かでなせん）は、かつて沖縄県那覇市の古波蔵駅と同県<a href="http://localhost/keyword/%E4%B8%AD%E9%A0%AD%E9%83%A1">中頭郡</a>北谷村（現・同郡嘉手納町）の嘉手納駅を結んでいた、沖縄県営鉄道の鉄道路線である。太平洋戦争末期の1<a href="http://localhost/keyword/945%E5%B9%B4">945年</a>（昭和<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）3月に運行を停止し、沖縄戦で線路施設が破壊され、そのまま消滅した。<br />
+<br />
+&#39;&#39;以下に記載する情報は、注釈が無い限り全て運行停止時点でのものである。&#39;&#39;<br />
+<br />
+== 概要 ==<br />
+1<a href="http://localhost/keyword/922%E5%B9%B4">922年</a>（大正<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）に沖縄県営鉄道2番目の路線として開業した。当初は糸満線が先に建設予定であったが、資金不足などの理由により中止。その後、再び糸満線の建設が計画されるが、北部方面へも関係するとして嘉手納線の建設が先に行われることとなった。<br />
+<br />
+1<a href="http://localhost/keyword/917%E5%B9%B4">917年</a>（大正<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）12月に県会において嘉手納線の着工が可決され、翌1<a href="http://localhost/keyword/918%E5%B9%B4">918年</a>（大正<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）4月に那覇 - 嘉手納間で出願し、同年6月に免許を取得した。着工は1<a href="http://localhost/keyword/919%E5%B9%B4">919年</a>（大正<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）より行われる予定であったが、用地取得などの問題も重なり予定より1年遅れの1<a href="http://localhost/keyword/920%E5%B9%B4">920年</a>（大正<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）1月より開始された。その後、約<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>をかけて建設が行われ1<a href="http://localhost/keyword/922%E5%B9%B4">922年</a>3月に全線が竣工し、同年3月28日に開業した。当初は1日8往復の運行であったが、最盛期には16往復の運行となった。<br />
+<br />
+太平洋戦争の勃発により県営鉄道も戦時体制となり、1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>（昭和<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）7月をもって通常ダイヤが廃止され、実質軍用鉄道化された。但し、その後も一部時間帯に限りは県民の利用も可能であったため、<a href="http://localhost/keyword/%E6%97%85%E5%AE%A2%E5%88%97%E8%BB%8A">旅客列車</a>の運行は継続された。<br />
+<br />
+しかし、米軍の沖縄本島侵攻が迫った1<a href="http://localhost/keyword/945%E5%B9%B4">945年</a>3月23日ごろに運行を停止。その約1週間後の同年4月1日に米軍が本島読谷に上陸し沖縄戦が開始され、地上戦により鉄道施設の大半が破壊され嘉手納線は消滅した。戦後の米軍による基地建設や道路建設により鉄道路線は完全に寸断され、その後も復旧することなく1<a href="http://localhost/keyword/952%E5%B9%B4">952年</a>（昭和<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）4月28日のサンフランシスコ講和条約の発効により、日本の地方鉄道法の適用対象から外れ、事実上廃線となった。<br />
+<br />
+なお、1<a href="http://localhost/keyword/920%E5%B9%B4">920年</a>ごろから戦時中には、嘉手納駅から名護方面への延伸が検討されるが、資金不足や戦況悪化などにより実現はせず、沖縄戦により嘉手納線自体が消滅してしまった。<br />
+<br />
+=== 路線データ ===<br />
+* 路線距離：古波蔵 - 嘉手納 22.4km<br />
+* 軌間：762mm<br />
+* 駅数：14（起終点駅含む）<br />
+* 複線区間：なし（全線単線）<br />
+* 電化区間：なし（全線非電化）<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/922%E5%B9%B4">922年</a>（大正<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）3月28日 古波蔵 - 嘉手納間が開業。<br />
+* 1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>（大正<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）2月26日 与儀駅、真志喜駅が開駅。<br />
+* 1<a href="http://localhost/keyword/937%E5%B9%B4">937年</a>（昭和<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）3月 牧港駅が開駅。<br />
+* 1<a href="http://localhost/keyword/945%E5%B9%B4">945年</a>（昭和<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）<br />
+** 3月23日ごろ 運行を停止。<br />
+** 4月 - 6月 沖縄戦により破壊。事実上廃線。<br />
+* 1<a href="http://localhost/keyword/952%E5%B9%B4">952年</a>（昭和<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）4月28日 サンフランシスコ講和条約の発効により、地方鉄道法の適用対象から除外。<br />
+<br />
+== 駅一覧 ==<br />
+* 全駅沖縄県に所在。<br />
+* 便宜上、那覇側の全列車が乗り入れていた与那原線<a href="http://localhost/keyword/%E9%82%A3%E8%A6%87%E9%A7%85">那覇駅</a> - 古波蔵駅間もあわせて記載。<br />
+* 列車交換 … ◇：交換可能駅、｜：交換不可能駅<br />
+<br />
+<br />
+* ※1：<a href="http://localhost/keyword/%E9%82%A3%E8%A6%87%E9%A7%85">那覇駅</a> - 古波蔵駅間は与那原線<br />
+* ※2：1<a href="http://localhost/keyword/933%E5%B9%B4">933年</a>（昭和<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）3月20日に運行休止、同年8月12日に廃止。<br />
+<br />
+== 備考 ==<br />
+桑江駅 - 北谷駅間辺りが沖縄戦での米軍上陸地点であり、平安山駅 - 嘉手納駅間は現在米空軍の嘉手納基地となっている。<br />
+<br />
+== 関連項目 ==<br />
+* 日本の廃止鉄道路線一覧<br />
+* 廃線<br />
+* 沖縄県の鉄道<br />
+<br />
+<br />
+Category:九州地方の鉄道路線 (廃止)<br />
+路かてな<br />

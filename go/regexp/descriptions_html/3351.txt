@@ -1,0 +1,70 @@
+description<br />
+<br />
+<br />
+|所属事業者 = 23px北海道旅客鉄道（JR北海道）<br />
+|所属路線   = ■石勝線（夕張支線）<br />
+|キロ程     = 6.7<br />
+|起点駅     = 新夕張<br />
+|所在地     = 北海道夕張市南清水沢一丁目<br />
+|座標       = <br />
+|駅構造     = 地上駅<br />
+|ホーム     = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>（昭和<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）12月25日<br />
+|廃止年月日 = <br />
+|乗車人員   = 128<br />
+|乗降人員   = <br />
+|統計年度   = 1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a>度<br />
+|乗換       = <br />
+|備考       = 簡易委託駅<br />
+}}<br />
+19<a href="http://localhost/keyword/76%E5%B9%B4">76年</a>の夕張線（当時）の<a href="http://localhost/keyword/%E5%8D%97%E6%B8%85%E6%B0%B4%E6%B2%A2%E9%A7%85">南清水沢駅</a>と周囲約500m範囲。上が夕張方面。<br />
+&#39;<a href="http://localhost/keyword/%E5%8D%97%E6%B8%85%E6%B0%B4%E6%B2%A2%E9%A7%85">南清水沢駅</a>&#39;（みなみしみずさわえき）は、北海道夕張市南清水沢1丁目にある北海道旅客鉄道（JR北海道）石勝線（夕張支線）の駅。駅番号は&#39;Y22&#39;。<br />
+<br />
+== 歴史 == <br />
+* 1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>（昭和<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）12月25日 - 日本国有鉄道の駅として開業。旅客のみ取扱い。<br />
+* 1<a href="http://localhost/keyword/967%E5%B9%B4">967年</a>（昭和<a href="http://localhost/keyword/42%E5%B9%B4">42年</a>）11月1日 - 業務委託化。<br />
+* 1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>（昭和<a href="http://localhost/keyword/59%E5%B9%B4">59年</a>）3月31日 - 簡易委託化。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化によりJR北海道に継承。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線の地上駅。<br />
+<br />
+新夕張駅が管理する簡易委託駅（窓口営業時間5時45分 - 17時00分）。<br />
+<br />
+<br />
+ファイル:Minami-shimizusawa station02.JPG|駅舎内の様子<br />
+ファイル:Minami-shimizusawa station03.JPG|ホーム側の様子<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+かつては農業地帯であったが夕張南高校（現在の夕張高校）が移転。周辺に市街地が出来た。駅前には若干の商店が並んでいる。<br />
+* 国道452号<br />
+* 夕張南清水沢郵便局<br />
+* 夕張市立ゆうばり小学校<br />
+* 夕張市立夕張中学校<br />
+* 北海道夕張高等学校<br />
+* ACOOPゆうばり南清水沢<br />
+* 夕張鉄道（夕鉄バス）「<a href="http://localhost/keyword/%E5%8D%97%E6%B8%85%E6%B0%B4%E6%B2%A2%E9%A7%85">南清水沢駅</a>前」停留所<br />
+<br />
+== 隣の駅 ==<br />
+; 北海道旅客鉄道<br />
+: 石勝線（夕張支線）<br />
+:: 沼ノ沢駅 (Y21) - &#39;<a href="http://localhost/keyword/%E5%8D%97%E6%B8%85%E6%B0%B4%E6%B2%A2%E9%A7%85">南清水沢駅</a> (Y22)&#39; - 清水沢駅 (Y23)<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+<br />
+Category:夕張市の鉄道駅<br />
+なみしみすさわ<br />
+Category:北海道旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:石勝線<br />
+Category:1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>開業の鉄道駅<br />

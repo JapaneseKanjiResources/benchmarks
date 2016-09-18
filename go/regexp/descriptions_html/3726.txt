@@ -1,0 +1,57 @@
+description<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>&#39;（もくてきご、）は、文の構成素、文の成分の一つ。&#39;客語&#39;または&#39;補語&#39;（&#39;対象語&#39;）と呼ぶ場合もある。ロマンス諸語では&#39;目的補語&#39;と呼ぶことが多い。日本語ではおもに格助詞「を」や「に」で示される。<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>を示す格を&#39;目的格&#39;と呼ぶ。<br />
+<br />
+行為の直接的な対象を表す&#39;直接<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>&#39;（主として対格、日本語では「を」等で示される）と、その行為によって間接的に影響を受ける対象を表す&#39;間接<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>&#39;（主として与格、日本語では「に」等で示される）に分類される。<br />
+<br />
+== 英語 ==<br />
+<br />
+英語においても、日本語に直訳した場合に「……を」・「……に」の「……」に相当する語、句または節と理解して大きな間違いはないが、動詞の語法や文型との兼ね合いから若干の注意が必要となる。というのは、英語には助詞がなく、それに相当する役割を動詞の語法（文型）と前置詞の組合せが担っており、それとの兼ね合いが問題となるからである。<br />
+<br />
+ここでは、<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>を「動詞の<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>」と「前置詞の<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>」に分類して説明する。<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>になれるのは、名詞・<a href="http://localhost/keyword/%E5%8B%95%E5%90%8D%E8%A9%9E">動名詞</a>・不定詞・代名詞（名詞句・名詞節を含む）である（動詞の<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>か前置詞の<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>かによらない）。代名詞のうち、人称代名詞・疑問代名詞・関係代名詞は目的格をとる現代英語では疑問代名詞・関係代名詞 whom の代わりに、本来は主格である who を使うのが一般的である（<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>として前置詞に続く場合を除く）。。<br />
+<br />
+以下では基本5文型に従い、次の例文を用いて説明する。<br />
+<br />
+# I go to school. （S+V: 第1文型） 私は&#39;&#39;学校&#39;&#39; &#39;に&#39;通う。<br />
+# I love you. （S+V+O: 第3文型） 私は&#39;&#39;<a href="http://localhost/keyword/%E3%81%82%E3%81%AA%E3%81%9F">あなた</a>&#39;&#39; &#39;を&#39;愛する。<br />
+# He gave you a lot of money. (S+V+IO+DO: 第4文型） 彼は&#39;&#39;<a href="http://localhost/keyword/%E3%81%82%E3%81%AA%E3%81%9F">あなた</a>&#39;&#39; &#39;に&#39;&#39;&#39;たくさんのお金&#39;&#39; &#39;を&#39;あげた。<br />
+# This news made me sad. （S+V+O+C: 第5文型） そのニュースは&#39;&#39;私&#39;&#39; &#39;を&#39;悲しませた。<br />
+<br />
+上記の例文において S は主語、V は動詞、C は補語、O・IO・DOは（動詞の）<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>・間接<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>・直接<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>の略称である。ここでは第2文型 (S+V+C) は挙げていない。<br />
+<br />
+=== 前置詞の<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a> ===<br />
+まず、上記の例文 1. の直訳は、「私は学校に通う」である。この場合、“to school”は「学校に」と直訳されるが、これを「動詞 go の<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>」とは考えない。このように、「……を」・「……に」に相当する語句であっても、to, in などの前置詞を伴ってはじめて「……を」・「……に」という意味を成す場合にはto 不定詞（to に続くのが動詞）はこれに含まない。ただし、不定詞には副詞的用法もあり、この場合は動詞の<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>ではない。、「動詞の<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>」とは考えない。この例文における“to school”の“school”は「前置詞 to の<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>」である。一般に、前置詞に続く名詞・<a href="http://localhost/keyword/%E5%8B%95%E5%90%8D%E8%A9%9E">動名詞</a>・代名詞（名詞句・名詞節を含む）が前置詞の<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>である。<br />
+<br />
+=== 動詞の<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a> ===<br />
+第2文型以外で、動詞の直後に、前置詞を置かずに現れる名詞または代名詞は、動詞の<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>である。ただし、動詞とその名詞または代名詞との間に、それを修飾する形容詞や、形容詞をさらに修飾する副詞、および限定詞（冠詞など）を伴うことがある。それらの場合でも、前置詞は挟まない。<br />
+<br />
+* 例文 2. において、“you”は動詞 love の<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>である。<br />
+* 例文 3. において、“you”は動詞 give の間接<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a> (IO)、“a lot of money”は動詞 give の直接<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a> (DO)である。<br />
+* 例文 4. において、“me”は動詞 make の<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>である（“sad”は目的格補語である）。<br />
+<br />
+== ドイツ語 ==<br />
+ドイツ語では、与格（Dativ、3格）の<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>を間接<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>（Dativobjekt、3格<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>）、対格（Akkusativ、4格）の<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>を直接<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>（Akkusativobjekt、4格<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>）と呼ぶ。冠詞、形容詞、代名詞などの格変化において、与格と対格を区別する。<br />
+<br />
+他動詞とは直接<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>をとる動詞のことをいい、それ以外の動詞は自動詞と呼ぶ。例えば、“Ich liebe dich.”（英語： “I love you.”) における dich は対格であり、したがって liebe （不定形： lieben）は他動詞である。一方、“Er half dir.” （英語： “He helped you.”）における dir は与格であり、したがって half （不定形： helfen）は自動詞である。<br />
+<br />
+また、<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>を文頭に置いた場合、主語は動詞の次に置かれる（V2語順）。<br />
+<br />
+* Ich liebe dich. → Dich liebe ich.<br />
+* Er half dir. → Dir half er.<br />
+<br />
+通常、<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>と副詞が動詞の後ろに並ぶときは、副詞、<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>の順に並ぶ。<br />
+<br />
+* Ich lese nachts das Buch. （英語： I read the book at night.）<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+*文法<br />
+*文の成分<br />
+*同族<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a><br />
+<br />
+<br />
+<br />
+Category:文法<br />
+Category:統語論<br />

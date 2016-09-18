@@ -1,0 +1,242 @@
+description<br />
+ シェフィールド<br />
+| Instrument          = <br />
+| Genre               = ハードロック[http://www.cube-music.com/f-artists/band-group/def_leppard/ Def Leppard - <a href="http://localhost/keyword/%E3%83%87%E3%83%95%E3%83%BB%E3%83%AC%E3%83%91%E3%83%BC%E3%83%89">デフ・レパード</a>] - <a href="http://localhost/keyword/%E3%82%AD%E3%83%A5%E3%83%BC">キュー</a>ブミュージック・20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>12月30日閲覧。ヘヴィメタルグラム・メタルNWOBHM<br />
+| Occupation          = <br />
+| Years_active        = 1<a href="http://localhost/keyword/977%E5%B9%B4">977年</a>〜現在<br />
+| Label               = マーキュリーユニバーサル・ミュージックフォノグラムヴァーティゴアイランドポリグラム<br />
+| Production          = <br />
+| Associated_acts     = <br />
+| Influences          = <br />
+| URL                 = [http://www.defleppard.com/ www.defleppard.com]<br />
+| Current_members     = ジョー・エリオットリック・サヴェージリック・アレンフィル・コリンヴィヴィアン・キャンベル<br />
+| Past_members        = スティーヴ・クラークピート・ウィリストニー・ケニングフランク・ヌーン<br />
+| Notable_instruments = <br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E3%83%87%E3%83%95%E3%83%BB%E3%83%AC%E3%83%91%E3%83%BC%E3%83%89">デフ・レパード</a>&#39; (&#39;Def Leppard&#39;) は、イギリスのロックバンドである。19<a href="http://localhost/keyword/80%E5%B9%B4">80年</a>代初頭にアイアン・メイデン、サクソンなどと並んで、NWOBHM (New Wave Of British Heavy Metal) ムーヴメントの中心的存在となった（ただし、彼ら自身はNWOBHMバンドに括られることを嫌っていると言われる）。<br />
+<br />
+イギリスのトップバンドのひとつで、アルバム総売上は6500万枚を超える（3500万枚は全米での売り上げ）。アルバム『炎のターゲット』と『ヒステリア』が空前の大ヒットを飛ばし、<a href="http://localhost/keyword/80%E5%B9%B4">80年</a>代を代表するロックバンドのひとつとなった。また、「VH1の最も偉大なハードロックバンド」において31位を獲得した。<br />
+<br />
+== メンバー ==<br />
+ジョー・エリオット<br />
+リック・サヴェージ<br />
+リック・アレン<br />
+フィル・コリン<br />
+ヴィヴィアン・キャンベル<br />
+オリジナル<br />
+* ジョー・エリオット (Joe Elliott) (ヴォーカル)<br />
+* リック・サヴェージ (Rick Savage) (ベース)<br />
+* リック・アレン (Rick Allen) (ドラム)<br />
+* スティーヴ・クラーク (Steve Clark) (ギター) 1<a href="http://localhost/keyword/991%E5%B9%B4">991年</a>没。<br />
+* ピート・ウィリス (Pete Willis) (ギター) 1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a>脱退<br />
+<br />
+現メンバー<br />
+* ジョー・エリオット (Joe Elliott) (リードヴォーカル、アコースティックギター、ピアノ)<br />
+* リック・サヴェージ (Rick Savage) (ベース、ヴォーカル)<br />
+* リック・アレン (Rick Allen) (ドラム)<br />
+* フィル・コリン (Phil Collen) (ギター、ヴォーカル)<br />
+* ヴィヴィアン・キャンベル (Vivian Campbell) (ギター、ヴォーカル)<br />
+<br />
+===タイムライン===<br />
+<br />
+ImageSize = width:800 height:auto barincrement:20<br />
+PlotArea = left:<a href="http://localhost/keyword/110">110</a> bottom:60 top:0 right:10<br />
+Alignbars = justify<br />
+DateFormat  = mm/dd/yyyy<br />
+Period = from:01/01/1977 till:12/31/2014<br />
+TimeAxis = orientation:horizontal format:yyyy<br />
+Legend = orientation:horizontal position:bottom<br />
+ScaleMajor = increment:2 start:1977<br />
+ScaleMinor = increment:2 start:1978<br />
+<br />
+Colors =<br />
+  id:vocals   value:red  legend:Lead_Vocals<br />
+  id:guitar   value:green  legend:Guitar<br />
+  id:bass     value:blue  legend:Bass<br />
+  id:drums    value:orange  legend:Drums<br />
+<br />
+  id:lines     value:black  legend:Studio_album<br />
+  id:lines2   value:gray(0.85)  legend:Other_release<br />
+  id:tour     value:gray(0.5) legend:Tours<br />
+<br />
+LineData =<br />
+ from:07/18/1978 till:11/09/1979 color:tour<br />
+ from:01/19/1980 till:12/13/1980 color:tour<br />
+ from:06/03/1981 till:12/14/1981 color:tour<br />
+ from:02/09/1983 till:02/07/1984 color:tour<br />
+ from:08/05/1986 till:08/31/1986 color:tour<br />
+ from:06/24/1987 till:09/27/1988 color:tour<br />
+ from:04/15/1992 till:09/29/1993 color:tour<br />
+ from:10/03/1995 till:11/22/1995 color:tour<br />
+ from:05/09/1996 till:12/10/1996 color:tour<br />
+ from:04/02/1997 till:04/27/1997 color:tour<br />
+ from:05/29/1999 till:02/15/2000 color:tour<br />
+ from:07/20/2000 till:09/30/2000 color:tour<br />
+ from:06/29/2002 till:07/31/2002 color:tour<br />
+ from:09/20/2002 till:12/21/2002 color:tour<br />
+ from:02/10/2003 till:11/24/2003 color:tour<br />
+ from:06/01/2005 till:11/19/2005 color:tour<br />
+ from:06/03/2006 till:11/19/2006 color:tour<br />
+ from:06/27/2007 till:10/02/2007 color:tour<br />
+ from:03/27/2008 till:08/24/2008 color:tour<br />
+ from:10/23/2008 till:11/14/2008 color:tour<br />
+ from:06/12/2009 till:09/12/2009 color:tour<br />
+ from:06/07/2011 till:12/14/2011 color:tour<br />
+ from:06/06/2012 till:09/15/2012 color:tour<br />
+ from:03/22/2013 till:04/13/2013 color:tour<br />
+ from:06/21/2013 till:07/17/2013 color:tour<br />
+<br />
+ at:01/01/1979 color:lines2 layer:back<br />
+ at:03/14/1980 color:black layer:back<br />
+ at:07/11/1981 color:black layer:back<br />
+ at:01/20/1983 color:black layer:back<br />
+ at:08/03/1987 color:black layer:back<br />
+ at:03/31/1992 color:black layer:back<br />
+ at:10/05/1993 color:black layer:back<br />
+ at:10/23/1995 color:lines2 layer:back<br />
+ at:05/14/1996 color:black layer:back<br />
+ at:06/08/1999 color:black layer:back<br />
+ at:06/30/2002 color:black layer:back<br />
+ at:10/25/2004 color:lines2 layer:back<br />
+ at:05/17/2005 color:lines2 layer:back<br />
+ at:05/23/2006 color:black layer:back<br />
+ at:04/25/2008 color:black layer:back<br />
+ at:06/03/2011 color:lines2 layer:back<br />
+ at:10/22/2013 color:lines2 layer:back<br />
+<br />
+BarData =<br />
+ bar:Joe text:&#34;Joe Elliott&#34;<br />
+ bar:Pete text:&#34;Pete Willis&#34;<br />
+ bar:Steve text:&#34;Steve Clark&#34;<br />
+ bar:Phil text:&#34;Phil Collen&#34;<br />
+ bar:Vivian text:&#34;Vivian Campbell&#34;<br />
+ bar:Sav text:&#34;Rick Savage&#34;<br />
+ bar:Tony text:&#34;Tony Kenning&#34;<br />
+ bar:Frank text:&#34;Frank Noon&#34;<br />
+ bar:Rick text:&#34;Rick Allen&#34;<br />
+<br />
+PlotData=<br />
+ width:10 textcolor:black align:left anchor:from shift:(10,-4)<br />
+ bar:Joe from:01/01/1977 till:end color:vocals<br />
+ bar:Joe from:01/01/1977 till:01/01/1978 color:guitar width:3<br />
+ bar:Pete from:01/01/1977 till:07/11/1982 color:guitar<br />
+ bar:Phil from:07/12/1982 till:end color:guitar<br />
+ bar:Steve from:01/01/1978 till:01/08/1991 color:guitar<br />
+ bar:Vivian from:05/01/1992 till:end color:guitar<br />
+ bar:Sav from:01/01/1977 till:end color:bass<br />
+ bar:Tony from:01/01/1977 till:11/01/1978 color:drums<br />
+ bar:Frank from:11/01/1978 till:11/25/1978 color:drums<br />
+ bar:Rick from:11/26/1978 till:end color:drums<br />
+<br />
+<br />
+== ヒストリー ==<br />
+=== 1<a href="http://localhost/keyword/977%E5%B9%B4">977年</a>～1<a href="http://localhost/keyword/979%E5%B9%B4">979年</a> ===<br />
+1<a href="http://localhost/keyword/977%E5%B9%B4">977年</a>、タプトン・スクールの生徒であったリック・サヴェージ（ベース）、ピート・ウィリス（ギター）、トニー・ケニング（ドラム）により、バンドの母体となるアトミック・マスが結成される。偶然、バスに乗り遅れたピートがジョー・エリオットと出会い、ギタリストとして勧誘するが、最終的にはジョー・エリオットはヴォーカリストとして参加。<br />
+<br />
+バンド名は、元々&#34;Deaf Leopard&#34;（耳の聞こえない豹）であったが、ケニングの提案で現在の綴りに変更される。1<a href="http://localhost/keyword/978%E5%B9%B4">978年</a>1月には、スティーヴ・クラークがバンドに加入する。<br />
+<br />
+同年11月には3曲のコンパクト盤である&#39;&#39;Def Leppard EP&#39;&#39;のレコーディング作業に入る。この時トニーはバンドを去り、後任としてフランク・ヌーンが加入するが、彼も脱退し、その月末には当時15歳のリック・アレンが正式なドラマーとして加入する。その後フォノグラム社と契約。<br />
+<br />
+=== 19<a href="http://localhost/keyword/80%E5%B9%B4">80年</a>～1<a href="http://localhost/keyword/983%E5%B9%B4">983年</a> ===<br />
+19<a href="http://localhost/keyword/80%E5%B9%B4">80年</a>3月14日発売の『オン・スルー・ザ・ナイト』 (On Through the Night) でレコードデビュー。同作は全英チャートで15位となった。<br />
+<br />
+1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a>7月11日には2ndアルバムの『ハイ・アンド・ドライ』 (High &#39;n&#39; Dry) をリリースする。プロデューサーはAC/DCなどを手がけたロバート・ジョン・マット・ランジ(Robert John &#34;Mutt&#34; Lange)。ヨーロッパ・ツアーではオジー・オズボーン、ブラックフットのオープニングアクトを務めた。<br />
+<br />
+翌年1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a>7月、飲酒問題でバンドを解雇されたウィリスの後任として、元ガール(Girl)のフィル・コリンが加入する。<br />
+<br />
+1<a href="http://localhost/keyword/983%E5%B9%B4">983年</a>1月20日は3rdアルバム、『炎のターゲット』 (Pyromania) を発表。同アルバムの先行シングル、「フォトグラフ」はMTVのリクエスト放送でマイケル・ジャクソンの「今夜はビート・イット」を超える支持を集めた。全米シングルチャートでは12位に入るヒットとなった。続くシングル、「ロック・オブ・エイジ」、「フーリン」により、アルバムは年末までに600万枚を売り上げ、全米チャートではマイケル・ジャクソンの『スリラー』に次ぐ最高2位を獲得した。アメリカではRIAAによりダイアモンドディスクに認定されている。<br />
+<br />
+3月にはビリー・スクワイアをオープニングアクトに迎えて、ツアーを開始し、9月にはカリフォルニア州サンディエゴのジャック・マーフィー・スタジアムに5万5千人を集めた。<br />
+<br />
+=== 1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>～19<a href="http://localhost/keyword/89%E5%B9%B4">89年</a> ===<br />
+1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>2月、バンドは本拠地をアイルランドのダブリンへ移した。バンドは新しいアルバムの制作に取りかかるが、同年12月31日にドラマーのリック・アレンがシェフィールド郊外で交通事故を起こし、左腕を全て切断することになった。他のメンバーはアレン以外のドラマーは考えられないとメンバーチェンジを考えることなく、一時期はバンド自体を解散することも考えたが、事故報道を経て、そのような経緯を知ったシモンズ社がアレンの両足・右腕だけでも演奏が可能なカスタマイズのエレクトリック・ドラムを製作し、他のメンバーが、アレンがそれに対応しての復帰を待つかたちで、1<a href="http://localhost/keyword/986%E5%B9%B4">986年</a>にドニントンで開催されたモンスターズ・オブ・ロックでバンドは久々にライブを行った。<br />
+<br />
+1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>8月3日には、4thアルバム『ヒステリア』 (Hysteria) を発表。セカンド・シングルの「アニマル」は全英シングルチャートで6位を記録し、母国イギリスでもスターの仲間入りを果たす。アルバム自体もその週には全英1位となった。4thシングル「シュガー・オン・ミー」は全米シングルチャートで2位を記録。アメリカでの売り上げは前作『炎のターゲット』と比べ、スローペースであったが、ほぼ1年後の19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>7月に遂に全米でも1位を獲得する。10月には「ラヴ・バイツ」が全米1位、19<a href="http://localhost/keyword/89%E5%B9%B4">89年</a>1月には「アーマ<a href="http://localhost/keyword/%E3%82%B2%E3%83%89%E3%83%B3">ゲドン</a>」が3位に入る。<br />
+<br />
+『ヒステリア』は7つものシングルが全米でチャートインし、アルバム自体も3年間チャートインした。これまでに全米だけで1200万枚、全世界で2000万枚以上を売り上げている。<br />
+<br />
+センター・ステージを採用したツアーは、15ヶ月間にわたって行われた。<br />
+<br />
+=== 19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>～19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a> ===<br />
+1<a href="http://localhost/keyword/991%E5%B9%B4">991年</a>1月8日、ギタリストのスティーヴ・クラークが、アルコールと精神安定剤、鎮痛薬の過剰摂取で死亡。当時5作目のレコーディング中であったが、バンドは後任ギタリストは迎えず、残りのギターパートは全てフィル・コリンが担当。1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a>3月30日に5thアルバム『アドレナライズ』 (Adrenalize) を発表した。このアルバムは15カ国で1位を記録、全世界で700万枚以上を売り上げた。<br />
+<br />
+アルバム発表後、クラークの後任として元ディオ 、ホワイトスネイク のヴィヴィアン・キャンベルが加入。翌年の19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>にはB面曲、未発表曲等を集めたアルバム『レトロ・アクティヴ』 (Retro Active) をリリースした。スウィートのカヴァー「アクション」や、映画『ラスト・アクション・ヒーロー』のサントラに使われヒットした「トゥー・ステップス・ビハインド」 (Two Steps Behind) はこのアルバムに収められている。<br />
+<br />
+1<a href="http://localhost/keyword/995%E5%B9%B4">995年</a>には彼ら初のベスト・アルバム『<a href="http://localhost/keyword/%E3%83%87%E3%83%95%E3%83%BB%E3%83%AC%E3%83%91%E3%83%BC%E3%83%89">デフ・レパード</a>・グレイテスト・ヒッツ』 (Vault: Def Leppard&#39;s Greatest Hits (1980-1995) ) をリリース。新曲として「ラヴ・アンド・ヘイト」(When Love &amp; Hate Collide)がシングル・ヒットし、チャートインした。<br />
+<br />
+1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a>に<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>ぶりの6thアルバム『スラング』 (Slang) をリリースしたが、作風が過去の作品群とは異なっていたため、売り上げはふるわなかった。<br />
+<br />
+19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>4月には7thアルバム『<a href="http://localhost/keyword/%E3%83%A6%E3%83%BC%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2">ユーフォリア</a>』 (Euphoria) を発表。先行シングル「プロミセス」 (Promises) がヒットし、メインストリーム・ロックのチャートで3週間1位をキープした。<br />
+<br />
+=== 2000年～ ===<br />
+2001年、彼らのドキュメンタリーDVD『Hysteria - The Def Leppard Story』をリリースした。<br />
+<br />
+200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>7月、8thアルバム『X』 (X) をリリースした。このアルバムは全米初登場で11位となったが、売り上げは思うように伸びずに終わった。このアルバムのツアーは、所属レコード会社との関係が悪かったため、レコード会社から資金を提供されず、バンドの費用負担で行われた。アルバムの売れ行きとは裏腹に、10000人程度収容できる会場をメインに行われた北米ツアーはほぼ満席で、大成功に終わった。<br />
+<br />
+200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>、イギリスで『Best Of』、200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>にはアメリカで『Rock of Ages: The Definitive Collection』のベストアルバムをリリース、それぞれ最高位6位、10位を記録した。また200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>7月にフィラデルフィアで行われたLIVE 8（ライブ・エイト）に参加した。<br />
+<br />
+200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>5月23日（日本発売6月28日）にカバー・アルバム『Yeah!〜イエーイ』 (Yeah!)(スタジオ9作目)をリリース。<br />
+<br />
+200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>4月、9thアルバム『ソングス・フロム・ザ・スパークル・ラウンジ』 (Songs from the Sparkle Lounge)(スタジオ10作目)をリリースし、全米5位、全英10位を記録した。同アルバムからの先行シングル「ナイン・ライヴス」はアメリカのカントリー歌手、ティム・マッグロウがボーカルと作曲で参加している。本作品のツアーより、ホワイトスネイクとのダブルヘッドライナーでのツアーを敢行、同年、来日を果たし、武道館公演が行われた。<br />
+<br />
+20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>6月7日（日本発売7月20日）に、ライブ・アルバム『ミラー・ボール』(Mirror Ball)をリリース。11月に3年ぶりの来日コンサートが大阪、東京で行われた。<br />
+<br />
+20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>10月30日（世界同時発売）に、<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>ぶりのスタジオ盤となる10thアルバム『<a href="http://localhost/keyword/%E3%83%87%E3%83%95%E3%83%BB%E3%83%AC%E3%83%91%E3%83%BC%E3%83%89">デフ・レパード</a>』(Def Leppard)をリリース。11月に<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>ぶりの来日コンサートが東京、大阪、名古屋、仙台で行われた。<br />
+<br />
+== ディスコグラフィー ==<br />
+=== スタジオアルバム ===<br />
+<br />
+<br />
+=== コンピレーションアルバム ===<br />
+<br />
+<br />
+=== ライブアルバム ===<br />
+<br />
+<br />
+&#39;全米通算売上枚数 3500万枚&#39;<br />
+* 売上はRIAA（全米レコード協会）による認定枚数。<br />
+<br />
+== 日本公演 ==<br />
+*1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a><br />
+:1月24日 渋谷公会堂、25日 大阪厚生年金会館、26日 中野サンプラザ<br />
+*19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a><br />
+:5月17日 国立代々木競技場第一体育館、19日 横浜文化体育館、21日・22日 大阪<a href="http://localhost/keyword/%E3%83%95%E3%82%A7%E3%82%B9">フェス</a>ティバルホール、24日 名古屋市公会堂<br />
+*19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a><br />
+:6月15日 仙台サンプラザ、16日 横浜文化体育館、18日 大阪城ホール、19日 広島厚生年金会館、21日 - 23日 日本武道館<br />
+*1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a><br />
+:6月11日 名古屋国際会議場センチュリーホール、13日 広島厚生年金会館、14日 福岡サンパレスホール、17日 大阪城ホール、18日・19日 日本武道館、21日 横浜文化体育館、22日 仙台サンプラザ<br />
+*19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a><br />
+:9月24日 名古屋市民会館、26日 大阪<a href="http://localhost/keyword/%E3%83%95%E3%82%A7%E3%82%B9">フェス</a>ティバルホール、27日 大阪厚生年金会館、28日 Zepp Fukuoka、30日・10月1日・2日 東京国際フォーラム ホールA、4日 パシフィコ横浜国立大ホール<br />
+*200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a><br />
+:11月17日 Zepp Sendai、18日 金沢市観光会館、20日 愛知厚生年金会館、21日 大阪厚生年金会館、22日 神奈川県民ホール、25日 - 27日 渋谷公会堂<br />
+*200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a><br />
+:ホワイトスネイクとのジョイント・ツアー<br />
+:10月23日・24日 日本武道館、27日 大阪城ホール、28日 名古屋 日本ガイシホール<br />
+*20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a><br />
+:11月5日 グラン<a href="http://localhost/keyword/%E3%82%AD%E3%83%A5%E3%83%BC">キュー</a>ブ大阪、7日・8日 東京国際フォーラム ホールA<br />
+*20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a><br />
+:11月9日 日本武道館、10日 オリックス劇場、12日 Zepp Nagoya、13日 仙台サンプラザ<br />
+<br />
+== 出典 ==<br />
+<br />
+<br />
+== 外部リンク ==<br />
+<br />
+*[http://www.defleppard.com/ DefLeppard.com] （英語）<br />
+*[http://www.universal-music.co.jp/u-pop/artist/defleppard/ DEF LEPPARD（ユニバーサルミュージック）]<br />
+*[http://www.defleppardworld.com/ Def Leppard Discography]<br />
+*[http://www.defleppardforum.com/ Def Leppard Forum]<br />
+* [http://www.sheffield.gov.uk/out--about/tourist-information/visitor-attractions/sheffield-legends/def-leppard Def Leppard @ Sheffield Walk of Fame]<br />
+* <br />
+<br />
+<br />
+<br />
+<br />
+*<br />
+Category:イングランドのハードロック・バンド<br />
+Category:イングランドのヘヴィメタル・バンド<br />
+Category:5人組の音楽グループ<br />
+Category:アイランド・レコードのアーティスト<br />
+Category:1<a href="http://localhost/keyword/977%E5%B9%B4">977年</a>に結成したバンド<br />
+<br />
+<br />

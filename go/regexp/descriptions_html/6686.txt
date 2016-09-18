@@ -1,0 +1,37 @@
+description<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%BA%A4%E9%80%9A%E5%B1%80A830%E5%BD%A2%E9%9B%BB%E8%BB%8A">札幌市交通局A830形電車</a>&#39;（さっぽろしこうつうきょくエー830がたでんしゃ）とは、札幌市交通局が1<a href="http://localhost/keyword/965%E5%B9%B4">965年</a>に導入した札幌市電の路面電車車両である。<br />
+<br />
+== 概要 ==<br />
+<br />
+<br />
+A830形は、1<a href="http://localhost/keyword/965%E5%B9%B4">965年</a>（昭和40年）、前年に登場したA820形の改良形として製造された連接車（同局での呼称は「連結車」）である。A831+A832号 - A841+A842号の6編成12車体。<br />
+<br />
+A820形同様の曲面を多用したスタイルで登場した。A820形で一旦両開きに戻った中扉はさらなる乗客流動の改善のため車端に寄せられ、二枚重ねの片開き式扉となった。この扉は冬季の閑散時の車内保温のため、一枚（半分）のみの開閉も可能であった。運転席右側の扉（運転時に最後部となる4番めの扉）は廃止され、片側3扉となった。美しいスタイルと、完成の域に達したパッセンジャーフローの乗降方式などが内外で高く評価され、<a href="http://localhost/keyword/%E9%89%84%E9%81%93%E5%8F%8B%E3%81%AE%E4%BC%9A">鉄道友の会</a>のローレル賞を受賞した。A820形とともに19<a href="http://localhost/keyword/76%E5%B9%B4">76年</a>（昭和<a href="http://localhost/keyword/51%E5%B9%B4">51年</a>）6月に連接車の運行が中止となるまで運用された。<br />
+<br />
+== 廃車 ==<br />
+<br />
+A831-A832号 - A835-A836号の3編成は1<a href="http://localhost/keyword/977%E5%B9%B4">977年</a>（昭和<a href="http://localhost/keyword/52%E5%B9%B4">52年</a>）に休車となり、長期に渡って電車車両センターに留置されたままであったが、1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>（昭和<a href="http://localhost/keyword/59%E5%B9%B4">59年</a>）12月に廃車となり解体された。<br />
+<br />
+A837-A838号 - A841-A842号の3編成は19<a href="http://localhost/keyword/76%E5%B9%B4">76年</a>（昭和<a href="http://localhost/keyword/51%E5%B9%B4">51年</a>）5月に廃車となり、名古屋鉄道に譲渡された。同社ではモ870形として美濃町線で使用され、うちA837-A838号（モ871-872）の1編成が19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>（昭和<a href="http://localhost/keyword/63%E5%B9%B4">63年</a>）に、残る2編成も200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>（平成<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）の同線廃止で廃車になっている。なお、A841号（モ875）の前頭部（カットボディ）のみ美濃駅跡に保存されている。<br />
+<br />
+== 主要諸元（2車体分） ==<br />
+* 全長：21,800 mm<br />
+* 全幅：2,230 mm<br />
+* 全高：3,515 mm（奇数車）、3,465 mm（偶数車）<br />
+* 自重：25 t<br />
+* 定員：150名<br />
+* 出力・駆動方式：45.0 kW ×3・吊り掛け式<br />
+* 台車型式<br />
+** A831 - A836：日本車輌製造N-108（両端）・N-109（連接部）<br />
+** A837 - A842：東急車輛製造TS-119（両端）・TS-120（連接部）<br />
+<br />
+<br />
+<br />
+<br />
+A830<br />
+Category:1<a href="http://localhost/keyword/965%E5%B9%B4">965年</a>製の鉄道車両<br />
+Category:日本車輌製造製の電車<br />
+Category:東急車輛製造製の電車<br />
+さつほろしこうつうきよくA830かたてんしや<br />
+Category:連接式の鉄道車両<br />

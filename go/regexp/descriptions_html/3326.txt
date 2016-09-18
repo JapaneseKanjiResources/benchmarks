@@ -1,0 +1,77 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E5%8F%A4%E8%AA%9E%E6%8B%BE%E9%81%BA">古語拾遺</a>&#39;（こごしゅうい）は平安時代の神道資料である。官人であった斎部広成が大同<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>（<a href="http://localhost/keyword/807%E5%B9%B4">807年</a>）に編纂した。全1巻。<br />
+<br />
+==成立==<br />
+<a href="http://localhost/keyword/807%E5%B9%B4">807年</a>（大同<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）2月13日に書かれたとされている。大同元年（<a href="http://localhost/keyword/806%E5%B9%B4">806年</a>）とする写本もある。だが、跋（あとがき）に「方今、聖運初めて啓け…宝暦惟新に」とある。このことから、<a href="http://localhost/keyword/%E5%B9%B3%E5%9F%8E%E5%A4%A9%E7%9A%87">平城天皇</a>即位による改元の<a href="http://localhost/keyword/806%E5%B9%B4">806年</a>（延暦<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>・大同元年）5月18日以降であることがわかり、「大同元年」説は誤りということが分かる。<br />
+<br />
+『日本後紀』の大同元年8月10日の条に、『以前から続いていた「中臣・忌部相訴」に対する勅裁があった』とある。この条文から、「大同元年」論者は『<a href="http://localhost/keyword/%E5%8F%A4%E8%AA%9E%E6%8B%BE%E9%81%BA">古語拾遺</a>』をこの勅裁に先立つ証拠書類だと考えた。しかし、本文はこの8月10日の出来事を前提に書かれているので矛盾することとなる。<br />
+<br />
+==選者==<br />
+斎部広成の伝記は『日本後紀』の<a href="http://localhost/keyword/808%E5%B9%B4">808年</a>（大同3年）11月17日の条に「正六位上」から「従五位下」に昇ったとあるのみで、ほかのことはわからない。ちなみに、この昇階は<a href="http://localhost/keyword/%E5%B9%B3%E5%9F%8E%E5%A4%A9%E7%9A%87">平城天皇</a>の大嘗祭の功によるものだろうという。ところが、本書の跋には「従五位下」とあり、<a href="http://localhost/keyword/807%E5%B9%B4">807年</a>（大同<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）当時は「正六位上」だったはずである。これは後世の改変だと考えられている。<br />
+<br />
+==目的==<br />
+===愁訴陳情書説===<br />
+元々、斎部氏は朝廷の祭祀を司る氏族だった。しかし、大化の改新以降、同様に祭祀を司っていた中臣氏（藤原姓を与えられたが、後に別流は中臣姓に戻された）が政治的な力を持ち、祭祀についても役職は中臣氏だけが就いているという状況だった。本書は斎部氏の正統性を主張し有利な立場に立つために著されたものであると考えられる。<br />
+<br />
+===調査報告書説===<br />
+「愁訴陳情書説」が古くから唱えられていた。現在では朝廷が行った法制整備のための事前調査に対する忌部氏の報告書であるという説が有力である。<br />
+<br />
+伊勢神宮の奉幣使の役職をめぐって忌部氏と中臣氏は長年争ってきたが、大同1年8月10日に忌部氏に対する勝訴判決が出ている。本書が上呈された大同<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>2月13日はこの判決の後である。「勝訴」のあとに陳情を出すのは不自然なことから、「愁訴陳情書説」は説得力を欠くことになる。<br />
+<br />
+ときの天皇である<a href="http://localhost/keyword/%E5%B9%B3%E5%9F%8E%E5%A4%A9%E7%9A%87">平城天皇</a>は式（律令の施行規則）を制定する方針をもっていた。本書の跋に「造式の年」とあり、<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>後の嵯峨天皇<a href="http://localhost/keyword/820%E5%B9%B4">820年</a>(弘仁<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>)4月に『弘仁式』ができている。このことから、造式のための調査報告書だった可能性が指摘されている。また、同時期には『延暦儀式帳』が伊勢神宮から提出されている。これも造式に備えた事前調査の一環だったといわれており、『<a href="http://localhost/keyword/%E5%8F%A4%E8%AA%9E%E6%8B%BE%E9%81%BA">古語拾遺</a>』と同じ流れに沿ったものだといわれている。<br />
+<br />
+==内容==<br />
+*序<br />
+*本文<br />
+**神代古伝承<br />
+**神武天皇以降の古伝承<br />
+**古伝承に抜けた11カ条<br />
+**御歳神祭祀の古伝承<br />
+*跋<br />
+<br />
+天地開闢から天平年間（<a href="http://localhost/keyword/729%E5%B9%B4">729年</a>-<a href="http://localhost/keyword/749%E5%B9%B4">749年</a>）までが記されている。『古事記』や『日本書紀』などの史書にはみられない斎部氏に伝わる伝承も取り入れられている。<br />
+<br />
+斎部氏は天太玉命の子孫とされている。このことから、天太玉命ら斎部氏の祖神の活躍が記紀よりも多く記されている。例えば、岩戸隠れの場面においては天太玉命が中心的役割を果たしている。<br />
+<br />
+==影響==<br />
+『先代旧事本紀』、『本朝月令』、『政事要略』、『長寛勘文』、『年中行事秘抄』、『釈日本紀』や伊勢神道の文献などに利用・引用された。神典として重視されてきたことがわかる。<br />
+<br />
+==研究==<br />
+1<a href="http://localhost/keyword/773%E5%B9%B4">773年</a>（安永<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）に奈佐勝皋（かつたか）が『疑斎』を著している。その中で、『<a href="http://localhost/keyword/%E5%8F%A4%E8%AA%9E%E6%8B%BE%E9%81%BA">古語拾遺</a>』を「斎部氏の衰廃を愁訴したるに過ぎざるのみ」と批判している。これに対して、<a href="http://localhost/keyword/%E6%9C%AC%E5%B1%85%E5%AE%A3%E9%95%B7">本居宣長</a>は『疑斎弁』を著して『<a href="http://localhost/keyword/%E5%8F%A4%E8%AA%9E%E6%8B%BE%E9%81%BA">古語拾遺</a>』を弁護した。<br />
+<br />
+近代以降では、1<a href="http://localhost/keyword/928%E5%B9%B4">928年</a>（昭和3年）に津田左右吉が『<a href="http://localhost/keyword/%E5%8F%A4%E8%AA%9E%E6%8B%BE%E9%81%BA">古語拾遺</a>の研究』で、執筆当時の歴史史料とはなるが記紀以前のことを知るための史料としては価値がないと評価している。<br />
+<br />
+これまで記紀と比して重要性は薄いとされてきた。現在では重要性が再評価されつつある。<br />
+<br />
+== 刊行本 ==<br />
+*『<a href="http://localhost/keyword/%E5%8F%A4%E8%AA%9E%E6%8B%BE%E9%81%BA">古語拾遺</a>』斎部広成撰、西宮一民校注（岩波文庫） <br />
+**原本、注釈、解説から成る。<br />
+*『<a href="http://localhost/keyword/%E5%8F%A4%E8%AA%9E%E6%8B%BE%E9%81%BA">古語拾遺</a>・高橋氏文』安田尚道・秋本吉徳校註（現代思想社　新撰日本古典文庫）<br />
+**訓読、注釈、補注、原文（校異付き）、解説。<br />
+*『<a href="http://localhost/keyword/%E5%8F%A4%E8%AA%9E%E6%8B%BE%E9%81%BA">古語拾遺</a>講義 稜威男健（いつのをたけび）』栗田寛<br />
+**明治時代の註釈書。<br />
+*『<a href="http://localhost/keyword/%E5%8F%A4%E8%AA%9E%E6%8B%BE%E9%81%BA">古語拾遺</a>を読む』（右文書院、200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>） ISBN 4-8421-0039-7<br />
+<br />
+==脚注==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+*白川伯王家<br />
+*歴史書一覧<br />
+<br />
+== 外部リンク ==<br />
+*[http://www.isis.ne.jp/landscape/020216.html 言葉の景色　<a href="http://localhost/keyword/%E5%8F%A4%E8%AA%9E%E6%8B%BE%E9%81%BA">古語拾遺</a>]<br />
+*[http://www.isis.ne.jp/mnn/senya/senya0571.html 松岡正剛の千夜千冊『<a href="http://localhost/keyword/%E5%8F%A4%E8%AA%9E%E6%8B%BE%E9%81%BA">古語拾遺</a>』]<br />
+*[http://miko.org/~uraki/kuon/furu/text/kogosyuui/syuui01.htm 電子テキスト『<a href="http://localhost/keyword/%E5%8F%A4%E8%AA%9E%E6%8B%BE%E9%81%BA">古語拾遺</a>』]<br />
+*[http://www.ceres.dti.ne.jp/~alex-x/wakan/kogo1.html <a href="http://localhost/keyword/%E5%8F%A4%E8%AA%9E%E6%8B%BE%E9%81%BA">古語拾遺</a>]<br />
+*[http://www004.upp.so-net.ne.jp/dassai1/kogoshuui/kogoshuui_gen.htm <a href="http://localhost/keyword/%E5%8F%A4%E8%AA%9E%E6%8B%BE%E9%81%BA">古語拾遺</a>　一卷　加序　　從五位下齋部宿禰廣成 撰]<br />
+*[http://replay.web.archive.org/20080609115305/http://applepig.idv.tw/kuon/furu/text/kogosyuui/syuui01.htm <a href="http://localhost/keyword/%E5%8F%A4%E8%AA%9E%E6%8B%BE%E9%81%BA">古語拾遺</a>]<br />
+*<br />
+<br />
+<br />
+<br />
+Category:日本神話<br />
+Category:神道の文献<br />
+Category:平安時代の書籍<br />
+Category:9世紀の書籍<br />
+書ここしゆうい<br />

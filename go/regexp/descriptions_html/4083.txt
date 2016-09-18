@@ -1,0 +1,16 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E5%A4%89%E5%BD%A2%E5%85%B1%E5%AD%98%E7%8F%BE%E8%B1%A1">変形共存現象</a>&#39;（へんけいきょうぞんげんしょう）とは、ある一つの<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E6%A0%B8">原子核</a>においてエネルギーのほぼ等しい複数の変形した状態が安定して存在する現象のことである。<br />
+<br />
+== 概要 ==<br />
+<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E6%A0%B8">原子核</a>には、球形のみならず様々に変形した状態があることが知られている。<br />
+球形から変形した度合いを、その<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E6%A0%B8">原子核</a>の変形度という。<br />
+平均場理論に基づいて考えると、この変形度はある種の秩序変数とみなせ、<a href="http://localhost/keyword/%E5%A4%89%E5%BD%A2%E5%85%B1%E5%AD%98%E7%8F%BE%E8%B1%A1">変形共存現象</a>とは、変形度という秩序変数を持つ平衡点が複数存在し、その間のエネルギー差が小さい状況が一つの<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E6%A0%B8">原子核</a>において実現している現象であると言える。<br />
+<br />
+このような現象は、非常に広範囲の<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E6%A0%B8">原子核</a>で観測されている。<br />
+その中でも質量数 \\sim 50-100 領域における陽子過剰核や、中性子の少ないSm,Pbアイソトープにおける<a href="http://localhost/keyword/%E5%A4%89%E5%BD%A2%E5%85%B1%E5%AD%98%E7%8F%BE%E8%B1%A1">変形共存現象</a>がよく知られている。<br />
+<br />
+== <a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E6%A0%B8">原子核</a>における変形状態 ==<br />
+ニルソン図における変形シェル構造は、どの<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E6%A0%B8">原子核</a>に安定した変形状態があるかを判断する目安となる。<br />
+<br />
+<br />
+Category:<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E6%A0%B8">原子核</a>物理学<br />

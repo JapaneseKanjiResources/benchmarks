@@ -1,0 +1,52 @@
+description<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E5%9C%9F%E7%9F%B3%E6%B5%81">土石流</a>&#39;（どせきりゅう、英語：debris flow）とは、土砂が水（雨水や地下水）と混合して、河川・渓流などを流下する現象のこと[http://www.mlit.go.jp/river/sabo/link03021.htm 国土交通省 &gt;&gt; 政策・仕事  &gt;&gt; 水管理・国土保全トップ  &gt;&gt; 砂防 <a href="http://localhost/keyword/%E5%9C%9F%E7%9F%B3%E6%B5%81">土石流</a>とは]。土砂災害の原因の一つ。&#39;山津波&#39;（やまつなみ）ともいう。<br />
+<br />
+なお、日本の法令上は「<a href="http://localhost/keyword/%E5%9C%9F%E7%9F%B3%E6%B5%81">土石流</a>」について「山腹が崩壊して生じた土石等又は渓流の土石等が水と一体となって流下する自然現象」と定義されている（土砂災害警戒区域等における土砂災害防止対策の推進に関する法律2条）。<br />
+<br />
+== 発生のメカニズム ==<br />
+<a href="http://localhost/keyword/%E5%9C%9F%E7%9F%B3%E6%B5%81">土石流</a>は、集中豪雨が主要因となる[http://www.pref.yamaguchi.lg.jp/cms/a18500/kentouiinkai/kentouiinkai.html 山口県<a href="http://localhost/keyword/%E5%9C%9F%E7%9F%B3%E6%B5%81">土石流</a>災害対策検討委員会（平成<a href="http://localhost/keyword/21%E5%B9%B4">21年</a>7月21日豪雨災害）の例]。発生のメカニズムは大きく次の3つに区分される場合が多い。<br />
+<br />
+# 渓流内に堆積している不安定な土砂が、集中豪雨等による異常な出水のはたらきで流動化し、<a href="http://localhost/keyword/%E5%9C%9F%E7%9F%B3%E6%B5%81">土石流</a>となる場合。<br />
+# 集中豪雨、あるいはその他の自然現象が原因となり発生した山腹崩壊（土砂崩れ）の崩壊土砂が、多量の湧水や表流水を得て流動化し、渓流内に流れ込みそのまま<a href="http://localhost/keyword/%E5%9C%9F%E7%9F%B3%E6%B5%81">土石流</a>化する場合。なお、このケースの物理的なメカニズムは未だに解明されていない。<br />
+# 集中豪雨、あるいはその他の自然現象が原因となり、地すべりや山腹崩壊が発生した際、その崩壊土砂により河川が一時的に閉塞されて天然ダムを形成する。その後、湛水に伴う水位上昇により、それが決壊して<a href="http://localhost/keyword/%E5%9C%9F%E7%9F%B3%E6%B5%81">土石流</a>化する場合。<br />
+<br />
+また、火山の噴火に伴う融雪[http://www.bousai.go.jp/jishin/chubou/kyoukun/rep/kouhou042_20-21.pdf 過去の災害に学ぶ（第15回）1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>十勝岳泥流災害（こうほう防災№42）]、火山湖の決壊、地震による山体崩壊[http://www.rinya.maff.go.jp/tohoku/introduction/gaiyou_kyoku/annai/panph/pdf/sanchi1.pdf 山地災害の記録-平成<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>岩手・宮城内陸地震-（林野庁東北森林管理局パンフレット）]などに起因することもある。<br />
+<br />
+== 鉄砲水との区別 ==<br />
+流れてきたものが土砂の割合が多ければ&#39;<a href="http://localhost/keyword/%E5%9C%9F%E7%9F%B3%E6%B5%81">土石流</a>&#39;、水分の割合が多ければ&#39;鉄砲水&#39;と区別される。<br />
+<br />
+== 対策 ==<br />
+<a href="http://localhost/keyword/%E5%9C%9F%E7%9F%B3%E6%B5%81">土石流</a>の流下を抑止するために設置された砂防ダム（[[スリットダム）]]<br />
+<a href="http://localhost/keyword/%E5%9C%9F%E7%9F%B3%E6%B5%81">土石流</a>の発生や流下する区間は、河川の勾配により推測することができる。一般に<a href="http://localhost/keyword/%E5%9C%9F%E7%9F%B3%E6%B5%81">土石流</a>の発生区間は、河床勾配20度以上の勾配を有する区間であり、8度を下回ると堆積が始まり、3度以下で水と土石が分離して停止する。ただし、実際に流下する際には、渓流幅の変化や流体中の石レキ成分比、含水率によって変化する鮏川登『河川工学-土木教程選書』鹿島出版会p158。<br />
+<br />
+砂防事業による砂防ダム、治山事業による治山ダムなどの発生源対策、流下抑止対策。雨量観測及びデータ送信システムの整備、地域住民の伝達等の避難態勢の構築等が対策となる。<br />
+<br />
+== 避難の目安 ==<br />
+[[長野県南木曽町を襲った<a href="http://localhost/keyword/%E5%9C%9F%E7%9F%B3%E6%B5%81">土石流</a>を機に建立された石像。当地では<a href="http://localhost/keyword/%E5%9C%9F%E7%9F%B3%E6%B5%81">土石流</a>のことを「蛇抜け」と呼び、「白い雨が降る」「谷の水が止まる」と<a href="http://localhost/keyword/%E5%9C%9F%E7%9F%B3%E6%B5%81">土石流</a>が起こると伝わる長野県建設部砂防課「[http://www.pref.nagano.lg.jp/sabo/kyoiku/shogai/bosai/doshasaigai/hebinuke.html 蛇ぬけの碑]」20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>8月25日更新、20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>7月10日閲覧。宮澤清治「[http://www.bousaihaku.com/cgi-bin/hp/index2.cgi?ac1=B431&amp;ac2=&amp;ac3=3364&amp;Page=hpd2_view 宮澤清治の防災歳時記 37 悲しめる乙女の像]」『[http://www.isad.or.jp/cgi-bin/hp/index.cgi?ac1=IB17&amp;ac2=77summer&amp;Page=hpd_view 消防科学と情報 200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>夏号]』消防科学総合センター、20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>7月10日閲覧。。]]<br />
+<a href="http://localhost/keyword/%E5%9C%9F%E7%9F%B3%E6%B5%81">土石流</a>の発生は、雨量計で把握できない局所的な集中豪雨が引き金となる場合もあり、地元自治体からの避難勧告はもとより、自発的な判断による早期の避難が安全につながる。<br />
+<br />
+== その他 ==<br />
+文献にない<a href="http://localhost/keyword/%E5%9C%9F%E7%9F%B3%E6%B5%81">土石流</a>・泥流の痕跡を把握する方法として、地質層の上下関係の年代が逆転していないかを調査することで、発生したエリアと年代を特定することができる。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* スリットダム<br />
+* ハザードマップ<br />
+* 天然ダム<br />
+* <a href="http://localhost/keyword/%E5%9C%9F%E7%9F%B3%E6%B5%81">土石流</a>センサー<br />
+* 斜面崩壊<br />
+* ラハール<br />
+* 昭和<a href="http://localhost/keyword/36%E5%B9%B4">36年</a>梅雨前線豪雨<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:河川<br />
+Category:土砂災害<br />
+Category:水文学<br />

@@ -1,0 +1,92 @@
+description<br />
+ <br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面4線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/898%E5%B9%B4">898年</a>（明治<a href="http://localhost/keyword/31%E5%B9%B4">31年</a>）7月10日<br />
+|廃止年月日 =<br />
+|乗車人員 = 2,631<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換 =<br />
+|備考 = 業務委託駅みどりの窓口 有<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E5%A4%A9%E7%AB%9C%E5%B7%9D%E9%A7%85">天竜川駅</a>&#39;（てんりゅうがわえき）は、静岡県浜松市東区天龍川町にある、東海旅客鉄道（JR東海）東海道本線の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/898%E5%B9%B4">898年</a>（明治<a href="http://localhost/keyword/31%E5%B9%B4">31年</a>）7月10日 - 国有鉄道東海道線（1<a href="http://localhost/keyword/909%E5%B9%B4">909年</a>に東海道本線に改称）の中泉（現・磐田） - 浜松間に新設開業。一般駅。<br />
+* 1<a href="http://localhost/keyword/908%E5%B9%B4">908年</a>（明治<a href="http://localhost/keyword/41%E5%B9%B4">41年</a>）8月3日 - 天竜運輸[ 『日本全国諸会社役員録. 明治<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>』]（国立国会図書館デジタルコレクション）（1<a href="http://localhost/keyword/945%E5%B9%B4">945年</a>合併して日本通運天竜川支店）専用線（<a href="http://localhost/keyword/%E5%A4%A9%E7%AB%9C%E5%B7%9D%E9%A7%85">天竜川駅</a>-天竜川岸半場間 2.6キロ）開通[ 『地方鉄道及軌道一覧 : 附・専用鉄道. 昭和<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>4月1日現在』]（国立国会図書館デジタルコレクション）<br />
+* 1<a href="http://localhost/keyword/972%E5%B9%B4">972年</a>（昭和<a href="http://localhost/keyword/57%E5%B9%B4">57年</a>）3月15日 - 専用線発着を除く貨物の取扱を廃止。<br />
+* 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>（昭和<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>）3月14日 - 荷物の取扱を廃止。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により東海旅客鉄道・日本貨物鉄道の駅となる。<br />
+* 19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>（平成<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>） - 貨物列車の発着がなくなる。<br />
+* 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>（平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）4月1日 - JR貨物の駅が廃止され、貨物の取扱が終了。<br />
+* 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>（平成<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）3月1日 - TOICAのサービス開始。<br />
+<br />
+=== 予定 ===<br />
+* 20<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>（平成<a href="http://localhost/keyword/29%E5%B9%B4">29年</a>）- 橋上駅舎、南北自由通路工事開始予定。<br />
+* 20<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>（平成<a href="http://localhost/keyword/30%E5%B9%B4">30年</a>）- 橋上駅舎、南北自由通路完成予定。<br />
+<br />
+== 駅構造 ==<br />
+ホーム（20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>1月）<br />
+島式ホーム2面4線を有する地上駅。駅舎は構内北側にあり、ホームとは跨線橋で繋がっている。なお、2・3番線が本線で、1・4番線が副本線となっているが、200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>3月改正ダイヤでの定期<a href="http://localhost/keyword/%E6%97%85%E5%AE%A2%E5%88%97%E8%BB%8A">旅客列車</a>は2・3番線のみを使用している。<br />
+<br />
+東海交通事業の職員が業務を担当する業務委託駅で、浜松駅が当駅を管理している。みどりの窓口がある。現在、橋上駅舎化および駅周辺の整備が計画されている。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+かつては、駅東側の天竜川西岸（東区材木町）へ日本通運の専用鉄道（全長2.1km、全線非電化）が伸びていた。晩年は石油輸送に使用されていたが、19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>（平成<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）に廃止された。また、1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>頃まで駅西側のヤマハ天竜工場へ続く専用線、上り本線と平行した駅東側の鈴与専用線、日本通運の専用線から分岐するソーダニッカの専用線も存在した。<br />
+<br />
+== 利用状況 ==<br />
+「静岡県統計年鑑」によると、1日の平均乗車人員は以下の通りである。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+駅周辺は浜松市東区の中心地である。駅所在地の地名である天龍川町は、この地域（旧橋羽村）が浜松市に合併した際に、<a href="http://localhost/keyword/%E5%A4%A9%E7%AB%9C%E5%B7%9D%E9%A7%85">天竜川駅</a>にちなんで命名されたものである。町域は全く河川としての天竜川には接しておらず、この駅から見て1.5kmほどの距離がある。<br />
+* ヤマハ天竜工場<br />
+* 杏林堂薬局 和田店<br />
+* 浜松橋羽郵便局<br />
+* 浜松アリーナ<br />
+* 国道1号<br />
+* 松東遺跡<br />
+* 天竜川<br />
+* [http://www.genkotsu-hb.com/shop/shops/shop029.html さわやか浜松篠ヶ瀬店]　<br />
+* ヤマダ電機テックランド浜松本店<br />
+* [http://www.mv-tokai.com/shop/%e3%83%9e%e3%83%83%e3%82%af%e3%82%b9%e3%83%90%e3%83%aa%e3%83%a5%e3%82%a8%e3%82%af%e3%82%b9%e3%83%97%e3%83%ac%e3%82%b9-%e6%b5%9c%e6%9d%be%e5%a4%a9%e7%ab%9c%e5%b7%9d%e5%ba%97/ マックスバリュエクスプレス浜松天竜川店]<br />
+* [http://www.mv-tokai.com/shop/%e3%83%9e%e3%83%83%e3%82%af%e3%82%b9%e3%83%90%e3%83%aa%e3%83%a5-%e6%b5%9c%e6%9d%be%e5%92%8c%e7%94%b0%e5%ba%97/ マックスバリュ浜松和田店]<br />
+* エディオン浜松和田店<br />
+* ニトリ浜松和田店<br />
+* [http://www.autorimessa.com/shop/wada_interior.html オートリメッサ浜松和田店]<br />
+<br />
+=== バス路線 ===<br />
+<a href="http://localhost/keyword/%E5%A4%A9%E7%AB%9C%E5%B7%9D%E9%A7%85">天竜川駅</a>バス停は浜松アリーナ発着臨時便のみの運行となっている。過去にはコミュニティバス&#39;ひがしくん&#39;がイオンモール浜松市野まで運行されていた。<br />
+<br />
+最寄りの路線バス停留所は徒歩数分のところにある80中ノ町磐田線橋羽バス停。<br />
+<br />
+いずれも運行は遠州鉄道。<br />
+<br />
+== 隣の駅 ==<br />
+<br />
+; 東海旅客鉄道<br />
+: 東海道本線<br />
+:: 豊田町駅 - &#39;<a href="http://localhost/keyword/%E5%A4%A9%E7%AB%9C%E5%B7%9D%E9%A7%85">天竜川駅</a>&#39; - 浜松駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+<br />
+んりゆうかわ<br />
+Category:浜松市の鉄道駅<br />
+Category:東海旅客鉄道の鉄道駅<br />
+Category:日本貨物鉄道の廃駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/898%E5%B9%B4">898年</a>開業の鉄道駅<br />
+Category:東海道線 (JR東海)<br />
+てんりゆうかわえき<br />

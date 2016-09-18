@@ -1,0 +1,87 @@
+description<br />
+<br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/917%E5%B9%B4">917年</a>（大正<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）11月25日<br />
+|廃止年月日 =<br />
+|乗車人員 = 1,350<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|備考 = 業務委託駅（夜間無人駅）みどりの窓口 有<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E7%BE%8E%E4%B9%83%E5%9D%82%E6%9C%AC%E9%A7%85">美乃坂本駅</a>&#39;（みのさかもとえき）は、岐阜県中津川市千旦林坂本にある、東海旅客鉄道（JR東海）中央本線の駅である。<br />
+<br />
+駅名は「&#39;美濃&#39;坂本」ではない。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/917%E5%B9%B4">917年</a>（大正<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）11月25日 - 国鉄中央本線の中津川 - 大井（現・恵那）間に新設開業。一般駅。<br />
+* 1<a href="http://localhost/keyword/961%E5%B9%B4">961年</a>（昭和<a href="http://localhost/keyword/36%E5%B9%B4">36年</a>）5月21日 - 貨物の取扱いを廃止。<br />
+* 1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>（昭和<a href="http://localhost/keyword/59%E5%B9%B4">59年</a>）2月1日 - 荷物の取扱いを廃止。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、東海旅客鉄道の駅となる。<br />
+* 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>（平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）11月25日 - TOICA導入。<br />
+<br />
+=== <a href="http://localhost/keyword/%E3%83%AA%E3%83%8B%E3%82%A2">リニア</a>中央新幹線関連 ===<br />
+<a href="http://localhost/keyword/%E3%83%AA%E3%83%8B%E3%82%A2">リニア</a>中央新幹線の岐阜県内の中間駅の設置候補地として、当駅付近が提示されている（地上駅を予定）。また、車両基地も当駅付近に設置される計画である。<br />
+<br />
+岐阜県は20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>2月17日、<a href="http://localhost/keyword/%E3%83%AA%E3%83%8B%E3%82%A2">リニア</a>を観光に活用するため当駅から恵那駅を経て明知線明智駅まで観光客用の蒸気機関車を走らせる構想を明らかにした。機関車はC12形244号を使用する予定である。<br />
+<br />
+== 駅構造 ==<br />
+島式ホーム1面2線を持つ地上駅。駅舎とホームは跨線橋で連絡している。<br />
+<br />
+東海交通事業の職員が業務を担当する業務委託駅で、中津川駅が当駅を管理している。構内南側にある駅舎の内部には、みどりの窓口などが置かれている。なお、早朝・昼・深夜は駅員が不在となる。<br />
+<br />
+自動改札機はないが、簡易TOICA改札機が設置されている。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+== 利用状況 ==<br />
+「中津川市統計書」によると、当駅の一日平均乗車人員は以下の通り推移している。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* [http://www.city.nakatsugawa.gifu.jp/branch/sakamoto/ 中津川市役所坂本事務所]（旧：坂本コミュニティセンター）<br />
+* 坂本郵便局<br />
+* 中津川市立坂本小学校<br />
+* 中津川市立坂本中学校<br />
+* 岐阜県立中津川工業高等学校<br />
+* 職業能力開発校木匠塾<br />
+* 中山道<br />
+* 中央自動車道 中津川インターチェンジ<br />
+* 国道19号<br />
+* 中津川公園<br />
+** 中津川公園野球場<br />
+<br />
+=== バス路線 ===<br />
+* 北恵那交通バス<br />
+** 「美乃坂本」 - 恵那線<br />
+* 東鉄バス<br />
+** 「坂本駅前」 - 中津川線<br />
+<br />
+== 駅名の由来 ==<br />
+開業した当時の地名（恵那郡<a href="http://localhost/keyword/%E5%9D%82%E6%9C%AC%E6%9D%91">坂本村</a>）が由来。駅が設置された当時、既に肥薩線（当時は鹿児島本線）に坂本駅が存在していたため、<a href="http://localhost/keyword/%E6%97%A7%E5%9B%BD%E5%90%8D">旧国名</a>の美濃を頭に冠した&#39;美濃坂本&#39;となる予定であったが、実際は&#39;美乃坂本&#39;と命名された。これは美濃の「濃」の字が複雑だった事から美濃の住民たちがしばしば簡略字の「乃」を用いた「美乃」と言う文字を使っていたためで、<a href="http://localhost/keyword/%E5%9D%82%E6%9C%AC%E6%9D%91">坂本村</a>でも開業当時には既にこの「美乃」と言う簡略字が定着していたため、当時の村長や住民の請願によりそのまま駅名に用いられた。<br />
+<br />
+== 隣の駅 ==<br />
+<br />
+; 東海旅客鉄道<br />
+: 中央本線<br />
+:: 快速・普通<br />
+::: 中津川駅 - &#39;<a href="http://localhost/keyword/%E7%BE%8E%E4%B9%83%E5%9D%82%E6%9C%AC%E9%A7%85">美乃坂本駅</a>&#39; - 恵那駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+* 中央線 (名古屋地区)<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+のさかもと<br />
+Category:東海旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:中央本線<br />
+Category:中津川市の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/917%E5%B9%B4">917年</a>開業の鉄道駅<br />

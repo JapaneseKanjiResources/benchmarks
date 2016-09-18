@@ -1,0 +1,63 @@
+description<br />
+<br />
+|駅構造 = 高架駅<br />
+|ホーム = 島式ホーム1面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/973%E5%B9%B4">973年</a>（昭和<a href="http://localhost/keyword/48%E5%B9%B4">48年</a>）7月1日<br />
+|廃止年月日 =<br />
+|乗車人員 = 22<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換 =<br />
+|備考 = 簡易委託駅<br />
+}}<br />
+プラットホーム外観  200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>9月8日撮影<br />
+&#39;<a href="http://localhost/keyword/%E4%B8%89%E9%99%B8%E9%A7%85">三陸駅</a>&#39;（さんりくえき）は、岩手県大船渡市<a href="http://localhost/keyword/%E4%B8%89%E9%99%B8%E7%94%BA">三陸町</a>越喜来にある三陸鉄道南リアス線の駅である。旧<a href="http://localhost/keyword/%E4%B8%89%E9%99%B8%E7%94%BA">三陸町</a>の代表駅であった。<br />
+<br />
+駅の愛称は「&#39;科学の光&#39;」。北里大学海洋生命科学部三陸キャンパスが駅東方に所在し、200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>まで三陸大気球観測所も当地に存在していたことに由来する。<br />
+<br />
+== 歴史 == <br />
+* 1<a href="http://localhost/keyword/973%E5%B9%B4">973年</a>（昭和<a href="http://localhost/keyword/48%E5%B9%B4">48年</a>）7月1日 - 国鉄盛線の駅として開業。<br />
+* 1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>（昭和<a href="http://localhost/keyword/59%E5%B9%B4">59年</a>）4月1日 - 三陸鉄道に転換。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）3月11日 - 東日本大震災により南リアス線全線不通、営業休止。<br />
+* 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）4月3日 - 盛 - 吉浜間復旧により営業再開。<br />
+<br />
+== 駅構造 ==<br />
+島式ホーム1面2線をもつ高架駅。<br />
+<br />
+&#39;のりば&#39;<br />
+<br />
+簡易委託駅。出札窓口に売店が併設されている。<br />
+<br />
+== 利用状況 ==<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 大船渡市立越喜来中学校<br />
+* 大船渡市役所 三陸支所（旧・<a href="http://localhost/keyword/%E4%B8%89%E9%99%B8%E7%94%BA">三陸町</a>役場）<br />
+* 三陸郵便局<br />
+* 三陸まるごと体験館<br />
+* 県道9号大船渡綾里三陸線<br />
+* 県道209号崎浜港線<br />
+* 国道45号<br />
+* 越喜来浪板海水浴場<br />
+* 越喜来漁港<br />
+<br />
+== 隣の駅 ==<br />
+; 三陸鉄道<br />
+: 南リアス線<br />
+:: 甫嶺駅 - &#39;<a href="http://localhost/keyword/%E4%B8%89%E9%99%B8%E9%A7%85">三陸駅</a>&#39; - 吉浜駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.sanrikutetsudou.com/?p=628 三陸鉄道 <a href="http://localhost/keyword/%E4%B8%89%E9%99%B8%E9%A7%85">三陸駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+Category:大船渡市の鉄道駅<br />
+んりく<br />
+Category:三陸鉄道の鉄道駅<br />
+Category:日本国有鉄道の廃駅<br />
+Category:1<a href="http://localhost/keyword/973%E5%B9%B4">973年</a>開業の鉄道駅<br />

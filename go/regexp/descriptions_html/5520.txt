@@ -1,0 +1,58 @@
+description<br />
+<br />
+|所属事業者 = 土佐くろしお鉄道<br />
+|所属路線 = 中村線<br />
+|キロ程 = 18.1<br />
+|起点駅 = 窪川<br />
+|所在地 = 高知県幡多郡黒潮町<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 単式 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/963%E5%B9%B4">963年</a>（昭和<a href="http://localhost/keyword/38%E5%B9%B4">38年</a>）12月18日<br />
+|廃止年月日 =<br />
+|乗車人員 =<br />
+|乗降人員 =<br />
+|統計年度 =<br />
+|乗換 =<br />
+|備考 = 無人駅<br />
+}}<br />
+ホームを通過する下り列車<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E4%BC%8A%E4%B8%8E%E5%96%9C%E9%A7%85">伊与喜駅</a>&#39;（いよきえき）は、高知県幡多郡黒潮町伊与喜にある土佐くろしお鉄道中村線の駅である。駅番号はTK29。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を持つ地上駅。駅舎は無く、待合室のみが設置されている。無人駅となっている。<br />
+<br />
+== 駅周辺 ==<br />
+*国道56号<br />
+*黒潮町立伊与喜小学校（徒歩1分で駅からすぐ）<br />
+*伊与喜保育所<br />
+<br />
+== 路線バス ==<br />
+最寄りのバス停は国道56号線沿いにある「伊与喜小学校」。<br />
+<br />
+<br />
+== 歴史 == <br />
+*1<a href="http://localhost/keyword/963%E5%B9%B4">963年</a>（昭和<a href="http://localhost/keyword/38%E5%B9%B4">38年</a>）12月18日 - 日本国有鉄道中村線、窪川駅・土佐佐賀駅間の開通に伴って開業。<br />
+*1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により四国旅客鉄道に承継。<br />
+*19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>（昭和<a href="http://localhost/keyword/63%E5%B9%B4">63年</a>）4月1日 - 土佐くろしお鉄道に転換。<br />
+<br />
+==隣の駅==<br />
+;土佐くろしお鉄道<br />
+:中村線<br />
+::荷稲駅 (TK28) - &#39;<a href="http://localhost/keyword/%E4%BC%8A%E4%B8%8E%E5%96%9C%E9%A7%85">伊与喜駅</a> (TK29)&#39; - 土佐佐賀駅 (TK30)<br />
+<br />
+==関連項目==<br />
+<br />
+*日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+<br />
+Category:高知県の鉄道駅<br />
+よき<br />
+Category:土佐くろしお鉄道の鉄道駅<br />
+Category:四国旅客鉄道の廃駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:黒潮町の交通<br />
+Category:1<a href="http://localhost/keyword/963%E5%B9%B4">963年</a>開業の鉄道駅<br />

@@ -1,0 +1,135 @@
+description<br />
+<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面3線『JR九州のひみつ』 <a href="http://localhost/keyword/PHP">PHP</a>研究所、20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>10月9日。ISBN 978-4-569-81493-3<br />
+|開業年月日 = 1<a href="http://localhost/keyword/929%E5%B9%B4">929年</a>（昭和<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）12月15日『<a href="http://localhost/keyword/%E7%8E%96%E7%8F%A0%E9%83%A1">玖珠郡</a>史』 玖珠町 九重町、1<a href="http://localhost/keyword/965%E5%B9%B4">965年</a>。諸河久 松本典久 『JRローカル線』 保育社、1<a href="http://localhost/keyword/994%E5%B9%B4">994年</a>。ISBN 978-4586508587日本国有鉄道 総裁室修史課 『日本国有鉄道百年史 第9巻』 日本国有鉄道、1<a href="http://localhost/keyword/972%E5%B9%B4">972年</a>3月。<br />
+|廃止年月日 =<br />
+|乗車人員 = 366<br />
+|統計年度 = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|乗換 =<br />
+|備考 = 業務委託駅<br />
+}}<br />
+<a href="http://localhost/keyword/%E8%B1%8A%E5%BE%8C%E6%A3%AE%E9%A7%85">豊後森駅</a>構内（リニューアル後）<br />
+リニューアル前の駅舎（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>8月20日撮影）<br />
+駅東側から構内を望む（リニューアル前）<br />
+<a href="http://localhost/keyword/%E8%B1%8A%E5%BE%8C%E6%A3%AE%E9%A7%85">豊後森駅</a>のホーム（リニューアル前）<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E8%B1%8A%E5%BE%8C%E6%A3%AE%E9%A7%85">豊後森駅</a>&#39;（<a href="http://localhost/keyword/%E3%81%B6%E3%82%93%E3%81%94">ぶんご</a>もりえき）は、大分県<a href="http://localhost/keyword/%E7%8E%96%E7%8F%A0%E9%83%A1">玖珠郡</a>玖珠町大字帆足にある、九州旅客鉄道（JR九州）久大本線の駅である。<br />
+<br />
+玖珠町の中心駅で、久大本線の重要な拠点駅としての機能を持っている。かつては恵良駅を起点とする宮原線の列車が1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>の同線廃止まで当駅に発着していた『国鉄監修 交通公社の時刻表』1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>1・2月号 p.256。<br />
+<br />
+== 歴史 == <br />
+* 1<a href="http://localhost/keyword/929%E5%B9%B4">929年</a>（昭和<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）12月15日 - 大湯線の豊後中村駅-当駅間の開通に伴い、開業。<br />
+* 1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>（昭和<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）11月15日 - 豊後森機関区）を開設。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、九州旅客鉄道が山陽新幹線以外の九州地区の旅客鉄道業務を継承『交通年鑑 昭和<a href="http://localhost/keyword/63%E5%B9%B4">63年</a>版』 交通協力会、19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>3月。今村都南雄 『民営化の效果と現実NTTとJR』 中央法規出版、1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>8月。ISBN 978-4805840863。<br />
+* 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>（平成<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>）10月 - 日田バスと玖珠観光バス、玖珠町のまちなか循環バスのバス乗り場を統一松本健造(20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>10月11日). “バス乗り場統一し好評 <a href="http://localhost/keyword/%E8%B1%8A%E5%BE%8C%E6%A3%AE%E9%A7%85">豊後森駅</a>前発着の3事業者16路線”. 朝日新聞(朝日新聞社)。<br />
+<br />
+== 駅構造 ==<br />
+駅舎に接した単式ホーム1面1線と島式ホーム1面2線の合計2面3線を有する地上駅である。ホーム間は跨線橋で結ばれており、駅舎は三角屋根の木造建築となっている。<br />
+<br />
+JR九州鉄道営業が駅業務を行う業務委託駅。窓口の営業時間は7時10分 - 19時15分で、営業時間外は駅員不在になる。<br />
+<br />
+20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>には、観光開発の一環として、ななつ星in九州の運行開始に合わせて、水戸岡鋭治のデザインにより駅舎を茶色に塗装する等の改修が行われた[http://www.oita-press.co.jp/localNews/2013_13751475352.html 「ななつ星」運行に合わせ <a href="http://localhost/keyword/%E8%B1%8A%E5%BE%8C%E6%A3%AE%E9%A7%85">豊後森駅</a>改修] 大分合同新聞、20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>7月30日 九州旅客鉄道株式会社、20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>7月30日。<br />
+<br />
+== 利用状況 ==<br />
+1<a href="http://localhost/keyword/965%E5%B9%B4">965年</a>（昭和40年）度には乗車人員が985,113人（定期外:347,639人、定期:637,474人）、降車人員が989,147人で、手荷物（発送:2,448個、到着:2,281個）や小荷物（発送:6,253個、到着:31,631個）も取り扱っていた大分県総務部統計課 『昭和<a href="http://localhost/keyword/41%E5%B9%B4">41年</a>版 大分県統計年鑑』 大分県統計協会、1<a href="http://localhost/keyword/966%E5%B9%B4">966年</a>3月。。<br />
+<br />
+20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）度の乗車人員は133,418人（定期外:37,580人、定期:95,838人）、降車人員は129,930人である。<br />
+<br />
+※1日平均乗車人員の数値は各年度版「[http://www.pref.oita.jp/site/toukei/toukeinenkan.html 大分県統計年鑑]」による年間乗車人員の値を各年度の日数で割った値。<br />
+<br />
+<br />
+<br />
+** 一日平均乗車人員は年間乗車人員の値を各年度の日数で割った値。<br />
+<br />
+== 駅周辺 ==<br />
+<a href="http://localhost/keyword/%E8%B1%8A%E5%BE%8C%E6%A3%AE%E9%A7%85">豊後森駅</a>周辺は玖珠町の中心部にあたる。駅北側には久大本線と並行して大分県道678号書曲野田線が通り、同県道や駅北側西側の大分県道43号玖珠山国線に沿って商店街が形成されている。また駅から約700メートル、玖珠川を挟んで対岸にあたる塚脇地区には国道210号が通り、こちらにも商店街や郊外型の量販店、大分県警察本部玖珠警察署、大分合同新聞社玖珠支局などがある。<br />
+* 森駅通り商店街<br />
+*豊後森機関庫<br />
+* 大分県立玖珠農業高等学校<br />
+* 大分県立森高等学校<br />
+* 玖珠郵便局<br />
+* 玖珠町役場<br />
+* 珠寿会 高田病院<br />
+* 玖珠町中央公民館<br />
+* 国道387号<br />
+* 春日商店街(大分県道43号玖珠山国線)<br />
+*国道210号<br />
+*大分県警察本部玖珠警察署<br />
+*玖珠川<br />
+*西日本新聞社玖珠エリアセンター<br />
+<br />
+== バス路線 ==<br />
+20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>（平成<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>）10月現在、日田バスと大分交通グループ（玖珠観光バス）の一般路線と、コミュニティバス「玖珠町まちなか循環バス」の計16路線が発着する。<br />
+<br />
+日田バス・玖珠観光バス・玖珠町まちなか循環バスは駅前広場のバス乗り場に発着する。駅前の道路上のバス停には、玖珠町がコミュニティバスとは別に運行する「ふれあい福祉バス」と、隣の九重町が町内と玖珠町中心部を結んで運行するコミュニティバスが発着する。停留所名は玖珠観光バスのみ「豊後森」で他は「森駅前」である。旧国鉄宮原線代替路線の宝泉寺温泉方面をはじめ、高塚愛宕地蔵尊へ向かう路線や、豊後中村駅経由で飯田高原・九重山方面へ向かう路線などがある。<br />
+<br />
+かつては玖珠観光バスのバス乗り場のみが駅前広場にあり、日田バスと玖珠町まちなか循環バスは駅前道路上にバス停を設けていたが、20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>（平成<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>）10月1日より、日田バスと玖珠町まちなか循環バスの乗り場は玖珠観光バスのバス乗り場に発着するようになった - 玖珠町・玖珠観光バス・日田バス、20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>9月24日。この際に、九重町コミュニティバスや玖珠町ふれあい福祉バスも同じバス停に統一しようとしたが、これらは白ナンバー車を使用する自家用有償旅客運送であり、バス停近くで白ナンバー車の乗降を禁じた道路交通法の既定のため、断念している。<br />
+<br />
+=== 発着路線 ===<br />
+* 玖珠観光バス<br />
+** 塚脇・宝泉寺・二瀬・串野温泉・菅原<br />
+** 綾垣・梶原・山下・深耶馬渓・守実温泉・柿坂・中津駅<br />
+* 日田バス<br />
+** 森町・九重町役場・九重インターチェンジ・豊後中村駅・九重&#34;夢&#34;大吊橋・湯坪温泉・筋湯温泉・九重（長者原）登山口・牧の戸温泉<br />
+** 塚脇・戸畑・北山田・高塚・日田バスセンター<br />
+* 玖珠町まちなか巡回バス「リラッくすバス」（玖珠観光バス・日田バスが運行）<br />
+** 西回り・東回り<br />
+* 玖珠町ふれあい福祉バス<br />
+** 日出生線・日出生線通学便・山浦線通学便（その他の路線は駅の約300m東側の福祉センターより発着）<br />
+* 九重町コミュニティバス<br />
+** 龍門線：塚脇・恵良駅・竜門の滝・野倉<br />
+** 豊後中村線：塚脇・恵良駅・九重町役場・豊後中村駅<br />
+<br />
+== 豊後森機関区 ==<br />
+豊後森機関庫（整備前）<br />
+<br />
+かつて当駅には豊後森機関区が併設されていた。1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>（昭和<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）の久大線の全線開通時に開設され、ディーゼル化にともない1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>（昭和<a href="http://localhost/keyword/45%E5%B9%B4">45年</a>）に廃止された。梅小路蒸気機関車館と同規模とされる。<br />
+<br />
+豊後森機関区に設置された扇形機関庫は機関区の廃止後もそのまま残された。200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>（平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）3月には、町が機関庫をJR九州から買い取り、将来的には鉄道記念公園として整備する計画がある。車窓からは恵良方面進行方向右側に見える。<br />
+<br />
+扇形機関庫と転車台は、200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>（平成<a href="http://localhost/keyword/21%E5%B9%B4">21年</a>）2月6日に近代化産業遺産に認定され、20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）に国の登録有形文化財に認定された。<br />
+<br />
+20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>6月に、福岡県志免町に保存されていた9600形蒸気機関車（29612号機）が移設され[http://www.yomiuri.co.jp/kyushu/entame/railway/20150623-OYS1T50019.html ＳＬ志免から玖珠へ　旧豊後森機関庫で引き渡し式] - 読売新聞、20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>6月23日、同年11月には「豊後森機関庫ミュージアム -BUNGOM<a href="http://localhost/keyword/ORI">ORI</a> ROUNDHOUSE MUSEUM-」が開設されている[http://www.asahi.com/articles/ASHC554V9HC5TPJB00P.html 大分）旧豊後森機関庫跡に鉄道ミュージアム　８日開館] - 朝日新聞、20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>11月8日。<br />
+<br />
+== 隣の駅 ==<br />
+; 九州旅客鉄道<br />
+: 久大本線<br />
+:: 北山田駅 - &#39;<a href="http://localhost/keyword/%E8%B1%8A%E5%BE%8C%E6%A3%AE%E9%A7%85">豊後森駅</a>&#39; - 恵良駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+=== 注釈 ===<br />
+<br />
+<br />
+=== 出典 ===<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+* 森駅 - 北海道茅部郡森町にあるJR函館本線の駅<br />
+* 森駅 - 大阪府貝塚市にある水間鉄道水間線の駅<br />
+* 遠州森駅 - 静岡県周智郡森町にある天竜浜名湖鉄道の駅<br />
+* 河内森駅 - 大阪府交野市にある京阪交野線の駅。<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* <br />
+* [http://web.archive.org/web/20070313115050/http://www.nishinippon.co.jp/nbl/station/2006/07/post_17.shtml JR久大線 <a href="http://localhost/keyword/%E8%B1%8A%E5%BE%8C%E6%A3%AE%E9%A7%85">豊後森駅</a> / 九州の駅 ゆったり紀行 / 西日本新聞]<br />
+* [http://hita.ultra-dream.net/~kikanko/ 豊後森機関庫保存委員会]<br />
+* [http://morinokika.exblog.jp/ 豊後森機関庫保存委員会ブログ]<br />
+* [http://allxa.web.fc2.com/a-map/jp_oita/bungomori/bungomori01.html 建築マップ_大分_豊後森機関庫]<br />
+* [http://kyushu-heritage.jp/report/bungomori/bungomori01.html 旧国鉄 豊後森機関庫 - 九州ヘリテージ]<br />
+<br />
+<br />
+<br />
+<br />
+Category:大分県の鉄道駅<br />
+んこもり<br />
+Category:九州旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:久大本線<br />
+Category:玖珠町<br />
+Category:1<a href="http://localhost/keyword/929%E5%B9%B4">929年</a>開業の鉄道駅<br />

@@ -1,0 +1,85 @@
+description<br />
+<br />
+<br />
+内房線<br />
+|キロ程 = 73.7km（蘇我起点）千葉から77.5<br />
+|起点駅 =<br />
+|所在地 = 千葉県南房総市市部146-2<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面2線<br />
+|開業年月日= 1<a href="http://localhost/keyword/918%E5%B9%B4">918年</a>（大正<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）8月10日<br />
+|廃止年月日=<br />
+|乗車人員= 292<br />
+|乗降人員=<br />
+|統計年度= 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a><br />
+|乗換 =<br />
+|備考 = 業務委託駅みどりの窓口 有<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E5%B2%A9%E4%BA%95%E9%A7%85">岩井駅</a>&#39;（いわいえき）は、千葉県南房総市市部にある、東日本旅客鉄道（JR東日本）内房線の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/918%E5%B9%B4">918年</a>（大正<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）8月10日 - 開業。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、東日本旅客鉄道の駅となる。<br />
+* 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>（平成<a href="http://localhost/keyword/21%E5%B9%B4">21年</a>）3月14日 - ICカード「Suica」サービス開始。東京近郊区間に組み込まれる。<br />
+* 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）6月28日 - この日をもってキヨスク閉店[http://www.bonichi.com/News/item.htm?iid=8024 安房最後のキオスク閉店 <a href="http://localhost/keyword/%E5%B2%A9%E4%BA%95%E9%A7%85">岩井駅</a>の店舗がきょう28日で 南房総] - 房日新聞（20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>6月27日Web版）。<br />
+<br />
+== 駅構造 ==<br />
+島式ホーム1面2線を持つ地上駅。ホームは嵩上げされていない。駅舎とホームは跨線橋で連絡している。<br />
+<br />
+JR東日本ステーションサービスによる業務委託駅で、館山駅が管理している。みどりの窓口（営業時間:6時45分 - 17時、途中休止時間帯あり）、簡易Suica改札機が設置されている。トイレは水洗式。<br />
+<br />
+=== のりば ===<br />
+<br />
+* 信号設備上、1、2番線いずれも両方面からの到着および出発が可能である。<br />
+* 上記設備を用いて普通列車が通常とは反対側のホームに入り、特急の待避を行う場合がある。<br />
+* 何らかの理由で一部運休になった場合に列車が当駅折り返しになることがある。<br />
+* ホームは11両編成までに対応する。<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度の1日平均乗車人員は297人。減少傾向が続いている。<br />
+<br />
+JR東日本および千葉県統計年鑑によると、1日の平均乗車人員の推移は以下の通りである。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 岩井海水浴場<br />
+* 南房総市役所 富山支所（旧・富山町役場）<br />
+* 岩井郵便局<br />
+* 国道127号<br />
+* 富山（とみさん） - 南総里見八犬伝の舞台。ハイキングコースがある。<br />
+<br />
+== バス路線 ==<br />
+<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 内房線<br />
+:: 特別快速<br />
+::: 保田駅 - &#39;<a href="http://localhost/keyword/%E5%B2%A9%E4%BA%95%E9%A7%85">岩井駅</a>&#39; - 富浦駅<br />
+:: 普通<br />
+::: 安房勝山駅 - &#39;<a href="http://localhost/keyword/%E5%B2%A9%E4%BA%95%E9%A7%85">岩井駅</a>&#39; - 富浦駅<br />
+<br />
+== 脚注・出典 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=164 JR東日本　<a href="http://localhost/keyword/%E5%B2%A9%E4%BA%95%E9%A7%85">岩井駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:千葉県の鉄道駅<br />
+わい<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/918%E5%B9%B4">918年</a>開業の鉄道駅<br />
+Category:内房線<br />
+いわいえき<br />

@@ -1,0 +1,33 @@
+description<br />
+&#39;<a href="http://localhost/keyword/Humanoid%20Robotics%20Project">Humanoid Robotics Project</a>&#39;（略称: &#39;&#39;<a href="http://localhost/keyword/HRP">HRP</a>&#39;&#39;）とは、東京大学の井上博允教授をリーダーとした「人間協調・共存型ロボットシステム」の研究開発のこと。1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a>から通商産業省（当時）・経済産業省（中央省庁再編後）主導の下、新エネルギー・産業技術総合開発機構（NEDO）と、財団法人製造科学技術センター（MSTC）を管理法人とし、独立行政法人産業技術総合研究所との共同研究により5ヵ年計画で実施された。<br />
+<br />
+研究目的は「働く人間型ロボットの実用性を示す」ことであり、最初の成果機として2000年にホンダ・P3を改良した<a href="http://localhost/keyword/HRP">HRP</a>-1が、2003年には最終成果機として<a href="http://localhost/keyword/HRP">HRP</a>-2が発表された。<br />
+設計製作を川田工業、全体仕様設計を産総研知能システム研究部門<a href="http://localhost/keyword/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89">ヒューマノイド</a>研究グループ、腕部仕様設計を安川電機、視覚部仕様設計を産総研知能システム研究部門3次元視覚研究グループ及び清水建設が担当した。<br />
+<br />
+200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>からは、基盤技術研究促進事業「実環境で働く人間型ロボット基盤技術の研究開発」が5ヵ年計画で実施されている。開発を担当するのは、川田工業・産総研・川崎重工。<br />
+200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>にはその成果として<a href="http://localhost/keyword/HRP">HRP</a>の名を冠した<a href="http://localhost/keyword/HRP">HRP</a>-3Pを発表、防塵・防滴機能や滑りやすい路面などでの歩行機能、脚腕協調制御によって拡大された作業機能などを実現させている。<br />
+200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>から3年かけて「ユーザ指向ロボットオープンアーキテクチャの開発」の一環としてサイバネティックヒューマン<a href="http://localhost/keyword/HRP">HRP</a>-4Cが開発された。<br />
+20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>には低価格な働く人間型ロボット研究開発用プラットフォーム<a href="http://localhost/keyword/HRP">HRP</a>-4が開発された。<br />
+20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>には経済産業省と米国防総省D<a href="http://localhost/keyword/ARP">ARP</a>Aが合意した「人道支援と災害復旧に関するロボットの日米共同研究」にもとづきD<a href="http://localhost/keyword/ARP">ARP</a>A Robotics Challenge 2015(DRC2015)に参加するために、<a href="http://localhost/keyword/HRP">HRP</a>-2を改造した<a href="http://localhost/keyword/HRP">HRP</a>-2改を開発した。<br />
+<br />
+=== 仕様 ===<br />
+<br />
+&#39;脚注:&#39;<br />
+:1. – <a href="http://localhost/keyword/HRP">HRP</a>-1と比較参照.<br />
+:2. - <a href="http://localhost/keyword/HRP">HRP</a>-2と<a href="http://localhost/keyword/HRP">HRP</a>-3は出渕裕によって外装が設計された。<br />
+:3. – &#34;C&#34; means &#34;&#39;C&#39;ybernetic Human&#34;.<br />
+<br />
+== 出典 ==<br />
+<br />
+<br />
+== 外部リンク ==<br />
+<br />
+*[http://www.rsj.or.jp/ 日本ロボット学会]<br />
+*[http://www.mstc.or.jp/hrp/main.html 人間協調・共存型ロボットシステム]<br />
+*[http://www.is.aist.go.jp/humanoid/index_j 産総研<a href="http://localhost/keyword/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89">ヒューマノイド</a>研究グループ]<br />
+*[http://www.theroboticschallenge.org D<a href="http://localhost/keyword/ARP">ARP</a>A Robotics Challenge]<br />
+<br />
+<br />
+ひゆうまのいとろほていつくすふろしえくと<br />
+Category:<a href="http://localhost/keyword/%E4%BA%8C%E8%B6%B3%E6%AD%A9%E8%A1%8C">二足歩行</a>ロボット<br />
+Category:日本のロボット<br />

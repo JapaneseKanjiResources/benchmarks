@@ -1,0 +1,25 @@
+description<br />
+thumb<br />
+&#39;<a href="http://localhost/keyword/%E3%83%88%E3%82%A2%E3%83%AB%E3%83%95%E3%83%BB%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%AC%E3%83%A0">トアルフ・スコーレム</a>&#39;（&#39;Albert Thoralf Skolem&#39; 、1<a href="http://localhost/keyword/887%E5%B9%B4">887年</a>5月23日 - 1<a href="http://localhost/keyword/963%E5%B9%B4">963年</a>3月23日）は、ノルウェーの数学者。オスロ大学で代数学や自然数論を講義した。<br />
+<br />
+数理論理学、数学基礎論で重要な発見をしている。また、不定方程式論においても、いくつかの定理を発見している。主な業績として、数理論理学では<br />
+*スコーレム標準形<br />
+*レーヴェンハイム・スコーレムの定理（ペアノ算術の非可算モデルの存在証明?）<br />
+が挙げられる。また、数学においては<br />
+*P進数法<br />
+などの業績を挙げた。<br />
+<br />
+== 関連項目 ==<br />
+* ラマヌジャン・スコーレムの定理<br />
+* レーヴェンハイム-スコーレムの定理<br />
+<br />
+<br />
+<br />
+Category:ノルウェーの数学者<br />
+870523<br />
+-870523<br />
+Category:論理学者<br />
+Category:オスロ大学の教員<br />
+Category:1<a href="http://localhost/keyword/887%E5%B9%B4">887年</a>生<br />
+Category:1<a href="http://localhost/keyword/963%E5%B9%B4">963年</a>没<br />
+Category:数学に関する記事<br />

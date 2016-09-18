@@ -1,0 +1,223 @@
+description<br />
+&#39;foreach文&#39;（フォーイーチぶん）とはプログラミング言語においてリストやハッシュテーブルなどのデータ構造の各要素に対して与えられた文の実行を繰り返すというループを記述するための文である。foreach文はしばしばfor文の一部という位置付けにある。for文と異なり要素の参照順序が定義されないこともある。<br />
+<br />
+== 処理の流れ ==<br />
+基本的な構文 (Perl) は以下のようになる。<br />
+<br />
+<br />
+foreach 変数 (リスト) {<br />
+    文<br />
+}<br />
+<br />
+<br />
+このループはだいたい次のような手順で実行される。<br />
+#変数にリストの中のある要素への参照を代入する。<br />
+#文を実行する。<br />
+#リストの全要素を参照し終わっていない場合は、変数に未参照の要素を代入して文の実行へ戻る。<br />
+ここで、線形リストや配列など要素の順序が決まっているものは、通常その順序でループが実行されるので、この場合以下とほぼ同様である。<br />
+<br />
+<br />
+for ( my $i = 0; $i <br />
+<br />
+ただし、ハッシュテーブル（<a href="http://localhost/keyword/%E9%80%A3%E6%83%B3%E9%85%8D%E5%88%97">連想配列</a>）については要素の順序関係が決定できないこともあるため、一般に参照順序は不定である。<br />
+<br />
+== 文法 ==<br />
+=== awk ===<br />
+awkにおいても<a href="http://localhost/keyword/%E9%80%A3%E6%83%B3%E9%85%8D%E5%88%97">連想配列</a>の処理を可能にしている。<br />
+ for（変数 in 配列）<br />
+ {<br />
+   文<br />
+ }<br />
+<br />
+=== C# ===<br />
+ foreach (変数 in 配列)<br />
+ {<br />
+   文<br />
+ }<br />
+配列のほか、IEnumeratorもしくはIEnumeratorを実装したオブジェクトでもよい。<br />
+<br />
+=== C++ ===<br />
+C++は、20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>での規格改定（通称C++11）にて、範囲ベースの for ループが言語仕様として追加されている。<br />
+<br />
+for (変数 : 配列)<br />
+{<br />
+  文<br />
+}<br />
+<br />
+上記で配列と記した箇所には、配列のほか、std::vectorやstd::arrayのような標準ライブラリにおいて&#39;コンテナ&#39;に分類される各種のオブジェクトなども使用できる。<br />
+<br />
+そのほか、1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a>の標準規格化当初からC++標準ライブラリにfor_eachアルゴリズム（関数テンプレート）が存在する。<br />
+<br />
+関数オブジェクト = std::for_each(<br />
+  先頭イテレータ,<br />
+  末尾イテレータ,<br />
+  関数オブジェクト<br />
+);<br />
+<br />
+C++11では、C#同様に型推論およびラムダ式を組み合わせることで、上記の構文が威力を発揮するようになる。<br />
+<br />
+また、C++/CLI言語およびMicrosoft Visual C++ 2005以降の独自拡張機能では、for each文を使用できるが、不安定で正常に動作しない場合がある。ただしこれはC++11における範囲ベース for ループとは互換性を持たない。<br />
+<br />
+=== D ===<br />
+式を評価し、その結果は静的配列、動的配列、<a href="http://localhost/keyword/%E9%80%A3%E6%83%B3%E9%85%8D%E5%88%97">連想配列</a>、構造体、クラスでなければいけない。式部分が配列である場合は変数は複数宣言する事が出来る。<br />
+ foreach(変数 ; 式) {<br />
+   文<br />
+ }<br />
+<br />
+=== Java 5.0以降 ===<br />
+拡張For文などと呼び、Java 5.0 で導入された。For文の特殊なものとして捉えられるが、<a href="http://localhost/keyword/Foreach%E6%96%87">Foreach文</a>に相当する。<br />
+ for(変数 : リスト等) {<br />
+   文<br />
+ }<br />
+<br />
+=== JavaScript, ActionScript ===<br />
+オブジェクトの反復処理にはfor-in文を用いる。変数にはプロパティ名（<a href="http://localhost/keyword/%E9%80%A3%E6%83%B3%E9%85%8D%E5%88%97">連想配列</a>で言うキー）が代入されるので、プロパティの値は式 オブジェクト[変数] で取得する。<br />
+<br />
+<br />
+for ( var 変数 in オブジェクト ) {<br />
+    文<br />
+}<br />
+<br />
+<br />
+JavaScriptのfor-in文は、ユーザー定義のプロパティについて、プロトタイプチェーンをさかのぼって反復処理を行う。このため、特に配列に対してfor-in文を用いると、他の言語とは異なる挙動をすることがある。<br />
+<br />
+<br />
+var array = new Array(3);<br />
+var output = &#34;&#34;;<br />
+for (var key in array) { output += key + &#34; &#34;; }<br />
+// このとき array.length === 3 であるが、<br />
+// array にユーザー側からプロパティ（配列要素）を定義していないので、<br />
+// output === &#34;&#34; である。<br />
+<br />
+// 配列もオブジェクトなので、数値以外のプロパティを設定できる。<br />
+array.foo = &#34;foo&#34;<br />
+<br />
+output = &#34;&#34;;<br />
+for (var key in array) { output += key + &#34; &#34;; }<br />
+// このとき output === &#34;foo &#34; である。<br />
+<br />
+// オブジェクトに新しいインスタンスメソッドを追加してみる。<br />
+Object.prototype.myMethod = function () {};<br />
+<br />
+output = &#34;&#34;;<br />
+for (var key in array) { output += key + &#34; &#34;; }<br />
+// 配列もオブジェクトなので、このとき output === &#34;foo myMethod &#34; である。<br />
+<br />
+// なおもちろん、この時点でも array.length === 3 である。<br />
+<br />
+<br />
+ECMA-262第5版 (JavaScript 1.6, ActionScript 3.0) からは、ArrayインスタンスにforEachメソッドが追加された。<br />
+<br />
+<br />
+array.forEach(function (変数) {<br />
+    文<br />
+});<br />
+<br />
+<br />
+ECMA-262第6版からは、配列などのiterableオブジェクトの値で反復処理をするfor-of文も導入された。<br />
+<br />
+<br />
+for( 変数 of オブジェクト ) {<br />
+    文<br />
+}<br />
+<br />
+<br />
+=== Perl ===<br />
+しばしばforが代用とされる。Perlにおいて、forとforeachは同義語である。<br />
+<br />
+ foreach 変数 (リスト等) {<br />
+   文<br />
+ }<br />
+<br />
+=== <a href="http://localhost/keyword/PHP">PHP</a> ===<br />
+ foreach (配列 as 変数) {<br />
+   文<br />
+ }<br />
+<br />
+ foreach (配列 as 変数1 =&gt; 変数2) {<br />
+   文<br />
+ }<br />
+<br />
+前者の場合、処理手順は他の言語と同様だが、後者の場合、変数1に配列の添字が、変数2に要素が代入される。<br />
+<br />
+=== Python ===<br />
+PythonにおけるFor文とは、他の言語における<a href="http://localhost/keyword/Foreach%E6%96%87">Foreach文</a>と同等である。<br />
+ for 変数 in リスト等 :<br />
+     文<br />
+<br />
+=== Ruby ===<br />
+ for 変数 in リスト等<br />
+   文<br />
+ end<br />
+これは以下のイテレータ構文と等価である。<br />
+ リスト等.each do |変数|<br />
+   文<br />
+ end<br />
+なお、Rubyに関してはもっぱら後者の構文が好まれる傾向にある。<br />
+<br />
+=== Visual Basic ===<br />
+ For Each 変数 In リスト等<br />
+   文<br />
+ Next 変数<br />
+<br />
+=== Windows PowerShell ===<br />
+ foreach (変数 in リスト等) {<br />
+   文<br />
+ }<br />
+<br />
+=== HSP ===<br />
+ foreach 変数<br />
+   文<br />
+ loop<br />
+<br />
+=== なでしこ ===<br />
+ (リスト)を反復。<br />
+ 　　文<br />
+<br />
+変数は「それ」に代入される。<br />
+<br />
+=== シェルスクリプト ===<br />
+cshではforeachと書き、shではforと書く。実用上リストの部分にはワイルドカードを含むファイル列を書くことが多い。<br />
+<br />
+csh系<br />
+ foreach 変数 ( リスト )<br />
+   文<br />
+ end<br />
+sh系<br />
+ for 変数 in リスト<br />
+ do<br />
+   文<br />
+ done<br />
+<br />
+== 番外編 ==<br />
+=== PL/SQL ===<br />
+OracleのPL/SQLにも、カーソルというForEachと似たような機能が実装されている。<br />
+カーソルは用途が限定されているため、番外編として紹介する。<br />
+<br />
+SELECT文でとってきた複数レコードを、カーソルを使って順繰り出力するPL/SQL文を示す。<br />
+<br />
+ DECLARE<br />
+     CURSOR C IS<br />
+         SELECT <br />
+              *<br />
+         FROM<br />
+             TBL1<br />
+         WHERE<br />
+             TBL1.FIELD1 &gt;= 100;<br />
+ BEGIN<br />
+     FOR D IN C LOOP<br />
+         DBMS_OUTPUT.PUT_LINE(D.FIELD1 || &#39; &#39; || D.FIELD2 || &#39; &#39; || D.FIELD3);<br />
+     END LOOP;<br />
+ END;<br />
+<br />
+== 関連項目 ==<br />
+*for文<br />
+*while文<br />
+*goto文<br />
+*イテレータ<br />
+<br />
+<br />
+<br />
+FOREACHぶん<br />
+<br />
+ru:Цикл просмотра<br />

@@ -1,0 +1,91 @@
+description<br />
+<br />
+|駅構造     = 地下駅<br />
+|ホーム     = 1面2線<br />
+|開業年月日 = 19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>（平成<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）9月27日<br />
+|廃止年月日 =<br />
+|乗車人員   = <br />
+|乗降人員   = 28,015<br />
+|統計年度   = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|乗換       = 羽田空港国内線ターミナル駅（京浜急行電鉄空港線）<br />
+|備考       = * 200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>（平成<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>）12月1日に羽田空港駅から改称。<br />
+}}<br />
+改札付近<br />
+&#39;<a href="http://localhost/keyword/%E7%BE%BD%E7%94%B0%E7%A9%BA%E6%B8%AF%E7%AC%AC1%E3%83%93%E3%83%AB%E9%A7%85">羽田空港第1ビル駅</a>&#39;（はねだくうこうだい1ビルえき）は、東京都大田区羽田空港三丁目3番2号にある東京モノレール羽田空港線の駅である。<br />
+<br />
+== 駅構造 ==<br />
+1面2線の島式ホームを有する地下駅。東京国際空港（羽田空港）国内線第1（西）旅客ターミナルの地下にある。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>度の一日平均乗降人員は28,015人である[http://www.tokyo-monorail.co.jp/company/profile.html 東京モノレール 会社概要（ページ下段） 1日あたり駅別乗降人員]。<br />
+開業以来の一日平均&#39;乗車&#39;人員推移は下表のとおり。<br />
+<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 東京国際空港（羽田空港）<br />
+** 国内線第1旅客ターミナル<br />
+*** 羽田空港郵便局<br />
+** 羽田空港第1立体駐車場 (P1)<br />
+** 羽田空港第2立体駐車場 (P2)<br />
+** 羽田空港貨物ターミナル<br />
+* 京急空港線 羽田空港国内線ターミナル駅<br />
+* 新東京郵便局羽田分室<br />
+* 警視庁東京空港警察署<br />
+* 気象庁東京航空地方気象台<br />
+* 国道357号<br />
+* 空港中央出入口 首都高速湾岸線<br />
+* 湾岸環八出入口 首都高速湾岸線<br />
+<br />
+== バス路線 ==<br />
+<br />
+<br />
+== 歴史 ==<br />
+* 19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>（平成<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）9月27日 - &#39;羽田空港駅&#39;として開業。<br />
+* 2000年（平成<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>） - 関東の駅百選に、京急の羽田空港駅とまとめて認定される。<br />
+* 200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>（平成<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）4月21日 - ICカードSuica供用開始。<br />
+* 200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>（平成<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>）12月1日 - 羽田空港第2旅客ターミナルビル開業による羽田空港第2ビル駅開業に伴い、&#39;<a href="http://localhost/keyword/%E7%BE%BD%E7%94%B0%E7%A9%BA%E6%B8%AF%E7%AC%AC1%E3%83%93%E3%83%AB%E9%A7%85">羽田空港第1ビル駅</a>&#39;に改称。<br />
+<br />
+== 運賃に関する特記事項 ==<br />
+当駅と羽田空港国際線ビル駅間の運賃は通常大人片道190円となっている。ただし、羽田空港で国内線⇔国際線間を相互に乗り継ぐという理由で乗車する場合に限り、その間の運賃が無料となる。乗車する際にはまず、国内線第1ターミナル内に4ヶ所設置されている到着階案内カウンターでパスポートと航空券を提示した上で利用を申し出て「乗継乗車票」を発行してもらい、それを駅の改札口にて提示する『[http://www.tokyo-airport-bldg.co.jp/map/moves_between_terminals/train_between_terminals.html ターミナル間の移動について／ターミナル間無料連絡京急線・モノレール]』《『羽田空港ターミナル BIG BIRD』（日本空港ビルデング運営サイト）》より。<br />
+<br />
+なお当駅から羽田空港国際線ビル駅までの所要時間は4分となっている『[http://www.tokyo-monorail.co.jp/haneda/transit.html 国際線⇔国内線の乗り継ぎ案内（トランジット）]』《東京モノレールWebサイト》より。<br />
+<br />
+== その他特記事項 ==<br />
+* 北口改札口付近には、東京モノレールの路線風景をイメージした鉄道模型のジオラマが設置されており、ボタンを押すと電車が動く。ボタンは改札内と改札外にそれぞれある。<br />
+* 改札口とホームの電光<a href="http://localhost/keyword/%E6%8E%B2%E7%A4%BA%E6%9D%BF">掲示板</a>は、浜松町行のみ表示される。<br />
+<br />
+== 隣の駅 ==<br />
+; 23px 東京モノレール<br />
+: 23px 東京モノレール羽田空港線<br />
+:: 空港快速・区間快速<br />
+::: 羽田空港国際線ビル駅 - &#39;<a href="http://localhost/keyword/%E7%BE%BD%E7%94%B0%E7%A9%BA%E6%B8%AF%E7%AC%AC1%E3%83%93%E3%83%AB%E9%A7%85">羽田空港第1ビル駅</a>&#39; - 羽田空港第2ビル駅<br />
+:: 普通<br />
+::: 新整備場駅 - &#39;<a href="http://localhost/keyword/%E7%BE%BD%E7%94%B0%E7%A9%BA%E6%B8%AF%E7%AC%AC1%E3%83%93%E3%83%AB%E9%A7%85">羽田空港第1ビル駅</a>&#39; - 羽田空港第2ビル駅<br />
+<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.tokyo-monorail.co.jp/guidance/haneda1/ 東京モノレール <a href="http://localhost/keyword/%E7%BE%BD%E7%94%B0%E7%A9%BA%E6%B8%AF%E7%AC%AC1%E3%83%93%E3%83%AB%E9%A7%85">羽田空港第1ビル駅</a>]<br />
+* [http://www.tokyo-airport-bldg.co.jp/ 東京国際空港 ビッグバード]<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:大田区の鉄道駅<br />
+ねたくうこうたい1ひる<br />
+Category:東京モノレールの鉄道駅<br />
+Category:日本の空港駅<br />
+Category:19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>開業の鉄道駅<br />
+はねたくうこうたい1ひるえき<br />

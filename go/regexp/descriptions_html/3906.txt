@@ -1,0 +1,53 @@
+description<br />
+<br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日= 1<a href="http://localhost/keyword/931%E5%B9%B4">931年</a>（昭和<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）2月1日<br />
+|廃止年月日= 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）4月1日<br />
+|乗車人員=<br />
+|乗降人員=<br />
+|統計年度=<br />
+|備考 = 無人駅<br />
+}}<br />
+坂戸駅付近空中写真（1<a href="http://localhost/keyword/974%E5%B9%B4">974年</a>撮影 国土画像情報オルソ化空中写真（国土交通省）より）<br />
+&#39;坂戸駅&#39;（さかどえき）は、茨城県鉾田市当間2295番地6にあった鹿島鉄道鹿島鉄道線の駅である。200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）4月1日、鹿島鉄道線の廃線にともない廃駅となった。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を有する地上駅。ホームは線路の北側に設置されており、ホーム上に丸太小屋風の待合室が設置されていた。無人駅であった。<br />
+<br />
+== 駅周辺 ==<br />
+* ほっとパーク鉾田<br />
+* 茨城農政事務所<br />
+* 鉾田総合公園<br />
+* 老人ホーム「ともえ荘」<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/931%E5%B9%B4">931年</a>（昭和<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）2月1日 - 鹿島参宮鉄道の駅として開業。<br />
+* 1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a>（昭和<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）12月23日 - 休止。<br />
+* 1<a href="http://localhost/keyword/956%E5%B9%B4">956年</a>（昭和<a href="http://localhost/keyword/31%E5%B9%B4">31年</a>）11月19日 - 営業再開。<br />
+* 1<a href="http://localhost/keyword/965%E5%B9%B4">965年</a>（昭和40年）6月1日 - 鹿島参宮鉄道と常総筑波鉄道が合併して関東鉄道が発足。同社鉾田線の駅となる。<br />
+* 1<a href="http://localhost/keyword/979%E5%B9%B4">979年</a>（昭和<a href="http://localhost/keyword/54%E5%B9%B4">54年</a>）4月1日 ‐ 鉾田線が鹿島鉄道に分社化。<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）4月1日 - 廃止。<br />
+<br />
+== 隣の駅 ==<br />
+; 鹿島鉄道<br />
+: 鹿島鉄道線<br />
+:: 巴川駅 - &#39;坂戸駅&#39; - 鉾田駅<br />
+<br />
+== その他 ==<br />
+* 19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>（昭和<a href="http://localhost/keyword/63%E5%B9%B4">63年</a>）3月26日に公開された映画『19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>の夏休み』で、冒頭部分と<a href="http://localhost/keyword/%E3%82%A8%E3%83%B3%E3%83%87">エンデ</a>ィングに駅が登場するが、宮島依里（演者・役上は｢藤原薫｣と｢名無しの少年｣）がホームに立つシーンは当駅で撮影された。<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+* 坂戸駅<br />
+<br />
+<br />
+<br />
+かと<br />
+Category:茨城県の廃駅<br />
+Category:鹿島鉄道の鉄道駅<br />
+さかとえき<br />
+Category:1<a href="http://localhost/keyword/931%E5%B9%B4">931年</a>開業の鉄道駅<br />
+Category:200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>廃止の鉄道駅<br />
+廃さかとえき<br />
+さかとえき<br />

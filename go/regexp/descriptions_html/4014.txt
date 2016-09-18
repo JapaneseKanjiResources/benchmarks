@@ -1,0 +1,59 @@
+description<br />
+<br />
+<br />
+|駅構造     = 地上駅<br />
+|ホーム     = 島式　1面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/953%E5%B9%B4">953年</a>11月16日<br />
+|廃止年月日 = <br />
+|乗車人員   = <br />
+|乗降人員   = <br />
+|統計年度   = <br />
+|乗換       = 宇奈月温泉駅（富山地方鉄道本線）<br />
+|備考全幅   = * 当駅～黒薙駅間に柳橋駅・森石駅（専用駅）あり<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E5%AE%87%E5%A5%88%E6%9C%88%E9%A7%85">宇奈月駅</a>&#39;（うなづきえき）は、富山県黒部市黒部峡谷口にある黒部峡谷鉄道本線の駅。<br />
+<br />
+== 駅構造 ==<br />
+島式ホーム1面2線をもつ地上駅。構内に引込み線が多数ある。駅舎は三角屋根の大きなもので、団体客等の利用に対応している。改札を通って階段を下ったところにプラットホームがある。駅前には駐車場がある。<br />
+規格が異なるため、富山地方鉄道から直接車両が乗り入れることは出来ないが、貨物の運び入れのためレールが当駅ホームまで延びている。<br />
+<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+富山地方鉄道宇奈月温泉駅が徒歩5分ほどの距離にある。なお、黒部峡谷鉄道では移動や乗車手続きを含めると、乗継ぎには15分以上の余裕が必要としている。<br />
+* 宇奈月温泉<br />
+* 黒部川電気記念館<br />
+* セレネ美術館<br />
+* トロッコ広場 - 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>で退役したED11号電気機関車と客車ハフ10が展示されている。<br />
+* やまびこ展望台 - 新山彦橋を一望できる高台。<br />
+* やまびこ遊歩道 - 宇奈月ダム建設に伴い付け替えられた黒部峡谷鉄道本線の旧線跡を転用した遊歩道。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/927%E5%B9%B4">927年</a> 日本電力の専用鉄道として線路が開通。<br />
+* 1<a href="http://localhost/keyword/953%E5%B9%B4">953年</a>11月16日 関西電力により旅客駅が開業。<br />
+* 1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>7月1日 関西電力からの分社化により、黒部峡谷鉄道の駅となる。<br />
+<br />
+== 隣の駅 ==<br />
+; 黒部峡谷鉄道<br />
+: 本線<br />
+:: 関西電力専用列車<br />
+::: &#39;<a href="http://localhost/keyword/%E5%AE%87%E5%A5%88%E6%9C%88%E9%A7%85">宇奈月駅</a>&#39; - 柳橋駅<br />
+:: <a href="http://localhost/keyword/%E6%97%85%E5%AE%A2%E5%88%97%E8%BB%8A">旅客列車</a><br />
+::: &#39;<a href="http://localhost/keyword/%E5%AE%87%E5%A5%88%E6%9C%88%E9%A7%85">宇奈月駅</a>&#39; - 黒薙駅<br />
+<br />
+ファイル:Kurobe gorge railway Unazuki station.JPG|駅名看板<br />
+ファイル:Unaduki Station in winter 001.jpg|冬季閉鎖中の<a href="http://localhost/keyword/%E5%AE%87%E5%A5%88%E6%9C%88%E9%A7%85">宇奈月駅</a>。車両がブルーシートで覆われている。<br />
+File:Kurobe Gorge Railway 06.jpg|黒部川側から見たホーム<br />
+<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.kurotetu.co.jp/ensen/station/#unaduki <a href="http://localhost/keyword/%E5%AE%87%E5%A5%88%E6%9C%88%E9%A7%85">宇奈月駅</a>] - 黒部峡谷鉄道<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:黒部市の鉄道駅<br />
+なつき<br />
+Category:黒部峡谷鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/953%E5%B9%B4">953年</a>開業の鉄道駅<br />

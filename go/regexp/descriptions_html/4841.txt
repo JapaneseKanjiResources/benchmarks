@@ -1,0 +1,18 @@
+description<br />
+『&#39;<a href="http://localhost/keyword/%E4%BD%A9%E6%96%87%E9%9F%BB%E5%BA%9C">佩文韻府</a>&#39;』（はいぶんいんぷ）は、中国清代の蔡升元らが康熙帝の勅を奉じて編纂した韻書、106巻。補遺である汪灝ら撰の&#39;韻府拾遺&#39;（いんぷしゅうい）106巻と共に用いられる。前者が1<a href="http://localhost/keyword/711%E5%B9%B4">711年</a>（康熙<a href="http://localhost/keyword/50%E5%B9%B4">50年</a>）、後者が17<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>（康熙<a href="http://localhost/keyword/59%E5%B9%B4">59年</a>）の成立。<br />
+<br />
+内容は、経・史・子・集の四部の書物から、2～4字の語彙を集めて来て、末尾の字の韻母によって平水韻の&#39;106韻&#39;に分類排列し、なおかつその語彙の出典を注記したものである。「韻府拾遺」では、「<a href="http://localhost/keyword/%E4%BD%A9%E6%96%87%E9%9F%BB%E5%BA%9C">佩文韻府</a>」には欠けていたものを補足している。<br />
+<br />
+「佩文」とは、康熙帝の書斎名である。<br />
+<br />
+編纂上は、まず、元の陰時夫撰『韻府群玉』および明の凌稚隆撰『五車韻瑞』という先行する韻書から語彙を集めたため、この二書にある語彙は、「&#39;韻藻&#39;」として最初に掲げ、それ以外のものは、「&#39;増&#39;」として後に記している。<br />
+<br />
+元来は、漢詩の作詩の便に供せられたものではあるが、中国古典の語彙の出典を検索する上で、大変に便利な書物である。ただし、末字の韻によって検索する必要があり、平水韻を知らない現代人には不便である。<br />
+<br />
+刊本としては、清朝内府武英殿本、海山仙館本、1<a href="http://localhost/keyword/889%E5%B9%B4">889年</a>（光緒<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）活字本があり、日本では、大槻如電の索引が付された吉川弘文館活字本（1<a href="http://localhost/keyword/908%E5%B9%B4">908年</a>（明治<a href="http://localhost/keyword/41%E5%B9%B4">41年</a>））がある。<br />
+<br />
+<br />
+Category:韻書<br />
+Category:類書<br />
+Category:1<a href="http://localhost/keyword/710%E5%B9%B4">710年</a>代の書籍<br />
+Category:康熙帝<br />

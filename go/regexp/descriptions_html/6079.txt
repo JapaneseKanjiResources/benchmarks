@@ -1,0 +1,83 @@
+description<br />
+<br />
+<br />
+|本社<a href="http://localhost/keyword/%E9%83%B5%E4%BE%BF%E7%95%AA%E5%8F%B7">郵便番号</a> =223-8535<br />
+|本社所在地 =神奈川県横浜市港北区<a href="http://localhost/keyword/%E7%AE%95%E8%BC%AA%E7%94%BA">箕輪町</a>1丁目23番3号<br />
+|設立 =1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>1月27日<br />
+|業種 =5250<br />
+|事業内容 =ビジネスソフトの企画、開発、販売 等<br />
+|代表者 =松原健二（取締役社長）<br />
+|<a href="http://localhost/keyword/%E8%B3%87%E6%9C%AC%E9%87%91">資本金</a> =8,000万円<br />
+|主要株主 =コーエー 100%<br />
+|特記事項 =200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>1月1日の情報。<br />
+}}<br />
+&#39;株式会社<a href="http://localhost/keyword/%E3%82%A8%E3%83%AB%E3%82%B4%E3%82%BD%E3%83%95%E3%83%88">エルゴソフト</a>&#39;（英文社名：&#39;&#39;ERGOSOFT Corp.&#39;&#39;）は、かつて存在した日本のソフトウェア開発会社である。コーエーの子会社であった。<br />
+<br />
+== 概要 ==<br />
+1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>設立。Macintoshが日本語化される以前から日本語ワープロソフト『EGWORD』や日本語入力システム『EGBRIDGE』を発売し、Macintoshと共に歴史を築いてきた。19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>に光栄（現コーエーテクモホールディングス）が株式を100％取得し、同社の完全子会社となる。<br />
+<br />
+1<a href="http://localhost/keyword/986%E5%B9%B4">986年</a>以降、MS-DOS、DOS/V、BeOS、PlayStation 2などMacintosh以外のプラットフォームへ進出し、1994・<a href="http://localhost/keyword/95%E5%B9%B4">95年</a>にはEGBRIDGEおよびEGWORDをWindowsに対応させるが、競合製品の壁は厚くWindows用ワープロソフト市場からは撤退。その後は、<a href="http://localhost/keyword/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89">キーボード</a>練習ソフトなどさまざまな分野のソフトをMacintosh・Windows向けに展開した。<br />
+<br />
+2001年のMac OS Xへの移行後は、主力製品であるEGWORDおよびEGBRIDGEのMac OS Xへの対応・最適化に経営資源を集中した。ヒラギノ（OpenType Proフォント）20,000文字（Adobe-Japan1-5）にいち早く対応したほか、Mac OS Xのバージョンアップ時には即日アップデータ「パワーアップキット for ○○」という名称が付けられることもあった。を公開するなど迅速に対応した。なお、EGWORDが2001・03・04・0<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>度の、EGBRIDGEは200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>度のグッドデザイン賞を受賞している。<br />
+<br />
+200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>1月28日に、Mac OS Xの日本語環境の成熟などを理由にパッケージソフト事業からの撤退を発表。200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>1月末にユーザサポート期間が終了し、同年3月に解散株式会社コーエー 第32期（200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>3月期） 有価証券報告書、8頁。、その後清算結了したコーエーテクモホールディングス株式会社 第1期（20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>3月期） 有価証券報告書、6頁。。<br />
+<br />
+== 沿革 ==<br />
+* 1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>1月 &#39;株式会社<a href="http://localhost/keyword/%E3%82%A8%E3%83%AB%E3%82%B4%E3%82%BD%E3%83%95%E3%83%88">エルゴソフト</a>&#39; 設立。<br />
+* 1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>9月 日本語ワープロソフト 「EGWord」 Ver.1.0 を発表。<br />
+* 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>5月 日本語入力システム 「EGBridge」 Ver.1.0 を発表・発売。<br />
+* 1<a href="http://localhost/keyword/986%E5%B9%B4">986年</a>5月 かな漢字変換ツール 「EGConvert」（64,000文字一括かな漢字変換）のOEM供給を開始。<br />
+* 1<a href="http://localhost/keyword/986%E5%B9%B4">986年</a>5月 大阪府池田市に大阪開発分室を開設。<br />
+* 1<a href="http://localhost/keyword/986%E5%B9%B4">986年</a>12月 東京都港区赤坂に東京営業所を開設。<br />
+* 1<a href="http://localhost/keyword/991%E5%B9%B4">991年</a>3月 東京開発センターを開設。<br />
+* 19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>5月 株式会社光栄が株式を100%取得。<br />
+* 1<a href="http://localhost/keyword/994%E5%B9%B4">994年</a>1月 本社、東京営業所、東京開発センターを統合し、東京都渋谷区渋谷に移転。<br />
+* 1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>4月 神奈川県横浜市港北区<a href="http://localhost/keyword/%E7%AE%95%E8%BC%AA%E7%94%BA">箕輪町</a>へ移転。<br />
+* 19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>7月 オンラインキーコード販売を開始。<br />
+* 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>11月 「EGWORD」 発売20周年記念キャンペーンを実施。<br />
+* 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>1月 パッケージソフト事業を終了。<br />
+* 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>3月 解散。<br />
+<br />
+== 製品一覧 ==<br />
+* EGWORD - 日本語ワープロソフト。1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>9月発表。<br />
+** EGLight - PC-9800シリーズほか用日本語ワープロソフト。19<a href="http://localhost/keyword/89%E5%B9%B4">89年</a>12月発売。<br />
+** EGWORD PURE - 『EGWORD』の機能制限廉価版。1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a>7月発売。<br />
+** ハローキティーのラブリーワープロ - 日本語ワープロソフト。2000年9月発売。<br />
+* EGBRIDGE - 日本語入力システム。1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>5月発表・発売。<br />
+* EGTalk - パソコン通信ソフト。1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>8月発売。<br />
+* EGBook - DTPソフト。1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>9月発売。<br />
+* EGWorks - キヤノン「NAVI」用ビジネス統合ソフト。19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>9月発売。<br />
+* EGCalc - 表計算ソフト。1<a href="http://localhost/keyword/991%E5%B9%B4">991年</a>9月発売。<br />
+* EGForm - 定型文書作成・管理ソフト。19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>2月発売。<br />
+* 漢字職人 - 外字作成ソフト。1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a>3月発売。<br />
+* もぐらたたキー - <a href="http://localhost/keyword/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89">キーボード</a>練習ソフト。1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a>6月発売。<br />
+** もぐらまなび〜 - <a href="http://localhost/keyword/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89">キーボード</a>練習ソフト。1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>3月発売。<br />
+** Typing Pro - <a href="http://localhost/keyword/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89">キーボード</a>練習ソフト。1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>12月発売。<br />
+** ハローキティのタイピングツアー - <a href="http://localhost/keyword/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89">キーボード</a>練習ソフト。19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>9月発売。<br />
+** ハローキティのはじめてタイピング - 幼児対象タイピング練習ソフト。2000年12月発売。<br />
+* 3D BLOCK - 3次元モデリングソフト。1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a>11月発売。<br />
+* すぐれ筆 - 宛名印刷ソフト。1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a>11月発売。<br />
+* 写真deインターネット - ホームページ作成ソフト。1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>4月発売。<br />
+** ホームページデビュー - ホームページ作成ソフト。2000年5月発売。<br />
+* 郵優セブン - <a href="http://localhost/keyword/%E9%83%B5%E4%BE%BF%E7%95%AA%E5%8F%B7">郵便番号</a>変換ソフト。1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>11月発売。<br />
+* フォトコレクター - データ管理ソフト。1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>12月発売。<br />
+* ネットゴーランド - 自動巡回ソフト。1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a>9月発売。<br />
+* 脳力リフレッシュ - 脳機能活性化ソフト。1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a>9月発売。<br />
+* コミックメール - メール作成ソフト。2000年2月発売。Mac Fanと共催のソフトウェアアイデアコンテストの最優秀作品を商品化。同年10月には、松下電工と共同でiモードサービス「コミック＠メール」を開始。<br />
+* おしゃべりにゃむ〜 - ペット育成型デスクトップ・ユーティリティ。2000年9月発売。<br />
+* EGBROWSER - PlayStation 2用ウェブブラウザソフト。2001年4月発売。開発元は米プラネットウェブ社。<br />
+* WebBooster Ninja EG - インターネット快適化ツール。2001年8月発売。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 物書堂 - 元<a href="http://localhost/keyword/%E3%82%A8%E3%83%AB%E3%82%B4%E3%82%BD%E3%83%95%E3%83%88">エルゴソフト</a>の技術者が設立したソフトウェア開発会社。<br />
+<br />
+<br />
+<br />
+Category:コーエーテクモグループの歴史<br />
+Category:かつて存在した日本のソフトウェア会社<br />
+Category:かつて存在した神奈川県の企業<br />
+Category:1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>設立の企業<br />
+Category:200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>廃止<br />

@@ -1,0 +1,101 @@
+description<br />
+<br />
+|所属事業者 = 23px北海道旅客鉄道（JR北海道）<br />
+|所属路線 = 根室本線<br />
+|キロ程 = 145.4<br />
+|起点駅 = 滝川<br />
+|所在地 = 北海道上川郡<a href="http://localhost/keyword/%E6%B8%85%E6%B0%B4%E7%94%BA">清水町</a>本通1丁目<br />
+| 緯度度 = 43|緯度分=0|緯度秒=49.67<br />
+| 経度度 = 142|経度分=52|経度秒=47.24<br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面2線<br />
+|開業年月日 = 190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（明治40年）9月8日<br />
+|廃止年月日 = <br />
+|乗車人員 = 321<br />
+|統計年度 = 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>度<br />
+|乗換 = <br />
+|備考 = 業務委託駅みどりの窓口 有<br />
+}}<br />
+<br />
+ }}<br />
+&#39;<a href="http://localhost/keyword/%E5%8D%81%E5%8B%9D%E6%B8%85%E6%B0%B4%E9%A7%85">十勝清水駅</a>&#39;（とかちしみずえき）は、北海道上川郡<a href="http://localhost/keyword/%E6%B8%85%E6%B0%B4%E7%94%BA">清水町</a>本通1丁目にある北海道旅客鉄道（JR北海道）根室本線の駅。駅番号は&#39;K24&#39;。電報略号は&#39;ミス&#39;。<br />
+<br />
+特急「スーパーとかち」の全列車と、「スーパーおおぞら」の1往復（9・2号）が停車する。<br />
+<br />
+== 歴史 == <br />
+* 190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（明治40年）9月8日：国有鉄道の&#39;清水駅&#39;として開業。<br />
+* 1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>（大正<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）6月16日：河西鉄道（後の十勝鉄道清水部線）の清水駅が本駅前に開業。<br />
+* 1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>（昭和<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）11月20日：&#39;<a href="http://localhost/keyword/%E5%8D%81%E5%8B%9D%E6%B8%85%E6%B0%B4%E9%A7%85">十勝清水駅</a>&#39;に改称。<br />
+* 1<a href="http://localhost/keyword/951%E5%B9%B4">951年</a>（昭和<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>）7月1日：十勝鉄道清水部線廃止。<br />
+* 1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>（昭和<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）10月：ホクレン清水製糖工場操業に伴い専用線使用開始。<br />
+* 1<a href="http://localhost/keyword/966%E5%B9%B4">966年</a>（昭和<a href="http://localhost/keyword/41%E5%B9%B4">41年</a>）11月1日：駅舎改築。跨線橋設置。<br />
+* 1<a href="http://localhost/keyword/967%E5%B9%B4">967年</a>（昭和<a href="http://localhost/keyword/42%E5%B9%B4">42年</a>）：白老チップ十勝工場（後に大昭和興林十勝工場）専用線敷設。<br />
+* 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>（昭和<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>）<br />
+** 3月14日：荷物の取扱を廃止。<br />
+** 10月1日：車扱貨物以外の貨物取扱を廃止。<br />
+* 1<a href="http://localhost/keyword/986%E5%B9%B4">986年</a>（昭和<a href="http://localhost/keyword/61%E5%B9%B4">61年</a>）<br />
+** 月日不詳：大昭和興林十勝工場移転により専用線廃止。<br />
+** 月日不詳：ホクレン清水製糖工場専用線廃止。<br />
+** 11月1日：車扱貨物の取扱を廃止。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日：国鉄分割民営化により北海道旅客鉄道（JR北海道）が継承。<br />
+* 1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>（平成<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）10月1日：業務委託駅化。<br />
+<br />
+== 駅構造 ==<br />
+島式ホーム1面2線をもつ地上駅。通常列車は駅舎側の本線である1番線を使用し、交換する場合のみ2番線を使用する。<br />
+<br />
+駅舎は駅構内の東側にある。<a href="http://localhost/keyword/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%AB%E9%81%93%E6%9D%B1%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9">ジェイ・アール道東トラベルサービス</a>が業務を受託する業務委託駅で、みどりの窓口（営業時間：6時30分 - 16時40分）が設置されている。<br />
+<br />
+かつては駅舎の南側に貨物ホームがあったほか、駅の南側・根室本線の西側にあるJA十勝<a href="http://localhost/keyword/%E6%B8%85%E6%B0%B4%E7%94%BA">清水町</a>の倉庫や本線の東側にある日本甜菜製糖清水工場、駅の北側にあるホクレン清水製糖工場への専用線がそれぞれ分岐していたが、1<a href="http://localhost/keyword/986%E5%B9%B4">986年</a>（昭和<a href="http://localhost/keyword/61%E5%B9%B4">61年</a>）11月1日までにすべて廃止された。<br />
+<br />
+ファイル:JRHokkaidoTokachiShimizueki2.JPG|跨線橋から新得方面を望む（20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>7月）<br />
+ファイル:JRHokkaidoTokachiShimizueki3.JPG|跨線橋から羽帯方面を望む（20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>7月）<br />
+<br />
+<br />
+== 駅名の由来 ==<br />
+北海道旅客鉄道釧路支社によると、アイヌ語の「ペケレ・ペツ（水の清い川）」を意訳した「清水」に、東海道本線の同名の駅と区別するため<a href="http://localhost/keyword/%E6%97%A7%E5%9B%BD%E5%90%8D">旧国名</a>・支庁名の「十勝」をつけたものとする。<br />
+<br />
+== 常備駅 ==<br />
+1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>時の常備貨車<br />
+*タキ3600形（糖蜜専用）2両、日本甜菜製糖所有<br />
+「昭和<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>版私有貨車番号表」『トワイライトゾーンMANUAL13』ネコ・パブリッシング、200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a><br />
+<br />
+== 駅周辺 ==<br />
+* 国道38号・国道274号<br />
+* 道東自動車道十勝清水インターチェンジ<br />
+* <a href="http://localhost/keyword/%E6%B8%85%E6%B0%B4%E7%94%BA">清水町</a>役場<br />
+** ポテトライナー「清水」停留所<br />
+* 帯広開発建設部清水道路管理ステーション<br />
+** ノースライナー「清水開発前」停留所<br />
+* 新得警察署清水交番<br />
+* 清水赤十字病院<br />
+* 清水郵便局<br />
+* 帯広信用金庫清水支店<br />
+* 北洋銀行清水支店<br />
+* 十勝<a href="http://localhost/keyword/%E6%B8%85%E6%B0%B4%E7%94%BA">清水町</a><a href="http://localhost/keyword/%E8%BE%B2%E6%A5%AD%E5%8D%94%E5%90%8C%E7%B5%84%E5%90%88">農業協同組合</a>（JA十勝<a href="http://localhost/keyword/%E6%B8%85%E6%B0%B4%E7%94%BA">清水町</a>）<br />
+* 北海道清水高等学校<br />
+<br />
+== 隣の駅 ==<br />
+; 北海道旅客鉄道（JR北海道）<br />
+:* 特急「スーパーおおぞら」・「スーパーとかち」停車駅<br />
+: 根室本線<br />
+::: 新得駅 (K23) - &#39;<a href="http://localhost/keyword/%E5%8D%81%E5%8B%9D%E6%B8%85%E6%B0%B4%E9%A7%85">十勝清水駅</a> (K24)&#39; - （平野川信号場）- 羽帯駅 (K25)<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+* 十勝清水牛玉ステーキ丼<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.jrhokkaido.co.jp/network/barrier/093/tokachishimizu.html <a href="http://localhost/keyword/%E5%8D%81%E5%8B%9D%E6%B8%85%E6%B0%B4%E9%A7%85">十勝清水駅</a>構内図] - 北海道旅客鉄道<br />
+* [http://www.jrkushiro.jp/eki/nemuro_h/tokasimi.html <a href="http://localhost/keyword/%E5%8D%81%E5%8B%9D%E6%B8%85%E6%B0%B4%E9%A7%85">十勝清水駅</a>] - 北海道旅客鉄道釧路支社<br />
+<br />
+<br />
+<br />
+<br />
+Category:北海道の鉄道駅<br />
+かちしみす<br />
+Category:北海道旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+とかちしみすえき<br />
+とかちしみすえき<br />
+Category:190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>開業の鉄道駅<br />

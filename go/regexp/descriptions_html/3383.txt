@@ -1,0 +1,67 @@
+description<br />
+<br />
+&#39; 和歌山線<br />
+|キロ程     = 61.3<br />
+|起点駅     = 王寺<br />
+|所在地     = 和歌山県伊都郡<a href="http://localhost/keyword/%E3%81%8B%E3%81%A4%E3%82%89">かつら</a>ぎ町大字高田<br />
+|座標       = <br />
+|駅構造     = 地上駅<br />
+|ホーム     = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/952%E5%B9%B4">952年</a>（昭和<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）10月1日<br />
+|廃止年月日 = <br />
+|乗車人員   = 53<br />
+|乗降人員   = <br />
+|統計年度   = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換       = <br />
+|備考       = 無人駅（自動券売機 有）<br />
+|備考全幅   =<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E8%A5%BF%E7%AC%A0%E7%94%B0%E9%A7%85">西笠田駅</a>&#39;（にしかせだえき）は、和歌山県伊都郡<a href="http://localhost/keyword/%E3%81%8B%E3%81%A4%E3%82%89">かつら</a>ぎ町大字高田にある、西日本旅客鉄道（JR西日本）和歌山線の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/952%E5%B9%B4">952年</a>（昭和<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）10月1日 - 日本国有鉄道和歌山線の笠田駅 - 名手駅間に新設開業。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、西日本旅客鉄道の駅となる。<br />
+<br />
+== 駅構造 ==<br />
+和歌山方面に向かって右側に配置された片面ホーム1面1線のみの地上駅（停留所）。橋本駅管理の無人駅で、駅舎と呼べる構造物はなく、直接ホームに入る形になっている。棒線構造のため、和歌山方面行きと五条方面行きの双方が同一ホームを共用する。<br />
+<br />
+== 駅周辺 ==<br />
+* 紀ノ川<br />
+* 道の駅紀の川万葉の里<br />
+* 背の山（背山）　<br />
+* 船岡山（蛇島）<br />
+* 妹山<br />
+: 船岡山・妹山は正面に見えているものの、紀ノ川があるため当駅からは直接行けず、隣の笠田駅・名手駅から橋を渡る必要がある。<br />
+<br />
+== 利用状況 ==<br />
+1日の平均乗車人員は以下の通りである。『和歌山県統計年鑑』及び『和歌山県公共交通機関等資料集』<br />
+<br />
+<br />
+== 隣の駅 ==<br />
+; 西日本旅客鉄道<br />
+: &#39;&#39; 和歌山線<br />
+:: 快速（粉河駅以東各駅停車）・普通<br />
+::: 笠田駅 - &#39;<a href="http://localhost/keyword/%E8%A5%BF%E7%AC%A0%E7%94%B0%E9%A7%85">西笠田駅</a>&#39; - 名手駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jr-odekake.net/eki/top.php?id=0621821 <a href="http://localhost/keyword/%E8%A5%BF%E7%AC%A0%E7%94%B0%E9%A7%85">西笠田駅</a>（JR西日本）]<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:和歌山県の鉄道駅<br />
+しかせた<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:西日本旅客鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/952%E5%B9%B4">952年</a>開業の鉄道駅<br />
+Category:関西鉄道<br />
+Category:和歌山線<br />
+にしかせたえき<br />

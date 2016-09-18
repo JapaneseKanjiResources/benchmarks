@@ -1,0 +1,127 @@
+description<br />
+}; border-top:5px } solid<br />
+| name          = link=名古屋鉄道 谷汲線<br />
+| image         = Meitetsu754 01.jpg<br />
+| image_width   = 300px<br />
+| image_alt     = 谷汲駅停車中のモ750形<br />
+| caption       = 谷汲駅停車中のモ750形<br />
+| status        = 廃止<br />
+| start         = 起点：黒野駅<br />
+| end           = 終点：谷汲駅<br />
+| stations      = 9駅（廃止時点）<br />
+| open          = （全通）<br />
+| close         = <br />
+| owner         = 谷汲鉄道 谷汲鉄道→名古屋鉄道 名古屋鉄道<br />
+| linelength_km = 7.6<br />
+| gauge         = <br />
+| el            = 直流600 V,  架空電車線方式<br />
+}}<br />
+}<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+|}<br />
+|}<br />
+&#39;谷汲線&#39;（たにぐみせん）は、岐阜県揖斐郡大野町の黒野駅から同郡谷汲村（現揖斐川町）の谷汲駅までを結んでいた名古屋鉄道（名鉄）の鉄道路線。谷汲鉄道により開通した。<br />
+<br />
+運賃計算区分はC（運賃計算に用いる距離は営業キロの1.25倍）。<br />
+<br />
+== 路線データ ==<br />
+※特記なければ路線廃止時点のもの。<br />
+*路線距離（営業キロ）：11.2km<br />
+*軌間：1067mm<br />
+*駅数：9駅（起終点駅含む）<br />
+*複線区間：なし（全線単線）<br />
+*電化区間：全線電化（直流600V）<br />
+*閉塞方式：票券閉塞式（黒野駅 - 北野畑駅間）、スタフ閉塞式（北野畑駅 - 谷汲駅間）<br />
+*:平時は双方をまとめた併合閉塞（一閉塞）としていたが、毎月18日の谷汲山命日や行楽シーズンの列車増発時には北野畑駅に運転要員を派遣し、併合を解除して基本の二閉塞として運行した。票券は谷汲行き増発列車第一便の前に発車する定期列車と黒野行き増発列車最終便に対して発券されていた。<br />
+<br />
+== 運行形態 ==<br />
+すべて、普通列車のワンマン運転であった。朝の6 - 8時台では、黒野駅 - 谷汲駅間で30分間隔で毎時2往復、その他は終電まで60分間隔で、毎時1往復運転されていた。ただし、毎月18日と行楽シーズンの特定日、廃線間際には、臨時列車数往復が増発されて、日中（11時 - 15時）も毎時2往復運転されていた。この臨時列車には車掌も乗務していた。単線のため、30分間隔で運行する時は途中、北野畑駅で列車の行き違いを行っていた。なお末期は朝夕も50分間隔となり、特定日以外の北野畑駅での行き違いを行わなくなっていた。<br />
+<br />
+=== 使用車両 ===<br />
+1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>のワンマン運転開始以降について記す。基本的に揖斐線と共通だが、揖斐線用車両のうち、モ770形・モ780形は一度も使用されなかった。当初はモ770形・モ780形も乗り入れる予定であったが、末端区間での電力量が不足（600Vに対し、300 - 400Vしかなかったという）のため断念したという。<br />
+*モ700形・モ750形 - モ700形は多客時の2両編成（1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>まで）、モ750形は単行・2両編成とも使用。<br />
+*ク2320形 - 多客時のモ700形との2両編成で使用（1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>まで）。<br />
+*モ510形 - 多客時の2両編成で使用。<br />
+<br />
+== 歴史 ==<br />
+=== 前史（谷汲鉄道時代） ===<br />
+<br />
+|本社所在地 = 愛知県名古屋市熱田区三本松町3丁目1<br />
+|設立 = 1<a href="http://localhost/keyword/924%E5%B9%B4">924年</a>（大正<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）1月27日<br />
+|業種 = 鉄軌道業<br />
+|事業内容 = 旅客鉄道事業、自動車運輸業<br />
+|代表者 = 社長 藍川清成<br />
+|<a href="http://localhost/keyword/%E8%B3%87%E6%9C%AC%E9%87%91">資本金</a> = 700,000円（払込額）<br />
+|特記事項 = 上記データは1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a>（昭和<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）4月1日現在[ 『地方鉄道及軌道一覧. 昭和<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>4月1日現在]（国立国会図書館デジタルコレクション）。}}<br />
+地元の名刹である谷汲山華厳寺の巡礼客の交通の便の確保と根尾方地方の開発を目的として揖斐郡大野村と谷汲村間の鉄道敷設が1<a href="http://localhost/keyword/922%E5%B9%B4">922年</a>（大正<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）5月に申請された。続いて6月に揖斐郡大野村-安八郡神戸町間（養老鉄道広神戸駅）の鉄道敷設も申請した。これに賛同した稲富村出身の井深重剛は線路予定地にある所有の土地井深家所有の土地だけで黒野から更地近辺までつながったというを無償提供するなど私財を投じ鉄道敷設計画を支援した。1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>（大正<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）2月に鉄道敷設免許状が下付されたが、関東大震災発生直後の不況の懸念と揖斐川架橋問題から広神戸駅延長は断念せざるをえなかった同ルートが1<a href="http://localhost/keyword/927%E5%B9%B4">927年</a>揖斐川電気に対し[ 免許状]が下付されたが翌年[ 失効]している。（国立国会図書館デジタルコレクション）。<br />
+<br />
+1<a href="http://localhost/keyword/924%E5%B9%B4">924年</a>（大正<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）1月谷汲鉄道が設立され、本社は大野村大字黒野に置き、社長には井深が就任した。また美濃電気軌道も出資し同社から3名が取締役に就任した。工事は1<a href="http://localhost/keyword/927%E5%B9%B4">927年</a>（昭和<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）の谷汲山華厳寺十一面観世音菩薩御開帳に合わせるべく昼夜兼行ですすめられ、1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>（大正<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）4月に全線が開業することができた。そして盛大な開通式から5か月後に建設の陣頭指揮をとり開業に奔走していた井深が急死するというアクシデントがあったが、同じ4月6日に北方町 - 黒野間を開業した美濃電気軌道との直通運転を9月1日より開始した。これにより岐阜駅からは市内線、忠節橋徒歩連絡、忠節駅-谷汲駅と1時間半で結ぶことになった。<br />
+<br />
+1<a href="http://localhost/keyword/927%E5%B9%B4">927年</a>（昭和<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）4月から5月にかけての御開帳に備え車両6両（デロ7形電車）を発注し、稲富駅を新設し交換設備を増やした。これにより多客時の3連20分ヘッド運転を可能にした。御開帳期間の乗客数は飛躍的にふえて積み残しがでるほどであった。ところが御開帳がおわると乗客数は減少。昭和金融恐慌の時期にあたり業績は悪化、政府補助金によりかろうじて経営を維持していた。<br />
+<br />
+1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>（昭和<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）には美濃電気軌道が業績悪化により名古屋鉄道（名岐鉄道）に合併された。谷汲鉄道は1<a href="http://localhost/keyword/933%E5%B9%B4">933年</a>（昭和<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）におこなわれた華厳寺の御開帳による輸送により好成績をあげたものの終了後はまた乗客数は減少。1<a href="http://localhost/keyword/935%E5%B9%B4">935年</a>（昭和<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>）に乗合自動車業（黒野-神戸-三ツ屋間）をはじめるものの成績は芳しくなかった。1<a href="http://localhost/keyword/936%E5%B9%B4">936年</a>（昭和<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）の華厳寺の御開帳でも好成績をあげたが、7月には名古屋鉄道の事実上の子会社となり1<a href="http://localhost/keyword/937%E5%B9%B4">937年</a>（昭和<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）藍川清成が代表取締役に就任した本社名古屋[ 『日本全国諸会社役員録. 第47回』]（国立国会図書館デジタルコレクション）。<br />
+<br />
+=== 年表 ===<br />
+*1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>（大正<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）<br />
+**2月8日 - 谷汲鉄道に対し鉄道免許状下付（揖斐郡大野村-同郡谷汲村間、揖斐郡大野村-安八郡神戸町間）[ 「鉄道免許状下付」『官報』1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>2月10日]（国立国会図書館デジタルコレクション）<br />
+**12月27日 - 起業目論見変更（認可）（揖斐郡大野村-同郡谷汲村間）[ 「起業目論見変更」『官報』1<a href="http://localhost/keyword/924%E5%B9%B4">924年</a>1月9日]（国立国会図書館デジタルコレクション）<br />
+*1<a href="http://localhost/keyword/924%E5%B9%B4">924年</a>（大正<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）1月27日 - 谷汲鉄道株式会社設立[ 『地方鉄道及軌道一覧 : 附・専用鉄道. 昭和<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>4月1日現在』]（国立国会図書館デジタルコレクション）[ 『日本全国諸会社役員録. 第32回』]（国立国会図書館デジタルコレクション）<br />
+*1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>（大正<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）4月6日 - 谷汲鉄道が黒野 - 谷汲間を開業[ 「地方鉄道運輸開始」『官報』1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>4月13日]（国立国会図書館デジタルコレクション）。デロ1形電車6両を投入。美濃電気軌道北方線 北方町 - 黒野間が開業[ 「地方鉄道運輸開始」『官報』1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>4月13日]（国立国会図書館デジタルコレクション）。<br />
+*1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>（大正<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）9月1日 - 美濃電気軌道と直通運転開始（忠節 - 谷汲間）『谷汲線その歴史とレール』27頁<br />
+*1<a href="http://localhost/keyword/936%E5%B9%B4">936年</a>（昭和<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）7月1日 - 名古屋鉄道が谷汲鉄道の経営を受託『名古屋鉄道百年史』958頁<br />
+*1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>（昭和<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>） - 黒野西口駅、豊木駅、八王子坂駅、長瀬茶所駅休止。<br />
+*1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>（昭和<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）3月1日 - 名古屋鉄道が谷汲鉄道を合併。谷汲線となる。<br />
+*1<a href="http://localhost/keyword/946%E5%B9%B4">946年</a>（昭和<a href="http://localhost/keyword/21%E5%B9%B4">21年</a>）9月16日 - 豊木駅営業再開。<br />
+*1<a href="http://localhost/keyword/958%E5%B9%B4">958年</a>（昭和<a href="http://localhost/keyword/33%E5%B9%B4">33年</a>）5月1日 - 長瀬茶所駅廃止。<br />
+*1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>（昭和<a href="http://localhost/keyword/43%E5%B9%B4">43年</a>）8月5日 - 揖斐線・岐阜市内線直通の急行を新設。<br />
+*19<a href="http://localhost/keyword/69%E5%B9%B4">69年</a>（昭和<a href="http://localhost/keyword/44%E5%B9%B4">44年</a>）4月5日 - 黒野西口駅、八王子坂駅廃止。<br />
+*1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>（昭和<a href="http://localhost/keyword/59%E5%B9%B4">59年</a>）<br />
+**3月20日 - 急行廃止。<br />
+**10月16日 - 閑散時ワンマン運転開始。<br />
+*19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>（平成<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）4月23日 - 結城駅廃止。<br />
+*2001年（平成<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）10月1日 - 全線廃止。名阪近鉄バスにより廃止代替バス運転開始。<br />
+*200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>（平成<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）10月1日 - 代替バスである名阪近鉄バス谷汲黒野線廃止。これにより、樽見鉄道樽見線の北方真桑-谷汲口間、または大野バスセンターから揖斐川町コミュニティバス揖斐黒野線を利用し途中の本揖斐バス停で同バス横蔵線乗り換えが代替交通という形になる。<br />
+<br />
+== 駅一覧 ==<br />
+*全駅岐阜県に所在。<br />
+*駅名・接続路線名は廃止時点、所在地は路線廃止時点のもの。<br />
+**印の駅は路線廃止前に廃止された駅（廃止日は歴史参照）<br />
+*廃止前時点では&#39;普通列車&#39;のみ運行。全列車、各駅に停車。<br />
+<br />
+<br />
+== 輸送・収支実績 ==<br />
+<br />
+*鉄道統計資料、鉄道統計、国有鉄道陸運統計各年度版<br />
+*1<a href="http://localhost/keyword/927%E5%B9%B4">927年</a>、1<a href="http://localhost/keyword/933%E5%B9%B4">933年</a>、1<a href="http://localhost/keyword/936%E5%B9%B4">936年</a>の4月1日-5月20日谷汲山華厳寺十一面観世音菩薩御開帳<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 参考文献 ==<br />
+*大島一朗『谷汲線 その歴史とレール』岐阜新聞社、200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a><br />
+*『名古屋鉄道社史』1<a href="http://localhost/keyword/961%E5%B9%B4">961年</a>、315-316頁<br />
+<br />
+== 関連書籍 ==<br />
+* 徳田耕一『名鉄の廃線跡を歩く』JTB、2001年、ISBN 4-533-03923-5<br />
+<br />
+== 関連項目 ==<br />
+*廃線<br />
+<br />
+<br />
+<br />
+たにくみせん<br />
+たにくみ<br />
+路たにくみ<br />
+Category:岐阜県の交通史<br />

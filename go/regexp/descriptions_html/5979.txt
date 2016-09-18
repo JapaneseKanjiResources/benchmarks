@@ -1,0 +1,92 @@
+description<br />
+<br />
+}<br />
+| image = <br />
+| image_width = 300px<br />
+| image_alt = <br />
+| caption = <br />
+| type = <br />
+| status = 廃止<br />
+| start = 起点：<a href="http://localhost/keyword/%E9%82%A3%E8%A6%87%E9%A7%85">那覇駅</a><br />
+| end = 終点：与那原駅<br />
+| stations = 9駅<br />
+| open = <br />
+| event1label = 運行停止<br />
+| event1 = <br />
+| close = <br />
+| owner = 沖縄県<br />
+| operator = <br />
+| depot = <br />
+| stock = 沖縄県営鉄道#車両の節を参照<br />
+| linelength_km = 9.4<br />
+| linelength = <br />
+| gauge = <br />
+| minradius_m = <br />
+| el = 全線非電化<br />
+| speed = <br />
+| maxincline = <br />
+| map = <br />
+| map_state = <br />
+}}<br />
+}<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+|}<br />
+|}<br />
+&#39;与那原線&#39;（よなばるせん）は、現在の沖縄県那覇市にあった<a href="http://localhost/keyword/%E9%82%A3%E8%A6%87%E9%A7%85">那覇駅</a>と、島尻郡与那原町にあった与那原駅を結んでいた、沖縄県営鉄道の鉄道路線。1<a href="http://localhost/keyword/914%E5%B9%B4">914年</a>（大正3年）に県営鉄道の最初の路線として開業したが、太平洋戦争末期の1<a href="http://localhost/keyword/945%E5%B9%B4">945年</a>（昭和<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）3月に運行を停止。沖縄戦で線路施設が破壊され、そのまま消滅した。<br />
+<br />
+== 路線データ ==<br />
+運行停止時点<br />
+* 路線距離：那覇 - 与那原 9.4km<br />
+* 軌間：762mm<br />
+* 駅数：9（起終点駅含む）<br />
+* 複線区間：なし（全線単線）<br />
+* 電化区間：なし（全線非電化）<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/914%E5%B9%B4">914年</a>（大正3年）12月1日 那覇 - 与那原間が開業、<a href="http://localhost/keyword/%E9%82%A3%E8%A6%87%E9%A7%85">那覇駅</a>・国場駅・南風原駅・与那原駅を開設（与那原駅は仮設駅）<br />
+* 1<a href="http://localhost/keyword/915%E5%B9%B4">915年</a>（大正<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）<br />
+** 1月20日 与那原仮駅を本設駅に移転<br />
+** 7月27日 真玉橋駅・一日橋駅を開設<br />
+* 1<a href="http://localhost/keyword/917%E5%B9%B4">917年</a>（大正<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）1月23日 大里駅を開設<br />
+* 1<a href="http://localhost/keyword/922%E5%B9%B4">922年</a>（大正<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）3月28日 古波蔵駅を開設（同日開業した嘉手納線の分岐駅）<br />
+* 1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>（昭和<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）6月8日 真玉橋駅を移転<br />
+* 1<a href="http://localhost/keyword/936%E5%B9%B4">936年</a>（昭和<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）11月 宮平駅を開設<br />
+* 1<a href="http://localhost/keyword/945%E5%B9%B4">945年</a>（昭和<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）3月 運行を停止<br />
+<br />
+== 駅一覧 ==<br />
+運行停止時点。全駅が沖縄県に所在<br />
+<br />
+<br />
+== 与那原駅駅舎復元 ==<br />
+沿線の与那原町では、軽便鉄道開業100周年を記念して与那原駅舎を復元、20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>4月に完成した[http://ryukyushimpo.jp/news/storyid-223792-storytopic-5.html 軽便鉄道開通１００年　与那原駅を復元　琉球新報　20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>4月18日付]。同駅跡地は戦後、与那原町役場やJAおきなわ与那原支店として使用されていたが、20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>にJAは移転、翌年に町が「与那原駅跡地整備検討委員会」を発足、駅舎の復元に取り組んだ。今後は20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>をめどに一帯を公園として整備する計画である。<br />
+<br />
+20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>1月31日、交通資料館「&#39;軽便与那原駅舎展示資料館&#39;」として開館した。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の廃止鉄道路線一覧<br />
+* 廃線<br />
+* 沖縄県の鉄道<br />
+<br />
+<br />
+Category:九州地方の鉄道路線 (廃止)<br />
+路よなはる<br />

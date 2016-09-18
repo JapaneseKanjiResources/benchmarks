@@ -1,0 +1,108 @@
+description<br />
+・モスクワ<br />
+|latd                      = <br />
+|latm                      = <br />
+|lats                      = <br />
+|latNS                     = <br />
+|longd                     = <br />
+|longm                     = <br />
+|longs                     = <br />
+|longEW                    = <br />
+|region_code               = <br />
+|country of origin         = <br />
+|minister1_name            =<br />
+|minister1_pfo             = <br />
+|minister2_name            = <br />
+|minister2_pfo             = (etc.)<br />
+|chief1_name               = <br />
+|chief1_position           = <br />
+|chief2_name               = <br />
+|chief2_position -(etc.)<br />
+|parent_agency             = <br />
+|child1_agency             = <br />
+|child2_agency             =<br />
+|child3_agency             =<br />
+|child4_agency             =<br />
+|website                   = <br />
+|footnotes                 = <br />
+}}<br />
+&#39;ロシア・ソビエト連邦社会主義共和国内務人民委員部附属国家政治局&#39;（ロシア・ソビエトれんぽうしゃかいしゅぎきょうわこ<a href="http://localhost/keyword/%E3%81%8F%E3%81%AA%E3%81%84">くない</a>むじんみんいいんぶふぞくこっかせいじきょく、）、通称&#39;<a href="http://localhost/keyword/%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%B2%BB%E4%BF%9D%E5%AE%89%E9%83%A8">国家政治保安部</a>&#39;は、ソビエト連邦のレーニンおよびスターリン政権下で、反政府的な運動・思想を弾圧した秘密警察。ロシア語での通称は&#39;ゲーペーウー&#39;（）、ラテン文字表記するとで、これを略した &#39;GPU&#39; で世界的に知られることになる。<br />
+<br />
+==概要==<br />
+前身は1<a href="http://localhost/keyword/917%E5%B9%B4">917年</a>に設立されたチェーカーである。1<a href="http://localhost/keyword/922%E5%B9%B4">922年</a>2月6日にGPUに改名された。反革命分子・反動分子・反体制派の摘発・抹殺を目的としていた。1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>11月23日には、ソ連人民委員会議附属OGPU（&#39;統合国家政治局&#39;または&#39;合同<a href="http://localhost/keyword/%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%B2%BB%E4%BF%9D%E5%AE%89%E9%83%A8">国家政治保安部</a>&#39;）に改組された。<br />
+<br />
+スターリンは、トロツキーやキーロフなどの政敵たちや党内反対派を殺すためにGPUを用いた。また、GPUは圧制に抵抗する民衆や外国人を弾圧し、次々と刑場や強制収容所に送った。<br />
+<br />
+1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>7月に内務人民委員部直轄の&#39;国家保安総局&#39;となり、1<a href="http://localhost/keyword/937%E5%B9%B4">937年</a>に全国に設置され、弾圧の対象者を拡大した。かくして密告網が各地に張り巡らされ、民衆は息苦しい生活を強いられることとなった。<br />
+<br />
+GPUの廃止はスターリンの死後の1<a href="http://localhost/keyword/953%E5%B9%B4">953年</a>9月であった。しかし、GPU関係者への処罰は手緩いものであり、残党は後にソ連国家保安委員会（KGB）として生き残った。<br />
+<br />
+==機構==<br />
+1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>1月1日時点での OGPU の機構。<br />
+*OGPU長官<br />
+*副総局長×3人<br />
+*参与会書記官<br />
+*総務局<br />
+*人事課<br />
+*特別課 - 軍の監視機関。後のスメルシ<br />
+*秘密警察課<br />
+*経済課<br />
+*外国課 - 対外諜報機関。後のKGB第1総局<br />
+*作戦課<br />
+*輸送課<br />
+*特殊課<br />
+*登録・統計課<br />
+*特別全権代表<br />
+*会計課<br />
+*国境警備総局 - 国境警備隊<br />
+*労農民警総局 - 一般警察<br />
+*収容所総局（グラーグ） - ラーゲリを管理<br />
+<br />
+==階級==<br />
+<br />
+<br />
+1<a href="http://localhost/keyword/935%E5%B9%B4">935年</a> - 1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a>までの国家保安機関職員の階級。<br />
+*国家保安総委員（）<br />
+*一等国家保安委員（）<br />
+*二等国家保安委員（）<br />
+*三等国家保安委員（）<br />
+*国家保安上級少佐（）<br />
+*国家保安少佐（）<br />
+*国家保安大尉（）<br />
+*国家保安上級中尉（）<br />
+*国家保安中尉（）<br />
+*国家保安少尉（）<br />
+*国家保安軍曹（）<br />
+<br />
+1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a>2月、国家保安上級少佐の階級が廃止され、以下の階級が新設された。<br />
+*国家保安委員（）<br />
+*国家保安大佐（）<br />
+*国家保安中佐（）<br />
+<br />
+==歴代指導者==<br />
+===GPU長官===<br />
+#フェリックス・ジェルジンスキー（1<a href="http://localhost/keyword/922%E5%B9%B4">922年</a>2月 - 1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>11月）<br />
+<br />
+===OGPU長官===<br />
+#フェリックス・ジェルジンスキー（1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>11月 - 1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>7月）<br />
+#ヴャチェスラフ・メンジンスキー（1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>7月 - 1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>5月）<br />
+#代行 ゲンリフ・ヤゴーダ（1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>5月 - 7月。以降、内務人民委員）<br />
+<br />
+===NKVD国家保安総局長===<br />
+#ヤーコフ・アグラーノフ（1<a href="http://localhost/keyword/936%E5%B9%B4">936年</a>12月 - 1<a href="http://localhost/keyword/937%E5%B9%B4">937年</a>4月）<br />
+#ミハイル・フリノフスキー（1<a href="http://localhost/keyword/937%E5%B9%B4">937年</a>4月 - 1<a href="http://localhost/keyword/938%E5%B9%B4">938年</a>3月）<br />
+#ラヴレンチー・ベリヤ（1<a href="http://localhost/keyword/938%E5%B9%B4">938年</a>9月 - 1<a href="http://localhost/keyword/938%E5%B9%B4">938年</a>12月）<br />
+#フセヴォロド・メルクーロフ（1<a href="http://localhost/keyword/938%E5%B9%B4">938年</a>12月 - 1<a href="http://localhost/keyword/941%E5%B9%B4">941年</a>2月。以降、国家保安人民委員）<br />
+<br />
+==関連項目==<br />
+*チェーカー / NKVD / NKGB / MGB / KGB<br />
+*国家政治保衛局<br />
+<br />
+<br />
+<br />
+Category:ソビエト連邦の行政<br />
+Category:ソビエトの諜報・情報機関<br />
+Category:大粛清<br />
+Category:秘密警察<br />
+Category:廃止された行政機関<br />
+Category:内務人民委員部<br />

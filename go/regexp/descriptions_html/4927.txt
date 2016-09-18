@@ -1,0 +1,79 @@
+description<br />
+<br />
+<br />
+|所在地幅 = long<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/956%E5%B9%B4">956年</a>（昭和<a href="http://localhost/keyword/31%E5%B9%B4">31年</a>）10月1日『交通年鑑 昭和3<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>版』 交通協力会、1<a href="http://localhost/keyword/957%E5%B9%B4">957年</a>3月15日。<br />
+|廃止年月日 =<br />
+|乗車人員 = 85<br />
+|統計年度 = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|乗換 =<br />
+|備考 = 無人駅<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E5%A4%A9%E6%B4%A5%E9%A7%85">天津駅</a>&#39;（あまつえき）は、大分県宇佐市大字下敷田字縄夏期にある、九州旅客鉄道（JR九州）<a href="http://localhost/keyword/%E6%97%A5%E8%B1%8A%E6%9C%AC%E7%B7%9A">日豊本線</a>の駅である。<br />
+<br />
+== 歴史 == <br />
+* 1<a href="http://localhost/keyword/956%E5%B9%B4">956年</a>（昭和<a href="http://localhost/keyword/31%E5%B9%B4">31年</a>）10月1日 - 日本国有鉄道が開設。<br />
+* 1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a>（昭和<a href="http://localhost/keyword/57%E5%B9%B4">57年</a>）<br />
+** 9月17日 - <a href="http://localhost/keyword/%E6%97%A5%E8%B1%8A%E6%9C%AC%E7%B7%9A">日豊本線</a>の豊前<a href="http://localhost/keyword/%E5%96%84%E5%85%89%E5%AF%BA%E9%A7%85">善光寺駅</a> - 当駅間の複線化が完成運輸政策研究機構 『日本国有鉄道民営化に至る<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>』 成山堂書店、2000年7月28日。ISBN 978-4-425-30181-2。<br />
+** 10月1日 - <a href="http://localhost/keyword/%E6%97%A5%E8%B1%8A%E6%9C%AC%E7%B7%9A">日豊本線</a>の当駅 - 今津駅間の複線化が完成。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により九州旅客鉄道が山陽新幹線以外の九州地区の旅客鉄道業務を継承『交通年鑑 昭和<a href="http://localhost/keyword/63%E5%B9%B4">63年</a>版』 交通協力会、19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>3月。今村都南雄 『民営化の效果と現実NTTとJR』 中央法規出版、1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>8月。ISBN 978-4805840863。<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）12月1日 - ICカードSUGOCAの利用を開始。<br />
+<br />
+== 駅構造 ==<br />
+島式ホーム1面2線を有する地上駅、開業当時からの平屋駅舎がある無人駅。。<br />
+<br />
+<br />
+ファイル:Amatsu station platform.jpg|ホーム<br />
+ファイル:Amatsu station square.jpg|跨線橋から望む駅前<br />
+<br />
+<br />
+== 利用状況 ==<br />
+1<a href="http://localhost/keyword/965%E5%B9%B4">965年</a>（昭和40年）度には乗車人員が197,855人（定期外:33,298人、定期:164,557人）、降車人員が197,187人で、手荷物（発送:557個、到着:149個）や小荷物（発送:1,260個、到着:433個）も取り扱っていた大分県総務部統計課 『昭和<a href="http://localhost/keyword/41%E5%B9%B4">41年</a>版 大分県統計年鑑』 大分県統計協会、1<a href="http://localhost/keyword/966%E5%B9%B4">966年</a>3月。。<br />
+<br />
+20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）度の乗車人員は31,042人（定期外:7,744人、定期:23,298人）、降車人員は30,625人である。<br />
+<br />
+※1日平均乗車人員の数値は各年度版「[http://www.pref.oita.jp/site/toukei/toukeinenkan.html 大分県統計年鑑]」による年間乗車人員の値を各年度の日数で割った値。<br />
+<br />
+<br />
+<br />
+** 一日平均乗車人員は年間乗車人員の値を各年度の日数で割った値。<br />
+<br />
+== 駅周辺 ==<br />
+* 宇佐市立天津小学校<br />
+* 双葉山神社<br />
+当駅の北方約1㎞に、第35代横綱双葉山の出生地には記念碑があり、その横に設置された土俵で毎年相撲大会を開催渡辺澄夫 『大分の歴史(10) 地誌・民俗・年表』 大分合同新聞社、1<a href="http://localhost/keyword/977%E5%B9%B4">977年</a>11月15日。。<br />
+<br />
+== 隣の駅 ==<br />
+; 九州旅客鉄道<br />
+: <a href="http://localhost/keyword/%E6%97%A5%E8%B1%8A%E6%9C%AC%E7%B7%9A">日豊本線</a><br />
+:: 快速・普通<br />
+::: 今津駅 - &#39;<a href="http://localhost/keyword/%E5%A4%A9%E6%B4%A5%E9%A7%85">天津駅</a>&#39; - 豊前<a href="http://localhost/keyword/%E5%96%84%E5%85%89%E5%AF%BA%E9%A7%85">善光寺駅</a><br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+=== 注釈 ===<br />
+<br />
+<br />
+=== 出典 ===<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+* 天津村<br />
+<br />
+== 外部リンク ==<br />
+* <br />
+<br />
+<br />
+<br />
+<br />
+Category:大分県の鉄道駅<br />
+まつ<br />
+Category:九州旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/956%E5%B9%B4">956年</a>開業の鉄道駅<br />
+あまつえき<br />

@@ -1,0 +1,97 @@
+description<br />
+<br />
+<br />
+<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/Kazaa%20Lite">Kazaa Lite</a>&#39;（カザー ライト、&#39;K-Lite&#39;）はFastTrack ネットワークに接続するピア・ツー・ピアのファイル共有ソフト。スパイウェアやアドウェアを取り除いたKazaaの無許可修正版。K++ Loader と KL Extensionsプラグインによって多くの付加機能が加えられている。<br />
+<br />
+== 概要 ==<br />
+=== Kazaa ===<br />
+Gnutellaを越えるピュアP2P型ソフトとして2001年3月に開発された。プロトコル名はFastTrack。<br />
+<br />
+スーパー<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>といわれる上位の<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>がサーバとして働き、下位の<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>は検索情報などを保持しない。ピュア型ハイブリッド型の利点を併せ持つ。（スーパー<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>型ハイブリッドP2P）<br />
+<br />
+=== <a href="http://localhost/keyword/Kazaa%20Lite">Kazaa Lite</a> ===<br />
+本家Kazaa社がオーストラリアのベンチャー投資会社Sharman Networks社に売却されたことにより、スパイウェアやアドウェアが組み込まれた為、有志が、スパイウェアやアドウェアの入っていない海賊版を作成した。<br />
+<br />
+== 歴史 ==<br />
+=== Kazaa ===<br />
+2001年3月にニクラス・ゼンストロームとジャニス・フリースがKazaaを開発し、配布（この二人は、後にskype、joostを生み出す）。Gnutellaの分散特性に、「スーパー<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>」を加えたことにより、効率と安定性が上がり、みるみるユーザー数を増やしていくことになる。そして、200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>にオーストラリアのシャーマン・ネットワークス社にカザー社を売却。シャーマン・ネットワークス社は、マルウェアを組み込んだKazaaを配布した為に、マルウェアを取り除いた<a href="http://localhost/keyword/Kazaa%20Lite">Kazaa Lite</a>が無許可で作られることになる。その後、シャーマン・ネットワーク社は、提訴されていた裁判に和解し、巨額な和解金を支払う。200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>には、Morpheusとのライセンスを巡る問題から、MorpheusをFastTrackネットワークから追い出し、一時は、ダウンロード数が世界一になったと言われていたが、BitTorrentやeDonkeyなどの台頭で、ユーザー数はかなり減っている。<br />
+<br />
+*2000年7月　ニクラス・ゼンストロームとジャニス・フリースが開発し、アムステルダムを拠点とするFastTrack社（後にKaZaAに社名を変更）を創業。<br />
+*2001年3月　Kazaaプログラムの配布を開始。2001年4月20日にはFastTrackのユーザー数はおよそ2万人だったが、6月6日にはユーザー数が15万を超える。<br />
+*2001年11月29日　オランダの著作権団体Buma/Stemraとの裁判で敗訴。（後述）<br />
+*200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>3月　KaZaA.comなどのカザーの資産をシャーマン・ネットワークス社に売却。<br />
+*200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>10月4日　P2Pソフト「KaZaA」にシステム乗っ取りの深刻な脆弱性が発見される。<br />
+<br />
+=== <a href="http://localhost/keyword/Kazaa%20Lite">Kazaa Lite</a> ===<br />
+シャーマン・ネットワーク社から配布されることになったKazaaにマルウェアが組み込まれていたために、作成された。Yuri というモスクワ在住者が作者と言われている。オリジナルKazaaがマルウェア付きになった為、乗り換えたユーザーもかなりいたようで、<a href="http://localhost/keyword/Kazaa%20Lite">Kazaa Lite</a>のユーザー数は、オリジナルKazaaと同程度のユーザー数だと言われている。<br />
+<br />
+*200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>3月　KaZaA.comなどのカザーの資産をシャーマン・ネットワークス社に売却。<br />
+*200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>4月　マルウェアを取り除いた無許可修正版の<a href="http://localhost/keyword/Kazaa%20Lite">Kazaa Lite</a>を公開。<br />
+<br />
+== Kazaaにバンドルされているマルウェア ==<br />
+* Cydoor (spyware)<br />
+:このプログラムは、インターネット接続を利用して広告をダウンロードし、利用に関する統計情報を送信。<br />
+* B3D (adware)<br />
+:PCがB3Dコードの引き金となるウェブサイトにアクセスしたときに、広告ポップアップを出させる。<br />
+* Altnet (adware)<br />
+:P2Pネットワークを形成し，広告や有料コンテンツのダウンロードを促進させるソフト。<br />
+* The Best Offers (adware)<br />
+:広告を表示し、サーフィング嗜好を追跡。<br />
+* InstaFinder (hijacker)<br />
+:存在しないサイトへの検索を、事前に定義された Web サイトにリダイレクトするブラウザヘルパーオブジェクト。広告を表示し、他のアドウェアプログラムをダウンロードし実行することが可能。<br />
+* TopSearch (adware)<br />
+:コンテンツ所有者のファイルをKaZaAネットワークで検索結果の上位に表示するというサービス。<br />
+* RX Toolbar (spyware)<br />
+:このツールバーは、Microsoft Internet Explorerで見るすべてのサイトをモニターして、インターネットへ接続し第三者へ情報を配信する。<br />
+* New.net (hijacker)<br />
+:このプログラムは、ブラウザのアドレスバーに名前解決できないドメイン名、存在しないURLを入力した場合、自身のスポンサーの関連Webサイトに接続をリダイレクトする。また、このプログラムはNEW.net社が提供するTLD（Top Level Domain）をもつWebサイトに接続をリダイレクトする。<br />
+<br />
+== K++について(通称:Kpp) ==<br />
+K++はKazaaプログラムの機能のいくつかを向上させるためのローダ。K++は<a href="http://localhost/keyword/Kazaa%20Lite">Kazaa Lite</a>をメモリ上に読み込み、プログラムをロードしている間にプログラムコードの部品を改変して、<a href="http://localhost/keyword/Kazaa%20Lite">Kazaa Lite</a>によって使用される内部機能を変更する。<br />
+<br />
+*「さらに検索」の回数を無制限にする<br />
+* 複数ソースからのダウンロードの方式を改善<br />
+* 参加レベル(PL)を最も高いレベルに固定<br />
+* サードパーティ製のDLLをロードしない<br />
+* 到達することがないようなソースは.datファイルに保存しない<br />
+* デバッグオプション<br />
+* ネットワーク名を変更可能<br />
+<br />
+== カザー事件 ==<br />
+=== 豪カザー事件 ===<br />
+2001年10月3日　Morpheus・KaZaA・GroksterをMPAA・RIAAが著作権侵害で提訴<br />
+<br />
+200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>9月5日 　豪州連邦裁で敗訴、KaZaAユーザーが著作権を侵害していると判断、開発元にソフトウェアの修正を命じた<br />
+<br />
+200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>7月28日　1億1500万ドルでレコード業界と和解<br />
+*この和解をもって、レコード業界が豪州と米国で提起したKaZaAに対する訴訟は終了<br />
+<br />
+=== 蘭カザー事件 ===<br />
+2001年11月29日　オランダ地裁で責任ありの判決<br />
+<br />
+200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>3月28日 　控訴審では覆され、責任無しの判決<br />
+<br />
+2003年12月19日　オランダ最高裁で控訴審の判決を支持『KaZaA』配布は合法と判断<br />
+*オランダの音楽著作権団体Buma/Stemraとの差止請求で勝訴<br />
+<br />
+=== 関連事件 ===<br />
+200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>12月9日 　米国控訴審P2P利用者に有罪判決<br />
+*KaZaAから無料でダウンロードしたシカゴの女性に22,500ドルの支払いを命じた<br />
+<br />
+200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>11月1日 　NMPA（米国音楽出版社協会）と和解<br />
+*著作権侵害に対して、相当額の賠償金を支払うことに合意<br />
+<br />
+== 種類 ==<br />
+* <a href="http://localhost/keyword/Kazaa%20Lite">Kazaa Lite</a> <br />
+* <a href="http://localhost/keyword/Kazaa%20Lite">Kazaa Lite</a> K++<br />
+* <a href="http://localhost/keyword/Kazaa%20Lite">Kazaa Lite</a> Resurrection<br />
+* <a href="http://localhost/keyword/Kazaa%20Lite">Kazaa Lite</a> Tools K++<br />
+<br />
+== 外部リンク ==<br />
+*[http://filesharingplace.com/index.php Filesharingplace.com]<br />
+<br />
+<br />
+Category:P2P<br />

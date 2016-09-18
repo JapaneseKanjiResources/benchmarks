@@ -1,0 +1,66 @@
+description<br />
+<br />
+|所属事業者 = 23px北海道旅客鉄道（JR北海道）<br />
+|所属路線 = ■石北本線<br />
+|キロ程 = 40.4<br />
+|起点駅 = 新旭川<br />
+|所在地 = 北海道上川郡上川町字東雲<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>（昭和<a href="http://localhost/keyword/35%E5%B9%B4">35年</a>）5月2日<br />
+|廃止年月日 =<br />
+|乗車人員 =<br />
+|統計年度 =<br />
+|乗換 =<br />
+|備考 = 無人駅<br />
+}}<br />
+1<a href="http://localhost/keyword/977%E5%B9%B4">977年</a>の東雲仮乗降場と周囲約500m範囲。右が上川方面。<br />
+&#39;東雲駅&#39;（とううんえき）は、北海道上川郡上川町字東雲にある北海道旅客鉄道（JR北海道）石北本線の駅。駅番号は&#39;A42&#39;。<br />
+<br />
+仮乗降場由来の駅である。平仮名表記は「とううん」が正しいが、仮乗降場時代にはなぜか「&#39;とおうん&#39;」と書かれた駅名標があった。一部普通列車は通過する。<br />
+<br />
+== 歴史 ==<br />
+* 19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>（昭和<a href="http://localhost/keyword/35%E5%B9%B4">35年</a>）5月2日 - 日本国有鉄道石北線の&#39;東雲仮乗降場&#39;（局設定）として開業。旅客のみ取扱い。<br />
+* 1<a href="http://localhost/keyword/961%E5%B9%B4">961年</a>（昭和<a href="http://localhost/keyword/36%E5%B9%B4">36年</a>）4月1日 - 所属路線が石北本線に改称。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化によりJR北海道に継承。同時に駅に昇格。<br />
+* 19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>（平成<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）3月10日 - 営業キロ設定。<br />
+<br />
+== 駅構造 ==<br />
+* 単式ホーム1面1線の地上駅。大きな待合室があったが解体された。周囲に人家が少なく乗客は多<a href="http://localhost/keyword/%E3%81%8F%E3%81%AA%E3%81%84">くない</a>。<br />
+* 無人駅。自動券売機設置なし。便所は設置されていない。<br />
+<br />
+== 駅周辺 ==<br />
+* 国道39号<br />
+* 愛山渓ドライブイン<br />
+* 愛山渓温泉<br />
+* <a href="http://localhost/keyword/%E9%81%93%E5%8C%97%E3%83%90%E3%82%B9">道北バス</a>「安足間発電所前」停留所<br />
+<br />
+== 隣の駅 ==<br />
+; 北海道旅客鉄道<br />
+: 石北本線<br />
+:: 安足間駅 (A41) - &#39;東雲駅 (A42)&#39; - 上川駅 (A43)<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+読み方は異なるが同じ綴りの駅名<br />
+* 東雲駅 (東京都) - しののめえき。東京都江東区にある東京臨海高速鉄道りんかい線の駅。<br />
+* 東雲駅 (京都府) - しののめえき。京都府舞鶴市にあるWILLER TRAINS（京都丹後鉄道）宮津線の駅。<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jrasahi.co.jp/contents/facilities/station/a42_toun.html 東雲駅（JR北海道旭川支社）]<br />
+<br />
+<br />
+<br />
+<br />
+Category:北海道の鉄道駅<br />
+ううん<br />
+Category:北海道旅客鉄道の鉄道駅<br />
+とううんえき<br />
+とううんえき<br />
+Category:1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>開業の鉄道駅<br />

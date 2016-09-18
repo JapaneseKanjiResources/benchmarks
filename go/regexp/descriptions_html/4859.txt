@@ -1,0 +1,82 @@
+description<br />
+<br />
+&#39;メッセンジャー&#39; () は、アメリカ航空宇宙局 (NASA) のディスカバリー計画の一環として行われている水星探査ミッション、及び探査機の名前である。200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>8月3日に打ち上げられ、20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>3月18日に水星の周回軌道に投入されて観測が行われ、20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>5月1日に水星表面に落下してミッションを終了した。<br />
+<br />
+== 概要 == <br />
+約2万7000kmの距離からメッセンジャーが撮影した[[水星|200px]]<br />
+メッセンジャー以前に水星に接近した探査機には1<a href="http://localhost/keyword/974%E5%B9%B4">974年</a>から1<a href="http://localhost/keyword/975%E5%B9%B4">975年</a>のマリナー10号があるが、表面の僅か45%しか撮影されておらず、水星は太陽系で最も探査が遅れている惑星の一つだった。水星の探査が困難な理由に、太陽から受ける膨大な熱、電磁波による通信障害、水星の公転速度が大きいことなどがあったとされる。<br />
+<br />
+2000年代に入って太陽系形成の理解を深めるため、ようやく水星へと興味が注がれてきた。そして、次々に探査機を水星へ送る計画が立てられた。その1つがメッセンジャーである。<br />
+<br />
+マリナー10号の調査では、水星の物理的な性質以外ほとんど分からなかったため、メッセンジャーでは水星を構成する物質、磁場、地形、大気の成分、などが調査される。<br />
+<br />
+探査機は燃料節約のため地球、金星、水星と複数回の減速スイングバイを行いながら水星の周回軌道に接近する。その結果、地球から水星まで最短距離では約1億kmのところを、79億kmもの軌道を辿ることになる。<br />
+<br />
+<br />
+== 日程 ==<br />
+メッセンジャーの軌道。6回のフライバイを繰り返しながら水星に近づく。<br />
+デルタIIロケットによるメッセンジャーの打ち上げ<br />
+* 200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>8月3日：ケープカナベラル空軍基地からデルタIIロケットで打ち上げ。<br />
+* 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>8月2日：地球でスイングバイ。2,347 kmまで接近。<br />
+* 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>12月12日：DSM-1（Deep-Space Maneuver-1：第1回軌道修正噴射）を実施、524 秒間。<br />
+* 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>10月24日：金星でスイングバイ。2,992 kmまで接近。<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>6月5日：金星でスイングバイ。338 kmまで接近。<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>10月17日：DSM-2 を実施。<br />
+* 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>1月14日：水星でスイングバイ。200 kmまで接近。その後 DSM-3 を実施。<br />
+* 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>10月6日：水星でスイングバイ。200 kmまで接近。その後 DSM-4 を実施。<br />
+* 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>9月29日：水星でスイングバイ。200 kmまで接近。その後 DSM-5 を実施。<br />
+* 20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>11月：<a href="http://localhost/keyword/%E3%83%9C%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%BC">ボイジャー</a>1号以来<a href="http://localhost/keyword/21%E5%B9%B4">21年</a>ぶりに太陽系家族写真を撮影。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>3月18日：水星周回軌道に投入（約200km×15,200km <a href="http://localhost/keyword/%E8%BB%8C%E9%81%93%E5%82%BE%E6%96%9C%E8%A7%92">軌道傾斜角</a>82.5度の軌道）。その後約1年間観測を行う計画だった。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>11月14日：予定していた20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>3月17日までの観測運用を1年間延長することを発表。<br />
+* 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>12月に、ミッションを20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>3月までさらに延長することを決定。<br />
+* 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>4月20日に、水星での3,000周目を迎えた。6月17日まで近水点を下げ続け、高度約120kmまで接近させる。<br />
+* 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>7月25日に、初めて高度を100kmにまで下げた。8月19日には高度50kmへ、9月12日には高度25kmまで降りる予定で、25kmまで高度を下げた後は94kmまで高度を上げる予定。その後も何度か近水点高度を上げることにより、水星表面へ落下するのを20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>3月以降まで延ばす。<br />
+*20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>5月1日　水星表面へ落下し、ミッションを終了した。3月から計7回のスラスタ噴射を実施して高度を上げることで落下を1ヶ月以上遅らせた。なお落下直前まで観測は行われた。<br />
+<br />
+== 探査機器 ==<br />
+*水星撮像システム<br />
+*ガンマ線・中性子スペクトロメータ<br />
+*X線スペクトロメータ<br />
+*磁力計<br />
+*水星レーザ高度計<br />
+*水星大気・表面組成スペクトロメータ<br />
+*エネルギー粒子・プラズマスペクトロメータ<br />
+*電波科学実験<br />
+::など<br />
+<br />
+== 画像 ==<br />
+<br />
+ファイル:Delta II H fairing installation around MESSENGER spacecraft.jpg|デルタIIロケットに搭載されたメッセンジャー<br />
+ファイル:MESSENGER Solar System Family Portrait.jpg|メッセンジャーが写した太陽系家族写真<br />
+ファイル:MESSENGER - Venus 630 nm stretch.jpg|メッセンジャーが写した金星<br />
+ファイル:Mercury Globe-MESSENGER mosaic centered at 0degN-0degE.jpg|メッセンジャーが写した水星<br />
+ファイル:The Mighty Caloris (PIA19213).png|水星のカロリス盆地<br />
+ファイル:Crater Apollodor and Pantheon Fossae.jpg|カロリス盆地の<br />
+<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* マリナー10号<br />
+* ベピ・コロンボ<br />
+* 水星<br />
+* 宇宙探査機<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://messenger.jhuapl.edu/ MESSENGER Web Site]<br />
+* [http://www.nasa.gov/mission_pages/messenger/main/ NASA - MESSENGER Mission Page]<br />
+* [http://moonstation.jp/ja/pex_world/MESSENGER/ メッセンジャー（月探査情報ステーション）]<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:水星探査機<br />
+Category:NASAの宇宙探査機<br />
+Category:ディスカバリー計画<br />
+Category:200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>の宇宙飛行<br />

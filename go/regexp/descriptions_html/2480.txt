@@ -1,0 +1,105 @@
+description<br />
+<br />
+<br />
+|開業年月日 = 1<a href="http://localhost/keyword/887%E5%B9%B4">887年</a>（明治<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）7月16日<br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面2線<br />
+|乗車人員 = 55<br />
+|乗降人員 =<br />
+|統計年度 = 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a><br />
+|所属路線 = 東北本線<br />
+|前の駅 = 黒田原<br />
+|駅間A = 5.2<br />
+|駅間B = 5.3<br />
+|次の駅 = 白坂**<br />
+|キロ程 = <a href="http://localhost/keyword/176">176</a>.7<br />
+|起点駅 = 東京<br />
+|乗換 =<br />
+|備考 = 無人駅（乗車駅証明書発行機 有）<br />
+|備考全幅 = * 19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>から1<a href="http://localhost/keyword/948%E5%B9%B4">948年</a>の間は下野<a href="http://localhost/keyword/%E8%B1%8A%E5%8E%9F%E9%A7%85">豊原駅</a>** この間に大宮支社と仙台支社の境界あり（当駅から黒田原寄りは大宮支社管内）<br />
+}}<br />
+<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E8%B1%8A%E5%8E%9F%E9%A7%85">豊原駅</a>&#39;（とよはらえき）は、栃木県那須郡那須町大字豊原甲にある、東日本旅客鉄道（JR東日本）東北本線の駅である。<br />
+<br />
+栃木県と福島県の県境が近い山中の小駅。関東地方では最北に位置する駅である。東北本線は川口駅（京浜東北線列車のみ停車）から当駅までが大宮支社の管轄である。ただし、当駅に停車する列車に使用される車両、それに乗務している乗務員は全て仙台支社所属であり、黒磯駅までにおいて大宮支社は施設管理のみとなっている。<br />
+<br />
+== 歴史 ==<br />
+1<a href="http://localhost/keyword/887%E5%B9%B4">887年</a>（明治<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）7月16日に日本鉄道の黒磯駅から郡山駅までの開通に伴い日本鉄道の中間駅、&#39;<a href="http://localhost/keyword/%E8%B1%8A%E5%8E%9F%E9%A7%85">豊原駅</a>&#39;（とよはらえき）として開業した。当時黒磯から郡山までに、当駅のほかに<a href="http://localhost/keyword/%E7%99%BD%E6%B2%B3%E9%A7%85">白河駅</a>、矢吹駅、須賀川駅が設置された。当駅は現在の位置よりも北東（白坂より）の県境に近い位置に置かれた。<br />
+<br />
+開業からおよそ<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>後の1<a href="http://localhost/keyword/906%E5%B9%B4">906年</a>（明治<a href="http://localhost/keyword/39%E5%B9%B4">39年</a>）11月には日本鉄道が国有化され、さらにその約3年後の1<a href="http://localhost/keyword/909%E5%B9%B4">909年</a>（明治<a href="http://localhost/keyword/42%E5%B9%B4">42年</a>）10月には線路名称の制定により秋葉原駅から上野駅をへて青森駅までが東北本線とされた。1<a href="http://localhost/keyword/920%E5%B9%B4">920年</a>（大正<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）11月には勾配などを避けるために、黒磯駅から<a href="http://localhost/keyword/%E7%99%BD%E6%B2%B3%E9%A7%85">白河駅</a>までのルートを変更した。その一環として黒田原駅から白坂駅までがルート変更となり、当駅は現在地に移転した。このときの駅名は開業当初は現在と同じく豊原だった。<br />
+<br />
+190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（明治40年）8月1日に樺太で同名の<a href="http://localhost/keyword/%E8%B1%8A%E5%8E%9F%E9%A7%85">豊原駅</a>（現・ユジノサハリンスク駅）が開業し、1<a href="http://localhost/keyword/920%E5%B9%B4">920年</a>に台湾の葫蘆墩駅も和風地名である豊原と改称してから同名駅が複数あるという状況が続いていたため、19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>（大正<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）4月1日に&#39;下野<a href="http://localhost/keyword/%E8%B1%8A%E5%8E%9F%E9%A7%85">豊原駅</a>&#39;（しもずけとよはらえき）に改称となった。<br />
+<br />
+1<a href="http://localhost/keyword/945%E5%B9%B4">945年</a>（昭和<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）、樺太の<a href="http://localhost/keyword/%E8%B1%8A%E5%8E%9F%E9%A7%85">豊原駅</a>へはソ連軍が侵攻し、また台湾は中華民国に接収されたため、当駅は1<a href="http://localhost/keyword/948%E5%B9%B4">948年</a>（昭和<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）8月1日にふたたびもとの&#39;<a href="http://localhost/keyword/%E8%B1%8A%E5%8E%9F%E9%A7%85">豊原駅</a>&#39;（とよはらえき）に戻された。<br />
+<br />
+その後当駅は、国鉄分割民営化により東日本旅客鉄道（JR東日本）東北本線の駅となって現在に至っている。<br />
+<br />
+=== 年表 ===<br />
+* 1<a href="http://localhost/keyword/887%E5%B9%B4">887年</a>（明治<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）7月16日 - 日本鉄道の&#39;<a href="http://localhost/keyword/%E8%B1%8A%E5%8E%9F%E9%A7%85">豊原駅</a>&#39;（とよはらえき）として開業。当初は現在とは異なる位置にあった。<br />
+* 1<a href="http://localhost/keyword/906%E5%B9%B4">906年</a>（明治<a href="http://localhost/keyword/39%E5%B9%B4">39年</a>）11月1日 - 日本鉄道が鉄道国有法により国有化。<br />
+* 1<a href="http://localhost/keyword/909%E5%B9%B4">909年</a>（明治<a href="http://localhost/keyword/42%E5%B9%B4">42年</a>）10月12日 - 線路名称制定により東北本線の所属となる。<br />
+* 1<a href="http://localhost/keyword/920%E5%B9%B4">920年</a>（大正<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）11月1日 - 黒田原駅から当駅までのルートが変更され、現在地に移転。<br />
+* 19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>（大正<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）4月1日 - &#39;下野<a href="http://localhost/keyword/%E8%B1%8A%E5%8E%9F%E9%A7%85">豊原駅</a>&#39;（しもずけとよはらえき）に改称。<br />
+* 1<a href="http://localhost/keyword/948%E5%B9%B4">948年</a>（昭和<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）8月1日 - 再び&#39;<a href="http://localhost/keyword/%E8%B1%8A%E5%8E%9F%E9%A7%85">豊原駅</a>&#39;（とよはらえき）に改称。<br />
+* 1<a href="http://localhost/keyword/959%E5%B9%B4">959年</a>（昭和<a href="http://localhost/keyword/34%E5%B9%B4">34年</a>）7月1日 - 黒磯駅から<a href="http://localhost/keyword/%E7%99%BD%E6%B2%B3%E9%A7%85">白河駅</a>までが電化される。<br />
+* 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>（昭和<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>）3月14日 - 無人化。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により東日本旅客鉄道の駅となる。<br />
+<br />
+== 駅構造 ==<br />
+ホーム、新白河方を眺める（2010/9/4））<br />
+島式ホーム1面2線を持つ地上駅である。ホームへの移動は跨線橋を利用する。駅舎は木造で妻面に出入口がある。<br />
+<br />
+黒磯駅管理の無人駅である。無人の駅舎には自動券売機は設置されておらず、乗車駅証明書発行機のみが設置されている。<br />
+<br />
+なお当駅は東京近郊区間、仙台近郊区間のどちらにもに入っておらず、Suicaおよび相互利用が可能な交通系ICカードは使用できない。また、関東地方のほぼ全域が乗り放題となっていたスーパーホリデー・パスも設定から廃止まで一貫して使用できなかった。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+<br />
+== 利用状況 ==<br />
+栃木県統計年鑑によると、200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>度の1日の平均乗車人員は55人である。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+このあたりは山の奥で林などがあり人家もまばらな場所であり、幹線在来線の駅でありながらファンの間では秘境駅と言われることもある。<br />
+<br />
+当駅の附近には北東にある成沢集落など小規模な集落が点在しており、そこまで行くと那須豊原簡易郵便局などがある。駅前から10分歩くと黒川が流れ、黒川に架かる橋梁の福島県側に大宮・仙台両支社の境界標が設けられている。また黒川橋梁周辺は国鉄時代から鉄道ファンにとって有名な撮影ポイントとなっている。<br />
+<br />
+当駅から西方向へしばらく行くと東北自動車道の那須高原サービスエリアがある。駅前にはトイレが設置されている。<br />
+<br />
+当駅は東日本大震災直後まで那須高原海城中学校・高等学校への最寄り駅となっていたが、校舎が被災したため東京都新宿区大久保の海城学園本部、海城中学・高校本校に暫定移転したのち、20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）度以降は東京都多摩市へ再度移転の上募集停止となり、最寄り駅の意味を失った。なお、実際は当駅より2つ先の東北新幹線新<a href="http://localhost/keyword/%E7%99%BD%E6%B2%B3%E9%A7%85">白河駅</a>からタクシーを使ったほうが早かった。<br />
+<br />
+* 黒川<br />
+* 矢の目ダム<br />
+* 栃木県道105号豊原停車場線<br />
+* 栃木県道186号寄居豊原停車場線<br />
+* 栃木県道211号豊原高久線<br />
+* <a href="http://localhost/keyword/%E5%9B%BD%E9%81%93294%E5%8F%B7">国道294号</a>（旧陸羽街道）<br />
+* 国道4号（陸羽街道）　県道105号経由で、約3.5km<br />
+* 那須高原海城中学校・高等学校 - 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>4月に東京都多摩市へ移転の上、募集停止となり存在しない。<br />
+* 森林ノ牧場<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 東北本線<br />
+:: 黒田原駅 - &#39;<a href="http://localhost/keyword/%E8%B1%8A%E5%8E%9F%E9%A7%85">豊原駅</a>&#39; - 白坂駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+* 日本の都道府県の東西南北端の駅の一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=1071 JR東日本 <a href="http://localhost/keyword/%E8%B1%8A%E5%8E%9F%E9%A7%85">豊原駅</a>]<br />
+<br />
+<br />
+<br />
+Category:栃木県の鉄道駅<br />
+よはら<br />
+Category:日本鉄道<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:東北本線<br />
+Category:那須町<br />
+Category:1<a href="http://localhost/keyword/887%E5%B9%B4">887年</a>開業の鉄道駅<br />

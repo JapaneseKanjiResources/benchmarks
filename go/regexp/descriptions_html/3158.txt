@@ -1,0 +1,84 @@
+description<br />
+<br />
+<br />
+|所属事業者 = 23px北海道旅客鉄道（JR北海道）<br />
+|所属路線 = ■千歳線<br />
+|キロ程 = 6.4<br />
+|起点駅 = 沼ノ端<br />
+|所在地 = 北海道苫小牧市字植苗<br />
+|緯度度=42|緯度分=42|緯度秒=48.62<br />
+|経度度=141|経度分=44|経度秒=6.07 <br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>（大正<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）8月21日<br />
+|廃止年月日 =<br />
+|乗車人員 =29<br />
+|統計年度 =20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>度<br />
+|乗換 =<br />
+|備考 = 無人駅<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E6%A4%8D%E8%8B%97%E9%A7%85">植苗駅</a>&#39;（うえなええき）は、北海道苫小牧市字植苗にある、北海道旅客鉄道（JR北海道）千歳線の駅。駅番号は&#39;H16&#39;。電報略号は&#39;ウナ&#39;。<br />
+<br />
+Kitacaの利用が可能であるが、カードの販売は行わない。<br />
+<br />
+隣の美々駅同様、普通列車の一部は通過する。<br />
+<br />
+== 歴史 ==<br />
+1976 年の<a href="http://localhost/keyword/%E6%A4%8D%E8%8B%97%E9%A7%85">植苗駅</a>と周囲約1km範囲。下が苫小牧方面。単式と島式の複合ホーム2面3線だが、駅舎前にはホームが無い。元々[http://mapps.gsi.go.jp/contentsImageDisplay.do?specificationId=366900&amp;isDetail=true 島式ホーム1面だった]（国土地理院 地図・空中写真閲覧サービス、1<a href="http://localhost/keyword/961%E5%B9%B4">961年</a>撮影航空写真）のが、複線化の 折に単式ホームを駅裏側に増設したため、少し変則的な形をしている。駅舎横の札幌側には貨物ホームと引込み線が残され、保線車らしき姿が見える。跨線橋はまだ無い。<br />
+* 1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>（大正<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）8月21日 - 北海道鉄道（2代）札幌線の駅として開業。貨物駅。<br />
+* 1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a>（昭和<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）8月1日 - 戦時買収により北海道鉄道が国有化。鉄道省（国鉄）千歳線の駅となる。一般駅。<br />
+* 1<a href="http://localhost/keyword/945%E5%B9%B4">945年</a>（昭和<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）12月25日 - 貨物・荷物の取扱い開始。<br />
+* 19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>（昭和<a href="http://localhost/keyword/35%E5%B9%B4">35年</a>）8月1日 - 貨物取扱い廃止。<br />
+* 1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>（昭和<a href="http://localhost/keyword/43%E5%B9%B4">43年</a>）8月23日 - 美々方面複線化供用開始北海道鉄道百年史 下巻 日本国有鉄道北海道総局 1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a>発行、P63。。<br />
+* 19<a href="http://localhost/keyword/69%E5%B9%B4">69年</a>（昭和<a href="http://localhost/keyword/44%E5%B9%B4">44年</a>）9月25日 - 沼ノ端方面複線化供用開始。<br />
+* 19<a href="http://localhost/keyword/80%E5%B9%B4">80年</a>（昭和<a href="http://localhost/keyword/55%E5%B9%B4">55年</a>）5月15日 - 荷物取扱い廃止。<br />
+* 1<a href="http://localhost/keyword/979%E5%B9%B4">979年</a>6月以降、1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a>10月以前 - 駅舎改築。跨線橋設置[http://mapps.gsi.go.jp/contentsImageDisplay.do?specificationId=151640&amp;isDetail=true 1<a href="http://localhost/keyword/979%E5%B9%B4">979年</a>撮影航空写真]および[http://mapps.gsi.go.jp/contentsImageDisplay.do?specificationId=171305&amp;isDetail=true 1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a>撮影航空写真]（いずれも国土地理院 地図・空中写真閲覧サービス）を比較のこと。。<br />
+* 1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>（昭和<a href="http://localhost/keyword/59%E5%B9%B4">59年</a>）3月31日 - 無人化苫小牧市史 追補編 2001年3月発行。無人化当初より簡易委託などの窓口業務は行われていない。。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、JR北海道に継承。<br />
+* 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>（平成<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）10月25日 - ICカードKitaca使用開始。<br />
+<br />
+== 駅構造 ==<br />
+複線前は島式ホーム1面2線であった。複線時に駅裏側に上りホームとして単式ホームが増設され、単式・島式複合ホーム2面3線となったが、その後、島式ホームの駅裏側副本線が廃止されて駅表側のみ使用の単式下りホームとなり、単式ホーム2面2線となった。無人駅であり、自動券売機の設置がないことから、切符は車内で買い求める必要がある。簡易Kitaca改札機設置。<br />
+<br />
+<br />
+便所は駅舎内にある。<br />
+<br />
+<br />
+<br />
+== 駅名の由来 ==<br />
+アイヌ語の「ウェン・ナイ」（悪い川）より。<br />
+<br />
+同様の地名は北海道内各地にあるが、何が「悪い」のかは大抵の場合わからない。<br />
+悪い理由があるとすれば「水質が飲用に適さない」「魚が獲れない」「川底が岩だらけで歩きにくい」などの理由が推測されるが、この植苗周辺の川がどの理由にあたるのかは不明。<br />
+<br />
+== 駅周辺 ==<br />
+植苗の集落。<br />
+* 国道36号<br />
+* ウトナイ湖<br />
+* 植苗病院<br />
+<br />
+== 隣の駅 ==<br />
+; 北海道旅客鉄道<br />
+: ■千歳線<br />
+:: 沼ノ端駅 (H17) - &#39;<a href="http://localhost/keyword/%E6%A4%8D%E8%8B%97%E9%A7%85">植苗駅</a> (H16)&#39; - 美々駅 (H15)<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+* 宇遠内駅 - 旧天北線の廃駅。語源が同じく「ウェン・ナイ」である。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+えなえ<br />
+Category:北海道鉄道（2代）<br />
+Category:北海道旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:千歳線<br />
+Category:苫小牧市の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>開業の鉄道駅<br />

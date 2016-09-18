@@ -1,0 +1,64 @@
+description<br />
+ <br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日= 1<a href="http://localhost/keyword/940%E5%B9%B4">940年</a>（昭和<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）4月1日<br />
+|廃止年月日=<br />
+|乗車人員= 33<br />
+|乗降人員= <br />
+|統計年度= 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|備考 = *1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>まで国鉄二俣線。<br />
+|備考全幅 =<br />
+}}<br />
+ホーム（後方は建設中の[[新東名高速道路）]]<br />
+&#39;<a href="http://localhost/keyword/%E6%95%B7%E5%9C%B0%E9%A7%85">敷地駅</a>&#39;（しきじえき）は、静岡県磐田市敷地にある天竜浜名湖鉄道天竜浜名湖線の駅である。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を有する地上駅。駅舎はあるが、無人駅である。<br />
+<br />
+駅舎内に豊岡敷地簡易郵便局が併設されている[http://seiunkoho.hamazo.tv/e3617211.html 豊岡東地区に簡易郵便局がオープンいたしました！] - 豊岡東地区自治会情報（はまぞう、20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>5月16日付、20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>3月15日閲覧）。<br />
+<br />
+== 利用状況 ==<br />
+近年の乗車人員は以下の通りである。<br />
+<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/940%E5%B9%B4">940年</a>（昭和<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）4月1日 : 遠江森駅 - 金指駅間の開通時に、鉄道省二俣線の駅として開業する（一般駅）。<br />
+* 1<a href="http://localhost/keyword/961%E5%B9%B4">961年</a>（昭和<a href="http://localhost/keyword/36%E5%B9%B4">36年</a>）5月17日 : 遠州鉄道の気動車が西鹿島駅から当駅経由で遠江森駅まで乗り入れる。<br />
+* 1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>（昭和<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）8月21日 : 貨物の取扱を廃止し、旅客駅となる。<br />
+* 1<a href="http://localhost/keyword/966%E5%B9%B4">966年</a>（昭和<a href="http://localhost/keyword/41%E5%B9%B4">41年</a>）10月1日 : 遠州鉄道からの気動車乗り入れを廃止する。<br />
+* 1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>（昭和<a href="http://localhost/keyword/45%E5%B9%B4">45年</a>）6月1日 : 手荷物・小荷物の取扱を廃止するとともに、駅員無配置駅となる。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）3月15日 : 二俣線が第三セクター鉄道に転換し、天竜浜名湖鉄道の駅となる。<br />
+<br />
+ファイル: Shikiji_sta.jpg|簡易郵便局開局前の駅舎（200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>12月）<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 新平山工業団地<br />
+** ヤマハ発動機豊岡工場<br />
+<br />
+== 隣の駅 ==<br />
+; 天竜浜名湖鉄道<br />
+: 天竜浜名湖線<br />
+:: 遠江一宮駅 - &#39;<a href="http://localhost/keyword/%E6%95%B7%E5%9C%B0%E9%A7%85">敷地駅</a>&#39; - 豊岡駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.tenhama.co.jp/station/shikiji.html 敷地]（路線と駅） - 天竜浜名湖鉄道<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:静岡県の鉄道駅<br />
+きし<br />
+Category:天竜浜名湖鉄道の鉄道駅<br />
+Category:日本国有鉄道の廃駅<br />
+Category:1<a href="http://localhost/keyword/940%E5%B9%B4">940年</a>開業の鉄道駅<br />
+しきしえき<br />

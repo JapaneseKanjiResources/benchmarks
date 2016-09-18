@@ -1,0 +1,85 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E5%8B%95%E5%90%8D%E8%A9%9E">動名詞</a>&#39;（どうめいし）は、言語学における準動詞の一種で、印欧語で動詞が名詞としての機能を持って使われるようになること。そのため、文中で、主語や<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>になることができる。動詞としての機能もそのまま持っていて、<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>、補語、副詞句を伴うことができ、名詞句を形成する。<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>に<a href="http://localhost/keyword/%E5%8B%95%E5%90%8D%E8%A9%9E">動名詞</a>のみをとる動詞、不定詞のみをとる動詞がある。<br />
+<br />
+==英語==<br />
+英語では動詞の原形に &#39;-ing&#39; を付けて<a href="http://localhost/keyword/%E5%8B%95%E5%90%8D%E8%A9%9E">動名詞</a>を作る。現在分詞と同形であるが、起源を異にする。<br />
+<br />
+動詞の<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>、あるいは慣用表現などにしばしば用いられるが、その文法的性質は一般的にそれに伴う動詞の性質、ないしは前置詞の意味に基づく。他動詞の目的格において明確に<a href="http://localhost/keyword/%E5%8B%95%E5%90%8D%E8%A9%9E">動名詞</a>と不定詞が区別されるものがあるのは、<a href="http://localhost/keyword/%E5%8B%95%E5%90%8D%E8%A9%9E">動名詞</a>は主に過去、不定詞は未来の事象を示すことによる。<br />
+<br />
+===例文===<br />
+* &#39;&#39;Trying&#39;&#39; F1 is so fun.（F1 に挑戦するのはとても楽しい）<br />
+<br />
+===<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>に<a href="http://localhost/keyword/%E5%8B%95%E5%90%8D%E8%A9%9E">動名詞</a>のみをとる動詞===<br />
+不定詞もとるが名詞的用法以外の用法として使われる場合も含む。<br />
+*give（・・・を与える、～に・・・を与える）<br />
+*stop<br />
+*enjoy<br />
+*practice<br />
+*escape<br />
+*admit<br />
+*avoid<br />
+*mind<br />
+*discuss<br />
+*finish<br />
+*delay<br />
+<br />
+===<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>に不定詞のみをとる動詞===<br />
+これらは一般的に目的格内の動作が未来に行われることから、未来を表す不定詞を伴う。<br />
+*decide<br />
+*want<br />
+*hope<br />
+*plan<br />
+*afford<br />
+*agree<br />
+<br />
+===<a href="http://localhost/keyword/%E5%8B%95%E5%90%8D%E8%A9%9E">動名詞</a>と不定詞で意味が変わる動詞===<br />
+これら 2 つの例は、<a href="http://localhost/keyword/%E5%8B%95%E5%90%8D%E8%A9%9E">動名詞</a>は主に過去、不定詞は未来の事象を示すことから意味の相違が生まれる。<br />
+*forget<br />
+*remember<br />
+<br />
+===慣用句など===<br />
+*I&#39;m &#39;&#39;looking forward to&#39;&#39; &#39;meeting&#39; you next Sunday at the museum.<br />
+（その博物館で次の日曜日お会いできることを楽しみにしています）<br />
+<br />
+※動詞句 look forward to は、前置詞 to の文法的性質から、不定詞でなく名詞句もしくは<a href="http://localhost/keyword/%E5%8B%95%E5%90%8D%E8%A9%9E">動名詞</a>を<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>にとる。<br />
+<br />
+*on + <a href="http://localhost/keyword/%E5%8B%95%E5%90%8D%E8%A9%9E">動名詞</a>「～するやいなや」<br />
+:&#39;On arriving&#39; at the station, I was looking for him.（<a href="http://localhost/keyword/%E5%8B%95%E5%90%8D%E8%A9%9E">動名詞</a>句、副詞句、単文）<br />
+:= &#39;On arrival&#39; ..., ....（名詞構文、前置詞句、副詞句、単文）<br />
+:= &#39;As soon as&#39; [&#39;The moment&#39;, &#39;The instant&#39;] I arrived ..., ....（副詞節、複文）<br />
+:= &#39;No sooner&#39; had I arrived ... &#39;than&#39; I was looking for him.（副詞節、複文）<br />
+:= &#39;Hardly&#39; [&#39;Scarcely&#39;] had I arrived ... &#39;when&#39; [&#39;before&#39;] I was looking for him.（副詞節、複文）<br />
+「駅に着くやいなや彼を探した。」<br />
+<br />
+*in + <a href="http://localhost/keyword/%E5%8B%95%E5%90%8D%E8%A9%9E">動名詞</a>「～するとき」(= when)<br />
+これら in と on における意味の相違はそれぞれの前置詞の文法的意味の相違による。<br />
+<br />
+*with a view to + <a href="http://localhost/keyword/%E5%8B%95%E5%90%8D%E8%A9%9E">動名詞</a>「～するために」(= for the purpose of + <a href="http://localhost/keyword/%E5%8B%95%E5%90%8D%E8%A9%9E">動名詞</a>, in order [so as] to 不定詞, in order [so] that 節)<br />
+::I must study hard &#39;with a view to&#39; [&#39;for the purpose of&#39;] &#39;getting&#39; a high score. （高得点を取るためには、一生懸命勉強しなければならない；目的）<br />
+::=I must study hard &#39;in order&#39; [&#39;so&#39;] &#39;that&#39; I &#39;may get&#39; a high score.<br />
+::=I must study hard &#39;in order&#39; [&#39;so as&#39;] &#39;to get&#39; a high score.<br />
+<br />
+*for fear of + <a href="http://localhost/keyword/%E5%8B%95%E5%90%8D%E8%A9%9E">動名詞</a>「～しないように」(= for fear (that) [lest] 節)<br />
+*make a point of + <a href="http://localhost/keyword/%E5%8B%95%E5%90%8D%E8%A9%9E">動名詞</a>「～することにしている」(= make it a rule to 不定詞)<br />
+*it goes without saying that ... (= not to mention ..., it is needless to say that ...)「〜は言うまでもなく」<br />
+<br />
+== 英語以外の言語における<a href="http://localhost/keyword/%E5%8B%95%E5%90%8D%E8%A9%9E">動名詞</a> ==<br />
+英語では<a href="http://localhost/keyword/%E5%8B%95%E5%90%8D%E8%A9%9E">動名詞</a>をジェランド（gerund）と呼ぶ。これはラテン語の&#39;ゲルンディウム&#39;（gerundium）に由来する文法用語である。ゲルンディウムは英語と同じく<a href="http://localhost/keyword/%E5%8B%95%E5%90%8D%E8%A9%9E">動名詞</a>と訳されるが、用法は異なる。ラテン語の不定法は主格・対格としてのみ使われるため、斜格または前置詞の<a href="http://localhost/keyword/%E7%9B%AE%E7%9A%84%E8%AA%9E">目的語</a>としてはかわりにゲルンディウムが使われる。<br />
+<br />
+ラテン語にはゲルンディウムとは別に動形容詞（gerundivum ゲルンディーウム、）という形があり、こちらは動詞から派生した形容詞であって、しばしば「……されるべき」という意味を表すため、受動未来分詞と呼ばれることもある。形態の上ではゲルンディウムとゲルンディーウムは同形である（ただしゲルンディウムには単数形しかなく、主格もない）。ちなみに gerundium という語は、それ自身 gero（運ぶ、実行する）のゲルンディーウムである gerundus に由来する。<br />
+<br />
+ロマンス諸語にはラテン語のゲルンディーウムに由来する名称を持つ準動詞がある（フランス語のジェロンディフ（gérondif）、イタリア語のジェルンディオ（gerundio）、スペイン語のヘルンディオ（gerundio）など）が、これらは分詞構文などで副詞としてのみ用いられ、名詞として用いることはできない。<br />
+<br />
+なお、ドイツ語には英語の<a href="http://localhost/keyword/%E5%8B%95%E5%90%8D%E8%A9%9E">動名詞</a>に相当する準動詞は存在せず、動詞を名詞的に用いる場合は原形不定詞やzu不定詞句などを使う。<br />
+<br />
+== 関連記事 ==<br />
+*不定詞<br />
+*分詞<br />
+*品詞<br />
+*文法<br />
+<br />
+<br />
+<br />
+<br />
+Category:品詞<br />
+Category:準動詞の種類<br />

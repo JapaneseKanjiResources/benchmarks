@@ -1,0 +1,188 @@
+description<br />
+<br />
+<br />
+<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E4%B9%85%E6%85%88%E9%A7%85">久慈駅</a>&#39;（くじえき）は、岩手県久慈市中央三丁目にある、東日本旅客鉄道（JR東日本）・三陸鉄道の駅である。<br />
+<br />
+JR東日本の八戸線と、三陸鉄道の北リアス線が乗り入れている。両線とも当駅が終着駅である。そのため、当駅を発車する列車は上り列車しか存在しない。なお、両社は独立した駅舎を持っているが、両線を直通する列車はJRの駅に発着する。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>（昭和<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）3月27日 - 鉄道省八戸線の駅として開業。<br />
+* 1<a href="http://localhost/keyword/975%E5%B9%B4">975年</a>（昭和<a href="http://localhost/keyword/50%E5%B9%B4">50年</a>）7月20日 - 日本国有鉄道久慈線開業。<br />
+* 1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>（昭和<a href="http://localhost/keyword/59%E5%B9%B4">59年</a>）4月1日 - 久慈線が三陸鉄道北リアス線に転換。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）<br />
+** 4月1日 - 国鉄分割民営化により八戸線が東日本旅客鉄道に承継。<br />
+** 12月 - みどりの窓口設置。<br />
+* 1<a href="http://localhost/keyword/991%E5%B9%B4">991年</a>（平成3年） - オ<a href="http://localhost/keyword/%E3%83%AC%E3%83%B3%E3%82%B8">レンジ</a>カード専用券売機設置（現在は撤去）。<br />
+* 200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>（平成<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）<br />
+** 東北の駅百選に選定される。<br />
+** 4月1日 - 三陸鉄道の<a href="http://localhost/keyword/%E4%B9%85%E6%85%88%E9%A7%85">久慈駅</a>長廃止。三鉄ツーリスト久慈営業所を設置し、当駅の出札業務を兼務。<br />
+* 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>（平成<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）12月10日 - <a href="http://localhost/keyword/%E7%A8%AE%E5%B8%82%E9%A7%85">種市駅</a>・陸中八木駅管内が当駅の管理下となる。<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）4月1日 - 三鉄ツーリスト久慈営業所が廃止。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）<br />
+** 3月11日 - 東北地方太平洋沖地震とこれにより発生した大津波により八戸線・北リアス線ともに不通となる。<br />
+** 3月16日 - 【営業再開】北リアス線のうち陸中野田駅 - 当駅間で復興支援列車の運転が開始。同年3月31日まで運賃無料。<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）<br />
+** 3月17日 - 八戸線の運転再開。<br />
+** 4月1日 - 北リアス線の運転再開区間が延伸し、田野畑駅 - 当駅間の直通運転を再開。<br />
+* 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）6月17日 - JR駅舎を琥珀をイメージした駅舎に改装 - 東日本旅客鉄道盛岡支社プレスリリース（20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>4月19日）。<br />
+<br />
+== 駅構造 ==<br />
+=== JR東日本 ===<br />
+<br />
+|開業年月日= 1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>（昭和<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）3月27日<br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面2線<br />
+|廃止年月日=<br />
+|乗車人員 = 269<br />
+|統計年度 = 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a><br />
+|乗入路線数= 2<br />
+|所属路線 = 八戸線<br />
+|前の駅 = 陸中夏井<br />
+|駅間A = 3.2<br />
+|駅間B =<br />
+|次の駅 =<br />
+|キロ程 = 64.9<br />
+|起点駅 = 八戸<br />
+|備考 = 直営駅（管理駅）みどりの窓口 有<br />
+}}<br />
+<br />
+島式ホーム1面2線を有する地上駅。駅舎とホームは構内踏切で連絡している。JR着発線からは三陸鉄道へ直通できる。<br />
+<br />
+直営駅（駅長・助役配置）。管理駅でもあり、八戸線の岩手県側にあたる角の浜駅 - 陸中夏井駅間の各駅を管理している。<br />
+<br />
+駅舎にはみどりの窓口（営業時間：5時00分 - 18時30分）、タッチパネル式自動券売機1台（オ<a href="http://localhost/keyword/%E3%83%AC%E3%83%B3%E3%82%B8">レンジ</a>カード対応）・立ち食いそば屋（NRE・営業時間：7時30分 - 17時00分）がある。なお、かつてはキヨスクがあったが現在はなく、旧キヨスク部分を立ち食いそば屋の売店としている。ホーム中央に三陸鉄道ホームへの連絡橋があるが、JRと三陸鉄道の乗継時間が短いときに限り利用できる。<br />
+<br />
+20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）には、三陸海岸の復興支援を目的として駅舎のリニューアルが行われた。久慈の特産である琥珀をイメージした黄褐色と黒色の外観になった。多目的トイレや車椅子用のスロープが新設された。待合室はコンコースと分離されて冷暖房が完備され、特産品の展示スペースを設けた。<br />
+<br />
+夜間滞泊が3本設定されている。<br />
+<br />
+<br />
+File:Kuji-eki01.JPG|JR駅舎（200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>2月）<br />
+<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+<br />
+<br />
+=== 三陸鉄道 ===<br />
+<br />
+|開業年月日= 1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>（昭和<a href="http://localhost/keyword/59%E5%B9%B4">59年</a>）4月1日<br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|廃止年月日=<br />
+|乗車人員 = 392<br />
+|統計年度 = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|所属路線 = 北リアス線<br />
+|前の駅 = 陸中宇部<br />
+|駅間A = 7.7<br />
+|駅間B =<br />
+|次の駅 =<br />
+|キロ程 = 71.0<br />
+|起点駅 = 宮古<br />
+|備考 =<br />
+}}<br />
+<br />
+単式ホーム1面1線を有する地上駅。<br />
+<br />
+社員配置駅（早朝夜間駅員不在、出札業務のみ）。基本的に車内で集札・精算を行う。<br />
+<br />
+駅舎には出札窓口、自動券売機、売店、清雅荘弁当部のそば店、久慈市観光案内所がある。久慈市観光案内所でレンタサイクルを扱っている。利用は9時から18時まで。料金はデポジット制となっている（保証料を除き利用料金に充当）。<br />
+<br />
+駅構内に北リアス線を統括する北リアス線運行本部（旧・久慈鉄道事務所）があり、車庫のほか輸送指令所などがある。<br />
+<br />
+<br />
+SanrikuRailway KujiSta 100328.jpg|三陸鉄道駅舎（20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>3月）<br />
+File:KujiStation.JPG|三陸鉄道のホーム（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>12月）<br />
+File:KujiStationYard.jpg|三陸鉄道の車庫（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>12月）<br />
+File:三鉄<a href="http://localhost/keyword/%E4%B9%85%E6%85%88%E9%A7%85">久慈駅</a> 2.jpg|三陸鉄道<a href="http://localhost/keyword/%E4%B9%85%E6%85%88%E9%A7%85">久慈駅</a>改札（20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>5月）<br />
+<br />
+<br />
+<br />
+== 駅弁 ==<br />
+* 三陸鉄道<a href="http://localhost/keyword/%E4%B9%85%E6%85%88%E9%A7%85">久慈駅</a>清雅荘弁当部<br />
+** うに弁当<br />
+<br />
+== 利用状況 ==<br />
+* 三陸鉄道 - 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>度の一日平均乗車人員は392人である[http://www.city.kuji.iwate.jp/data/open/cnt/3/1375/1/10_unyutuusin.pdf 久慈市統計書（平成<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>.4発行）（第10章　運輸・通信）] - 久慈市。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+駅舎近くには東西を結ぶ地下道が置かれている。なお、駅舎は西側にある。<br />
+20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）NHK連続テレビ小説『あまちゃん』では、<a href="http://localhost/keyword/%E4%B9%85%E6%85%88%E9%A7%85">久慈駅</a>前デパートが撮影に使われた。<br />
+<br />
+=== 西口 ===<br />
+* 道の駅くじ（やませ土風館）<br />
+* もぐらんぴあ まちなか水族館<br />
+* あまちゃんハウス<br />
+* 久慈警察署<a href="http://localhost/keyword/%E4%B9%85%E6%85%88%E9%A7%85">久慈駅</a>前交番<br />
+* 久慈郵便局<br />
+* 岩手日報久慈支局<br />
+* みちのく銀行久慈支店<br />
+* 岩手銀行久慈支店<br />
+* 東北銀行久慈支店<br />
+* 北日本銀行久慈支店<br />
+* 盛岡信用金庫久慈支店<br />
+<br />
+<br />
+File:<a href="http://localhost/keyword/%E4%B9%85%E6%85%88%E9%A7%85">久慈駅</a>前デパート 1.jpg|三陸鉄道<a href="http://localhost/keyword/%E4%B9%85%E6%85%88%E9%A7%85">久慈駅</a>前デパート（20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>5月）<br />
+<br />
+<br />
+=== 東口 ===<br />
+* 岩手銀行久慈中央支店<br />
+* 岩手県北バス久慈営業所<br />
+* 岩手県立久慈高等学校長内校<br />
+* 久慈警察署<br />
+* 久慈市文化会館（アンバーホール）<br />
+* 久慈市役所<br />
+* ユニバース久慈・川崎町店<br />
+* T<a href="http://localhost/keyword/SUT">SUT</a>AYA久慈店<br />
+* ニッポンレンタカー<a href="http://localhost/keyword/%E4%B9%85%E6%85%88%E9%A7%85">久慈駅</a>東口営業所<br />
+<br />
+== バス路線 ==<br />
+* JRバス東北 - 盛岡（白樺号）・二戸（スワロー号）方面<br />
+* 市民バス「のるねっとKUJI」 - 久慈市内・大野・野田方面<br />
+* 岩手県北バス - 盛岡（久慈こはく号）・東京（岩手きずな号）方面<br />
+<br />
+== その他 ==<br />
+* 「八戸線の終着駅であり、陸中海岸国立公園の北の玄関口」として、東北の駅百選に選定された。<br />
+* 三陸鉄道の<a href="http://localhost/keyword/%E4%B9%85%E6%85%88%E9%A7%85">久慈駅</a>舎・ホームは、20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）の4月から9月まで放映されたNHK朝の連続テレビ小説「あまちゃん」で、北三陸鉄道・北<a href="http://localhost/keyword/%E4%B8%89%E9%99%B8%E9%A7%85">三陸駅</a>として撮影された。<br />
+* 三陸鉄道の駅の愛称は「&#39;琥珀いろ&#39;」。久慈市が琥珀の産地であることに由来する。<br />
+<br />
+== 隣の駅 ==<br />
+<br />
+; 東日本旅客鉄道<br />
+: 八戸線<br />
+:: 陸中夏井駅 - &#39;<a href="http://localhost/keyword/%E4%B9%85%E6%85%88%E9%A7%85">久慈駅</a>&#39;<br />
+; 三陸鉄道<br />
+: 北リアス線<br />
+:: 快速（当駅終着）<br />
+::: 陸中野田駅 → &#39;<a href="http://localhost/keyword/%E4%B9%85%E6%85%88%E9%A7%85">久慈駅</a>&#39;<br />
+:: 普通<br />
+::: 陸中宇部駅 - &#39;<a href="http://localhost/keyword/%E4%B9%85%E6%85%88%E9%A7%85">久慈駅</a>&#39;<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* <br />
+* [http://www.sanrikutetsudou.com/?p=563 三陸鉄道 <a href="http://localhost/keyword/%E4%B9%85%E6%85%88%E9%A7%85">久慈駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:岩手県の鉄道駅<br />
+し<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:三陸鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>開業の鉄道駅<br />
+くしえき<br />

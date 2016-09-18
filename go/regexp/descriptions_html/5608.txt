@@ -1,0 +1,35 @@
+description<br />
+<br />
+&#39;<a href="http://localhost/keyword/CTM">CTM</a>&#39;とは、ゆうちょ銀行のシステムの一つであり、日本郵政グループの貯金と保険の業務（郵政民営化前における郵便局の、郵便貯金・簡易保険業務を含む）で使用される係員操作の端末機のことである。<br />
+<br />
+== 概要 ==<br />
+利用客が自分で操作する「ATM」に対し「<a href="http://localhost/keyword/CTM">CTM</a>」と呼ぶ。ATMが「オートメイテド・<a href="http://localhost/keyword/%E3%83%86%E3%83%A9%E3%83%BC">テラー</a>・マシン」の略であるのに対し、<a href="http://localhost/keyword/CTM">CTM</a>は「カウンター・ターミナル・マシン」の略である。他の機器と接続して使用する。センターと接続してオンラインの状態で使用するが、「オフモード」に切り替えることは不可能である。貯金専用のタイプと、保険業務にも使用する「共用機」がある。<br />
+<br />
+現在ゆうちょ銀行、日本郵便が運営する郵便局の貯金窓口、日本郵便が委託した個人ないしは法人等が受託する簡易郵便局の貯金窓口で配備されているのはVI型と呼ばれるタイプである（共用の場合「共用VI型」と呼称する）。ゆうちょ銀行窓口用、日本郵便が貯金窓口で用いる用のものと貯金事務センター用のものがある。I/II型はオフコンを利用したもので、IIIはPC/液晶の組み合わせ（OSは非MS製）、V以降はWindowsを使用したものとなっている。かつて簡易郵便局に設置されていた機器はWM「ウィンドウマシン」と呼ばれていた。<br />
+<br />
+また、簡易保険特定端末としてPOT（Post Office Terminal）と呼ばれている。POTもVI以降、マルチベンダのWindows端末となっている。局により、POTと<a href="http://localhost/keyword/CTM">CTM</a>を独立させて運用しているケースと<a href="http://localhost/keyword/CTM">CTM</a>で保険・貯金の両方を扱っているケースがあるが、上述したように郵便局会社の店舗ごとの日報管理は、一部の郵便しか扱っていない簡易郵便局をのぞき、貯金業務と併せて<a href="http://localhost/keyword/CTM">CTM</a>で行われている。<br />
+<br />
+郵政グループ内では「窓口共用端末」と呼ばれる事も多い（共用とは、貯金と保険との共用の意味）。ただ、民営化を急いだとの理由により、郵便局会社（現・日本郵便）での日報管理に用いられるシステムが<a href="http://localhost/keyword/CTM">CTM</a>から切り離されなかったため、民営化後の現在に至るまで、ゆうちょ銀行から間借りする形で各郵便局の日締・日報管理システムとしても用いられている（したがって、ゆうちょ銀行併設局であっても、ゆうちょ銀行直営店の<a href="http://localhost/keyword/CTM">CTM</a>とは別に郵便局会社の<a href="http://localhost/keyword/CTM">CTM</a>が別に設置されている形になっている）。将来的には、日本郵便が独自のシステムを導入することによって、日締・日報管理システムを切り離す検討がなされている。<br />
+<br />
+今後、「営業店システム」として「窓口端末機（6型）」が調達され[http://procurement.japanpost.jp/general/2010/20100712001626.html 落札者等の公示（平成<a href="http://localhost/keyword/22%E5%B9%B4">22年</a>7月12日官報掲載分]、20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>7月1日閲覧20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>4月より、直営店および各郵便局の貯金窓口の<a href="http://localhost/keyword/CTM">CTM</a>を順次更新（通称・<a href="http://localhost/keyword/CTM">CTM</a> VI）した。<br />
+<br />
+== 端末メーカー（旧機器のみ） ==<br />
+<br />
+<br />
+<br />
+<br />
+== プロトコル ==<br />
+*<a href="http://localhost/keyword/CTM">CTM</a> IIIでは、上位との接続にTCP/IPではなく、OSI/TPプロトコル（通信手順）が使われていた。<br />
+*<a href="http://localhost/keyword/CTM">CTM</a> Vでは、上位との接続に配備時にはOSIプロトコルが使用されていたが、順次TCP/IPに切り替え中である。<br />
+<br />
+== 注釈 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+*郵便貯金システム<br />
+*PNET<br />
+<br />
+<br />
+<br />
+Category:日本郵政グループ<br />
+Category:郵便貯金<br />

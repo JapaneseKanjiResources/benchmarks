@@ -1,0 +1,19 @@
+description<br />
+<br />
+<br />
+&#39;<a href="http://localhost/keyword/False">False</a>&#39;（フォールス）は19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>にWouter van Oortmerssenによって考案された難解プログラミング言語。実用言語ではない。<br />
+名称の由来はOortmerssenのお気に入りのブール値から。<a href="http://localhost/keyword/False">False</a>はForthに似たスタックベースの言語で、その構文はややこしくて読めないようにデザインされている。特筆すべき点は、コンパイラがわずか1024バイト(MC68000用アセンブラで書かれている)しかないことである。van Oortmerssenによると、<a href="http://localhost/keyword/False">False</a>はBrainf***やBefungeに代表される多くの難解プログラミング言語に影響を与えているという。<br />
+<br />
+<a href="http://localhost/keyword/False">False</a>は難解言語の中では比較的扱いやすいほうである。基本的な操作はそれなりに常識的で、無意味な複雑さはない。その点、巨大なINTERCALやMalbolgeとはまったく対照的である。<a href="http://localhost/keyword/False">False</a>プログラミングの難解さは主に言語の低レベルな性質のせいで、Forthのようなアセンブリ言語で感じるそれである。他の厄介な点は記号ばかりの構文の簡潔さで、普通の単語ベースの構文より難しいかのように見えてしまう。<br />
+<br />
+== コード例 ==<br />
+階乗を求める関数:<br />
+    [$1=$[\\%1\\]?~[$1-f;!*]?]f:<br />
+<br />
+0から100のあいだの素数の列挙:<br />
+    99 9[1-$][\\$@$@$@$@\\/*=[1-$$[%\\1-$@]?0=[\\$.&#39; ,\\]?]?]#<br />
+<br />
+== 外部リンク ==<br />
+*[http://wouter.fov120.com/false/ Wouterによる<a href="http://localhost/keyword/False">False</a>のページ]<br />
+<br />
+FALSE<br />

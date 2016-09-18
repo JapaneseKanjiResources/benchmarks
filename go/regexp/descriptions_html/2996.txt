@@ -1,0 +1,175 @@
+description<br />
+<br />
+&#39;FCX&#39;（エフシーエックス）は、本田技研工業がかつて生産、リース販売していた燃料電池自動車である。<br />
+<br />
+固体高分子形燃料電池とウルトラキャパシタを電源とするハイブリッド車で、200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>よりアメリカ合衆国、日本で約20台がリース販売された。<br />
+<br />
+== FCX ==<br />
+<br />
+| 製造期間=200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a> - 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a><br />
+| 乗車定員=4人<br />
+| ボディタイプ=3ドア ハッチバック<br />
+| モーター=交流同期電動機<br />
+| 最高出力=60kW<br />
+| 最大トルク=272N・m<br />
+| 変速機=1速固定減速比<br />
+| 最高回転数=11,000rpm<br />
+| 最高速度=150km/h<br />
+| 駆動方式=FF<br />
+| サスペンション=前：マクファーソンストラット後：5リンクダブル<a href="http://localhost/keyword/%E3%82%A6%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5">ウィッシュ</a>ボーン<br />
+| 全長=4,165mm<br />
+| 全幅=1,760mm<br />
+| 全高=1,645mm<br />
+| ホイールベース=2,530mm<br />
+| 車両重量=1,680kg<br />
+| 後継=<a href="http://localhost/keyword/%E3%83%9B%E3%83%B3%E3%83%80%E3%83%BBFCX">ホンダ・FCX</a>クラリティ<br />
+}}<br />
+200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>10月、FCXプロトタイプが発表され[http://www.honda.co.jp/news/2002/4021022-fcx.html 年内販売予定の燃料電池車「FCX」プロトタイプを発表]、同年12月に日米両国でリース販売が開始された。米国政府による燃料電池車販売認定を受けた燃料電池車として世界初である[http://www.honda.co.jp/news/2002/4021203-fcx.html 燃料電池車Honda「FCX」を日米同日納車]。<br />
+<br />
+燃料電池スタックの最高出力は78kW、燃料タンクはリア床下に68Lと88Lの合計156.6L、最大充填水素量は350気圧で、水素重量は約3.75kgである。ウルトラキャパシタは後部座席後ろに沿わせるように配置され、静電容量は8.0F、エネルギー密度は3.9Wh/kg（2.7V～1.35V/セル放電時）、出力密度は1.5kW/kg以上である。モーターはトルクが238N･mから272N･mへと約15%向上し、最高回転数が11,000rpm、最高効率は97%、平均効率は93%以上（LA-4モード走行時）である。最高速度は150km/h。計器盤は新開発の3眼メーターとなった。エアコンの暖房には温水加熱システムを採用している。フロントおよびリアバンパーのデザインはFCX実験車最終型から変更された[http://www.honda.co.jp/news/2002/4020725-fcx.html 燃料電池車「FCX」200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>の販売に向けて世界初の米国政府認定を取得]。リアサスペンションはアコードタイプの5リンクダブル<a href="http://localhost/keyword/%E3%82%A6%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5">ウィッシュ</a>ボーンで、リアサブフレーム一体マウントとなっている。CDプレーヤー、ヒートドアミラー、パワードアロック、パワーウィンドウ、クルーズコントロール、トラクションコントロールなど一通りの快適装備を備える。<br />
+<br />
+<br />
+== 「Honda FC STACK」搭載 FCX ==<br />
+<br />
+2003年10月、「Honda FC STACK」搭載 FCXが発表された。燃料電池スタックには、新開発のステンレス鋼板を使用したシール一体型のプレスセパレーターが採用された。従来のカーボンセパレーターを使用したHonda FC スタックより部品点数の半減と軽量コンパクト化、2倍以上の出力密度向上、接触抵抗の半減や、熱伝導率も5倍と大きく向上した。電解質膜も従来のフッ素系ではなく新開発の炭化水素系アロマティック電解質膜となり、これらにより-20度での発電が可能となり、耐久性が向上、暖気に要する時間も従来型の1/5となった。FCXはこの燃料電池スタックを加湿ユニットをはさんで2分割で搭載する。モーターは80kWにパワーアップ、ウルトラキャパシタは10%以上、出力密度とエネルギー密度が向上。駆動エネルギー効率は55%となった[http://www.honda.co.jp/news/2003/4031010.html 氷点下20℃での始動が可能な次世代型燃料電池スタック「Honda FC STACK」を新開発 - FCXに搭載し、公道実験を開始 -]。<br />
+<br />
+200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>11月にニューヨーク州とリース契約をし[http://www.honda.co.jp/news/2004/4041117a.html 「Honda FC STACK」搭載の「FCX」をニューヨーク州に販売]、12月に納入された[http://world.honda.com/news/2005/4050127.html Honda FC Stack-equipped FCX, Featuring Sub-freezing Temperature Start-up Capability, Leased to Hokkaido Prefectural Government]。日本でも12月に北海道庁と契約し[http://www.honda.co.jp/news/2004/404<a href="http://localhost/keyword/122">122</a>0-fcx.html 氷点下での始動が可能な燃料電池車「FCX」北海道庁とリース販売で合意]、200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>1月に納車された[http://www.honda.co.jp/news/2005/4050127-fcx.html 氷点下での始動が可能な燃料電池車「FCX」を北海道庁に納車]。新たにFCX用のモーター制御TCSを開発し、雪道にも適応した。HDD<a href="http://localhost/keyword/%E3%83%8A%E3%83%93%E3%82%B2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0">ナビゲーションシステム</a>も搭載。<br />
+<br />
+200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>、水素充填ソフトウェアのアップグレードにより航続距離が向上した。<br />
+<br />
+== プロトタイプ ==<br />
+=== FCX-V0 ===<br />
+初代オデッセイをベースとし、2列目シート以降に燃料電池装置などを搭載した実験車が、和光研究所（現 本田技術研究所基礎技術研究センター）にて開発されたとされる。<br />
+<br />
+=== FCX（19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>） ===<br />
+FCX Prototype[http://world.honda.com/Tokyo1999/auto/fcx/fcx_2.html]<br />
+19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>10月から東京モーターショーで展示されたコンセプトカー。開発コンセプトはTWIN SOLIDで上部ビッグフォワードキャビン、下部燃料電池ユニットという分割されたデザインを取る[http://www.honda.co.jp/factbook/motorshow/1999/auto_j/004.html The 33rd TOKYO MOTOR SHOW F<a href="http://localhost/keyword/ACT">ACT</a> BOOK - FCX （燃料電池車）-]。<br />
+全長 x 全幅 x 全高は、4,525mm x 1,800mm x 1,500mm。<br />
+<br />
+=== FCX実験車 ===<br />
+19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>より1年ごとに燃料電池実験車を公表した。EV Plusをベースとし、燃料電池システムを積み込んでいる。外観はほぼEV Plusに準じる。<br />
+<br />
+==== FCX-V1、FCX-V2 ====<br />
+19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>9月に公開された。FCX-V1は純水素燃料で水素吸蔵合金LaNi5タンクを使用し、バラード社の燃料電池スタックを搭載しており、FCX-V2はメタノール燃料のオートサーマル改質型でホンダ製の燃料電池スタックを搭載する。パワーアシストはバッテリー型が採用されている[http://www.honda.co.jp/news/1999/4990906c.html ホンダ 燃料電池を搭載した実験車を公開]。<br />
+<br />
+==== FCX-V3 ====<br />
+2000年9月に発表された。FCX-V3は高圧水素を燃料とし、パワーアシストとしてウルトラキャパシタ（電気二重層コンデンサ）を採用している。バッテリーでは設計以上の大電流を充放電すると性能が劣化するほか、電力伝達機構としてDC-DCコンバータなどの装置が必要となるため、最大電流を制限する必要が生じ、加速時にモーターへの電力供給が十分に行えないことがある。ウルトラキャパシタにより素早く大きなエネルギー供給し、DC-DCコンバータなどの装置を不要とすることが可能となった。このため、キビキビとした加速が行える。<br />
+モーター最大出力は60kWに向上、モーター最大駆動トルクは238N·m、システムの小型化により4人乗りを実現している。車両重量1,750kg。 燃料電池はバラード社製スタックを使用、航続距離は180kmで、最高速は130km/h。<br />
+CaFCP（カリフォルニアフューエルセルパートナーシップ）に参加し、11月からカリフォルニアの一般道での走行テストを開始した[http://www.honda.co.jp/news/2000/4000928a.html カリフォルニアフューエルセルパートナーシップ参加燃料電池車FCX-V3を発表]。<br />
+<br />
+2001年2月、燃料電池スタックをバラード製からホンダ製に変更したFCX-V3 with Honda FC Stackの公道テストを開始した[http://www.honda.co.jp/news/2001/c010213.html ホンダ製燃料電池スタック搭載の燃料電池車、カリフォルニアフューエルセルパートナーシップでの走行開始]。2000年11月から8月末までのFCX-V3の走行距離は約1万kmに達した[http://www.honda.co.jp/news/2001/c010904a.html 新燃料電池車 FCX-V4を発表]。<br />
+<br />
+==== FCX-V4 ====<br />
+2001年9月に発表された。燃料電池システムが新設計となりコンパクト化されている。燃料電池スタックはバラード製。パワーアシストはウルトラキャパシタ。車体前後にクラッシャブルゾーンを作り衝突安全性を向上させ、燃料タンクを床下に収納、荷室スペースも確保している。新設計の燃料タンクは350気圧水素タンクとなり、航続距離が300kmと大幅に伸びた。最高速は130km/hから140km/hとなった。ラジエータの大型化や、計器盤のデジタルメーターの一新も行われている。全長4,205mm、車両重量1,740kg。 200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>3月発表の国土交通省大臣認定取得車両では、航続距離を315kmとしている[http://www.honda.co.jp/news/2001/c010904a.html 新燃料電池車 FCX-V4を発表]。<br />
+<br />
+<br />
+    FCXモデル一覧<br />
+    <br />
+        バージョン年燃料電池製造メーカー燃料電池最高出力モーター最高出力燃料タンク航続距離(LA-4モード)<br />
+    <br />
+    <br />
+        FCX-V01998<br />
+    <br />
+    <br />
+        FCX-V11999バラード60kW49kW水素吸蔵合金LaNi5<br />
+    <br />
+    <br />
+        FCX-V21999ホンダ60kW49kWメタノール<br />
+    <br />
+    <br />
+        FCX-V32000バラード62kW60kW100L/250気圧180km<br />
+    <br />
+    <br />
+        FCX-V3 Honda FC Stack2001ホンダ70kW60kW100L/250気圧<br />
+    <br />
+    <br />
+        FCX-V42001バラード78kW60kW130L/350気圧300km<br />
+    <br />
+    <br />
+        FCX2002バラード78kW60kW156.6L/350気圧355km<br />
+    <br />
+    <br />
+        FCX Honda FC Stack2004ホンダ86kW80kW156.6L/350気圧430km<br />
+    <br />
+<br />
+<br />
+== 主なリース販売先 ==<br />
+=== アメリカ合衆国 ===<br />
+*ロサンゼルス市 5台<br />
+*サンフランシスコ市 2台<br />
+*チュラビスタ市 1台<br />
+*南海岸大気保全管理区（:en:SCAQMD、カリフォルニア州） 2台<br />
+*ニューヨーク州 2台 (Honda FC STACK)<br />
+*ラスベガス市 2台 (Honda FC STACK)<br />
+*スパリーノ家（カリフォルニア州） 1台 (Honda FC STACK)[http://www.honda.co.jp/news/2005/4050630-fcx.html 燃料電池車「FCX」を世界で初めて個人客にリース販売]<br />
+*クオリアンカ・キルヒャー（カリフォルニア州） 1台 (Honda FC STACK)[http://world.honda.com/news/2007/4070307FCX/ 17-Year-Old Actress Becomes World’s Youngest Fuel Cell Vehicle Customer with Lease of Industry-Leading Honda FCX Hydrogen Fuel Cell Vehicle Q’orianka Kilcher becomes the youngest customer to lease the company’s environmental status symbol]<br />
+<br />
+=== 日本 ===<br />
+*内閣府 1台<br />
+*環境庁 1台<br />
+*経済産業省 1台<br />
+*岩谷産業 1台<br />
+*出光興産 1台<br />
+*北海道庁 1台（Honda FC STACK）<br />
+<br />
+== 歴史 ==<br />
+*200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>7月<br />
+*:燃料電池自動車として初めて米国環境保護庁(EPA)およびカリフォルニア州大気資源局の認定を受ける。<br />
+*200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>12月2日<br />
+*:内閣府にリースのかたちで納車。<br />
+*:また、同日にロサンゼルス市庁にも納車。<br />
+*:経済産業省主導の水素・燃料電池実証プロジェクト(JHFC)に参加。<br />
+*2003年7月15日<br />
+*:燃料電池車として世界で初めて民間企業に納車される。<br />
+*2003年10月10日<br />
+*:-20℃でも起動可能なホンダ製燃料電池スタック「Honda FC STACK」を開発、FCXに搭載し公道実験開始。<br />
+*200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>1月2日～1月3日<br />
+*:「Honda FC STACK」搭載車の公道走行試験の為、第80回箱根駅伝の先導車として使用され、低温始動性と気象条件・勾配といった悪条件における走行性を確認。以降200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>の第84回大会まで大会本部車両を務める。<br />
+*200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>4月<br />
+*:FCXが、&#39;&#39;屋久島ゼロエミッションプロジェクト&#39;&#39;に参加。<br />
+*:世界遺産である屋久島を舞台にした自然の保守とエネルギー創世の両立を目的としたプロジェクトに、FCXが参加。豊かな水資源を利用した水力発電による、完全循環型の水素ステーションとともに、循環型水素社会の実現へ向けて実証試験を進めている。<br />
+*200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>9月15日<br />
+*:おおさかFCV推進会議の主催で東京～大阪間の長距離走行を実施。（復路は9月21日）<br />
+*200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>1月27日<br />
+*:「Honda FC STACK」搭載FCXを北海道庁へ納車<br />
+*200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>6月17日<br />
+*:国土交通省の型式認証を取得、型式を&#39;ZC1/ZC2&#39;とする。<br />
+*200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>6月30日<br />
+*:アメリカンホンダモーターがFCXをカリフォルニア州在住の個人にリース販売。<br />
+。<br />
+*200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>11月25日<br />
+*:日本国内でFCXクラリティのリース販売を開始。官公庁や一部の民間企業が対象で、価格はFCX同様の月額80万円。<br />
+<br />
+画像:HondaFCX.JPG|FCXコンセプト<br />
+Image:Honda FCX 2006 KLIMS rear.jpg|FCXコンセプト（リア）<br />
+Image:Honda FCX 2005 TMS interior 1.jpg|運転席<br />
+Image:Honda FCX 2005 TMS interior 3.jpg|車内（後席から）<br />
+<br />
+--&gt;<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 本田技研工業<br />
+* <a href="http://localhost/keyword/%E3%83%9B%E3%83%B3%E3%83%80%E3%83%BBFCX">ホンダ・FCX</a>クラリティ<br />
+* ホンダ・クラリティ フューエル セル<br />
+* <a href="http://localhost/keyword/%E3%83%9B%E3%83%B3%E3%83%80%E3%83%BBEV%20Plus">ホンダ・EV Plus</a><br />
+* ホンダ・インサイト<br />
+* トヨタ・FCHV<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 外部リンク ==<br />
+*[http://www.honda.co.jp/FCX/ <a href="http://localhost/keyword/%E3%83%9B%E3%83%B3%E3%83%80%E3%83%BBFCX">ホンダ・FCX</a>]<br />
+*[http://www.honda.co.jp/factbook/auto/fcx/200412/index.html Fact Book FCX]<br />
+*[http://www.honda.co.jp/FCX/history/ Honda｜クルマ｜FCXクラリティ｜FCXの歩み]<br />
+*[http://www.jhfc.jp/column/front/03/01.html 水素・燃料電池実証プロジェクト(JHFC)FCV最前線・ホンダFCX]<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+FCX<br />
+Category:燃料電池車<br />
+Category:ハッチバック<br />
+<br />

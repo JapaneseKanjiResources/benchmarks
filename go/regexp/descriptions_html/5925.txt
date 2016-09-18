@@ -1,0 +1,10 @@
+description<br />
+&#39;<a href="http://localhost/keyword/BHS">BHS</a>&#39;<br />
+* バハマのISO 3166-1国名コード<br />
+* バハマ航空 () のICAO航空会社コード<br />
+* ビブリア・ヘブライカ・シュトゥットガルテンシア () - 聖書の写本<br />
+* バサースト () のIATA都市コード、および、バサースト空港 () のIATA空港コード<br />
+* 旅客手荷物処理システム ()<br />
+* British Home Stores - イギリスの量販チェーン<br />
+<br />
+<br />

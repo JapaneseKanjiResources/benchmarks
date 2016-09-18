@@ -1,0 +1,75 @@
+description<br />
+鉄のプールベ図[http://people.bath.ac.uk/chsataj/CHEY0016%20Lecture%2015.htm University of Bath] &amp; [http://www.wou.edu/las/physci/ch412/pourbaix.htm Western Oregon University]<br />
+&#39;<a href="http://localhost/keyword/%E9%9B%BB%E4%BD%8D-pH%E5%9B%B3">電位-pH図</a>&#39;（でんいピーエイチず、もしくは、でんいペーハーず）とは、水中における化学種（特に金属）の存在領域を電極電位とpHの2次元座標上に図示したものである。1<a href="http://localhost/keyword/938%E5%B9%B4">938年</a>にマルセル・プールベが発表した。&#39;プールベダイアグラム&#39;(Pourbaix Diagram)、&#39;プールベ図&#39;、&#39;E-pH図&#39;とも呼ばれる。<br />
+<br />
+<a href="http://localhost/keyword/%E9%9B%BB%E4%BD%8D-pH%E5%9B%B3">電位-pH図</a>は、熱力学的データ（平衡論）に基づいて計算して作成する。現在では、ほとんどの金属単体の<a href="http://localhost/keyword/%E9%9B%BB%E4%BD%8D-pH%E5%9B%B3">電位-pH図</a>が作成されている。また、一部の金属では、水だけでなく錯体を含む系の<a href="http://localhost/keyword/%E9%9B%BB%E4%BD%8D-pH%E5%9B%B3">電位-pH図</a>や、高温水での<a href="http://localhost/keyword/%E9%9B%BB%E4%BD%8D-pH%E5%9B%B3">電位-pH図</a>が作成されている。このような<a href="http://localhost/keyword/%E9%9B%BB%E4%BD%8D-pH%E5%9B%B3">電位-pH図</a>は、作成するための計算が複雑になる。<br />
+<br />
+== 利用法 ==<br />
+<a href="http://localhost/keyword/%E9%9B%BB%E4%BD%8D-pH%E5%9B%B3">電位-pH図</a>は、主に腐食防食工学で使用されるが、電析や電気めっき、無電解めっきの分野でも利用される。<br />
+<br />
+<a href="http://localhost/keyword/%E9%9B%BB%E4%BD%8D-pH%E5%9B%B3">電位-pH図</a>を読むと、ある金属の特定の電位とpHで<br />
+#特定の酸化物または錯イオンを生成する<br />
+#反応しない<br />
+かどうかが一目でわかる。しかし、平衡状態における図なので反応の速度の情報については載っていない。すなわち、腐食防食工学の観点で言えば、『<a href="http://localhost/keyword/%E9%9B%BB%E4%BD%8D-pH%E5%9B%B3">電位-pH図</a>を読むと金属の腐食挙動は分かるが、金属の腐食速度まではわからない。』となる。<br />
+<br />
+== 鉄の<a href="http://localhost/keyword/%E9%9B%BB%E4%BD%8D-pH%E5%9B%B3">電位-pH図</a> ==<br />
+鉄の<a href="http://localhost/keyword/%E9%9B%BB%E4%BD%8D-pH%E5%9B%B3">電位-pH図</a> <br />
+<br />
+代表例として、25℃の水中における鉄の<a href="http://localhost/keyword/%E9%9B%BB%E4%BD%8D-pH%E5%9B%B3">電位-pH図</a>を挙げる。この図の横軸はpH、縦軸は水素電極基準の電圧が示されている。<br />
+<br />
+ここでは、鉄化合物をFe、Fe2+、Fe3+、<br />
+Fe2O3、Fe3O4、HFeO2&amp;minus;とし、<br />
+水の電気化学反応であるということから、H2O、H+、e&amp;minus;が加えられる。<br />
+<br />
+=== 鉄の反応傾向 ===<br />
+#領域I（青の部分）は、不感域（安定域）と言い、鉄が安定な領域である。<br />
+#領域II（赤の部分）は、腐食域と言い、鉄が腐食する。ここでは、Fe2+、Fe3+、HFeO2&amp;minus;が安定であり、鉄が溶解する。<br />
+#領域III（黄色の部分）は、不動態域と言い、鉄が不動態化する。つまり、鉄は初期に反応するが、反応生成物である不動態皮膜のためにこれ以上腐食が進まない。<br />
+#『FeO42&amp;minus;？』の部分は、その領域ではFeO42&amp;minus;が生成するらしいと言われているが、詳しくはわかっていない。正確な電位もわかっていない。<br />
+<br />
+以上のように、25℃の水中での鉄の腐食傾向は、電位とpHの両方の値がわかれば、『<a href="http://localhost/keyword/%E9%9B%BB%E4%BD%8D-pH%E5%9B%B3">電位-pH図</a>』を読むことによって判断できる。<br />
+<br />
+なお、Cl&amp;minus;が存在すると、不動態域で孔食が起こり、鉄に孔があく。<a href="http://localhost/keyword/%E9%9B%BB%E4%BD%8D-pH%E5%9B%B3">電位-pH図</a>は、実際の環境で起る現象の全てを予測する事は出来ないが、金属の腐食反応を理解するための基本になる。<br />
+<br />
+=== 水の反応傾向 ===<br />
+2本の破線a、bは水の生成・分解に関わる2つの反応の電位を示す。破線aは、<br />
+:O2 + 4 H+ + 4 e- = 2 H2O<br />
+に対応している。ネルンストの式より、&#39;&#39;E&#39;&#39; = 1.23 &amp;minus; 0.059 pHとなる。この破線より上の領域では酸素が発生するが、下の領域では酸素が発生しない。<br />
+<br />
+破線bは、<br />
+:2 H+ + 2 e- = H2<br />
+に対応している。ネルンストの式より、&#39;&#39;E&#39;&#39; = &amp;minus;0.059 pHとなる。この破線より下の領域のみ水素が発生する。<br />
+<br />
+すなわち、破線aとbの間の領域が水の安定域である。<br />
+<br />
+=== 作成法 ===<br />
+*FeとFe2+の間の直線<br />
+::Fe2+ + 2 e- = Fe<br />
+:ネルンストの式より、&#39;&#39;E&#39;&#39; = &amp;minus;0.44 + 0.0295 log &#39;&#39;a&#39;&#39; Fe2+ である（&#39;&#39;a&#39;&#39; Fe2+ は活量）。Fe2+ の全溶解濃度が10&amp;minus;6 mol/L 以下を金属状態が安定である基準として、&#39;&#39;a&#39;&#39; = 10&amp;minus;6 を代入すると、&#39;&#39;E&#39;&#39; = &amp;minus;0.617 となる。これは、&#39;&#39;E&#39;&#39; のみに依存する。つまり、水平な線は、H+ やOH&amp;minus; が関与しない反応である（&#39;&#39;E&#39;&#39; で境界が出来る）。<br />
+<br />
+*Fe3+とFe2O3の間の直線<br />
+::2 Fe3+ + 3 H2O = Fe2O3 + 6 H+<br />
+:この反応式について以下の2式を利用する。<br />
+:*&amp;Delta;&#39;&#39;G&#39;&#39;0 = &amp;minus;&#39;&#39;RT&#39;&#39; ln &#39;&#39;K&#39;&#39;<br />
+:*&#39;&#39;K&#39;&#39; = [Fe3+ ]2 / [H+ ]6<br />
+:すると、log [Fe3+ ] = -0.45 - 3 pH となり、これはpHのみに依存する。<br />
+:もし、[Fe3+ ] = 1 としたら、pH = &amp;minus;0.15 で垂直な線になる。[Fe3+ ]が10倍増加または減少するに従って、垂直な線は0.33 pHだけ左または右に移動する。つまり、垂直な線は、H+ やOH&amp;minus; は関与するが、e&amp;minus; は関係しない反応である（pHで境界が出来る）。<br />
+<br />
+*Fe2+とFe2O3の間の直線<br />
+::Fe2O3 + 6 H+ + 2 e- = 2 Fe2+ + 3 H2O<br />
+:ネルンストの式より、&#39;&#39;E&#39;&#39; = 0.972 &amp;minus; 0.177 pH となる。これは、&#39;&#39;E&#39;&#39; とpHに依存する。つまり、勾配のある線は、H+ やOH&amp;minus; およびe&amp;minus; が関与する反応である。<br />
+<br />
+このようにして、全ての反応式について計算し、線のつながりを考えれば、<a href="http://localhost/keyword/%E9%9B%BB%E4%BD%8D-pH%E5%9B%B3">電位-pH図</a>が作成できる。<br />
+<br />
+== 参考文献 ==<br />
+*M. Pourbaix, Atlas of Electrochemical Equilibria in Aqueous Solutions, NACE, Houston (1966) - プールベが書いた、<a href="http://localhost/keyword/%E9%9B%BB%E4%BD%8D-pH%E5%9B%B3">電位-pH図</a>の集大成。<br />
+<br />
+== 関連項目 ==<br />
+*電気化学<br />
+<br />
+<br />
+<br />
+<br />
+Category:電気化学<br />
+Category:鉄<br />
+Category:ダイアグラム<br />

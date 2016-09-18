@@ -1,0 +1,65 @@
+description<br />
+<br />
+|所属事業者 = 四国旅客鉄道（JR四国）<br />
+|所属路線 = 鳴門線<br />
+|キロ程 = 4.9<br />
+|起点駅 = 池谷<br />
+|所在地 = 徳島県鳴門市撫養町木津598<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/924%E5%B9%B4">924年</a>（大正<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）1月1日<br />
+|廃止年月日 =<br />
+|乗車人員 =<br />
+|乗降人員 =<br />
+|統計年度 =<br />
+|乗換 =<br />
+|備考 = 無人駅<br />
+}}<br />
+ホーム（200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>8月17日）<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E6%95%99%E4%BC%9A%E5%89%8D%E9%A7%85">教会前駅</a>&#39;（きょうかいまええき）は、徳島県鳴門市撫養町木津にある、四国旅客鉄道（JR四国）鳴門線の駅。駅番号は&#39;N07&#39;。<br />
+<br />
+== 駅構造 ==<br />
+単式1面1線のホームをもつ地上駅。駅舎はなく、ホームにベンチとベンチの部分を覆う上屋のみの無人駅である。<br />
+<br />
+== 駅周辺 ==<br />
+駅の近くには駅名の由来である天理教撫養大教会がある。<br />
+* 国道11号<br />
+* 徳島県道12号鳴門池田線<br />
+* 鳴門インターチェンジ（神戸淡路鳴門自動車道）<br />
+<br />
+== 接続する他の交通機関 ==<br />
+=== バス ===<br />
+* 路線バス（教会前バス停、駅前）<br />
+** 徳島バス<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/924%E5%B9%B4">924年</a>（大正<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）1月1日 - 阿波電気軌道（後の阿波鉄道）の&#39;天理教前停留場&#39;として開業。<br />
+* 1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>（大正<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>） - &#39;教会前停留場&#39;に改称大正<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>12月印刷の『大正<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>1月公認汽車汽船旅行案内』（復刻明治大正時刻表）ではまだ天理教会前。<br />
+* 1<a href="http://localhost/keyword/933%E5%B9%B4">933年</a>（昭和<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）7月1日 - 阿波鉄道国有化。同時に停車場となる。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化によりJR四国に継承。<br />
+<br />
+== 隣の駅 ==<br />
+; 四国旅客鉄道<br />
+: 鳴門線<br />
+:: 金比羅前駅 (N08) - &#39;<a href="http://localhost/keyword/%E6%95%99%E4%BC%9A%E5%89%8D%E9%A7%85">教会前駅</a> (N07)&#39; - 立道駅 (N06)<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+*天理駅<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:徳島県の鉄道駅<br />
+ようかいまえ<br />
+Category:四国旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+きようかいまええき<br />
+きようかいまええき<br />
+Category:1<a href="http://localhost/keyword/924%E5%B9%B4">924年</a>開業の鉄道駅<br />

@@ -1,0 +1,157 @@
+description<br />
+<br />
+<br />
+|開業年月日 = 1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>（大正<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）10月15日<br />
+|廃止年月日 =<br />
+|駅構造     = 地上駅（橋上駅）<br />
+|ホーム     = 2面3線<br />
+|乗車人員   = 654人/日（降車客含まず）170<br />
+|乗降人員   =<br />
+|統計年度   = <br />
+|乗入路線数 = 2<br />
+|所属路線1  = 会津鉄道会津線<br />
+|前の駅1    = *（七日町）<br />
+|駅間A1     = -<br />
+|駅間B1     = 3.0<br />
+|次の駅1    = 南若松<br />
+|駅番号1    =<br />
+|キロ程1    = 0.0<br />
+|起点駅1    = 西若松<br />
+|所属路線2  = 只見線（JR東日本）<br />
+|前の駅2    = 七日町<br />
+|駅間A2     = 1.8<br />
+|駅間B2     = 3.4<br />
+|次の駅2    = 会津本郷<br />
+|駅番号2    =<br />
+|キロ程2    = 3.1<br />
+|起点駅2    = 会津若松<br />
+|乗換       =<br />
+|備考       = 共同使用駅（改札業務は会津鉄道が担当）業務委託駅<br />
+|備考全幅   = * 全列車が会津若松駅まで乗り入れ。<br />
+}}<br />
+東口（200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>8月）<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E8%A5%BF%E8%8B%A5%E6%9D%BE%E9%A7%85">西若松駅</a>&#39;（にしわかまつえき）は、福島県会津<a href="http://localhost/keyword/%E8%8B%A5%E6%9D%BE%E5%B8%82">若松市</a>材木町一丁目にある、会津鉄道・東日本旅客鉄道（JR東日本）の駅。<br />
+<br />
+会津鉄道の会津線とJR東日本の只見線が乗り入れる共同使用駅で、改札は両社で共用している。会津線は起点駅であるが、全列車がJR只見線経由で会津若松駅まで片乗り入れの形で直通する。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線（1番線）と島式ホーム1面2線（2番線・3番線）の計2面3線を有する地上駅。ホーム設備は会津若松駅が管理している。<br />
+<br />
+会津若松行1本だけが1番線を使用するほかは、すべての列車が島式ホームに発着し、当駅での只見線同士の交換はこの1回だけである。普段は1番線の入口には鍵がかけられており、17時台に列車が到着する前後のみ鍵が開けられ、発車後はシャッターが下ろされる。また、1番線は改札内でつながっておらず、地平の入口からホームに入る。<br />
+<br />
+会津鉄道同士の列車交換は線路配線の構造上、不可能である。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+=== 駅舎 ===<br />
+200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>（平成<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）9月18日にできた橋上駅舎を持つ。この駅舎のできる前には西口に当たる部分に木造駅舎があった。当時は駅舎にJRの窓口が、そこから各ホームにのびる跨線橋の、会津鉄道のりばへ降りる脇に会津鉄道の窓口があったが、新駅舎においては両者が一つの窓口を使用しており、会津鉄道がJRの出改札業務を受託している。なお2・3番線の小出方にJRの運転事務室があり、運転扱い（信号やポイント転換等）を行う駅員が終日配置されており、案内放送等も行う（駅員は会津若松駅所属西若松在勤、助役配置）。<br />
+<br />
+橋上駅舎の建設にあたっては旧駅舎を取り壊した。その最中この駅にはきちんとした駅舎がなく、島式ホームの会津若松方の端に仮駅舎（200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>3月1日使用開始）を設けることで対応をしていた。仮駅舎には会津鉄道の社員のみが配置され、JR社員は上述の運転事務室に運転扱いの社員のみ配置されていた。窓口は会津鉄道のみでJRの<a href="http://localhost/keyword/%E4%B9%97%E8%BB%8A%E5%88%B8">乗車券</a>はその仮駅舎に設置された簡易自動券売機のみでしか購入ができなかった。この工事の最中には跨線橋も撤去され警報機・遮断機つきの構内踏切（200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>8月1日使用開始）を使用していた。<br />
+<br />
+東西に自由通路があり、歩行者・二輪車が使用ができる。また、鶴ヶ城最寄り駅であるため、&#39;会津鶴ヶ城駅&#39;への改名が会津<a href="http://localhost/keyword/%E8%8B%A5%E6%9D%BE%E5%B8%82">若松市</a>長から提案されている会津<a href="http://localhost/keyword/%E8%8B%A5%E6%9D%BE%E5%B8%82">若松市</a>議会200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>9月議会で、木村まさし市会議員の質問に対する回答。[http://homepage2.nifty.com/ma-bo-2/2005aki.pdf 議事の詳細]<br />
+。<br />
+<br />
+<br />
+ファイル:JR<a href="http://localhost/keyword/%E8%A5%BF%E8%8B%A5%E6%9D%BE%E9%A7%85">西若松駅</a>JR事務室.jpg|ホーム上にあるJR事務室（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>9月）<br />
+ファイル:<a href="http://localhost/keyword/%E8%A5%BF%E8%8B%A5%E6%9D%BE%E9%A7%85">西若松駅</a><a href="http://localhost/keyword/%E8%8A%A6%E3%83%8E%E7%89%A7%E6%B8%A9%E6%B3%89">芦ノ牧温泉</a>方面.jpg|自由通路から会津坂下・<a href="http://localhost/keyword/%E8%8A%A6%E3%83%8E%E7%89%A7%E6%B8%A9%E6%B3%89">芦ノ牧温泉</a>方面をみる、中央の線路が3番線（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>9月）<br />
+ファイル:西若松1番線乗り場.jpg|<a href="http://localhost/keyword/%E8%A5%BF%E8%8B%A5%E6%9D%BE%E9%A7%85">西若松駅</a>1番線入り口。通常は鍵がかけられているが、撮影時は掲示の列車の扱いをするため解放されている（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>9月）<br />
+ファイル:N-waka-sta2.jpg|<a href="http://localhost/keyword/%E8%A5%BF%E8%8B%A5%E6%9D%BE%E9%A7%85">西若松駅</a>窓口（写真右、200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>3月）<br />
+ファイル:Nishi-Wakamatsu sta.jpg|自由通路東口方面を望む（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>7月）<br />
+ファイル:Nishiwakamatsu Sta Gate.jpg|<a href="http://localhost/keyword/%E8%A5%BF%E8%8B%A5%E6%9D%BE%E9%A7%85">西若松駅</a> 改札口（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>7月）<br />
+ファイル:Nishiwakamatsu1.jpg|建設中の<a href="http://localhost/keyword/%E8%A5%BF%E8%8B%A5%E6%9D%BE%E9%A7%85">西若松駅</a>橋上駅舎（200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>5月）<br />
+ファイル:Nishiwakamatsu2.jpg|仮駅舎（200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>5月）<br />
+<br />
+<br />
+== 利用状況 ==<br />
+* JR東日本 - 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>度の1日平均乗車人員は654人であった。<br />
+* 会津鉄道 - 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度の1日平均乗車人員は170人であった[https://www.pref.fukushima.lg.jp/uploaded/attachment/161504.xls 第130回福島県統計年鑑]。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+会津若松の市街地の周縁部にあたる。<br />
+<br />
+* アピタ会津若松店<br />
+* ジーユー会津若松店<br />
+* 若松城（鶴ヶ城）<br />
+* 福島地方気象台若松測候所<br />
+* オリンパス会津工場<br />
+* 石塚観音（蓮台寺）<br />
+* 若松材木町郵便局<br />
+* 若松南町郵便局<br />
+* 大東銀行材木町支店<br />
+* 竹田綜合病院<br />
+* 会津クリニック<br />
+* 湯川食堂<br />
+* 白虎タクシー<br />
+* 会津<a href="http://localhost/keyword/%E8%8B%A5%E6%9D%BE%E5%B8%82">若松市</a>立城西小学校<br />
+* 会津<a href="http://localhost/keyword/%E8%8B%A5%E6%9D%BE%E5%B8%82">若松市</a>立謹教小学校<br />
+* 会津<a href="http://localhost/keyword/%E8%8B%A5%E6%9D%BE%E5%B8%82">若松市</a>立第三中学校<br />
+* 会津<a href="http://localhost/keyword/%E8%8B%A5%E6%9D%BE%E5%B8%82">若松市</a>立第四中学校<br />
+* 福島県立会津高等学校<br />
+* 福島県立若松商業高等学校<br />
+* 福島県道59号会津若松三島線<br />
+* 福島県道211号西若松停車場南町線<br />
+* 福島県道328号中沢西若松停車場線<br />
+* <a href="http://localhost/keyword/%E5%9B%BD%E9%81%93118%E5%8F%B7">国道118号</a><br />
+* 国道401号<br />
+<br />
+== バス路線 ==<br />
+=== <a href="http://localhost/keyword/%E8%A5%BF%E8%8B%A5%E6%9D%BE%E9%A7%85">西若松駅</a>東口 ===<br />
+<br />
+<br />
+=== <a href="http://localhost/keyword/%E8%A5%BF%E8%8B%A5%E6%9D%BE%E9%A7%85">西若松駅</a>前 ===<br />
+西口に乗り場がある。<br />
+<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>（大正<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）10月15日 - 国有鉄道会津線 会津若松～会津坂下間の開通時に開業。一般駅。<br />
+* 1<a href="http://localhost/keyword/927%E5%B9%B4">927年</a>（昭和<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）11月1日 - 会津線支線が上三寄駅まで開通。<br />
+* 1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>（昭和<a href="http://localhost/keyword/46%E5%B9%B4">46年</a>）8月29日 - 所属線区を只見線に変更。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）<br />
+**4月1日 - 国鉄分割民営化により東日本旅客鉄道・日本貨物鉄道が承継。<br />
+**7月16日 - 会津線が会津鉄道に転換。<br />
+* 1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a>（平成<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>）9月30日 - 貨物列車発着の最終日。<br />
+** 駅周辺にあった日本石油会津油槽所の荷役設備へ続く専用線が駅から分岐し、沼垂駅から当駅まで石油輸送列車が運行されていた。<br />
+* 19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>（平成<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）3月31日 - 日本貨物鉄道の駅が廃止。<br />
+* 200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>（平成<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>）8月1日 - 橋上駅舎建設のため跨線橋の使用を停止。構内踏切（警報機・遮断機あり）使用開始。<br />
+* 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>（平成<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）<br />
+**3月1日 - 旧駅舎の使用を停止。JR窓口閉鎖、仮駅舎使用開始。<br />
+**9月18日 - 橋上駅舎完成。仮駅舎使用停止、JR窓口営業再開、構内踏切使用停止。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）10月7日 - 只見線西若松 - 会津坂下間特殊自動閉塞化。当駅でのタブレット受渡はなくなるが、運転扱いのため引き続きJR駅員は配置。<br />
+<br />
+== 隣の駅 ==<br />
+; 会津鉄道<br />
+: 会津線<br />
+:: 快速AIZUマウントエクスプレス(会津田島以北快速運転の列車)<br />
+::: 七日町駅（只見線） - &#39;<a href="http://localhost/keyword/%E8%A5%BF%E8%8B%A5%E6%9D%BE%E9%A7%85">西若松駅</a>&#39; - （下り1本のみ南若松駅） - <a href="http://localhost/keyword/%E8%8A%A6%E3%83%8E%E7%89%A7%E6%B8%A9%E6%B3%89">芦ノ牧温泉</a>駅<br />
+:: 快速AIZUマウントエクスプレス(会津田島以北各駅停車の列車)・普通<br />
+::: 七日町駅（只見線） - &#39;<a href="http://localhost/keyword/%E8%A5%BF%E8%8B%A5%E6%9D%BE%E9%A7%85">西若松駅</a>&#39; - 南若松駅<br />
+; 東日本旅客鉄道<br />
+: 只見線<br />
+::: 七日町駅 - &#39;<a href="http://localhost/keyword/%E8%A5%BF%E8%8B%A5%E6%9D%BE%E9%A7%85">西若松駅</a>&#39; - 会津本郷駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.aizutetsudo.jp/co_st.php 会津鉄道 <a href="http://localhost/keyword/%E8%A5%BF%E8%8B%A5%E6%9D%BE%E9%A7%85">西若松駅</a>]<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=1178 JR東日本 <a href="http://localhost/keyword/%E8%A5%BF%E8%8B%A5%E6%9D%BE%E9%A7%85">西若松駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:会津<a href="http://localhost/keyword/%E8%8B%A5%E6%9D%BE%E5%B8%82">若松市</a>の鉄道駅<br />
+しわかまつ<br />
+Category:会津鉄道の鉄道駅<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:日本貨物鉄道の廃駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>開業の鉄道駅<br />

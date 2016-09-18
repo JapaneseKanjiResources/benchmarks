@@ -1,0 +1,89 @@
+description<br />
+八戸線<br />
+|キロ程 = 34.2<br />
+|起点駅 = 八戸<br />
+|所在地幅 =<br />
+|所在地 = 岩手県九戸郡洋野町種市第23地割70<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/924%E5%B9%B4">924年</a>（大正<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）11月10日<br />
+|廃止年月日 =<br />
+|乗車人員 = 172<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a><br />
+|備考 = 業務委託駅みどりの窓口 有<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E7%A8%AE%E5%B8%82%E9%A7%85">種市駅</a>&#39;（たねいちえき）は、岩手県九戸郡洋野町種市にある、東日本旅客鉄道（JR東日本）八戸線の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/924%E5%B9%B4">924年</a>（大正<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）11月10日 - 八戸線・本八戸駅 - 当駅間の開業と同時に開業。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化によりJR東日本の駅となる。<br />
+* 200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>（平成<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>）10月16日 - 交換設備を撤去し、単式ホーム1面1線となる。同時に運転扱い、当直勤務が廃止され、早朝夜間駅員不在となった。<br />
+* 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>（平成<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）12月10日 - <a href="http://localhost/keyword/%E7%A8%AE%E5%B8%82%E9%A7%85">種市駅</a>長が廃止され、<a href="http://localhost/keyword/%E4%B9%85%E6%85%88%E9%A7%85">久慈駅</a>長管理下（在勤駅員配置）となる。<br />
+* 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>（平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）3月 - 業務委託化。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）3月11日 - 午後に発生した東北地方太平洋沖地震とそれに伴う津波の影響で列車の発着が休止（代行バスを運行）。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）8月8日 - 地上設備の改修工事により折り返し設備を仮設し、区間復旧の終着駅となる。<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）3月17日 - 当駅 - <a href="http://localhost/keyword/%E4%B9%85%E6%85%88%E9%A7%85">久慈駅</a>間運行再開。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を有する地上駅。駅舎は鉄筋コンクリート平屋建て。200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>10月15日までは相対式ホーム2面2線で、タブレットを交換していた。<br />
+<br />
+。<br />
+<br />
+== 利用状況 ==<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+洋野町種市地区（旧・種市町）の中心駅であるが、洋野町役場種市庁舎は駅より南側のやや離れた場所に存在する。<br />
+<br />
+また銀行、郵便局などは駅前を走る県道（県道150号種市停車場線、県道247号角ノ浜玉川線）沿いにある。<br />
+<br />
+スーパーなどは駅周囲駅前には個人経営の商店、駅から県道247号線沿いに徒歩約5分の所にユニバース種市店がある程度。よりは駅裏側を走る国道45号沿いに点在している。<br />
+* 岩手日報社洋野支局<br />
+* 国道45号<br />
+* 洋野町役場種市庁舎（旧・種市町役場）<br />
+* 洋野町立種市歴史民俗資料館<br />
+* 洋野町立文化会館（セシリアホール）<br />
+* 久慈警察署種市交番<br />
+* 種市郵便局<br />
+* 岩手銀行種市支店<br />
+* 東北銀行種市支店<br />
+* 洋野町ふるさと交流館 アグリパークおおさわ<br />
+* テレトラック種市（岩手県競馬組合場外発売所）<br />
+* 種市ふるさと物産館<br />
+* 種市フィッシャリーナ<br />
+* たねいち海浜公園<br />
+* マリンサイドスパたねいち（ホテル・日帰り温泉も営業）<br />
+**岩手県立種市高等学校は隣の平内駅が最寄りとなる。<br />
+<br />
+== バス ==<br />
+* 洋野町営バス<br />
+** 種市大野線（大谷、ナメラ、陸中大野駅、おおのキャンパス方面）<br />
+** 大沢線（産直広場、上城内/城内、アグリパークおおさわ方面）<br />
+*** 日祝は完全予約制となる。<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 八戸線<br />
+:: 平内駅 - &#39;<a href="http://localhost/keyword/%E7%A8%AE%E5%B8%82%E9%A7%85">種市駅</a>&#39; - 玉川駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=970 JR東日本 <a href="http://localhost/keyword/%E7%A8%AE%E5%B8%82%E9%A7%85">種市駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+Category:岩手県の鉄道駅<br />
+ねいち<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+たねいちえき<br />
+Category:1<a href="http://localhost/keyword/924%E5%B9%B4">924年</a>開業の鉄道駅<br />

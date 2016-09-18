@@ -1,0 +1,62 @@
+description<br />
+&#39;XBRL&#39;()は、&#39;拡張可能な事業報告言語&#39;の意で、財務諸表などのビジネスレポートを電子文書化することでそれらの作成の効率化や比較・分析などの二次利用を目的として、XMLの規格をベースに作られた言語である。<br />
+<br />
+1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a>に米国の米国公認会計士協会(AICPA)の支持で&#39;XBRL&#39; 1.0が作られて、世界的に普及を始めたことが始まりである。<br />
+<br />
+国内では日本公認会計士協会(JICPA)等が中心となって設立したXBRL Japanが作成・普及・啓蒙活動を行っており、200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>7月20日にJIS(JIS X 7206)化された。<br />
+<br />
+&#39;XBRL&#39;はレポートの項目・科目そのものと項目・科目間の関係を定義した語彙辞書であるタクソノミーと実際の値の集合であるインスタンスの3要素から構成される。<br />
+<br />
+==仕様==<br />
+===XBRL 1.0===<br />
+構造はDTDを用いて定義されている。<br />
+<br />
+===XBRL 2.0===<br />
+本仕様は2001年12月14日に標準化された。<br />
+構造には、DTDを廃止して、XML Schema 1.0を用いている。<br />
+<br />
+&#39;XBRL&#39; 1.0に比べて大幅に仕様が改造されており、以下の仕様が活用されている。<br />
+<br />
+*XML Schema 1.0<br />
+**Namespaces in XML 1.0<br />
+*XLink 1.0<br />
+<br />
+また、タクソノミーは以下のデータをXLinkを用いて定義する事になっている。<br />
+<br />
+*名称(勘定科目名)<br />
+*計算<br />
+*表示順序<br />
+*構造(タグ同士の関係)<br />
+*参照<br />
+<br />
+===XBRL 2.1===<br />
+2003年12月31日に標準化された。JIS X 7206はこの仕様を翻訳したものである。<br />
+<br />
+==XBRLに対応した代表的なシステム==<br />
+*e-Tax - 国税電子申告・納税システム(国税庁運営)<br />
+**ZAIMON - e-Taxに提出済の税務申告データを金融機関へ提出するためのサービス(NTTデータ運営)<br />
+*EDINET - 金融商品取引法に基づく開示文書の閲覧システム(金融庁運営)<br />
+**TDnet - 全国の証券取引所に上場している会社の開示情報等の閲覧システム(東京証券取引所運営)<br />
+<br />
+==関連項目==<br />
+*XML<br />
+*XLink<br />
+*DTD<br />
+*米国公認会計士協会<br />
+*日本公認会計士協会<br />
+<br />
+==外部リンク==<br />
+*[http://www.xbrl.org/home XBRL | An international standard language for communicating business data simply and quickly]<br />
+*[https://www.xbrl.or.jp/index.php 一般社団法人 XBRL Japan - XBRL Japan Inc. - ]<br />
+<br />
+==注釈・出典==<br />
+<br />
+<br />
+<br />
+<br />
+Category:インベスター・リレーションズ<br />
+Category:マークアップ言語<br />
+Category:XMLベースの技術<br />
+Category:ビジネスソフト<br />
+Category:財務諸表<br />
+Category:長大な項目名<br />

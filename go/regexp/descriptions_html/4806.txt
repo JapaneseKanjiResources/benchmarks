@@ -1,0 +1,55 @@
+description<br />
+ (substitutive)<br />
+Hydrogen(1+) (additive)<br />
+| Section1 = <br />
+|  ChemSpiderID = 1010<br />
+|  ChemSpiderID_Ref = <br />
+|  KEGG = C00080<br />
+|  KEGG_Ref = <br />
+|  ChEBI = 15378<br />
+|  SM<a href="http://localhost/keyword/ILE">ILE</a>S = [H+]<br />
+|  StdInChI = 1S/p+1<br />
+|  StdInChI_Ref = <br />
+|  StdInChIKey = GPRLSGONYQIRFK-UHFFFAOYSA-N<br />
+|  StdInChIKey_Ref = <br />
+}}<br />
+| Section2 = <br />
+|  MolarMass = 1.00739 g mol-1<br />
+|  ExactMass = 1.007276466812(90) g mol-1<br />
+}}<br />
+| Section3 = <br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E3%83%92%E3%83%89%E3%83%AD%E3%83%B3">ヒドロン</a>&#39;(Hydron)は、H+という記号で表される、水素原子の陽イオンの一般名である。「<a href="http://localhost/keyword/%E3%83%97%E3%83%AD%E3%83%88%E3%83%B3">プロトン</a>」という言葉は、最も多い同位体である軽水素の陽イオンを意味する。「<a href="http://localhost/keyword/%E3%83%92%E3%83%89%E3%83%AD%E3%83%B3">ヒドロン</a>」は、その同位体組成に関わらない陽イオンを表す。そのため、<a href="http://localhost/keyword/%E3%83%97%E3%83%AD%E3%83%88%E3%83%B3">プロトン</a>(1H+)、デューテロン(2H+, D+)、トリトン(3H+, T+)を含む名称である。他のイオンと異なり、<a href="http://localhost/keyword/%E3%83%92%E3%83%89%E3%83%AD%E3%83%B3">ヒドロン</a>は裸の<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E6%A0%B8">原子核</a>のみから構成される。<br />
+<br />
+<a href="http://localhost/keyword/%E3%83%92%E3%83%89%E3%83%AD%E3%83%B3">ヒドロン</a>（裸の水素<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E6%A0%B8">原子核</a>）は、反応性が高すぎるため多くの液体中では存在できない。自由な<a href="http://localhost/keyword/%E3%83%92%E3%83%89%E3%83%AD%E3%83%B3">ヒドロン</a>は、液体中で分子と反応し、より複雑な陽イオンを形成する。例としては、水中でのヒドロニウムイオンや最も強い超酸であるフルオロアンチモン酸の不安定な陽イオンH2+がある。このため液体中では、<a href="http://localhost/keyword/%E3%83%92%E3%83%89%E3%83%AD%E3%83%B3">ヒドロン</a>は複雑なイオンと接触して、グロッタス機構により拡散する[http://www.psc.edu/science/klein2000.html] Computer modeling of proton-hopping in superacids.。水素イオンの水和型であるヒドロニウムイオン(H3O+)は、スヴァンテ・アレニウスによる酸の定義の鍵となる。他の水和型には、1つの<a href="http://localhost/keyword/%E3%83%97%E3%83%AD%E3%83%88%E3%83%B3">プロトン</a>と2つの水分子からなるズンデルカチオン(H5O2+)や1つの<a href="http://localhost/keyword/%E3%83%97%E3%83%AD%E3%83%88%E3%83%B3">プロトン</a>と3つの水分子からなるアイゲンカチオン(H9O4+)があり、グロッタス機構に従う「水素ホッピング」において重要な役割を担っている。<a href="http://localhost/keyword/%E3%83%92%E3%83%89%E3%83%AD%E3%83%B3">ヒドロン</a>自体も、より一般的なブレンステッド-ローリーの酸塩基理論において重要な役割を果たしている。<br />
+<br />
+陰電荷を持つ<a href="http://localhost/keyword/%E3%83%92%E3%83%89%E3%83%AD%E3%83%B3">ヒドロン</a>のカウンターパートは、ヒドリド(H-)という。<br />
+<br />
+==<a href="http://localhost/keyword/%E3%83%92%E3%83%89%E3%83%AD%E3%83%B3">ヒドロン</a>の同位体==<br />
+150px<br />
+*<a href="http://localhost/keyword/%E3%83%97%E3%83%AD%E3%83%88%E3%83%B3">プロトン</a> - 1H+（即ち水素原子の陽イオン）<br />
+*デューテロン - 2H+, D+<br />
+*トリトン - 3H+, T+<br />
+<br />
+他の水素の同位体は、不安定すぎて意味を持たない。<br />
+<br />
+==用語の歴史==<br />
+「<a href="http://localhost/keyword/%E3%83%92%E3%83%89%E3%83%AD%E3%83%B3">ヒドロン</a>」(Hydron)という用語は、国際純正・応用化学連合により、未分画の天然の水素同位体混合物に含まれる軽水素、重水素、三重水素について区別がなされないときに「<a href="http://localhost/keyword/%E3%83%97%E3%83%AD%E3%83%88%E3%83%B3">プロトン</a>」に代わる言葉として使うことが勧告されている。「<a href="http://localhost/keyword/%E3%83%97%E3%83%AD%E3%83%88%E3%83%B3">プロトン</a>」という用語は、同位体分離された純粋な1H+を表すNomenclature of Inorganic Chemistry-IUPAC Recommendations 2005 [http://www.iupac.org/publications/books/rbook/Red_Book_2005.pdf Red Book 2005.pdf] IR-3.3.2, p.48。一方、水素化物イオンも存在するために、<a href="http://localhost/keyword/%E3%83%92%E3%83%89%E3%83%AD%E3%83%B3">ヒドロン</a>を単に「水素イオン」(hydrogen ion)ということは推奨されない&#39;&#39;Compendium of Chemical Terminology&#39;&#39;, 2nd edition McNaught, A.D. and Wilkinson, A. Blackwell Science, 1997 [ISBN 0-86542-684-8], also [http://www.iupac.org/publications/compendium/index.html online]。<br />
+<br />
+「<a href="http://localhost/keyword/%E3%83%92%E3%83%89%E3%83%AD%E3%83%B3">ヒドロン</a>」という用語は、19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>に国際純正・応用化学連合によって定義された。しかし、今でも「<a href="http://localhost/keyword/%E3%83%92%E3%83%89%E3%83%AD%E3%83%B3">ヒドロン</a>」という用語の代わりに「<a href="http://localhost/keyword/%E3%83%97%E3%83%AD%E3%83%88%E3%83%B3">プロトン</a>」という用語が用いられており、<a href="http://localhost/keyword/%E3%83%97%E3%83%AD%E3%83%88%E3%83%B3">プロトン</a>化、脱<a href="http://localhost/keyword/%E3%83%97%E3%83%AD%E3%83%88%E3%83%B3">プロトン</a>化、<a href="http://localhost/keyword/%E3%83%97%E3%83%AD%E3%83%88%E3%83%B3">プロトン</a>ポンプ、<a href="http://localhost/keyword/%E3%83%97%E3%83%AD%E3%83%88%E3%83%B3">プロトン</a>チャネル等という用語がある。また酸塩基反応によるH+の移動は、通常は「<a href="http://localhost/keyword/%E3%83%97%E3%83%AD%E3%83%88%E3%83%B3">プロトン</a>移動」と呼ばれる。「<a href="http://localhost/keyword/%E3%83%92%E3%83%89%E3%83%AD%E3%83%B3">ヒドロン</a>」という用語は、速度論的同位体効果や同位体標識等、水素の同位体を区別することが重要な文脈でのみ用いられている。<br />
+<br />
+しかし、天然の水素<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E6%A0%B8">原子核</a>の99.9844%は<a href="http://localhost/keyword/%E3%83%97%E3%83%AD%E3%83%88%E3%83%B3">プロトン</a>であり、残り（海水では156 ppm）がデューテロン、ごく少量がトリトンである。<br />
+<br />
+==関連項目==<br />
+*脱<a href="http://localhost/keyword/%E3%83%97%E3%83%AD%E3%83%88%E3%83%B3">プロトン</a>化<br />
+*超酸<br />
+*水素分子イオン<br />
+*<a href="http://localhost/keyword/%E3%83%97%E3%83%AD%E3%83%88%E3%83%B3">プロトン</a>化水素分子<br />
+*水素イオンクラスタ<br />
+<br />
+==出典==<br />
+<br />
+<br />
+<br />
+Category:水素<br />
+Category:イオン<br />

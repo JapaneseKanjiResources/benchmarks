@@ -1,0 +1,68 @@
+description<br />
+<br />
+|緯度度=34|緯度分=21|緯度秒=59.02<br />
+|経度度=132|経度分=22|経度秒=4.28<br />
+|駅構造     = 地上駅<br />
+|ホーム     = 相対式2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/924%E5%B9%B4">924年</a>（大正<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）4月6日 <br />
+|廃止年月日 = <br />
+|乗車人員   = 3,770<br />
+|乗降人員   = <br />
+|統計年度   = 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a><br />
+|乗換       = 山陽本線（西日本旅客鉄道）五日市駅<br />
+|備考       = <br />
+}}<br />
+JR五日市駅 <a href="http://localhost/keyword/%E5%BA%83%E9%9B%BB%E4%BA%94%E6%97%A5%E5%B8%82%E9%A7%85">広電五日市駅</a>北口としても機能する<br />
+広島方面ホームから宮島方向を望む<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E5%BA%83%E9%9B%BB%E4%BA%94%E6%97%A5%E5%B8%82%E9%A7%85">広電五日市駅</a>&#39;（ひろでんいつかいちえき）は広島県広島市佐伯区旭園にある広島電鉄宮島線の駅である。西日本旅客鉄道（JR西日本）山陽本線「五日市駅」と一体化され、乗換が便利な駅の構造となっている。<br />
+<br />
+== 駅構造 ==<br />
+相対式2面2線のホームを持ち、下りホームに定期券売場がある。<br />
+<br />
+平日の朝ラッシュ時には西広島方面乗り場に、夕方ラッシュ時には宮島口方面乗り場に係員が配置され、運転士、車掌とともに運賃収受を行うため、該当のホームでは進行方向左側すべての扉から降車可能である。<br />
+<br />
+ホームをまたぐ通路があり、JRとの乗換が便利な駅の構造となっている。<br />
+<br />
+佐伯区役所前寄りに渡り線があり、西広島方面からの折り返し運転が可能となっている。2003年（平成<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）のダイヤ改正までは早朝に当駅折返し電車があったが、現在は定期の折り返し列車は存在しない。<br />
+<br />
+== 利用状況 ==<br />
+<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* スパーク五日市駅前店<br />
+* 五日市福屋<br />
+* 広島なぎさ中学校・高等学校<br />
+* なぎさ公園小学校<br />
+<br />
+== 歴史 ==<br />
+もともと<a href="http://localhost/keyword/%E5%BA%83%E9%9B%BB%E4%BA%94%E6%97%A5%E5%B8%82%E9%A7%85">広電五日市駅</a>は国鉄五日市駅と離れていたが、旧佐伯郡五日市町が広島市に編入され広島市佐伯区になった直後に、国鉄五日市駅の駅舎建替えにあわせて当駅を現在地に移転した。なお<a href="http://localhost/keyword/%E5%BA%83%E9%9B%BB%E4%BA%94%E6%97%A5%E5%B8%82%E9%A7%85">広電五日市駅</a>移転後、交通の便を図るため佐伯区役所前駅が新設された。<br />
+* 1<a href="http://localhost/keyword/924%E5%B9%B4">924年</a>（大正<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）4月6日 &#39;五日市町&#39;として開業。<br />
+* 1<a href="http://localhost/keyword/931%E5%B9%B4">931年</a>（昭和<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）2月1日 &#39;電車五日市&#39;に改称。<br />
+* 1<a href="http://localhost/keyword/961%E5%B9%B4">961年</a>（昭和<a href="http://localhost/keyword/36%E5%B9%B4">36年</a>）6月1日 広電五日市に改称。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）3月27日 現在地に移転。<br />
+* 2003年（平成<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）4月20日 ダイヤ改正により、当駅折り返し電車が廃止となる。<br />
+* 200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>（平成<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>）4月 定期券窓口での常備券の取扱いを終了。<br />
+* 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>（平成<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）8月29日 この日以降、午前ラッシュ時（西広島方面行きのりば）・午後ラッシュ時（宮島方面行きのりば）に集札員を配置。<br />
+<br />
+== 隣の駅 ==<br />
+; 広島電鉄<br />
+: 宮島線<br />
+:: 修大附属鈴峯前駅 (<a href="http://localhost/keyword/M27">M27</a>) - &#39;<a href="http://localhost/keyword/%E5%BA%83%E9%9B%BB%E4%BA%94%E6%97%A5%E5%B8%82%E9%A7%85">広電五日市駅</a> (M28)&#39; - 佐伯区役所前駅 (M29)<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+<br />
+Category:広島市の鉄道駅<br />
+ろてんいつかいち<br />
+Category:広島電鉄の鉄道駅<br />
+ひろてんいつかいちえき<br />
+Category:1<a href="http://localhost/keyword/924%E5%B9%B4">924年</a>開業の鉄道駅<br />

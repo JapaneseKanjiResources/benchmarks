@@ -1,0 +1,55 @@
+description<br />
+米坂線<br />
+|キロ程 = 19.4<br />
+|起点駅 = 米沢<br />
+|所在地 = 山形県東置賜郡川西町大字小松<br />
+|座標 = <br />
+|開業年月日 = 1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>（大正<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）9月28日<br />
+|廃止年月日 =<br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|乗車人員 = 70<br />
+|統計年度 = 2001年<br />
+|備考 = 無人駅<br />
+|備考全幅 =<br />
+}}<br />
+ホーム<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E7%8A%AC%E5%B7%9D%E9%A7%85">犬川駅</a>&#39;（いぬかわえき）は、山形県東置賜郡川西町大字小松にある、東日本旅客鉄道（JR東日本）米坂線の駅である。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を有する地上駅。米沢駅管理の無人駅。<br />
+<br />
+== 駅周辺 ==<br />
+* 川西町立犬川小学校<br />
+* 米沢警察署犬川駐在所<br />
+*犬川簡易郵便局<br />
+* 国道287号<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>（大正<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）9月28日 - 米坂線米沢 - 今泉間開通と共に開業。<br />
+* 1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a>（昭和<a href="http://localhost/keyword/57%E5%B9%B4">57年</a>）3月20日 - 無人化<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、東日本旅客鉄道の駅となる。<br />
+* 2000年（平成<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）2月13日 - 現在の駅舎が完成。<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 米坂線<br />
+:: 羽前小松駅 - &#39;<a href="http://localhost/keyword/%E7%8A%AC%E5%B7%9D%E9%A7%85">犬川駅</a>&#39; - 今泉駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=153 JR東日本 <a href="http://localhost/keyword/%E7%8A%AC%E5%B7%9D%E9%A7%85">犬川駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+Category:山形県の鉄道駅<br />
+ぬかわ<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>開業の鉄道駅<br />
+Category:米坂線<br />
+いぬかわえき<br />

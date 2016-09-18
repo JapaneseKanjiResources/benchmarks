@@ -1,0 +1,66 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E3%82%A2%E3%83%AB%E3%82%B7%E3%83%B3">アルシン</a>&#39;<br />
+<br />
+# ヒ素の水素化物。本稿で詳述する。(arsine)<br />
+# 帝政ロシアにおける長さの単位(:ru:аршин)。1  ≒ 0.7112 m<br />
+# カナダのプロボクサー、ヨアキム・<a href="http://localhost/keyword/%E3%82%A2%E3%83%AB%E3%82%B7%E3%83%B3">アルシン</a>。<br />
+----<br />
+<br />
+|   EINECS = 232-066-3<br />
+  }}<br />
+| Section2 = <br />
+| Section3 = <br />
+| Section4 = <br />
+| Section7 = , , , <br />
+|   SPhrases = , , , , , , , , <br />
+|   FlashPt = 可燃性気体<br />
+|   Autoignition = <br />
+  }}<br />
+| Section8 = <br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E3%82%A2%E3%83%AB%E3%82%B7%E3%83%B3">アルシン</a>&#39; (arsine) は、化学式が AsH3 と表されるヒ素と水素の化合物である。&#39;水素化ヒ素&#39; (arsenic hydride)、&#39;ヒ化水素&#39; (hydrogen arsenide) とも呼ばれる。分子量 77.95、CAS登録番号は [7784-42-1]。<br />
+<br />
+== 性質 ==<br />
+* 沸点 -62 ℃<br />
+* 融点 -116 ℃<br />
+<br />
+などに希硫酸を作用させると発生する。<br />
+: Ca3As2 + 3 H2SO4 &amp;rarr; 2 AsH3 + 3 CaSO4<br />
+ニンニクに似た特徴的な臭気を持つ、無色の気体。ニンニク臭は、不純物のテルルによるものとも言われる。熱、光、水分によって分解され、ヒ素と水素を生じる。燃焼すると水及び三酸化ヒ素を生じる。酸化剤と爆発的に反応する。<br />
+<br />
+ヒ素を含む試料に亜鉛と希硫酸を作用させると<a href="http://localhost/keyword/%E3%82%A2%E3%83%AB%E3%82%B7%E3%83%B3">アルシン</a>が発生し、水素ガスと伴に燃焼させて炎を冷たいガラスまたは磁製皿に触れさせると単体のヒ素が付着し、光沢のある「ヒ素鏡」ができる。これはマーシュ法と呼ばれるヒ素の検出法の一つである。<br />
+<br />
+立体構造はアンモニアに近いが、水素の結合角はアンモニアのそれよりも小さく直角に近い。極性溶媒に溶けやすく、有機溶媒に溶けにくいが、極性が弱いため水素結合は作らない。<br />
+<br />
+還元作用を示し、硝酸銀水溶液に通ずると銀を遊離し、その標準酸化還元電位は以下の通りである。<br />
+: As + 3 H+ + 3 e- = AsH3,  &#39;&#39;E&#39;&#39; &amp;ordm; = -0.225 V<br />
+: 2 AsH3 + 12 AgNO3 + 3 H2O &amp;rarr; 12 Ag + As2O3 + 12 HNO3<br />
+<br />
+濃厚な硝酸銀水溶液ではヒ化銀を含む黄色の複塩 Ag3As&amp;middot;3AgNO3 が沈殿する。<br />
+<br />
+猛毒であり、(ACGIH)の勧告による許容濃度は、時間加重平均濃度にて 0.005 ppm。吸入した場合、血液・腎臓に影響があり死に至ることもある。その症状は数時間から数日遅れて現れることもあるため、医学的な経過観察が必要とされる。また引火・爆発しやすいので取り扱いには注意を要する。危険性とその対処については[http://www.nihs.go.jp/ICSC/icssj-c/icss0222c.html 国際化学物質安全性カード]にまとめられている。なお200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>5月現在、リンク先では許容濃度について『0.005 ppm (TWA) への変更を提案中である (ACGIH 2006)。』となっているが、これは ACGIH 2007 にて実際に変更された。<br />
+<br />
+ヒ化ガリウム (GaAs) やヒ化インジウム (InAs) 等の化合物<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>の原料として重要である。<a href="http://localhost/keyword/%E3%82%A2%E3%83%AB%E3%82%B7%E3%83%B3">アルシン</a>を原料としての<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>製造においては、<a href="http://localhost/keyword/%E6%9C%89%E6%A9%9F%E9%87%91%E5%B1%9E%E6%B0%97%E7%9B%B8%E6%88%90%E9%95%B7%E6%B3%95">有機金属気相成長法</a>(MOCVD)やガスソース分子線エピタキシー法(GS-MBE)が用いられる。<br />
+<br />
+シェーレグリーンという顔料をカビやバクテリアで分解すると、<a href="http://localhost/keyword/%E3%82%A2%E3%83%AB%E3%82%B7%E3%83%B3">アルシン</a>が発生する。<br />
+<br />
+== 有機<a href="http://localhost/keyword/%E3%82%A2%E3%83%AB%E3%82%B7%E3%83%B3">アルシン</a> ==<br />
+有機化学において、水素化ヒ素を親化合物とし、一般式が RR1R2As（各置換基は H または有機基）と表される一連の誘導体も<a href="http://localhost/keyword/%E3%82%A2%E3%83%AB%E3%82%B7%E3%83%B3">アルシン</a>と呼ばれる。トリフェニル<a href="http://localhost/keyword/%E3%82%A2%E3%83%AB%E3%82%B7%E3%83%B3">アルシン</a> ((C6H5)3As) など、配位子としての用途がある。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* ホスフィン<br />
+* セレン化水素<br />
+* テルル化水素<br />
+<br />
+<br />
+<br />
+<br />
+Category:<a href="http://localhost/keyword/%E7%84%A1%E6%A9%9F%E5%8C%96%E5%90%88%E7%89%A9">無機化合物</a><br />
+Category:ヒ化物<br />
+Category:水素の化合物<br />
+Category:労働安全<br />
+Category:労働災害<br />
+Category:産業用ガス<br />

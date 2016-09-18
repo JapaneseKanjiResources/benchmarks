@@ -1,0 +1,57 @@
+description<br />
+<br />
+&#39;<a href="http://localhost/keyword/OpenVMS">OpenVMS</a>&#39; (Open Virtual Memory System) は、ディジタル・イクイップメント・コーポレーション （DEC、現在はヒューレット・パッカード） によって設計された、タイムシェアリングシステム、バッチ処理およびトランザクション処理用のオペレーティングシステムである。当初は単に&#39;VMS&#39;と一般的には呼ばれており、元々はVAXシステム上で動作していたが、後にDEC Alphaとインテル Itaniumに移植された。<br />
+20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>、ヒューレット・パッカードは&#39;VMS Software, Inc.&#39;に<a href="http://localhost/keyword/OpenVMS">OpenVMS</a>の将来のリリースを開発する独占的な権利を与えると発表した。<br />
+<br />
+== 経緯 ==<br />
+<br />
+=== 起源と名前の変遷 ===<br />
+1<a href="http://localhost/keyword/975%E5%B9%B4">975年</a>4月、PDP-11用に32ビットの仮想アドレス拡張を設計するために、DECはコードネーム&#39;Star&#39;というハードウェアのプロジェクトを開始した。それに伴って、Starファミリのプロセッサ用にRSX-11Mを基にした全く新しいオペレーティングシステムを開発すべく、コードネーム&#39;Starlet&#39;というデヴィッド・カトラー率いるソフトウェアのプロジェクトも1<a href="http://localhost/keyword/975%E5%B9%B4">975年</a>7月に開始された。これら2つのプロジェクトは当初から緊密に統合されていた。Star・Starletの両プロジェクトは、VAX-11/780コンピュータと&#39;VAX-11/VMS&#39;オペレーティング・システムとして結実した。<br />
+<br />
+年を経るにつれて製品名は変化していった。19<a href="http://localhost/keyword/80%E5%B9%B4">80年</a>にはバージョン2.0のリリースに伴って&#39;VAX/VMS&#39;と改名された&#39;&#39;（同時にVAX-11コンピュータは単にVAXと改名された[最初のVAXコンピュータは1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>発表のVAX8600である]）&#39;&#39;。1<a href="http://localhost/keyword/991%E5%B9%B4">991年</a>には、POSIXやUNIX互換性といった業界標準のサポートを示唆し、さらにはDECの64ビットDEC Alpha RISC CPUへの移植が進行中であったので、特定のアーキテクチャとの繋がりを断ち切るために、&#39;<a href="http://localhost/keyword/OpenVMS">OpenVMS</a>&#39;と再度改名された。<a href="http://localhost/keyword/OpenVMS">OpenVMS</a>の名前はバージョン5.5のリリースとともに最初に登場した。<br />
+<br />
+=== DEC Alphaへの移植 ===<br />
+VMSのDEC Alphaへの移植は、32ビットと64ビットの各アーキテクチャ向けに別々のコードの作成を必要とした。1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a>にはAlpha AXPシステム用の最初のバージョンの<a href="http://localhost/keyword/OpenVMS">OpenVMS</a>がリリースされ、&#39;<a href="http://localhost/keyword/OpenVMS">OpenVMS</a> AXP V1.0&#39;と名づけられた。その後、<a href="http://localhost/keyword/OpenVMS">OpenVMS</a> AXP 1.5がVAX/VMS 5.5相当としてリリースされた。&#39;&#39;（<a href="http://localhost/keyword/OpenVMS">OpenVMS</a> AXPの試作品クオリティのリリースに1.xといったバージョン番号を使用したことは顧客に混乱をもたらし、その後の移植版では繰り返されなかった）<br />
+<br />
+1<a href="http://localhost/keyword/994%E5%B9%B4">994年</a>には、<a href="http://localhost/keyword/OpenVMS">OpenVMS</a>バージョン6.1のリリースに伴って、VAXとAlpha版の機能（とバージョン番号）が同等になった。その後のVAXとAlpha版の製品のバージョン番号は一貫している。<br />
+<br />
+=== Itaniumへの移植 ===<br />
+2001年、DECを買収したコンパックがヒューレット・パッカード (HP) へ吸収される直前に、<a href="http://localhost/keyword/OpenVMS">OpenVMS</a>をインテル Itaniumアーキテクチャへ移植することを発表した。この移植はAlphaのコードを利用して行われ、VAXコードの成熟もあって移植プロセスは大幅に簡略化された。VAXコードベースの「スナップショット」がAlphaリリースの基として使用されたVAX版のAlphaへの移植と異なり、<a href="http://localhost/keyword/OpenVMS">OpenVMS</a>のAlphaとItenium版は共通のコードベースを利用してビルドされている。<br />
+<br />
+最初の試作品クオリティのリリースである&#39;<a href="http://localhost/keyword/OpenVMS">OpenVMS</a> IA64 V8.0&#39;は、2003年に出荷された。最初の製品クオリティのItanium版リリースである&#39;<a href="http://localhost/keyword/OpenVMS">OpenVMS</a> V8.2&#39;は200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>後期に出荷される予定だったが、<a href="http://localhost/keyword/OpenVMS">OpenVMS</a>/Itanium移植版は200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>1月18日に発表された。V8.4でHP Integrity VMのゲストOSとしてサポートされた。<br />
+<br />
+== 機能 ==<br />
+<a href="http://localhost/keyword/OpenVMS">OpenVMS</a>は3つのレイヤに分けることができる:<br />
+* 入出力、メモリ管理およびプロセス管理サブシステムからなるカーネル<br />
+* en:DCL、en:RMS、:en:DECwindows（<a href="http://localhost/keyword/OpenVMS">OpenVMS</a>のX11準拠ウィンドウ・システム）およびen:RTLからなるコア・サービス<br />
+* サポート、システム管理およびプログラミングのためのユーティリティ・プログラム<br />
+<br />
+=== クラスタリング ===<br />
+<a href="http://localhost/keyword/OpenVMS">OpenVMS</a>はクラスタリング （VAXclusterと呼ばれ、後にVMSclusterとなった）をサポートし、これにより、特別なハードウェアまたはイーサネットで接続された複数のシステムが、処理、ジョブ・<a href="http://localhost/keyword/%E3%82%AD%E3%83%A5%E3%83%BC">キュー</a>、プリント・<a href="http://localhost/keyword/%E3%82%AD%E3%83%A5%E3%83%BC">キュー</a>およびディスク・ストレージ、ファイルとファイルレコードを共有することができる。この場合の共有は、分散ロックマネジャを使用したShared Everythingと呼ばれクラスタ内のすべてのシステムから同時にアクセスが可能である。イーサネットによるクラスタは、Local Area Network VMSclusterを意味するLAVCと呼ばれる。<a href="http://localhost/keyword/OpenVMS">OpenVMS</a>は単一クラスタあたり96<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>までサポートし、VAXとAlphaシステム、あるいはAlphaとItaniumシステムが単一のクラスタ内で共存するような混成アーキテクチャ・クラスタもサポートする。（<a href="http://localhost/keyword/OpenVMS">OpenVMS</a> Engieeringは理論上3アーキテクチャクラスタも可能であることを示唆していたが、HPはサポートしない）<br />
+<br />
+=== Common Language Environment ===<br />
+<a href="http://localhost/keyword/OpenVMS">OpenVMS</a>の特筆すべき機能の一つがCommon Language Environmentであり、これはプログラミング言語から独立して、スタックやレジスタの使用も含めた関数やサブ<a href="http://localhost/keyword/%E3%83%AB%E3%83%BC%E3%83%81%E3%83%B3">ルーチン</a>の呼び出し方を定義する、厳格に定められた標準である。これにより、対象となる言語の実装の詳細を知ることなく、ある言語（例えばFORTRAN）で書かれたサブ<a href="http://localhost/keyword/%E3%83%AB%E3%83%BC%E3%83%81%E3%83%B3">ルーチン</a>を他の言語（例えばC言語）から呼び出すことが可能である。<a href="http://localhost/keyword/OpenVMS">OpenVMS</a>自体は多種の異なる言語（BLISS、VAX Macro、Ada、PL/I、C、FORTRAN、BASICなど）によって実装されており、ほぼ全体がC言語によって実装されているUNIXなどのシステムとは対照的である。<br />
+<br />
+=== ファイルシステム ===<br />
+<a href="http://localhost/keyword/OpenVMS">OpenVMS</a>は、ストリームやレコード志向の入出力、アクセス・コントロール・リスト、ファイル・バージョニング等をサポートする非常にリッチなファイルシステムを持っている。:en:<a href="http://localhost/keyword/OpenVMS">OpenVMS</a> filesystemを参照のこと。<br />
+<br />
+=== 時刻の管理 ===<br />
+VMSは、エポックからの経過ナノ秒を64ビットで保持することで時刻を管理している。<a href="http://localhost/keyword/OpenVMS">OpenVMS</a>のエポックは、修正ユリウス日が0となる1<a href="http://localhost/keyword/858%E5%B9%B4">858年</a>11月17日の真夜中である。<br />
+<br />
+== <a href="http://localhost/keyword/OpenVMS">OpenVMS</a> ホビイスト・プログラム ==<br />
+商用オペレーティングシステムでありながら、1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>には<a href="http://localhost/keyword/OpenVMS">OpenVMS</a>ホビイスト・プログラムの一環として、<a href="http://localhost/keyword/OpenVMS">OpenVMS</a>と複数のレイヤ化された製品（レイ<a href="http://localhost/keyword/%E3%83%A4%E3%83%BC%E3%83%89">ヤード</a>・ソフトウェア）が、ホビイストの非商用利用については無料で利用可能となった。それ以降、<a href="http://localhost/keyword/OpenVMS">OpenVMS</a>用ソフトウェアを生産している複数の会社が、自社の製品を同様の条件で利用可能とした。<br />
+<br />
+== 関連項目 ==<br />
+*DECnet<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.vmssoftware.com/ VMS Software, Inc.]<br />
+* [http://www.hp.com/jp/openvms/ 日本HP <a href="http://localhost/keyword/OpenVMS">OpenVMS</a>]<br />
+* [http://h50146.www5.hp.com/products/software/oe/openvms/itanium/ 日本HP <a href="http://localhost/keyword/OpenVMS">OpenVMS</a> on Itanium]<br />
+* [http://www.openvms.org <a href="http://localhost/keyword/OpenVMS">OpenVMS</a>.org]<br />
+* [http://www.openvmshobbyist.com <a href="http://localhost/keyword/OpenVMS">OpenVMS</a> Hobbyist Program]<br />
+<br />
+Category:オペレーティングシステム<br />
+Category:ヒューレット・パッカード<br />
+Category:ディジタル・イクイップメント・コーポレーション<br />
+Category:1<a href="http://localhost/keyword/977%E5%B9%B4">977年</a>のソフトウェア<br />

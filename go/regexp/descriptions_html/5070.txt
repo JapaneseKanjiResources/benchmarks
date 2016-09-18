@@ -1,0 +1,62 @@
+description<br />
+西日本鉄道<br />
+|所属路線 = 宮地岳線<br />
+|キロ程 = 14.2<br />
+|起点駅 = 貝塚<br />
+|所在地 = 福岡県古賀市天神<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面2線<br />
+|開業年月日 = 19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>（大正<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）7月1日<br />
+|廃止年月日 = 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）4月1日<br />
+|乗車人員 =<br />
+|乗降人員 = 716<br />
+|統計年度 = 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a><br />
+|乗換 =<br />
+|備考 =<br />
+}}<br />
+ホーム<br />
+&#39;<a href="http://localhost/keyword/%E8%A5%BF%E9%89%84%E5%8F%A4%E8%B3%80%E9%A7%85">西鉄古賀駅</a>&#39;（にしてつ・こがえき）は、かつて福岡県古賀市天神に存在した、西日本鉄道宮地岳線の駅。車内放送では「西鉄古賀、古賀」と案内されていた。200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>、宮地岳線（現・貝塚線）の一部区間廃止に伴い廃駅となった。<br />
+<br />
+== 歴史 ==<br />
+* 19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>（大正<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）7月1日 - 博多湾鉄道汽船の新古賀駅として開業。<br />
+* 1<a href="http://localhost/keyword/942%E5%B9%B4">942年</a>（昭和<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）9月19日 - 博多湾鉄道汽船が九州電気軌道（のちの西日本鉄道）に合併される。<br />
+* 1<a href="http://localhost/keyword/950%E5%B9%B4">950年</a>（昭和<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）5月15日 - <a href="http://localhost/keyword/%E8%A5%BF%E9%89%84%E5%8F%A4%E8%B3%80%E9%A7%85">西鉄古賀駅</a>に改称。<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）4月1日 - 廃止。<br />
+<br />
+== 駅構造 ==<br />
+島式ホーム1面2線を有する地上駅であった。<br />
+<br />
+== 利用状況 ==<br />
+1日の平均乗車および乗降人員は下表のとおり福岡市統計書 （都市圏の概況） 福岡都市圏の私鉄各駅乗降人員。<br />
+<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+九州旅客鉄道（JR九州）鹿児島本線・JR古賀駅にも近かった。　<br />
+* 古賀中央病院<br />
+* 古賀駅前郵便局<br />
+<br />
+== 隣の駅 ==<br />
+; 西日本鉄道<br />
+: 宮地岳線<br />
+:: 古賀ゴルフ場前駅 - &#39;<a href="http://localhost/keyword/%E8%A5%BF%E9%89%84%E5%8F%A4%E8%B3%80%E9%A7%85">西鉄古賀駅</a>&#39; - 花見駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:福岡県の廃駅<br />
+してつこか<br />
+Category:西日本鉄道の廃駅<br />
+Category:19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>開業の鉄道駅<br />
+Category:200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>廃止の鉄道駅<br />
+にしてつこかえき<br />
+にしてつこかえき<br />

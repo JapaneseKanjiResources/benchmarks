@@ -1,0 +1,76 @@
+description<br />
+<br />
+|preceding1      = ゲーレン機関<br />
+|dissolved       =<br />
+|superseding     =<br />
+|jurisdiction    =  ドイツ連邦共和国政府<br />
+|headquarters    = プラッハとベルリン （20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>より）<br />
+|employees       = 6500人 （20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）<br />
+|budget          = € 552.590.000 （2014）<br />
+|minister1_name  = <br />
+|minister1_pfo   = Bundesminister für besondere Aufgaben<br />
+|chief1_name     = <br />
+|chief1_position = 長官<br />
+|chief2_name     = <br />
+|chief2_position = 副長官<br />
+|chief3_name     = 少将<br />
+|chief3_position = Vizepräsident für militärische Angelegenheiten<br />
+|chief4_name     = グイド・ミュラー (Guido Müller)<br />
+|chief4_position = Vizepräsident für Zentrale Aufgaben und Modernisierung<br />
+|parent_agency   = 連邦首相府<br />
+|child1_agency   =<br />
+|child2_agency   =<br />
+|website         = [http://www.bnd.bund.de/EN/_Home/home_node.html www.bnd.de]<br />
+|footnotes       =<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E9%80%A3%E9%82%A6%E6%83%85%E5%A0%B1%E5%B1%80">連邦情報局</a>&#39;（れんぽうじょうほうきょく）あるいは&#39;連邦情報庁&#39;（れんぽうじょうほうちょう）(; &#39;BND&#39;、英：Federal Intelligence Service) は、ドイツの情報機関である。政治情報と経済情報の収集、その分析と評価を行う。<br />
+<br />
+== 歴史 ==<br />
+1<a href="http://localhost/keyword/955%E5%B9%B4">955年</a>、第二次世界大戦中の対ソ情報機関であるゲーレン機関を基に創設された。<br />
+<br />
+20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>7月、職員の一人がPRISM (監視プログラム)に関する連邦議会の調査活動内容をアメリカに流していたとしてスパイ容疑で検察に逮捕された。<br />
+<br />
+== 組織 ==<br />
+組織上、BNDは連邦官房に従属する。<br />
+<br />
+職員数は7000人以上に達し、そのうち、約2000人が国外での諜報情報の収集に従事している。<br />
+<br />
+BNDの本部は、ミュンヘン郊外のプラッハ・イム・イーザルタールに位置する。本部では、3000人以上の職員が働いている。他の国家組織と同様に、BNDの本部も、ベルリンへの移転が予定されている。<br />
+<br />
+*第1局 - ヒューミント (HUMINT)。<br />
+*第2局 - シギント (SIGINT)。<br />
+*第3局 - 情報分析<br />
+*第4局 - 管理<br />
+*第5局 - 国際テロ対策<br />
+*第6局 - 技術支援<br />
+*第7局 - 教育訓練<br />
+*第8局 - 公安、対諜報<br />
+<br />
+== 歴代長官 ==<br />
+<br />
+<br />
+== BNDが登場する作品 ==<br />
+* 『Z-ツェット-』青池保子<br />
+* 『ハイスクールAG<a href="http://localhost/keyword/ENT">ENT</a>』谷村ひとし<br />
+* 『ゴルゴ13』さいとうたかを<br />
+* 『名探偵コナン 純黒の悪夢』<br />
+<br />
+== 出典 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* BSI (ドイツ)<br />
+* 連邦憲法擁護庁<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.bnd.bund.de/ <a href="http://localhost/keyword/%E9%80%A3%E9%82%A6%E6%83%85%E5%A0%B1%E5%B1%80">連邦情報局</a>公式サイト]<br />
+<br />
+<br />
+<br />
+<br />
+Category:西ドイツ<br />
+Category:ドイツの諜報・情報機関<br />
+Category:ドイツの連邦行政機関<br />
+<br />

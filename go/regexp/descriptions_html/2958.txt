@@ -1,0 +1,79 @@
+description<br />
+<br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/924%E5%B9%B4">924年</a>9月3日<br />
+|廃止年月日 =<br />
+|乗車人員 =<br />
+|乗降人員 =<br />
+|統計年度 =<br />
+|乗換 =<br />
+|備考 = 無人駅（自動券売機 有）<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E5%B9%B3%E7%A3%AF%E9%A7%85">平磯駅</a>&#39;（ひらいそえき）は、茨城県ひたちなか市平磯町にあるひたちなか海浜鉄道湊線の駅である。<br />
+<br />
+== 駅構造 ==<br />
+単式1面1線のホームを持つ。<br />
+<br />
+1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>に当時直営スーパーだった茨城交通デーリーストア平磯店が入った複合駅舎に改築され、駅舎はスーパー<a href="http://localhost/keyword/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88">マーケット</a>の一角にある形態だった。茨城交通がスーパー事業から撤退したあと、店舗は他社に譲渡され、スーパーが営業していたが、その後撤退し閉鎖された。駐車場跡地は住宅地となった。駅舎は20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>に再び改装され、店舗跡は同年10月上旬に撤去作業が完了。ホームをバリアフリー対応とし、駐輪場やトイレが設置された。<br />
+<br />
+かつては交換可能駅で対向式ホームであったが、1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>の駅舎改築時に駅用地の一部が店舗用地となり、ホームも改築されたため、当時の面影はない。<br />
+<br />
+<br />
+ファイル:Hiraiso-eki02.JPG|ホームから磯崎駅方面を望む(20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>9月)<br />
+ファイル:Hiraiso-eki03.JPG ‎|ホームより殿山駅方面を望む(20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>9月)<br />
+ファイル:Hiraokaeki-ekihyou.JPG|駅名標(200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>10月24日)<br />
+<br />
+<br />
+== 利用状況 ==<br />
+* <a href="http://localhost/keyword/%E5%B9%B3%E7%A3%AF%E9%A7%85">平磯駅</a>の利用状況の変遷を下表に示す。<br />
+** 輸送実績（乗車人員）の単位は人であり、年度での総計値を示す。年度間の比較に適したデータである。<br />
+** 乗降人員調査結果は任意の1日における値（単位：人）である。調査日の天候・行事等の要因によって変動が大きいので年度間の比較には注意を要する。<br />
+** 表中、最高値を赤色で、最高値を記録した年度以降の最低値を青色で、最高値を記録した年度以前の最低値を緑色で表記している。<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* ひたちなか市立平磯小学校<br />
+* 平磯郵便局<br />
+* 平磯海水浴場<br />
+* 水産加工団地<br />
+<br />
+== 歴史 == <br />
+* 1<a href="http://localhost/keyword/924%E5%B9%B4">924年</a>（大正<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）9月3日 - 湊鉄道の駅として開業。<br />
+* 1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>（昭和<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）8月1日 - 交通統合により、茨城交通の駅となる。 <br />
+*1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>（昭和<a href="http://localhost/keyword/45%E5%B9%B4">45年</a>）10月1日 - <a href="http://localhost/keyword/%E5%B9%B3%E7%A3%AF%E9%A7%85">平磯駅</a>、磯崎駅が車扱貨物廃止<br />
+*1<a href="http://localhost/keyword/977%E5%B9%B4">977年</a>（昭和<a href="http://localhost/keyword/52%E5%B9%B4">52年</a>）12月16日 - <a href="http://localhost/keyword/%E5%B9%B3%E7%A3%AF%E9%A7%85">平磯駅</a>、磯崎駅が無人化、自動券売機設置『湊線百年史』ひたちなか海浜鉄道、20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>、309頁<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）- スーパー<a href="http://localhost/keyword/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88">マーケット</a>との合築駅舎となる。<br />
+* 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>（平成<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）4月1日 - 茨城交通が湊線をひたちなか海浜鉄道に移管。ひたちなか海浜鉄道の駅となる。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>） - 駅舎が再改装され、同年10月、現在の施設となる。<br />
+<br />
+ファイル: Hiraisoeki.JPG|旧駅舎(200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>10月24日)<br />
+ファイル:Hiraisoeki-homeiriguti.JPG ‎ |ホーム入口(200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>10月24日)<br />
+ファイル:Minatosen Hiraiso eki 1.jpg|<a href="http://localhost/keyword/%E5%B9%B3%E7%A3%AF%E9%A7%85">平磯駅</a>(200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>08月02日)<br />
+<br />
+<br />
+== 隣の駅 ==<br />
+; ひたちなか海浜鉄道<br />
+: 湊線<br />
+:: 殿山駅 - &#39;<a href="http://localhost/keyword/%E5%B9%B3%E7%A3%AF%E9%A7%85">平磯駅</a>&#39; - 磯崎駅<br />
+== 脚注 ==<br />
+<br />
+== 関連項目 ==<br />
+<br />
+*日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.hitachinaka-rail.co.jp/station/hiraiso.html <a href="http://localhost/keyword/%E5%B9%B3%E7%A3%AF%E9%A7%85">平磯駅</a>] - ひたちなか海浜鉄道<br />
+<br />
+<br />
+<br />
+<br />
+らいそ<br />
+Category:ひたちなか市の鉄道駅<br />
+Category:ひたちなか海浜鉄道の鉄道駅<br />
+Category:茨城交通<br />
+Category:1<a href="http://localhost/keyword/924%E5%B9%B4">924年</a>開業の鉄道駅<br />

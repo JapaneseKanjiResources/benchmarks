@@ -1,0 +1,144 @@
+description<br />
+<br />
+<br />
+|所在地 = 福井県敦賀市明神町1番地<br />
+|緯度度 = 35|緯度分 = 45|緯度秒 = 02<br />
+|経度度 = 136|経度分 = 01|経度秒 = 11<br />
+|公式サイト = [http://www.japc.co.jp/plant/tsuruga/dai1top.html 日本原子力発電 <a href="http://localhost/keyword/%E6%95%A6%E8%B3%80%E7%99%BA%E9%9B%BB%E6%89%80">敦賀発電所</a>1号機][http://www.japc.co.jp/plant/tsuruga/dai2top.html 日本原子力発電 <a href="http://localhost/keyword/%E6%95%A6%E8%B3%80%E7%99%BA%E9%9B%BB%E6%89%80">敦賀発電所</a>2号機]<br />
+|出力1 = 35.7万<br />
+|燃料1 = 低濃縮ウラン<br />
+|燃料使用量1 = 52<br />
+|冷却水1 =<br />
+|冷却水使用量1 =<br />
+|排水方式1 =<br />
+|着工日1 = 1<a href="http://localhost/keyword/966%E5%B9%B4">966年</a>4月22日<br />
+|営業運転開始日1 = 1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>3月14日（20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>4月27日廃炉）<br />
+|出力2 = 116万<br />
+|燃料2 = 低濃縮ウラン<br />
+|燃料使用量2 = 89<br />
+|冷却水2 =<br />
+|冷却水使用量2 =<br />
+|排水方式2 =<br />
+|着工日2 = 1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a>4月20日<br />
+|営業運転開始日2 = 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>2月17日<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E6%95%A6%E8%B3%80%E7%99%BA%E9%9B%BB%E6%89%80">敦賀発電所</a>&#39;（つるがはつでんしょ）は、福井県敦賀市明神町にある日本原子力発電の原子力発電所。1号機は日本最初の軽水炉で、商用炉として最初に発電を開始した同じ日本原子力発電の東海発電所に続く2番目の商用発電所である。20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>1月の時点で1号炉は世界で7番目に古かった。<br />
+<br />
+== 施設概要 ==<br />
+通称は「&#39;げんでん敦賀&#39;」。敦賀半島北部に位置する原子力発電所で、福井県で初めて開設された発電所でもある。また日本原子力研究開発機構の新型転換炉「ふげん」（廃炉）が<a href="http://localhost/keyword/%E6%95%A6%E8%B3%80%E7%99%BA%E9%9B%BB%E6%89%80">敦賀発電所</a>に隣接している。この他、<a href="http://localhost/keyword/%E6%95%A6%E8%B3%80%E7%99%BA%E9%9B%BB%E6%89%80">敦賀発電所</a>から20km圏内には、日本原子力研究開発機構の高速増殖炉「もんじゅ」や関西電力の美浜発電所も位置している。<br />
+<br />
+発電所施設は敦賀半島東側の浦底湾に面しており、発電所近くにはPR施設「敦賀原子力館」が設置されている。また<a href="http://localhost/keyword/%E6%95%A6%E8%B3%80%E7%99%BA%E9%9B%BB%E6%89%80">敦賀発電所</a>は、日本で唯一沸騰水型軽水炉と加圧水型軽水炉の形式が異なる2種類の原子炉を運用している発電所でもある。<br />
+<br />
+<a href="http://localhost/keyword/%E6%95%A6%E8%B3%80%E7%99%BA%E9%9B%BB%E6%89%80">敦賀発電所</a>で発電された電力は、関西・中部・北陸の各電力会社へ売電されている。<br />
+<br />
+== 沿革 ==<br />
+=== 立地決定まで ===<br />
+日本原子力発電（以下「原電」）の発電所は当初、旧坂井郡川西町（現福井市）の三里浜地区に建設される予定であったが、地質上、発電所建設に向かないものとして川西町内での設置を断念し、敦賀半島で建設計画が進められた。<br />
+* 1<a href="http://localhost/keyword/961%E5%B9%B4">961年</a>9月18日 - 川西町議会、三里浜地区に原電第2発電所の誘致を決議。<br />
+* 1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>3月3日 - 福井県議会、三里浜地区に発電所誘致を決議。<br />
+* 1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>5月 - 当時の福井県知事北栄造、敦賀市長および美浜町長に発電所計画への協力を依頼。翌月、原電は三里浜地区への建設を正式に断念。<br />
+* 1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>9月21日 - 敦賀市議会、原子力発電所の誘致を決議。<br />
+* 1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>11月9日 - <a href="http://localhost/keyword/%E6%95%A6%E8%B3%80%E7%99%BA%E9%9B%BB%E6%89%80">敦賀発電所</a>建設予定地を敦賀半島尖端部に決定。調査していた敦賀市と美浜町の2地点のうち、敦賀市側は原電、美浜町側は関西電力が開発を進めることを決定。<br />
+<br />
+=== 発電所開設・運転開始まで ===<br />
+* 1<a href="http://localhost/keyword/965%E5%B9%B4">965年</a>1月19日 - 原電、第2発電所の名称を&#39;<a href="http://localhost/keyword/%E6%95%A6%E8%B3%80%E7%99%BA%E9%9B%BB%E6%89%80">敦賀発電所</a>&#39;にすることを決定。<br />
+* 1<a href="http://localhost/keyword/965%E5%B9%B4">965年</a>10月11日 - 1号機の原子炉設置許可申請。<br />
+* 1<a href="http://localhost/keyword/966%E5%B9%B4">966年</a>4月22日 - <a href="http://localhost/keyword/%E6%95%A6%E8%B3%80%E7%99%BA%E9%9B%BB%E6%89%80">敦賀発電所</a>原子炉設置許可、<a href="http://localhost/keyword/%E6%95%A6%E8%B3%80%E7%99%BA%E9%9B%BB%E6%89%80">敦賀発電所</a>建設工事着工。<br />
+* 1<a href="http://localhost/keyword/966%E5%B9%B4">966年</a>5月14日 - 1号機の購入契約を米国GE社と締結。<br />
+* 19<a href="http://localhost/keyword/69%E5%B9%B4">69年</a>10月3日 - 1号機、初臨界に達する。<br />
+* 1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>3月14日 - <a href="http://localhost/keyword/%E6%95%A6%E8%B3%80%E7%99%BA%E9%9B%BB%E6%89%80">敦賀発電所</a>営業運転開始。<br />
+<br />
+=== 発電所開設以降 ===<br />
+* 1<a href="http://localhost/keyword/979%E5%B9%B4">979年</a>10月3日 - 2号機の原子炉設置変更許可を申請。<br />
+* 1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a>4月18日 - 1号機内の一般排水路から放射性物質漏えい事故が発生した。<br />
+* 1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a>6月17日 - 通商産業省、1号機に対し6か月の運転停止を命令。<br />
+* 1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a>4月20日 - 2号機、本工事に着手。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>2月17日 - 2号機、営業運転開始。<br />
+* 19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>3月19日 - 敦賀市議会、3号機・4号機増設の陳情を決議。<br />
+* 19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>12月6日 - 敦賀市議会、原子炉増設に対する住民投票条例案を否決。<br />
+* 200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>1月17日 - 原電、環境影響評価書を福井県などに提出。翌月、第1次公開ヒアリングが開催された。<br />
+* 200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>8月2日 - 3号機および4号機、国の電源開発基本計画への組み入れを決定。<br />
+* 200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>3月30日 - 3号機および4号機の原子炉設置変更許可を申請。<br />
+* 200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>7月2日 - 3号機および4号機の準備工事に着手。<br />
+* 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>3月17日 - 1号機の廃炉を決定[http://www.nikkei.com/article/DGXLASDZ17H5W_X10C15A3MM0000/ 関電、美浜2基の廃炉決定 日本原電の敦賀1号機も] - 日本経済新聞。<br />
+* 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>4月27日 - 1号機が法的に正式に廃止の方針が発表された[http://mainichi.jp/select/news/20150427k0000m020080000c.html 老朽原発:4基が27日廃止…美浜原発など、40年ルール] 毎日新聞 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>4月27日。<br />
+<br />
+== 発電設備 ==<br />
+<br />
+3、4号機は、三菱重工業が世界で初めて開発する改良型加圧水型軽水炉が導入される予定。また、<a href="http://localhost/keyword/%E6%95%A6%E8%B3%80%E7%99%BA%E9%9B%BB%E6%89%80">敦賀発電所</a>で想定される地震の強さは800Gal、津波の高さは2.8m『新潮45別冊 日本の原発』 - 新潮社（20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>） 46ページ記載。。<br />
+<br />
+各発電設備の売電割合は次の通り『北陸電力<a href="http://localhost/keyword/50%E5%B9%B4">50年</a>史』 - 北陸電力（2001年発行）。<br />
+* 1号機 - 関西電力：50%、中部電力：40%、北陸電力：10%<br />
+* 2号機 - 北陸電力：34%、関西電力・中部電力：各33%<br />
+<br />
+== 敦賀1号炉と大阪万博 ==<br />
+日本最古の軽水炉と知られる敦賀1号炉は大阪万博の開会式の日に営業運転を開始し、万博会場へ初送電したことでも知られる。開会式のときには「原子力の灯がこの万博会場へ届いた」とアナウンスされ日本の原子力へのパイオニアとなった[http://www.jnes.go.jp/tokushu/taiwa2/<a href="http://localhost/keyword/keyword">keyword</a>02.html 原子の灯 独立行政法人原子力安全基盤機構]。これは日本とGEの技術者が万博へ原子力の灯を送りたいとの想いがあったとされる[http://www.yomiuri.co.jp/e-japan/fukui/kikaku/002/3.htm 9基の原発始動＜3＞ 読売新聞が見つめた 福井<a href="http://localhost/keyword/50%E5%B9%B4">50年</a>]。初臨界を達成したのち、スクラムなどの様々な試験を行った後、1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>の3月10日午前12時より連続100時間全力試運転を行い、3月14日午前4時に営業運転の条件である100時間全出力運転の目標を達成、大阪万博に間に合わせる形でそのまま営業運転に入った[http://non-chan.sakura.ne.jp/Okkiimono/Tower/Tower_01b.htm 発電諸事情]。このとき、原発中の何人かの職員が中央制御室に集まり、目標達成したとき万歳三唱の後皆が涙を流したという。<br />
+<br />
+この後、また美浜発電所1号炉も追いかける形で8月に大阪万博へ電気を送った。8月8日に1万kw発電を行い、万博会場へ初の送電。このときも電光<a href="http://localhost/keyword/%E6%8E%B2%E7%A4%BA%E6%9D%BF">掲示板</a>に「美浜発電所からの原子力の灯が会場に届いた」と表示、またアナウンスされ話題となっている。その後様々な試験を行い、11月に営業運転に入っている。<br />
+<br />
+なお敦賀、美浜両機とも、沸騰水型（敦賀）、加圧水型（美浜）とそれぞれ炉形式上の日本最古の軽水炉となっていたが、敦賀の1号機は20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>4月27日に廃炉された。<br />
+<br />
+== リスク ==<br />
+<a href="http://localhost/keyword/%E6%95%A6%E8%B3%80%E7%99%BA%E9%9B%BB%E6%89%80">敦賀発電所</a>1、2号機の敷地内には破砕帯(古くもろい断層)が、少なくとも約160本存在する。また、活断層の浦底―柳ケ瀬山断層帯（浦底断層）が通っている[http://www.chunichi.co.jp/article/column/editorial/CK2012042602000086.html 中日新聞:敦賀の活断層 全原発で見直すべきだ:社説] 中日新聞、2012-4-26。また、2号機の真下にある亀裂も活断層である可能性があり、原子力安全・保安院は調査を求めた。なお、国の原子力発電所の耐震設計指針によると、活断層の真上に重要設備の設置は認められていない。すなわち、この亀裂が活断層と確定すれば、2号機は廃炉とされる可能性がある[http://www3.nhk.or.jp/news/html/20120425/k10014691941000.html 敦賀原発の地下に活断層の可能性]NHK, 2012-4-25。<br />
+<br />
+20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>後半から敦賀原発の敷地の地層を調査していた原子力規制委員会の<a href="http://localhost/keyword/%E5%B0%82%E9%96%80%E5%AE%B6">専門家</a>チームは12月1日、浦底断層について「非常に活動的」との見方でほぼ一致した[http://www.yomiuri.co.jp/feature/20<a href="http://localhost/keyword/110">110</a>316-866922/news/20121201-OYT1T00933.htm 敦賀原発活断層「非常に活動的」…規制委<a href="http://localhost/keyword/%E5%B0%82%E9%96%80%E5%AE%B6">専門家</a>] 読売新聞、2012-12-1。<br />
+<br />
+20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>12月10日、原子力規制委員会の<a href="http://localhost/keyword/%E5%B0%82%E9%96%80%E5%AE%B6">専門家</a>調査団が原子炉直下にある断層（破砕帯）を活断層の可能性が高いと判定した､[http://www.nsr.go.jp/committee/yuushikisya/tsuruga_hasaitai/20121210.html <a href="http://localhost/keyword/%E6%95%A6%E8%B3%80%E7%99%BA%E9%9B%BB%E6%89%80">敦賀発電所</a>敷地内破砕帯の調査に関する有識者会合 評価会合 平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>12月10日] 原子力規制委員会[http://www.iza.ne.jp/news/newsarticle/event/accident/6<a href="http://localhost/keyword/135">135</a>34/]敦賀原発 断層、活断層の可能性高い 委員長「今のままでは再稼働できず」。<br />
+<br />
+20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>5月15日、原子力規制委員会の<a href="http://localhost/keyword/%E5%B0%82%E9%96%80%E5%AE%B6">専門家</a>調査団は2号機直下にある断層（破砕帯）は「活断層である」と断定する評価報告書を正式にまとめた。2号機は廃炉に向かう可能性が濃厚となった[http://www.yomiuri.co.jp/science/news/20130515-OYT1T00922.htm 敦賀原発2号機直下、活断層と断定…廃炉濃厚に]。<br />
+<br />
+20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>4月27日、1号機が法的に正式に廃止の方針が発表された<br />
+<br />
+==過去の主なトラブル==<br />
+* 1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a>4月<br />
+** 福井県の定期モニタリング調査で、海藻から異常に高い放射能が検出された。調査の結果、<a href="http://localhost/keyword/%E6%95%A6%E8%B3%80%E7%99%BA%E9%9B%BB%E6%89%80">敦賀発電所</a>一号機の一般排水溝から放射性物質が漏洩したことが分かった。漏れた放射性物質はコバルト60であり、平常時の約10倍の量が検出された。さらに調査を進めたところ、一般排水路の出口に積もった土砂からも高濃度のコバルト60とマンガン54が検出された。しかし、一般排水路は放射能とは関係のない配水系統であり、ここからは放射性物質が検出されるはずがない場所であった。結局、放射性物質が検出された原因は、原子力安全委員会の調査によると放射性廃棄物処理旧建屋の設計・施工管理上の問題に、運転上のミスが重なったからとされた。<br />
+** しかし、コバルト60とマンガン54が検出された原因は、この漏出が判明する前月に大量の放射性廃液がタンクからあふれるという事故が起きていたからであった。そして<a href="http://localhost/keyword/%E6%95%A6%E8%B3%80%E7%99%BA%E9%9B%BB%E6%89%80">敦賀発電所</a>はその事実を隠蔽していたことも同時に明らかとなった。つまりいわゆる「事故隠し」が行われていたのであった。この「事故隠し」によって、これ以降の日本での原子力発電に対する不信感が大きく芽生えるきっかけになったと考えられている『原発国民世論 －世論調査に見る原子力意識の変遷－』 柴田鐵治、友清裕昭 ERC出版 19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a> ISBN 4900622168「事故隠し」については、『原発国民世論』の中で著者が「この敦賀原発事故は、終わってみれば「&#39;敦賀原発事故隠し事件&#39;」とでも呼んだ方が正確かも知れない」と厳しく批判している。なお、事故隠しについては原子力発電の事故隠し・データ改ざん一覧を参照のこと。<br />
+<br />
+* 1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>10月24日、敦賀1号機、制御棒1本の動作不良で原子炉手動停止。国際原子力事象評価尺度（INES）はレベル1。<br />
+* 19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>7月12日、敦賀2号機の再生熱交換器から大量の1次冷却水漏れ。原子炉手動停止。国際原子力事象評価尺度（INES）はレベル1。『原子力市民年鑑 2013』 - 七ツ森書館（20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>） 239ページ記載<br />
+* 20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>7月21日、日本原子力発電は、敦賀1号機で、再循環ポンプなどの溶接部分について点検が一度も行われていなかったことが明らかになったと発表した。その溶接部分は、冷却水を炉心に送り込む原子炉再循環ポンプや原子炉圧力の排水用配管の弁などである。第33回定期検査（20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>に実施する予定）で再循環ポンプ系の配管を取り替える工事の準備段階で判明したという。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>1月24日、経済産業省の原子力安全・保安院は、敦賀1号機で、複数ある緊急炉心冷却システムの1つが機能しない状態で約1か月間運転していたとして、日本原子力発電を厳重注意した20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>1月25日付朝日新聞37面。20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>12月の検査時には正常に動作していたが、20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>1月の検査では正常に動かなかった。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>5月2日、敦賀2号機の1次冷却水で放射能濃度上昇。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>5月7日、敦賀2号機原子炉手動停止。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>5月9日、敦賀2号機 放射性ガス漏洩。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>6月3日、日本原子力発電は、敦賀2号機で5月8日に排気筒から微量の放射性ガスが漏れた問題で、放射性ガスが通る配管に33カ所の微小な穴が開いていたこと、及び、1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>の運転開始以来、この配管の点検をしていなかったことを明らかにした。<br />
+<br />
+== 延命措置 ==<br />
+日本最古の商用炉である1号機は、本来、200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>12月に役割を終え廃炉にする予定であったが、3号機および4号機の設置が遅れたことから運転期間の延長が模索されてきた。日本原子力発電は、老朽化を踏まえた保守管理方針を策定した上で、運転の継続を経済産業省原子力安全・保安院に申請。200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>8月3日に申請が認められたことから、20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>までの延長運転に備えた準備が進められていた。<br />
+<br />
+しかし、情勢の変化などにより20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>4月27日に1号機は廃止となった。<br />
+今後は廃炉に向けた準備措置や作業が行われる予定となっている。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 参考文献 ==<br />
+; 沿革<br />
+* 『福井県の原子力』 - 福井県原子力安全対策課（福井原子力センター著、200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>発行）<br />
+; 発電設備諸元<br />
+* 『AERA臨時増刊 原発と日本人 100人の証言』 - 朝日新聞出版（20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>） JANコード 4910210190513<br />
+* 『新潮45別冊 日本の原発』 - 新潮社（20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>） JANコード 4910049380512<br />
+* 『原子力市民年鑑 2013』 - 七つ森書館（20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>） ISBN 9784822813789<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 原子力発電の事故隠し・データ改ざん一覧<br />
+* 原子力事故<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>敦賀市長選挙<br />
+*日本原子力発電‐運用会社<br />
+*敦賀市‐立地自治体<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.japc.co.jp/plant/tsuruga/dai1top.html 日本原子力発電 <a href="http://localhost/keyword/%E6%95%A6%E8%B3%80%E7%99%BA%E9%9B%BB%E6%89%80">敦賀発電所</a>1号機]<br />
+* [http://www.japc.co.jp/plant/tsuruga/dai2top.html 日本原子力発電 <a href="http://localhost/keyword/%E6%95%A6%E8%B3%80%E7%99%BA%E9%9B%BB%E6%89%80">敦賀発電所</a>2号機]<br />
+* [http://www.nsr.go.jp/jimusho/tsuruga/ <a href="http://localhost/keyword/%E6%95%A6%E8%B3%80%E7%99%BA%E9%9B%BB%E6%89%80">敦賀発電所</a>] 原子力規制委員会<br />
+<br />
+<br />
+<br />
+<br />
+Category:日本の原子力発電所<br />
+Category:福井県の発電所<br />
+Category:敦賀市<br />
+Category:沸騰水型軽水炉の原子力発電所<br />
+Category:加圧水型原子炉の原子力発電所<br />
+Category:廃炉中の日本の原子力発電所<br />

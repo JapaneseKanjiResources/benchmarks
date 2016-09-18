@@ -1,0 +1,68 @@
+description<br />
+<br />
+| 所在地 = オーストラリア首都特別地域<br />
+| 母都市 = キャンベラ<br />
+| 種類 = 公営<br />
+| 所有者 = <br />
+| 運営者 = キャピタル空港グルーブ[http://www.canberraairport.com.au/air_aboutAirport/board.cfm Capital Airport Group Pty Ltd], canberraairport.com.au<br />
+| 開港 = <br />
+| 閉鎖 = <br />
+| 拠点航空会社 = <br />
+| 標高 m = 575<br />
+| 標高 ft = <br />
+| 座標 = <br />
+| ウェブサイト = [http://www.canberraairport.com.au/ www.canberraairport.com.au]<br />
+| 緯度度 =  35 | 緯度分 = 18 | 緯度秒 = 25 | 緯度NS = S<br />
+| 経度度 = 149 | 経度分 = 11 | 経度秒 = 42 | 経度EW = E<br />
+| 座標地域 = AU-<a href="http://localhost/keyword/ACT">ACT</a><br />
+| 地図名 = Australian Capital Territory<br />
+| 地図ラベル = YSCB<br />
+| 地図サイズ = 250px<br />
+| 地図説明 = オーストラリア首都特別地域の位置<br />
+| 滑走路1方向 = 17/35<br />
+| 滑走路1長さ m = 3,283<br />
+| 滑走路1幅 m = <br />
+| 滑走路1表面 = アスファルト<br />
+| 滑走路2方向 = 12/30<br />
+| 滑走路2長さ m = 1,679<br />
+| 滑走路2幅 m = <br />
+| 滑走路2表面 = アスファルト<br />
+| 統計年 = 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a><br />
+| 旅客数 = 3,206,103人<br />
+| 貨物取扱量 = <br />
+| 発着回数 = 43,316回<br />
+| 脚注 = 出典: オーストラリア航空路誌およびaerodrome chart, [http://www.airservicesaustralia.com/aip/current/dap/SCBAD01-130.pdf Aeronautical Chart]旅客数および発着回数はインフラ交通省より<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%99%E3%83%A9%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF">キャンベラ国際空港</a>&#39;（-こくさいくうこう、&#39;Canberra International Airport&#39;）はオーストラリアの首都キャンベラの東部近郊に位置する空港である。建設地点が決定されてまもなく、1<a href="http://localhost/keyword/920%E5%B9%B4">920年</a>代に敷かれた古い滑走路から整備されてきた。<br />
+<br />
+現在、同空港はオーストラリア首都特別地域を取り囲むニューサウスウェールズ州南部の主要な空港であり、オルベリー、ニューカッスル、ブリスベン、ゴールドコースト、メルボルン、アデレード、パースにノンストップ便が就航している。カンタス航空は主にシドニーへのコードシェア便を提携会社に提供し、同空港の「国際」空港としての面目を守っている。国際チャーター便や国賓も時おり飛来する。200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>、フィジーへの定期便が短期間就航したことがあるが、現在は国際直行定期便はない。<br />
+<br />
+現在、同空港はメルボルン空港およびシドニーのキングスフォード・スミス国際空港の気象条件により着陸が制限される場合の代替着陸地として利用されることがある。<br />
+<br />
+同空港へのアクセス公共交通機関は、タクシー、シャトルバスなどがある。<br />
+<br />
+== 就航路線 ==<br />
+*アデレード<br />
+*ブリスベン<br />
+*メルボルン<br />
+*シドニー<br />
+*ゴールドコースト<br />
+*パース<br />
+*オルベリー<br />
+*ホバート<br />
+*タウンズビル<br />
+*コフス・ハーバー<br />
+*ニューカッスル<br />
+*ポート・マックォーリー<br />
+<br />
+==脚注==<br />
+<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.canberraairport.com.au/ Canberra International Airport（英語版）]<br />
+<br />
+<br />
+きやんへら<br />
+きやんへら<br />
+きやんへら<br />

@@ -1,0 +1,87 @@
+description<br />
+只見線<br />
+|キロ程     = 11.3<br />
+|起点駅     = 会津若松<br />
+|所在地幅   = long<br />
+|所在地     = 福島県<a href="http://localhost/keyword/%E5%A4%A7%E6%B2%BC%E9%83%A1">大沼郡</a>会津美里町字柳台甲2332<br />
+|座標       = <br />
+|開業年月日 = 1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>（大正<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）10月15日<br />
+|廃止年月日 = <br />
+|駅構造     = 地上駅<br />
+|ホーム     = 1面1線<br />
+|乗車人員   = 312<br />
+|統計年度   = 200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a><br />
+|備考       = 無人駅<br />
+|備考全幅   = <br />
+}}<br />
+<br />
+<a href="http://localhost/keyword/%E4%BC%9A%E6%B4%A5%E9%AB%98%E7%94%B0%E9%A7%85">会津高田駅</a>ホームから撤去された線路をのぞむ（200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>5月）<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E4%BC%9A%E6%B4%A5%E9%AB%98%E7%94%B0%E9%A7%85">会津高田駅</a>&#39;（あいづたかだえき）は、福島県<a href="http://localhost/keyword/%E5%A4%A7%E6%B2%BC%E9%83%A1">大沼郡</a>会津美里町字柳台甲にある、東日本旅客鉄道（JR東日本）只見線の駅である。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を有する地上駅。かつては相対式ホーム2面2線を有する行き違いが可能な駅であり、跨線橋も有していたが、小出方面を向いて右側に当たる1面1線と跨線橋は撤去された。<br />
+<br />
+会津坂下駅管理の無人駅となっているが、破損行為が多発したため防犯カメラが設置されている。駅舎は2000年1月に会津本郷駅や新鶴駅と同じ開放的で簡易な待合所に建て替えられた。<br />
+<br />
+== 利用状況 ==<br />
+200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>度の乗車人員は、1日平均312人[https://www.pref.fukushima.lg.jp/uploaded/attachment/20826.xls 第120回福島県統計年鑑]。<br />
+<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+旧会津高田町の中心部にあたる。<br />
+* 伊佐須美神社 - 駅から約1.6km。境内にあやめ苑がある。<br />
+* 会津美里町役場（旧・会津高田町役場）<br />
+* 会津若松警察署会津美里分庁舎<br />
+* 安田前簡易郵便局<br />
+* 会津高田郵便局<br />
+* 高田厚生病院<br />
+* ＪＡ会津よつば高田支店<br />
+* 福島県立大沼高等学校<br />
+* 宮川<br />
+* 国道401号<br />
+* 福島県道22号会津坂下会津高田線<br />
+* 福島県道53号会津高田柳津線<br />
+* 福島県道130号会津高田会津本郷線<br />
+* 福島県道152号橋本会津高田線<br />
+* 福島県道220号会津高田停車場線<br />
+* 高田温泉「あやめの湯」 - 温泉。<br />
+* 上戸原鉱泉 - 温泉。<br />
+* 松沢の湯 - 温泉。<br />
+<br />
+== バス路線 ==<br />
+* 会津バス<br />
+** 会津若松駅 - <a href="http://localhost/keyword/%E8%A5%BF%E8%8B%A5%E6%9D%BE%E9%A7%85">西若松駅</a> - &#39;<a href="http://localhost/keyword/%E4%BC%9A%E6%B4%A5%E9%AB%98%E7%94%B0%E9%A7%85">会津高田駅</a>&#39; - 永井野<br />
+** 会津若松駅 - 年貢町西 - &#39;<a href="http://localhost/keyword/%E4%BC%9A%E6%B4%A5%E9%AB%98%E7%94%B0%E9%A7%85">会津高田駅</a>&#39; - 永井野<br />
+バスは駅に入らず、駅から100M程離れた国道401号線上の「高田駅前」に発着する。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>（大正<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）10月15日 - 一般駅として開業。<br />
+* 1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>（昭和<a href="http://localhost/keyword/46%E5%B9%B4">46年</a>）8月29日 - 貨物取り扱い廃止。<br />
+* 1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>（昭和<a href="http://localhost/keyword/59%E5%B9%B4">59年</a>）2月1日 - 荷物取り扱い廃止。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、JR東日本に継承。<br />
+* 19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>（平成3年）12月1日 -交換設備を廃止し無人化。<br />
+* 2000年（平成<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）1月 - 現在の駅舎が竣工する。<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 只見線<br />
+:: 会津本郷駅 - &#39;<a href="http://localhost/keyword/%E4%BC%9A%E6%B4%A5%E9%AB%98%E7%94%B0%E9%A7%85">会津高田駅</a>&#39; - 根岸駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+* 男はつらいよ 柴又より愛をこめて - 冒頭、寅次郎が夢から覚めるシーンの舞台となった。<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=7 JR東日本 <a href="http://localhost/keyword/%E4%BC%9A%E6%B4%A5%E9%AB%98%E7%94%B0%E9%A7%85">会津高田駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+Category:福島県の鉄道駅<br />
+いつたかた<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>開業の鉄道駅<br />
+あいつたかたえき<br />

@@ -1,0 +1,55 @@
+description<br />
+<br />
+|駅構造     = 地上駅<br />
+|ホーム     = 1面1線<br />
+|開業年月日 = 19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>（平成<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）10月1日<br />
+|廃止年月日 = <br />
+|乗車人員   = <br />
+|乗降人員   = <br />
+|統計年度   = <br />
+|乗換       = <br />
+|備考       = 無人駅<br />
+}}<br />
+駅名標<br />
+&#39;<a href="http://localhost/keyword/%E6%96%B0%E8%B1%8A%E6%B4%A5%E9%A7%85">新豊津駅</a>&#39;（しんとよつえき）は、福岡県京都郡みやこ町彦徳にある平成筑豊鉄道田川線の駅である。<br />
+<br />
+東京都八王子市に本社を置くソフトウェア開発会社「エナジーソフト」がネーミングライツを取得し、200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>（平成<a href="http://localhost/keyword/21%E5%B9%B4">21年</a>）4月1日より愛称付きの駅名が&#39;エナジーソフト<a href="http://localhost/keyword/%E6%96%B0%E8%B1%8A%E6%B4%A5%E9%A7%85">新豊津駅</a>&#39;となっている。<br />
+<br />
+== 歴史 ==<br />
+* 19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>（平成<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）10月1日 - 駅開業。<br />
+* 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>（平成<a href="http://localhost/keyword/21%E5%B9%B4">21年</a>）4月1日 - ネーミングライツにより「エナジーソフト」の愛称が付く。<br />
+<br />
+== 駅構造 ==<br />
+* 単式ホーム1面1線の棒線地上駅である。無人駅である。<br />
+* 無料駐車場（十数台）、雨よけ有りの駐輪場、コカコーラ自動販売機あり。公衆トイレあり。<br />
+<br />
+== 駅周辺 ==<br />
+みやこ町の前身の一つ、旧豊津町にあった唯一の駅である。旧豊津町の中心部は当駅から東に1km以上離れている。<br />
+* 今川<br />
+* みやこ町立豊津小学校<br />
+* 豊津郵便局<br />
+* <a href="http://localhost/keyword/%E5%9B%BD%E9%81%93496%E5%8F%B7">国道496号</a><br />
+* 福岡県立育徳館高等学校<br />
+* 福岡県立育徳館中学校<br />
+* みやこ町役場豊津支所<br />
+* 八景山<br />
+* 歴史民族資料館<br />
+* 豊前国分寺<br />
+* 豊前国分寺三重塔<br />
+* 黒門（福岡県立育徳館高等学校内）<br />
+<br />
+== 隣の駅 ==<br />
+; 平成筑豊鉄道<br />
+: 田川線<br />
+:: 豊津駅 - &#39;<a href="http://localhost/keyword/%E6%96%B0%E8%B1%8A%E6%B4%A5%E9%A7%85">新豊津駅</a>&#39; - 東犀川三四郎駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+category:福岡県の鉄道駅<br />
+んとよつ<br />
+category:平成筑豊鉄道の鉄道駅<br />
+Category:19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>開業の鉄道駅<br />
+category:みやこ町の交通<br />

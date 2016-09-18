@@ -1,0 +1,107 @@
+description<br />
+<br />
+|キロ程 = 53.3<br />
+|起点駅 = 徳島<br />
+|電報略号 = ヒワ<br />
+|所属事業者 = 四国旅客鉄道（JR四国）<br />
+|所属路線 = 牟岐線<br />
+|所在地幅 = long<br />
+|所在地 = 徳島県海部郡美波町奥河内字<a href="http://localhost/keyword/%E5%BC%81%E6%89%8D%E5%A4%A9">弁才天</a>75-4<br />
+|座標 = <br />
+|開業年月日= 1<a href="http://localhost/keyword/939%E5%B9%B4">939年</a>（昭和<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）12月14日<br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面2線<br />
+|廃止年月日 = <br />
+|乗車人員 = 173<br />
+|統計年度 = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換 = <br />
+|備考 = 簡易委託駅<br />
+|備考全幅 = <br />
+}}<br />
+ホーム（200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>8月14日）<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E6%97%A5%E5%92%8C%E4%BD%90%E9%A7%85">日和佐駅</a>&#39;（ひわさえき）は、徳島県海部郡美波町奥河内字<a href="http://localhost/keyword/%E5%BC%81%E6%89%8D%E5%A4%A9">弁才天</a>にある、四国旅客鉄道（JR四国）牟岐線の駅。駅番号は&#39;M21&#39;。全特急列車が停車する。<br />
+<br />
+道の駅日和佐と併設している。四国で3箇所目、全国で11箇所目の、鉄道の駅と一体になった道の駅の鉄道駅である。なお四国の残り2か所は、佐くろしお鉄道ごめん・なはり線の田野駅と夜須駅であり、全て国道55号沿いに存在する。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/939%E5%B9%B4">939年</a>（昭和<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）12月14日：開業。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日：国鉄分割民営化によりJR四国の駅となる。<br />
+* 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>（平成<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）4月17日：道の駅日和佐開業により、<a href="http://localhost/keyword/%E4%B9%97%E8%BB%8A%E5%88%B8">乗車券</a>類販売を委託。無人化。<br />
+* 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>（平成<a href="http://localhost/keyword/21%E5%B9%B4">21年</a>）12月1日：駅舎内に<a href="http://localhost/keyword/%E6%97%A5%E5%92%8C%E4%BD%90%E9%A7%85">日和佐駅</a>観光案内所（日和佐商工会運営）を設置。<br />
+<br />
+== 駅構造 ==<br />
+相対式ホーム2面2線を有する地上駅。かつては2面3線であったが、2番のりばの西側の線路は現在は使用していない。単式ホームの1番のりばの牟岐方に切欠きがあり作業車両が留置してある。1番のりばに面する従来の駅舎に東出口、道の駅日和佐に西出口があり、構内踏切がある他、跨線橋の自由通路でも東西を行き来できる。<br />
+<br />
+駅舎は無人であるが、道の駅日和佐物産館で<a href="http://localhost/keyword/%E4%B9%97%E8%BB%8A%E5%88%B8">乗車券</a>が販売されている（簡易委託）。また、駅舎内にも自動券売機が設置されている。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+跨線橋より徳島方面左は駅に隣接する道の駅。奥に薬王寺。<br />
+* 国道55号<br />
+* 徳島県道25号日和佐小野線<br />
+* 美波町役場<br />
+* 徳島県南部総合県民局美波庁舎<br />
+* 日和佐郵便局<br />
+* 美波町立日和佐小学校<br />
+* 徳島県立<a href="http://localhost/keyword/%E6%B0%B4%E7%94%A3%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1">水産高等学校</a><br />
+* 薬王寺（四国八十八箇所第23番札所、阿南室戸歴史文化道）<br />
+* 道の駅日和佐<br />
+* 大浜海岸 - ウミガメ産卵地<br />
+* 日和佐うみがめ博物館 - 駅東方へ徒歩20分<br />
+<br />
+== 利用状況 ==<br />
+1日平均乗車人員は下記の通り。<br />
+<br />
+<br />
+* 581人（1<a href="http://localhost/keyword/995%E5%B9%B4">995年</a>度）<br />
+* 561人（1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a>度）<br />
+* 549人（1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>度）<br />
+* 527人（1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a>度）<br />
+* 521人（19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>度）<br />
+* 460人（2000年度）<br />
+* 391人（2001年度）<br />
+* 369人（200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>度）<br />
+* 344人（2003年度）<br />
+* 306人（200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>度）<br />
+<br />
+* 287人（200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>度）<br />
+* 265人（200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>度）<br />
+* 249人（200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>度）<br />
+* 210人（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>度）<br />
+* 194人（200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>度）<br />
+* 175人（20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>度）<br />
+* 166人（20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>度）<br />
+* 173人（20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>度）<br />
+* 182人（20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>度）<br />
+* 173人（20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度）<br />
+<br />
+<br />
+== 接続するバス路線 ==<br />
+; 徳島バス南部<br />
+:* 那賀町川口方面<br />
+<br />
+; 徳島バス<br />
+:* 高速舞子・ハービス<a href="http://localhost/keyword/OSA">OSA</a>KA・なんば高速バスターミナル方面<br />
+<br />
+== 隣の駅 ==<br />
+※当駅に停車するの隣の停車駅は各列車記事を参照のこと。<br />
+; 四国旅客鉄道<br />
+: 牟岐線<br />
+:: 北河内駅 (M20) - &#39;<a href="http://localhost/keyword/%E6%97%A5%E5%92%8C%E4%BD%90%E9%A7%85">日和佐駅</a> (M21)&#39; - 山河内駅 (M22)<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+<br />
+Category:徳島県の鉄道駅<br />
+わさ<br />
+Category:四国旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+ひわさえき<br />
+Category:1<a href="http://localhost/keyword/939%E5%B9%B4">939年</a>開業の鉄道駅<br />

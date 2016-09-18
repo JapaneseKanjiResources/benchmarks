@@ -1,0 +1,106 @@
+description<br />
+}; border-top:5px } solid<br />
+| other_name = <br />
+| name = link=伊予鉄道 }<br />
+| image = Matsuyamashi080604.JPG<br />
+| image_width = 300px<br />
+| image_alt = 勝山町にて<br />
+| caption = 勝山町にて<br />
+| type = <br />
+| status = <br />
+| start = 起点：道後温泉駅<br />
+| end = 終点：西堀端停留場<br />
+| stations = 11停留場<br />
+| open = <br />
+| event1label = <br />
+| event1 = <br />
+| close = <br />
+| owner = 松山電気軌道→20px 伊予鉄道<br />
+| operator = <br />
+| depot = <br />
+| stock = 伊予鉄道を参照<br />
+| linelength = （道後温泉 - 西堀端間）（平和通一丁目 - 上一万間）<br />
+| gauge = <br />
+| ogauge = <br />
+| minradius = <br />
+| linenumber = <br />
+| el = 直流600 V 架空電車線方式<br />
+| speed = <br />
+| maxincline = <br />
+| map = <br />
+| map_state = <br />
+}}<br />
+}<br />
+<br />
+|上一万停留場}}<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+|}<br />
+|}<br />
+&#39;城南線&#39;（じょうなんせん）は、愛媛県松山市の道後温泉駅から西堀端停留場まで、および平和通一丁目停留場から上一万停留場までを結ぶ伊予鉄道の軌道路線。<br />
+<br />
+県庁前から上一万にかけて道路と共に連続登り勾配となり、その間の電停も勾配線上にある。<br />
+<br />
+坊っちゃん列車の運転区間のほとんどを占め、市民や観光客にとって重要な路線となっている。<br />
+<br />
+== 路線データ ==<br />
+*路線距離（営業キロ）：道後温泉 - 西堀端間3.5km、平和通一丁目 - 上一万間0.1km<br />
+*軌間：1067mm<br />
+*停留場数：11（起終点含む）<br />
+*複線区間：道後温泉 - 西堀端間複線、平和通一丁目 - 上一万間単線<br />
+*電化区間：全線電化（直流600V）<br />
+*閉塞方式：自動閉塞式（平和通一丁目 - 上一万間のみ）<br />
+<br />
+== 運行形態 ==<br />
+<br />
+<br />
+市内線の系統図<br />
+<br />
+== 歴史 ==<br />
+190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>、松山電気軌道により標準軌の単線で開通。開通時はこの区間に12停留場があったが、南堀端 - 市役所前間の「榎前」停留場が後に廃止されている。<br />
+<br />
+1<a href="http://localhost/keyword/921%E5%B9%B4">921年</a>、伊予鉄道が松山電気軌道を吸収合併し、1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>に軌間を1067mmの狭軌に改軌、上一万の立体交差を廃止（旧道後鉄道線[http://homepage1.nifty.com/pyoco3/sikoku/sikoku-a.htm#松山 廃止鉄道ノート 松山電気軌道 ]（1<a href="http://localhost/keyword/920%E5%B9%B4">920年</a>の ｢伊予鉄道 電気｣ を参照）を廃止したので必要が無くなった）。その後、幹線街路の拡幅に伴い、複線区間を延長して現在に至る。<br />
+<br />
+一方、支線区間の上一万 - 平和通一丁目間は、19<a href="http://localhost/keyword/69%E5%B9%B4">69年</a>に城北線・城南線の環状運転を開始する際に新設されたものである。<br />
+<br />
+*1<a href="http://localhost/keyword/911%E5%B9%B4">911年</a>（明治<a href="http://localhost/keyword/44%E5%B9%B4">44年</a>）9月1日 松山電気軌道により住吉 - 本町、札ノ辻 - 道後（現在の道後温泉）間開業（標準軌）。<br />
+*1<a href="http://localhost/keyword/911%E5%B9%B4">911年</a>（明治<a href="http://localhost/keyword/44%E5%B9%B4">44年</a>）9月19日 松山電気軌道 本町 - 札ノ辻間開業（同上）。<br />
+*1<a href="http://localhost/keyword/912%E5%B9%B4">912年</a>（明治<a href="http://localhost/keyword/45%E5%B9%B4">45年</a>）2月7日 松山電気軌道 江ノ口 - 住吉間開業（同上）。<br />
+*1<a href="http://localhost/keyword/921%E5%B9%B4">921年</a>（大正<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>）4月1日 伊予鉄道が松山電気軌道を合併。<br />
+*1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>（大正<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）6月30日 江ノ口 - 道後温泉間の軌間を1435mm（標準軌）から1067mmに改軌。<br />
+*1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>（大正<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）5月2日 一番町 - 勝山町が経路変更し複線化、勝山町 - 道後温泉間が複線化される。<br />
+*1<a href="http://localhost/keyword/927%E5%B9%B4">927年</a>（昭和<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）11月1日 江ノ口 - 萱町間廃止。<br />
+*1<a href="http://localhost/keyword/929%E5%B9%B4">929年</a>（昭和<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）4月1日 古町 - 萱町間開業。<br />
+*1<a href="http://localhost/keyword/936%E5%B9%B4">936年</a>（昭和<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）5月1日 西堀端 - 裁判所前（現在の県庁前）間複線化。<br />
+*1<a href="http://localhost/keyword/946%E5%B9%B4">946年</a>（昭和<a href="http://localhost/keyword/21%E5%B9%B4">21年</a>）8月19日 古町 - 萱町 - 本町 - 西堀端間休止認可。<br />
+*1<a href="http://localhost/keyword/948%E5%B9%B4">948年</a>（昭和<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）7月1日 古町 - 萱町 - 本町 - 西堀端間廃止。代わって本町線開業。<br />
+*1<a href="http://localhost/keyword/949%E5%B9%B4">949年</a>（昭和<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）3月5日 県庁前 - 一番町間複線化。<br />
+*19<a href="http://localhost/keyword/69%E5%B9%B4">69年</a>（昭和<a href="http://localhost/keyword/44%E5%B9%B4">44年</a>）12月1日 上一万での城北線への分岐を道後方面からの分岐から、警察署方面からの分岐に変更。これに伴い上一万 - 平和通一丁目間が開業。<br />
+<br />
+== 停留場一覧 ==<br />
+;凡例<br />
+:坊っちゃん列車以外は各停留場に停車<br />
+:28px：坊っちゃん列車も乗降車可能、☆：坊っちゃん列車は降車のみ可能、｜：坊っちゃん列車は通過<br />
+:すべての停留場が愛媛県松山市に所在<br />
+<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+*日本の鉄道路線一覧<br />
+<br />
+<br />
+<br />
+Category:四国地方の鉄道路線<br />
+路しようなんせん<br />
+いよてつとうしようなんせん<br />

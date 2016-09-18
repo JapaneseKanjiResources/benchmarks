@@ -1,0 +1,58 @@
+description<br />
+<br />
+|省略 = 鳥綱<br />
+|目 = チドリ目 <br />
+|亜目 = &#39;<a href="http://localhost/keyword/%E3%82%B7%E3%82%AE%E4%BA%9C%E7%9B%AE">シギ亜目</a>&#39; <br />
+|シノニム = Limicoli Scolopacida<br />
+|学名 = <br />
+|英名 = <br />
+|下位分類名 = 科<br />
+|下位分類 =<br />
+* タマシギ科 <br />
+* レンカク科 <br />
+* クビワミフウズラ科  <br />
+* ヒバリチドリ科 <br />
+* シギ科 <br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E3%82%B7%E3%82%AE%E4%BA%9C%E7%9B%AE">シギ亜目</a>&#39;（しぎあもく、学名 ）は、鳥類チドリ目の亜目である。<br />
+<br />
+現在の鳥類分類学では科名を語尾変化させ亜目名とするのが主流だが、先取権の原則から   を使うこともある（ただし上科より上では先取権は必須ではない）。<br />
+<br />
+Sibley &amp; Ahlquist (1988) はシギ小目  とした。<br />
+<br />
+== 系統 ==<br />
+Baker &#39;&#39;et al.&#39;&#39; (2007); Matthew &amp; Houde (2007)より。<br />
+<br />
+<br />
+    |<br />
+            |レンカク科 <br />
+          }}<br />
+          |<br />
+            |ヒバリチドリ科 <br />
+          }}<br />
+        }}<br />
+        |label2=狭義の<a href="http://localhost/keyword/%E3%82%B7%E3%82%AE%E4%BA%9C%E7%9B%AE">シギ亜目</a><br />
+        |シギ科 <br />
+      }}<br />
+      |カモメ亜目 <br />
+    }}<br />
+  }}<br />
+}}<br />
+<br />
+<a href="http://localhost/keyword/%E3%82%B7%E3%82%AE%E4%BA%9C%E7%9B%AE">シギ亜目</a>は、チドリ目の3亜目の1つで、姉妹群はカモメ亜目である。<br />
+<br />
+<a href="http://localhost/keyword/%E3%82%B7%E3%82%AE%E4%BA%9C%E7%9B%AE">シギ亜目</a>からヒバリチドリ亜目 （シギ科以外の全て）を分離し、<a href="http://localhost/keyword/%E3%82%B7%E3%82%AE%E4%BA%9C%E7%9B%AE">シギ亜目</a>をシギ科のみの単型とする説もある。<br />
+<br />
+== 分類史 ==<br />
+チドリ目の亜目分類は Peters (1934) が長らく標準的であり、チドリ目（ミフウズラ科・クビワミフウズラ科を除く）はチドリ亜目 ・カモメ亜目 ・ウミスズメ亜目  に分けられていた。現在の<a href="http://localhost/keyword/%E3%82%B7%E3%82%AE%E4%BA%9C%E7%9B%AE">シギ亜目</a>はPetersのチドリ亜目に含まれていた。<br />
+<br />
+Strauch (1978)はそれと異なり、チドリ目（ミフウズラ科・クビワミフウズラ科を除く）をチドリ亜目・<a href="http://localhost/keyword/%E3%82%B7%E3%82%AE%E4%BA%9C%E7%9B%AE">シギ亜目</a>・ウミスズメ亜目に分けた。Strauchの<a href="http://localhost/keyword/%E3%82%B7%E3%82%AE%E4%BA%9C%E7%9B%AE">シギ亜目</a>は現在の<a href="http://localhost/keyword/%E3%82%B7%E3%82%AE%E4%BA%9C%E7%9B%AE">シギ亜目</a>とほぼ同じだが、当時はツル目とされていたクビワミフウズラ科は含まない。<br />
+<br />
+Sibley &#39;&#39;et al.&#39;&#39; (1988) は、チドリ下目（チドリ目に当たる、ただしミフウズラ科を除く）をチドリ小目  とシギ小目  に分けた。シギ小目は現在の<a href="http://localhost/keyword/%E3%82%B7%E3%82%AE%E4%BA%9C%E7%9B%AE">シギ亜目</a>と同じである。<br />
+<br />
+==出典==<br />
+<br />
+<br />
+<br />
+Category:チドリ目<br />

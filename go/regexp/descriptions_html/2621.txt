@@ -1,0 +1,72 @@
+description<br />
+気仙沼線<br />
+|キロ程 = 61.6<br />
+|起点駅 = 前谷地<br />
+|所在地 = 宮城県気仙沼市長磯原<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/957%E5%B9%B4">957年</a>（昭和3<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）2月11日<br />
+|廃止年月日 =<br />
+|乗車人員 = 67<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a><br />
+|乗換 =<br />
+|備考 = 無人駅<br />
+}}<br />
+東日本大震災前の駅舎<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E9%99%B8%E5%89%8D%E9%9A%8E%E4%B8%8A%E9%A7%85">陸前階上駅</a>&#39;（りくぜんはしかみえき）は、宮城県気仙沼市長磯原にある、東日本旅客鉄道（JR東日本）気仙沼線の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/957%E5%B9%B4">957年</a>（昭和3<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）2月11日 - 日本国有鉄道（国鉄）気仙沼線の駅として開業。<br />
+* 1<a href="http://localhost/keyword/972%E5%B9%B4">972年</a>（昭和<a href="http://localhost/keyword/47%E5%B9%B4">47年</a>）2月1日 - 無人化。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化によりJR東日本の駅となる。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）3月11日 - 東日本大震災により営業休止。<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）8月20日 - BRTで仮復旧。当駅 - 最知駅間はバス専用道として整備される - 東日本旅客鉄道仙台支社プレスリリース（20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>7月18日）。<br />
+BRT化後のホーム(後方に鉄道ホームと跨線橋が残っている)<br />
+<br />
+== 駅構造 ==<br />
+島式ホーム1面2線を有する地上駅である。気仙沼駅管理の無人駅。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>度のBRTにおける乗車人員は1日平均67人[http://www.jreast.co.jp/passenger/2015_brt.html BRT駅別乗車人員（20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>度）] - 東日本旅客鉄道。<br />
+<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 国道45号<br />
+* 気仙沼市役所階上出張所<br />
+* 陸前階上郵便局<br />
+* 宮城県気仙沼向洋高等学校（現在は仮設校舎に移転）<br />
+<br />
+== その他 ==<br />
+1<a href="http://localhost/keyword/967%E5%B9%B4">967年</a>の東映映画『喜劇急行列車』において、渥美清演じる特急さくら号の専務車掌・青木吾一が17才で国鉄の駅員となった際に、初めて勤務したとされる駅である。駅長役は左卜全で、西村晃が気仙沼線の元蒸気機関士として登場する。<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 気仙沼線<br />
+:: 大谷海岸駅 - &#39;<a href="http://localhost/keyword/%E9%99%B8%E5%89%8D%E9%9A%8E%E4%B8%8A%E9%A7%85">陸前階上駅</a>&#39; - 最知駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=1671 JR東日本 <a href="http://localhost/keyword/%E9%99%B8%E5%89%8D%E9%9A%8E%E4%B8%8A%E9%A7%85">陸前階上駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+Category:気仙沼市の鉄道駅<br />
+くせんはしかみ<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/957%E5%B9%B4">957年</a>開業の鉄道駅<br />
+Category:気仙沼線<br />
+Category:気仙沼線BRT<br />

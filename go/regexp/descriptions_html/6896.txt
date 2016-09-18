@@ -1,0 +1,39 @@
+description<br />
+<br />
+|亜目 = ハクジラ亜目 <br />
+|科 = マイルカ科 <br />
+|属 = &#39;<a href="http://localhost/keyword/%E3%82%A4%E3%83%AD%E3%83%AF%E3%82%B1%E3%82%A4%E3%83%AB%E3%82%AB%E5%B1%9E">イロワケイルカ属</a>&#39; <br />
+|学名 = &#39;&#39;&#39;Cephalorhynchus&#39;&#39;&#39;<br />
+|下位分類名 = 種<br />
+|下位分類 =<br />
+* イロワケイルカ &#39;&#39;C. commersonii&#39;&#39;<br />
+* ハラジロイルカ &#39;&#39;C. eutropia&#39;&#39;<br />
+* コシャチイルカ &#39;&#39;C. heavisidii&#39;&#39;<br />
+* <a href="http://localhost/keyword/%E3%82%BB%E3%83%83%E3%83%91%E3%83%AA%E3%82%A4%E3%83%AB%E3%82%AB">セッパリイルカ</a> &#39;&#39;C. hectori&#39;&#39;<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E3%82%A4%E3%83%AD%E3%83%AF%E3%82%B1%E3%82%A4%E3%83%AB%E3%82%AB%E5%B1%9E">イロワケイルカ属</a>&#39; (&#39;&#39;Cephalorhynchus&#39;&#39;) は、クジラ目ハクジラ亜目マイルカ科の属の一つ。&#39;<a href="http://localhost/keyword/%E3%82%BB%E3%83%83%E3%83%91%E3%83%AA%E3%82%A4%E3%83%AB%E3%82%AB">セッパリイルカ</a>属&#39;とも呼ばれる。<a href="http://localhost/keyword/%E3%82%A4%E3%83%AD%E3%83%AF%E3%82%B1%E3%82%A4%E3%83%AB%E3%82%AB%E5%B1%9E">イロワケイルカ属</a>は4種1亜種で構成される。<br />
+<br />
+<a href="http://localhost/keyword/%E3%82%A4%E3%83%AD%E3%83%AF%E3%82%B1%E3%82%A4%E3%83%AB%E3%82%AB%E5%B1%9E">イロワケイルカ属</a>に属するイルカは小型で、最も大きいコシャチイルカでも180cm程度に過ぎない。<a href="http://localhost/keyword/%E3%82%BB%E3%83%83%E3%83%91%E3%83%AA%E3%82%A4%E3%83%AB%E3%82%AB">セッパリイルカ</a>は140cmと<a href="http://localhost/keyword/%E3%82%A4%E3%83%AD%E3%83%AF%E3%82%B1%E3%82%A4%E3%83%AB%E3%82%AB%E5%B1%9E">イロワケイルカ属</a>の中でも一番小さく、クジラ目全体でも最小の部類である。<br />
+<br />
+== 分類 ==<br />
+<a href="http://localhost/keyword/%E3%82%A4%E3%83%AD%E3%83%AF%E3%82%B1%E3%82%A4%E3%83%AB%E3%82%AB%E5%B1%9E">イロワケイルカ属</a>（<a href="http://localhost/keyword/%E3%82%BB%E3%83%83%E3%83%91%E3%83%AA%E3%82%A4%E3%83%AB%E3%82%AB">セッパリイルカ</a>属） <br />
+* イロワケイルカ（パンダイルカ） Commerson&#39;s Dolphin, &#39;&#39;Cephalorhyncus commersonii&#39;&#39;<br />
+* ハラジロイルカ Chilean Dolphin, &#39;&#39;Cephalorhyncus eutropia&#39;&#39;<br />
+* コシャチイルカ Heaviside&#39;s Dolphin, &#39;&#39;Cephalorhyncus heavisidii&#39;&#39;<br />
+* <a href="http://localhost/keyword/%E3%82%BB%E3%83%83%E3%83%91%E3%83%AA%E3%82%A4%E3%83%AB%E3%82%AB">セッパリイルカ</a> Hector&#39;s Dolphin, &#39;&#39;Cephalorhyncus hectori&#39;&#39;<br />
+** Maui&#39;s Dolphin &#39;&#39;Cephalorhynchus hectori maui&#39;&#39;<br />
+<br />
+<br />
+ファイル:Commerson Dolphin.jpg|イロワケイルカ<br />
+ファイル:Heaviside-Delphin.jpg|コシャチイルカ<br />
+ファイル:Hectors delfin.jpg|<a href="http://localhost/keyword/%E3%82%BB%E3%83%83%E3%83%91%E3%83%AA%E3%82%A4%E3%83%AB%E3%82%AB">セッパリイルカ</a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:マイルカ科<br />

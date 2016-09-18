@@ -1,0 +1,84 @@
+description<br />
+<br />
+<a href="http://localhost/keyword/%E3%83%81%E3%82%A7%E3%83%90%E3%81%AE%E5%AE%9A%E7%90%86">チェバの定理</a>の第1の場合：三角形ABCの内部の点Oで3本の直線が交わる<br />
+<br />
+<a href="http://localhost/keyword/%E3%83%81%E3%82%A7%E3%83%90%E3%81%AE%E5%AE%9A%E7%90%86">チェバの定理</a>の第2の場合：三角形ABCの外部の点Oで3本の直線が交わる<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E3%83%81%E3%82%A7%E3%83%90%E3%81%AE%E5%AE%9A%E7%90%86">チェバの定理</a>&#39;（ちぇばのていり、Ceva&#39;s theorem）とは、平面幾何学の定理の1つである。1<a href="http://localhost/keyword/678%E5%B9%B4">678年</a>にジョバンニ・チェバが&#39;&#39;De lineis rectis&#39;&#39;を出版して証明を発表したWeisstein。<br />
+<br />
+== 定理 ==<br />
+right<br />
+三角形ABCにおいて、三角形の内部に任意の点Oをとり、直線AOとBC、BOとCA、COとABの交点をそれぞれD、E、Fとする。この時、次の等式が成立する。なお、点Oは、三角形の内部にあっても外部にあってもよい。<br />
+<br />
+:{AF \\over FB} \\cdot {BD \\over DC} \\cdot {CE \\over EA} = 1<br />
+<br />
+== 証明の方針 ==<br />
+証明法はいくつかあるが、代表的な方針を述べる。<br />
+<br />
+=== 三角形の面積比を使う証明 ===<br />
+線分の比を三角形の面積比に置き換えて証明する。<br />
+三角形AFOと三角形BFOとは底辺の比がAF：FBで高さが等しいので、<br />
+:{AF \\over FB}={\\triangle AFO \\over \\triangle BFO}.<br />
+同様にして、三角形AFCと三角形BFCとは底辺の比がAF：FBで高さが等しいので、<br />
+:{AF \\over FB}={\\triangle AFC \\over \\triangle BFC}.<br />
+この2式より、<br />
+:{AF \\over FB}={\\triangle AFC - \\triangle AFO \\over \\triangle BFC - \\triangle BFO}={\\triangle AOC \\over \\triangle BOC}.<br />
+<br />
+三角形BDOと三角形CDOとは底辺の比がBD：DCで高さが等しいので、<br />
+:{BD \\over DC}={\\triangle BDO \\over \\triangle CDO}.<br />
+同様にして、三角形BDAと三角形CDAとは底辺の比がBD：DCで高さが等しいので、<br />
+:{BD \\over DC}={\\triangle BDA \\over \\triangle CDA}.<br />
+この2式より、<br />
+:{BD \\over DC}={\\triangle BDA - \\triangle BDO \\over \\triangle CDA - \\triangle CDO}={\\triangle BOA \\over \\triangle COA}.<br />
+<br />
+三角形CEOと三角形AEOとは底辺の比がCE：EAで高さが等しいので、<br />
+:{CE \\over EA}={\\triangle CEO \\over \\triangle AEO}.<br />
+同様にして、三角形CEBと三角形AEBとは底辺の比がCE：EAで高さが等しいので、<br />
+:{CE \\over EA}={\\triangle CEB \\over \\triangle AEB}.<br />
+この2式より、<br />
+:{CE \\over EA}={\\triangle CEB - \\triangle CEO \\over \\triangle AEB - \\triangle AEO}={\\triangle COB \\over \\triangle AOB}.<br />
+<br />
+すなわち、定理の左辺は<br />
+:{\\triangle AOC \\over \\triangle BOC} \\cdot {\\triangle BOA \\over \\triangle COA} \\cdot {\\triangle COB \\over \\triangle AOB}<br />
+であるので1に等しい。<br />
+<br />
+=== メネラウスの定理を使う証明 ===<br />
+<a href="http://localhost/keyword/%E3%83%81%E3%82%A7%E3%83%90%E3%81%AE%E5%AE%9A%E7%90%86">チェバの定理</a>はメネラウスの定理を使って容易に証明できる。<br />
+三角形ACFに対して線分BOEが交差するので、メネラウスの定理より、<br />
+: \\frac{AB}{BF} \\cdot \\frac{FO}{OC} \\cdot \\frac{CE}{EA} = 1<br />
+が成り立つ。三角形BCFに対して線分AODが交差するので、メネラウスの定理より、<br />
+: \\frac{BA}{AF} \\cdot \\frac{FO}{OC} \\cdot \\frac{CD}{DB} = 1.<br />
+<a href="http://localhost/keyword/%E3%83%81%E3%82%A7%E3%83%90%E3%81%AE%E5%AE%9A%E7%90%86">チェバの定理</a>はこの2つの式の比を計算することで導くことができる。<br />
+<br />
+== 逆 ==<br />
+<a href="http://localhost/keyword/%E3%83%81%E3%82%A7%E3%83%90%E3%81%AE%E5%AE%9A%E7%90%86">チェバの定理</a>の逆もまた成り立つ。即ち、任意の三角形ABCにおいて直線AB、BC、CA上に点D、E、Fをとり、D、E、Fのうち三角形ABCの辺上にある点が1個或いは3個の時、<br />
+<br />
+:{AF \\over FB} \\cdot {BD \\over DC} \\cdot {CE \\over EA} = 1<br />
+<br />
+が成り立つのならば、3直線AD・BE・CFは1点で交わるか、または3直線AD・BE・CFは平行である。ここで、「平行」を「無限遠点で交わる」と解釈すれば、「3直線AD・BE・CFは1点で交わる」と結論づけることができる。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 参考文献 ==<br />
+*<br />
+*<br />
+<br />
+== 関連項目 ==<br />
+<br />
+*三角形の中心<br />
+*メネラウスの定理<br />
+<br />
+== 外部リンク ==<br />
+*<br />
+*[http://mathtrain.jp/ceva <a href="http://localhost/keyword/%E3%83%81%E3%82%A7%E3%83%90%E3%81%AE%E5%AE%9A%E7%90%86">チェバの定理</a>の３通りの証明] - [http://mathtrain.jp 高校数学の美しい物語]<br />
+*<br />
+*<br />
+<br />
+<br />
+Category:三角形<br />
+Category:初等幾何学<br />
+Category:初等数学<br />
+Category:数学に関する記事<br />
+Category:ユークリッド幾何学の定理<br />

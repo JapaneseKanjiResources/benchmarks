@@ -1,0 +1,56 @@
+description<br />
+<br />
+<br />
+|駅構造     = 地上駅<br />
+|ホーム     = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/966%E5%B9%B4">966年</a>（昭和<a href="http://localhost/keyword/41%E5%B9%B4">41年</a>）3月10日<br />
+|廃止年月日 = 19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>（昭和<a href="http://localhost/keyword/63%E5%B9%B4">63年</a>）9月1日 <br />
+|乗車人員   = <br />
+|乗降人員   = <br />
+|統計年度   = <br />
+|乗換       = <br />
+|備考       = <br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E7%9C%9F%E5%B4%8E%E9%A7%85">真崎駅</a>&#39;（まさきえき）は、かつて福岡県田川郡川崎町真崎5297番地にあった九州旅客鉄道（JR九州）<a href="http://localhost/keyword/%E4%B8%8A%E5%B1%B1%E7%94%B0%E7%B7%9A">上山田線</a>の駅である。<a href="http://localhost/keyword/%E4%B8%8A%E5%B1%B1%E7%94%B0%E7%B7%9A">上山田線</a>の廃止に伴い19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>9月1日に廃駅となった。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/966%E5%B9%B4">966年</a>（昭和<a href="http://localhost/keyword/41%E5%B9%B4">41年</a>）3月10日 - 開業。<br />
+* 1<a href="http://localhost/keyword/974%E5%B9%B4">974年</a>（昭和<a href="http://localhost/keyword/49%E5%B9%B4">49年</a>）3月5日 - 無人化。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 日本国有鉄道からJR九州に承継される。<br />
+* 19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>（昭和<a href="http://localhost/keyword/63%E5%B9%B4">63年</a>）9月1日 - <a href="http://localhost/keyword/%E4%B8%8A%E5%B1%B1%E7%94%B0%E7%B7%9A">上山田線</a>廃止に伴い廃駅となる。<br />
+<br />
+== 廃止時の駅構造 ==<br />
+* 1面1線で交換不能の地上駅であった。<br />
+* 無人駅であった。<br />
+* 開業当初は有人駅であったためコンクリート造りの駅舎があった。<br />
+<br />
+== 駅周辺 ==<br />
+* 田川ラジウムランド（→ <a href="http://localhost/keyword/%E8%8B%B1%E5%BD%A6%E5%B1%B1">英彦山</a>湯〜遊〜共和国 → 廃止）<br />
+* 魚楽園<br />
+* 淡島神社<br />
+* 川崎町立真崎小学校<br />
+* 安真木郵便局<br />
+*福岡県道67号田川桑野線<br />
+<br />
+== 現状 ==<br />
+ホームの一部分が残り記念碑が設置されている。ホームに隣接してJAたがわが運営する川崎町農産物直売所「De・愛」が開設された。<br />
+<br />
+== 隣の駅 ==<br />
+; 九州旅客鉄道<br />
+: <a href="http://localhost/keyword/%E4%B8%8A%E5%B1%B1%E7%94%B0%E7%B7%9A">上山田線</a><br />
+:: 熊ヶ畑駅 - &#39;<a href="http://localhost/keyword/%E7%9C%9F%E5%B4%8E%E9%A7%85">真崎駅</a>&#39; - 東川崎駅<br />
+<br />
+== 関連項目 ==<br />
+* 廃駅<br />
+* 日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+<br />
+Category:福岡県の廃駅<br />
+さき<br />
+Category:九州旅客鉄道の廃駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/966%E5%B9%B4">966年</a>開業の鉄道駅<br />
+Category:19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>廃止の鉄道駅<br />
+まさきえき<br />

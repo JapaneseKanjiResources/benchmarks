@@ -1,0 +1,13 @@
+description<br />
+&#39;<a href="http://localhost/keyword/BOS">BOS</a>&#39;<br />
+*bos (ISO 639)<br />
+* ボストン（IATA都市コード）<br />
+** ローガン国際空港のIATA空港コード<br />
+** ボストン・レッドソックス<br />
+** ボストン・セルティックス<br />
+** ボストン・ブルーインズ<br />
+*<a href="http://localhost/keyword/%E3%83%99%E3%83%BC%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%AB">ベースボール</a>オペレーションシステム（Baseball Operation System）<br />
+*太陽光発電の周辺装置の総称であるBalance of Systemsの略。<br />
+<br />
+<br />
+<br />

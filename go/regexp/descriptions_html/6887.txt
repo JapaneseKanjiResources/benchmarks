@@ -1,0 +1,55 @@
+description<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E5%9B%9E%E8%B7%AF%E9%85%8D%E7%BD%AE%E5%88%A9%E7%94%A8%E6%A8%A9">回路配置利用権</a>&#39;（かいろはいちりようけん）は、<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>集積回路の回路配置についてその創作者等に認められる知的財産権の一種である。<br />
+<br />
+== 概要 ==<br />
+日本の<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>回路配置保護法は、<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>集積回路の回路素子や導線の配置パターン（回路配置）の適正利用を図ることで、<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>集積回路の開発を促進し、経済発展に寄与することを目的としており、第3条で、「回路配置の創作をした者又はその承継人（以下「創作者等」という。）は、その回路配置について<a href="http://localhost/keyword/%E5%9B%9E%E8%B7%AF%E9%85%8D%E7%BD%AE%E5%88%A9%E7%94%A8%E6%A8%A9">回路配置利用権</a>の設定の登録（以下「設定登録」という。）を受けることができる。」と定めている。<br />
+<br />
+=== 登録 ===<br />
+<a href="http://localhost/keyword/%E5%9B%9E%E8%B7%AF%E9%85%8D%E7%BD%AE%E5%88%A9%E7%94%A8%E6%A8%A9">回路配置利用権</a>の設定登録を受けるためには、以下の要件を満たさなければならない。<br />
+<br />
+# 申請者が創作者であること。<br />
+# 共同創作である場合には、共同で申請をすること。<br />
+# 申請日の<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>以上前に創作者などが回路配置を利用していた場合は申請できない。<br />
+<br />
+設定登録の事務は第28条に基づいて登録機関が行うこととされている。現在は、財団法人ソフトウェア情報センター（SOFTIC）が設定登録の事務を行っている。<br />
+<br />
+=== 存続期間 ===<br />
+登録日から<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>で、更新はできない（第10条）。<br />
+<br />
+なお、特許権の存続期間は出願日から<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>、実用新案権は出願日から<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>、著作権は著作者の死後<a href="http://localhost/keyword/50%E5%B9%B4">50年</a>（法人著作では公表後<a href="http://localhost/keyword/50%E5%B9%B4">50年</a>）である。<br />
+<br />
+=== 効力 ===<br />
+<a href="http://localhost/keyword/%E5%9B%9E%E8%B7%AF%E9%85%8D%E7%BD%AE%E5%88%A9%E7%94%A8%E6%A8%A9">回路配置利用権</a>者は、業として登録回路配置を利用する権利を専有する（専用利用権の設定した場合のその範囲を除く）（第11条）。利用とは以下の行為を指す（第2条第3項）。<br />
+* その回路配置を用いて<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>集積回路を製造する行為 <br />
+* その回路配置を用いて製造した<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>集積回路（当該<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>集積回路を組み込んだ物品を含む。）を譲渡し、貸し渡し、譲渡若しくは貸渡しのために展示し、又は輸入する行為 <br />
+<br />
+ただし、以下の場合には効力は及ばない（第12条）。<br />
+* 他人が創作した回路配置の利用<br />
+* 解析又は評価のための登録回路配置を用いた<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>集積回路の製造<br />
+* 利用権者、専用利用権者又は通常利用権者が譲渡した<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>集積回路の譲渡、貸し渡し、譲渡若しくは貸渡しのための展示、又は輸入<br />
+<br />
+== 比較 ==<br />
+<a href="http://localhost/keyword/%E5%9B%9E%E8%B7%AF%E9%85%8D%E7%BD%AE%E5%88%A9%E7%94%A8%E6%A8%A9">回路配置利用権</a>と産業財産権等とを比較すると、以下の共通点・相違点がある。<br />
+<br />
+&#39;共通点&#39;<br />
+* <a href="http://localhost/keyword/%E5%9B%9E%E8%B7%AF%E9%85%8D%E7%BD%AE%E5%88%A9%E7%94%A8%E6%A8%A9">回路配置利用権</a>の登録前でも、補償金請求権が発生する（特許法との共通点）。<br />
+* <a href="http://localhost/keyword/%E5%9B%9E%E8%B7%AF%E9%85%8D%E7%BD%AE%E5%88%A9%E7%94%A8%E6%A8%A9">回路配置利用権</a>は独占排他権である。<br />
+* <a href="http://localhost/keyword/%E5%9B%9E%E8%B7%AF%E9%85%8D%E7%BD%AE%E5%88%A9%E7%94%A8%E6%A8%A9">回路配置利用権</a>について専用利用権、通常利用権を設定できる。<br />
+* <a href="http://localhost/keyword/%E5%9B%9E%E8%B7%AF%E9%85%8D%E7%BD%AE%E5%88%A9%E7%94%A8%E6%A8%A9">回路配置利用権</a>の侵害者に対しては、差止請求権や損害賠償請求権を行使できる。<br />
+<br />
+&#39;相違点&#39;<br />
+* 異議申し立ての不服制度がない。<br />
+* 他人が独自に創作した回路配置には権利が及ばない（著作権との共通点）。<br />
+<br />
+== 関連項目 ==<br />
+* <a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>回路配置保護法<br />
+* 知的財産権<br />
+* <a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a><br />
+<br />
+<br />
+<br />
+<br />
+Category:<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>製造<br />
+Category:知的財産権<br />
+かいろはいちりようけん<br />

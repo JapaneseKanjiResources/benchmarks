@@ -1,0 +1,43 @@
+description<br />
+<br />
+|   StdInChI = 1S/3C12H8N2.Fe.H2O4S/c3*1-3-9-5-6-10-4-2-8-14-12(10)11(9)13-7-1;;1-5(2,3)4/h3*1-8H;;(H2,1,2,3,4)/q;;;+2;/p-2<br />
+|    StdInChIKey_Ref = <br />
+|   StdInChIKey = CIWXFRVOSDNDJZ-UHFFFAOYSA-L<br />
+|   CASNo = 14634-91-4<br />
+|   PubChem = 84567<br />
+|    ChemSpiderID_Ref = <br />
+|   ChemSpiderID = 76289<br />
+|   SM<a href="http://localhost/keyword/ILE">ILE</a>S = [Fe+2].[O-]S([O-])(=O)=O.n3c2c1ncccc1ccc2ccc3.n3c2c1ncccc1ccc2ccc3.n1c3c(ccc1)ccc2cccnc23<br />
+}}<br />
+| Section2 = <br />
+| Section3 = <br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E3%83%95%E3%82%A7%E3%83%AD%E3%82%A4%E3%83%B3">フェロイン</a>&#39; () は、化学式 [Fe(&#39;&#39;o&#39;&#39;-phen)3]SO4 で表される有機化合物である。&#39;&#39;o&#39;&#39;-phen は二座配位子である1,10-フェナントロリン (C12H8N2) の略である。「<a href="http://localhost/keyword/%E3%83%95%E3%82%A7%E3%83%AD%E3%82%A4%E3%83%B3">フェロイン</a>」という言葉は塩化物など幅広いアニオンとの塩に対して使われる。<br />
+<br />
+== 酸化還元指示薬 ==<br />
+<br />
+<br />
+この錯体は分析化学において酸化還元指示薬として用いられるD. C. Harris &#34;Quantitative Chemical Analysis&#34; 4th edition, W. H. Freeman, NY. ISBN 0-7167-2508-8.。 この指示薬の活性成分は [Fe(&#39;&#39;o&#39;&#39;-phen)3]2+ イオンであり、これは鉄(II)イオンの錯体 [Fe(&#39;&#39;o&#39;&#39;-phen)3]3+ に酸化できる発色団である。この指示薬の変化電位は+1.06 Vであり、1M H2SO4 中において使用できる。<br />
+<br />
+== 合成 ==<br />
+硫酸鉄(II)と1,10-フェナントロリンを水溶液中で反応させることによって調製できる。<br />
+: 3 phen + Fe2+ &amp;rarr; [Fe(phen)3]2+<br />
+<br />
+鉄は低スピンの電子配置をとり、D3 対称の八面体配位をとっている。<a href="http://localhost/keyword/%E3%83%95%E3%82%A7%E3%83%AD%E3%82%A4%E3%83%B3">フェロイン</a>錯体の特徴的な色は、金属イオンと配位子の間の電荷移動遷移に起因する。<br />
+<br />
+== 関連項目 ==<br />
+* 酸化還元指示薬<br />
+* フェナントロリン<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+Category:鉄の化合物<br />
+Category:配位化合物<br />
+Category:酸化還元指示薬<br />
+Category:酸塩基指示薬<br />
+Category:含窒素複素環式化合物<br />
+<br />
+<br />

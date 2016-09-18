@@ -1,0 +1,38 @@
+description<br />
+&#39;ライノタイプ社&#39; (Linotype GmbH) は、ドイツのフォントベンダー。モノタイプ・イメージングの傘下にある。<br />
+<br />
+== 沿革 ==<br />
+*1<a href="http://localhost/keyword/886%E5%B9%B4">886年</a> ドイツ人オットマール・マーゲンターラーが世界初のライノタイプを製品化する<br />
+*1<a href="http://localhost/keyword/890%E5%B9%B4">890年</a> ニューヨークのブルックリンに&#39;マーゲンターラー・ライノタイプ社(Mergenthaler Linotype Company)&#39;、イギリスのマンチェスターに&#39;マーゲンターラー・ライノタイプ・アンド・マシナリー(Mergenthaler Linotype &amp; Machinery Ltd.)&#39;を設立<br />
+*1<a href="http://localhost/keyword/896%E5%B9%B4">896年</a> ドイツ・ベルリンに&#39;マーゲンターラー・キャスティング・マシーン(Mergenthaler Casting Machines)&#39;を設立<br />
+*1<a href="http://localhost/keyword/900%E5%B9%B4">900年</a> ステンペル社(D. Stempel)とライノタイプ用の字母開発で提携。最初に制作されたのは&#39;Fraktur&#39;3書体である。これ以降ステンペル社は多くの活字鋳造所を併合し、またマーゲンターラー・ライノタイプ社と密接な関係となる。<br />
+*1<a href="http://localhost/keyword/924%E5%B9%B4">924年</a> ジラルド社とペニョー社の合併により、ドゥベルニ＆ペニョー鋳造所が設立される。<br />
+*1<a href="http://localhost/keyword/973%E5%B9%B4">973年</a> &#39;ライノタイプ有限責任会社(Linotype GmbH)&#39;と&#39;マーゲンターラー・キャスティング・マシーン&#39;が合併し&#39;マーゲンターラー・ライノタイプ有限責任会社 (Mergenthaler-Linotype GmbH)&#39;となる。<br />
+*1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a> ステンペル社を清算するため、ステンペル社の活字部門を継承し、オプティマ、シンタックスなどの書体がタイプ・コレクションに加わる。アドビ・<a href="http://localhost/keyword/ITC">ITC</a>・アップルとタイポグラフィ技術に関する提携をする。<br />
+*1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a> <a href="http://localhost/keyword/PostScript">PostScript</a>フォントの製品化を始める。&#39;ライノタイプ株式会社(Linotype AG)&#39;として再組織される。<br />
+*19<a href="http://localhost/keyword/89%E5%B9%B4">89年</a> ハース鋳造所の事業を引き継ぎ、ヘルベチカなどの書体がタイプ・コレクションに加わる。<br />
+*19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a> ヘル有限責任会社(Hell GmbH)と合併し、&#39;ライノタイプ・ヘル株式会社 (Linotype-Hell AG)&#39;となる。<br />
+*1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a> ハイデルベルガー・ドルックマシーネンとライノタイプ・ヘルが合併。書体部門が子会社の&#39;ライノタイプ・ライブラリ有限責任会社 (Linotype Library GmbH)&#39;となる。<br />
+*200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a> ライノタイプ・ライブラリが社名を&#39;ライノタイプ有限責任会社 (Linotype GmbH)&#39;に変更。<br />
+*200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>8月 モノタイプ・イメージング社がライノタイプ有限責任会社を買収。<br />
+<br />
+==販売している書体==<br />
+* Univers - 改訂版 : Linotype Univers<br />
+* Helvetica - 改訂版 : Neue Helvetica<br />
+* Frutiger - 改訂版 : Neue Frutiger<br />
+* Optima - 改訂版 : Optima nova<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+==関連項目==<br />
+*ライノタイプ（鋳植機）<br />
+<br />
+==外部リンク==<br />
+*[http://www.linotype.com/ ライノタイプ社 (Linotype.com)]<br />
+*[http://www.linotype.co.jp/ エス・ディ・ジー（ライノタイプ日本総代理店）]<br />
+<br />
+<br />
+Category:書体<br />
+Category:ドイツの企業<br />
+<br />

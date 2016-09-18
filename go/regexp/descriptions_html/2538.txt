@@ -1,0 +1,90 @@
+description<br />
+&#39; 福知山線<br />
+|キロ程     = 98.2<br />
+|起点駅     = 尼崎<br />
+|所在地幅   = long<br />
+|所在地     = 兵庫県丹波市<a href="http://localhost/keyword/%E5%B8%82%E5%B3%B6%E7%94%BA">市島町</a>中竹田字中嶋1510-3<br />
+|座標       = <br />
+|駅構造     = 地上駅<br />
+|ホーム     = 2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/899%E5%B9%B4">899年</a>（明治3<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）7月15日<br />
+|廃止年月日 = <br />
+|乗車人員   = 162<br />
+|乗降人員   = <br />
+|統計年度   = 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a><br />
+|乗換       = <br />
+|備考       = 無人駅（自動券売機 有）* 1<a href="http://localhost/keyword/911%E5%B9%B4">911年</a>に竹田駅から改称。<br />
+|備考全幅   = <br />
+}}<br />
+プラットホーム<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E4%B8%B9%E6%B3%A2%E7%AB%B9%E7%94%B0%E9%A7%85">丹波竹田駅</a>&#39;（たんばたけだえき）は、兵庫県丹波市<a href="http://localhost/keyword/%E5%B8%82%E5%B3%B6%E7%94%BA">市島町</a>中竹田字中嶋にある、西日本旅客鉄道（JR西日本）福知山線の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/899%E5%B9%B4">899年</a>（明治3<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）7月15日 - 阪鶴鉄道の柏原駅 - 福知山南口駅（のちの福知駅）間延伸により&#39;竹田駅&#39;として開業。旅客・貨物取扱開始。<br />
+* 1<a href="http://localhost/keyword/904%E5%B9%B4">904年</a>（明治<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）11月3日 - 阪鶴鉄道の福知駅 - 福知山駅間が延伸開業。<br />
+* 190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（明治40年）8月1日 - 阪鶴鉄道が国有化され、国有鉄道の駅になる。<br />
+* 1<a href="http://localhost/keyword/909%E5%B9%B4">909年</a>（明治<a href="http://localhost/keyword/42%E5%B9%B4">42年</a>）<br />
+** 10月1日 - 福知駅廃止により、隣の駅が福知山駅となる。<br />
+** 10月12日 - 線路名称制定。阪鶴線所属駅となる。<br />
+* 1<a href="http://localhost/keyword/911%E5%B9%B4">911年</a>（明治<a href="http://localhost/keyword/44%E5%B9%B4">44年</a>）11月1日 - &#39;<a href="http://localhost/keyword/%E4%B8%B9%E6%B3%A2%E7%AB%B9%E7%94%B0%E9%A7%85">丹波竹田駅</a>&#39;に改称。<br />
+* 1<a href="http://localhost/keyword/912%E5%B9%B4">912年</a>（明治<a href="http://localhost/keyword/45%E5%B9%B4">45年</a>）3月1日 - 線路名称改定。阪鶴線の福知山駅以南が福知山線に改称し、当駅もその所属となる。<br />
+* 1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>（昭和<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）10月1日 - 貨物取扱廃止。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、西日本旅客鉄道（JR西日本）の駅となる。<br />
+* 1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a>（平成<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）4月1日 - 篠<a href="http://localhost/keyword/%E5%B1%B1%E5%8F%A3%E9%89%84%E9%81%93%E9%83%A8">山口鉄道部</a>発足により、その管轄となる。<br />
+* 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>（平成<a href="http://localhost/keyword/21%E5%B9%B4">21年</a>）6月1日 - 篠<a href="http://localhost/keyword/%E5%B1%B1%E5%8F%A3%E9%89%84%E9%81%93%E9%83%A8">山口鉄道部</a>廃止に伴い福知山支社直轄に戻され、篠山口駅の被管理駅となる。<br />
+<br />
+== 駅構造 ==<br />
+相対式ホーム2面2線を有する地上駅で、列車交換が可能である。1番のりば側の線路を上下本線とした一線スルーの配線となっているため、上下線とも基本的に1番のりばを通り、2番のりばは行き違いを行う列車のみが使用する。なお、どちらのホームも両方向からの入線・発車が可能である。駅舎は北西の1番のりば側に立地し、反対側の2番のりばへは北端の跨線橋で連絡している。<br />
+<br />
+篠山口駅が管理する無人駅である。駅舎内には、かつて駅員が配置された頃に使われていた出札窓口や改札口がそのまま残っている。2番のりばには待合室が設置されている。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+== 利用状況 ==<br />
+「兵庫県統計書」によると、近年の一日平均乗車人員は以下の通り。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+北側は県道沿いを中心に住宅街が広がっているが、南側一帯は田園地帯が続いている。<br />
+<br />
+* 西山酒造場<br />
+* 丹波警察署 中竹田駐在所<br />
+* 中竹田郵便局<br />
+* 丹波市立竹田幼稚園<br />
+* 丹波市立竹田小学校<br />
+* 国道175号（竹田バイパス）<br />
+* 兵庫県道170号丹波竹田停車場線<br />
+* 兵庫県道708号岩崎市島線<br />
+* 竹田川<br />
+<br />
+なお竹田城の最寄り駅は<a href="http://localhost/keyword/%E6%92%AD%E4%BD%86%E7%B7%9A">播但線</a>の竹田駅であり、当駅ではない[http://www.kobe-np.co.jp/news/shakai/201407/0007189263.shtml “竹田”違い「天空の城」観光客、誤って丹波へ]（神戸新聞 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>7月29日 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>7月30日閲覧）。当駅の所在する丹波市<a href="http://localhost/keyword/%E5%B8%82%E5%B3%B6%E7%94%BA">市島町</a>中竹田と、竹田城のある朝来市和田山町竹田は同じ兵庫県内ではあるが離れた場所にあり、全く別の地域である。<br />
+<br />
+== 隣の駅 ==<br />
+; 西日本旅客鉄道<br />
+: &#39;&#39; 福知山線<br />
+:: 丹波路快速・普通<br />
+::: 市島駅 - &#39;<a href="http://localhost/keyword/%E4%B8%B9%E6%B3%A2%E7%AB%B9%E7%94%B0%E9%A7%85">丹波竹田駅</a>&#39; - 福知山駅<br />
+* 隣の福知山駅とは8.3km離れており、線内では最も駅間距離が長い。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.jr-odekake.net/eki/top.php?id=0630315 <a href="http://localhost/keyword/%E4%B8%B9%E6%B3%A2%E7%AB%B9%E7%94%B0%E9%A7%85">丹波竹田駅</a>（JR西日本）]<br />
+<br />
+<br />
+<br />
+<br />
+Category:兵庫県の鉄道駅<br />
+んはたけた<br />
+Category:阪鶴鉄道<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:西日本旅客鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/899%E5%B9%B4">899年</a>開業の鉄道駅<br />
+たんはたけたえき<br />

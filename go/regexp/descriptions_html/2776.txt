@@ -1,0 +1,82 @@
+description<br />
+<br />
+|所属事業者 = <a href="http://localhost/keyword/%E7%A5%9E%E6%88%B8%E5%B8%82%E4%BA%A4%E9%80%9A%E5%B1%80">神戸市交通局</a>(link=神戸市営地下鉄 神戸市営地下鉄)<br />
+|所属路線   =15px 西神・山手線（正式路線名は山手線）<br />
+|キロ程     = 5.3km（新神戸起点）谷上から12.8<br />
+|起点駅     = <br />
+|所在地     = 神戸市兵庫区上沢通8-2<br />
+|緯度度 = 34|緯度分=40|緯度秒=23.70 <br />
+|経度度 =<a href="http://localhost/keyword/135">135</a>|経度分=9|経度秒=29.99 <br />
+|駅構造     = 地下駅<br />
+|ホーム     = 島式 1面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/983%E5%B9%B4">983年</a>（昭和<a href="http://localhost/keyword/58%E5%B9%B4">58年</a>）6月17日 <br />
+|廃止年月日 = <br />
+|乗車人員   = 3,282<br />
+|乗降人員   = <br />
+|統計年度   = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|乗換       = <br />
+|備考       = <br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E4%B8%8A%E6%B2%A2%E9%A7%85">上沢駅</a>&#39;（かみさわえき）は、神戸市兵庫区にある神戸市営地下鉄西神・山手線の駅である。駅番号は&#39;S07&#39;。駅イメージテーマは「桜」<br />
+<br />
+== 駅構造 ==<br />
+地下1階にコンコース、改札があり、地下2階にプラットホームがある地下駅。プラットホームは島式1面2線である。<br />
+=== のりば ===<br />
+<br />
+<br />
+プラットホーム<br />
+<br />
+== 利用状況 ==<br />
+平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>度の1日あたりの乗車人員は約3,282人と西神・山手線の中では最も利用客が少ない（神戸市統計書より）。<br />
+<br />
+== 駅周辺 ==<br />
+周辺は主に住宅地である。<br />
+* 会下山<br />
+* 神戸市立神港高等学校<br />
+* 兵庫県立夢野台高等学校<br />
+* 兵庫県立兵庫高等学校<br />
+* 兵庫県立湊川高等学校<br />
+* 阪神電気鉄道<a href="http://localhost/keyword/%E7%A5%9E%E6%88%B8%E9%AB%98%E9%80%9F%E7%B7%9A">神戸高速線</a>大開駅<br />
+* エレガントマナースクール<br />
+<br />
+== 接続バス路線 ==<br />
+* 神戸市営バス9系統　地下鉄<a href="http://localhost/keyword/%E4%B8%8A%E6%B2%A2%E9%A7%85">上沢駅</a>前<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/983%E5%B9%B4">983年</a>（昭和<a href="http://localhost/keyword/58%E5%B9%B4">58年</a>）6月17日 営業開始。<br />
+<br />
+* 1<a href="http://localhost/keyword/995%E5%B9%B4">995年</a>（平成<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）<br />
+** 1月17日 阪神・淡路大震災で被災し、不通。<br />
+** 2月16日 山手線の運行が再開されるが、当駅は通過。<br />
+** 3月31日 営業再開。<br />
+<br />
+<br />
+== 当駅を使用した映画ロケ ==<br />
+2001年7月1日から4日の終電後から早朝にかけて、映画『GO』の撮影が行われた。これは、東京では地下鉄の線路上で撮影する許可を得られなかったため、神戸フィルムオフィスを通して神戸市営地下鉄の協力を得たものである神戸新聞2001年7月4日朝刊25面「並木道」欄。また、映画『交渉人 真下正義』では、作中に登場するTTR代々木線大手町駅として当駅のホームが撮影に使用された。<br />
+<br />
+== 隣の駅 ==<br />
+; link=神戸市営地下鉄 神戸市営地下鉄<br />
+: 15px西神・山手線<br />
+::湊川公園駅 （S06） - &#39;<a href="http://localhost/keyword/%E4%B8%8A%E6%B2%A2%E9%A7%85">上沢駅</a> （S07）&#39; - 長田（長田神社前）駅 （S08）<br />
+<br />
+:* （）内は駅番号を示す。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+==関連項目==<br />
+<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+*[http://www.city.kobe.lg.jp/life/access/transport/img/s07.gif <a href="http://localhost/keyword/%E4%B8%8A%E6%B2%A2%E9%A7%85">上沢駅</a> 駅構内図] - <a href="http://localhost/keyword/%E7%A5%9E%E6%88%B8%E5%B8%82%E4%BA%A4%E9%80%9A%E5%B1%80">神戸市交通局</a><br />
+<br />
+<br />
+<br />
+Category:神戸市の鉄道駅<br />
+みさわ<br />
+category:<a href="http://localhost/keyword/%E7%A5%9E%E6%88%B8%E5%B8%82%E4%BA%A4%E9%80%9A%E5%B1%80">神戸市交通局</a>の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/983%E5%B9%B4">983年</a>開業の鉄道駅<br />
+かみさわえき<br />

@@ -1,0 +1,54 @@
+description<br />
+阪堺線<br />
+|キロ程     = 12.9km（恵美須町起点）天王寺駅前から12.7<br />
+|起点駅     = <br />
+|所在地     = 大阪府堺市西区浜寺諏訪森町中2丁<br />
+|座標       = <br />
+|駅構造     = 地上駅<br />
+|ホーム     = 相対式 2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/912%E5%B9%B4">912年</a>（明治<a href="http://localhost/keyword/45%E5%B9%B4">45年</a>）4月1日<br />
+|廃止年月日 = <br />
+|乗車人員   = <br />
+|乗降人員   = <br />
+|統計年度   = <br />
+|乗換       = <br />
+|備考       = <br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E8%88%B9%E5%B0%BE%E5%81%9C%E7%95%99%E5%A0%B4">船尾停留場</a>&#39;（ふなおていりゅうじょう）は、大阪府堺市西区浜寺諏訪森町中2丁にある<a href="http://localhost/keyword/%E9%98%AA%E5%A0%BA%E9%9B%BB%E6%B0%97%E8%BB%8C%E9%81%93%E9%98%AA%E5%A0%BA%E7%B7%9A">阪堺電気軌道阪堺線</a>の停留場。駅番号は&#39;HN29&#39;。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/912%E5%B9%B4">912年</a>（明治<a href="http://localhost/keyword/45%E5%B9%B4">45年</a>）4月1日 阪堺電気軌道により開業。<br />
+* 1<a href="http://localhost/keyword/915%E5%B9%B4">915年</a>（大正<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）6月21日 南海鉄道との合併により、同鉄道の駅となる。<br />
+* 1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>（昭和<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）6月1日 会社合併により近畿日本鉄道の駅となる。 <br />
+* 1<a href="http://localhost/keyword/947%E5%B9%B4">947年</a>（昭和<a href="http://localhost/keyword/22%E5%B9%B4">22年</a>）6月1日 路線譲渡により南海電気鉄道の駅となる。<br />
+* 19<a href="http://localhost/keyword/80%E5%B9%B4">80年</a>（昭和<a href="http://localhost/keyword/55%E5%B9%B4">55年</a>）12月1日 路線譲渡により阪堺電気軌道の駅となる。<br />
+<br />
+== 構造 ==<br />
+新設軌道上の地上駅で、単式ホームが踏切をはさんで互い違いに配置されている。<br />
+<br />
+== 周辺 ==<br />
+* 南海電気鉄道南海本線 諏訪ノ森駅<br />
+* 諏訪森本通商店街<br />
+* 堺市立浜寺小学校<br />
+* イオンタウン諏訪の森（KOHYO諏訪ノ森店）<br />
+<br />
+== その他 ==<br />
+* 当駅 - 浜寺駅前停留場間に、1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>（昭和<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）まで海道畑駅（かいどうばたえき）があり、阪堺電鉄（後の大阪市電阪堺線）との乗り換え駅でもあった。<br />
+<br />
+== 隣の停留場 ==<br />
+;阪堺電気軌道<br />
+:阪堺線<br />
+::石津停留場 (HN28) - &#39;<a href="http://localhost/keyword/%E8%88%B9%E5%B0%BE%E5%81%9C%E7%95%99%E5%A0%B4">船尾停留場</a> (HN29)&#39; - 浜寺駅前停留場 (HN31)<br />
+* （）内は駅番号を示す。なお、駅番号HN30は欠番となっている。<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+<br />
+Category:堺市の鉄道駅<br />
+なお<br />
+Category:阪堺電気軌道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/912%E5%B9%B4">912年</a>開業の鉄道駅<br />
+ふなおていりゆうしよう<br />

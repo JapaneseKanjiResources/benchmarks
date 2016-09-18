@@ -1,0 +1,30 @@
+description<br />
+<br />
+<br />
+平賀源内作の<a href="http://localhost/keyword/%E3%82%A8%E3%83%AC%E3%82%AD%E3%83%86%E3%83%AB">エレキテル</a>（複製）。[[国立科学博物館の展示。]]<br />
+<a href="http://localhost/keyword/%E3%82%A8%E3%83%AC%E3%82%AD%E3%83%86%E3%83%AB">エレキテル</a>を描いた18世紀の古書<br />
+清澄）]]<br />
+&#39;<a href="http://localhost/keyword/%E3%82%A8%E3%83%AC%E3%82%AD%E3%83%86%E3%83%AB">エレキテル</a>&#39;は、江戸時代の博物学者平賀源内が復元した摩擦起電器のことで、オランダ語（ラテン語）の（電気、電流）がなまったもの。静電気の発生装置。源内は「ゐれきせゑりていと」と表記している。<br />
+<br />
+オランダで発明され、宮廷での見世物や医療器具として用いられていた。日本へは江戸時代に持ち込まれ、17<a href="http://localhost/keyword/51%E5%B9%B4">51年</a>（宝暦元年）ごろオランダ人が幕府に献上したとの文献がある。後の<a href="http://localhost/keyword/176">176</a><a href="http://localhost/keyword/5%E5%B9%B4">5年</a>（明和<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）に後藤利春の『紅毛談（おらんだばなし）』で紹介され、それを読んだ平賀源内が長崎滞在中の1<a href="http://localhost/keyword/770%E5%B9%B4">770年</a>（明和<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）に破損した<a href="http://localhost/keyword/%E3%82%A8%E3%83%AC%E3%82%AD%E3%83%86%E3%83%AB">エレキテル</a>を古道具屋あるいはオランダ通詞の西善三郎から入手し、工人の弥七らとともに1<a href="http://localhost/keyword/776%E5%B9%B4">776年</a>（安永<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）に江戸深川で模造製作に成功した。<br />
+<br />
+構造は外部は木製の箱型、または白木作り。内部にライデン瓶（蓄電瓶）があり、外付けのハンドルを回すと内部でガラスが摩擦され、発生した電気が銅線へ伝わって放電する。<br />
+<br />
+源内は電気の発生する原理を陰陽論や仏教の火一元論などで説明しており、電磁気学に関する体系的知識は持っていなかったとされ、アメリカの科学者フランクリンが行った実験の情報が伝わっていたとも考えられている。日本でも見世物や医療器具として利用されたが、主に好奇による注目であった。また、寛政の改革による贅沢の禁止や出版統制などにより、電気に関する科学的理解・研究は後の開国以降や明治期まで停滞することとなった。<br />
+<br />
+源内製造とされる<a href="http://localhost/keyword/%E3%82%A8%E3%83%AC%E3%82%AD%E3%83%86%E3%83%AB">エレキテル</a>が現存しており、うち1台が「<a href="http://localhost/keyword/%E3%82%A8%E3%83%AC%E3%82%AD%E3%83%86%E3%83%AB">エレキテル</a>（平賀家伝来）」として1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>（平成<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）6月30日に国の重要文化財（歴史資料）に指定された。これは現在、東京都墨田区の郵政博物館に収蔵されている。他に平賀源内先生遺品館（香川県さぬき市）にも蓄電瓶がない1台が現存している。<br />
+<br />
+== 関連項目 ==<br />
+* 電気療法<br />
+<br />
+== 外部リンク ==<br />
+* [http://otonanokagaku.net/magazine/vol22/index.html 大人の科学／平賀源内の<a href="http://localhost/keyword/%E3%82%A8%E3%83%AC%E3%82%AD%E3%83%86%E3%83%AB">エレキテル</a>] <br />
+* [http://books.google.co.jp/books?id=PFu8izlj8E8C&amp;hl=ja&amp;printsec=frontcover 和蘭始制ヱレキテル究理原]<br />
+<br />
+<br />
+Category:江戸時代の文化<br />
+Category:日本の科学技術史<br />
+Category:電気<br />
+Category:静電気<br />
+Category:東京都の重要文化財<br />
+Category:平賀源内<br />

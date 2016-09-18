@@ -1,0 +1,64 @@
+description<br />
+<br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>（昭和<a href="http://localhost/keyword/63%E5%B9%B4">63年</a>）7月1日<br />
+|廃止年月日 =<br />
+|乗車人員 = 340<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換 =<br />
+|備考 =<br />
+}}<br />
+<br />
+駅改札（2003年7月）<br />
+<br />
+&#39;卸町駅&#39;（おろしまちえき）は、福島県福島市鎌田にある阿武隈急行線の駅。キャッチフレーズは、「とんやの街」。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線の地上駅である。20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>4月1日より無人駅となった。<br />
+<br />
+構内には、待合室、トイレ、自動販売機（飲料）、蕎麦游膳「阿部」がある。蕎麦游膳｢阿部｣が定休日のときは、待合室は締切となる。<br />
+<br />
+== 利用状況 ==<br />
+* 阿武隈急行 - 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度の1日平均乗車人員は、340人である[https://www.pref.fukushima.lg.jp/uploaded/attachment/104840.xls 第130回福島県統計年鑑]。<br />
+* 近年の乗車人員は以下の通りである（いずれも1日平均）。<br />
+<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+駅の南部に福島市中央卸売市場や福島卸商団地などが広がる。周辺一帯は文字通り問屋街となっており、福島市内外の流通の要となっている。<br />
+* JR東日本東北本線東福島駅<br />
+* 福島市役所北信支所・北信学習センター<br />
+* 福島卸商団地<br />
+* 福島市中央卸売市場<br />
+* 大原医療センター<br />
+* ローソン福島鎌田卸町店<br />
+* 東邦銀行北福島支店<br />
+* 福島卸町簡易郵便局<br />
+<br />
+== 歴史 ==<br />
+* 19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>（昭和<a href="http://localhost/keyword/63%E5%B9%B4">63年</a>）7月1日 - 開業。<br />
+* 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>（平成<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）4月1日 - 福島市シルバー人材センター委託となる。<br />
+* 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>（平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）頃 - 土曜休日の日中も駅員配置となる。<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）4月1日 - 無人駅となる。<br />
+<br />
+== 隣の駅 ==<br />
+; 阿武隈急行<br />
+: ■阿武隈急行線<br />
+:: 福島駅 - （矢野目信号場） - &#39;卸町駅&#39; - 福島学院前駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 卸町駅 (宮城県) - 同名の駅<br />
+* 日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+Category:福島市の鉄道駅<br />
+ろしまち<br />
+Category:阿武隈急行の鉄道駅<br />
+Category:19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>開業の鉄道駅<br />

@@ -1,0 +1,105 @@
+description<br />
+<br />
+| death_place   = 東京都東村山市<br />
+| resting_place = <br />
+| occupation    = 言語学者評論家<br />
+| language      = 日本語<br />
+| nationality   = <br />
+| education     = <br />
+| alma_mater    = 府立工芸大学（現在の東京都立工芸高等学校）中途退学（1<a href="http://localhost/keyword/927%E5%B9%B4">927年</a>）<br />
+| period        = 1<a href="http://localhost/keyword/948%E5%B9%B4">948年</a> - 19<a href="http://localhost/keyword/89%E5%B9%B4">89年</a><br />
+| genre         = 言語論表現論認識論<br />
+| subject       = 日本語論マルクス主義<br />
+| movement      = <br />
+| notable_works = 『弁証法はどういう科学か』（1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>）『言語学と記号学』（1<a href="http://localhost/keyword/977%E5%B9%B4">977年</a>）『認識と言語の理論』（200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）<br />
+| awards        = <br />
+| debut_works   =『哲学入門』（1<a href="http://localhost/keyword/948%E5%B9%B4">948年</a>）<br />
+| spouse        = 横須賀壽子（妻）<br />
+| partner       = <br />
+| children      = <br />
+| relations     = <br />
+| influences    = 時枝誠記ディーツゲン<a href="http://localhost/keyword/%E3%82%A8%E3%83%B3%E3%82%B2%E3%83%AB%E3%82%B9">エンゲルス</a><br />
+| influenced    = 亀井秀雄板倉聖宣滝村隆一<br />
+| signature     = <br />
+| website       =<br />
+<br />
+}}<br />
+&#39;三浦 つとむ&#39;（みうら - 、1<a href="http://localhost/keyword/911%E5%B9%B4">911年</a>（明治<a href="http://localhost/keyword/44%E5%B9%B4">44年</a>）2月15日 - 19<a href="http://localhost/keyword/89%E5%B9%B4">89年</a>（平成元年）10月27日）は、日本の言語学者。マルクス主義者で在野の主体的唯物論者。<br />
+<br />
+== 人物 ==<br />
+本名、三浦二郎。東京都生まれ。<br />
+<br />
+フリードリヒ・<a href="http://localhost/keyword/%E3%82%A8%E3%83%B3%E3%82%B2%E3%83%AB%E3%82%B9">エンゲルス</a>及びヨセフ・ディーツゲンを師と仰ぎ、写植の仕事をしながら独学者として勉強し、映画論などを発表。戦後は『弁証法はどういう科学か』のヒットから著述業に専念し、晩年には吉本隆明主宰の雑誌『試行』に論文を定期的に掲載した。<br />
+<br />
+=== 言語学者として ===<br />
+弁証法的唯物論の立場から時枝誠記の時枝文法・言語過程説を批判的に継承することで、独自の言語論を打ち立てる。彼の立場は独自のマルクス主義に基く内容主義であり、そこから言語学における形式主義及び機能主義の批判を行なった。具体的には、ソシュールを祖とする構造言語学の批判や言語過程説における機能主義の批判などである。<br />
+<br />
+彼は言語を絵画や彫刻などと同じ表現の一種であると規定した上で、「対象－認識－表現」という言語表現の客観的生成過程が、その結果である言語形式に関係として保存されたものが内容であるとした（参照：[http://unicorn.ike.tottori-u.ac.jp/ikehara/paper/html/1_21_2.htm 用語解説]）。この内容論に基く積極的な成果としては『認識と言語の理論』（1<a href="http://localhost/keyword/967%E5%B9%B4">967年</a>（昭和<a href="http://localhost/keyword/42%E5%B9%B4">42年</a>））、『日本語の文法』（1<a href="http://localhost/keyword/975%E5%B9%B4">975年</a>（昭和<a href="http://localhost/keyword/50%E5%B9%B4">50年</a>））、『言語学と記号学』（1<a href="http://localhost/keyword/977%E5%B9%B4">977年</a>（昭和<a href="http://localhost/keyword/52%E5%B9%B4">52年</a>））などが挙げられる。なお、特に一般向けに書かれたものとして『日本語はどういう言語か』（1<a href="http://localhost/keyword/956%E5%B9%B4">956年</a>（昭和<a href="http://localhost/keyword/31%E5%B9%B4">31年</a>））がある。<br />
+<br />
+現在、<a href="http://localhost/keyword/%E4%B8%89%E6%B5%A6%E3%81%A4%E3%81%A8%E3%82%80">三浦つとむ</a>の言語論は自然言語処理の分野で認められ、（1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a>（平成<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>））以降、<a href="http://localhost/keyword/%E4%B8%89%E6%B5%A6%E3%81%A4%E3%81%A8%E3%82%80">三浦つとむ</a>の研究者と自然言語処理の研究者が中心となって「言語・認識・表現」研究会（LACE）を開催している。<br />
+<br />
+=== 国家論 ===<br />
+国家論については、<a href="http://localhost/keyword/%E3%82%A8%E3%83%B3%E3%82%B2%E3%83%AB%E3%82%B9">エンゲルス</a>についての研究から「国家意思説」（国家は国民に対し国家意思を法という規範として押しだす）を唱えた。<br />
+<br />
+=== マルクス主義者として ===<br />
+レーニン真理論の批判、スターリンのスターリン言語学の批判、ミーチン式弁証法的唯物論の批判などを行った。このため日本共産党から除名された。のち「官許マルクス主義」としてスターリン主義や毛沢東主義を批判した。また、レーニンの誤謬をも指摘した。<br />
+<br />
+== 著作 ==<br />
+上記以外にも『弁証法はどういう科学か』『この直言を敢てする』など、三十冊以上の著作がある。詳細は[http://blogs.dion.ne.jp/liger_one/archives/cat_44065.html <a href="http://localhost/keyword/%E4%B8%89%E6%B5%A6%E3%81%A4%E3%81%A8%E3%82%80">三浦つとむ</a>著作一覧]、或いは「<a href="http://localhost/keyword/%E4%B8%89%E6%B5%A6%E3%81%A4%E3%81%A8%E3%82%80">三浦つとむ</a>著作目録」（『胸中にあり火の柱』所収）を参照の事。<br />
+<br />
+最初の著作が『哲学入門』（1<a href="http://localhost/keyword/948%E5%B9%B4">948年</a>（昭和<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>））だったために生前から哲学者として扱われることが多かったが、本人はそれを厭い、科学者を自認していた。<br />
+<br />
+==影響==<br />
+吉本隆明とは雑誌『試行』の同人であり、家族ぐるみの付き合いがあった。吉本は『言語にとって美とはなにか』の中で、三浦の意味論を批判しながらも一定の評価を与えており、『日本語はどういう言語か』に解説も寄せて居る。<br />
+<br />
+以下、三浦理論に影響を受けた研究者を羅列しておく。<br />
+<br />
+*川島正平（日本語学） <br />
+*上田博和（日本語学） <br />
+*内田慶市（中国語学） <br />
+*小川文昭（中国語学） <br />
+*宮下眞二（英語学） <br />
+*矢吹眞康（英語学） <br />
+*鈴木覺（フランス語学） <br />
+*池原悟（自然言語処理）<br />
+*白井諭(自然言語処理)　日本語語彙体系  <br />
+*宮崎正弘（自然言語処理） <br />
+*亀井秀雄（文学） <br />
+*庄司和晃（教育学） <br />
+*板倉聖宣（科学史） <br />
+*黒川新二（精神医学） <br />
+*松本健二（脳科学） <br />
+*薄井坦子（看護学） <br />
+*岡本喜代子（助産学）<br />
+*高木宏夫（宗教学）<br />
+*津田道夫（国家論）<br />
+*<a href="http://localhost/keyword/%E5%8D%97%E9%83%B7%E7%B6%99%E6%AD%A3">南郷継正</a>（武道論） <br />
+*富樫宜資（武道論） <br />
+<br />
+若き滝村隆一（政治学）は一時、三浦に傾倒し、親交があったようだが、その後、｛<a href="http://localhost/keyword/%E4%B8%89%E6%B5%A6%E3%81%A4%E3%81%A8%E3%82%80">三浦つとむ</a>の学的本領は言語学にこそあり、彼は本格的な社会科学者ではなかった｝という評価を与えている。<br />
+<br />
+橋爪大三郎（社会学）は三浦に「信頼すべき<a href="http://localhost/keyword/%E5%90%88%E7%90%86%E4%B8%BB%E7%BE%A9">合理主義</a>者」と一定の評価と言及を与えている。<br />
+<br />
+== 参考文献 ==<br />
+*横須賀壽子編『胸中にあり火の柱』（明石書店、200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>（平成<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>））は<a href="http://localhost/keyword/%E4%B8%89%E6%B5%A6%E3%81%A4%E3%81%A8%E3%82%80">三浦つとむ</a>の追悼文集であり、生活上、研究上、社会運動上において直接親交のあった人々から、芸術家、大学研究者、刺激・感銘を受けた在野研究者・社会活動家に至るまでが、<a href="http://localhost/keyword/%E4%B8%89%E6%B5%A6%E3%81%A4%E3%81%A8%E3%82%80">三浦つとむ</a>にまつわるエピ<a href="http://localhost/keyword/%E3%82%BD%E3%83%BC%E3%83%89">ソード</a>、<a href="http://localhost/keyword/%E4%B8%89%E6%B5%A6%E3%81%A4%E3%81%A8%E3%82%80">三浦つとむ</a>の主張に対する受容の仕方を語っている。<br />
+*川島正平『言語過程説の研究』（リーベル出版、』（19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>（平成<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>））は、ソシュールから橋本進吉、時枝誠記らの理論と比較しながら、<a href="http://localhost/keyword/%E4%B8%89%E6%B5%A6%E3%81%A4%E3%81%A8%E3%82%80">三浦つとむ</a>の言語論の有効性を解説し、コンパクトにまとめている。<br />
+*佐良木昌編『言語過程説の探求　第一巻』（明石書店、』（200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>（平成<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>））は論文集。時枝誠記及び<a href="http://localhost/keyword/%E4%B8%89%E6%B5%A6%E3%81%A4%E3%81%A8%E3%82%80">三浦つとむ</a>の見地から言語学各分野の論文を所収。全三巻が予定されている。<br />
+<br />
+== 関連項目 ==<br />
+*日本語学<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.interq.or.jp/pluto/yassy/ 川島正平のページ]（『言語過程説の研究』の著者のサイト。本の一部が公開されている）<br />
+*[http://homepage2.nifty.com/k-sekirei/symposium/japan/miura_01.html <a href="http://localhost/keyword/%E4%B8%89%E6%B5%A6%E3%81%A4%E3%81%A8%E3%82%80">三浦つとむ</a>の拡がり]<br />
+**[http://homepage2.nifty.com/k-sekirei/others-toc.html#koku その他の発言目次]<br />
+*[http://www.geocities.jp/okr_chicagob/ ことば、認識と表現のページ]<br />
+*[http://tannkyuu.web.fc2.com/a.html 探求　<a href="http://localhost/keyword/%E4%B8%89%E6%B5%A6%E3%81%A4%E3%81%A8%E3%82%80">三浦つとむ</a>　滝村隆一に学ぶ]<br />
+*[http://unicorn.ike.tottori-u.ac.jp/ikehara/paper/html/1_21_2.htm 用語解説]（<a href="http://localhost/keyword/%E4%B8%89%E6%B5%A6%E3%81%A4%E3%81%A8%E3%82%80">三浦つとむ</a>の意味論を解説）<br />
+*[http://blogs.dion.ne.jp/liger_one/archives/cat_44065.html <a href="http://localhost/keyword/%E4%B8%89%E6%B5%A6%E3%81%A4%E3%81%A8%E3%82%80">三浦つとむ</a>著作一覧]<br />
+*[http://en.wikipedia.org/wiki/Tsutomu_Miura Tsutomu Miura]<br />
+<br />
+<br />
+Category:日本の言語学者<br />
+Category:東京都区部出身の人物<br />
+Category:1<a href="http://localhost/keyword/911%E5%B9%B4">911年</a>生<br />
+Category:19<a href="http://localhost/keyword/89%E5%B9%B4">89年</a>没<br />

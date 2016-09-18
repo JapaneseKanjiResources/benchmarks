@@ -1,0 +1,105 @@
+description<br />
+<br />
+<br />
+|駅構造     = 地上駅<br />
+|ホーム     = 2面3線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/897%E5%B9%B4">897年</a>（明治<a href="http://localhost/keyword/30%E5%B9%B4">30年</a>）7月2日<br />
+|廃止年月日 = <br />
+|乗車人員   = 401<br />
+|乗降人員   = <br />
+|統計年度   = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|乗換       = <br />
+|備考       = <br />
+}}<br />
+ホーム（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>10月）<br />
+2代目<a href="http://localhost/keyword/%E4%B8%8A%E5%B7%9E%E5%AF%8C%E5%B2%A1%E9%A7%85">上州富岡駅</a>　建替に伴い20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>2月に解体された<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E4%B8%8A%E5%B7%9E%E5%AF%8C%E5%B2%A1%E9%A7%85">上州富岡駅</a>&#39;（じょうしゅうとみおかえき）は、群馬県富岡市富岡にある上信電鉄上信線の駅である。<br />
+<br />
+世界遺産に登録された富岡製糸場の最寄り駅である。<br />
+<br />
+== 概要 ==<br />
+上信電鉄の中では高崎駅・吉井駅・<a href="http://localhost/keyword/%E4%B8%8B%E4%BB%81%E7%94%B0%E9%A7%85">下仁田駅</a>とともに主要駅で、常時2名の駅員が配置されている。当駅発着の列車も設定されている。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/897%E5%B9%B4">897年</a>（明治<a href="http://localhost/keyword/30%E5%B9%B4">30年</a>）7月2日 &#39;富岡駅&#39;として初代駅舎開業。<br />
+* 1<a href="http://localhost/keyword/921%E5%B9%B4">921年</a>（大正<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>）駅名を&#39;<a href="http://localhost/keyword/%E4%B8%8A%E5%B7%9E%E5%AF%8C%E5%B2%A1%E9%A7%85">上州富岡駅</a>&#39;に改称。<br />
+* 1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>（昭和<a href="http://localhost/keyword/45%E5%B9%B4">45年</a>）8月24日 2代目駅舎に建替え。<br />
+* 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）3月13日 3代目駅舎建替新築工事開始。<br />
+* 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>（平成<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>）3月17日 3代目駅舎開業。<br />
+<br />
+== 駅構造 ==<br />
+* 島式ホームおよび単式ホーム2面3線の地上駅である。<br />
+* 駅構内にはインフォメーションスペースが設置されており、富岡製糸場を含めたまちの観光案内などが掲示されている。<br />
+* 駅事務室には上信電鉄の他、上信ハイヤーの事務室が併設されており、駅前ロータリーからは乗合タクシーの発着が可能となっている。<br />
+* 終日有人駅。公共スペースには駐輪場・公衆トイレ・自動販売機設置<br />
+* 高見沢製自動券売機設置<br />
+* 道路を挟んだ向かいの駐車場を含めた交流広場や敷地と隣接した環境広場も駅舎や駅前広場と一体的なデザインで計画されている。<br />
+<br />
+=== のりば ===<br />
+<br />
+駅舎から最も遠いのりばが1番線となっている。また、単式ホームには番線表示が設置されていない。<br />
+<br />
+== 駅舎 ==<br />
+* 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>3月17日に供用開始した3代目駅舎は煉瓦壁で作られた富岡製糸場への玄関口という点を考慮し、等間隔に配された鉄骨柱に煉瓦壁が巻きつくデザインとなっている。富岡製糸場の煉瓦を引き立たせる為、製糸場の煉瓦とは異なる色（薄茶色）の煉瓦を使用している。駅舎全体は高さ約6.5mの屋根で覆われた半外部空間を持つ開放的なデザインとなっている。<br />
+* 駅舎全体は「鉄骨煉瓦積造(鉄骨造と煉瓦積造の混構造)」で支えられている。これは柱に溶接されたブ<a href="http://localhost/keyword/%E3%83%AC%E3%83%BC%E3%82%B9">レース</a>（筋交い）を煉瓦で挟み込むことで強い耐震性を得る独特な構造形式である。※富岡製糸場の構造形式は「木骨煉瓦積造」<br />
+* 煉瓦積は富岡製糸場と同じ「フランス積み」を基本としながら、構造体のブ<a href="http://localhost/keyword/%E3%83%AC%E3%83%BC%E3%82%B9">レース</a>を煉瓦で挟み込むことで煉瓦の並びに独特の変化が生じる富岡駅特有の煉瓦積みとなっている。<br />
+* 駅構内及び駅舎周辺広場のサイン計画はイヤマデザインが担当している。<br />
+* 建替に伴い20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>に<a href="http://localhost/keyword/%E4%B8%8A%E5%B7%9E%E5%AF%8C%E5%B2%A1%E9%A7%85">上州富岡駅</a>舎デザイン検討委員会を設置し、20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>に<a href="http://localhost/keyword/%E4%B8%8A%E5%B7%9E%E5%AF%8C%E5%B2%A1%E9%A7%85">上州富岡駅</a>舎設計提案競技を実施。全国から施設提案の一般公募を行い、応募総数359件から最優秀案に選ばれた武井誠+鍋島千恵/TNA(ティー・エヌ・エー)の設計により建替が進められた。20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>から20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>にかけて群馬県、富岡市、上信電鉄、観光まちづくり団体、地元市民、設計者等を交えた「駅まち会議」で建替えの方向性の議論が行われた。20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>3月に着工し、20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>3月17日に3代目駅舎の開業式を迎えた。<br />
+<br />
+; 受賞歴<br />
+* 第12回ブルネル賞<br />
+* 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度グッドデザイン賞<br />
+* 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>度日本建築学会賞<br />
+* 第56回BCS賞　特別賞<br />
+<br />
+=== 旧駅舎 ===<br />
+* 1<a href="http://localhost/keyword/897%E5%B9%B4">897年</a>（明治<a href="http://localhost/keyword/30%E5%B9%B4">30年</a>）に完成した初代駅舎について、当時は路線バスの発着場も併設されていた。<br />
+<br />
+== 利用状況 ==<br />
+* 朝夕のラッシュ時には沿線へ通学する高校生でにぎわう。<br />
+* 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>度の1日平均乗車人員は401人である。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 富岡市役所<br />
+* 富岡警察署<br />
+* 富岡小沢郵便局<br />
+* 富岡郵便局<br />
+* 旧官営富岡製糸場（片倉工業富岡工場） - 駅南西徒歩10分<br />
+* 群馬県立富岡東高等学校<br />
+* 群馬県立富岡実業高等学校<br />
+* 群馬県道206号富岡停車場線<br />
+* 群馬県道10号前橋安中富岡線<br />
+* 国道254号<br />
+<br />
+== 路線バス ==<br />
+<br />
+<br />
+安中市と富岡市が民間業者に委託し、20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>（平成<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>）7月13日から12月21日まで毎週日曜日に横川駅行きの臨時バスを運行され、同日に運行されるJR信越線のSLなどとの連携を採ることで観光客の招致を目指すことになった（一部の便は磯部駅を経由する）。<br />
+<br />
+== 隣の駅 ==<br />
+; 上信電鉄<br />
+: 上信線<br />
+:: 東富岡駅 - &#39;<a href="http://localhost/keyword/%E4%B8%8A%E5%B7%9E%E5%AF%8C%E5%B2%A1%E9%A7%85">上州富岡駅</a>&#39; - 西富岡駅 <br />
+<br />
+== その他 ==<br />
+* 駅舎建替にともない、20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>2月には「現駅舎お別れ記念入場券セット」が発売された。<br />
+* 頻繁に地元中学生の職場体験を受け入れている。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+<br />
+Category:群馬県の鉄道駅<br />
+ようしゆうとみおか<br />
+Category:上信電鉄の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/897%E5%B9%B4">897年</a>開業の鉄道駅<br />
+しようしゆうとみおかえき<br />

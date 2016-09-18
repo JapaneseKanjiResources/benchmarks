@@ -1,0 +1,44 @@
+description<br />
+<br />
+|開業年月日 = 19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>（昭和<a href="http://localhost/keyword/35%E5%B9%B4">35年</a>）8月1日<br />
+|廃止年月日 = 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）3月28日<br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|乗車人員 = 63<br />
+|統計年度 = 1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a><br />
+|備考 = <br />
+|備考全幅  = <br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E4%B8%AD%E5%AE%89%E6%A5%BD%E9%A7%85">中安楽駅</a>&#39;（なかあんらくえき）は、かつて鹿児島県曽於郡志布志町安楽（現・志布志市志布志町安楽）にあった日本国有鉄道（国鉄）志布志線の駅（廃駅）である。志布志線廃止に伴い1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）3月28日に廃止となった。<br />
+現在は、安楽保育園前に<a href="http://localhost/keyword/%E4%B8%AD%E5%AE%89%E6%A5%BD%E9%A7%85">中安楽駅</a>跡として残る。<br />
+== 歴史 ==<br />
+* 19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>（昭和<a href="http://localhost/keyword/35%E5%B9%B4">35年</a>）8月1日 - 開業。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）3月28日 - 志布志線廃止に伴い廃駅となる。<br />
+<br />
+== 廃止時の駅構造 ==<br />
+* 片面ホーム1面1線の地上駅であった。<br />
+* 無人駅であった。<br />
+<br />
+== 駅周辺 ==<br />
+* 山宮神社<br />
+** 天然記念物の「志布志の大クス」は天智天皇が植えたと伝わる。<br />
+<br />
+== 隣の駅 ==<br />
+; 日本国有鉄道<br />
+: 志布志線<br />
+:: 安楽駅 - &#39;<a href="http://localhost/keyword/%E4%B8%AD%E5%AE%89%E6%A5%BD%E9%A7%85">中安楽駅</a>&#39; - 志布志駅<br />
+<br />
+== 関連項目 ==<br />
+* 廃駅<br />
+* 日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+<br />
+Category:鹿児島県の廃駅<br />
+かあんらく<br />
+Category:日本国有鉄道の廃駅<br />
+Category:19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>開業の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>廃止の鉄道駅<br />
+廃なかあんらくえき<br />
+なかあんらくえき<br />

@@ -1,0 +1,49 @@
+description<br />
+<br />
+| 設置場所 = 東京都神津島村<br />
+| タイプ = 商業<br />
+| 運営者 = 東京都港湾局<br />
+| 標高 m = 138.4<br />
+| 標高 ft =454.1<br />
+| 緯度度 = 34|緯度分 = 11|緯度秒 = 10|N(北緯)及びS(南緯) = N<br />
+| 経度度 = 139|経度分 = 08|経度秒 = 12|E(東経)及びW(西経) = E<br />
+| ウェブサイト = [http://www.kouwan.metro.tokyo.jp/jigyo/tmg-airport/kozushima_top.html <a href="http://localhost/keyword/%E7%A5%9E%E6%B4%A5%E5%B3%B6%E7%A9%BA%E6%B8%AF">神津島空港</a>]<br />
+| 座標地域 = JP<br />
+| 地図名 = Japan<br />
+| 地図ラベル = RJAZ<br />
+| 地図説明 = <a href="http://localhost/keyword/%E7%A5%9E%E6%B4%A5%E5%B3%B6%E7%A9%BA%E6%B8%AF">神津島空港</a>の位置<br />
+| 方向 滑走路1 = 11/29<br />
+| ILS 滑走路1 = NO<br />
+| 全長 滑走路1 m = 800<br />
+| 全幅 滑走路1 = 25<br />
+| 全長 滑走路1 ft = 2,625<br />
+| 表面 滑走路1 = 舗装<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E7%A5%9E%E6%B4%A5%E5%B3%B6%E7%A9%BA%E6%B8%AF">神津島空港</a>&#39;（こうづしまくうこう Kouzushima Airport）は、東京都神津島村（神津島）にある空港。東京都港湾局が運営している東京都営空港の一つ。空港法の分類では地方管理空港（旧空港整備法の分類では第三種空港）。<br />
+<br />
+== 沿革 ==<br />
+* 1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a>7月 - 開港。<br />
+<br />
+== 運航路線 ==<br />
+* &#39;新中央航空&#39;<br />
+** <a href="http://localhost/keyword/%E7%A5%9E%E6%B4%A5%E5%B3%B6%E7%A9%BA%E6%B8%AF">神津島空港</a> - 調布飛行場 （1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a>7月路線開設）<br />
+10:00発、13:00発、15:15発の3便が運航している。<br />
+<br />
+== アクセス ==<br />
+* &#39;神津島村営バス&#39;<br />
+** 神津島港発着便<br />
+<br />
+== 関連項目 ==<br />
+* 日本の空港<br />
+* 航空交通管制<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.kouwan.metro.tokyo.jp/jigyo/tmg-airport/kozushima_top.html <a href="http://localhost/keyword/%E7%A5%9E%E6%B4%A5%E5%B3%B6%E7%A9%BA%E6%B8%AF">神津島空港</a>] - 東京都港湾局<br />
+* [http://www.cab.mlit.go.jp/tcab/conditions/04_kanto/07_kouzushima.html <a href="http://localhost/keyword/%E7%A5%9E%E6%B4%A5%E5%B3%B6%E7%A9%BA%E6%B8%AF">神津島空港</a>] - 国土交通省東京航空局<br />
+<br />
+<br />
+<br />
+<br />
+こうつしま<br />
+Category:東京都島嶼部の交通<br />
+Category:神津島村<br />

@@ -1,0 +1,143 @@
+description<br />
+<br />
+|開業年月日 = 1<a href="http://localhost/keyword/899%E5%B9%B4">899年</a>（明治3<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）10月21日<br />
+|駅構造 = 地上駅（橋上駅）<br />
+|ホーム = 2面3線<br />
+|廃止年月日 =<br />
+|乗車人員 = 2,203<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a><br />
+|乗入路線数 = 2<br />
+|所属路線1 = 東北本線（宇都宮線）<br />
+|前の駅1 = 岡本<br />
+|駅間A1 = 5.5<br />
+|駅間B1 = 5.9<br />
+|次の駅1 = 氏家<br />
+|駅番号1 =<br />
+|キロ程1 = 121.2km（東京起点）上野から尾久経由で117.8<br />
+|起点駅1 = <br />
+|所属路線2 = 烏山線<br />
+|隣の駅2 = <br />
+|前の駅2 = **（岡本）<br />
+|駅間A2 = -<br />
+|駅間B2 = 3.9<br />
+|次の駅2 = 下野花岡<br />
+|駅番号2 =<br />
+|キロ程2 = 0.0<br />
+|起点駅2 = 宝積寺<br />
+|乗換 =<br />
+|備考 = みどりの窓口 有<br />
+|備考全幅 = * 貨物列車の発着は無く、休止状態。** 一部列車が宇都宮駅まで乗り入れ。<br />
+}}<br />
+<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E5%AE%9D%E7%A9%8D%E5%AF%BA%E9%A7%85">宝積寺駅</a>&#39;（ほうしゃくじえき）は、栃木県塩谷郡高根沢町大字宝積寺にある、東日本旅客鉄道（JR東日本）・日本貨物鉄道（JR貨物）の駅である。<br />
+<br />
+当駅の所属線である『停車場変遷大事典 国鉄・JR編』JTB 1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a>東北本線と、当駅を起点とする烏山線との分岐駅である。烏山線の一部の列車は当駅から東北本線を経由して宇都宮駅まで直通する。また東北本線は「宇都宮線」の愛称区間に含まれている。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/899%E5%B9%B4">899年</a>（明治3<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）10月21日 - 日本鉄道の駅として開業[ 「停車場設置」『官報』1<a href="http://localhost/keyword/899%E5%B9%B4">899年</a>10月23日]（国立国会図書館デジタル化資料）。<br />
+* 1<a href="http://localhost/keyword/906%E5%B9%B4">906年</a>（明治<a href="http://localhost/keyword/39%E5%B9%B4">39年</a>）11月1日 - 鉄道国有法により国有化。<br />
+* 1<a href="http://localhost/keyword/909%E5%B9%B4">909年</a>（明治<a href="http://localhost/keyword/42%E5%B9%B4">42年</a>）10月12日 - 線路名称制定により東北本線の所属となる。<br />
+* 1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>（大正<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）4月15日 - 烏山線 当駅 - 烏山間が開通。<br />
+* 1<a href="http://localhost/keyword/942%E5%B9%B4">942年</a>（昭和<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）11月1日 - 宇都宮陸軍航空廠線竣工。<br />
+* 1<a href="http://localhost/keyword/942%E5%B9%B4">942年</a>（昭和<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）11月6日 - 宇都宮陸軍航空廠線列車運行開始。<br />
+* 1<a href="http://localhost/keyword/945%E5%B9%B4">945年</a>（昭和<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）11月1日 - 宇都宮陸軍航空廠線廃止。<br />
+* 1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>（昭和<a href="http://localhost/keyword/59%E5%B9%B4">59年</a>）2月1日 - ダイヤ改正に伴い、丸善石油専用線の使用を終了。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化によりJR東日本・JR貨物の駅となる。<br />
+* 200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>（平成<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>）10月16日 - ICカードSuica供用開始。<br />
+* 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>（平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）3月18日 - 貨物列車の設定を廃止。<br />
+** 駅北側にある太平洋セメント宇都宮北<a href="http://localhost/keyword/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3">サービスステーション</a>へ専用線が続き、セメント輸送を行っていたが、トラック輸送に転換されて廃止された。<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）<br />
+** 10月28日 - 橋上駅舎の供用が開始され、東口の使用を開始。<br />
+** 11月1日 - 指定席券売機稼動開始。<br />
+* 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>（平成<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）<br />
+** 3月 - 西口の通常使用を開始。<br />
+** 9月30日 - 鉄道デザインの国際デザインコンペティション「ブルネル賞」で建築部門の奨励賞を受賞。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線と島式ホーム1面2線の合計2面3線のホームを有する地上駅である。<br />
+<br />
+駅舎は200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>3月に竣工した橋上駅舎で、駅舎および自由通路は隈研吾建築都市設計事務所によって設計された。改築に伴い東口が新設され、1番線（宇都宮線下り列車）プラットホームは嵩上げ工事が実施された。発車メロディも同時に変更されている。<br />
+<br />
+駅舎改築後も自動改札機は導入されず、簡易Suica改札機が移設されている。また、みどりの窓口（営業時間 7:00～18:00）と指定席券売機も設置されている。当駅より烏山線（下野花岡 - 烏山間）内はSuicaなどICカード<a href="http://localhost/keyword/%E4%B9%97%E8%BB%8A%E5%88%B8">乗車券</a>の利用ができない。<br />
+<br />
+終日社員配置駅。烏山線の運転扱いを行うため、輸送係も配置されている。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+* 本項では上野東京ラインのラインカラー紫、烏山線のラインカラーをで示すが、実際のホーム案内はすべてオ<a href="http://localhost/keyword/%E3%83%AC%E3%83%B3%E3%82%B8">レンジ</a>で案内されている。 <br />
+* 200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>3月13日のダイヤ改正以降、湘南新宿ラインの列車は当駅に乗り入れなくなった。<br />
+<br />
+<br />
+File:宇都宮線 <a href="http://localhost/keyword/%E5%AE%9D%E7%A9%8D%E5%AF%BA%E9%A7%85">宝積寺駅</a>駅舎 東口.JPG|駅舎（20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>12月24日）<br />
+ファイル:Hōshakuji Station New Aisle.jpg|東西自由通路（200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>12月16日）<br />
+ファイル:Hōshakuji Station Platform 1.jpg|1番線ホーム（200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>12月10日）<br />
+ファイル:Hōshakuji_Station_Platform_2%263.jpg|2・3番線ホーム（200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>12月10日）<br />
+<br />
+<br />
+== 利用状況 ==<br />
+* 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>度の1日平均乗車人員は2,203人である。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+=== 西口 ===<br />
+* 国道4号<br />
+* 栃木県道101号宝積寺停車場線<br />
+* 鬼怒グリーンパーク<br />
+* マニー高根沢工場<br />
+* 栃木県民ゴルフ場<br />
+* 鬼怒川<br />
+* 太平洋セメント 宇都宮北<a href="http://localhost/keyword/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3">サービスステーション</a><br />
+* 宝積寺中台簡易郵便局<br />
+<br />
+=== 東口 ===<br />
+* 高根沢町役場<br />
+* ちょっ蔵広場（設計：隈研吾建築都市設計事務所。駅東口と接続。集会所・展示場・多目的ホール。）<br />
+* 栃木県道10号宇都宮那須烏山線<br />
+* 栃木県道101号宝積寺停車場線<br />
+* 栃木県道156号石末真岡線<br />
+* 栃木県道<a href="http://localhost/keyword/176">176</a>号杉山石末線<br />
+* 高根沢郵便局<br />
+* 宮内庁御料牧場<br />
+* 情報の森とちぎ<br />
+* 足利銀行 宝積寺支店<br />
+* 有料駐車場<br />
+<br />
+== 路線バス ==<br />
+<br />
+<br />
+== 隣の駅 ==<br />
+; 23px東日本旅客鉄道<br />
+: 宇都宮線<br />
+:: 通勤快速・快速「ラビット」・普通<br />
+::: 岡本駅 - &#39;<a href="http://localhost/keyword/%E5%AE%9D%E7%A9%8D%E5%AF%BA%E9%A7%85">宝積寺駅</a>&#39; - 氏家駅<br />
+: 烏山線<br />
+::: （岡本駅 -） &#39;<a href="http://localhost/keyword/%E5%AE%9D%E7%A9%8D%E5%AF%BA%E9%A7%85">宝積寺駅</a>&#39; - 下野花岡駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+* 宝積寺（京都にある同名の寺院。別名「宝寺」「大黒天保寺」）<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=1398 JR東日本 <a href="http://localhost/keyword/%E5%AE%9D%E7%A9%8D%E5%AF%BA%E9%A7%85">宝積寺駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:栃木県の鉄道駅<br />
+うしやくし<br />
+Category:日本鉄道<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:日本貨物鉄道の鉄道駅<br />
+Category:宇都宮線<br />
+Category:烏山線<br />
+Category:1<a href="http://localhost/keyword/899%E5%B9%B4">899年</a>開業の鉄道駅<br />

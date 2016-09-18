@@ -1,0 +1,30 @@
+description<br />
+<a href="http://localhost/keyword/Progeny%20Debian">Progeny Debian</a> 3.0pr2<br />
+&#39;<a href="http://localhost/keyword/Progeny%20Debian">Progeny Debian</a>&#39;（プロジェニー・デビアン）とは、インストーラーに Red Hat (Enterprise) Linux から移植した Anaconda を採用した、インストールが極めて容易な Debian ベースの Linuxディストリビューション である。<br />
+<br />
+200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>4月30日メーリングリストに、「200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>4月30日を持ってProgeny社の営業終了が終了した」とのアナウンスが流され、事実上開発は終了した。<br />
+[http://journal.mycom.co.jp/news/2007/05/02/001/ 米Progenyが営業終了 - サポート切れRed Hat向けサービスの今後は] マイコミジャーナル<br />
+<br />
+<br />
+== 概要 ==<br />
+Red Hat 系ディストリビューションでインストール用に広く利用されている Anaconda を採用していた。このインストーラーは、 Debian 3.1 (Sarge) 用に開発されたDebianインストーラと比較しても、さらにハードウェアの自動認識が高いので、システムにそれほど詳し<a href="http://localhost/keyword/%E3%81%8F%E3%81%AA%E3%81%84">くない</a>ユーザーであっても簡単にインストールが可能であった。<br />
+<br />
+元々はDebian開発に携わっている中心的開発者の一人イアン・マードック(Ian Murdock)が立ち上げたプロジェクトである。<a href="http://localhost/keyword/Progeny%20Debian">Progeny Debian</a> の開発は一時中止された経緯があるが、近年になって <a href="http://localhost/keyword/Progeny%20Debian">Progeny Debian</a> 2.0 Beta より再開され、<a href="http://localhost/keyword/Progeny%20Debian">Progeny Debian</a> 3.0 の正式リリースに向けて開発が進められていた。<br />
+<br />
+<a href="http://localhost/keyword/Progeny%20Debian">Progeny Debian</a> は、Debian 3.1 (Sarge) 互換のシステムであり、Sarge用にリリースされた膨大なパッケージを利用することが可能であった。パッケージの管理は APT あるいはそのグラフィカルなフロントエンド Synaptic を使って行うので、Debian と比較して機能・操作性という点で遜色がなかった。<br />
+<br />
+<a href="http://localhost/keyword/Progeny%20Debian">Progeny Debian</a> は、LSB に基づいた Componentized Linux プロジェクトの成果物といえる。Componentized Linux は、独自のディストリビューション開発に役立てることが可能。<br />
+<br />
+== 関連項目 ==<br />
+*Linux<br />
+*Debian<br />
+*:en:Progeny Linux Systems (英語)<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 外部リンク ==<br />
+<br />
+*[http://web.archive.org/web/20070421032942rn_1/www.componentizedlinux.org/index.php/Main_Page 公式サイト Componentized Linux Home アーカイブ]（英語）<br />
+<br />
+Category:Linuxディストリビューション<br />

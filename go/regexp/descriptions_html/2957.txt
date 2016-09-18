@@ -1,0 +1,83 @@
+description<br />
+&#39; 奈良線<br />
+|キロ程     = 33.1<br />
+|起点駅     = 京都正式な起点は木津駅<br />
+|所在地幅   = <br />
+|所在地     = 京都府木津川市山城町上狛北野田芝<br />
+|座標       = <br />
+|駅構造     = 地上駅<br />
+|ホーム     = 2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/902%E5%B9%B4">902年</a>（明治<a href="http://localhost/keyword/35%E5%B9%B4">35年</a>）5月3日<br />
+|廃止年月日 = <br />
+|乗車人員   = 416 <br />
+|乗降人員   = <br />
+|統計年度   = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換       = <br />
+|備考       = 簡易委託駅POS端末設置<br />
+|備考全幅   = <br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E4%B8%8A%E7%8B%9B%E9%A7%85">上狛駅</a>&#39;（かみこまえき）は、京都府木津川市山城町上狛北野田芝にある、西日本旅客鉄道（JR西日本）奈良線の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/902%E5%B9%B4">902年</a>（明治<a href="http://localhost/keyword/35%E5%B9%B4">35年</a>）5月3日 - 奈良鉄道の棚倉駅 - 木津駅間に新設開業。<br />
+* 1<a href="http://localhost/keyword/905%E5%B9%B4">905年</a>（明治<a href="http://localhost/keyword/38%E5%B9%B4">38年</a>）2月7日 - 合併により関西鉄道の駅となる。 <br />
+* 190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（明治40年）10月1日 - 関西鉄道が国有化。国有鉄道の駅となる。<br />
+* 1<a href="http://localhost/keyword/909%E5%B9%B4">909年</a>（明治<a href="http://localhost/keyword/42%E5%B9%B4">42年</a>）10月12日 - 線路名称制定。奈良線の所属となる。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、西日本旅客鉄道（JR西日本）の駅となる。<br />
+* 2003年（平成<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）11月1日 - ICカード「ICOCA」供用開始[http://web.archive.org/web/20040803184954/www.westjr.co.jp/news/newslist/article/030820a.html 「ICOCA」いよいよデビュー! 〜 平成<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>11月1日（土）よりサービス開始いたします 〜]（インターネット・アーカイブ） - 西日本旅客鉄道プレスリリース 2003年8月30日。<br />
+<br />
+== 駅構造 ==<br />
+相対式ホーム2面2線を持つ行違い可能な地上駅で、駅本屋側ホームが1番のりば、跨線橋を渡って反対側のホームが、2番のりばである。1番のりばを上下本線とした一線スルーとなっているため、行違いを行わない場合は奈良方面行きの列車も1番のりばに停車する。互いのホームは跨線橋で連絡している。日中は当駅で普通列車同士が交換する(20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>3月現在)<br />
+<br />
+宇治駅管理の簡易委託駅である。奈良線が電化されたときに無人駅となったが、現在は、昼前から夜間にかけて窓口の営業が行われている。<br />
+<br />
+窓口では、定期券・回数券のみPOS端末による発券が行われている。ICカード<a href="http://localhost/keyword/%E4%B9%97%E8%BB%8A%E5%88%B8">乗車券</a>「ICOCA」が利用することができる（相互利用可能ICカードはICOCAの項を参照）また、SMART ICOCAクイックチャージ可能な自動券売機が設置されている。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+== 利用状況 ==<br />
+京都府統計書によると、1日の平均乗車人員は以下の通りである。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 木津川市役所 山城支所（旧・山城町役場）<br />
+* 木津川市立上狛小学校<br />
+* 山城町郵便局<br />
+* 泉橋寺<br />
+* 山城郷土資料館<br />
+<br />
+== 路線バス ==<br />
+; [http://www.city.kizugawa.lg.jp/index.cfm/6,7367,13,102,html 木津川市コミュニティバス　山城線]<br />
+* <a href="http://localhost/keyword/%E4%B8%8A%E7%8B%9B%E9%A7%85">上狛駅</a>口停留所　渋川／木津駅行き（平日のみ運行）<br />
+<br />
+== 隣の駅 ==<br />
+; 西日本旅客鉄道<br />
+: &#39;&#39; 奈良線<br />
+:: みやこ路快速・快速<br />
+::: &#39;通過&#39;<br />
+:: 区間快速・普通<br />
+::: 棚倉駅 - &#39;<a href="http://localhost/keyword/%E4%B8%8A%E7%8B%9B%E9%A7%85">上狛駅</a>&#39; - 木津駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* <br />
+<br />
+<br />
+<br />
+<br />
+Category:京都府の鉄道駅<br />
+みこま<br />
+Category:西日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/902%E5%B9%B4">902年</a>開業の鉄道駅<br />
+Category:関西鉄道<br />
+Category:奈良鉄道<br />
+Category:奈良線<br />
+かみこまえき<br />

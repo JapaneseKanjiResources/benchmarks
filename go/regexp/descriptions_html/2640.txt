@@ -1,0 +1,112 @@
+description<br />
+<br />
+<br />
+|所属事業者 = 東日本旅客鉄道（JR東日本）<br />
+|所属路線 = 常磐線<br />
+|前の駅 = 勿来<br />
+|駅間A = 4.6<br />
+|駅間B = 7.2<br />
+|次の駅 = 泉<br />
+|キロ程 = 187.8<br />
+|起点駅 = 日暮里<br />
+|電報略号 = ウタ<br />
+|駅番号 =<br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/897%E5%B9%B4">897年</a>（明治<a href="http://localhost/keyword/30%E5%B9%B4">30年</a>）2月25日<br />
+|廃止年月日 =<br />
+|乗車人員 = 2,022<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a><br />
+|乗換 =<br />
+|備考 = 業務委託駅<br />
+}}<br />
+駅舎内（改札付近）<br />
+&#39;植田駅&#39;（うえだえき）は、福島県いわき市植田町金畑にある、東日本旅客鉄道（JR東日本）常磐線の駅である。<br />
+<br />
+== 年表 ==<br />
+* 1<a href="http://localhost/keyword/897%E5%B9%B4">897年</a>（明治<a href="http://localhost/keyword/30%E5%B9%B4">30年</a>）2月25日 - 日本鉄道の駅として開業。<br />
+* 1<a href="http://localhost/keyword/906%E5%B9%B4">906年</a>（明治<a href="http://localhost/keyword/39%E5%B9%B4">39年</a>）11月1日 - 日本鉄道が国有化され、官設鉄道の所属となる。<br />
+* 1<a href="http://localhost/keyword/909%E5%B9%B4">909年</a>（明治<a href="http://localhost/keyword/42%E5%B9%B4">42年</a>）10月12日 - 線路名称制定により常磐線の所属となる。<br />
+* 1<a href="http://localhost/keyword/949%E5%B9%B4">949年</a>（昭和<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）6月1日 - 日本国有鉄道が発足。<br />
+* 1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a>（昭和<a href="http://localhost/keyword/56%E5%B9%B4">56年</a>） - 貨物列車の設定と専用線発着の車扱貨物の取扱を廃止。<br />
+** 駅を出て常磐線と併走し、駅北側の渋川を越えた場所にあった石塚操車所よりスイッチバックをする形で駅東側にある常磐共同火力勿来発電所の石炭貯蔵施設まで専用線があり、主に南中郷駅や湯本駅など発着の常磐炭鉱で産出した石炭や発電所から出る石炭灰（フライアッシュ）の輸送を行っていた。その後、常磐炭鉱の相次ぐ閉鎖によって産出量が激減したうえに海上輸送に転換されたため1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>代前半からは石炭灰（フライアッシュ）のみの輸送を行っていたが、これもトラック輸送に切り替えられたため専用線は廃止された。<br />
+** この他、1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>（昭和<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）までは駅東側にあった大昭炭鉱の専用線も存在し、石炭輸送を行っていた。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化によりJR東日本の駅となる。<br />
+* 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>（平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）3月22日 - 「もしもし券売機Kaeruくん」、自動改札機設置。みどりの窓口を閉鎖。<br />
+* 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>（平成<a href="http://localhost/keyword/21%E5%B9%B4">21年</a>）3月14日 - 東京近郊区間の拡大に伴い、ICカード「Suica」サービス開始。<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）2月2日 - 「もしもし券売機Kaeruくん」営業終了。<br />
+* 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）4月1日 - JR水戸鉄道サービスが駅業務を受託する業務委託駅となる。<br />
+* 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>（平成<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）<br />
+**3月14日 - ダイヤ改正に伴い、特急列車は全通過となり、普通列車のみの停車となる。<br />
+**7月1日 - 駅業務受託がJR東日本ステーションサービスへ移管。<br />
+<br />
+== 駅構造 ==<br />
+相対式ホーム2面2線を持つ地上駅。互いのホームは跨線橋で連絡している。以前は島式2面4線で外側にも線路があった。<br />
+<br />
+JR東日本ステーションサービスが駅業務を受託する業務委託駅。自動改札機・指定席券売機設置駅。<br />
+<br />
+; のりば<br />
+<br />
+<br />
+== 利用状況 ==<br />
+* 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>度の1日平均乗車人員は2,022人である。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+駅前<br />
+駅周辺は旧勿来市の中心部であり市役所支所や警察署、市立図書館などが立地し中規模な市街地が形成されている。<br />
+かつてはイトーヨーカドーいわき植田店（植田ショッピングセンター）があったが、200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>9月にイトーヨーカドーが撤退し、跡地にフジコシ他が入居した。しかし、建物の老朽化や売上不振を理由に、フジコシは200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>8月24日、残りのテナントは200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>6月末までに閉店し、跡地は解体された。現在はミニストップ他となっている。<br />
+<br />
+* いわき市役所勿来支所<br />
+* いわき市立勿来図書館<br />
+* 東田簡易郵便局<br />
+* 植田郵便局<br />
+* 勿来公共職業安定所<br />
+* いわき南警察署<br />
+* 福島県立磐城農業高等学校<br />
+* 福島県立勿来工業高等学校<br />
+* 旧植田ショッピングセンター跡地<br />
+** ミニストップいわき植田駅前店<br />
+** カラオケ本舗まねきねこいわき植田店<br />
+** はなの舞植田店<br />
+* 国道6号（常磐バイパス）<br />
+* 茨城県道・福島県道10号日立いわき線<br />
+* 福島県道20号いわき上三坂小野線<br />
+* 福島県道56号常磐勿来線<br />
+* 福島県道71号勿来浅川線<br />
+* 福島県道105号旅人勿来線<br />
+* 福島県道239号泉岩間植田線<br />
+* 小浜海水浴場<br />
+* 常磐共同火力勿来発電所<br />
+* 鮫川<br />
+* 渋川<br />
+<br />
+== 路線バス ==<br />
+※新常磐交通の運行<br />
+* 早稲田 - &#39;植田駅前&#39; - 勿来駅前<br />
+* &#39;植田駅前&#39; - 勿来駅前 - 沼部 - 植田駅前<br />
+* &#39;植田駅前&#39; - 上遠野<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 常磐線<br />
+:: 勿来駅 - &#39;植田駅&#39; - 泉駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=202 JR東日本 植田駅]<br />
+<br />
+<br />
+<br />
+<br />
+うえたえき<br />
+えた<br />
+Category:日本鉄道<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:常磐線<br />
+Category:1<a href="http://localhost/keyword/897%E5%B9%B4">897年</a>開業の鉄道駅<br />

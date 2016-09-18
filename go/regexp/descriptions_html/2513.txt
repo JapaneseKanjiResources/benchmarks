@@ -1,0 +1,103 @@
+description<br />
+<br />
+|所属事業者 = 社章近畿日本鉄道（近鉄）<br />
+|所属路線   =  南大阪線<br />
+|キロ程     = 7.3<br />
+|起点駅     = 大阪阿部野橋<br />
+|所在地     = 大阪府松原市天美南三丁目15-41<br />
+|座標       = <br />
+|駅構造     = 地上駅（地下駅舎）<br />
+|ホーム     = 2面2線（他に通過線として2線）<br />
+|開業年月日 = 1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>（大正<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）4月13日<br />
+|廃止年月日 = <br />
+|乗車人員   = <br />
+|乗降人員   = 16,081<br />
+|統計年度   = 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a><br />
+|乗換       = <br />
+|備考       = * 1<a href="http://localhost/keyword/933%E5%B9%B4">933年</a>に天美車庫前駅から改称<br />
+}}<br />
+阿部野橋方面を望む<br />
+吉野方面を望む（後方は天美車庫）<br />
+&#39;<a href="http://localhost/keyword/%E6%B2%B3%E5%86%85%E5%A4%A9%E7%BE%8E%E9%A7%85">河内天美駅</a>&#39;（かわちあまみえき）は、大阪府松原市天美南三丁目にある、近畿日本鉄道南大阪線の駅。副駅名は&#39;阪南大学前&#39;。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>（大正<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）4月13日 - 大阪鉄道の大阪天王寺（現在の大阪阿部野橋） - 布忍間開通時に、&#39;天美車庫前駅&#39;として開業。<br />
+* 1<a href="http://localhost/keyword/933%E5%B9%B4">933年</a>（昭和<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）4月1日 - &#39;<a href="http://localhost/keyword/%E6%B2%B3%E5%86%85%E5%A4%A9%E7%BE%8E%E9%A7%85">河内天美駅</a>&#39;に改称。<br />
+* 1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a>（昭和<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）2月1日 - 関西急行鉄道が大阪鉄道を合併。関西急行鉄道天王寺線の駅となる。<br />
+* 1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>（昭和<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）6月1日 - 戦時統合により関西急行鉄道が南海鉄道（現在の南海電気鉄道の前身。後に再独立）と合併、近畿日本鉄道南大阪線の駅となる。<br />
+* 1<a href="http://localhost/keyword/957%E5%B9%B4">957年</a>（昭和3<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）7月 - 上り待避線設置。<br />
+* 1<a href="http://localhost/keyword/972%E5%B9%B4">972年</a>（昭和<a href="http://localhost/keyword/47%E5%B9%B4">47年</a>）12月 - 下り待避線設置とともに構内配線変更。現在と同じ中央に通過線のある相対式ホームとなる。<br />
+* 19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>（平成<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）7月 - 地下駅舎化。<br />
+** 地下化以前はホームごとに駅舎があり、2つのホームの行き来はできなかった。 <br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）4月1日 - PiTaPa使用開始。<br />
+<br />
+== 駅構造 ==<br />
+複線の通過線の両側に相対式2面2線ホームを持つ待避駅。新幹線型の待避構造を持つ。ホーム有効長は6両。改札口・コンコースは地下、ホームは地上に設けられている。改札口は1ヶ所だが、駅入り口に近くなるように二手に分けて自動改札機を配置している。またコンコースは駅の東西を結ぶ地下道を兼ねる。<br />
+<br />
+自動改札機はオムロン製で、出場時2枚一括処理と、PiTaPa・ICOCA対応の赤い自動改札機（U-PG）も設置されている。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+※前述の通り、2・3番線はホームのない通過線のため、ホームとしては欠番である。<br />
+<br />
+== 利用状況 ==<br />
+南大阪線の駅では大阪阿部野橋駅、藤井寺駅、河内<a href="http://localhost/keyword/%E6%9D%BE%E5%8E%9F%E9%A7%85">松原駅</a>、古市駅、橿原神宮前駅に次ぐ第6位であり、普通列車しか停車しない駅では第1位である。<br />
+<br />
+近年の&#39;特定日&#39;における1日乗降・乗車人員は下表のとおりである。<br />
+<br />
+<br />
+== 特徴 ==<br />
+* 駅東南に古市検車区天美車庫があり、始発・最終電車はこの駅を始発・終着駅としている。<br />
+* かつては当駅始発・終着の列車が多く設定されていたが、地下鉄谷町線開業の影響で減少した。<br />
+* 電車の方向幕では「天美」と表記されていたが、<a href="http://localhost/keyword/%E6%97%A7%E5%9B%BD%E5%90%8D">旧国名</a>表記では「河内天美」となっている。<br />
+<br />
+== 駅周辺 ==<br />
+* 阪南大学<br />
+* 近鉄自動車学校<br />
+* 松原市立天美南小学校<br />
+* 松原市立松原第二中学校<br />
+* マクドナルド 河内天美店<br />
+* スーパー<a href="http://localhost/keyword/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88">マーケット</a>KINSHO 天美店<br />
+* 万代 天美店<br />
+* 大阪信用金庫 天美支店<br />
+* 松原天美郵便局<br />
+* 天美図書館<br />
+* 松原徳洲会病院<br />
+<br />
+=== 路線バス ===<br />
+* 1番のりば　近鉄バス大堀線<br />
+** 23番　大堀<br />
+* 2番のりば　南海バス河内天美線<br />
+** 9系統　堺東駅前（地下鉄北花田駅、浅香経由）<br />
+<br />
+== 隣の駅 ==<br />
+;近畿日本鉄道<br />
+: 南大阪線<br />
+::急行・区間急行・準急<br />
+:::&#39;通過&#39;<br />
+::普通<br />
+:::矢田駅 (F06) - &#39;<a href="http://localhost/keyword/%E6%B2%B3%E5%86%85%E5%A4%A9%E7%BE%8E%E9%A7%85">河内天美駅</a> (F07)&#39; - <a href="http://localhost/keyword/%E5%B8%83%E5%BF%8D%E9%A7%85">布忍駅</a> (F08)<br />
+:* 括弧内は駅番号を示す。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.kintetsu.co.jp/station/station_info/station07011.html 近畿日本鉄道 <a href="http://localhost/keyword/%E6%B2%B3%E5%86%85%E5%A4%A9%E7%BE%8E%E9%A7%85">河内天美駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+Category:大阪府の鉄道駅<br />
+わちあまみ<br />
+Category:近畿日本鉄道の鉄道駅<br />
+かわちあまみえき<br />
+かわちあまみえき<br />
+かわちあまみえき<br />
+Category:1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>開業の鉄道駅<br />

@@ -1,0 +1,72 @@
+description<br />
+<br />
+|所属路線 = 別所線<br />
+|前の駅   = 三好町<br />
+|駅間A    = 0.7<br />
+|駅間B    = 0.7<br />
+|次の駅   = 上田原<br />
+|キロ程     = 2.2<br />
+|起点駅     = 上田<br />
+|駅構造     = 地上駅<br />
+|ホーム     = 単式1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/932%E5%B9%B4">932年</a>（昭和<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）<br />
+|廃止年月日 =<br />
+|乗車人員   = 104<br />
+|乗降人員   = <br />
+|統計年度   = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|乗換       =<br />
+|駅番号     = BE04<br />
+|備考       = 無人駅<br />
+}}<br />
+プラットホーム (200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>10月)<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E8%B5%A4%E5%9D%82%E4%B8%8A%E9%A7%85">赤坂上駅</a>&#39;（あかさかうええき）は、長野県上田市大字上田原字一ノ口875-7にある上田電鉄別所線の駅である。駅番号は&#39;BE04&#39;。<br />
+<br />
+== 駅構造 ==<br />
+単式1面1線のホームを持つ地上駅。かつては駅員配置駅であったが現在は無人駅である。自動券売機設置駅（1機）。<br />
+<br />
+自動券売機のシャッターは電車の運転時間帯以外（夜間）は閉じられており、始発電車の運転士がシャッターを開け、最終電車の運転士がシャッターを閉じる。<br />
+<br />
+別所線では全線でワンマン運転を実施しているため当駅では通常は進行方向1番前のドアしか開閉しないが、平日の朝6時30分～8時30分の間は上田方面の電車に限りすべてのドアが開閉する（ただし、土日祝日は進行方向1番前のドアしか開閉しない）。<br />
+<br />
+近年の一日平均乗車人員の推移は下記のとおり『長野県統計書』各年度版による。。<br />
+<br />
+== 利用状況 ==<br />
+<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 上田創造館<br />
+* 長池公園<br />
+* 国道143号<br />
+* 長野県上田千曲高等学校<br />
+* 上田原簡易郵便局<br />
+* 千曲バス青木線・室賀線阪美精密前停留所<br />
+* 上田バス塩田線赤坂上停留所<br />
+<br />
+== 歴史 == <br />
+* 1<a href="http://localhost/keyword/932%E5%B9%B4">932年</a>（昭和<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>） 開業。<br />
+* 1<a href="http://localhost/keyword/938%E5%B9%B4">938年</a>（昭和<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）7月25日 青木線の廃止により、川西線の駅となる。<br />
+* 1<a href="http://localhost/keyword/939%E5%B9%B4">939年</a>（昭和<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）3月19日 路線名称変更により、別所線の駅となる。<br />
+* 1<a href="http://localhost/keyword/939%E5%B9%B4">939年</a>（昭和<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）9月1日 社名変更により、上田電鉄の駅となる。<br />
+* 1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a>（昭和<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）10月21日 合併により、上田丸子電鉄の駅となる。<br />
+* 1<a href="http://localhost/keyword/951%E5%B9%B4">951年</a>（昭和<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>）4月 位置が変更される。<br />
+* 19<a href="http://localhost/keyword/69%E5%B9%B4">69年</a>（昭和<a href="http://localhost/keyword/44%E5%B9%B4">44年</a>）5月31日 社名変更により、上田交通の駅となる。<br />
+* 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>（平成<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）10月3日 鉄道部門子会社化により、上田電鉄の駅となる。<br />
+<br />
+== 隣の駅 ==<br />
+; 上田電鉄<br />
+: ■別所線<br />
+:: 三好町駅 - &#39;<a href="http://localhost/keyword/%E8%B5%A4%E5%9D%82%E4%B8%8A%E9%A7%85">赤坂上駅</a>&#39; - 上田原駅<br />
+<br />
+== 関連項目 ==<br />
+*日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:上田市の鉄道駅<br />
+かさかうえ<br />
+Category:上田電鉄の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/932%E5%B9%B4">932年</a>開業の鉄道駅<br />

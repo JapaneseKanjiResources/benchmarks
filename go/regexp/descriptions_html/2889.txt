@@ -1,0 +1,72 @@
+description<br />
+久留里線<br />
+|キロ程 = 6.1<br />
+|起点駅 = 木更津<br />
+|所在地 = 千葉県木更津市笹子486<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日= 1<a href="http://localhost/keyword/978%E5%B9%B4">978年</a>（昭和<a href="http://localhost/keyword/53%E5%B9%B4">53年</a>）10月2日*<br />
+|廃止年月日=<br />
+|乗車人員= 86<br />
+|統計年度= 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a><br />
+|備考 = 無人駅（乗車駅証明書発行機 有）<br />
+|備考全幅 = * 臨時乗降場として開業。1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>に駅に昇格。<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E6%9D%B1%E6%B8%85%E5%B7%9D%E9%A7%85">東清川駅</a>&#39;（ひがしきよかわえき）は、千葉県木更津市笹子にある、東日本旅客鉄道（JR東日本）久留里線の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/978%E5%B9%B4">978年</a>（昭和<a href="http://localhost/keyword/53%E5%B9%B4">53年</a>）10月2日 - 臨時乗降場として開業。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により東日本旅客鉄道に承継。同時に臨時乗降場から駅に昇格。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を有する地上駅。ホームは5両編成までに対応する。<br />
+<br />
+久留里駅管理の無人駅。乗車駅証明書発行機とコンクリート製の待合室が設置されている。トイレは男女別の水洗式が設置されている。<br />
+<br />
+== 利用状況 ==<br />
+千葉県統計年鑑によると、1日の平均乗車人員の推移は以下の通りである。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 木更津市立東清小学校<br />
+* 小櫃川<br />
+* 国道409号<br />
+* ニッポン放送木更津送信所<br />
+* ファミリーマート木更津笹子店<br />
+* セブンイレブン木更津北インター店<br />
+* 茂田商店<br />
+* 館山自動車道木更津北インターチェンジ<br />
+<br />
+== バス路線 ==<br />
+<br />
+* のりば = 椿： 国道409号線沿い<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 久留里線<br />
+:: 上総清川駅 - &#39;<a href="http://localhost/keyword/%E6%9D%B1%E6%B8%85%E5%B7%9D%E9%A7%85">東清川駅</a>&#39; - 横田駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=1278 JR東日本 <a href="http://localhost/keyword/%E6%9D%B1%E6%B8%85%E5%B7%9D%E9%A7%85">東清川駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:千葉県の鉄道駅<br />
+かしきよかわ<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:久留里線<br />
+ひかしきよかわえき<br />
+Category:1<a href="http://localhost/keyword/978%E5%B9%B4">978年</a>開業の鉄道駅<br />

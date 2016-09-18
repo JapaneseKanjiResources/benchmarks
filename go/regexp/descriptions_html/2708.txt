@@ -1,0 +1,148 @@
+description<br />
+コンピュータプログラミングにおいて、&#39;<a href="http://localhost/keyword/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA">シリアライズ</a>&#39;、もしくは&#39;シリアル化&#39; (serialize) という用語は、次のような異なる2つの意味を有する。<br />
+<br />
+#ある一つの資源を、複数の主体が利用しようとするときに、それを調整（同期）して、一つの時点では一つの主体だけがそれを利用するようにすること。この意味では&#39;逐次化&#39;という訳語が用いられる。対義語は並列化である。<br />
+#ある環境に存在しているオブジェクト（のネットワーク（グラフ）構造）をバイト列に変換すること。この意味では&#39;直列化&#39;という訳語が用いられる。同義語に&#39;&#39;がある。対義語は&#39;直列化復元&#39;ないし&#39;デ<a href="http://localhost/keyword/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA">シリアライズ</a>&#39;である。<br />
+<br />
+<a href="http://localhost/keyword/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA">シリアライズ</a>の名詞形は&#39;シリアライゼーション&#39; (serialization)である。<br />
+<br />
+== 概要 ==<br />
+=== 逐次化 ===<br />
+第一の意味の&#39;逐次化&#39;（ちくじか）は、主としてマルチスレッドプログラミングにおいて使われる用語で、この場合、ある資源が複数のスレッドから同時にアクセスを受け付けられるようになっていないとき、つまりマルチスレッド対応でないときに、マルチスレッド環境からもその資源を利用できるようにするために、同時のアクセス要求が起こったときには、それぞれのスレッドが順番にその資源を利用するように調整することをいう。一般には、これはその資源をロックできたひとつのスレッドのみがその資源の利用権を得、ロック中には他のスレッドはその資源をロックできない機構（排他制御）を用いるか、要求を<a href="http://localhost/keyword/%E3%82%AD%E3%83%A5%E3%83%BC">キュー</a>に入れ、順次取り出して処理することにより実現される。<br />
+<br />
+<br />
+=== 直列化 ===<br />
+第二の意味の&#39;直列化&#39;（ちょくれつか）は、オブジェクト指向プログラミングにおいて使われる用語で、ある環境において存在しているオブジェクトを、バイト列やXMLフォーマットに変換することをいう。より具体的には、そのオブジェクトの状態を表す変数（フィールド）と、場合によってはオブジェクトの種類（クラス）を表すなんらかの識別子を、ファイル化できるようなバイト列やXMLフォーマットの形に書き出すことをいう。これにより、オブジェクトの表すデータを、ファイルとしてセーブしたり、ネットワークで送信したりすることができるようになる。このようにして得られたバイト列やXMLフォーマットは、直列化復元ないしデ<a href="http://localhost/keyword/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA">シリアライズ</a>によって、元のオブジェクトに復元される。<br />
+<br />
+また、オブジェクトを直列化してファイルなどの永続記憶に保存することを永続化という。<br />
+<br />
+== Javaにおける<a href="http://localhost/keyword/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA">シリアライズ</a>（直列化） ==<br />
+Javaの&#39;<a href="http://localhost/keyword/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA">シリアライズ</a>&#39;は直列化（第二の意味）で用いられる。<br />
+<br />
+この<a href="http://localhost/keyword/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA">シリアライズ</a>は、デザインパターンのひとつMemento パターンによる状態のスナップショット取得のほかJava RMIでネットワーク越しの外部メソッド呼び出しを行うときなどに使われている。<br />
+<br />
+<a href="http://localhost/keyword/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA">シリアライズ</a>は、SFなどに登場する転送装置に喩えられることがある。物質を一旦量子に変換してから遠隔地に転送し再び物質に戻すというテレポーテーションが<a href="http://localhost/keyword/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA">シリアライズ</a>に似ていることからそう喩えられた。これはまさに、他のネットワーク上にある<a href="http://localhost/keyword/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA">シリアライズ</a>されたオブジェクトをファイルとしてリモートから転送してからデ<a href="http://localhost/keyword/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA">シリアライズ</a>して外部メソッドを自分のネットワーク上で呼び出すために利用されるJava RMIの動作原理にも似ている。<br />
+<br />
+=== <a href="http://localhost/keyword/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA">シリアライズ</a>可能なクラスの実装 ===<br />
+Java言語では直列化したいクラスにまたはインタフェースを実装することで、そのクラスのオブジェクトは直列化できるクラスを作ることができる。これらのインタフェースのうち、はマーカーインタフェースと呼ばれる、メソッド宣言がないものである。<br />
+<br />
+を実装しているクラスのフィールドは、transient, static指定が無い限り、自動的に<a href="http://localhost/keyword/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA">シリアライズ</a>による保存対象にされる。を実装しているクラスでは、 , メソッドをオーバーライドして手動で保存したいフィールドを指定する必要がある。<br />
+<br />
+==== Serializable ====<br />
+ import java.io.Serializable;<br />
+ public class SerializableObject implements Serializable {<br />
+   private String name; //<a href="http://localhost/keyword/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA">シリアライズ</a>のとき保存される。<br />
+   static String staticField; //クラス変数は無視される。<br />
+   private transient int hashCode; //transientキーワードが付いたフィールドは無視される。<br />
+ <br />
+   //<a href="http://localhost/keyword/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA">シリアライズ</a>したいクラスの実装...<br />
+ <br />
+ }<br />
+<br />
+==== Externalizable ====<br />
+<br />
+import java.io.Externalizable;<br />
+import java.io.ObjectOutput;<br />
+import java.io.ObjectInput;<br />
+<br />
+public class SerializableObject implements Externalizable {<br />
+   private String name; //writeExternal(ObjectOutput)で指定されているため保存されるフィールド。<br />
+   private int id; //無視される。<br />
+   private int hashCode; //writeExternal(ObjectOutput)で指定されているため保存されるフィールド。<br />
+<br />
+   //Externalizableで定義されているメソッドをオーバーライド。<br />
+   //保存したいフィールドを指定する。<br />
+   @Override public void writeExternal(ObjectOutput out) {<br />
+     out.writeChars(this.name);<br />
+     out.writeInt(this.hashCode);<br />
+   } <br />
+<br />
+   //復元したいフィールドを指定する。<br />
+   @Override public void readExternal(ObjectInput in) {<br />
+     this.name = in.readLine();<br />
+     this.hashCode = in.readInt();<br />
+   }<br />
+ <br />
+   //<a href="http://localhost/keyword/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA">シリアライズ</a>したいクラスの実装<br />
+}<br />
+<br />
+<br />
+==== ストリーム固有識別子 ====<br />
+<br />
+ private static final long serialVersionUID = 3487495895819393L;<br />
+<br />
+のように、ストリーム固有識別子を宣言することにより、クラスの実装が変わった場合でも、同一のストリーム固有識別子を持つクラスは、互換性があることを意味する。ストリーム固有識別子を明示的に宣言していない時は、バイトストリームのシグニチャー（SHA-1）から自動生成される。<br />
+<br />
+=== <a href="http://localhost/keyword/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA">シリアライズ</a>する方法 ===<br />
+==== バイナリファイルに<a href="http://localhost/keyword/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA">シリアライズ</a> ====<br />
+これらのオブジェクトをやによりファイルなどに出力する。<br />
+<br />
+ import java.io.FileOutputStream;<br />
+ import java.io.OutputStream;<br />
+ import java.io.ObjectOutputStream;<br />
+ <br />
+ //...<br />
+ <br />
+ SerializableObject object = new SerializableObject();<br />
+ OutputStream outputStream = new FileOutputStream(&#34;serializableObject.obj&#34;);<br />
+ ObjectOutputStream objectOutputStream= new ObjectOutputStream(outputStream);<br />
+ objectOutputStream.writeObject(object);<br />
+<br />
+==== XMLフォーマットに<a href="http://localhost/keyword/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA">シリアライズ</a> ====<br />
+ import java.io.FileOutputStream;<br />
+ import java.io.OutputStream;<br />
+ import java.beans.XMLEncoder;<br />
+ <br />
+ //...<br />
+ <br />
+ SerializableObject object = new SerializableObject();<br />
+ OutputStream outputStream = new FileOutputStream(&#34;serializableObject.xml&#34;);<br />
+ XMLEncoder xmlEncoder= new XMLEncoder(outputStream);<br />
+ xmlEncoder.writeObject(object);<br />
+<br />
+=== デ<a href="http://localhost/keyword/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA">シリアライズ</a>する方法 ===<br />
+これらを再びオブジェクトに復元(デ<a href="http://localhost/keyword/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA">シリアライズ</a>)するにはやを用いる。<br />
+<br />
+==== バイナリファイルから復元 ====<br />
+ import java.io.FileInputStream;<br />
+ import java.io.InputStream;<br />
+ import java.io.ObjectInputStream;<br />
+ <br />
+ //...<br />
+ <br />
+ InputStream inputStream = new FileInputStream(&#34;serializableObject.obj&#34;);<br />
+ ObjectInputStream objectInputStream = new ObjectInputStream(inputStream);<br />
+ SerializableObject object = (SerializableObject) objectInputStream.readObject();<br />
+<br />
+==== XMLフォーマットファイルから復元 ====<br />
+ import java.io.FileInputStream;<br />
+ import java.io.InputStream;<br />
+ import java.beans.XMLDecoder;<br />
+ <br />
+ //...<br />
+ <br />
+ InputStream fileInputStream = new FileInputStream(&#34;serializableObject.xml&#34;);<br />
+ XMLDecoder decoder = new XMLDecoder(fileInputStream);<br />
+ SerializableObject object = (SerializableObject) decoder.readObject();<br />
+<br />
+=== transientキーワード ===<br />
+Javaにはtransientというキーワードを用いて、オブジェクト内で<a href="http://localhost/keyword/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA">シリアライズ</a>した<a href="http://localhost/keyword/%E3%81%8F%E3%81%AA%E3%81%84">くない</a>フィールドを<a href="http://localhost/keyword/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA">シリアライズ</a>するときに除外することができる。これにより無駄な情報によって<a href="http://localhost/keyword/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA">シリアライズ</a>されたファイルの肥大化を押さえ軽量化し、<a href="http://localhost/keyword/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA">シリアライズ</a>、デ<a href="http://localhost/keyword/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA">シリアライズ</a>を高速化することができる。<br />
+<br />
+ public class SerializableObject implements Serializable {<br />
+   private String name; //<a href="http://localhost/keyword/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA">シリアライズ</a>するときに保存されるフィールド。<br />
+   private transient int hashCode; //<a href="http://localhost/keyword/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA">シリアライズ</a>するときに無視されるフィールド。<br />
+ }<br />
+<br />
+==関連項目==<br />
+* セーブ (コンピュータ)<br />
+* Java Remote Method Invocation<br />
+* Extensible Markup Language<br />
+<br />
+==外部リンク==<br />
+* [http://java.sun.com/javase/ja/6/docs/ja/technotes/guides/serialization/index.html Javaのオブジェクト直列化]<br />
+<br />
+<br />
+Category:プログラミング<br />
+Category:排他制御<br />
+*しりあらいす<br />
+Category:永続性<br />

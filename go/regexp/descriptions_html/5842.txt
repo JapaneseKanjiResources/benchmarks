@@ -1,0 +1,138 @@
+description<br />
+}<br />
+| image = Fukurin tohoZn.JPG<br />
+| image_width = 300px<br />
+| image_alt = <br />
+| caption = <br />
+| type = <br />
+| status = <br />
+| start = 起点：泉駅<br />
+| end = 終点：小名浜駅<br />
+| stations = 2駅<br />
+| open = <br />
+| event1label = <br />
+| event1 = <br />
+| close = <br />
+| owner = 鈴木藤三郎→東商会→磐城海岸軌道→小名浜臨港鉄道→福島臨海鉄道<br />
+| operator = <br />
+| depot = <br />
+| stock = 福島臨海鉄道#車両を参照<br />
+| linelength_km = 4.8<br />
+| linelength = <br />
+| gauge = <br />
+| minradius_m = <br />
+| el = 全線非電化<br />
+| speed = <br />
+| maxincline = <br />
+| map = <br />
+| map_state = <br />
+}}<br />
+}<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+|}<br />
+|}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E7%A6%8F%E5%B3%B6%E8%87%A8%E6%B5%B7%E9%89%84%E9%81%93%E6%9C%AC%E7%B7%9A">福島臨海鉄道本線</a>&#39;（ふくしまりんかいてつどうほんせん）は、福島県いわき市の泉駅から同市の小名浜駅までを結ぶ福島臨海鉄道の鉄道路線である。かつては、小名浜駅から先の栄町駅までの路線も存在した。<br />
+<br />
+もともとは小名浜に造られた製塩所の製品を運ぶための馬車鉄道が前身で、漁村からの水産物の積み出しにも使われるようになったが、小名浜港が工業地域として発展するにつれ、工業資材輸送鉄道となり、今に至っている。<br />
+<br />
+以前は旅客営業も行っていたが、1<a href="http://localhost/keyword/972%E5%B9%B4">972年</a>（昭和<a href="http://localhost/keyword/47%E5%B9%B4">47年</a>）に廃止されている。ただし、その後も「買い物列車」や小名浜で開かれる「いわき小名浜港花火大会」などイベント開催時の観客輸送列車といった臨時<a href="http://localhost/keyword/%E6%97%85%E5%AE%A2%E5%88%97%E8%BB%8A">旅客列車</a>が運転されている（200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>〈平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>〉以降花火臨時列車は運行せず）。臨時<a href="http://localhost/keyword/%E6%97%85%E5%AE%A2%E5%88%97%E8%BB%8A">旅客列車</a>には東日本旅客鉄道（JR東日本）の車両（キハ<a href="http://localhost/keyword/110">110</a>系気動車など）が使用されている。<br />
+<br />
+== 路線データ ==<br />
+* 路線距離（営業キロ）：泉駅 - 小名浜駅 間 4.8 km<br />
+* 軌間：1,067 mm<br />
+* 駅数：2駅（旅客営業時は7駅・起終点駅を含む）<br />
+* 複線区間：なし（全線単線）<br />
+* 電化区間：なし（全線非電化）<br />
+* 閉塞方式：特殊自動閉塞<br />
+<br />
+== 運行形態 ==<br />
+* 泉駅 - 小名浜駅間は<a href="http://localhost/keyword/%E4%BF%A1%E8%B6%8A%E6%9C%AC%E7%B7%9A">信越本線</a><a href="http://localhost/keyword/%E5%AE%89%E4%B8%AD%E9%A7%85">安中駅</a>発着の亜鉛鉱石を輸送する貨物列車が1日1往復、常磐線水戸駅方面発着のコンテナ貨物列車が1日1往復設定されている。<br />
+* そのほか機関車の回送列車や臨時列車が設定されている。<br />
+<br />
+== 歴史 ==<br />
+常磐炭砿の石炭積出港として既に賑わっていた小名浜に、鈴木藤三郎が製塩所を設け、その燃料や製品輸送のために鈴木個人名義で特許を受けて、190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（明治40年）に常磐線泉駅との間に敷設した小名浜馬車軌道が始まりである。軌道自体の経営は順調であったが、鈴木が着手した醤油造りの新事業の失敗で製塩所が閉鎖に追い込まれ、このため製塩所と軌道事業は小名浜町の有志らの奔走により合資会社東商会本社は東京。営業目的は醤油製造販売、鉄道馬車営業。<a href="http://localhost/keyword/%E8%B3%87%E6%9C%AC%E9%87%91">資本金</a>3万円の出資者は<a href="http://localhost/keyword/%E9%83%B7%E8%AA%A0%E4%B9%8B%E5%8A%A9">郷誠之助</a>、鈴木藤三郎とは懇意であった北浜銀行の岩下清周 、松方幸次郎[ 『日本全国諸会社役員録。 明治<a href="http://localhost/keyword/44%E5%B9%B4">44年</a>』]（国立国会図書館デジタルコレクション）に引き継がれた。<br />
+<br />
+その後、小名浜の東方にある江名からの水産物を運ぶため小名浜 - 江名間に馬車鉄道が計画され、磐城海岸軌道として1<a href="http://localhost/keyword/916%E5%B9%B4">916年</a>（大正<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）に開業。1<a href="http://localhost/keyword/918%E5%B9%B4">918年</a>（大正<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）には東商会を買収し、泉 - 小名浜 - 江名間の路線が形成される。1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>（大正<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）にはガソリンカーなどの導入により動力が内燃化された。<br />
+<br />
+しかし、漁獲高が落ち込み貨物輸送量が減少したため経営難に陥り、1<a href="http://localhost/keyword/936%E5%B9%B4">936年</a>（昭和<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）には小名浜 - 江名間が特許取消となり廃止となった。1<a href="http://localhost/keyword/939%E5%B9%B4">939年</a>（昭和<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）になると小名浜に工場を建設することになった日本水素工業（日本化成の前身）に経営が委ねられ、小名浜臨港鉄道に社名を変更した。1<a href="http://localhost/keyword/941%E5%B9%B4">941年</a>（昭和<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>）には製品輸送のため常磐線と直通できる1067mm 軌間の新線が建設され、馬車鉄道時代からの旧線は廃止された。<br />
+<br />
+1<a href="http://localhost/keyword/953%E5%B9%B4">953年</a>（昭和2<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）には小名浜 - 江名間を結ぶ鉄道が江名鉄道として復活し、栄町 - 江名間が開業した。江名鉄道の業務は小名浜臨港鉄道に委託されていた。小名浜臨港鉄道も小名浜 - 栄町間を延伸開業し、泉 - 江名間に直通列車を運転した。しかし、江名鉄道はバスなどとの競合から不振で、1<a href="http://localhost/keyword/965%E5%B9%B4">965年</a>（昭和40年）に台風の被害を受けると翌年に休止となり、小名浜臨港鉄道との直通運転も廃止された。その後江名鉄道は1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>（昭和<a href="http://localhost/keyword/43%E5%B9%B4">43年</a>）3月30日付で廃止となった。<br />
+<br />
+1<a href="http://localhost/keyword/964%E5%B9%B4">964年</a>（昭和<a href="http://localhost/keyword/39%E5%B9%B4">39年</a>）に、小名浜が新産業都市の指定を受け、工業地域として整備が進められることになると、小名浜臨海鉄道は国鉄・沿線自治体・企業が出資する企業となり、福島臨海鉄道に社名を変更した。<br />
+<br />
+なお、1<a href="http://localhost/keyword/972%E5%B9%B4">972年</a>（昭和<a href="http://localhost/keyword/47%E5%B9%B4">47年</a>）には、開業以来続いた旅客営業を廃止し、貨物専業鉄道（貨物線）となっている。<br />
+<br />
+20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）3月11日に東北地方太平洋沖地震（東日本大震災）により津波の被害を受け運休となり、同年5月30日から泉 - 宮下間で車扱貨物列車を運転再開、20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）2月1日から小名浜までの全線で運転を再開した。「小名浜港背後地震災復興土地区画整理事業」により小名浜駅の用地で再開発が行われることになり、20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>（平成<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）1月13日に小名浜駅が約600メートル西側に移転した。この際に、宮下駅に接続していた東邦亜鉛専用線が小名浜駅接続に改められ、宮下駅が廃止となった。これにより路線の全長は5.4キロメートルから4.8キロメートルに短縮された交通新聞20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>1月29日。また従来タブレット閉塞であったものが、特殊自動閉塞に切り替えられ、腕木式信号機が廃止となった交通新聞20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>2月3日。<br />
+<br />
+=== 年表 ===<br />
+* 1<a href="http://localhost/keyword/906%E5%B9%B4">906年</a>（明治<a href="http://localhost/keyword/39%E5%B9%B4">39年</a>）8月16日 軌道特許状下付（泉-小名浜間）[ 「軌道特許権譲渡」『官報』1<a href="http://localhost/keyword/918%E5%B9%B4">918年</a>9月2日]（国立国会図書館デジタルコレクション）[ 『地方鉄道及軌道一覧 昭和<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>4月1日現在』]（国立国会図書館デジタルコレクション）<br />
+* 190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（明治40年）12月1日 - 鈴木藤三郎が小名浜馬車軌道として泉 - 小名浜間開業。軌間762mm。<br />
+* 1<a href="http://localhost/keyword/910%E5%B9%B4">910年</a>（明治<a href="http://localhost/keyword/43%E5%B9%B4">43年</a>）12月15日 - 鈴木藤三郎が小名浜馬車軌道を合資会社東商会に譲渡（1<a href="http://localhost/keyword/911%E5%B9%B4">911年</a>4月5日許可）。<br />
+* 1<a href="http://localhost/keyword/913%E5%B9%B4">913年</a>（大正<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）8月26日 磐城海岸軌道に対し軌道特許状下付（小名浜-江名間）<br />
+* 1<a href="http://localhost/keyword/915%E5%B9%B4">915年</a>（大正<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）6月2日 - 磐城海岸軌道設立。<br />
+* 1<a href="http://localhost/keyword/916%E5%B9%B4">916年</a>（大正<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）<br />
+** 4月17日和久田康雄『私鉄史ハンドブック』電気車研究会、19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a> p.38 - 磐城海岸軌道が小名浜 - 江名間の馬車鉄道開業。軌間762mm。<br />
+** 7月26日 - 江名駅移転『私鉄史ハンドブック』では「江名村地内 16C（延長）」、寺田裕一『データブック日本の私鉄』（ネコ・パブリッシング、200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）p.183では4月17日に「小名浜-江名間5.4km開業」とした上で同年7月26日に「江名駅変更により小名浜-江名間5.8km開業」とある。。<br />
+* 1<a href="http://localhost/keyword/918%E5%B9%B4">918年</a>（大正<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）8月30日寺田裕一『データブック日本の私鉄』ネコ・パブリッシング、200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a> p.183 - 磐城海岸軌道が合資会社東商会を買収。<br />
+* 19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>（大正<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）11月30日 - 小名浜 - 江名間ガソリン動力化。<br />
+* 1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>（大正<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）6月7日 - 泉 - 小名浜間ガソリン動力化。<br />
+* 1<a href="http://localhost/keyword/936%E5%B9%B4">936年</a>（昭和<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）12月5日 -  無許可で小名浜-江名間の線路を撤去し運輸営業を休止したため特許取消[ 「軌道特許取消」『官報』1<a href="http://localhost/keyword/936%E5%B9%B4">936年</a>12月9日]（国立国会図書館デジタルコレクション）。<br />
+* 1<a href="http://localhost/keyword/939%E5%B9%B4">939年</a>（昭和<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）10月16日 - 磐城海岸軌道が小名浜臨港鉄道に社名変更。<br />
+* 1<a href="http://localhost/keyword/941%E5%B9%B4">941年</a>（昭和<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>）<br />
+** 6月 - 全線を軌間1067mmの新線に切り替え。<br />
+** 11月1日 - 全線を軌道法による軌道から地方鉄道法による鉄道に変更（1<a href="http://localhost/keyword/939%E5%B9%B4">939年</a>6月10日許可[ 「軌道ヲ地方鉄道ニ変更許可」『官報』1<a href="http://localhost/keyword/939%E5%B9%B4">939年</a>6月15日]（国立国会図書館デジタルコレクション））[ 「地方鉄道運輸開始」『官報』1<a href="http://localhost/keyword/941%E5%B9%B4">941年</a>11月12日]（国立国会図書館デジタルコレクション）。<br />
+* 1<a href="http://localhost/keyword/953%E5%B9%B4">953年</a>（昭和2<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）1月12日 - 江名鉄道栄町 - 江名間開業に伴い、小名浜 - 栄町間を延伸開業し、泉 - 江名間直通運転を開始。<br />
+* 1<a href="http://localhost/keyword/966%E5%B9%B4">966年</a>（昭和<a href="http://localhost/keyword/41%E5%B9%B4">41年</a>）2月15日 - 江名鉄道休止に伴い、小名浜 - 栄町間も休止し同鉄道との直通運転を中止。<br />
+* 1<a href="http://localhost/keyword/967%E5%B9%B4">967年</a>（昭和<a href="http://localhost/keyword/42%E5%B9%B4">42年</a>）4月1日 - 県・国鉄が出資、福島臨海鉄道に社名変更。<br />
+* 1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>（昭和<a href="http://localhost/keyword/43%E5%B9%B4">43年</a>）7月1日 - 小名浜 - 栄町間廃止。<br />
+* 1<a href="http://localhost/keyword/972%E5%B9%B4">972年</a>（昭和<a href="http://localhost/keyword/47%E5%B9%B4">47年</a>）10月1日 - 泉 - 小名浜間の旅客営業が廃止。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）<br />
+** 3月11日 - 東北地方太平洋沖地震（東日本大震災）により、壊滅的な被害を受ける[http://www.nikkan.co.jp/news/nkx1120<a href="http://localhost/keyword/110">110</a>516aaab.html 東日本大震災／ＪＲ系臨海鉄道、一部再開－仙台・福島は復旧に時間] 日刊工業新聞（20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>5月16日）、20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>5月24日閲覧。<br />
+** 5月30日 - 泉 - 宮下間が運転再開今尾恵介『日本鉄道旅行地図帳 東日本大震災の記録』新潮社、20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>、p.9。<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）2月1日 - 宮下 - 小名浜間が復旧し全線で運転再開[http://mytown.asahi.com/fukushima/news.php?k_id=07000001202010006 福島臨海鉄道が全面復旧　１０ヶ月半ぶり] 朝日新聞（20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>2月2日）、20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>2月3日閲覧。<br />
+* 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>（平成<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）1月13日 - 小名浜駅を約600メートル西側に移転し、宮下駅を廃止。小名浜駅の営業キロを5.4キロメートルから4.8キロメートルに変更。タブレット閉塞を廃止して特殊自動閉塞とする。<br />
+<br />
+== 駅一覧 ==<br />
+小名浜駅<br />
+括弧内は起点からの営業キロ。*印は廃止された旅客駅。<br />
+<br />
+泉駅 (0.0km) - 滝尻駅* - 東邦亜鉛前駅* - 宮下駅 (3.6km) - 水素前駅* - 小名浜駅 (4.8km) - 栄町駅*<br />
+<br />
+== 接続路線 ==<br />
+* 泉駅：常磐線<br />
+<br />
+=== 過去の接続路線 ===<br />
+* 宮下駅：小名浜埠頭本線 - 2001年9月30日まで<br />
+* 栄町駅：江名鉄道 - 1<a href="http://localhost/keyword/966%E5%B9%B4">966年</a>2月14日まで<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 参考文献 ==<br />
+* （再録：）<br />
+*おやけこういち『小名浜鉄道往来記』、1<a href="http://localhost/keyword/994%E5%B9%B4">994年</a><br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道路線一覧<br />
+<br />
+<br />
+<br />
+Category:東北地方の鉄道路線<br />
+Category:第三セクター路線<br />
+路ふくしまりんかいてつとうほんせん<br />
+Category:部分廃止路線<br />

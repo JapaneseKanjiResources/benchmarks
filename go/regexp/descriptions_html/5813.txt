@@ -1,0 +1,76 @@
+description<br />
+<br />
+<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a>（ICU）<br />
+&#39;<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a>&#39;（しゅうちゅうちりょうしつ）は、病院内の施設の一種。呼吸、循環、代謝その他の重篤な急性機能不全の患者の容態を24時間体制で管理し、より効果的な治療を施すことを目的とする。ICU、『世界大百科事典』、平凡社。英語では「」と呼び、日本でも「&#39;ICU&#39;」という略号が用いられることがある。<br />
+<br />
+<br />
+== 概要 ==<br />
+ <br />
+日本集中治療医学会で「内科系、外科系を問わず呼吸、循環、代謝そのほかの重篤な急性機能不全の患者を収容し強力かつ集中的に治療看護を行うことにより、その効果を期待する部門である」と定義されているように、<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a>では元の疾病の治療というよりは、治療の過程において重篤な症状が発生した場合に利用される施設である。したがって、重篤な症状が収まった時点で各<a href="http://localhost/keyword/%E8%A8%BA%E7%99%82%E7%A7%91">診療科</a>の一般病棟に戻されることが通例である。<br />
+<br />
+<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a>では一般には「病棟で重篤な症状を表した患者」「救急患者のうち継続的な状態管理が必要な患者」「手術後に高度な状態管理が必要な患者」など急性期の重症患者を受け入れる。しかし、今日の一般病棟では、血圧、呼吸、酸素飽和度などの24時間モニタリングを実施することは可能なので、通常の手術であれば一般病室で24時間モニタリングを受けるだけの場合も多い。<br />
+<br />
+逆に急性症状のない慢性疾患や末期がん患者など、重症であっても<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a>の対象にならない場合がある。<br />
+<br />
+<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a>の対象となる場合の代表例としては、主として重要臓器の機能不全があり生命が危険にさらされているものかが上げられる。このような症例においては麻酔科医や集中治療医の観察の元、時々刻々と変化する容態に逐次投薬治療を施すことにより対応するのである。<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a>で行われる医学については、「麻酔科」や「集中治療医学」と呼ばれる医療分野が存在する。<br />
+<br />
+また麻酔科医だけでなく各<a href="http://localhost/keyword/%E8%A8%BA%E7%99%82%E7%A7%91">診療科</a>の専門医師を配置したりする場合もある。そして看護師の配置人数を一般病棟より多くし、一般病棟で配置されない医療機器類の面倒を見る臨床工学技士などのスタッフも配備されている場合がある。<br />
+<br />
+== 専門的な<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a> ==<br />
+<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a>(ICU)は対象とする患者の病態によって、次のように更に専門的に細分化されている病院もある。その場合でも特定機能病院や一部の総合病院では、総合内科的に管理・治療する役割で「<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a>」が別途置かれている。<br />
+<br />
+; 冠疾患<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a> - CCU (Coronary Care Unit)<br />
+: 循環器系、特に心臓血管系の疾患を抱える重篤患者を対象としたもの。<br />
+; 脳卒中<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a> - SCU (Stroke Care Unit)<br />
+: 脳卒中患者を対象としたもので、基本的に脳神経内科(→神経学)に属する。NCU（脳神経外科<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a>）も設置されている病院もある。<br />
+; 外科系<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a> - SICU(Surgical Intensive Care Unit)<br />
+: 従来の「術後回復室」が高度化したもので、主に全身麻酔による外科手術直後の患者を、容体が安定するまで短期間(当日~2日程度)収容する。<br />
+; 脳神経外科<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a>-NCU(Neurosurgical Care Unit)<br />
+: 脳神経疾患や頭部外傷での脳神経外科手術後に収容される。SCU（脳卒中<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a>）の役割を併せ持ってNCUとする病院も多い。SICU（外科系<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a>）と領域が重複するため、日本ではNCUとSICUの両方置く病院は今のところ存在しない。<br />
+; 新生児<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a> - <a href="http://localhost/keyword/NIC">NIC</a>U (Neonatal Intensive Care Unit)<br />
+: 新生児用の<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a>のこと。新生児科に併設され、新生児のうち極低出生体重児や仮死新生児など、集中治療が必要な患者を対象としたもの。正しくは新生児特定<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a>。<a href="http://localhost/keyword/NIC">NIC</a>Uで治療を受け、低出生体重から脱した新生児や状態が安定してきた新生児は、&#39;GCU (Growing Care Unit)&#39; - 継続保育室（回復治療室，発育支援室）に移動して引き続きケアを受ける場合もある。<br />
+; 腎疾患<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a> - KICU (Kidney Intensive Care Unit)<br />
+: 腎臓疾患患者を対象としたもの。<br />
+; 精神病<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a> - PICU (Psychiatry Intensive Care Unit)<br />
+: 基本的に精神科病院に設置されており、精神病急性期患者を集中治療するものと、精神病以外の内科疾患を併発している患者を集中治療するものに分けられる。前者は個室や隔離室であり、病院によっては急性期病棟の大半をこのPICUとしている場合もある。<br />
+; 小児<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a> - PICU(Pediatric Intensive Care Unit)<br />
+: 小児専門病院や特定機能病院に設置されているが、小児科医療を取り巻く様々な事情により施設数は極僅かである。心臓病をはじめとする難病疾患をもつ小児患者や、救急搬送された重篤な小児患者を収容する。<br />
+; 呼吸器疾患<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a>-RCU(Respiratory Care Unit)<br />
+: 重篤な呼吸器疾患患者を対象としたもの。<br />
+; 母体胎児<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a>-MFICU(Maternal Fetal Intensive Care Unit)<br />
+: 合併症妊婦などハイリスク妊娠や切迫流産の可能性の高い妊婦に対応するためのいわゆる産科ICU。基本的に個室となっている。同等の設備をもつ陣痛室もあるようである。<br />
+; 高度治療室/準<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a>- HCU (High Care Unit)<br />
+: 名称から受ける印象とは異なり、ICUよりランクが落ちる。ICUから一般病棟に移動させる際に、経過を観察したりするために用いられる。麻酔科医や<a href="http://localhost/keyword/%E8%A8%BA%E7%99%82%E7%A7%91">診療科</a>医師が常駐しない場合もある。<br />
+<br />
+== ICU症候群 ==<br />
+ <a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a>に収容された患者は、「<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a>に入れられているということは、死に直面しているということである」というプレッシャーにさらされること、外界と遮断され時間感覚を失うこと、間断ない照明や医療機器の電子音による疲労などから、精神状態の異常をきたす場合がある。これを「ICU症候群」という。手術後の<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a>への収容の場合には、麻酔の影響や術後精神病などが重なる場合もある。症状は、譫妄・錯乱・幻覚・幻視など。<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a>における集中的かつ効率的な体の治療と精神管理のバランスは難しい問題であり、患者管理の上で注目されている。<br />
+<br />
+精神状態確認のために「今日は何日かわかりますか？」「ここはどこだかわかりますか？」と患者に尋ねる方法があるが、これもあまりに長期間繰り返すと患者は疑心暗鬼になり状態をさらに悪化させることがある。<br />
+<br />
+== 出典 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 全身管理<br />
+* 周術期管理<br />
+* 麻酔科学<br />
+* 特定<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a><br />
+* 新生児特定<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a><br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jsicm.org/index.html 日本集中治療医学会]<br />
+* いくつかの病院の<a href="http://localhost/keyword/%E9%9B%86%E4%B8%AD%E6%B2%BB%E7%99%82%E5%AE%A4">集中治療室</a>紹介（写真や体制紹介などあり）<br />
+** [http://www.med.osaka-u.ac.jp/pub/hp-icu/index.html 大阪大学医学部附属病院]<br />
+** [http://hospital.osaka-med.ac.jp/about/dept_list/central_institution/d04/index.html 大阪医科大学付属病院]<br />
+** [http://www.tokyo-med.ac.jp/anesth/maintenance/icu.html 東京医科大学麻酔科学教室]<br />
+** [http://www.kohseichuo.jp/b_icu.htm 全国土木建築国民健康保険組合厚生病院]<br />
+** [http://www.hospital.yao.osaka.jp/department-section/section/icu-section/ 八尾市立病院]<br />
+** [http://www.ych.or.jp/clinic/c-icu.html 淀川<a href="http://localhost/keyword/%E3%82%AD%E3%83%AA%E3%82%B9%E3%83%88">キリスト</a>教病院]<br />
+<br />
+<br />
+Category:麻酔科学<br />
+Category:医療機関<br />
+Category:部屋<br />
+<br />
+<br />

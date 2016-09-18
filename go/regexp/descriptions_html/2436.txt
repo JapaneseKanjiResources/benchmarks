@@ -1,0 +1,39 @@
+description<br />
+<br />
+&#39;HFS&#39; (&#39;<a href="http://localhost/keyword/Hierarchical%20File%20System">Hierarchical File System</a>&#39;) とは、Mac OSでかつて使われていたファイルシステムのひとつである。日本ではしばしば「&#39;Mac OS 標準フォーマット&#39;」ともいう。<br />
+<br />
+HFSは二つのフォークを持つ。すなわち、主データ（データフォークと呼ばれる）の他にリソースフォークというメタ情報を持つことで知られている。また大文字と小文字の区別をしない。<br />
+<br />
+HFSはファイルシステムの中では比較的新しい部類に入り、把握しやすいボリュームの扱いや、シンボリックリンク・ショートカットより先進的なエイリアス機構を備えるなど、設計上優れた部分も多い。<br />
+<br />
+ブロックサイズ（管理単位）は、ボリュームサイズ32MiBまで512バイト、以降32MiB毎に512バイトずつ増加し（64MiBを超えたサイズでは、FATファイルシステムのようにいきなり倍になることはない）、225〜256MiBでHFS+と同じ4KiBになる。<br />
+2GiB（System 7.1.x(他国語版を含む 以下同様)までの上限）で32KiB、4GiB（System 7.5 7.5.1での上限）で64KiB、2TiB（System 7.5.2以降での上限）では32MiBになる。<br />
+<br />
+このファイルシステムで記録されたストレージの読み書きが可能なのはMac OSまたはMac OS X（10.5.x (Leopard)まで）のみである。<br />
+<br />
+Mac OS Xでは、標準フォーマットはHFS+に置き換えられ、起動ディスクにHFSは利用出来なくなった。<br />
+<br />
+== HFSの歴史 ==<br />
+HFSは初期Macintoshで使用されていたMacintosh File System (MFS) の改良版で、1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>9月に発表され、Systemバージョン3.1より実装された。MFSはフラットなファイルシステムであり、フォルダはFinderレベルでエミュレートされていた。そのため、アプリケーションからはすべてのファイルが同一階層に見え、ファイル数が少ないフロッピーディスクではあまり問題にならないものの、ハードディスクで使用し、アプリケーションから扱うファイル数が増えるにつれ不便なものとなってきていた。その上、約100ファイルを越えると非常に不安定になった。Hierarchicalとはファイルシステムレベルでのフォルダによる階層構造がサポートされたことに由来する。<br />
+<br />
+1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a>、HFS+がMac OS 8.1で導入され、HFSの後継となった。Mac OS X 10.5.xまではHFSを起動ディスクとして利用できないが、読み書きはHFS+同様に可能である。<br />
+Mac OS X 10.6.x (Snow Leopard) 以降ではHFSは読み込みのみ可能で、起動のみならず書き込みやボリューム作成もできなくなった。<br />
+<br />
+20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>、macOS Sierraにて、サポートが終了する[https://developer.apple.com/library/prerelease/content/releasenotes/MacOSX/WhatsNewInOSX/Articles/OSXv10.html#//apple_ref/doc/uid/TP40017145-SW1 What&#39;s new in OS X - OS X v10.12]&#39;&#39;The HFS Standard filesystem is no longer supported.&#39;&#39;。<br />
+<br />
+== 出典 ==<br />
+<br />
+== 関連項目 ==<br />
+*Xsan<br />
+<br />
+== 外部リンク ==<br />
+*[http://developer.apple.com/documentation/mac/Files/Files-99.html HFS仕様書]<br />
+<br />
+<br />
+<br />
+<br />
+Category:OSのファイルシステム<br />
+Category:Mac OS<br />
+Category:OS X<br />
+<br />
+de:Dateisystem#Hierarchische Dateisysteme<br />

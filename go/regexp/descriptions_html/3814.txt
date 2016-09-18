@@ -1,0 +1,45 @@
+description<br />
+<br />
+<br />
+|onshore_length    =  km<br />
+|offshore_length   = 指定なし<br />
+|starting_terminus = 奈良県大和高田市<br />
+|ending_terminus   = 奈良県生駒郡<a href="http://localhost/keyword/%E6%96%91%E9%B3%A9%E7%94%BA">斑鳩町</a><br />
+|cities            = 広陵町、河合町<br />
+|established       = 1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a><br />
+|system            = 主要地方道<br />
+|junction          = 24px国道166号（24px168号重複）24px国道165号奈良県道14号（桜井市方面）奈良県道14号（王寺町方面）奈良県道36号西名阪自動車道24px国道25号<br />
+}}<br />
+<br />
+&#39;奈良県道5号 大和高田斑鳩線&#39;（ならけんどう5ごう やまとたかだいかるがせん）は、奈良県大和高田市片塩町を起点とし、生駒郡<a href="http://localhost/keyword/%E6%96%91%E9%B3%A9%E7%94%BA">斑鳩町</a>法隆寺に至る主要地方道。<br />
+<br />
+== 概要 ==<br />
+1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a>（昭和<a href="http://localhost/keyword/57%E5%B9%B4">57年</a>）に主要地方道として路線認定。以前の奈良県道5号は&#39;枚方大和高田線&#39;という名称であったが、1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a>（昭和<a href="http://localhost/keyword/56%E5%B9%B4">56年</a>）に<a href="http://localhost/keyword/%E6%96%91%E9%B3%A9%E7%94%BA">斑鳩町</a>以北が国道168号に編入されたため残る区間を新たに主要地方道「大和高田斑鳩線」として認定された。<br />
+=== 路線データ ===<br />
+* 陸上距離：11.5km<br />
+* 起点：大和高田市片塩町　（片塩ロータリー交叉点）<br />
+* 終点：生駒郡<a href="http://localhost/keyword/%E6%96%91%E9%B3%A9%E7%94%BA">斑鳩町</a>法隆寺　（法隆寺東交叉点）<br />
+<br />
+== 地理 ==<br />
+=== 通過する自治体 ===<br />
+* 奈良県<br />
+** 大和高田市 - 北葛城郡広陵町 - 北葛城郡河合町 - 生駒郡<a href="http://localhost/keyword/%E6%96%91%E9%B3%A9%E7%94%BA">斑鳩町</a><br />
+<br />
+=== 主な接続路線 ===<br />
+<br />
+<br />
+<br />
+※ 交差する場所の括弧書きは地名、それ以外は交差点名で表示<br />
+<br />
+=== 沿線の主な施設 ===<br />
+* オークタウン大和高田<br />
+* 大和高田駅<br />
+* 高田警察署<br />
+* 法隆寺駅<br />
+<br />
+== 関連項目 ==<br />
+* 奈良県の県道一覧<br />
+<br />
+<br />
+<br />
+005<br />

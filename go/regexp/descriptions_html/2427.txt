@@ -1,0 +1,87 @@
+description<br />
+<br />
+東北本線<br />
+|キロ程 = 254.5<br />
+|起点駅 = 東京<br />
+|所在地 = 福島県二本松市油井字古屋敷5<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/917%E5%B9%B4">917年</a>（大正<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）7月11日<br />
+|乗車人員 = 837<br />
+|統計年度 = 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a><br />
+|備考 = 業務委託駅<br />
+}}<br />
+旧駅舎<br />
+&#39;<a href="http://localhost/keyword/%E5%AE%89%E9%81%94%E9%A7%85">安達駅</a>&#39;（あだちえき）は、福島県二本松市油井字古屋敷にある、東日本旅客鉄道（JR東日本）東北本線の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/917%E5%B9%B4">917年</a>（大正<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）7月11日 - 開業。<br />
+* 1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>（昭和<a href="http://localhost/keyword/59%E5%B9%B4">59年</a>）12月1日 - 無人化。以降、二本松駅派遣により出改札業務を継続。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄の分割民営化により東日本旅客鉄道の駅となる。有人化。<br />
+* 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>（平成<a href="http://localhost/keyword/21%E5%B9%B4">21年</a>）3月14日 - ICカード「Suica」サービス開始。<br />
+* 20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>（平成2<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）1月23日 - 東西自由通路及び東西駅前広場、新駅舎供用開始[http://www.jr-sendai.com/wp-content/uploads/2015/12/adachi.pdf JR東日本　東北本線<a href="http://localhost/keyword/%E5%AE%89%E9%81%94%E9%A7%85">安達駅</a>が変わります（平成<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>12月25日）]。<br />
+<br />
+== 駅構造 ==<br />
+島式ホーム1面2線を有する地上駅。かつては駅舎とホームは跨線橋で連絡していたが、20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>1月に橋上駅化され自由通路が設置された。<br />
+<br />
+福島駅管理の業務委託駅（JR東日本東北総合サービスが受託）である。構内には出札窓口（営業時間 平日7:05 - 11:10、12:40 - 14:40、15:10 - 18:20 土休8:15 - 12:00、13:00 - 17:20、POS端末設置）、Suica対応自動券売機1台、簡易Suica改札機、自動販売機（飲料）などがある。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+<br />
+== 利用状況 ==<br />
+* 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>度の乗車人員は、1日平均837人である[http://www.jreast.co.jp/passenger/2015_06.html JR東日本 各駅の乗車人員]。<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 安達町商工会館<br />
+* 二本松市役所安達支所（旧・安達町役場）<br />
+* 安達郵便局<br />
+* ベイシアスーパーセンター安達店<br />
+* T<a href="http://localhost/keyword/SUT">SUT</a>AYA二本松店<br />
+* コメリパワー安達店<br />
+* 二本松市立安達中学校<br />
+* 二本松警察署安達駐在所<br />
+* 福島県道114号福島安達線<br />
+* 福島県道129号二本松安達線<br />
+* 福島県道191号安達停車場線<br />
+* 国道4号<br />
+<br />
+== 路線バス ==<br />
+福島交通<br />
+<br />
+&#39;「<a href="http://localhost/keyword/%E5%AE%89%E9%81%94%E9%A7%85">安達駅</a>入口」バス停&#39;<br />
+<br />
+* 福島駅東口行<br />
+* 若宮二丁目行<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 東北本線<br />
+:: 二本松駅 - &#39;<a href="http://localhost/keyword/%E5%AE%89%E9%81%94%E9%A7%85">安達駅</a>&#39; - 松川駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=63 JR東日本 <a href="http://localhost/keyword/%E5%AE%89%E9%81%94%E9%A7%85">安達駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+Category:福島県の鉄道駅<br />
+たち<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+あたちえき<br />
+あたちえき<br />
+Category:1<a href="http://localhost/keyword/917%E5%B9%B4">917年</a>開業の鉄道駅<br />

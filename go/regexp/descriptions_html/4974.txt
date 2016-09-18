@@ -1,0 +1,90 @@
+description<br />
+<br />
+|座標 = <br />
+|所在地幅 = long<br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面3線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/910%E5%B9%B4">910年</a>（明治<a href="http://localhost/keyword/43%E5%B9%B4">43年</a>）12月15日大木孝 『土木社会史年表』 日刊工業新聞社、19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>11月。ISBN 978-4526024443<br />
+|廃止年月日 =<br />
+|乗車人員 = 270<br />
+|統計年度 = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|乗換 =<br />
+|備考 = 業務委託駅<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E4%B8%AD%E5%B1%B1%E9%A6%99%E9%A7%85">中山香駅</a>&#39;（なかやまがえき）は、大分県杵築市山香町大字野原字宮ノ原にある、九州旅客鉄道（JR九州）<a href="http://localhost/keyword/%E6%97%A5%E8%B1%8A%E6%9C%AC%E7%B7%9A">日豊本線</a>の駅である。<br />
+<br />
+当駅から隣の杵築駅までは1<a href="http://localhost/keyword/978%E5%B9%B4">978年</a>（昭和<a href="http://localhost/keyword/53%E5%B9%B4">53年</a>）9月21日に複線となった。<br />
+<br />
+== 歴史 == <br />
+* 1<a href="http://localhost/keyword/910%E5%B9%B4">910年</a>（明治<a href="http://localhost/keyword/43%E5%B9%B4">43年</a>）12月15日 - 豊州線の宇佐駅-当駅間の開通に伴い、開業。<br />
+* 1<a href="http://localhost/keyword/911%E5%B9%B4">911年</a>（明治<a href="http://localhost/keyword/44%E5%B9%B4">44年</a>）3月22日 - 豊州線の当駅-日出駅間が開通。<br />
+* 1<a href="http://localhost/keyword/977%E5%B9%B4">977年</a>（昭和<a href="http://localhost/keyword/52%E5%B9%B4">52年</a>）10月19日 - <a href="http://localhost/keyword/%E6%97%A5%E8%B1%8A%E6%9C%AC%E7%B7%9A">日豊本線</a>の当駅 - 大川司信号場間の複線化が完成運輸政策研究機構 『日本国有鉄道民営化に至る<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>』 成山堂書店、2000年7月28日。ISBN 978-4-425-30181-2。<br />
+* 1<a href="http://localhost/keyword/978%E5%B9%B4">978年</a>（昭和<a href="http://localhost/keyword/53%E5%B9%B4">53年</a>）9月21日 - <a href="http://localhost/keyword/%E6%97%A5%E8%B1%8A%E6%9C%AC%E7%B7%9A">日豊本線</a>の大川司信号場 - 杵築駅間が複線化し、当駅 - 杵築駅間の複線化が完成。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により九州旅客鉄道が継承が山陽新幹線以外の九州地区の旅客鉄道業務を継承『交通年鑑 昭和<a href="http://localhost/keyword/63%E5%B9%B4">63年</a>版』 交通協力会、19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>3月。今村都南雄 『民営化の效果と現実NTTとJR』 中央法規出版、1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>8月。ISBN 978-4805840863。<br />
+* 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>（平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）12月 - 初代駅舎解体。<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）9月1日 - 2代目駅舎落成式。<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）12月1日 - ICカードSUGOCAの利用を開始。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線と島式ホーム1面2線、合計2面3線のホームを持つ地上駅。互いのホームは跨線橋で連絡している。上り線側に駅舎がある。木造の駅舎は200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>（平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）12月に解体され、新たに鉄骨平屋建て（床面積74m2、総工費3700万円）の新駅舎を建設し、翌200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）9月1日に利用を開始している。これにあわせバリアフリー対策として入口へのスロープ設置やホーム改修、および駅舎内に簡易多目的トイレを設置した。<br />
+<br />
+JR九州鉄道営業が駅業務を受託する業務委託駅。。<br />
+<br />
+大分方面から折り返しの列車が、7本設定されている。大分発の上り最終の普通列車が当駅止まりで到着時刻が0時29分であり、大分駅・柳ヶ浦駅・臼杵駅・佐伯駅・庄内駅・三重町駅とともに大分県内の駅で普通列車の終電が日付を超える駅である。<br />
+<br />
+。<br />
+<br />
+== 利用状況 ==<br />
+1<a href="http://localhost/keyword/965%E5%B9%B4">965年</a>（昭和40年）度には乗車人員が364,117人（定期外:55,642人、定期:308,475人）、降車人員が365,466人で、手荷物（発送:514個、到着:308個）や小荷物（発送:1,553個、到着:3,705個）も取り扱っていた大分県総務部統計課 『昭和<a href="http://localhost/keyword/41%E5%B9%B4">41年</a>版 大分県統計年鑑』 大分県統計協会、1<a href="http://localhost/keyword/966%E5%B9%B4">966年</a>3月。。<br />
+<br />
+20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）度の乗車人員は98,638人（定期外:22,229人、定期:76,409人）、降車人員は101,048人である。<br />
+<br />
+※1日平均乗車人員の数値は各年度版「[http://www.pref.oita.jp/site/toukei/toukeinenkan.html 大分県統計年鑑]」による年間乗車人員の値を各年度の日数で割った値。<br />
+<br />
+<br />
+<br />
+** 一日平均乗車人員は年間乗車人員の値を各年度の日数で割った値。<br />
+<br />
+== 駅周辺 ==<br />
+旧山香町の中心部にあたる。駅前を県道42号線が通り、駅の裏手を<a href="http://localhost/keyword/%E5%9B%BD%E9%81%9310%E5%8F%B7">国道10号</a>が<a href="http://localhost/keyword/%E6%97%A5%E8%B1%8A%E6%9C%AC%E7%B7%9A">日豊本線</a>に並行する形で通っている。<br />
+* 杵築市役所山香庁舎（旧山香町役場。山香振興局・健康推進課・福祉課などが入居）<br />
+* 山香郵便局<br />
+* 杵築市立山香小学校<br />
+* 杵築市立山香中学校<br />
+* 大分県立山香農業高等学校<br />
+* 大分県信用組合山香支店<br />
+* 杵築市立山香病院<br />
+* 杵築速見消防組合山香出張所<br />
+<br />
+== その他 ==<br />
+* 。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+=== 注釈 ===<br />
+<br />
+<br />
+=== 出典 ===<br />
+<br />
+<br />
+== 隣の駅 ==<br />
+; 九州旅客鉄道<br />
+: <a href="http://localhost/keyword/%E6%97%A5%E8%B1%8A%E6%9C%AC%E7%B7%9A">日豊本線</a><br />
+:: 立石駅 - &#39;<a href="http://localhost/keyword/%E4%B8%AD%E5%B1%B1%E9%A6%99%E9%A7%85">中山香駅</a>&#39; - 杵築駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* <br />
+<br />
+<br />
+<br />
+<br />
+Category:大分県の鉄道駅<br />
+かやまか<br />
+Category:九州旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+なかやまかえき<br />
+Category:1<a href="http://localhost/keyword/910%E5%B9%B4">910年</a>開業の鉄道駅<br />

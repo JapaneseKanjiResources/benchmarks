@@ -1,0 +1,316 @@
+description<br />
+<br />
+|本社<a href="http://localhost/keyword/%E9%83%B5%E4%BE%BF%E7%95%AA%E5%8F%B7">郵便番号</a> = 107-0052<br />
+|本社所在地 = 東京都港区赤坂九丁目7番3号ミッドタウン・ウェスト<br />
+|設立 =昭和<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>（1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>）2月20日<br />
+|業種 = 3650<br />
+|統一金融機関コード = <br />
+|SWIFTコード = <br />
+|事業内容 = オフィス複写機、ワークステーション等の製造及び販売、コンサルティング<br />
+|代表者 = 山本 忠人（代表取締役社長）<br />
+|<a href="http://localhost/keyword/%E8%B3%87%E6%9C%AC%E9%87%91">資本金</a> = 200億円<br />
+|売上高 = 連結：9,831億円、単独：7,047億円（20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>3月期）<br />
+|営業利益 = <br />
+|純利益 =<br />
+|純資産 =  <br />
+|総資産 = 連結：8,124億円、単独：6,335億円（20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>3月31日現在）<br />
+|従業員数 = 連結：42,529名、単独：9,627名（20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>3月31日現在）<br />
+|決算期 = 3月31日<br />
+|主要株主 = 富士フイルムホールディングス（株）：75%ゼロックス・リミテッド：25%<br />
+|主要子会社 = <a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>情報システム（株）：100%<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>アドバンストテクノロジー（株）：100%<br />
+|関係する人物 = 竹内喜三郎吉村寿雄小林陽太郎宮原明<br />
+|外部リンク = http://www.fujixerox.co.jp/<br />
+|特記事項 = <br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>株式会社&#39;（ふじゼロックス、英語：&#39;&#39;Fuji Xerox Co., Ltd.&#39;&#39;）は、富士写真フイルム株式会社（現・富士フイルムホールディングス）と英ランク・ゼロックス（現ゼロックス・リミテッド）社との合弁会社として昭和<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>（1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>）に誕生した日本の機械メーカーである。<br />
+<br />
+本社に相当するアメリカのゼロックス・コーポレーションとの合弁会社とならなかったのは、当時はアジア地域がランク・ゼロックス社の商圏だったことによるもので、実質的には富士写真フイルムとゼロックス・コーポレーションとの合弁会社だった。<br />
+<br />
+== 概要 ==<br />
+複写機、レーザープリンター（企業向け大型・小型・高速・複合機を含む）等を製造販売するほか、これらコア技術を生かした総合文書管理ソリューションコンサルティングを提供している。<br />
+<br />
+平成<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（2001年）、業績の低迷に悩んだゼロックスが富士写真フイルムに所有持ち株の半数を売却した。現在は富士フイルムホールディングスが株式の75%を保有する連結子会社となっている。平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>（200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）10月1日に、富士写真フイルムが持株会社に移行し富士フイルムホールディングスとなったことにより、富士フイルムグループの中で<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>の重要度が増すこととなった。<br />
+<br />
+1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>代まではゼロックス・コーポレーションが保有するゼログラフィ技術の特許により乾式普通紙複写機の市場を独占していた。しかし、特許の独占権の失効以後は低価格・小型化を武器とするキヤノン・リコー・コニカミノルタ・三田工業（現在の京セラドキュメントソリューションズ）などの日本企業に次第に市場を侵食され、高速機や大型機では強みを発揮し続けているものの、国内販売台数シェアではキヤノン、リコーに続く第3位の地位に甘んじている。しかし、コピー／プリント枚数（コピー・ボリューム、ドキュメント・ボリューム）では高速機市場での強みを活かし、依然として国内シェアはトップである。<br />
+<br />
+セイコーエプソンをはじめとするプリンター各社にプリンターエンジンを供給している。こうして製造された製品には一時期、Printing Force FUJI XEROXロゴマークhttp://www.fujixerox.co.jp/product/info/printingforce.htmlが表示された。また、かつては国内向けに<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>ブランドのインクジェットプリンターを販売していたプリンターエンジンの供給元はレックスマークであった。）。<br />
+<br />
+現時点における海外の販売圏は、オーストラリア・ニュージーランドのほか、アジア（中国・韓国・台湾）および東南アジア（タイ・インドネシア・シンガポール・フィリピン・ベトナム・マレーシア）各国に拡大している。<br />
+<br />
+== 製品など ==<br />
+=== 複合機 ===<br />
+* ApeosPort<br />
+* DocuCentre<br />
+* DocuColor<br />
+* Work Center（家庭用複合機　現在は製造終了）<br />
+<br />
+=== レーザープリンタ ===<br />
+* DocuPrint<br />
+<br />
+=== オンデマンドパブリッシング ===<br />
+* iGen<br />
+* Versant<br />
+* Nuvera<br />
+* DocuTech<br />
+<br />
+=== 広幅機 ===<br />
+* DocuWide<br />
+* BrainTech<br />
+<br />
+=== ソフトウェア ===<br />
+* DocuWorks<br />
+:<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>が開発したドキュメントハンドリングソフトウエア。<br />
+* DocuShare（日本語版）<br />
+:米国ゼロックスが開発したWebベースの情報共有ソフトウェア。平成<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）5月1日より取り扱いを再開<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>では、平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>（200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）2月28日にDocuShare（日本語版）の販売を打切り、後継ソフトウェアとして<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>が開発したArcWizShareを販売していた。なお、<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>がDocuShare（日本語版）をArcWizShareに切替えていた200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>～200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>の間も、米国ゼロックスでは日本語版以外のDocuShareの開発を継続し、日本を除く各国にて販売していた。した。<br />
+* ArcWizShare<br />
+:<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>が開発したWebベースの情報共有ソフトウェア。元々はDocuShareを「日本市場の経験を基に、新たな技術を結集させ」[http://www.fujixerox.co.jp/release/2006/0227_arcwizshare.html 情報共有ソフトウエア「ArcWizShare」新発売] - <a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>のニュースリリース（200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>2月27日）改良した、との位置づけの製品であった。なお、平成<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）5月1日よりDocuShare（日本語版）の取り扱いを再開したことに伴い、平成<a href="http://localhost/keyword/21%E5%B9%B4">21年</a>（200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）3月に販売終了となった。<br />
+* ArcSuite<br />
+:<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>が開発したWebベースの統合情報管理システム。同社がかつて販売していた製品情報管理（PDM）システムEDMICSの後継製品であるArcSuite Engineeringと、その機能限定版であるArcSuite Engineering Light、一般オフィス業務用に機能を限定したArcSuite Officeがある。<br />
+* Apeos PEMaster<br />
+:<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>が開発した内部統制文書化支援システム。単体では動作せず、別途ArcSuite Engineering、ArcSuite Office、Apeos PEMaster EvidenceManagerのいずれかが必要。<br />
+<br />
+=== ネットワークサービス ===<br />
+* beat<br />
+:ウイルス対策やファイアウォール、インターネットVPNまで、企業のIT活用に不可欠なセキュリティ対策を手軽に、しかも低コストで実現できるサービス。<br />
+* ネットプリント<br />
+:全国のセブン-イレブン店頭のコピー機を利用し、インターネット上で登録した文書や画像ファイルをプリントできるサービス。<br />
+* SkyDesk<br />
+:CRM（顧客管理）を中心として、名刺管理や独自ドメインを設定できるメールなど、営業を強化するアプリケーションを取りそろえたパブリック・クラウドサービス。<br />
+<br />
+== コーポレート・ロゴ ==<br />
+平成<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>（200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）にコーポレートスローガンであった「THE DOCUM<a href="http://localhost/keyword/ENT">ENT</a> COMPANY」米国ゼロックスも同じスローガンを使用していた。と「FUJI XEROX」の表示比率を変更し、「FUJI XEROX」を強調したロゴにマイナー変更されている。<br />
+<br />
+平成<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）4月に約<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>ぶりにコーポレート・ロゴを一新した。新しいロゴはアメリカ・ゼロックス社のロゴ変更に伴うもので、「FUJI xerox」（小文字）とXをモチーフとしたシンボルを一体化したものとなっている。<br />
+<br />
+== オフィスコンセプト ==<br />
+*「モーレツから<a href="http://localhost/keyword/%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3">ビューティ</a>フルへ」 - 1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>に放送されたTVCMのキャッチコピー。19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>代の高度経済成長期の経済・産業の発展重視に対するアンチテーゼとして人間回帰を示したものとされる。電通本社ビルにあるアド・ミュージアム東京の「時代別ラジオ・テレビCMコーナー」において視聴が可能となっている。<br />
+*「」<br />
+*「」 ApeosのCM（[http://www.fujixerox.co.jp/event/cm/apeos/ 公式サイト参照]）は見ている人に全貌を明かさないで興味を引くティーザー広告であり、話題となった。<br />
+<br />
+== 主要拠点 ==<br />
+=== 研究・開発・生産拠点 ===<br />
+一部は平成<a href="http://localhost/keyword/22%E5%B9%B4">22年</a>（20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>）に<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>マニュファクチャリングに移管された。<br />
+*横浜みなとみらい事業所（神奈川県横浜市）<br />
+:平成<a href="http://localhost/keyword/22%E5%B9%B4">22年</a>（20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>）4月より稼働した研究・開発拠点。<br />
+*中井事業所（神奈川県足柄上郡<a href="http://localhost/keyword/%E4%B8%AD%E4%BA%95%E7%94%BA">中井町</a>）<br />
+:次世代の新しい要素技術獲得に向けた研究技術開発拠点。<br />
+*Fuji Xerox of Shanghai Limited（中国 上海）<br />
+:中低速の複写機や複合機、およびトナーカートリッジの開発・生産子会社。<br />
+*Fuji Xerox of Shenzhen Ltd.（中国 深圳）<br />
+:レーザープリンター、複写機/複合機、および消耗品の生産子会社。<br />
+*Fuji Xerox Eco-Manufacturing (Suzhou) Co., Ltd.（中国 蘇州）<br />
+:使用済み商品やカートリッジを分解・分別し、再資源化を行なう中国のリサイクル拠点。<br />
+*Fuji Xerox Eco-Manufacturing Co., Ltd.（タイ）<br />
+:使用済み商品やカートリッジを分解・分別し再資源化する統合リサイクル拠点。<br />
+*FX Palo Alto Laboratory, Inc.（米国）<br />
+:米国カリフォルニア州の研究拠点。<br />
+<br />
+=== 営業 ===<br />
+*東京事業所 （東京都港区）<br />
+:営業活動の中核拠点。<br />
+*中国営業本部 （中国 上海）<br />
+:中国（香港、マカオを含み、台湾を除く）における事業展開を推進。<br />
+*アジアパシフィック営業本部 （シンガポール）<br />
+:アジアパシフィック地域（中国営業本部担当地域を除く）における事業展開を推進。<br />
+<br />
+== 国内関連会社 ==<br />
+=== 持株会社 ===<br />
+*富士フイルムホールディングス株式会社<br />
+*ゼロックス（Xerox Corporation）<br />
+<br />
+=== 開発機能 ===<br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>情報システム株式会社（神奈川県横浜市）<br />
+:基幹系、ネットワーク、アプリケーションなど各種ソフトウエア開発を担当。<br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>アドバンストテクノロジー株式会社（神奈川県横浜市）<br />
+:スキャナー、紙送り、<a href="http://localhost/keyword/%E5%91%A8%E8%BE%BA%E6%A9%9F%E5%99%A8">周辺機器</a>などのデバイス機能とその制御ハードウエア/ソフトウエア開発、顧客/特定市場向けカスタマイズ開発（開発ツール）、およびマニュアル、評価の専門領域を担当。また、エンジニア派遣も手がける。<br />
+<br />
+=== 生産機能 ===<br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>マニュファクチュアリング株式会社（神奈川県海老名市）<br />
+:事務用機器、印刷機器および関連製品ならびにそれらの部品・消耗品の試作、製造などを担当。<br />
+:*海老名事業所（神奈川県海老名市）<br />
+:複写機や複合機、関連商品の開発、モノ作り技術の基幹拠点。<br />
+:*竹松事業所（神奈川県南足柄市）<br />
+:複写機や複合機、プリンター等の画像形成材料の開発拠点。<br />
+:*鈴鹿事業所（旧 鈴鹿<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>株式会社）<br />
+:複写機・複合機の基幹部品の製造拠点。<br />
+:*富山事業所（旧 <a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>イメージングマテリアルズ株式会社）<br />
+:複写機や複合機、プリンター等の画像形成材料の製造拠点。<br />
+:*新潟事業所（旧 新潟<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>製造株式会社）<br />
+:プロダクション商品を中心とした大型機の製造拠点。発祥は新潟日本電気（NEC新潟）。<br />
+<br />
+=== 人材・組織開発サービス機能 ===<br />
+*株式会社<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>総合教育研究所（東京都港区）<br />
+:人材開発コンサルティング、教材提供、セミナー運営などを担当。<br />
+<br />
+=== サービス運用機能 ===<br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>システムサービス株式会社（東京都千代田区）<br />
+:<a href="http://localhost/keyword/%E5%9C%B0%E6%96%B9%E8%87%AA%E6%B2%BB">地方自治</a>体における公共サービスソリューション、民間市場向けeマーケティング支援・販売促進業務支援アウトソーシングを担当。<br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>サービスクリエイティブ株式会社（東京都中野区）<br />
+:サービス業務のフロントエンド(カスタマーサポート他)や関連会社の経理支援などを行う。<br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>サービスリンク株式会社（東京都港区）<br />
+:20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>4月設立。ドキュメント関連事業。<br />
+<br />
+=== 販売機能 ===<br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>プリンティングシステムズ販売株式会社（東京都中野区）<br />
+:オフィス向けレーザープリンターの卸販売を担当。<br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>インターフィールド株式会社（東京都品川区）<br />
+:事務用機械器具、事務用家具、文房具および 複写機、ファクシミリ、プリンター等に使用される消耗品の販売。<br />
+<br />
+==== 販売会社 ====<br />
+平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>（200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）4月より、当社の販売会社名を「（地域名）ゼロックス」から「<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>（地域名）」に社名変更している。（例：東京ゼロックス株式会社→<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>東京株式会社）<br />
+また、平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>（20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）7月より、地域統轄会社として、各地域ごとに広域販社を設立している。<br />
+<br />
+・地域統轄販社<br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>北日本株式会社<br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>関東株式会社<br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>首都圏株式会社<br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>中部株式会社<br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>西日本株式会社<br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>九州株式会社<br />
+・地域販社<br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>北海道株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>岩手株式会社<br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>宮城株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>福島株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>茨城株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>栃木株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>群馬株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>埼玉株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>千葉株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>東京株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>多摩株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>神奈川株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>山梨株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>新潟株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>北陸株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>長野株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>岐阜株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>静岡株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>愛知株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>愛知東株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>三重株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>京都株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>大阪株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>兵庫株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>奈良株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>岡山株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>広島株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>山口株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>四国株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>福岡株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>北九州株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>長崎株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>熊本株式会社 <br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>鹿児島株式会社<br />
+<br />
+==== 県別特約店 ====<br />
+* 株式会社テクノル（青森県）<br />
+* 秋田ゼロックス株式会社<br />
+* 山形ゼロックス株式会社<br />
+* 福井ゼロックス株式会社<br />
+* 和歌山ゼロックス株式会社<br />
+* 株式会社ケー・オウ・エイ（鳥取県）<br />
+* 株式会社ミック（島根県） - 関連企業にメディアス<a href="http://localhost/keyword/%E3%82%B3%E3%83%BC%E3%83%97">コープ</a>がある。<br />
+* 株式会社ソアー（佐賀県）<br />
+* 大分ゼロックス株式会社<br />
+* 宮崎電子機器株式会社（宮崎県）<br />
+* 沖縄ゼロックス株式会社<br />
+<br />
+== 海外関連会社 ==<br />
+=== アジア・パシフィック（国・地域）===<br />
+==== 販売機能 ====<br />
+*Fuji Xerox Asia Pacific Pte Ltd（シンガポール）<br />
+*Fuji Xerox Singapore Pte Ltd（シンガポール）<br />
+*Fuji Xerox Asia Pacific Pte Ltd(Malaysia Operations)（マレーシア）<br />
+*Fuji Xerox Vietnam Company Limited（ベトナム）<br />
+*Fuji Xerox Korea Co., Ltd.（韓国）<br />
+*Fuji Xerox Taiwan Corporation（台湾）<br />
+*Fuji Xerox (Thailand) Co., Ltd.（タイ）<br />
+*Fuji Xerox Philippines, Inc.（フィリピン）<br />
+*Fuji Xerox Australia Pty Limited（オーストラリア）<br />
+*Fuji Xerox New Zealand Limited（ニュージーランド）<br />
+*PT. Astra Graphia Tbk（<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>総代理店）（インドネシア）<br />
+*Fuji Xerox (China) Limited（中国）<br />
+*Fuji Xerox Industry Development(Shanghai) Co., Ltd. （中国）<br />
+*Fuji Xerox (Hong Kong) Limited（香港）<br />
+<br />
+==== 調達・生産機能 ====<br />
+*Fuji Xerox of Shanghai Limited（中国）<br />
+*Fuji Xerox of Shenzhen Ltd.（中国）<br />
+*Fuji Xerox Far East Ltd.（香港）<br />
+*Fuji Xerox Eco-Manufacturing Co., Ltd.（タイ）<br />
+*Fuji Xerox Eco-Manufacturing (Suzhou) Co., Ltd.（中国）<br />
+<br />
+=== 米国 ===<br />
+*Xerox International Partners<br />
+:レーザープリンターや消耗品のOEM販売とサポート。<br />
+*FX Palo Alto Laboratory, Inc.<br />
+:マルチメディア、コミュニケーション技術を中心とした研究受託。<br />
+*FX Global Supply Solutions, Inc.<br />
+:<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>商品の欧米におけるサプライ・チェーン・マネジメント。<br />
+<br />
+==四次元ポケットPROJECT==<br />
+中堅企業や<a href="http://localhost/keyword/%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD">中小企業</a>の技術を結集して「ドラえもんのひみつ道具を」実現化するプロジェクト[http://www.fujixerox.co.jp/company/ad/4d-project/ 四次元ポケットPROJECT][http://nlab.itmedia.co.jp/nl/articles/1401/29/news127.html <a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>がドラえもんのひみつ道具実現する「四次元ポケットPROJECT」 第1弾は][http://nlab.itmedia.co.jp/nl/articles/1408/19/news098.html ドラえもんのひみつ道具実現する<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>の「四次元ポケットPROJECT」 第2弾は「望遠メガフォン」][http://www.itmedia.co.jp/lifestyle/articles/1504/08/news070.html ドラえもんの秘密道具を作る「四次元ポケットプロジェクト」第3弾は「室内旅行機」]。スローガンは「どうだ、ドラえもん」。<br />
+*第一弾：セルフ将棋<br />
+*第二弾：望遠メガフォン<br />
+*第三弾：室内旅行機<br />
+<br />
+== CMに起用された人物 ==<br />
+=== 現在 ===<br />
+*白鵬翔<br />
+<br />
+=== 過去 ===<br />
+*松岡修造<br />
+*松下由樹<br />
+*山田邦子<br />
+*ディエゴ・<a href="http://localhost/keyword/%E3%83%9E%E3%83%A9%E3%83%89%E3%83%BC%E3%83%8A">マラドーナ</a><br />
+*クリスティアーノ・ロナウド<br />
+*浅野忠信<br />
+*明神智和（柏レイソル時代） ほか<br />
+<br />
+== 提供番組（過去に提供された番組も含む） ==<br />
+*NEWS23（NEWS23Xを含む　TBS・現行の提供番組）<br />
+*:JNNニュースデスク時代から続く最古参スポンサーの1社である。この名残から、現在は30秒1本の提供であるものの、スポンサー読み上げが行われている<br />
+**JNNニュース22プライムタイム<br />
+**JNNニュースデスク&#39;88・&#39;89<br />
+**筑紫哲也 NEWS23→NEWS23<br />
+*富士フイルムシニアチャンピオンシップ<br />
+*<a href="http://localhost/keyword/%E3%83%80%E3%83%B3%E3%83%AD%E3%83%83%E3%83%97%E3%83%95%E3%82%A7%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9%E3%83%88%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88">ダンロップフェニックストーナメント</a>（毎日放送・宮崎放送共同制作・TBS系列、19<a href="http://localhost/keyword/80%E5%B9%B4">80年</a>代-2000年）<br />
+*FUJI XEROX SUPER CUP - 冠スポンサーであり、天皇杯全日本サッカー選手権大会、全国高等学校サッカー選手権大会の大会スポンサーでもある。<br />
+<br />
+== 脚注・出典 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+*ゼロックス<br />
+*パロアルト研究所<br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>ミネルヴァAFC<br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>広島SC<br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>FIREBIRD<br />
+*セブン-イレブン<br />
+*竹内喜三郎 - 設立に関与<br />
+*吉村寿雄<br />
+*小林陽太郎<br />
+*宮原明<br />
+*河野太郎<br />
+*飯島忠義<br />
+*<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>タワー<br />
+<br />
+== 外部リンク ==<br />
+<br />
+*[http://www.fujixerox.co.jp/ <a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>株式会社/Fuji Xerox Co., Ltd.]<br />
+*[https://www.facebook.com/fuji.xerox　<a href="http://localhost/keyword/%E5%AF%8C%E5%A3%AB%E3%82%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9">富士ゼロックス</a>株式会社公式Facebookページ]<br />
+*[http://www.printing.ne.jp/ ネットプリント]<br />
+*[http://www.skydesk.jp/ SkyDesk]<br />
+<br />
+<br />
+<br />
+<br />
+*<br />
+Category:コンピュータ<a href="http://localhost/keyword/%E5%91%A8%E8%BE%BA%E6%A9%9F%E5%99%A8">周辺機器</a>企業<br />
+Category:日本の電気機器メーカー<br />
+Category:東京都港区の企業<br />
+Category:1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>設立の企業<br />
+Category:富士フイルム<br />
+Category:ゼロックス<br />
+Category:国際合弁企業<br />

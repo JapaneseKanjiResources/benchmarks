@@ -1,0 +1,81 @@
+description<br />
+<a href="http://localhost/keyword/%E6%B0%B4%E9%83%A1%E7%B7%9A">水郡線</a><br />
+|キロ程 = 105.3<br />
+|起点駅 = 水戸<br />
+|所在地 = 福島県石川郡石川町字当町223<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面3線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>（昭和<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）12月4日<br />
+|乗車人員 = 559<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a><br />
+|乗換 =<br />
+|備考 = 直営駅（管理駅）みどりの窓口 有<br />
+}}<br />
+ホーム<br />
+駅前<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E7%A3%90%E5%9F%8E%E7%9F%B3%E5%B7%9D%E9%A7%85">磐城石川駅</a>&#39;（いわきいしかわえき）は、福島県石川郡石川町字当町にある、東日本旅客鉄道（JR東日本）<a href="http://localhost/keyword/%E6%B0%B4%E9%83%A1%E7%B7%9A">水郡線</a>の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>（昭和<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）12月4日 - 磐城棚倉 - 川東間の開業による安積永盛 - 水戸間の全線開通と同時に開業。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化によりJR東日本の駅となる。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線と島式ホーム1面2線、合計2面3線のホームを持つ地上駅。互いのホームは構内踏切で連絡している。島式ホーム（2、3番線、郡山方面）には待合室が置かれる。2番線ホームは嵩上げされていない。3番線は上下両方向の出発に対応しており、当駅折り返しの列車も使用する。また、保線機器用の側線がある。<br />
+<br />
+直営駅（駅長配置）であり、管理駅として磐城浅川駅 - 磐城守山駅間の各駅を管理している。みどりの窓口（営業時間 6:45 - 19:05）・自動券売機が設置されている。<br />
+<br />
+=== のりば ===<br />
+<br />
+* 夜間滞泊が1本設定されている。<br />
+<br />
+== 利用状況 ==<br />
+* 近年の1日平均乗車人員は以下のとおり。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 石川駅前通郵便局<br />
+* 北須川<br />
+* 須賀川地方広域消防組合石川消防署<br />
+* 石川町役場<br />
+* 福島県県中保健福祉事務所石川福祉相談コーナー<br />
+* 石都々古和気神社<br />
+* 学校法人石川高等学校・石川義塾中学校<br />
+* 福島県自家用自動車協会石川支部<br />
+* 猫啼温泉<br />
+* 片倉温泉<br />
+* <a href="http://localhost/keyword/%E5%9B%BD%E9%81%93118%E5%8F%B7">国道118号</a><br />
+* 福島県道40号飯野三春石川線<br />
+* 福島県道274号赤坂西野石川線<br />
+<br />
+== バス路線 ==   <br />
+最寄バス停は「石川駅前」。<br />
+<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: <a href="http://localhost/keyword/%E6%B0%B4%E9%83%A1%E7%B7%9A">水郡線</a><br />
+:: 里白石駅 - &#39;<a href="http://localhost/keyword/%E7%A3%90%E5%9F%8E%E7%9F%B3%E5%B7%9D%E9%A7%85">磐城石川駅</a>&#39; - <a href="http://localhost/keyword/%E9%87%8E%E6%9C%A8%E6%B2%A2%E9%A7%85">野木沢駅</a><br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=169 JR東日本 <a href="http://localhost/keyword/%E7%A3%90%E5%9F%8E%E7%9F%B3%E5%B7%9D%E9%A7%85">磐城石川駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+わきいしかわ<br />
+Category:福島県の鉄道駅<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:<a href="http://localhost/keyword/%E6%B0%B4%E9%83%A1%E7%B7%9A">水郡線</a><br />
+いわきいしかわえき<br />
+Category:1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>開業の鉄道駅<br />

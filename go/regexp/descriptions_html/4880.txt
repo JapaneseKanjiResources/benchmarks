@@ -1,0 +1,81 @@
+description<br />
+<br />
+|所属事業者 = 四国旅客鉄道（JR四国）<br />
+|所属路線 = 土讃線<br />
+|キロ程 = 23.9<br />
+|起点駅 = 多度津<br />
+|所在地 = 香川県三豊市財田町財田上7311番地<br />
+| 緯度度 = 34|緯度分 = 7|緯度秒 = 3.31<br />
+| 経度度 = 133|経度分 = 48|経度秒 = 51.05<br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面3線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>（大正<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）5月21日<br />
+|廃止年月日 =<br />
+|乗車人員 = 30<br />
+|乗降人員 = <br />
+|統計年度 = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換 =<br />
+|備考 = 無人駅<br />
+}}<br />
+入口（200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>3月）<br />
+構内（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>8月14日）<br />
+&#39;<a href="http://localhost/keyword/%E8%AE%83%E5%B2%90%E8%B2%A1%E7%94%B0%E9%A7%85">讃岐財田駅</a>&#39;（さぬきさいだえき）は、香川県三豊市財田町財田上にある四国旅客鉄道（JR四国）土讃線の駅。駅番号は&#39;D18&#39;。標高151.6 m『全国鉄道事情大研究 四国篇』<a href="http://localhost/keyword/110">110</a>頁。。<br />
+<br />
+三豊市財田地区（旧三豊郡財田町）唯一の駅だがその中心部からは離れており、普通列車のみ停車する小さな駅となっている。地名の読みは「さい&#39;た&#39;」だが駅名の読みは「さい&#39;だ&#39;」となっている。<br />
+<br />
+== 駅構造 ==<br />
+単式・島式混合2面3線の地上駅で一線スルーである。半径604 mの曲線で3.3 &amp;permil;の勾配上に位置し、駅舎側1番線が上下本線（琴平駅方制限速度100km/h、阿波池田駅方制限速度85km/h）。2番線は下り副本線で上り方向の入線・出発は非対応。3番線が上下副本線。列車同士の行き違いと列車の追い抜きが可能である。<br />
+<br />
+木造の駅舎も残るが、現在は無人駅となっている。地域住民による手入れがよくなされているせいか、待合室内には表彰状が多数飾られている。トイレは駅舎内に併設。汲み取り式ではあるが、箱入りのティッシュペーパーが置かれ，手洗用の蛇口もあるので、設備はよい。<br />
+<br />
+駅舎の脇に香川県の保存木に指定されているタブの巨木がある[http://www.pref.kagawa.lg.jp/kankyo/shizen/guidemap/tree/tree6/92.htm 香川の保存木 - 財田駅前のタブノキ] - 香川県（香川の環境）、20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>11月25日閲覧。。この木の樹齢は700年とも<a href="http://localhost/keyword/800%E5%B9%B4">800年</a>ともいわれ[http://www.olive-foundation.org/action/ookinaki/tabunoki.html 大きな木プロジェクト Vol.1 香川県財田・タブノキ] - NPO法人瀬戸内オリーブ基金、20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>11月26日閲覧。、土讃線の建設の際はこの木を避けるように線路が敷設された[http://www.mitoyo-kanko.com/?p=3803 樹齢<a href="http://localhost/keyword/800%E5%B9%B4">800年</a>のタブの木] - 三豊市観光協会、20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>11月25日閲覧。[http://www.8441.jp/blog/entry-185.html <a href="http://localhost/keyword/%E8%AE%83%E5%B2%90%E8%B2%A1%E7%94%B0%E9%A7%85">讃岐財田駅</a>とタブの木] - ツバメ工業株式会社、20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>7月27日、20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>11月25日閲覧。。<br />
+<br />
+<br />
+<a href="http://localhost/keyword/%E8%AE%83%E5%B2%90%E8%B2%A1%E7%94%B0%E9%A7%85">讃岐財田駅</a>構内<br />
+<br />
+== 利用状況 ==<br />
+1日平均の乗車人員は下記の通りである。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+旧財田町の中心からはかなり離れた丘陵上に駅はあり、駅前には目立った建物もなく閑散としている。<br />
+* 帰来川<br />
+* 国道32号 - 道の駅たからだの里さいた<br />
+以下は駅から東に2キロ以上と少し離れている。<br />
+* 三豊市財田支所<br />
+* 三豊市立和光中学校<br />
+* <a href="http://localhost/keyword/%E9%A6%99%E5%B7%9D%E7%94%A8%E6%B0%B4">香川用水</a>記念公園<br />
+<br />
+=== バス連絡 ===<br />
+* 三豊市コミュニティバス 財田観音寺線<br />
+<br />
+== 歴史 == <br />
+* 1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>（大正<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）5月21日 - 開業。<br />
+* 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>（昭和<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>）2月1日 - 無人駅化。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により四国旅客鉄道が継承。<br />
+<br />
+== 隣の駅 ==<br />
+; 四国旅客鉄道<br />
+: 土讃線<br />
+:: 黒川駅 (D17) - &#39;<a href="http://localhost/keyword/%E8%AE%83%E5%B2%90%E8%B2%A1%E7%94%B0%E9%A7%85">讃岐財田駅</a> (D18)&#39; - 坪尻駅 (D19)<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 参考文献 ==<br />
+* <br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+<br />
+Category:香川県の鉄道駅<br />
+ぬきさいた<br />
+Category:四国旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>開業の鉄道駅<br />
+Category:土讃線<br />
+さぬきさいたえき<br />

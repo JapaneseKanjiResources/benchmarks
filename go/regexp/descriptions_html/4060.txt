@@ -1,0 +1,62 @@
+description<br />
+勝山<a href="http://localhost/keyword/%E6%B0%B8%E5%B9%B3%E5%AF%BA">永平寺</a>線<br />
+|キロ程 = 2.4<br />
+|起点駅 =  福井<br />
+|所在地 = 福井県福井市開発町1丁目601<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/932%E5%B9%B4">932年</a>（昭和<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）8月20日<br />
+|廃止年月日 =<br />
+|乗車人員 =<br />
+|乗降人員 = <br />
+|統計年度 =<br />
+|乗換 =<br />
+|備考 = 一部時間帯のみ駅員配置あり<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E8%B6%8A%E5%89%8D%E9%96%8B%E7%99%BA%E9%A7%85">越前開発駅</a>&#39;（えちぜんかいほつえき）は、福井県福井市開発町にあるえちぜん鉄道勝山<a href="http://localhost/keyword/%E6%B0%B8%E5%B9%B3%E5%AF%BA">永平寺</a>線の駅。<br />
+<br />
+== 駅構造 ==<br />
+* 単式ホーム1面1線の地上駅。20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>までは島式ホーム1面2線であった。<br />
+* 平日の7時5分から19時45分の間のみ駅員配置。その時間以外は無人駅である。<br />
+* 駅舎は北側にあり、ホームと構内踏切で連絡している。市街地に位置するため、ホームは狭く屋根がない。<br />
+* 双方向とも単線となる。かつては福井口駅から当駅までは複線であったが、20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>に単線化された。<br />
+<br />
+<br />
+ファイル:Echizenkaihotu-sta PICT0009.JPG|全景（左、ホーム・右、駅舎）<br />
+ファイル:Echizentetudou-echizenkaihotu PICT0040.JPG|複線の線路内にある狭い島式ホーム<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 国道8号（福井バイパス）<br />
+* 福井市啓蒙小学校<br />
+* 福井労働基準監督署、福井公共職業安定所（ハローワーク福井）<br />
+* 天然温泉極楽湯福井店<br />
+* 福井県警察 福井警察署<br />
+<br />
+== 歴史 == <br />
+* 1<a href="http://localhost/keyword/932%E5%B9%B4">932年</a>（昭和<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）8月20日 開業。<br />
+* 2001年（平成<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）6月24日 事故による全線運行休止により休業。<br />
+* 2003年（平成<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）<br />
+** 2月1日 えちぜん鉄道が承継。<br />
+** 7月20日 業務再開。<br />
+* 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>（平成<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）9月27日 福井口駅 - 当駅間の単線化に伴い、棒線駅化（1面2線→1面1線） - えちぜん鉄道、20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>8月25日、同日閲覧。。<br />
+<br />
+== 隣の駅 ==<br />
+; えちぜん鉄道<br />
+: 勝山<a href="http://localhost/keyword/%E6%B0%B8%E5%B9%B3%E5%AF%BA">永平寺</a>線<br />
+:: 福井口駅 - &#39;<a href="http://localhost/keyword/%E8%B6%8A%E5%89%8D%E9%96%8B%E7%99%BA%E9%A7%85">越前開発駅</a>&#39; - 越前新保駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+<br />
+category:福井市の鉄道駅<br />
+ちせんかいほつ<br />
+category:えちぜん鉄道の鉄道駅<br />
+Category:京福電気鉄道の廃駅<br />
+Category:1<a href="http://localhost/keyword/932%E5%B9%B4">932年</a>開業の鉄道駅<br />

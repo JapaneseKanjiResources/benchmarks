@@ -1,0 +1,54 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E9%95%B7%E6%89%93%E7%8E%87">長打率</a>&#39;（ちょうだりつ、）は、野球において打者を評価する指標の一つ。<br />
+<br />
+== 概要 ==<br />
+<a href="http://localhost/keyword/%E9%95%B7%E6%89%93%E7%8E%87">長打率</a>は、打数が記録される打席において打者が打撃によって獲得できる1打数あたりの塁打数の期待値（平均値）を表す指標である。以下の式で求められる。<br />
+<br />
+:&#39;<a href="http://localhost/keyword/%E9%95%B7%E6%89%93%E7%8E%87">長打率</a> = 塁打 ÷ 打数&#39;<br />
+<br />
+歩合（割・分・厘など）で表され、上記の式で算出された数値の小数第4位を四捨五入して第3位までの値を<a href="http://localhost/keyword/%E9%95%B7%E6%89%93%E7%8E%87">長打率</a>として用いる。整数部分の0は省略することが多い。<br />
+<br />
+打率などと異なり百分率ではないので、数値の上限が1を超える。最高値は4.000で、全打数で本塁打を打った場合に記録される。<br />
+<br />
+== 日本プロ野球 ==<br />
+=== 個人通算記録 ===<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+* 記録は20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>シーズン終了時点。通算4000打数以上の選手が対象[http://npb.jp/bis/history/ltb_slg.html 歴代最高記録 <a href="http://localhost/keyword/%E9%95%B7%E6%89%93%E7%8E%87">長打率</a>【通算記録】] - NPB.jp 日本野球機構（シーズン中は毎日更新）。<br />
+<br />
+=== 個人シーズン記録 ===<br />
+<br />
+* 記録は20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>シーズン終了時点[http://npb.jp/bis/history/ssb_slg.html 歴代最高記録 <a href="http://localhost/keyword/%E9%95%B7%E6%89%93%E7%8E%87">長打率</a>【シーズン記録】] - NPB.jp 日本野球機構<br />
+<br />
+=== 年度別リーグ平均<a href="http://localhost/keyword/%E9%95%B7%E6%89%93%E7%8E%87">長打率</a> ===<br />
+<br />
+<br />
+== メジャーリーグ<a href="http://localhost/keyword/%E3%83%99%E3%83%BC%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%AB">ベースボール</a> ==<br />
+=== 個人通算記録 ===<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+* 記録は20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>シーズン終了時点[http://www.baseball-reference.com/leaders/slugging_perc_career.shtml 通算記録 (MLB)] - Baseball-Reference.com<br />
+<br />
+=== 個人シーズン記録 ===<br />
+<br />
+* 記録は20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>シーズン終了時点[http://www.baseball-reference.com/leaders/slugging_perc_season.shtml シーズン記録 (MLB)] - Baseball-Reference.com<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* OPS - <a href="http://localhost/keyword/%E9%95%B7%E6%89%93%E7%8E%87">長打率</a>と出塁率の和<br />
+* 野球の各種記録<br />
+* セイバーメトリクス<br />
+<br />
+<br />
+Category:野球の統計<br />
+Category:バッティング (野球)<br />

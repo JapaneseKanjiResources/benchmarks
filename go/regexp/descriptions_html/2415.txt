@@ -1,0 +1,182 @@
+description<br />
+<br />
+<br />
+常磐線<br />
+|キロ程 = 286.9<br />
+|起点駅 = 日暮里<br />
+|所在地幅 = long<br />
+|所在地 = 福島県南相馬市原町区旭町二丁目27-2<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面3線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/898%E5%B9%B4">898年</a>（明治<a href="http://localhost/keyword/31%E5%B9%B4">31年</a>）4月3日<br />
+|廃止年月日 =<br />
+|乗車人員 = 609<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a><br />
+|備考 = みどりの窓口 有<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E5%8E%9F%E3%83%8E%E7%94%BA%E9%A7%85">原ノ町駅</a>&#39;（はらのまちえき）は、福島県南相馬市原町区旭町二丁目にある東日本旅客鉄道（JR東日本）常磐線の駅である。<br />
+<br />
+南相馬市の代表駅。常磐線仙台エリアにおけるSuica利用区域の南端であり、当駅よりいわき方面への利用はできない。<br />
+<br />
+== 年表 ==<br />
+<a href="http://localhost/keyword/%E5%8E%9F%E3%83%8E%E7%94%BA%E9%A7%85">原ノ町駅</a>を望む（改修前、200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>3月）<br />
+* 1<a href="http://localhost/keyword/898%E5%B9%B4">898年</a>（明治<a href="http://localhost/keyword/31%E5%B9%B4">31年</a>）4月3日 - 日本鉄道磐城線の駅として開業。<br />
+* 1<a href="http://localhost/keyword/906%E5%B9%B4">906年</a>（明治<a href="http://localhost/keyword/39%E5%B9%B4">39年</a>）11月1日 - 日本鉄道が国有化され、官設鉄道の所属となる。<br />
+* 1<a href="http://localhost/keyword/909%E5%B9%B4">909年</a>（明治<a href="http://localhost/keyword/42%E5%B9%B4">42年</a>）10月12日 - 線路名称制定により常磐線の所属となる。<br />
+* 1<a href="http://localhost/keyword/949%E5%B9%B4">949年</a>（昭和<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）6月1日 - 日本国有鉄道が発足。<br />
+* 1<a href="http://localhost/keyword/967%E5%B9%B4">967年</a>（昭和<a href="http://localhost/keyword/42%E5%B9%B4">42年</a>）8月20日 - 常磐線全線電化完成（草野駅 - 岩沼駅間）で、当駅にも電車が発着するようになる。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により東日本旅客鉄道（JR東日本）の駅となる。<br />
+* 1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a>（平成<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>） - 駅レンタカー営業所営開始『JR時刻表』1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a>4・12月号。<br />
+* 19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>（平成<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）3月31日 - 駅レンタカー営業所営業終了『JR時刻表』19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>4月号。<br />
+* 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>（平成<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）3月27日 - 自動改札機導入。<br />
+* 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>（平成<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）3月 - 指定席券売機導入。<br />
+* 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>（平成<a href="http://localhost/keyword/21%E5%B9%B4">21年</a>）3月14日 - ICカード「Suica」サービス開始。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）<br />
+** 3月11日 - 東北地方太平洋沖地震（東日本大震災・福島第一原子力発電所事故）により営業休止[http://www.jreast.co.jp/pdf/saikaijoukyou.pdf 東北地区運転再開状況] 東日本旅客鉄道 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>4月6日閲覧[http://www.jreast.co.jp/pdf/restore_zairai.pdf 在来線の地上設備の主な被害と復旧状況] 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>4月6日閲覧。<br />
+** 5月23日 - 当駅への代行バス乗り入れ開始。<br />
+** 12月13日 - 15日 - 運転再開用の<a href="http://localhost/keyword/701%E7%B3%BB">701系</a>6両が仙台車両センターから陸送で搬入される。<br />
+** 12月20日 - 当駅 - 相馬駅間で代行バスの運転終了。<br />
+** 12月21日 - 当駅の営業および当駅 - 相馬駅間での運転再開。<br />
+* 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>（平成<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）1月31日 - 当駅 - 竜田駅間で代行バスの運行を開始。バスの運行は1日2往復であり、途中駅はすべて通過扱いとなる。<br />
+* 20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>（平成2<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）7月12日 - 小高駅 - 当駅間の運転再開。ただし当駅 - 竜田駅間で運行中の代行バスは地元からの要望や利便性を考慮し、引き続き当駅から運行される - 20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>5月31日 東日本旅客鉄道水戸支社。<br />
+<br />
+== 駅構造 ==<br />
+2面3線のホームを持つ地上駅であり、留置線が敷設され夜間滞泊が設定されている。<br />
+<br />
+200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）3月18日改正から、普通列車は当駅以南での415系使用拡大による車両とホームの段差の関係で、一部を除き当駅で乗り換えになった（<a href="http://localhost/keyword/701%E7%B3%BB">701系</a>のみ直通）。また、国鉄時代からひたちの折り返し・夜間滞泊運用があったほか、震災前は「スーパーひたち」のうち、午後の1本（日によって仙台行き/仙台発）と夜間滞泊（22時20分着→5時40分発）系統は当駅で折り返していた。<br />
+<br />
+駅の北側には東口方面へ行く跨線橋があり、車椅子用のエレベーターが設置されている。駅舎正面の「ひさし」を支えているのは竹筋コンクリート製支柱だった。現在は鉄筋コンクリート製となり、竹筋コンクリートの柱の一部が駅舎内に保存されている。<br />
+<br />
+終日社員配置駅（駅長・助役配置）。構内にはみどりの窓口（営業時間 5時10分 - 20時、休止時間 6時 - 6時20分、12時 - 13時、18時 - 19時）・自動券売機・指定席券売機・自動改札機・NEWDAYS（Suica利用可能、営業時間 8時15分 - 17時）・立ち食いそば屋（丸屋、駅弁も販売）がある。<br />
+<br />
+20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>3月11日に発生した東北地方太平洋沖地震（東日本大震災）により、当駅やその周辺で停車した車両は当駅構内留置を行っていたが、E721系P9+P27編成・<a href="http://localhost/keyword/701%E7%B3%BB">701系</a>F2-510編成は陸送で搬出され、651系K202編成（20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>3月11日15時9分発上野行きスーパーひたち50号）と415系K534編成・ホッパ車は引き続き留置されている。このうち、651系と415系は連結された状態で留置されていたが、老朽化により事実上廃車で、20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>3月14日から19日にかけて撤去された[http://www.asahi.com/articles/ASJ333RSTJ33UQIP00B.html <a href="http://localhost/keyword/5%E5%B9%B4">5年</a>前のスーパーひたち、駅に止まったまま] - 朝日新聞デジタル 20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>3月4日。[http://headlines.yahoo.co.jp/hl?a=20160314-00050045-yom-soci 震災で止まって置き去りの電車、撤去作業開始] - 20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>3月14日 読売新聞。<br />
+<br />
+20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>12月21日に当駅と相馬駅間で普通列車のみ運行が再開されたが、これに際し仙台車両センターから<a href="http://localhost/keyword/701%E7%B3%BB">701系</a>F2-18編成・F2-20編成・F2-25編成が陸送で搬入され、当駅をベースとしその任にあたっている。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+==== ギャラリー ====<br />
+<br />
+Image:JR_Haranomachi_sta_002.jpg|<a href="http://localhost/keyword/%E5%8E%9F%E3%83%8E%E7%94%BA%E9%A7%85">原ノ町駅</a>改札口付近（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>3月）<br />
+Image:JR_Haranomachi_sta_003.jpg|<a href="http://localhost/keyword/%E5%8E%9F%E3%83%8E%E7%94%BA%E9%A7%85">原ノ町駅</a>改札口付近（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>3月）<br />
+Image:Haranomachi Sta 2.jpg|構内（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>4月）<br />
+<br />
+<br />
+File:JR HaranomachiStation 121126 b.jpg|改札口（20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>11月）<br />
+File:JR HaranomachiStation 121126 a.jpg|駅構内（20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>11月）<br />
+File:JR_East_651_series_Super_Hitachi_at_Haranomachi_station_in_Oct_2012.jpg|震災以降放置されていたスーパーひたち50号（20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>10月）<br />
+<br />
+<br />
+== 利用状況 ==<br />
+近年の一日あたりの平均乗車人員は以下のとおりである。減少傾向であり、20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>度は2000年度の約70%程度となっている。<br />
+<br />
+<br />
+== 駅弁 ==<br />
+丸屋が販売する主な駅弁は下記の通りJR時刻表20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>9月号（交通新聞社刊）617ページ 。なお、震災以降駅弁の販売及び立ち売りは停止している。<br />
+<br />
+* 浜のかにめし<br />
+* 舞たけごはん<br />
+* 浜べんとう<br />
+* 盆唄べんとう<br />
+* 汐干かり弁当（3月 - 8月）<br />
+* アツアッツほっきめし弁当<br />
+* あつあつ鮭めし<br />
+* いなり天ざる（要予約）<br />
+<br />
+== 駅周辺 ==<br />
+<br />
+駅は南相馬市中心部に位置する。<br />
+* 南相馬市役所（旧・原町市役所）<br />
+** 原町区役所<br />
+* 南相馬市民文化会館<br />
+* 原町郵便局<br />
+* <a href="http://localhost/keyword/%E5%8E%9F%E3%83%8E%E7%94%BA%E9%A7%85">原ノ町駅</a>前郵便局<br />
+* 福島県南相馬合同庁舎<br />
+* 南相馬警察署<br />
+** <a href="http://localhost/keyword/%E5%8E%9F%E3%83%8E%E7%94%BA%E9%A7%85">原ノ町駅</a>前交番・安心ネットワーク<br />
+* 相馬地方広域消防本部<br />
+** 南相馬消防署<br />
+* 南相馬市立病院<br />
+* 相馬公共職業安定所原町出張所<br />
+* 桜井古墳<br />
+* 福島交通原町車庫（旧：原町営業所）<br />
+* 常磐交通観光原町営業所<br />
+* 福島県道12号原町川俣線<br />
+* 福島県道49号原町浪江線<br />
+* 福島県道62号原町二本松線<br />
+* 福島県道74号原町海老相馬線<br />
+* 福島県道120号浪江鹿島線（陸前浜街道）<br />
+* 福島県道263号下渋佐南新田線<br />
+* 国道6号<br />
+* 道の駅南相馬<br />
+* 新田川<br />
+* 相馬野馬追祭場地<br />
+* 南相馬市<a href="http://localhost/keyword/%E9%A6%AC%E4%BA%8B%E5%85%AC%E8%8B%91">馬事公苑</a><br />
+* 丸屋（ホテルおよび<a href="http://localhost/keyword/%E5%8E%9F%E3%83%8E%E7%94%BA%E9%A7%85">原ノ町駅</a>弁調製元）<br />
+* ヨークベニマル原町店（※震災後休業中）<br />
+* ジャスト原町店<br />
+* <a href="http://localhost/keyword/%E3%82%B3%E3%82%B3%E3%82%B9">ココス</a>原町店<br />
+* 原町中央自動車学校<br />
+* セブン-イレブン<a href="http://localhost/keyword/%E5%8E%9F%E3%83%8E%E7%94%BA%E9%A7%85">原ノ町駅</a>前店<br />
+* セブン-イレブン原町錦町店<br />
+* まるまつ原町店<br />
+* 東北労働金庫原町支店<br />
+* 丸三製紙本社工場<br />
+* 大町病院<br />
+* 小野田病院<br />
+* 原町シーサイドパーク<br />
+* 東北電力原町火力発電所<br />
+* 高の倉ダム（ダム公園まで約8km）<br />
+* 常磐自動車道 南相馬インターチェンジ<br />
+<br />
+== 駅名について ==<br />
+所在地の名前は「&#39;はらまち&#39;」だが、旧原町市を通っていた陸前浜街道の宿場は原町（はらのまち）宿と読んでいたため、駅名は後者を取って「&#39;はらのまち&#39;」とされたと推測される。<br />
+<br />
+== 路線バス ==<br />
+; 福島交通<br />
+* 川俣行（20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>7月1日より運行休止中）、車川経由相馬行、立谷経由相馬行、福島駅東口行（詳細は福島交通相馬営業所を参照）<br />
+; 東北アクセス（旧・はらまち旅行）<br />
+* 仙台駅東口行、仙台駅東口経由あおば通り駅行}、福島駅西口行<br />
+* 高平小学校行、上渋佐行<br />
+; 南相馬市応急仮設住宅巡回バス<br />
+* 東北アクセスが運行（月曜日～金曜日運行、無料）。市立図書館前に発着。<br />
+; 新常磐交通（※当分の間運休）<br />
+* 小浜・戸屋入口経由原町大甕循環、小浜・戸屋入口経由大甕行、滝行、高倉公会堂行、下渋佐行、牛島行、高平小学校行（詳細は新常磐交通北営業所を参照）<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 常磐線<br />
+:: 磐城太田駅 - &#39;<a href="http://localhost/keyword/%E5%8E%9F%E3%83%8E%E7%94%BA%E9%A7%85">原ノ町駅</a>&#39; - 鹿島駅<br />
+: 代行バス（竜田駅行き）<br />
+:: 小高駅 - &#39;<a href="http://localhost/keyword/%E5%8E%9F%E3%83%8E%E7%94%BA%E9%A7%85">原ノ町駅</a>&#39;<br />
+鹿島駅との間に高平信号所があったが19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>2月10日に廃止された<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 日本の鉄道駅一覧<br />
+* 原ノ町運輸区<br />
+* 陸前<a href="http://localhost/keyword/%E5%8E%9F%E3%83%8E%E7%94%BA%E9%A7%85">原ノ町駅</a><br />
+* saku saku - 駅そばキングのコーナーで当駅の駅そばが取り上げられた。<br />
+* 東日本大震災による鉄道への影響<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=1259 JR東日本 <a href="http://localhost/keyword/%E5%8E%9F%E3%83%8E%E7%94%BA%E9%A7%85">原ノ町駅</a>]<br />
+<br />
+<br />
+<br />
+Category:福島県の鉄道駅<br />
+らのまち<br />
+Category:日本鉄道<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/898%E5%B9%B4">898年</a>開業の鉄道駅<br />
+Category:常磐線<br />
+はらのまちえき<br />

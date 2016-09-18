@@ -1,0 +1,84 @@
+description<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E6%89%81%E5%B9%B3%E7%8E%87">扁平率</a>&#39;（へんぺいりつ、扁率、扁平度とも、flattening, oblateness）とは、楕円もしくは回転楕円体が、円もしくは球に比べてどれくらい扁平か（つぶれているか）を表す値である。円もしくは球では値が 0 である。つぶれるに従って値は 1 に近づく。<br />
+<br />
+楕円または回転楕円体の長半径を &#39;&#39;a&#39;&#39;、短半径を &#39;&#39;b&#39;&#39; とすると、<a href="http://localhost/keyword/%E6%89%81%E5%B9%B3%E7%8E%87">扁平率</a>fは<br />
+:f=\\frac{a-b}{a}=1-\\frac{b}{a}<br />
+で定義される。(&#39;&#39;a&#39;&#39; - &#39;&#39;b&#39;&#39;) : &#39;&#39;a&#39;&#39; のように比の形で表すこともある。<br />
+<br />
+自転する天体の場合、遠心力によって赤道半径が極半径に比べて大きい扁球となる。したがって &#39;&#39;a&#39;&#39; が赤道半径、&#39;&#39;b&#39;&#39; が極半径となる。地球楕円体の<a href="http://localhost/keyword/%E6%89%81%E5%B9%B3%E7%8E%87">扁平率</a>としては、GRS80測地系のパラメータ値が用いられることが多い。<br />
+<br />
+== 第二及び第三<a href="http://localhost/keyword/%E6%89%81%E5%B9%B3%E7%8E%87">扁平率</a> ==<br />
+冒頭で定義された<a href="http://localhost/keyword/%E6%89%81%E5%B9%B3%E7%8E%87">扁平率</a> fは“第一<a href="http://localhost/keyword/%E6%89%81%E5%B9%B3%E7%8E%87">扁平率</a>”と称される。また次のように定義される第二<a href="http://localhost/keyword/%E6%89%81%E5%B9%B3%E7%8E%87">扁平率</a> f^\\prime 及び第三<a href="http://localhost/keyword/%E6%89%81%E5%B9%B3%E7%8E%87">扁平率</a> f^{\\prime\\prime} も用いられる。<br />
+:f&#39;=\\frac{a-b}{b}=\\frac{f}{1-f}, \\quad f&#39;&#39;=\\frac{a-b}{a+b}=\\frac{f}{2-f}<br />
+第三<a href="http://localhost/keyword/%E6%89%81%E5%B9%B3%E7%8E%87">扁平率</a>f^{\\prime\\prime}はnと表記されることもある。古くはフリードリヒ・ヴィルヘルム・ベッセルが子午線弧長の計算に用いていることが認められる。<br />
+:<br />
+\\begin{align}<br />
+ n&amp;=\\frac{1-\\sqrt{1-e^2}}{1+\\sqrt{1-e^2}}  = \\frac{1}{4} e^2 + \\frac{1}{8} e^4 + \\cdots\\\\<br />
+  e^2 &amp;= \\frac{4 n}{\\left(1+n\\right)^2} <br />
+\\end{align}<br />
+<br />
+<br />
+== 離心率との関係 ==<br />
+楕円の離心率eとの関係は、<br />
+:e \\triangleq \\sqrt{1-\\frac{b^2}{a^2}} = \\sqrt{f(2-f)}<br />
+となる。<br />
+e^2=f(2-f)\\,<br />
+が成り立つ。--&gt;<br />
+<br />
+例えば、<a href="http://localhost/keyword/%E6%89%81%E5%B9%B3%E7%8E%87">扁平率</a>が 0.1 の楕円の離心率はおよそ 0.43 である。離心率も<a href="http://localhost/keyword/%E6%89%81%E5%B9%B3%E7%8E%87">扁平率</a>と同様に、真円で 0 となり、つぶれるに従って 1 に近づくが、こちらは一般の円錐曲線に対する概念である。<br />
+<br />
+== 地球の<a href="http://localhost/keyword/%E6%89%81%E5%B9%B3%E7%8E%87">扁平率</a> ==<br />
+<br />
+地球の<a href="http://localhost/keyword/%E6%89%81%E5%B9%B3%E7%8E%87">扁平率</a>としては、&#39;陸域&#39;の測地系では全世界的にGRS80のパラメータ値が用いられる。日本の&#39;陸地&#39;測量の基準も同様である。ただし、未だにGRS80以外の古い測地系を用いている開発途上国がある。<br />
+<br />
+赤道半径（＝長半径） a = 6 378 137m（正確に）<br />
+<br />
+<a href="http://localhost/keyword/%E6%89%81%E5%B9%B3%E7%8E%87">扁平率</a>　:f=\\frac{1}{298.257\\ 222\\ 101}（正確に）<br />
+<br />
+この定義から、極半径 b = 6 356 752.314 140 356 m （近似値）となる地球の場合、表面に凹凸があって完全な回転楕円体ではないため、計測の仕方によってこの値は若干変わりうる。しかし測量の基準としては唯一の数値を定めておかなければならない。<a href="http://localhost/keyword/%E6%89%81%E5%B9%B3%E7%8E%87">扁平率</a>は、0.003 352 810 681 182 318 935 434（近似値）となる、<br />
+また、離心率の２乗 e^2 = f(2-f)であるから、e^2 = 0.006 694 380 022 900 788（近似値）、<br />
+離心率 e　は、0.081 819 191 042 815 790（近似値）、アスペクト比（Aspect ratio）は、 =b/a= 0.996 647 189 318 817 705（近似値）となる。。<br />
+<br />
+日本では以上の基準は、日本の&#39;陸地&#39;における測量の基準を定めている測量法施行令第3条第2号[http://law.e-gov.go.jp/cgi-bin/idxselect.cgi?IDX_OPT=1&amp;H_NAME=%91%aa%97%ca%96%40%8e%7b%8d%73%97%df&amp;H_NAME_YOMI=%82%a0&amp;H_NO_GENGO=H&amp;H_NO_YEAR=&amp;H_NO_TYPE=2&amp;H_NO_NO=&amp;H_F<a href="http://localhost/keyword/ILE">ILE</a>_NAME=S24SE322&amp;H_RYAKU=1&amp;H_CTG=1&amp;H_YOMI_GUN=1&amp;H_CTG_GUN=1] 測量法施行令において、地球の赤道半径（測量法では「長半径」）と<a href="http://localhost/keyword/%E6%89%81%E5%B9%B3%E7%8E%87">扁平率</a>を上記のGRS80と同じ値で定義している[http://vldb.gsi.go.jp/sokuchi/datum/tokyodatum.html#p2] 国土交通省国土地理院　日本の測地座標系  測地座標系と準拠楕円体　2012日6月3日閲覧。<br />
+<br />
+=== 海図における<a href="http://localhost/keyword/%E6%89%81%E5%B9%B3%E7%8E%87">扁平率</a>（WGS84) ===<br />
+海図など&#39;海域&#39;における測量の基準としては、赤道半径（＝長半径）は同一だが、<a href="http://localhost/keyword/%E6%89%81%E5%B9%B3%E7%8E%87">扁平率</a>についてはWGS84測地系と呼ばれる別の測地系に基づくものが、全世界的に使用されている。この値は、GRS80とはごくわずかに異なっている。<br />
+<br />
+:f=\\frac{1}{298.257\\ 223\\ 563}<br />
+<br />
+このWGS84における極半径は b = 6 356 752.314 245 179m（近似値）となり、GRS80に比べて、約0.105 mmだけ長いが、実用上は全く問題とはならない差であるWGS84もGRS80を基にしたものではあるが、数値の導出過程が異なっているために、<a href="http://localhost/keyword/%E6%89%81%E5%B9%B3%E7%8E%87">扁平率</a>が微妙に異なってしまった。すなわち、<a href="http://localhost/keyword/%E6%89%81%E5%B9%B3%E7%8E%87">扁平率</a>を決定するに当たって、<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>された2次の帯調和重力係数から計算により導出した際に、基となるGRS80の力学的形状係数&#39;&#39;J&#39;&#39;2の有効数字を8桁で打ち切ったために、9桁目以降から差が発生したのである。。<br />
+<br />
+日本ではこの<a href="http://localhost/keyword/%E6%89%81%E5%B9%B3%E7%8E%87">扁平率</a>は、海図などの&#39;海域&#39;における測量の基準を定めている（水路業務法施行令第2条第2号[http://law.e-gov.go.jp/cgi-bin/idxselect.cgi?IDX_OPT=1&amp;H_NAME=%90%85%98%48%8b%c6%96%b1%96%40%8e%7b%8d%73%97%df&amp;H_NAME_YOMI=%82%a0&amp;H_NO_GENGO=H&amp;H_NO_YEAR=&amp;H_NO_TYPE=2&amp;H_NO_NO=&amp;H_F<a href="http://localhost/keyword/ILE">ILE</a>_NAME=H13SE433&amp;H_RYAKU=1&amp;H_CTG=1&amp;H_YOMI_GUN=1&amp;H_CTG_GUN=1] 水路業務法施行令において規定されている水路業務法施行令第2条による<a href="http://localhost/keyword/%E6%89%81%E5%B9%B3%E7%8E%87">扁平率</a> f は、0.003 352 810 664 747 481（近似値）となる。なお、WGS84の<a href="http://localhost/keyword/%E6%89%81%E5%B9%B3%E7%8E%87">扁平率</a>の値（及びそこから派生する量の値）は有効数字の観点からはその9桁目以降は意味を持たないのであるが、法令によって（12桁の）数値が定義されている以上、有効数字の議論を超えて「法令上は」意味があることに留意しなければならない。）。<br />
+<br />
+=== 地球の赤道面の<a href="http://localhost/keyword/%E6%89%81%E5%B9%B3%E7%8E%87">扁平率</a> ===<br />
+測量の基準とする地球楕円体では、赤道面は正円と仮定している。しかし、現実の地球の赤道面は正円ではない。赤道面楕円の<a href="http://localhost/keyword/%E6%89%81%E5%B9%B3%E7%8E%87">扁平率</a>（ｆ１）は、<br />
+<br />
+f1=\\frac{1}{91 026}<br />
+<br />
+であり、その長軸の向き（λ１）は、西経14.9291±0.0010°である理科年表（20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）、国立天文台、p.579、20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>11月30日発行。<br />
+<br />
+== 他の天体の<a href="http://localhost/keyword/%E6%89%81%E5%B9%B3%E7%8E%87">扁平率</a> ==<br />
+土星は太陽系の惑星の中で最大の<a href="http://localhost/keyword/%E6%89%81%E5%B9%B3%E7%8E%87">扁平率</a>を持つ。<br />
+太陽は極めて球に近く、その<a href="http://localhost/keyword/%E6%89%81%E5%B9%B3%E7%8E%87">扁平率</a>はおよそ とされる。太陽系の惑星の<a href="http://localhost/keyword/%E6%89%81%E5%B9%B3%E7%8E%87">扁平率</a>は、水星が 0.0006 未満、金星が 0.0002 未満、地球が前述の通りおよそ 0.0033528、火星が 0.00589 &amp;#177; 0.00015、木星が 0.06487 &amp;#177; 0.00015、土星が 0.09796 &amp;#177; 0.00018、天王星が 0.0229 &amp;#177; 0.0008、海王星が 0.0171 &amp;#177; 0.0013 である。地球型惑星で比較的小さく、木星型惑星で比較的大きい傾向にある。<a href="http://localhost/keyword/%E6%89%81%E5%B9%B3%E7%8E%87">扁平率</a>が大きい土星は、倍率がそれほど大き<a href="http://localhost/keyword/%E3%81%8F%E3%81%AA%E3%81%84">くない</a>天体望遠鏡でも、扁平であることが視認できる。実際、土星の極半径が約 54,364km であるのに対し、赤道半径は約 60,268km である。<br />
+<br />
+== 注釈 ==<br />
+<br />
+==出典==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 測地学<br />
+* 地球楕円体<br />
+<br />
+== 参考文献 ==<br />
+* [http://earth-info.nga.mil/GandG/publications/tr8350.2/tr8350_2.html 国家画像地図局（現 アメリカ国家地球空間情報局）技術報告8350.2], 7.3節<br />
+* König, R. and Weise, K. H. (1951): &#39;&#39;Mathematische Grundlagen der höheren Geodäsie und Kartographie&#39;&#39;, Band 1, Das Erdsphäroid und seine konformen Abbildungen, Springer-Verlag, Berlin/Göttingen/Heidelberg<br />
+* Ганьшин, В. Н. (1967): &#39;&#39;Геометрия земного эллипсоида&#39;&#39;, Издательство «Недра», Москва<br />
+* Bessel, F. W. (1837): [http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1837AN.....14..333B&amp;data_type=PDF_HIGH&amp;whole_paper=YES&amp;type=PRINTER&amp;filetype=.pdf Bestimmung der Axen des elliptischen Rotationssphäroids, welches den vorhandenen Messungen von Meridianbögen der Erde am meisten entspricht], Astronomische Nachrichten, &#39;14&#39;, 333-346<br />
+<br />
+<br />
+Category:天体力学<br />
+Category:地球物理学<br />
+Category:測量<br />
+Category:天文学に関する記事<br />

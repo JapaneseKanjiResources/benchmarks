@@ -1,0 +1,63 @@
+description<br />
+本線（湖東近江路線）<br />
+|キロ程     = 12.7<br />
+|起点駅     = <a href="http://localhost/keyword/%E7%B1%B3%E5%8E%9F%E9%A7%85">米原駅</a><br />
+|所在地     = 滋賀県犬上郡甲良町尼子1712-2<br />
+|座標       = <br />
+|駅構造     = 地上駅<br />
+|ホーム     = 島式1面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/911%E5%B9%B4">911年</a>（明治<a href="http://localhost/keyword/44%E5%B9%B4">44年</a>）6月1日<br />
+|廃止年月日 = <br />
+|乗車人員   = <br />
+|乗降人員   = <br />
+|統計年度   = <br />
+|備考       = <br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E5%B0%BC%E5%AD%90%E9%A7%85">尼子駅</a>&#39;（あまごえき）は、滋賀県犬上郡甲良町尼子にある近江鉄道本線の駅。<br />
+<br />
+==駅構造==<br />
+* 島式ホーム1面2線を有する地上駅。以前は米原 - 八日市間で唯一の交換不能駅だったが、2003年に交換設備が設置されたうえ、新幹線側ののりばでは両方向の入線や出発可能で、列車の折り返しも行えるようになっている。相前後して尼子コミュニティハウスとして2代目の駅舎が整備された。<br />
+<br />
+* 終日無人駅。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/911%E5%B9%B4">911年</a>（明治<a href="http://localhost/keyword/44%E5%B9%B4">44年</a>）6月1日 - 開業[ 「停留場設置」『官報』1<a href="http://localhost/keyword/911%E5%B9%B4">911年</a>6月8日]（国立国会図書館デジタル化資料）。<br />
+* 200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>（平成<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）11月5日 - 貴生川寄りに100m移転。<br />
+* 2003年（平成<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）11月3日 - 2代目駅舎開業。<br />
+<br />
+== 駅周辺 ==<br />
+駅前に親水公園がある。<br />
+* 旧中山道<br />
+* 甲良町立甲良西小学校<br />
+* 甲良神社<br />
+* 古河AS<br />
+* JA東びわこ厚生社配送センター<br />
+* 高虎公園<br />
+<br />
+== 路線バス ==<br />
+<br />
+<br />
+== 隣の駅 ==<br />
+; 近江鉄道<br />
+: 本線（湖東近江路線）<br />
+:: 高宮駅 - &#39;<a href="http://localhost/keyword/%E5%B0%BC%E5%AD%90%E9%A7%85">尼子駅</a>&#39; - 豊郷駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.ohmitetudo.co.jp/railway/station/station-guidance/amago/index.html/ <a href="http://localhost/keyword/%E5%B0%BC%E5%AD%90%E9%A7%85">尼子駅</a>（近江鉄道）]<br />
+<br />
+<br />
+<br />
+<br />
+Category:滋賀県の鉄道駅<br />
+まこ<br />
+Category:近江鉄道の鉄道駅<br />
+Category:近江鉄道本線<br />
+Category:1<a href="http://localhost/keyword/911%E5%B9%B4">911年</a>開業の鉄道駅<br />
+あまこえき<br />

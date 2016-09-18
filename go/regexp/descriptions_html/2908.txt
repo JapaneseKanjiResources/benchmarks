@@ -1,0 +1,107 @@
+description<br />
+<br />
+<br />
+|開業年月日= 1<a href="http://localhost/keyword/890%E5%B9%B4">890年</a>（明治<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）6月1日<br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面2線<br />
+|廃止年月日=<br />
+|乗車人員 = 2,061<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|所属路線 = 日光線<br />
+|前の駅 = 鶴田<br />
+|駅間A = 9.5<br />
+|駅間B = 8.1<br />
+|次の駅 = 文挟<br />
+|駅番号 =<br />
+|キロ程 = 14.3<br />
+|起点駅 = 宇都宮<br />
+|乗換 =<br />
+|備考 = 業務委託駅<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E9%B9%BF%E6%B2%BC%E9%A7%85">鹿沼駅</a>&#39;（かぬまえき）は、栃木県鹿沼市上野町にある、東日本旅客鉄道（JR東日本）日光線の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/890%E5%B9%B4">890年</a>（明治<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）6月1日 - 開業。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄の分割民営化により東日本旅客鉄道の駅となる。<br />
+* 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>（平成<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）3月15日 - Suicaのサービス開始。<br />
+* 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>（平成<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>）<br />
+** 2月28日 - みどりの窓口の営業を終了。<br />
+** 3月14日 - 新駅舎の供用を開始“日光、烏山線6駅舎完成 JR東日本”.下野新聞(下野新聞社). (20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>3月14日)。<br />
+なお、当駅から宇都宮市の大谷地区まで大谷石輸送用の軌道が延びていた時期があった（鶴田駅や東武鉄道宇都宮線西川田駅から分岐していた東武鉄道大谷線とは関係ない）。<br />
+<br />
+== 駅構造 ==<br />
+2面2線で島式と単式の複合型ホームを持つ地上駅。20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>秋より駅舎のリニューアル工事が実施されている。<br />
+<br />
+JR東日本ステーションサービスが業務を受託する業務委託駅で、簡易Suica改札機設置駅。宇都宮駅 - 当駅間の区間列車が4本設定されている。みどりの窓口は20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>2月28日をもって営業を終了した。<br />
+<br />
+<br />
+ファイル:Jr E Kanuma.jpg|旧駅舎（200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>6月）<br />
+ファイル:Kanuma-eki20131214.JPG |仮駅舎（20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>12月）<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+宇都宮方面への折り返し列車は基本的に1番線で折り返すが、2番線で折り返す場合もある。2番線に折り返し列車が停車中は日光方面からの宇都宮方面行きも1番線に停車する。<br />
+<br />
+== 利用状況 ==<br />
+* 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度の1日平均乗車人員は2,061人である。日光線内の途中駅で最も多い。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* ヤマダ電機テックランド鹿沼店（南西へ徒歩12分程度)<br />
+* 東武日光線 新<a href="http://localhost/keyword/%E9%B9%BF%E6%B2%BC%E9%A7%85">鹿沼駅</a>（南西へ徒歩30分程度）<br />
+* 鹿沼市役所<br />
+* 鹿沼市役所 菊沢コミュニティセンター<br />
+* 鹿沼郵便局<br />
+* 鹿沼府所本町郵便局<br />
+* 鹿沼相互信用金庫 駅前支店<br />
+* いせや旅館<br />
+* 国道293号<br />
+* 福田屋百貨店 鹿沼店<br />
+* 能開センター 鹿沼校<br />
+* 川上澄生美術館<br />
+<br />
+== 路線バス ==<br />
+* 駅前広場に鹿沼市民バス（リーバス）が乗り入れ、市内各方面へ運行されている関東自動車HPに掲載がある古峰原線は、正確には「リーバス」の1路線である。<br />
+* 国道293号および栃木県道4号沿いに関東自動車のバス停留所があり、新鹿沼方面と宇都宮を結ぶ3系統が経由する。<br />
+<br />
+=== リーバス ===<br />
+<br />
+<br />
+=== 関東自動車 ===<br />
+&#39;国道293号沿い（駅北西側）&#39;<br />
+* JR宇都宮駅 - 荒針経由 - 鹿沼営業所<br />
+<br />
+&#39;栃木県道4号沿い（駅南西側）&#39;<br />
+* JR宇都宮駅 - 長坂経由 - 鹿沼営業所<br />
+* JR宇都宮駅 - 共和大学・宇都宮短期大学・長坂経由 - 鹿沼営業所<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 日光線<br />
+:: 鶴田駅 - &#39;<a href="http://localhost/keyword/%E9%B9%BF%E6%B2%BC%E9%A7%85">鹿沼駅</a>&#39; - 文挟駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=468 JR東日本 <a href="http://localhost/keyword/%E9%B9%BF%E6%B2%BC%E9%A7%85">鹿沼駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+かぬまえき<br />
+Category:栃木県の鉄道駅<br />
+ぬま<br />
+かぬまえき<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/890%E5%B9%B4">890年</a>開業の鉄道駅<br />
+かぬまえき<br />

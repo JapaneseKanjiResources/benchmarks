@@ -1,0 +1,68 @@
+description<br />
+<br />
+|駅構造=地上駅<br />
+|ホーム=2面2線<br />
+|乗車人員=44<br />
+|乗降人員=<br />
+|統計年度=20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a><br />
+|開業年月日=1<a href="http://localhost/keyword/898%E5%B9%B4">898年</a>（明治<a href="http://localhost/keyword/31%E5%B9%B4">31年</a>）8月7日19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>（昭和<a href="http://localhost/keyword/63%E5%B9%B4">63年</a>）4月1日（転換）<br />
+|廃止年月日=<br />
+|前の駅=黒川<br />
+|駅間A=1.0<br />
+|駅間B=1.0<br />
+|次の駅=西有田<br />
+}}<br />
+駅舎と有田方面ホーム（200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>8月28日）<br />
+&#39;<a href="http://localhost/keyword/%E8%94%B5%E5%AE%BF%E9%A7%85">蔵宿駅</a>&#39;（ぞうしゅくえき）は、佐賀県西松浦郡有田町蔵宿にある松浦鉄道西九州線の駅。<br />
+<br />
+==駅構造==<br />
+複式2面2線ホームの地上駅である。無人駅。有田方面ホームに接して1<a href="http://localhost/keyword/913%E5%B9%B4">913年</a>（大正<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）建築の古い駅舎がある。駅舎の一部（旧駅事務室部分）は、20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>（平成<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>）7月より地元の主婦が運営するカフェの店舗スペースとして利用されている転換後、一時期建設会社の事務所が入居していた時期があった。。構内踏切があり、ホームのうち、列車が発着する部分はかさ上げされている。かさ上げされた部分は構内踏切の所で食い違った形になっている。<br />
+<br />
+==利用状況==<br />
+1日の平均乗車人員は以下の通りである。<br />
+<br />
+<br />
+==駅周辺==<br />
+住宅がやや多い。国道202号沿いにあり、駅構内が望めるが、国道側からの出入りは困難。また、駅舎側も住宅がやや集中した所にあるが車道からは見えづらい所にあるため分かりにくい。<br />
+<br />
+* 国道202号<br />
+* 有田川<br />
+* 蔵宿郵便局<br />
+<br />
+==歴史==<br />
+* 1<a href="http://localhost/keyword/898%E5%B9%B4">898年</a><br />
+** 8月7日 - 開業。伊万里鉄道が有田-伊万里間を開業した当初からの駅である。<br />
+** 12月27日 - 伊万里鉄道が九州鉄道に合併され、同社の駅となる。<br />
+* 190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>7月1日 - 九州鉄道の買収により日本国有鉄道の駅となる。<br />
+* 1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>2月15日 - 貨物営業を廃止。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>4月1日 - 国鉄分割民営化により九州旅客鉄道松浦線の駅となる。<br />
+* 19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>4月1日 - 松浦鉄道西九州線の駅となり、同時に無人駅になる。<br />
+<br />
+==隣の駅==<br />
+;松浦鉄道<br />
+:西九州線<br />
+::黒川駅 - &#39;<a href="http://localhost/keyword/%E8%94%B5%E5%AE%BF%E9%A7%85">蔵宿駅</a>&#39; - 西有田駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://matutetu.com/publics/index/40/ <a href="http://localhost/keyword/%E8%94%B5%E5%AE%BF%E9%A7%85">蔵宿駅</a>時刻表] - 松浦鉄道<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:佐賀県の鉄道駅<br />
+うしゆく<br />
+category:松浦鉄道の鉄道駅<br />
+Category:九州旅客鉄道の廃駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/898%E5%B9%B4">898年</a>開業の鉄道駅<br />
+Category:九州鉄道（初代）<br />
+Category:伊万里鉄道<br />
+そうしゆくえき<br />

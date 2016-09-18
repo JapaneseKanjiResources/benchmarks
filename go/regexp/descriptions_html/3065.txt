@@ -1,0 +1,50 @@
+description<br />
+<br />
+|和名 = <br />
+|画像=250px<br />
+|画像キャプション=&#39;<a href="http://localhost/keyword/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%A0%E3%83%8A%E3%82%B0%E3%83%AD">アメリカムナグロ</a>&#39;　（夏羽） &#39;&#39;Pluvialis dominica&#39;&#39;<br />
+|status=LC<br />
+|目=チドリ目 Charadriiformes<br />
+|科=チドリ科 Charadriidae<br />
+|属=<a href="http://localhost/keyword/%E3%83%A0%E3%83%8A%E3%82%B0%E3%83%AD">ムナグロ</a>属 &#39;&#39;Pluvialis&#39;&#39;<br />
+|種=&#39;<a href="http://localhost/keyword/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%A0%E3%83%8A%E3%82%B0%E3%83%AD">アメリカムナグロ</a>&#39;&#39;&#39;P. dominica&#39;&#39;<br />
+|学名=&#39;&#39;Pluvialis dominica&#39;&#39;(Statius Muller, 1776)<br />
+|英名=American Golden Plover<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%A0%E3%83%8A%E3%82%B0%E3%83%AD">アメリカムナグロ</a>&#39;（アメリカ胸黒、学名：&#39;&#39;Pluvialis dominica&#39;&#39;）は、チドリ目チドリ科に分類される鳥類の一種である。<br />
+<br />
+== 分布 ==<br />
+アラスカ、カナダ北部とベーリング海西部の島嶼の一部（ウランゲリ島など）で繁殖し、冬季は南アメリカに渡り越冬する。アルゼンチンなどに渡る距離は 1万数千km にもなり、往路と帰路が異なることが知られている <a href="http://localhost/keyword/%E4%B8%89%E7%9C%81%E5%A0%82">三省堂</a>編修所・吉井正 『<a href="http://localhost/keyword/%E4%B8%89%E7%9C%81%E5%A0%82">三省堂</a> 世界鳥名事典』、<a href="http://localhost/keyword/%E4%B8%89%E7%9C%81%E5%A0%82">三省堂</a>、200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>、496頁。ISBN 4-385-15378-7。。<br />
+<br />
+羽色が似ている<a href="http://localhost/keyword/%E3%83%A0%E3%83%8A%E3%82%B0%E3%83%AD">ムナグロ</a>と混同されて分布が表示されていることがあるが、本種と<a href="http://localhost/keyword/%E3%83%A0%E3%83%8A%E3%82%B0%E3%83%AD">ムナグロ</a>は、アラスカの一部地域を除き分布は重ならない。<br />
+<br />
+日本では迷鳥として、埼玉県、福岡県、沖縄県での記録がある。<br />
+<br />
+== 形態 ==<br />
+全長約26cm (24-28cm)。翼開長65-72cm、体重<a href="http://localhost/keyword/122">122</a>-194g。<a href="http://localhost/keyword/%E3%83%A0%E3%83%8A%E3%82%B0%E3%83%AD">ムナグロ</a>と羽色などが酷似するが翼や尾が長く、その分やや大型に見える。成鳥夏羽は、顔から腹までの下部分が黒く脇や下尾筒も黒い。その上部に白い縁取りがある。背面は黄褐色と黒褐色の斑模様になっているが、<a href="http://localhost/keyword/%E3%83%A0%E3%83%8A%E3%82%B0%E3%83%AD">ムナグロ</a>と比べると斑が大きく色が濃い。成鳥冬羽は、全体に灰色がかった褐色となる。<br />
+<br />
+== 生態 ==<br />
+繁殖期は極地のツンドラに生息する。<br />
+<br />
+渡りの時期や越冬時には、水田や草原、干潟や河原、河口などに生息する。<br />
+<br />
+鳴き声を含めた生態は<a href="http://localhost/keyword/%E3%83%A0%E3%83%8A%E3%82%B0%E3%83%AD">ムナグロ</a>と似ている。<br />
+<br />
+==Sibley分類体系上の位置==<br />
+<br />
+<br />
+==画像==<br />
+左：<a href="http://localhost/keyword/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%A0%E3%83%8A%E3%82%B0%E3%83%AD">アメリカムナグロ</a><br />
+<br />
+<br />
+<br />
+== 参考文献 ==<br />
+<br />
+* 真木広造、大西敏一 『日本の野鳥590』、平凡社、2000年、221頁。ISBN 4-582-54230-1。<br />
+<br />
+== 関連項目 ==<br />
+* 日本の野鳥一覧<br />
+* 迷鳥<br />
+<br />
+<br />
+Category:チドリ科<br />

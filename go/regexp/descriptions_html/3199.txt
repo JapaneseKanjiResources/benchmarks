@@ -1,0 +1,57 @@
+description<br />
+<br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>（昭和63）7月1日<br />
+|廃止年月日 =<br />
+|乗車人員 = 27<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換 =<br />
+|備考 = 無人駅<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E5%90%91%E7%80%AC%E4%B8%8A%E9%A7%85">向瀬上駅</a>&#39;（むかいせのうええき）は、福島県福島市瀬上町にある阿武隈急行線の駅。<br />
+<br />
+キャッチフレーズは、「ももの里」。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線の地上駅である。駅舎はなく、ホームに待合室があるだけの無人駅となっている。<br />
+<br />
+== 利用状況 ==<br />
+* 阿武隈急行 - 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度の1日平均乗車人員は、27人である[https://www.pref.fukushima.lg.jp/uploaded/attachment/161504.xls 第130回福島県統計年鑑]。<br />
+* 近年の乗車人員は以下の通りである（いずれも1日平均）。<br />
+<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+周囲には果樹園が多い。伊達市と近接しており、そちらからの利用者も多い。<br />
+<br />
+2001年まで、駅東側の沼西地区に高子沼グリーンランドが存在し、最寄り駅となっていたが現在は閉園・撤去されている。<br />
+<br />
+* 阿武隈川<br />
+<br />
+== 歴史 ==<br />
+* 19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>（昭和<a href="http://localhost/keyword/63%E5%B9%B4">63年</a>）7月1日 - 開業。<br />
+<br />
+== その他 ==<br />
+* 当駅は200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>にTBSテレビで放映されたドラマ『花嫁は厄年ッ!』で、“桃山駅”としてロケが行われた。<br />
+<br />
+== 隣の駅 ==<br />
+; 阿武隈急行<br />
+: ■阿武隈急行線<br />
+:: 瀬上駅 - &#39;<a href="http://localhost/keyword/%E5%90%91%E7%80%AC%E4%B8%8A%E9%A7%85">向瀬上駅</a>&#39; - 高子駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+Category:福島市の鉄道駅<br />
+かいせのうえ<br />
+Category:阿武隈急行の鉄道駅<br />
+Category:19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>開業の鉄道駅<br />

@@ -1,0 +1,74 @@
+description<br />
+羽越本線<br />
+|キロ程 = 51.6<br />
+|起点駅 = 新津<br />
+|所在地 = 新潟県村上市宿田<br />
+|座標 = <br />
+|開業年月日 = 1<a href="http://localhost/keyword/952%E5%B9%B4">952年</a>（昭和<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）5月15日*<br />
+|廃止年月日 =<br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面2線<br />
+|乗車人員 =<br />
+|統計年度 =<br />
+|備考 = 無人駅（自動券売機 有）<br />
+|備考全幅 = * 1<a href="http://localhost/keyword/950%E5%B9%B4">950年</a>（昭和<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）に仮乗降場として開設。<br />
+}}<br />
+&#39;平林駅&#39;（ひらばやしえき）は、新潟県村上市宿田にある、東日本旅客鉄道（JR東日本）羽越本線の駅である。<br />
+当駅から村上駅までは単線となる。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/950%E5%B9%B4">950年</a>（昭和<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>） - &#39;平林仮乗降場&#39;として開設。<br />
+* 1<a href="http://localhost/keyword/952%E5%B9%B4">952年</a>（昭和<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）5月15日 - &#39;平林駅&#39;に昇格。<br />
+* 1<a href="http://localhost/keyword/972%E5%B9%B4">972年</a>（昭和<a href="http://localhost/keyword/47%E5%B9%B4">47年</a>）9月1日 - 手荷物及び小荷物の取扱廃止、無人化。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化に伴い、東日本旅客鉄道に承継。<br />
+* 2000年（平成<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）11月15日 - 東口を新設。<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）5月1日 - 名誉駅長を配置。<br />
+<br />
+== 駅構造 ==<br />
+相対式ホーム2面2線を有する地上駅。両ホームは跨線橋で連絡している。<br />
+<br />
+村上駅管理の無人駅となっているが、駅および駅周辺の美化活動を行うボランティアとしてJR東日本OBに名誉駅長を委嘱している。<br />
+<br />
+元々のエントランスは下りホーム側の西口であったが、利便性向上を図るため2000年秋、国道7号に面する上りホーム側にも、駐車場が併設された東口が新設された。駅舎は西口・東口とも待合室の機能のみ。双方とも自動券売機が設置されている。なお、トイレは西口にのみ設置されている。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+西口側は農家が立ち並ぶ。<br />
+* 国道7号<br />
+* 平林郵便局<br />
+* ローソン神林平林店<br />
+* 平林変電所<br />
+* 平林保育園<br />
+* 宿田公民館<br />
+* 大智院<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道（JR東日本）<br />
+: 羽越本線<br />
+:: 快速<br />
+::: &#39;通過&#39;<br />
+:: 普通<br />
+::: 坂町駅 - &#39;平林駅&#39; - 岩船町駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=1340 JR東日本 平林駅]<br />
+<br />
+<br />
+<br />
+<br />
+Category:新潟県の鉄道駅<br />
+ひらはやしえき<br />
+らはやし<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+ひらはやしえき<br />
+Category:1<a href="http://localhost/keyword/952%E5%B9%B4">952年</a>開業の鉄道駅<br />

@@ -1,0 +1,52 @@
+description<br />
+<br />
+|駅構造     = 地上駅<br />
+|ホーム     = 2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/913%E5%B9%B4">913年</a>4月1日<br />
+|廃止年月日 = <br />
+|乗車人員   = <br />
+|乗降人員   = <br />
+|統計年度   = <br />
+|乗換       = <br />
+|備考       = あらかわ遊園下車停留所<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E8%8D%92%E5%B7%9D%E9%81%8A%E5%9C%92%E5%9C%B0%E5%89%8D%E5%81%9C%E7%95%99%E5%A0%B4">荒川遊園地前停留場</a>&#39;（あらかわゆうえんちまえていりゅうじょう）は、東京都荒川区西尾久にある都電荒川線の停留場である。<br />
+<br />
+当停留場の名称は「&#39;荒川遊園地前&#39;」であるが、最寄の遊園地の名称は「&#39;あらかわ遊園&#39;」、最寄の信号の名称は「&#39;荒川遊園前&#39;」、あらかわ遊園近くの隅田川にある水上バス東京水辺ラインの乗船場は「&#39;[http://www.tokyo-park.or.jp/waterbus/course/port/arakawa.html 荒川遊園発着場]&#39;」となっている。<br />
+<br />
+==停留場構造==<br />
+相対式ホーム2面2線を有する地上停留所である。<br />
+<br />
+==停留場周辺==<br />
+*あらかわ遊園<br />
+*隅田川<br />
+*[http://www.tokyo-park.or.jp/waterbus/course/port/arakawa.html 荒川遊園発着場]（東京水辺ライン）<br />
+*縁日－毎月2の付く日(毎月2日,12日,22日)<br />
+*[http://www.city.arakawa.tokyo.jp/a002/d05300010.html あらかわ遊園スポーツハウス]<br />
+*船方神社－隅田川沿いあらかわ遊園の左隣にある。但し住所は北区堀船になる。<br />
+*尾久駅<br />
+<br />
+==歴史==<br />
+* 1<a href="http://localhost/keyword/913%E5%B9%B4">913年</a>4月1日 - 開業。開業当初は荒川遊園前停留場。<br />
+* 都営後に尾久六丁目停留場への改称をへて、住居表示実施に伴い西尾久七丁目停留場に改称。<br />
+* その後、現停留場名に改称。奇しくもほぼ開業当初の停留場名に戻った形となる。小台から荒川遊園地前電停で線路が移設された。これは道路と一体的に整備するために行われた。整備完了は20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>度末。<br />
+<br />
+==隣の停留場==<br />
+; 15px 東京都交通局<br />
+: ■都電荒川線<br />
+:: 荒川車庫前停留場 - &#39;<a href="http://localhost/keyword/%E8%8D%92%E5%B7%9D%E9%81%8A%E5%9C%92%E5%9C%B0%E5%89%8D%E5%81%9C%E7%95%99%E5%A0%B4">荒川遊園地前停留場</a>&#39; - 小台停留場<br />
+<br />
+==関連項目==<br />
+*日本の鉄道駅一覧<br />
+<br />
+==外部リンク==<br />
+*[http://www.kotsu.metro.tokyo.jp/toden/stations/arakawa-yuenchimae/index.html 東京都交通局 <a href="http://localhost/keyword/%E8%8D%92%E5%B7%9D%E9%81%8A%E5%9C%92%E5%9C%B0%E5%89%8D%E5%81%9C%E7%95%99%E5%A0%B4">荒川遊園地前停留場</a>]<br />
+<br />
+<br />
+<br />
+<br />
+Category:荒川区の鉄道駅<br />
+らかわゆうえんちまえ<br />
+Category:東京都交通局の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/913%E5%B9%B4">913年</a>開業の鉄道駅<br />

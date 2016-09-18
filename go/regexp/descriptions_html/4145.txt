@@ -1,0 +1,58 @@
+description<br />
+<br />
+|駅構造 = 高架駅<br />
+|ホーム = 2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>（昭和<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>）1月9日<br />
+|廃止年月日 =<br />
+|乗車人員 =<br />
+|乗降人員 = 3,173<br />
+|統計年度 = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|乗換 =<br />
+|備考 =<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E6%97%A6%E9%81%8E%E9%A7%85">旦過駅</a>&#39;（たんがえき）は、福岡県北九州市小倉北区魚町四丁目にある北九州高速鉄道（北九州モノレール）小倉線の駅。<br />
+<br />
+== 駅構造 ==<br />
+相対式2面2線のホームを持つ高架駅である。<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>度の1日平均乗降人員は3,173人である[http://www.nishitetsu-media.com/traffic/train/ 西鉄メディア]。<br />
+<br />
+== 駅周辺 ==<br />
+* 北九州市立医療センター<br />
+* 総合保健福祉センター（アシスト21）<br />
+* 北九州市立商工貿易会館<br />
+* 天神島市営駐車場<br />
+* 旦過市場<br />
+* 第一交通産業本社<br />
+* <a href="http://localhost/keyword/%E5%8D%97%E6%97%A5%E6%9C%AC%E9%8A%80%E8%A1%8C">南日本銀行</a>小倉支店<br />
+* ホテル1-2-3小倉（旧 コクラセントラルイン）<br />
+* ホテルニュータガワ<br />
+* CROSS FM旧本社<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>（昭和<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>）1月9日 - 開業。<br />
+<br />
+== 隣の駅 ==<br />
+; 北九州高速鉄道<br />
+: ■小倉線<br />
+:: 平和通駅 - &#39;<a href="http://localhost/keyword/%E6%97%A6%E9%81%8E%E9%A7%85">旦過駅</a>&#39; - 香春口三萩野駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.kitakyushu-monorail.co.jp/route/tanga.html 北九州モノレール <a href="http://localhost/keyword/%E6%97%A6%E9%81%8E%E9%A7%85">旦過駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+Category:小倉北区の鉄道駅<br />
+んか<br />
+Category:北九州高速鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>開業の鉄道駅<br />

@@ -1,0 +1,80 @@
+description<br />
+久留里線<br />
+|キロ程 = 13.9<br />
+|起点駅 = 木更津<br />
+|所在地 = 千葉県木更津市真里107<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日= 1<a href="http://localhost/keyword/912%E5%B9%B4">912年</a>（大正元年）12月28日]<br />
+|廃止年月日=<br />
+|乗車人員= 223<br />
+|統計年度= 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a><br />
+|備考 = 簡易委託駅<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E9%A6%AC%E6%9D%A5%E7%94%B0%E9%A7%85">馬来田駅</a>&#39;（まくたえき）は、千葉県木更津市真里にある、東日本旅客鉄道（JR東日本）久留里線の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/912%E5%B9%B4">912年</a>（大正元年）12月28日 - 千葉県営鉄道久留里線の駅として開業。<br />
+* 1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>（大正<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）9月1日 - 千葉県営鉄道久留里線が国有化。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、東日本旅客鉄道の駅となる。<br />
+* 1<a href="http://localhost/keyword/995%E5%B9%B4">995年</a>（平成<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）6月1日 - 終日無人化。<br />
+* 1<a href="http://localhost/keyword/995%E5%B9%B4">995年</a>（平成<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）8月1日 - 簡易委託化。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を有する地上駅。ホームは5両編成までに対応する。かつては相対式ホーム2面2線を有し交換可能であった。今でも廃止されたホームがそのまま残っている。ホームはやや高いところにあり（駅舎の庇が線路ぐらいの高さ）、駅舎までのスロープがある。ホーム上には待合所がある。<br />
+<br />
+久留里駅管理の、ボランティアグループ「<a href="http://localhost/keyword/%E9%A6%AC%E6%9D%A5%E7%94%B0%E9%A7%85">馬来田駅</a>ボランティア」による簡易委託駅である。1<a href="http://localhost/keyword/995%E5%B9%B4">995年</a>（平成<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）5月までは直営駅で2人の駅員がいた。トイレは駅舎を入った右手のホームまでのスロープの途中にあり、男女別のトイレが新設されたほかに、バリアフリー対応のトイレも設置されている。それまであった工事現場等で見かける簡易トイレは撤去され、和風な外観の比較的大きな建物となった。<br />
+<br />
+=== ITかかし ===<br />
+200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）4月24日 - 5月24日にGPS携帯を応用した在線確認システム（ITかかし）の実証実験が行われた。<br />
+<br />
+これは運転士にGPS機能付きの携帯を持たせ、在線位置を確認するもので、他の駅に停車した時と発車した時に、当駅でその旨の放送が流れる仕組みになっていた。現在は撤去済。<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度の1日平均乗車人員は236人である。<br />
+<br />
+JR東日本および千葉県統計年鑑によると、1日の平均乗車人員の推移は以下の通りである。<br />
+<br />
+<br />
+== 駅周辺 == <br />
+* 木更津市役所富来田出張所<br />
+* 木更津市立富来田公民館<br />
+* 富来田郵便局<br />
+* 真里谷城城跡<br />
+* 木更津市立馬来田小学校<br />
+* 木更津市立富来田中学校<br />
+* 木更津いずみ幼稚園、富来田保育園<br />
+* 「コスモスロード」（ウォーキングコース。当駅より徒歩15分）：地域住民などのボランティアの手により整備されている。小川沿いにコスモスや菜の花など四季折々の花が植えられ、開花シーズンには、観光客や地元住民で賑わう。<br />
+*  首都圏中央連絡自動車道（圏央道）木更津東インターチェンジ<br />
+<br />
+== バス路線 ==<br />
+<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 久留里線<br />
+:: 東横田駅 - &#39;<a href="http://localhost/keyword/%E9%A6%AC%E6%9D%A5%E7%94%B0%E9%A7%85">馬来田駅</a>&#39; - 下郡駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=1422 JR東日本 <a href="http://localhost/keyword/%E9%A6%AC%E6%9D%A5%E7%94%B0%E9%A7%85">馬来田駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+Category:千葉県の鉄道駅<br />
+くた<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+まくたえき<br />
+Category:久留里線<br />
+まくたえき<br />
+Category:1<a href="http://localhost/keyword/912%E5%B9%B4">912年</a>開業の鉄道駅<br />

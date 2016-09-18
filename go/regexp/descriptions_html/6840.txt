@@ -1,0 +1,21 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E5%B9%B3%E6%B0%97%E6%B3%95">平気法</a>&#39;（へいきほう）とは、二十四節気を配置する方法の一つである。節気間の時間が均等であることからこの名があり、&#39;恒気法&#39;（こうきほう）ともいう。黄道を24分割する定気法が&#39;空間分割法&#39;とも呼ばれることに対し、<a href="http://localhost/keyword/%E5%B9%B3%E6%B0%97%E6%B3%95">平気法</a>は&#39;時間分割法&#39;とも呼ばれる。<br />
+<br />
+冬至から翌年の冬至までの時間を24等分して導き出す。こうして導き出された約15日ごとの分点に節気と中気を交互に配した。そして、基点である冬至を11月に固定して各月には必ず中気が含まれることとし、中気を含まない月ができるとそれを閏月とした。<br />
+<br />
+中国暦では清の時憲暦の直前まで、日本の暦では天保暦の直前まで、いずれも<a href="http://localhost/keyword/%E5%B9%B3%E6%B0%97%E6%B3%95">平気法</a>が用いられた。隋の劉焯は<a href="http://localhost/keyword/%E5%B9%B3%E6%B0%97%E6%B3%95">平気法</a>は実際の太陽の運行と合致せず非合理的として定気法を提唱したが、実施されることはなかった。<br />
+<br />
+ため、1太陽年（≒冬至〜翌冬至）という&#39;時間を平均&#39;するのが本来であり、。定気法では発生する旧暦20<a href="http://localhost/keyword/33%E5%B9%B4">33年</a>問題は、<a href="http://localhost/keyword/%E5%B9%B3%E6%B0%97%E6%B3%95">平気法</a>では起こらない。<br />
+<br />
+==定気法と<a href="http://localhost/keyword/%E5%B9%B3%E6%B0%97%E6%B3%95">平気法</a>の比較==<br />
+参考までに、200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>〜20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>の二十四節気について、定気法と<a href="http://localhost/keyword/%E5%B9%B3%E6%B0%97%E6%B3%95">平気法</a>による日時を一覧にした（時刻は日本中央標準時）。<br />
+===200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>===<br />
+<br />
+<br />
+===200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>===<br />
+<br />
+<br />
+===20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>===<br />
+<br />
+<br />
+* へいきほう<br />

@@ -1,0 +1,30 @@
+description<br />
+『&#39;<a href="http://localhost/keyword/%E6%97%A5%E6%9C%AC%E6%96%87%E5%BE%B3%E5%A4%A9%E7%9A%87%E5%AE%9F%E9%8C%B2">日本文徳天皇実録</a>&#39;』（にほんもんとくてんのうじつろく）は、平安時代の日本で編纂された歴史書。六国史の第五にあたり、文徳天皇の代である嘉祥3年（<a href="http://localhost/keyword/850%E5%B9%B4">850年</a>）から天安<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>（<a href="http://localhost/keyword/858%E5%B9%B4">858年</a>）までの<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>間を扱う。略して&#39;文徳実録&#39;ともいう。編年体、漢文、全10巻。<br />
+<br />
+==編纂==<br />
+序文によれば、本書の編纂は清和天皇が貞観<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（<a href="http://localhost/keyword/871%E5%B9%B4">871年</a>）、藤原基経、南淵年名、都良香、大江音人らに編纂を命じた。年名と音人（共に<a href="http://localhost/keyword/877%E5%B9%B4">877年</a>没）の死後、元慶<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>（<a href="http://localhost/keyword/878%E5%B9%B4">878年</a>）に菅原是善を加え、基経・良香との3人で翌元慶3年（<a href="http://localhost/keyword/879%E5%B9%B4">879年</a>）に完成成立させた。<br />
+<br />
+なお、『菅家文章』によれば、菅原是善の子道真が父に代わって序文を執筆したとされている。<br />
+<br />
+== 書名 ==<br />
+日本のそれまでの正史は、いずれも「紀」と命名されていた。日本が範とした中国においては、正史はある王朝が倒れた後に、新たな王朝が前代の王朝の歴史をまとめるという形で作られている。これに対して実録とはもともとある皇帝一代ごとに、その事蹟を書き記したものであった。日本の正史は、『日本書紀』はともかく、『続日本紀』以降は「むしろ一つの王朝の歴代の君主の統治記録としての性格」笹山（1989）を持っていた。こうした流れをくむ文徳実録が「実録」という書名を採用したことは、日本の史書が中国の実録を模していったことの表れであるとされる。<br />
+<br />
+==内容==<br />
+六国史中、最も期間が短い。政治関係が少なく、下級貴族の人物伝が多いのが特徴という、これは従前の国史が官人の卒伝を四位までとしたのに比し五位にまで拡大していることによる。「弘仁文化」から「貞観文化」への過渡期を詳述し六国史の中ではもっとも人間臭い伝記を収めている。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+==参考文献==<br />
+*黒板勝美編『新訂増補国史大系<a href="http://localhost/keyword/%E6%97%A5%E6%9C%AC%E6%96%87%E5%BE%B3%E5%A4%A9%E7%9A%87%E5%AE%9F%E9%8C%B2">日本文徳天皇実録</a>』<br />
+*坂本太郎『六国史』、吉川弘文館、1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>、新装版1<a href="http://localhost/keyword/994%E5%B9%B4">994年</a><br />
+*笹山晴生「続日本紀と古代の史書」新日本古典文学大系『続日本紀一』所収、岩波書店、19<a href="http://localhost/keyword/89%E5%B9%B4">89年</a><br />
+<br />
+== 外部リンク ==<br />
+*[http://www.j-texts.com/chuko/montoku.html J－TEXTS 日本文学電子図書館]　<a href="http://localhost/keyword/%E6%97%A5%E6%9C%AC%E6%96%87%E5%BE%B3%E5%A4%A9%E7%9A%87%E5%AE%9F%E9%8C%B2">日本文徳天皇実録</a><br />
+<br />
+<br />
+<br />
+<br />
+Category:9世紀の書籍<br />
+Category:平安時代の歴史書<br />

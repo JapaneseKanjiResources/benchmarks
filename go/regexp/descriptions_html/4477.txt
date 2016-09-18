@@ -1,0 +1,130 @@
+description<br />
+&#39;&#39;Inquiry into the nature and causes of the wealth of nations&#39;&#39;, 1922<br />
+『&#39;<a href="http://localhost/keyword/%E8%AB%B8%E5%9B%BD%E6%B0%91%E3%81%AE%E5%AF%8C%E3%81%AE%E6%80%A7%E8%B3%AA%E3%81%A8%E5%8E%9F%E5%9B%A0%E3%81%AE%E7%A0%94%E7%A9%B6">諸国民の富の性質と原因の研究</a>&#39;』（しょこくみんのとみのせいしつとげんいんのけんきゅう、）は、1<a href="http://localhost/keyword/776%E5%B9%B4">776年</a>に出版されたアダム・スミスの著作である。<br />
+<br />
+『&#39;国富論&#39;』、または『&#39;諸国民の富&#39;』の名でも知られる。特に前者が一般的であるため、以後本項でも前者を用いることとする。本書は産業革命以後における経済学について明確に記述されている。本書は全二巻、五編で構成されている。<br />
+<br />
+== 沿革 ==<br />
+国富論は1<a href="http://localhost/keyword/776%E5%B9%B4">776年</a>に出版されて以降、アダム・スミスの存命中、彼自らの手によって4度の改訂が行われている（1<a href="http://localhost/keyword/778%E5%B9%B4">778年</a>、 1<a href="http://localhost/keyword/784%E5%B9%B4">784年</a>、1<a href="http://localhost/keyword/786%E5%B9%B4">786年</a>、1<a href="http://localhost/keyword/789%E5%B9%B4">789年</a>）。よって日本語への翻訳も1<a href="http://localhost/keyword/789%E5%B9%B4">789年</a>に出版された第五版を元に行われることが多い。しかし、1<a href="http://localhost/keyword/791%E5%B9%B4">791年</a>に出版された第七版がアダム・スミス自ら改訂作業を行った最後の版ではないかという説もあり、こちらを考慮ないし基礎においた翻訳もある。<br />
+<br />
+5回の改定を経る間には多くの細かな違いが存在する。<br />
+*1<a href="http://localhost/keyword/778%E5%B9%B4">778年</a> 第二版 - 初版との差異は重要でないものであったが、脚注の追加が行われている。<br />
+*1<a href="http://localhost/keyword/784%E5%B9%B4">784年</a> 第三版 - 重商主義批判をその主な内容とする別冊の追補および訂正を組み込み、目次を付した。三巻から成る。<br />
+*1<a href="http://localhost/keyword/786%E5%B9%B4">786年</a> 第四版 - 第三版からわずかに改訂が施された。アダム・スミスは本の初めの読者に対する告示において「（第四版では）私はいかなる種類の変更も加えなかった。」と言っている。<br />
+*1<a href="http://localhost/keyword/789%E5%B9%B4">789年</a> 第五版 - 誤植が取り払われている。<br />
+<br />
+その後の版はアダム・スミスが死去した1<a href="http://localhost/keyword/790%E5%B9%B4">790年</a>以降に出版されている。エドウィン・キャナン (Edwin Cannan) 指揮の下、初めの5つの版が併記されて比較されている校訂版が1<a href="http://localhost/keyword/904%E5%B9%B4">904年</a>に出版されている。<br />
+<br />
+==構成==<br />
+*序論（introduction）および本書の構想（plan）<br />
+*第1篇 - 労働（labor）の生産力（productive powers）における改善（improvement）の原因（causes）と、その生産物（produce）が国民（people）のさまざまな階級（ranks）のあいだに自然（naturally）に分配（distribute）される秩序（order）について<br />
+**第1章 - 分業（division of labor）について<br />
+**第2章 - 分業（division of labor）をひきおこす原理（principle）について<br />
+**第3章 - 分業（division of labor）は市場（market）の大きさ（extent）によって制限（limit）される<br />
+**第4章 - 貨幣（moeny）の起源（origin）と使用（use）について<br />
+**第5章 - 商品（commodities）の真の価格（real price）と名目上の価格（nominal price）について、すなわちその労働価格（price in labor）と貨幣価格（price in money）について<br />
+**第6章 - 商品（commodities）の価格（price）の構成部分（component parts）について<br />
+**第7章 - 商品（commodities）の自然価格（natural price）と市場価格（market price）について<br />
+**第8章 - 労働（labor）の賃金（wages）について<br />
+**第9章 - 資本（stock）の利潤（profits）について<br />
+**第10章 - 労働（labor）と資本（stock）の種々な用途（employments）における賃金（wages）と利潤（profits）について<br />
+**第11章 - 土地（land）の地代（rent）について<br />
+*第2篇 - 資本（stock）の性質（nature）・蓄積（accumulation）・用途（employment）について<br />
+**序論<br />
+**第1章 - 資本（stock）の分類（division）について<br />
+**第2章 - 社会（society）の総資材（general stock）の一特定部門（particular branch）とみなされる貨幣（money）について、すなわち国民資本（national capital）の維持費について<br />
+**第3章 - 資本（stock）の蓄積（accumulation）について、すなわち生産的労働（productive labor）と非生産的労働（unproductive labor）について<br />
+**第4章 - 利子（interest）を取って貸し付けられる資本（stock）について<br />
+**第5章 - 資本（capitals）のさまざまな用途（employments）について<br />
+*第3篇 - 国（nation）ごとに富裕（opulence）への進路（progress）が異なることについて<br />
+**第1章 - 富裕（opulence）になる自然（natural）な進路（progress）について<br />
+**第2章 - ローマ帝国（Roman Empire）没落後のヨーロッパ（Europe）の旧状（ancient state）における農業（agriculture）が阻害（discouragement）について<br />
+**第3章 - ローマ帝国（Roman Empire）没落後における都市（cities and towns）の発生（rise）と発達（progress）について<br />
+**第4章 - 都市（towns）の商業（commerce）がいかにして農村（country）の改良（improvement）に貢献（contribute）したか<br />
+*第4篇 - 経済学（political economy）の諸体系（systems）について<br />
+**序論<br />
+**第1章 - 商業主義（commercial）または重商主義（mercantile system）の原理（principle）について<br />
+**第2章 - 国内（home）でも生産（produce）できる財貨（goods）の外国（foreign countries）からの輸入（importation）に対する制限（restraints）について<br />
+**第3章 - 貿易差額（balance）が自国に不利（disadvantageous）と思われる諸国からのほとんどあらゆる種類の財貨（goods）の輸入（importation）に対する特別の制限（extraordinary restraints）について<br />
+**第4章 - 戻税（drawbacks）について<br />
+**第5章 - 奨励金（bounties）について<br />
+**第6章 - 通商条約（treaties of commerce）について<br />
+**第7章 - 植民地（colonies）について<br />
+**第8章 - 重商主義（mercantile system）の結論（conclusion）<br />
+**第9章 - 重農主義（agricultural systems）について、すなわち土地（land）の生産物（produce）がすべての国（country）の収入（revenue）と富（wealth）の唯一または主な源泉（source）だと説く経済学（political economy）上の主義について<br />
+*第5篇 - 主権者（sovereign）または国家（commonwealth）の収入（revenue）について<br />
+**第1章 - 主権者（sovereign）または国家（commonwealth）の経費（expences）について<br />
+**第2章 - 社会（society）の一般収入（general revenue）あるいは公共収入（public revenue）の財源（sources）について<br />
+**第3章 - 公債（public debts）について<br />
+<br />
+== 内容 ==<br />
+=== 産業革命 ===<br />
+本書の第一編第一章から第三章では、分業(division of labor)の発展が解説されている。また、第十章第二節では、 封建制の終焉に関する理解を促している。<br />
+<br />
+===経済学の入門書として===<br />
+アダム・スミスの著作は、重商主義の批評および彼の時代に考えられていた新興の経済学の総合体として記述されている。本書は通常、近代経済学の端緒であると考えられている。本書は他の経済学者に向けてというよりも、むしろ18世紀当時における平均的な教育を受けた人々に向けて書かれたものである。したがって、本書は現代の読者にとって古典派経済学(classical economics)の比較的理解しやすい入門としての古典として読み継がれている。<br />
+<br />
+『国富論』は全五篇が経済学の理論書であり、その一部のみを経済学の理論として位置づけることは誤りである。この書は歴史書ではなく、普遍性を持った理論書であるので、その内容の一部の新旧をもって判断する書物ではない。その証拠として、後世、ケインズは『国富論』を唯一「四つ切り版」の経済学として、すなわち、唯一完成された経済学書とし、それ以降の経済学をすべてその解説にすぎないとして高く評価している。<br />
+<br />
+===「見えざる手」===<br />
+「&#39;見えざる手&#39;」　(invisible hand)　は、本書の概念としてしばしば言及されるものである。この「見えざる手」の背後にある思想は、人々がその欲求と窮乏の追求を通して無意識的に自らの国を発展させるであろうという主張である。<br />
+<br />
+&#39;詳細は見えざる手参照&#39;<br />
+<br />
+=== 分業論 ===<br />
+説得性向（人間は本性的に説得して同意を得たがる）、交換性向（人間は本性的に交換したがる）、自愛心（自分自身の利益にたいする関心）などの提唱により、分業のシステムを理論的に定式化した。<br />
+<br />
+=== 業績主義 ===<br />
+業績主義（Meritocracy、メリトクラシー）は、本書において強調されるテーマである。<br />
+<br />
+=== 重商主義批判 ===<br />
+スミスの重商主義政策への批判は、貨幣政策・関税政策・租税改革と国債の発行等について展開されている。この書物の狙いは、経済理論を体系的に著述することである。同時に重商主義的視点をコペルニクス的に転換させることにある。この点は、本書のタイトル自体にも記されており、その長い英文タイトルは、書名の一般的な形式で大文字で記されているものの、富の「性質と原因」の原文では、&#34;Nature&#34;と&#34;Causes&#34;は、頭文字以外、小文字が用いられている(但し、合本された第三版以降は、総て大文字に変更されている)。これは富の「性質と原因」を金属貨幣の量とその獲得手段としての外国貿易に重点を置いた重商主義の主張に対し、国富を「年々に国民が享受しうる生産物（特に一人当の生産物）量と捉え、その原因を国民の労働と考えるアダム・スミスの、重商主義に対する強い批判的意図が込められていると考えるべきであろう。<br />
+重商主義は、絶対王政のもと、貿易によって財貨を得ることで一国の富を増大させようとしたが、その政策の結果として、逆に穀物価格などが騰貴して、軍事支出の増大とともにイギリス経済を疲弊させる原因となっていた。スミスの批判は、トーマス・グレシャムに対する批判としての貨幣の改鋳であり、自由主義の立場からの関税の撤廃、そして、租税改革と戦費の調達のための国債の発行の停止である。<br />
+<br />
+日本ではあまり知られていないが、当時の背景として、イギリスでは葡萄酒の消費量が急速に増加していた。そのため、葡萄酒を生産しないイギリスでは、フランスからの輸入にすべてを依存せざるをえず、その結果フランスとの貿易赤字が急激に増大していたのである。そして、当時流行していた重商主義では、政府の金銀を国富と見なすため、誤った政策（政府による穀物の重税収奪とフランスへの輸出）が実施され、（穀物価格騰貴と重税で労働人口が低迷して）経済が悪化するとスミスは考えた。<br />
+スミスは、富の概念を従来の「貿易による王家政府金銀の獲得」から「国民労働の生産力の増大」へと転回することで、経済学を成功させたのである。<br />
+<br />
+== 影響 ==<br />
+国富論は啓蒙思想の時代に出版され、著者および経済学者のみならず政府および団体に影響を与えた。例えば、アレキサンダー・ハミルトンが国富論によって感銘と影響を受けている。本書がデイヴィッド・ヒュームやシャルル・ド・モンテス<a href="http://localhost/keyword/%E3%82%AD%E3%83%A5%E3%83%BC">キュー</a>、そして重農主義者ジャック・テュルゴーといった思想家・経済学者たちによって確立済みであった理論の焼き直しであるといわれていることは、一部においては真実である。しかしながら、本書は経済学における躍進であり、現代数学および物理学、ならびに自然科学にとっての『プリンキピア』の位置づけと類似するものである。<br />
+<br />
+後世、多くの著述家が国富論に影響され、自らの著作の出発点としてこれを用いた。ジャン＝バティスト・セイやデヴィッド・リカード、および、さらに後の時代に属するカール・マルクスも国富論を出発点とした著述家に含まれる。<br />
+<br />
+==日本語訳==<br />
+*『国富論』　水田洋監訳、杉山忠平訳、岩波書店〈岩波文庫〉。全4巻<br />
+: ISBN 4003410513・ISBN 4003410521・ISBN 400341053X・ISBN 4003410548。<br />
+*『国富論』　大河内一男監訳、訳者は玉野井芳郎／田添京二／大河内暁男。<br />
+:中央公論新社〈中公文庫全3巻〉。　ISBN 4<a href="http://localhost/keyword/122">122</a>005337・ISBN 4<a href="http://localhost/keyword/122">122</a>005418・ISBN 4<a href="http://localhost/keyword/122">122</a>005493。<br />
+:　新版中公クラシックス全4巻。　堂目卓生解説。<br />
+*『国富論　国の豊かさの本質と原因についての研究』　山岡洋一訳、日本経済新聞出版社。全2巻<br />
+:　ISBN 4532133269・ISBN 4532133270。<br />
+<br />
+==脚注・出典==<br />
+<br />
+<br />
+==関連項目==<br />
+<br />
+*古典派経済学<br />
+*産業革命<br />
+*石川暎作 - 日本人最初の翻訳者。<br />
+*絶対王政<br />
+<br />
+== 外部リンク ==<br />
+*  翻訳(山形浩生)文(第1編のみ)<br />
+*  原文<br />
+*  原文<br />
+*[http://www.marxists.org/reference/archive/smith-adam/works/wealth-of-nations/index.htm An Inquiry into the Nature and Causes of The Wealth of Nations]  原文<br />
+*[http://www.econlib.org/library/Smith/smWNCover.html An Inquiry into the Nature and Causes of the Wealth of Nations]  原文<br />
+*[http://www.bibliomania.com/2/1/65/112/frameset.html The Wealth of Nations]  原文<br />
+*[http://socserv2.socsci.mcmaster.ca/~econ/ugcm/3ll3/smith/wealth/index.html The Wealth of Nations]  原文<br />
+*[http://socserv.mcmaster.ca/econ/ugcm/3ll3/smith/wealth/index.html The Wealth of Nations]  原文<br />
+*[http://homepage3.nifty.com/lulu/keizaigaku-04.html 二紫会経済学4]  &#39;国富論&#39;の詳細な解説<br />
+<br />
+<br />
+Category:イギリスの政治書<br />
+Category:アダム・スミス<br />
+Category:経済書<br />
+Category:1<a href="http://localhost/keyword/770%E5%B9%B4">770年</a>代の書籍<br />
+Category:古典的自由主義<br />
+Category:貨幣論<br />
+<br />
+<br />

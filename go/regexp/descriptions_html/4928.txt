@@ -1,0 +1,137 @@
+description<br />
+<br />
+|駅構造 = 高架駅<br />
+|ホーム = 2面3線<br />
+|開業年月日= 1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>（大正<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）1月14日<br />
+|廃止年月日=<br />
+|乗車人員= 472<br />
+|乗降人員= <br />
+|統計年度= 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a><br />
+|乗換 =<br />
+|備考 = 業務委託駅<br />
+}}<br />
+<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E8%A5%BF%E9%83%BD%E5%9F%8E%E9%A7%85">西都城駅</a>&#39;（にしみやこのじょうえき）は、宮崎県都城市松元町にある、九州旅客鉄道（JR九州）<a href="http://localhost/keyword/%E6%97%A5%E8%B1%8A%E6%9C%AC%E7%B7%9A">日豊本線</a>の駅である。<br />
+<br />
+都城市中心部への最寄り駅であり全列車が停車し、宮崎方面から来る普通・快速列車の多くが当駅を始発・終着としている。かつては志布志線が接続していた。<br />
+<br />
+== 駅構造 ==<br />
+コンコース（20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>11月）<br />
+「いままち」の文字がうっすらと残る（200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>12月19日）<br />
+単式ホーム1面1線と島式ホーム1面2線の合計2面3線を有する高架駅で、駅舎は高架下にある。<br />
+<br />
+駅の看板なども手直しされながらJR化後国鉄時代のものを使っていたが、撤去されている。高架部分の国分方面には志布志線の廃線跡が一部残っており高架が途中まで存在している。駅舎はその大部分が広いコンコースでその端に出札口と改札がある。駅舎にはそのほかに封鎖された待合所跡がある。かつては、土産物屋・軽食・駅弁屋があったが、その形跡は残っていない。<br />
+<br />
+JR九州鉄道営業が駅業務を遂行する業務委託駅で、感熱式のPOS端末・自動券売機は設置されているが自動改札やマルスの設置はない。<br />
+<br />
+かつてはキオスクもあり上記の土産物屋などもあわせてコンコースでは物産市なども開かれていた。窓口の営業時間は6時25分 - 19時50分で、営業時間外は駅員不在になる。営業時間外の精算は運転士・車掌が行う。<br />
+<br />
+<br />
+<br />
+== 駅弁 ==<br />
+主な駅弁は下記の通り。<br />
+* 盆地の牛めし<br />
+<br />
+== 利用状況 ==<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>度の1日平均乗車人員は472人（前年度比+47人）である。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+周辺は都城の中心部。駅前にせとやま弁当[http://www.btvm.ne.jp/~setoyama/]という駅弁の店があり『かしわめし』等が有名。同社はかつて駅構内での販売も実施していたが現在は駅前での店舗販売のみとなっている。<br />
+* 都城市役所<br />
+* 都城郵便局<br />
+* 都城松元郵便局<br />
+* 都城合同庁舎<br />
+* 都城市立図書館<br />
+* 都城市立美術館<br />
+* 宮崎交通都城自動車営業所が隣接<br />
+* ドラッグストアモリ<a href="http://localhost/keyword/%E8%A5%BF%E9%83%BD%E5%9F%8E%E9%A7%85">西都城駅</a>前店<br />
+* 都城大丸<br />
+* 都城IT産業ビル（旧都城寿屋百貨店）<br />
+* メインホテルナカムラ（旧ナカムラデパート）<br />
+* 都城中央通り商店街<br />
+*宮崎地方裁判所都城支部<br />
+<br />
+==バス路線==<br />
+宮崎交通・<a href="http://localhost/keyword/%E8%A5%BF%E9%83%BD%E5%9F%8E%E9%A7%85">西都城駅</a>前バスセンター<br />
+;<a href="http://localhost/keyword/%E8%A5%BF%E9%83%BD%E5%9F%8E%E9%A7%85">西都城駅</a>前（宮崎交通）<br />
+*都城駅前方面<br />
+**イオンモール・ミエル<br />
+**上郡元<br />
+**体育文化センター<br />
+**菖蒲原<br />
+*イオン都城<br />
+*山田方面<br />
+**山田<br />
+**平山<br />
+**熊野神社前<br />
+*都原団地<br />
+*蓑原・久保原<br />
+*庄内方面<br />
+**西岳<br />
+**霧島神宮<br />
+;西都城（三州自動車）<br />
+*都城<br />
+*岩川・志布志<br />
+*柴建<br />
+*吉ヶ谷公民館<br />
+;<a href="http://localhost/keyword/%E8%A5%BF%E9%83%BD%E5%9F%8E%E9%A7%85">西都城駅</a>前バスセンター（宮崎交通）<br />
+*宮崎空港・宮崎駅<br />
+*高城・雀ケ野<br />
+*山之口・上野上<br />
+*小林<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>（大正<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）1月14日 - 志布志線所属駅として鉄道省が開設。<br />
+* 1<a href="http://localhost/keyword/932%E5%B9%B4">932年</a>（昭和<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）12月6日 - 志布志線都城 - <a href="http://localhost/keyword/%E8%A5%BF%E9%83%BD%E5%9F%8E%E9%A7%85">西都城駅</a>間が<a href="http://localhost/keyword/%E6%97%A5%E8%B1%8A%E6%9C%AC%E7%B7%9A">日豊本線</a>に編入され<a href="http://localhost/keyword/%E6%97%A5%E8%B1%8A%E6%9C%AC%E7%B7%9A">日豊本線</a>所属駅。<br />
+* 1<a href="http://localhost/keyword/941%E5%B9%B4">941年</a>（昭和<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>）10月8日 - 志布志線全通。<br />
+* 1<a href="http://localhost/keyword/945%E5%B9%B4">945年</a>（昭和<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）<br />
+** 8月6日 - 都城大空襲により<a href="http://localhost/keyword/%E8%A5%BF%E9%83%BD%E5%9F%8E%E9%A7%85">西都城駅</a>構内全焼。<br />
+** 9月17日 - 暴風雨により駅本屋と貨物室全壊。<br />
+* 1<a href="http://localhost/keyword/949%E5%B9%B4">949年</a>（昭和<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）2月1日 - 駅本屋を新築。<br />
+* 19<a href="http://localhost/keyword/76%E5%B9%B4">76年</a>（昭和<a href="http://localhost/keyword/51%E5%B9%B4">51年</a>）<br />
+** 5月24日 - 貨物取扱を廃止。<br />
+** 7月1日 - 高架化工事着手。<br />
+* 1<a href="http://localhost/keyword/979%E5%B9%B4">979年</a>（昭和<a href="http://localhost/keyword/54%E5%B9%B4">54年</a>）<br />
+** 1月25日 - 高架線全線使用開始。<br />
+* 19<a href="http://localhost/keyword/80%E5%B9%B4">80年</a>（昭和<a href="http://localhost/keyword/55%E5%B9%B4">55年</a>）<br />
+** 2月5日 - 高架下駅舎完成。<br />
+** 4月11日 - 高架下駅舎営業開始。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）<br />
+** 3月28日 - 志布志線全線廃止。<br />
+** 4月1日 - 国鉄分割民営化により九州旅客鉄道が継承。<br />
+* 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>（平成<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）4月1日 - 構内からキオスクが撤退。<br />
+<br />
+== 隣の駅 ==<br />
+; 九州旅客鉄道<br />
+: <a href="http://localhost/keyword/%E6%97%A5%E8%B1%8A%E6%9C%AC%E7%B7%9A">日豊本線</a><br />
+:* 特急「きりしま」停車駅<br />
+:: 普通<br />
+::: 都城駅 - &#39;<a href="http://localhost/keyword/%E8%A5%BF%E9%83%BD%E5%9F%8E%E9%A7%85">西都城駅</a>&#39; - 五十市駅<br />
+<br />
+=== かつて存在した路線 ===<br />
+; 日本国有鉄道<br />
+: 志布志線<br />
+:: &#39;<a href="http://localhost/keyword/%E8%A5%BF%E9%83%BD%E5%9F%8E%E9%A7%85">西都城駅</a>&#39; - 今町駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* <br />
+* <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:都城市の鉄道駅<br />
+しみやこのしよう<br />
+Category:九州旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>開業の鉄道駅<br />

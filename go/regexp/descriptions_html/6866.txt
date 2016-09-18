@@ -1,0 +1,28 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E7%B5%8C%E5%96%B6%E6%83%85%E5%A0%B1%E5%AD%A6">経営情報学</a>&#39;（けいえいじょうほうがく、）は、経営と情報との関わりとその応用について考究する学問のことである。<br />
+<br />
+== 概要 ==<br />
+<a href="http://localhost/keyword/%E7%B5%8C%E5%96%B6%E6%83%85%E5%A0%B1%E5%AD%A6">経営情報学</a>は、経営学を母体に、経営における情報の積極的な活用を指向して形成されてきた学問であるといわれている。特に19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>代以降は、経営分野における情報化の推進が活発であり、「経営戦略と情報」「経営と情報システム」などについて盛んに研究されるようになってきている。<br />
+<br />
+日本では、<a href="http://localhost/keyword/%E7%B5%8C%E5%96%B6%E6%83%85%E5%A0%B1%E5%AD%A6">経営情報学</a>に関する研究の推進と議論の場として、1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a>4月1日に旧・日本<a href="http://localhost/keyword/%E7%B5%8C%E5%96%B6%E6%83%85%E5%A0%B1%E5%AD%A6">経営情報学</a>会(JASMIN)と旧・<a href="http://localhost/keyword/%E7%B5%8C%E5%96%B6%E6%83%85%E5%A0%B1%E5%AD%A6">経営情報学</a>会（AMI）とが統合され、<a href="http://localhost/keyword/%E7%B5%8C%E5%96%B6%E6%83%85%E5%A0%B1%E5%AD%A6">経営情報学</a>会が設立された。<br />
+<br />
+パソコンを主に使う。<br />
+<br />
+== 歴史 ==<br />
+<a href="http://localhost/keyword/%E7%B5%8C%E5%96%B6%E6%83%85%E5%A0%B1%E5%AD%A6">経営情報学</a>の起源は、19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>代から1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>代にかけての経営情報システム (MIS) にも見ることができる。経営情報システムを発展させて1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>代には、意思決定支援システム (DSS)、19<a href="http://localhost/keyword/80%E5%B9%B4">80年</a>代には戦略情報システム (SIS) へと考え方も進化していった。これらのシステムは、基本的に情報活用を経営に生かすことについて共通している。<br />
+<br />
+19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>代以降は、企業間取引 (B2B) や企業対消費者間取引 (B2C)、(B2G) といったeコマースが台頭し、商業取引に影響し始めてきている。特に企業間取引 (B2B) においては、電子データ交換 (EDI) やCALS/ECなどにおいてXMLが大きな役割を担ってきている。<br />
+<br />
+== 関連項目 ==<br />
+* 経営情報<br />
+* <a href="http://localhost/keyword/%E7%B5%8C%E5%96%B6%E6%83%85%E5%A0%B1%E5%AD%A6">経営情報学</a>会 (JASMIN)<br />
+* 経営学 - 情報学 - 社会科学<br />
+* オペレーションズ・リサーチ - マネジメント・サイエンス（経営科学）<br />
+* <a href="http://localhost/keyword/%E7%B5%8C%E5%96%B6%E6%83%85%E5%A0%B1%E5%AD%A6">経営情報学</a>部 - 経営学部 - 情報学部<br />
+* <a href="http://localhost/keyword/%E7%B5%8C%E5%96%B6%E6%83%85%E5%A0%B1%E5%AD%A6">経営情報学</a>研究科 / 経営情報研究科 - 経営学研究科 - 情報学研究科<br />
+<br />
+<br />
+Category:経営学<br />
+Category:情報学<br />
+Category:社会学の分野‎<br />
+<br />

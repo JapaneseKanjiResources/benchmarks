@@ -1,0 +1,75 @@
+description<br />
+<br />
+| event1label = <br />
+| event1 = <br />
+| close = <br />
+| owner = 15px 鉄道作業局→帝国鉄道庁→鉄道院→鉄道省→運輸通信省→運輸省→40px 日本国有鉄道<br />
+| operator = 15px 阪鶴鉄道→15px 帝国鉄道庁→鉄道院→鉄道省→運輸通信省→運輸省→40px 日本国有鉄道 <br />
+| depot = <br />
+| stock = <br />
+| linelength_km = 1.8<br />
+| linelength = <br />
+| gauge = <br />
+| minradius_m = <br />
+| el = 全線非電化<br />
+| speed = <br />
+| maxincline = <br />
+| map = <br />
+| map_state = <br />
+}}<br />
+}<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+|}<br />
+|}<br />
+&#39;<a href="http://localhost/keyword/%E8%88%9E%E9%B6%B4%E6%B8%AF%E7%B7%9A">舞鶴港線</a>&#39;（まいづるこうせん）は、京都府舞鶴市の西舞鶴駅から舞鶴港駅に至る日本国有鉄道（国鉄）が運営していた鉄道路線の通称。&#39;海舞鶴線&#39;とも呼ばれた。線路名称上は舞鶴線の支線であった。<br />
+<br />
+<a href="http://localhost/keyword/%E8%88%9E%E9%B6%B4%E6%B8%AF%E7%B7%9A">舞鶴港線</a>は日本海側でも有数の良港をもち、また京阪神地区に近く、国際商業港として発展していた京都府舞鶴市にある舞鶴港を、鉄道網に組み込むために国鉄が1<a href="http://localhost/keyword/904%E5%B9%B4">904年</a>（明治<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）に建設した。国鉄は当初は大阪から舞鶴までの鉄道敷設を目指していた阪鶴鉄道に貸し出したが、190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（明治40年）に阪鶴鉄道そのものを買収し、<a href="http://localhost/keyword/%E8%88%9E%E9%B6%B4%E6%B8%AF%E7%B7%9A">舞鶴港線</a>は国鉄線となった。<br />
+<br />
+当初は貨物線として開業したが、1<a href="http://localhost/keyword/913%E5%B9%B4">913年</a>（大正<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）4月のダイヤ改正からは旅客営業も開始し、舞鶴市民の足としても活躍した。しかし高速網の発達や、鉄道貨物輸送の衰退により、<a href="http://localhost/keyword/%E8%88%9E%E9%B6%B4%E6%B8%AF%E7%B7%9A">舞鶴港線</a>もその役割を終え、1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>（昭和<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>）に廃止された。<br />
+<br />
+== 路線データ ==<br />
+* 区間（営業キロ）：西舞鶴 - 舞鶴港 1.8km<br />
+* 駅数：2駅（起終点駅含む）<br />
+* 複線区間：なし（全線単線）<br />
+* 電化区間：なし（全線非電化）<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/904%E5%B9%B4">904年</a>（明治<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）11月3日 舞鶴駅（後の西舞鶴駅）- 舞鶴海岸荷扱所間の貨物線（通称海岸線）として開業、阪鶴鉄道に貸与<br />
+* 190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（明治40年）8月1日 阪鶴鉄道が国有化<br />
+* 190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（明治40年）11月1日 営業マイル設定（全線1.0M）<br />
+* 1<a href="http://localhost/keyword/909%E5%B9%B4">909年</a>（明治<a href="http://localhost/keyword/42%E5%B9%B4">42年</a>）10月12日 線路名称制定、&#39;阪鶴線&#39;の貨物支線となる<br />
+* 1<a href="http://localhost/keyword/912%E5%B9%B4">912年</a>（明治<a href="http://localhost/keyword/45%E5%B9%B4">45年</a>）3月1日 &#39;舞鶴線&#39;の貨物支線に変更<br />
+* 1<a href="http://localhost/keyword/913%E5%B9%B4">913年</a>（大正<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）4月10日 全線旅客営業開始。舞鶴海岸荷扱所を海舞鶴駅に格上げ<br />
+* 1<a href="http://localhost/keyword/924%E5%B9%B4">924年</a>（大正<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）4月12日 全線旅客営業廃止<br />
+* 1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>（昭和<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）4月1日 営業距離の単位をマイルからメートルに変更（1.0M → 1.8km）<br />
+* 1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>（昭和<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）4月1日 舞鶴駅を西舞鶴駅に改称<br />
+* 1<a href="http://localhost/keyword/946%E5%B9%B4">946年</a>（昭和<a href="http://localhost/keyword/21%E5%B9%B4">21年</a>）4月1日　西舞鶴機関区（現・西舞鶴運転区）開設<br />
+* 1<a href="http://localhost/keyword/966%E5%B9%B4">966年</a>（昭和<a href="http://localhost/keyword/41%E5%B9%B4">41年</a>）10月1日 海舞鶴駅を舞鶴港駅に改称<br />
+* 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>（昭和<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>）3月14日 全線廃止<br />
+<br />
+== 駅一覧 ==<br />
+西舞鶴駅 (0.0km) - 舞鶴港駅 (1.8km)<br />
+<br />
+== 接続路線 ==<br />
+* 西舞鶴駅：舞鶴線（本線）・宮津線<br />
+<br />
+== 廃止後の状況 ==<br />
+廃止後<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>程度は軌道も維持され、ロシア・樺太方面へ輸出される鉄道車両などが留置されていたが、現在では軌道も剥がされている。200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>に歩道が建設された。また舞鶴港近くの用地は、国際コンテナターミナル<a href="http://localhost/keyword/%E8%88%9E%E9%B6%B4%E5%9B%BD%E9%9A%9B%E5%9F%A0%E9%A0%AD">舞鶴国際埠頭</a>（みずなぎ埠頭）と舞鶴西港を結ぶ臨海道路に使用される予定である。<br />
+<br />
+== 関連項目 ==<br />
+* 中舞鶴線<br />
+* 西舞鶴機関区 - 当線使用車両の車両基地<br />
+* 国道177号<br />
+<br />
+<br />
+Category:近畿地方の鉄道路線 (廃止)<br />
+Category:日本国有鉄道の廃線<br />
+Category:京都府の交通史<br />
+Category:舞鶴湾<br />

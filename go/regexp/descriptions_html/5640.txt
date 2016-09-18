@@ -1,0 +1,80 @@
+description<br />
+<br />
+<br />
+|名前             = 那須烏山 矢板線<br />
+|名前の補足       = <br />
+|副名             = <br />
+|副名の補足       = <br />
+|地図画像         = <br />
+ <br />
+ <br />
+ <br />
+}}<br />
+|総距離           = 25.708 km<br />
+|陸上距離         = <br />
+|海上距離         = <br />
+|制定年           = 1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>（昭和<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）<br />
+|開通年           = <br />
+|廃止年           = <br />
+|道の方位         = <br />
+|起点             = 那須烏山市神長<br />
+|道路の方角       = <br />
+|環状線通過都市   = <br />
+|主な経由国       = <br />
+|主な経由都市     = <br />
+|終点             = 矢板市中<br />
+|終点方角         = <br />
+|接続する主な道路 = 24px国道4号24px国道293号<br />
+}}<br />
+那須烏山市熊田付近（20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>5月）<br />
+さくら市鹿子畑付近（20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>5月）<br />
+矢板市成田付近（200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>1月）<br />
+&#39;<a href="http://localhost/keyword/%E6%A0%83%E6%9C%A8%E7%9C%8C%E9%81%9325%E5%8F%B7%E9%82%A3%E9%A0%88%E7%83%8F%E5%B1%B1%E7%9F%A2%E6%9D%BF%E7%B7%9A">栃木県道25号那須烏山矢板線</a>&#39;（とちぎけんどう25ごう なすからすやまやいたせん）は、栃木県那須烏山市から矢板市に至る県道（主要地方道）である。<br />
+<br />
+== 概要 ==<br />
+=== 路線データ ===<br />
+* 総延長：25.708km道路現況調書 平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>4月1日現在<br />
+* 実延長：25.483km<br />
+* 起点：栃木県那須烏山市神長（神長交差点＝栃木県道10号宇都宮那須烏山線、栃木県道61号真岡那須烏山線交点）<br />
+* 終点：栃木県矢板市中（国道4号交点）<br />
+* 認定：1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>（昭和<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）8月10日<br />
+<br />
+== 歴史 ==<br />
+=== 年表 ===<br />
+* 1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>（昭和<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）8月10日 - 主要地方道&#39;烏山矢板線&#39;として認定。<br />
+* 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>（平成<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）4月1日 - 路線名を&#39;那須烏山矢板線&#39;に変更。[http://www.pref.tochigi.lg.jp/h05/town/douro/jyouhou/documents/1205369018375.pdf 路線名を変更する路線] 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>1月5日閲覧。。<br />
+<br />
+== 路線状況 ==<br />
+<br />
+=== 交通量 ===<br />
+24時間自動車類交通量（台/日）[http://www.mlit.go.jp/road/census/h22-1/index.html 平成<a href="http://localhost/keyword/22%E5%B9%B4">22年</a>度道路交通センサス] 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>1月5日閲覧。<br />
+* 那須烏山市上川井521：1,903<br />
+* さくら市金枝916-4：1,478<br />
+* 矢板市成田1262：2,806<br />
+<br />
+<br />
+== 地理 ==<br />
+=== 通過する自治体 ===<br />
+* 栃木県<br />
+** 那須烏山市 -  さくら市 - 矢板市<br />
+<br />
+=== 交差する道路 ===<br />
+* 栃木県道233号小川大金停車場線（那須烏山市熊田）<br />
+* 国道293号（さくら市鹿子畑）<br />
+* 栃木県道167号蛭田喜連川線（さくら市金枝）<br />
+* 栃木県道114号佐久山喜連川線（さくら市南和田から下河戸まで重複区間）<br />
+* 栃木県道48号大田原氏家線（さくら市上河戸交差点）<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 参考文献 ==<br />
+* 栃木県県土整備部道路保全課 『道路現況調書 平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>4月1日現在』、200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>。<br />
+<br />
+== 関連項目 ==<br />
+* 栃木県の県道一覧<br />
+* 関東地方の道路一覧<br />
+<br />
+<br />
+025<br />

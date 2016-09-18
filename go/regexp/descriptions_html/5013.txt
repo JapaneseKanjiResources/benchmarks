@@ -1,0 +1,8 @@
+description<br />
+&#39;<a href="http://localhost/keyword/OCR">OCR</a>&#39;<br />
+* 光学文字認識 (Optical Character Recognition) の略称。<br />
+** 光学式文字読取装置 (Optical Character Reader) の略称。<br />
+* オイル循環率 (Oil Circulation Ratio) の略称。<br />
+* 過電流継電器 (Over Current Relay) の略称。<br />
+<br />
+<br />

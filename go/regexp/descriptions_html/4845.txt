@@ -1,0 +1,45 @@
+description<br />
+<br />
+|<a href="http://localhost/keyword/%E9%83%B5%E4%BE%BF%E7%95%AA%E5%8F%B7">郵便番号</a> = 028-5641<br />
+|本社所在地 = 岩手県<a href="http://localhost/keyword/%E4%B8%8B%E9%96%89%E4%BC%8A%E9%83%A1">下閉伊郡</a>　　　　岩泉町門字町66-1<br />
+|設立 = 1<a href="http://localhost/keyword/954%E5%B9%B4">954年</a>11月<br />
+|業種 = 5050<br />
+|統一金融機関コード = <br />
+|SWIFTコード = <br />
+|事業内容 = タクシー・路線バス・貸切バス<br />
+|代表者 = 代表取締役 杉本 修太郎<br />
+|<a href="http://localhost/keyword/%E8%B3%87%E6%9C%AC%E9%87%91">資本金</a> = 1,000万円<br />
+|売上高 = <br />
+|総資産 = <br />
+|従業員数 = 40名<br />
+|決算期 = 3月<br />
+|主要株主 = <br />
+|主要子会社 = <br />
+|関係する人物 = <br />
+|外部リンク = <br />
+|特記事項 = <br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E5%B0%8F%E5%B7%9D%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC">小川タクシー</a>株式会社&#39;（こがわタクシー）は、岩手県<a href="http://localhost/keyword/%E4%B8%8B%E9%96%89%E4%BC%8A%E9%83%A1">下閉伊郡</a>岩泉町にあるタクシー・路線バス・貸切バスを運行する会社である。<br />
+<br />
+==組織==<br />
+*本社営業所<br />
+*岩泉営業所（廃止）<br />
+*こがわタクシー盛岡営業所（盛岡市浅岸）<br />
+<br />
+==沿革==<br />
+===路線バス===<br />
+*1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a>（平成<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）3月2日 - JRバス廃止に伴い、安家洞線 岩泉駅 - 安家間運行開始。<br />
+*2003年（平成<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）4月1日 - JRバス廃止に伴い、国境・上荒沢口線 岩泉三本松 - 上国境 - 上荒沢口間運行開始。<br />
+*運行路線は岩泉町民バスを参照。<br />
+===タクシー===<br />
+*20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>（平成<a href="http://localhost/keyword/22%E5%B9%B4">22年</a>）4月1日 - コミュニティタクシー（下安家線）運行開始。<br />
+*20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）4月1日 - コミュニティタクシー（救沢線、大石沢・浅不動線）運行開始。<br />
+<br />
+<br />
+<br />
+Category:東北地方の貸切バス事業者<br />
+Category:東北地方の乗合バス事業者<br />
+Category:日本のタクシー事業者<br />
+Category:岩手県の企業<br />
+Category:岩泉町の交通<br />

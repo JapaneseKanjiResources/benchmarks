@@ -1,0 +1,78 @@
+description<br />
+<br />
+<br />
+|所属事業者 = 25px道南いさりび鉄道<br />
+|所属路線 = 道南いさりび鉄道線<br />
+|キロ程 = 30.6<br />
+|起点駅 = 五稜郭<br />
+|所在地 = 北海道上磯郡木古内町字泉沢鉄道用地<br />
+| 緯度度 = 41 | 緯度分 = 42 | 緯度秒 = 3 <br />
+| 経度度 = 140 |経度分 = 30 | 経度秒 = 24 <br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面3線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>（昭和<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）10月25日<br />
+|廃止年月日 = <br />
+|乗車人員 = 6<br />
+|統計年度 = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|乗換 = <br />
+|備考 = 簡易委託駅<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E6%B3%89%E6%B2%A2%E9%A7%85">泉沢駅</a>&#39;（いずみさわえき）は、北海道上磯郡木古内町字泉沢にある道南いさりび鉄道線の駅。電報略号は&#39;イミ&#39;。<br />
+<br />
+== 歴史 ==<br />
+19<a href="http://localhost/keyword/76%E5%B9%B4">76年</a>の<a href="http://localhost/keyword/%E6%B3%89%E6%B2%A2%E9%A7%85">泉沢駅</a>と周囲約500m範囲。左が江差方面。千鳥状にずれた相対式ホーム2面2線だが、後に津軽海峡線開通に伴って構内改築されるまでの間、無人化に併せて駅裏側ホームの使用を止めた。<br />
+* 1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>（昭和<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）10月25日：国有鉄道&#39;上磯線&#39;の駅として開業。一般駅。<br />
+* 1<a href="http://localhost/keyword/936%E5%B9%B4">936年</a>（昭和<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）11月10日：上磯線が&#39;江差線&#39;に改称。<br />
+* 1<a href="http://localhost/keyword/949%E5%B9%B4">949年</a>（昭和<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）6月1日：日本国有鉄道法施行に伴い、日本国有鉄道（国鉄）に継承。<br />
+* 1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>（昭和<a href="http://localhost/keyword/45%E5%B9%B4">45年</a>）12月12日：貨物扱い廃止。<br />
+* 1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a>（昭和<a href="http://localhost/keyword/57%E5%B9%B4">57年</a>）11月15日：荷物扱い廃止。無人化。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日：国鉄分割民営化により、北海道旅客鉄道（JR北海道）に継承。<br />
+* 19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>（昭和<a href="http://localhost/keyword/63%E5%B9%B4">63年</a>）<br />
+** 3月13日：海峡線（津軽海峡線）開業に伴い、当駅を含む江差線の五稜郭駅 - 木古内駅間が電化（交流20,000V・50Hz）。<br />
+*** この開業に伴い、貨物列車の待避などを考慮して駅構内の有効長を拡大（構内の待避線を延伸）するなどの工事が実施され、跨線橋も設置される。<br />
+** 12月10日：駅舎改築。<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）9月11日：出発信号機付近で走行中の貨物列車が脱線。<br />
+* 20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>（平成2<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）3月26日：<a href="http://localhost/keyword/%E5%8C%97%E6%B5%B7%E9%81%93%E6%96%B0%E5%B9%B9%E7%B7%9A">北海道新幹線</a>新青森駅 - 新函館北斗駅間開通に伴い、当駅を含む江差線の五稜郭駅 - 木古内駅間がJR北海道から経営分離され、道南いさりび鉄道の駅となる。。<br />
+<br />
+== 駅構造 ==<br />
+2面3線の地上駅。上りホームは島式2面2線（2番、3番のりば）、下りホームは片面1面1線（1番のりば）の配置となっている。両ホームは千鳥状に配置されホーム間の移動は跨線橋を使う。下り線の上りホーム付近には現在未使用の引き込み側線がある。<br />
+<br />
+JR時代は木古内駅管理の簡易委託駅で、委託を受けた元助役が<a href="http://localhost/keyword/%E4%B9%97%E8%BB%8A%E5%88%B8">乗車券</a>を発売していた。道南いさりび鉄道移管後は受託者が変わったものの、簡易委託は継続して行われている。<br />
+<br />
+== 利用状況 ==<br />
+<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 国道228号<br />
+* 木古内警察署泉沢駐在所<br />
+* 泉沢郵便局<br />
+* サラキ岬 - 咸臨丸末期の地。<br />
+* 函館バス「<a href="http://localhost/keyword/%E6%B3%89%E6%B2%A2%E9%A7%85">泉沢駅</a>前」停留所<br />
+<br />
+== 隣の駅 ==<br />
+; 25px道南いさりび鉄道<br />
+: 道南いさりび鉄道線<br />
+:: 釜谷駅 (sh04) - &#39;<a href="http://localhost/keyword/%E6%B3%89%E6%B2%A2%E9%A7%85">泉沢駅</a> (sh03)&#39; - 札苅駅 (sh02)<br />
+<br />
+== 出典 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.shr-isaribi.jp/route/izumisawa/ <a href="http://localhost/keyword/%E6%B3%89%E6%B2%A2%E9%A7%85">泉沢駅</a>] - 道南いさりび鉄道<br />
+<br />
+<br />
+<br />
+<br />
+Category:北海道の鉄道駅<br />
+すみさわ<br />
+Category:道南いさりび鉄道の鉄道駅<br />
+Category:北海道旅客鉄道の廃駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>開業の鉄道駅<br />
+Category:江差線<br />
+Category:木古内町<br />

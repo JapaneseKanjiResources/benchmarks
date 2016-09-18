@@ -1,0 +1,17 @@
+description<br />
+&#39;n型<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>&#39;（エヌがたはんどうたい）とは、電荷を運ぶキャリアとして自由電子が使われる<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>である。負の電荷を持つ自由電子がキャリアとして移動することで電流が生じる。つまり、多数キャリアが電子となる<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>である。<br />
+例えば、シリコンなど4価元素の真性<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>に、微量の5価元素(リン、ヒ素など)を不純物として添加することでつくられる。不純物<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>に含まれる。<br />
+<br />
+* <a href="http://localhost/keyword/N%E5%9E%8B%E5%8D%8A%E5%B0%8E%E4%BD%93">N型半導体</a>をつくる為の不純物をドナーといい、この不純物より形成された準位をドナー準位と呼ぶ。<br />
+* 負（）の電荷を持つ自由電子が多数キャリアであることから、英語の頭文字をとってn型<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>と呼ばれる。<br />
+* 工学では&#39;n形&#39;<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>と表記される（日本工業規格(JIS)など）。<br />
+<br />
+== 関連項目 ==<br />
+<br />
+<br />
+<br />
+<br />
+*えぬかたはんとうたい<br />
+<br />
+en:N-type semiconductor<br />
+es:Semiconductor#Semiconductor tipo N<br />

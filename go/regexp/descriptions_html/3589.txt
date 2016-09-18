@@ -1,0 +1,90 @@
+description<br />
+<br />
+|所属事業者 = 42px 京浜急行電鉄<br />
+|所属路線   = KK 本線<br />
+|キロ程     = 18.3<br />
+|起点駅     = 品川<br />
+|所在地     = 横浜市神奈川区子安通3-289<br />
+| 緯度度 = 35 | 緯度分 = 29 | 緯度秒 = 13.5 | N(北緯)及びS(南緯) = N<br />
+| 経度度 = 139 |経度分 = 39 | 経度秒 = 20 | E(東経)及びW(西経) = E<br />
+| 地図国コード = JP<br />
+|駅構造     = 地上駅<br />
+|ホーム     = 相対式　2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/910%E5%B9%B4">910年</a>（明治<a href="http://localhost/keyword/43%E5%B9%B4">43年</a>）3月27日<br />
+|廃止年月日 = <br />
+|乗降人員   = 8,084<br />
+|統計年度   = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換       = 新子安駅（JR京浜東北線）<br />
+|備考       = 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>　京浜新子安駅より改称<br />
+}}<br />
+<br />
+ホーム（2010/8/9）<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E4%BA%AC%E6%80%A5%E6%96%B0%E5%AD%90%E5%AE%89%E9%A7%85">京急新子安駅</a>&#39;（けいきゅうしんこやすえき）は、神奈川県横浜市神奈川区子安通にある、京浜急行電鉄本線の駅である。駅番号は&#39;KK32&#39;。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/910%E5%B9%B4">910年</a>（明治<a href="http://localhost/keyword/43%E5%B9%B4">43年</a>）3月27日  - &#39;新子安駅&#39;として開業。<br />
+* 1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a>（昭和<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）11月1日 - 国有鉄道に新子安駅が開業したため、『&#39;京浜&#39;』を冠して&#39;京浜新子安駅&#39;に改称。<br />
+* 1<a href="http://localhost/keyword/979%E5%B9%B4">979年</a>（昭和<a href="http://localhost/keyword/54%E5%B9%B4">54年</a>）2月26日 - 橋上駅となる。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）6月1日 - &#39;<a href="http://localhost/keyword/%E4%BA%AC%E6%80%A5%E6%96%B0%E5%AD%90%E5%AE%89%E9%A7%85">京急新子安駅</a>&#39;に改称。<br />
+<br />
+== 駅構造 ==<br />
+相対式ホーム2面2線を有する地上駅。ホーム上に橋上駅舎がある。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度の1日平均乗降人員は&#39;8,084人&#39;であり - 30ページ、京急線全72駅中61位。隣接する東日本旅客鉄道（JR東日本）新子安駅よりもかなり少ない。<br />
+<br />
+近年の1日平均&#39;乗降&#39;人員と&#39;乗車&#39;人員の推移は下表の通り。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+<br />
+* 新子安駅 - JR東日本京浜東北線<br />
+* オルトヨコハマ<br />
+** オルトヨコハマ内郵便局<br />
+* 横浜新子安郵便局<br />
+* 横浜入江郵便局<br />
+* 浅野中学校・高等学校<br />
+* 国道15号<br />
+* 子安出入口 - 首都高速神奈川1号横羽線<br />
+* JVCケンウッド (旧・日本ビクター) 本社<br />
+* 日産自動車横浜工場（第1･第2･第5地区）<br />
+* 昭和電工<br />
+* 京浜急行バス新子安営業所<br />
+<br />
+=== バス路線 ===<br />
+<br />
+<br />
+== 隣の駅 ==<br />
+;  42px 京浜急行電鉄<br />
+: KK 本線<br />
+:: モーニング・ウィング号・京急ウィング号・快特・快特（金沢文庫駅以南は特急）・特急・エアポート急行<br />
+::: &#39;通過&#39;<br />
+:: 普通<br />
+::: 生麦駅 (KK31) - &#39;<a href="http://localhost/keyword/%E4%BA%AC%E6%80%A5%E6%96%B0%E5%AD%90%E5%AE%89%E9%A7%85">京急新子安駅</a> (KK32)&#39; - 子安駅 (KK33)<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 出典 ==<br />
+;神奈川県県勢要覧<br />
+<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.keikyu.co.jp/train-info/kakueki/KK32.html 京浜急行電鉄 <a href="http://localhost/keyword/%E4%BA%AC%E6%80%A5%E6%96%B0%E5%AD%90%E5%AE%89%E9%A7%85">京急新子安駅</a>]<br />
+<br />
+<br />
+<br />
+Category:神奈川区の鉄道駅<br />
+いきゆうしんこやす<br />
+Category:京浜急行電鉄の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/910%E5%B9%B4">910年</a>開業の鉄道駅<br />

@@ -1,0 +1,9 @@
+description<br />
+&#39;<a href="http://localhost/keyword/MUC">MUC</a>&#39;<br />
+<br />
+#ミュンヘンを表すIATA都市コード<br />
+#ミュンヘン国際空港を表すIATA空港コード<br />
+#上島珈琲貿易株式会社の略称<br />
+#情報抽出の評価型プロジェクトMessage Understanding Conference<br />
+<br />
+<br />

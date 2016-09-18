@@ -1,0 +1,52 @@
+description<br />
+勝山<a href="http://localhost/keyword/%E6%B0%B8%E5%B9%B3%E5%AF%BA">永平寺</a>線<br />
+|キロ程 = 24.5<br />
+|起点駅 =  福井<br />
+|所在地 = 福井県勝山市鹿谷町保田97-8-2<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/914%E5%B9%B4">914年</a>（大正3年）3月11日<br />
+|廃止年月日 = <br />
+|乗車人員 = <br />
+|乗降人員 =   <br />
+|統計年度 = <br />
+|乗換 = <br />
+|備考 = 無人駅<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E7%99%BA%E5%9D%82%E9%A7%85">発坂駅</a>&#39;（ほっさかえき）は、福井県勝山市鹿谷町保田にあるえちぜん鉄道勝山<a href="http://localhost/keyword/%E6%B0%B8%E5%B9%B3%E5%AF%BA">永平寺</a>線の駅（無人駅）である。<br />
+<br />
+== 駅構造 ==<br />
+2面2線の相対式ホームがあり、列車交換が可能。木造の駅舎は本線南側の福井方面ホームに隣接し、屋根の一部をホーム上屋としている。勝山方面ホームも上屋があり、待合所になっている。駐輪場・駐車場（22台）あり。勝山側のポイントにシェルターが設置されている。<br />
+<br />
+== 駅周辺 ==<br />
+両隣の駅に比べ民家が多い。<a href="http://localhost/keyword/%E4%B9%9D%E9%A0%AD%E7%AB%9C%E5%B7%9D">九頭竜川</a>に架かる荒鹿橋に近く、対岸からのアクセスも難し<a href="http://localhost/keyword/%E3%81%8F%E3%81%AA%E3%81%84">くない</a>。<br />
+* 勝山市立北部中学校 <br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/914%E5%B9%B4">914年</a>（大正3年）3月11日 京都電燈の駅として開業。<br />
+* 2001年（平成<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）6月24日 近くで事故が発生し、翌25日から営業休止。 <br />
+* 2003年（平成<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）<br />
+** 2月1日 えちぜん鉄道が承継。<br />
+** 10月19日 業務再開。<br />
+<br />
+== 隣の駅 ==<br />
+; えちぜん鉄道<br />
+: 勝山<a href="http://localhost/keyword/%E6%B0%B8%E5%B9%B3%E5%AF%BA">永平寺</a>線<br />
+:: 快速<br />
+::: 越前竹原駅（福井行きのみ） - &#39;<a href="http://localhost/keyword/%E7%99%BA%E5%9D%82%E9%A7%85">発坂駅</a>&#39; - 勝山駅<br />
+:: 普通<br />
+::: 保田駅 - &#39;<a href="http://localhost/keyword/%E7%99%BA%E5%9D%82%E9%A7%85">発坂駅</a>&#39; - 比島駅（一部勝山駅）<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+<br />
+Category:福井県の鉄道駅<br />
+つさか<br />
+Category:えちぜん鉄道の鉄道駅<br />
+Category:京福電気鉄道の廃駅<br />
+Category:1<a href="http://localhost/keyword/914%E5%B9%B4">914年</a>開業の鉄道駅<br />
+ほつさかえき<br />

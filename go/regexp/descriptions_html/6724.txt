@@ -1,0 +1,120 @@
+description<br />
+ instead --&gt;<br />
+| settlement_type         = <br />
+| image_skyline           = Turkmenabat Airport.jpg <br />
+| image_alt               = <br />
+| image_caption           = <a href="http://localhost/keyword/%E3%83%86%E3%83%A5%E3%83%AB%E3%82%AF%E3%83%A1%E3%83%8A%E3%83%90%E3%83%BC%E3%83%88">テュルクメナバート</a>空港<br />
+| image_flag              = <br />
+| flag_alt                = <br />
+| image_seal              = <br />
+| seal_alt                = <br />
+| image_shield            = <br />
+| shield_alt              = <br />
+| nickname                = <br />
+| motto                   = <br />
+| image_map               = <br />
+| map_alt                 = <br />
+| map_caption             = <br />
+| pushpin_map            = Turkmenistan<br />
+| pushpin_label_position =<br />
+| pushpin_mapsize        = <br />
+| pushpin_map_caption    =<br />
+| latd  =39 |latm  =5|lats  =|latNS  =N<br />
+| longd =63 |longm =34 |longs =|longEW =E<br />
+| coor_pinpoint           = <br />
+| coordinates_display     = inline,title<br />
+| coordinates_type =<br />
+| coordinates_footnotes   = <br />
+|coordinates_region = TJ<br />
+| subdivision_type        = 国<br />
+| subdivision_name  = <br />
+| subdivision_type1       = 州<br />
+| subdivision_name1       = レバプ州 <br />
+| subdivision_type2       = <br />
+| subdivision_name2       = <br />
+| subdivision_type3       = <br />
+| subdivision_name3       = <br />
+| established_title       =<br />
+| established_date        = <br />
+| founder                 = <br />
+| seat_type               = <br />
+| seat                    = <br />
+| government_footnotes    = <br />
+| leader_party            = <br />
+| leader_title            = <br />
+| leader_name             = <br />
+| unit_pref               = Metric<br />
+<br />
+ tags --&gt;<br />
+| area_footnotes          = <br />
+| area_urban_footnotes    =   --&gt;<br />
+| area_rural_footnotes    =   --&gt;<br />
+| area_metro_footnotes    =   --&gt;<br />
+| area_magnitude          =   --&gt;<br />
+| area_note               = <br />
+| area_water_percent      = <br />
+| area_rank               = <br />
+| area_blank1_title       = <br />
+| area_blank2_title       = <br />
+<br />
+| area_total_km2          = <br />
+| area_land_km2           = <br />
+| area_water_km2          = <br />
+| area_urban_km2          = <br />
+| area_rural_km2          = <br />
+| area_metro_km2          = <br />
+| area_blank1_km2         = <br />
+| area_blank2_km2         = <br />
+<br />
+| area_total_ha           = <br />
+| area_land_ha            = <br />
+| area_water_ha           = <br />
+| area_urban_ha           = <br />
+| area_rural_ha           = <br />
+| area_metro_ha           = <br />
+| area_blank1_ha          = <br />
+| area_blank2_ha          = <br />
+| length_km               = <br />
+| width_km                = <br />
+| dimensions_footnotes    = <br />
+| elevation_footnotes = <br />
+| elevation_m             = 191<br />
+|population_as_of= 19<a href="http://localhost/keyword/89%E5%B9%B4">89年</a><br />
+|population_footnotes = [http://demoscope.ru/weekly/ssp/sng89_reg2.php Population census 1989], &#39;&#39;Demoscope Weekly&#39;&#39;, No. 359-360, 1–18 January 2009 (search for Туркменская ССР) <br />
+|population_total = 160799<br />
+| population_density_km2  = auto<br />
+| population_demonym      = <br />
+| population_note         =<br />
+| timezone1               = <br />
+| utc_offset1             = <br />
+| timezone1_DST           = <br />
+| utc_offset1_DST         = <br />
+| postal_code_type        = <br />
+| postal_code             = <br />
+| area_code_type          = <br />
+| area_code               = <br />
+| iso_code                = <br />
+| website                 = <br />
+| footnotes               = <br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E3%83%86%E3%83%A5%E3%83%AB%E3%82%AF%E3%83%A1%E3%83%8A%E3%83%90%E3%83%BC%E3%83%88">テュルクメナバート</a>&#39;(&#39;Türkmenabat&#39;)（キリル文字表記:&#39;Түркменабат&#39;）はトルクメニスタン第2の都市である。レバプ州の州都。<br />
+<br />
+== 名前の由来 ==<br />
+ソ連時代には&#39;チャルジョウ&#39;(&#39;Chardzhou&#39;や&#39;Chardjui&#39;)（ロシア語:&#39;&#39;）の名で知られた。チャルジョウとはペルシア語で「4つの小川」の意味であった。<br />
+<br />
+== 地勢・産業 ==<br />
+アムダリヤ川の土手に位置する都市。約225キロ南西にマル、200キロ南東にケルキ、ウズベキスタン共和国の国境に近く、100キロ北東にブハラが位置している。西にはカラクム砂漠が広がる。鉄道がウズベキスタンのヌクスやウルゲンチに通じている。綿織物・絹織物産業が盛ん。<br />
+<br />
+== 歴史 ==<br />
+1<a href="http://localhost/keyword/886%E5%B9%B4">886年</a>、南下政策をとるロシア帝国によって、カスピ海横断鉄道建設でつくられた町である。鉄道とアムダリヤ川が結ばれる箇所のため、水運・陸運の交差点として重要な役割を果たした。しかし上流における乱開発のためアムダリヤ川の水位が低下、現在はその役割が果たされているとは言い難い。<br />
+<br />
+ソ連時代はアムダリヤ地方の肥沃な土地が生む農作物やその加工業、綿花栽培や絹などの織物業で栄えた。しかしソ連崩壊後は、それらのアシガバートへの移転が進んでいる。独立後にチャルジョウから<a href="http://localhost/keyword/%E3%83%86%E3%83%A5%E3%83%AB%E3%82%AF%E3%83%A1%E3%83%8A%E3%83%90%E3%83%BC%E3%83%88">テュルクメナバート</a>に改称された。<br />
+<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+<br />
+Category:トルクメニスタンの都市<br />
+Category:レバプ州<br />

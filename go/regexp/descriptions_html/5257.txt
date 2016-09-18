@@ -1,0 +1,27 @@
+description<br />
+&#39;戸田 誠之助&#39;（とだ せいのすけ、1<a href="http://localhost/keyword/959%E5%B9%B4">959年</a>1月15日 - ）は、日本の情報工学者。日本大学文理学部情報科学科教授（20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>4月現在）。多項式階層と複雑性クラス#Pの関係 (&#34;PP is as hard as the polynomial-time hierarchy,&#34; SIAM J. Computing 20 (1991), 865-877.) に関する研究で、極東初の1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a>ゲーデル賞を受賞。<br />
+<br />
+== 経歴 ==<br />
+* 1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a>3月 - 電気通信大学<a href="http://localhost/keyword/%E9%9B%BB%E6%B0%97%E9%80%9A%E4%BF%A1%E5%AD%A6%E9%83%A8">電気通信学部</a>計算機科学科卒業<br />
+* 1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>3月 - 電気通信大学大学院電気通信学研究科計算機科学専攻(修士課程）修了<br />
+* 1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>4月 - 文部省国文学研究資料館研究情報部助手<br />
+* 19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a> - 電気通信大学<a href="http://localhost/keyword/%E9%9B%BB%E6%B0%97%E9%80%9A%E4%BF%A1%E5%AD%A6%E9%83%A8">電気通信学部</a>情報工学科助手<br />
+* 19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a> - カリフォルニア大学サンタバーバラ校客員研究員<br />
+* 1<a href="http://localhost/keyword/991%E5%B9%B4">991年</a> - 東京工業大学理学博士学位取得　論文名は Computational Complexity of Counting Complexity Classes（数え上げ問題の計算量クラスの計算複雑さ）<br />
+* 1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a> - 電気通信大学<a href="http://localhost/keyword/%E9%9B%BB%E6%B0%97%E9%80%9A%E4%BF%A1%E5%AD%A6%E9%83%A8">電気通信学部</a>情報工学科助教授<br />
+* 1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a> - ウルム大学客員研究員<br />
+* 1<a href="http://localhost/keyword/995%E5%B9%B4">995年</a> - 日本大学文理学部応用数学科助教授<br />
+* 1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a>7月 - 1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a>ゲーデル賞受賞<br />
+* 1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a>11月 - 第12回日本IBM科学賞受賞<br />
+<br />
+<br />
+<br />
+Category:日本の計算機科学者<br />
+Category:日本の工学者<br />
+Category:ゲーデル賞受賞者<br />
+Category:日本大学の教員<br />
+Category:電気通信大学の教員<br />
+Category:国文学研究資料館の人物<br />
+Category:電気通信大学出身の人物<br />
+Category:1<a href="http://localhost/keyword/959%E5%B9%B4">959年</a>生<br />
+Category:存命人物<br />

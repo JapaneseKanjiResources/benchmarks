@@ -1,0 +1,95 @@
+description<br />
+ <br />
+|名前                   = <a href="http://localhost/keyword/%E5%85%B5%E5%BA%AB%E7%9C%8C%E9%81%93144%E5%8F%B7%E8%A5%BF%E8%84%87%E5%8F%A3%E5%90%89%E5%B7%9D%E7%A5%9E%E6%88%B8%E7%B7%9A">兵庫県道144号西脇口吉川神戸線</a><br />
+|副名                   = <br />
+|地図画像               = <br />
+|総距離                 = <br />
+|制定年                 = <br />
+|起点                   = 兵庫県西脇市市原町<br />
+|主な経由都市           = 加東市・三木市<br />
+|終点                   = 兵庫県神戸市北区淡河町淡河<br />
+|接続する主な道路       =<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E5%85%B5%E5%BA%AB%E7%9C%8C%E9%81%93144%E5%8F%B7%E8%A5%BF%E8%84%87%E5%8F%A3%E5%90%89%E5%B7%9D%E7%A5%9E%E6%88%B8%E7%B7%9A">兵庫県道144号西脇口吉川神戸線</a>&#39;（ひょうごけんどう144ごう にしわきくちよかわこうべせん）は兵庫県西脇市と同県神戸市北区を結ぶ一般県道である。<br />
+<br />
+== 概要 ==<br />
+* 西脇市は田地沿いの道であるが、加東市以南からは山道であり、兵庫県北播磨地区の幹線道路である。<br />
+=== 路線概要 ===<br />
+==== 西脇市 ====<br />
+* 全線2車線が供用され、西脇市の中心部を通過する。<br />
+<br />
+<br />
+File:Ichiharatown Nishiwakicity Hyogopref Hyogoprefectural road 144 Nishiwaki Kuchiyokawa Kobe line.JPG|起点付近西脇市市原町で撮影<br />
+File:Takamatsutown Nishiwakicity Hyogopref Hyogoprefectural road 144 Nishiwaki Kuchiyokawa Kobe line.JPG|国道175号との交点付近西脇市高松町で撮影<br />
+<br />
+<br />
+==== 加東市 ====<br />
+* 全線2車線の区間が供用されている。以前は下久米周辺の道路は異常気象時の事前通行規制区間、そして、狭い区間であり、離合不可能な区間・視界が悪い区間であったために兵庫県道17号西脇三田線に迂回していた。その迂回した区間で交通事故・渋滞が頻発して、バイパス整備が急がれていた。その結果、20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>にバイパスが開通した。<br />
+<br />
+<br />
+File:Shimokume Katocity Hyogopref Hyogoprefecural road 144 Nishiwaki Kuchiyokawa Kobe line No,3.JPG|本道の標識加東市下久米で撮影<br />
+File:Shinsada Katocity Hyogopref Hyogoprefecural road 144 Nishiwaki Kuchiyokawa Kobe line.JPG|兵庫県道75号小野藍本線との交点付近加東市新定で撮影<br />
+<br />
+<br />
+==== 三木市 ====<br />
+* 2車線の道路が確保されているが、1車線もあり、所々狭い区間がある。狭い区間の拡幅整備は兵庫県に要望しているが、20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>現在も交通量・費用対効果などで整備は困難な状況である。口吉川町大島では<a href="http://localhost/keyword/%E7%94%A8%E5%9C%B0%E8%B2%B7%E5%8F%8E">用地買収</a>が進んでいるが、本格的な整備はされていない。<br />
+<br />
+<br />
+File:Kuchiyokawatown Tonohata Mikicity Hyogopref Hyogoprefectural road 144 Nishiiwaki Kuchiyokawa Kobe line.JPG|兵庫県道20号加古川三田線の交点付近三木市口吉川町殿畑で撮影<br />
+<br />
+<br />
+==== 神戸市 ====<br />
+* 全線2車線の道路であり、市内には信号機が1基もない。兵庫県道38号三木三田線との交点で終点を迎える。<br />
+<br />
+<br />
+File:Ogotown Katsuo Kita-ku Kobecity Hyogopref Hyogoprefectural road 144 Nishiwaki Kuchiyokawa Kobe.JPG|淡河町の田園沿い神戸市北区淡河町勝雄で撮影<br />
+File:Ogotown Ogo Kita-ku Kobecity Hyogopref Hyogoprefectural road 144 Nishiwaki Kuchiyokawa Kobe line.JPG|終点付近神戸市北区淡河町淡河で撮影<br />
+<br />
+<br />
+=== 路線データ ===<br />
+* 起点：西脇市市原町（国道427号・市原東交差点）<br />
+* 終点：神戸市北区淡河町淡河（兵庫県道38号三木三田線）<br />
+* 総延長：<br />
+<br />
+== 地理 ==<br />
+=== 通過する自治体 ===<br />
+* 西脇市<br />
+* 加東市<br />
+* 三木市<br />
+* 神戸市<br />
+<br />
+=== 接続道路 ===<br />
+* 国道427号<br />
+* 兵庫県道346号郷の瀬野村線<br />
+* 兵庫県道17号西脇三田線<br />
+* 兵庫県道54号西脇停車場線<br />
+* 兵庫県道348号野村野村停車場線<br />
+* 兵庫県道34号西脇八千代市川線<br />
+* 兵庫県道294号黒田庄多井田線<br />
+* 国道175号（国道427号重複）<br />
+* 国道372号<br />
+* 兵庫県道17号西脇三田線<br />
+* 兵庫県道75号小野藍本線<br />
+* 兵庫県道20号加古川三田線<br />
+* 兵庫県道355号楠原三木線<br />
+* 兵庫県道38号三木三田線<br />
+<br />
+=== 沿線 ===<br />
+* やしろの森公園<br />
+* まなびの郷みずほ<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+}}<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 兵庫県の県道一覧<br />
+<br />
+<br />
+<br />
+<br />
+144<br />

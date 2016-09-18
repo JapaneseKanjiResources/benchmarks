@@ -1,0 +1,32 @@
+description<br />
+Permanganic acid<br />
+| 別称         = <br />
+| Section1 = <br />
+<br />
+| Section2 = <br />
+| Section3 = <br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E9%81%8E%E3%83%9E%E3%83%B3%E3%82%AC%E3%83%B3%E9%85%B8">過マンガン酸</a>&#39;は、化学式HMnO4で表される物質。マンガンの酸化数は+7、また名称に、過とあるが、分子内に-O-O-結合は存在せず過酸ではない。遊離酸は、単離されていない。高濃度だと分解しやすい。<br />
+<br />
+== 性質 ==<br />
+<a href="http://localhost/keyword/%E9%81%8E%E3%83%9E%E3%83%B3%E3%82%AC%E3%83%B3%E9%85%B8">過マンガン酸</a>の遊離酸と、塩は、強い酸化剤であり、有機物とともに加熱すると、爆発する可能性がある。<a href="http://localhost/keyword/%E9%81%8E%E3%83%9E%E3%83%B3%E3%82%AC%E3%83%B3%E9%85%B8">過マンガン酸</a>は、比較的強酸の性質を示す。<br />
+*HMnO4+H2O→H++MnO4- Pka=-2.4<br />
+<br />
+==生成==<br />
+七酸化二マンガンの、水溶液を数ヶ月放置すると<a href="http://localhost/keyword/%E9%81%8E%E3%83%9E%E3%83%B3%E3%82%AC%E3%83%B3%E9%85%B8">過マンガン酸</a>に加水分解する<br />
+*Mn2O7+H2O→2HMnO4<br />
+または、硫酸マンガン(II)と酸化鉛(IV)と希硫酸を混合させれば得られる。<br />
+また、<a href="http://localhost/keyword/%E9%81%8E%E3%83%9E%E3%83%B3%E3%82%AC%E3%83%B3%E9%85%B8">過マンガン酸</a>塩の粉末と濃硫酸を混合させて生成するというものもあるが、この反応は脱水を起こしてしまうのであまり用いられない。<br />
+<br />
+== 塩 ==<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:オキソ酸<br />
+Category:マンガンの化合物<br />
+Category:水素の化合物<br />

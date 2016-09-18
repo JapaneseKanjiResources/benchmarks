@@ -1,0 +1,69 @@
+description<br />
+<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>&#39; () とは機械などの組立に使用される締結部品の一つ。中央にめねじ（雌ネジ）と呼ばれる開口部が切ってあり、ボルトなどのおねじ（雄ネジ）部品と組合わせて使用される。一般には形状が六角柱をした六角<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>を指す。<br />
+<br />
+形状は規格化されており、。日本では、M5, M6 などのメートルねじである。<br />
+<br />
+==種類==<br />
+六角<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a><br />
+; 六角<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>( JIS B 1181)<br />
+:* 1種<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>(8割<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>)-厚さがねじサイズの約8割のもので主に片<a href="http://localhost/keyword/%E9%9D%A2%E5%8F%96%E3%82%8A">面取り</a><br />
+:* 3種<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>(6割<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>)-厚さがねじサイズの約6割のもので主に両<a href="http://localhost/keyword/%E9%9D%A2%E5%8F%96%E3%82%8A">面取り</a><br />
+:* 厚<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>(10割<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>)-厚さがねじサイズの約10割のもので主に両<a href="http://localhost/keyword/%E9%9D%A2%E5%8F%96%E3%82%8A">面取り</a><br />
+; ゆるみ止め<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a><br />
+:; 溝付き六角<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a><br />
+溝付き六角<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a><br />
+::ゆるみ止め<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>の1種で、溝が西洋式の城壁にある塔のようにみえることからキャッスル・<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>とも呼ばれる。<br />
+:; ナイロン<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a><br />
+:: <a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>の内部にナイロンのリングがあり、緩み止めの効果がある。<br />
+:; ハードロック<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a><br />
+:: くさび止めの効果を利用したゆるみ止め<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>[http://www.hardlock.co.jp/hl/ 緩み止め<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a> - ハードロック<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>とは]。<br />
+:; U<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a><br />
+:: フリクションリングを組み込んだゆるみ止め<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>[http://www.fun.co.jp/u_nut.html これがU-<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>です。｜ゆるみ止め<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>の総合メーカー　株式会社冨士精密]。<br />
+; つば付き六角<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>（フランジ<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>、フランジ付き六角<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>）<br />
+:つばの付いている<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a><br />
+; 座付き<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a><br />
+六角袋<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a><br />
+; 六角袋<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>(, JIS B 1183)<br />
+: ねじ穴が貫通していない形状のもので、機械外面に取付けられる。<br />
+; 四角<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>(Square Nuts, JIS B 1163)<br />
+: 断面形状が四角形状の<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>。<br />
+蝶<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a><br />
+; 蝶<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>(, JIS B 1185)<br />
+: 蝶の羽のような形状をしており、手で締付けや取外しができる場所に使う<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>。 <br />
+アイ<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a><br />
+; アイ<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>(, JIS B 1169)<br />
+: 頭部がリング形状になっている<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>で、輸送等のフックを取り付ける為に使用される。<br />
+; 溶接<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a><br />
+: 薄い板材などでねじが切り込めない場合に母材に直接溶接する<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>、形状はさまざまで六角のものから長円型のものまでさまざま<br />
+; インサート<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a><br />
+:; ヘリサート・エンザート<br />
+:: プラスチックなど直接ねじを切っても強度がたもてないような金属・木材以外のものに埋め込む形で使用する<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a><br />
+:; 鬼目<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>・鬼<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a><br />
+:: 木材など直接ねじが切れないときに埋め込む<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a><br />
+:; カレイ<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a><br />
+:: 薄い鋼板等に、穴を開けた部分にプレス機などでカレイ<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>を圧入して<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>の首下部分の<a href="http://localhost/keyword/%E3%83%8A%E3%83%BC%E3%83%AB">ナール</a>と呼ばれる溝でかしめる。<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>の反対側は平坦なままとなる。<br />
+:; <a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>サート<br />
+:: 薄い母材に挿入し、専用のツールを使用してブラインドリベットと同様にかしめる。母材の片側だけで作業を行えるので、通常の<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>では手が届かない場所にも使える。<br />
+<br />
+==ゆるみ止め==<br />
+針金(ロックワイヤ)<br />
+<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>が振動などで緩まないようにバネ座金、歯付座金を併用したり、2個の<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>を使用(二重<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>、ダブル・<a href="http://localhost/keyword/%E3%83%8A%E3%83%83%E3%83%88">ナット</a>)したり、針金(ロックワイヤ)を通して固定される。<br />
+<br />
+<br />
+==関連項目==<br />
+<br />
+<br />
+<br />
+== 参照 ==<br />
+<br />
+<br />
+== 外部リンク ==<br />
+*[http://www.nejinews.co.jp/ ファスニングジャーナル]（株式会社ファスニングジャーナル）<br />
+<br />
+<br />
+<br />
+<br />
+Category:ねじ<br />
+Category:機械要素<br />

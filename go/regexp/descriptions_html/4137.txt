@@ -1,0 +1,71 @@
+description<br />
+伊豆急行線<br />
+|キロ程 = 40.7<br />
+|起点駅 = 伊東<br />
+|所在地 = 静岡県下田市落合92-1<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 島式 1面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/961%E5%B9%B4">961年</a>（昭和<a href="http://localhost/keyword/36%E5%B9%B4">36年</a>）12月10日<br />
+|廃止年月日 =<br />
+|乗車人員 =<br />
+|乗降人員 = 131<br />
+|統計年度 = 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>度<br />
+|乗換 =<br />
+|備考 =無人駅<br />
+}}<br />
+ホーム（駅舎脇から、200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>11月）<br />
+&#39;<a href="http://localhost/keyword/%E7%A8%B2%E6%A2%93%E9%A7%85">稲梓駅</a>&#39;（いなずさえき）は、静岡県下田市落合92-1にある伊豆急行伊豆急行線の駅。普通列車のみが停車する。<br />
+<br />
+== 駅構造 ==<br />
+島式ホーム1面2線を有する地上駅。<br />
+<br />
+; のりば<br />
+<br />
+※通過列車待避の場合など、のりばが変更になる列車がある。<br />
+<br />
+=== 構内 ===<br />
+* SuicaおよびSuicaと相互利用可能なICカード（PASMO等）は、伊豆急行線内全駅で利用可能であるが当駅にチャージ機は設置されずチャージサービスには対応していない。<br />
+<br />
+== 利用状況 ==<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>度の1日平均乗降人員は131人（静岡県統計年鑑による）<br />
+<br />
+== 駅周辺 ==<br />
+山に囲まれている。周辺に<a href="http://localhost/keyword/%E8%A6%B3%E5%85%89%E5%9C%B0">観光地</a>はなく、農村地帯に民家が見られるのみである。<br />
+<br />
+* 下田市立稲梓小学校<br />
+* 下田市立稲梓中学校<br />
+* 米山薬師<br />
+* 下田達磨大師<br />
+* [http://www.uehara-buddhismart.or.jp/index.html 上原仏教美術館]<br />
+* [http://www.uehara-museum.or.jp/ 上原近代美術館]<br />
+* 国道414号<br />
+<br />
+== 路線バス ==<br />
+* 西伊豆東海バス 落合停留所 - 駅から徒歩約10分、松崎・堂ヶ島方面行のバスが発着。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/961%E5%B9%B4">961年</a>（昭和<a href="http://localhost/keyword/36%E5%B9%B4">36年</a>）12月10日 - 開業。<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）4月1日 - 終日無人化。<br />
+<br />
+== 駅名の由来 ==<br />
+駅の設置場所にちなむ。開業当時は賀茂郡下田町だったが、この地が下田町になる前に稲梓村の中心地だった事が由来。<br />
+<br />
+== 隣の駅 ==<br />
+;  48px 伊豆急行<br />
+:  伊豆急行線<br />
+:: 河津駅 - &#39;<a href="http://localhost/keyword/%E7%A8%B2%E6%A2%93%E9%A7%85">稲梓駅</a>&#39; - 蓮台寺駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+* 谷津トンネル<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:静岡県の鉄道駅<br />
+なすさ<br />
+Category:伊豆急行の鉄道駅<br />
+Category:下田市の交通<br />
+Category:1<a href="http://localhost/keyword/961%E5%B9%B4">961年</a>開業の鉄道駅<br />

@@ -1,0 +1,76 @@
+description<br />
+上越線<br />
+|キロ程 = 87.4<br />
+|起点駅 = 高崎<br />
+|所在地 = 新潟県南魚沼郡湯沢町大字土樽5<a href="http://localhost/keyword/135">135</a><br />
+|緯度度=36|緯度分=54|緯度秒=33.81<br />
+|経度度=138|経度分=50|経度秒=54.14<br />
+|開業年月日 = 1<a href="http://localhost/keyword/931%E5%B9%B4">931年</a>（昭和<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）9月1日<br />
+|廃止年月日 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面3線<br />
+|乗車人員 = <br />
+|統計年度 = <br />
+|備考 = 無人駅（自動券売機 有）<br />
+|備考全幅  = <br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E8%B6%8A%E5%BE%8C%E4%B8%AD%E9%87%8C%E9%A7%85">越後中里駅</a>&#39;（えちごなかざとえき）は、新潟県南魚沼郡湯沢町大字土樽にある、東日本旅客鉄道（JR東日本）上越線の駅である。<br />
+<br />
+駅裏手の湯沢中里スキー場に直結している。<br />
+<br />
+越後湯沢方面からの上り列車の一部が当駅までで折り返し、土樽・水上方面へは、定期の<a href="http://localhost/keyword/%E6%97%85%E5%AE%A2%E5%88%97%E8%BB%8A">旅客列車</a>が、平日は1日5本、土曜・休日は10時01分の列車が加わって6本のみである。<br />
+<br />
+== 年表 ==<br />
+* 1<a href="http://localhost/keyword/931%E5%B9%B4">931年</a>（昭和<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）9月1日 - 日本国有鉄道（国鉄）上越線水上 - 越後湯沢間開通時に開業。一般駅。<br />
+* 1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>（昭和<a href="http://localhost/keyword/45%E5%B9%B4">45年</a>）12月15日 - 貨物の取扱を廃止（旅客駅となる）。<br />
+* 19<a href="http://localhost/keyword/80%E5%B9%B4">80年</a>（昭和<a href="http://localhost/keyword/55%E5%B9%B4">55年</a>）12月1日 - ２代目駅舎に改築。<br />
+* 1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>（昭和<a href="http://localhost/keyword/59%E5%B9%B4">59年</a>）2月1日 - 荷物の取扱を廃止。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、JR東日本の駅となる。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線と島式ホーム1面2線、計2面3線のホームを有する地上駅。単式ホーム（1番線）に接して駅舎がある。2つのホームは跨線橋で連絡しており、その跨線橋から駅舎とは別に東口への通路が延びている。東口は湯沢中里スキー場の中心的施設・中里スキーセンター内に設けられている。<br />
+<br />
+19<a href="http://localhost/keyword/80%E5%B9%B4">80年</a>（昭和<a href="http://localhost/keyword/55%E5%B9%B4">55年</a>）築の駅舎はコンクリート平屋建て。内部には出札口・改札口のほか、観光案内所もあり、スキーシーズンにはリフト券の売場も設けられる。駅舎内部には簡易自動券売機が1台設置されているが、このほかはいずれもスキー場営業期間に合わせた季節営業となっている。越後湯沢駅管理の無人駅で、200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）のスキーシーズンまでは臨時駅員が配置されていた。以前はホーム上に、立ち食いそば屋も有ったが、後に撤去された。<br />
+<br />
+駅からは、スキー場の休憩施設として利用されている旧形客車（スハ43系）を見ることができる。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 湯沢中里スキー場 - 東口（中里スキーセンター）駅前<br />
+* 土樽郵便局<br />
+<br />
+=== バス路線 ===<br />
+* バス停「中里駅角」（南越後観光バス）。スキー場とは反対側の出口。駅出口から徒歩1 - 2分。<br />
+<br />
+== ギャラリー ==<br />
+<br />
+プラットホーム（200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>9月）<br />
+東口の入る中里スキーセンター（200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>10月）<br />
+雪に埋もれる駅名標（200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>1月）<br />
+<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 上越線<br />
+:: 土樽駅 - &#39;<a href="http://localhost/keyword/%E8%B6%8A%E5%BE%8C%E4%B8%AD%E9%87%8C%E9%A7%85">越後中里駅</a>&#39; - 岩原スキー場前駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=279 JR東日本 <a href="http://localhost/keyword/%E8%B6%8A%E5%BE%8C%E4%B8%AD%E9%87%8C%E9%A7%85">越後中里駅</a>]<br />
+* [http://www.yuzawa-nakazato.com/ 湯沢中里スキー場]<br />
+* [http://www.nakazato.com/ 湯沢中里観光協会]<br />
+<br />
+<br />
+<br />
+Category:新潟県の鉄道駅<br />
+ちこなかさと<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/931%E5%B9%B4">931年</a>開業の鉄道駅<br />
+Category:上越線<br />
+えちこなかさとえき<br />

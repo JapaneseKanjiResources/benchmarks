@@ -1,0 +1,88 @@
+description<br />
+ 兵庫県津名郡広石村（現：洲本市五色町広石下）<br />
+| death_date = <br />
+| death_place =  東京都<br />
+| residence = <br />
+| nationality = <br />
+| field = 冶金学、金属工学<br />
+| work_institution = 東京帝国大学千葉工業大学<br />
+| alma_mater = 東京帝国大学<br />
+| doctoral_advisor = <br />
+| doctoral_students = <br />
+| known_for = MK鋼の発明<br />
+| prizes =帝国学士院恩賜賞（1<a href="http://localhost/keyword/945%E5%B9%B4">945年</a>）藍綬褒章（1<a href="http://localhost/keyword/950%E5%B9%B4">950年</a>）文化勲章（1<a href="http://localhost/keyword/950%E5%B9%B4">950年</a>）文化功労者（1<a href="http://localhost/keyword/951%E5%B9%B4">951年</a>）勲一等瑞宝章（1<a href="http://localhost/keyword/966%E5%B9%B4">966年</a>）勲一等旭日大綬章（1<a href="http://localhost/keyword/975%E5%B9%B4">975年</a>）--&gt;<br />
+| religion = <br />
+| footnotes = <br />
+}}<br />
+&#39;三島 徳七&#39;（みしま とくしち、1<a href="http://localhost/keyword/893%E5%B9%B4">893年</a>（明治<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>）2月24日 - 1<a href="http://localhost/keyword/975%E5%B9%B4">975年</a>（昭和<a href="http://localhost/keyword/50%E5%B9%B4">50年</a>）11月19日）は、日本の冶金学者。産業技術進歩に大きな役割を果たしたMK鋼の発明者として知られる。東京大学名誉教授。<br />
+<br />
+== 人物・略歴 ==<br />
+1<a href="http://localhost/keyword/893%E5%B9%B4">893年</a>（明治<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>）、兵庫県津名郡広石村下組（現：洲本市五色町広石下）の農家である喜住甚平の5男として生まれる。190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（明治40年）に広石尋常高等小学校を卒業した後、独学で学び1<a href="http://localhost/keyword/911%E5%B9%B4">911年</a>（明治<a href="http://localhost/keyword/44%E5%B9%B4">44年</a>）に立教中学校への編入試験の末、同校に入学した。その後、旧制第一高等学校を経て、1<a href="http://localhost/keyword/920%E5%B9%B4">920年</a>（大正<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）、東京帝国大学工学部冶金学科を卒業した。同年に三島通良と養子縁組し娘の三島二三子と結婚して三島姓となっている。同大学の助手、講師を経て翌年に助教授へと進んだ。1<a href="http://localhost/keyword/922%E5%B9%B4">922年</a>（大正<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）のころより後藤正治と共同でアルミニウムの二元･三元合金の状態図作成の研究を続け、1<a href="http://localhost/keyword/928%E5%B9%B4">928年</a>（昭和3年）に「ニッケル及びニッケル鋼合金の焼鈍脆性」の研究で工学博士の学位を取得した。<br />
+<br />
+1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>（昭和<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）、鉄‐ニッケル合金の磁気非可逆性について究明する中で、鉄にニッケルを加えたニッケル鋼は磁石とならないが、この合金にアルミニウムを加えることにより強大な永久磁石となることを発見した。これにコバルトや銅を加えるなどの改良の末、1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>（昭和<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）に、強磁性合金を発明して特許を取得した。徳七はこの合金を三島と旧姓である喜住の頭文字からMK鋼と名付けた。MK鋼は発電器、通信機、スピーカーなど様々な用途で使われ、世界で使われる永久磁石の8割を占めるまでになった。アルミニウム・ニッケル・コバルト系永久磁石は現代でもアルニコ磁石として頻繁に使われており、MK鋼はその先駆けとなった。1<a href="http://localhost/keyword/938%E5%B9%B4">938年</a>（昭和<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）、東京帝国大学工学部冶金学科教授に就任した。徳七の発明は評価され、1<a href="http://localhost/keyword/949%E5%B9%B4">949年</a>（昭和<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）に日本学士院会員を拝命し、1<a href="http://localhost/keyword/950%E5%B9%B4">950年</a>（昭和<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）に文化勲章を受章した。1<a href="http://localhost/keyword/953%E5%B9%B4">953年</a>（昭和2<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）に東京大学を退官し、同名誉教授となっている。<br />
+<br />
+東京大学教授退官前後から、日本鋳物協会会長、日本シェルモールド協会会長、綜合鋳物センター会長、新技術開発事業団開発審議会会長、日本鉄鋼協会会長、日本金属学会会長、日本学術会議会員など各種機関の重要な位置を歴任し、1<a href="http://localhost/keyword/975%E5%B9%B4">975年</a>（昭和<a href="http://localhost/keyword/50%E5%B9%B4">50年</a>）11月19日に東京で没した。墓所は東京都府中市の多磨霊園にある。1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>（昭和<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>）には工業所有制度百周年記念行事委員会より日本の発明家10傑の1人に選ばれている。<br />
+<br />
+1<a href="http://localhost/keyword/917%E5%B9%B4">917年</a>にKS鋼を発明した東北帝国大学の本多光太郎は磁石開発における競争相手であった。KS鋼に比べ、MK鋼は材料価格も安く、製造費用を抑えることができ、また、KS鋼の倍の500エルステッド以上の<a href="http://localhost/keyword/%E4%BF%9D%E7%A3%81%E5%8A%9B">保磁力</a>を有していた。本多は、1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>にMK鋼を上回る新KS鋼を開発し、MK鋼とほぼ同水準の材料を作りあげている。<br />
+<br />
+長男は三島良績（元東京大学工学部原子力工学科教授）、孫は三島良直（東京工業大学学長）。<br />
+<br />
+== 年譜 ==<br />
+* 1<a href="http://localhost/keyword/893%E5%B9%B4">893年</a> - 農家・喜住甚平の5男（7人兄弟の末っ子）として生まれる。<br />
+* 1<a href="http://localhost/keyword/913%E5%B9%B4">913年</a> - 立教中学を卒業、第一高等学校入学<br />
+* 1<a href="http://localhost/keyword/916%E5%B9%B4">916年</a> - 第一高等学校卒業、東京帝国大学入学<br />
+* 1<a href="http://localhost/keyword/920%E5%B9%B4">920年</a> - 東京帝国大学工学部冶金学料卒業、同校助手を経て講師となる。同校講師の三島通良の養子となる。<br />
+* 1<a href="http://localhost/keyword/921%E5%B9%B4">921年</a> - 東京帝国大学助教授となる。<br />
+* 1<a href="http://localhost/keyword/928%E5%B9%B4">928年</a> - 学位論文　「ニツケル」及「ニツケル」合金ノ焼鈍脆性 東京帝国大学 博士論文書誌<a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a><br />
+* 1<a href="http://localhost/keyword/931%E5%B9%B4">931年</a> - 「MK磁石」と命名された画期的な永久磁石を発明する。<br />
+* 1<a href="http://localhost/keyword/932%E5%B9%B4">932年</a> - 服部報公賞受賞<br />
+* 1<a href="http://localhost/keyword/933%E5%B9%B4">933年</a> - 日本鉄鋼協会香村賞受賞<br />
+* 1<a href="http://localhost/keyword/937%E5%B9%B4">937年</a> - 紺綬褒章受章<br />
+* 1<a href="http://localhost/keyword/938%E5%B9%B4">938年</a> - 帝国発明協会恩賜賞受賞、東京帝国大学教授を務める（1<a href="http://localhost/keyword/953%E5%B9%B4">953年</a>迄）。<br />
+* 1<a href="http://localhost/keyword/939%E5%B9%B4">939年</a> - 科学審議会委員、自動車技術審議会委員に選任される。<br />
+* 1<a href="http://localhost/keyword/940%E5%B9%B4">940年</a> - 社団法人 発明協会理事に選任される（1<a href="http://localhost/keyword/966%E5%B9%B4">966年</a>迄）。<br />
+* 1<a href="http://localhost/keyword/941%E5%B9%B4">941年</a> - 日本学術振興会小委員会委員長に選任される。<br />
+* 1<a href="http://localhost/keyword/942%E5%B9%B4">942年</a> - 勲三等瑞宝章受章、科学技術審議会委員に選任される（1<a href="http://localhost/keyword/948%E5%B9%B4">948年</a>迄）。<br />
+* 1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a> - 造幣局研究顧問に選任される。<br />
+* 1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a> - 戦時研究員に選任される。<br />
+* 1<a href="http://localhost/keyword/945%E5%B9%B4">945年</a> - 「特殊鋼殊に MK磁石鋼の研究」により帝国学士院恩賜賞を受賞<br />
+* 1<a href="http://localhost/keyword/947%E5%B9%B4">947年</a> - 社団法人日本鉄鋼協会会長に選任される。<br />
+* 1<a href="http://localhost/keyword/948%E5%B9%B4">948年</a> - 日本学術会議会員となる。<br />
+* 1<a href="http://localhost/keyword/949%E5%B9%B4">949年</a> - 日本学士院会員、社団法人日本金属学会会長に選任される。<br />
+* 1<a href="http://localhost/keyword/950%E5%B9%B4">950年</a> - 藍綬褒章、文化勲章受章<br />
+**10月 - 千葉工業大学理事に就任<br />
+* 1<a href="http://localhost/keyword/951%E5%B9%B4">951年</a> - 文化功労者<br />
+* 1<a href="http://localhost/keyword/953%E5%B9%B4">953年</a> - 東京大学名誉教授<br />
+* 1<a href="http://localhost/keyword/956%E5%B9%B4">956年</a> - 日本電子力研究所参与、日本原子力委員会参与に選任される（1<a href="http://localhost/keyword/975%E5%B9%B4">975年</a>迄）。<br />
+* 1<a href="http://localhost/keyword/957%E5%B9%B4">957年</a> - アメリカ金属学会アルバート・ソーバー功労賞<br />
+* 1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a> - イタリア金属学会ルイジ・ロサーナ賞<br />
+* 1<a href="http://localhost/keyword/966%E5%B9%B4">966年</a> - 勲一等瑞宝章受章<br />
+* 1<a href="http://localhost/keyword/967%E5%B9%B4">967年</a> - 日本鉄鋼協会本多記念賞<br />
+* 1<a href="http://localhost/keyword/975%E5%B9%B4">975年</a> - 死去、勲一等旭日大綬章追増<br />
+<br />
+==脚注==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の十大発明家<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jpo.go.jp/seido/rekishi/pdf/10mishima.pdf <a href="http://localhost/keyword/%E4%B8%89%E5%B3%B6%E5%BE%B3%E4%B8%83">三島徳七</a>の代表的発明（MK鋼）] 特許庁<br />
+<br />
+<br />
+<br />
+Category:日本の工学者<br />
+Category:冶金学者<br />
+Category:日本の発明家<br />
+Category:日本学士院会員<br />
+Category:藍綬褒章受章者<br />
+Category:文化勲章受章者<br />
+Category:勲一等瑞宝章受章者<br />
+Category:勲一等旭日大綬章受章者<br />
+Category:東京大学出身の人物<br />
+Category:東京大学の教員<br />
+Category:千葉工業大学の人物<br />
+Category:日本学術会議<br />
+Category:兵庫県出身の人物<br />
+Category:1<a href="http://localhost/keyword/893%E5%B9%B4">893年</a>生<br />
+Category:1<a href="http://localhost/keyword/975%E5%B9%B4">975年</a>没<br />

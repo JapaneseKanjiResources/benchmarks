@@ -1,0 +1,40 @@
+description<br />
+ 広島県\t<br />
+| death_date = \t<br />
+| death_place =<br />
+| residence = <br />
+| nationality = <br />
+| field = 分子生物学\t<br />
+| work_institution = 名古屋大学セントルイス・ワシントン大学スタンフォード大学<br />
+| alma_mater = 名古屋大学<br />
+| doctoral_advisor = 山田常雄<br />
+| doctoral_students =<br />
+| known_for = 岡崎フラグメントの発見<br />
+| prizes = <br />
+| religion =<br />
+| footnotes =\t<br />
+}}<br />
+&#39;岡崎 令治&#39;（おかざき れいじ、1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>10月8日 - 1<a href="http://localhost/keyword/975%E5%B9%B4">975年</a>8月1日）は、日本の分子生物学者。広島市白島（現中区白島）出身。 <br />
+<br />
+==略歴==<br />
+広島高等師範学校附属中学校（現・広島大学附属中学校・高等学校）<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>の時、原子爆弾の黒い雨を浴びた。その後、山口県立岩国中学校（現・山口県立岩国高等学校）、第五高等学校を経て、1<a href="http://localhost/keyword/953%E5%B9%B4">953年</a>、名古屋大学理学部生物学科卒業。発生生物学の山田常雄教授のもとで形成体（<a href="http://localhost/keyword/%E3%82%AA%E3%83%BC%E3%82%AC">オーガ</a>ナイザー）について研究。<br />
+<br />
+19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>、セントルイス・ワシントン大学のストロミンジャー、アーサー・<a href="http://localhost/keyword/%E3%82%B3%E3%83%BC%E3%83%B3">コーン</a>バーグのもとに留学。スタンフォード大学を経て、1<a href="http://localhost/keyword/963%E5%B9%B4">963年</a>、名古屋大学理学部化学教室の鈴木旺教授の講座の助教授として帰国。<br />
+<br />
+1<a href="http://localhost/keyword/966%E5%B9%B4">966年</a>、DNAの合成前駆体である短断片（岡崎フラグメント）を発見し、Proc. Natl Acad. Sci USA誌、ならびにコールド<a href="http://localhost/keyword/%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0">スプリング</a>ハーバーシンポジウムで発表する。1<a href="http://localhost/keyword/967%E5%B9%B4">967年</a>、同分子生物学研究施設教授。1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>、内藤記念科学振興賞受賞。1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>、朝日賞受賞。1<a href="http://localhost/keyword/972%E5%B9%B4">972年</a>、岡崎フラグメント間をつなぐRNAを見いだし、DNA非連続合成のモデルを完成させた。<br />
+<br />
+1<a href="http://localhost/keyword/975%E5%B9%B4">975年</a>、広島での被爆が原因の慢性骨髄性白血病で米国旅行中に44歳で急逝した。その後、夫人の岡崎恒子（名古屋大学教授、のちに藤田保健衛生大学客員教授）により研究は引き継がれた。 分子生物学の教科書なら必ず記載されている岡崎フラグメントの研究は、日本の分子生物学の金字塔であると言われる。「何が「essential」か、そして「essential」なことを解析するためにはどのような決定的実験をやるべきか。」の名言が残されている。<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.itbm.nagoya-u.ac.jp/okazaki_award/home_jp.html Tsuneko &amp; Reiji Okazaki Award]<br />
+<br />
+<br />
+Category:日本の生物学者<br />
+Category:日本の分子生物学者<br />
+Category:朝日賞受賞者<br />
+Category:広島原爆の被爆者<br />
+Category:名古屋大学の教員<br />
+Category:名古屋大学出身の人物<br />
+Category:広島市出身の人物<br />
+Category:1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>生<br />
+Category:1<a href="http://localhost/keyword/975%E5%B9%B4">975年</a>没<br />

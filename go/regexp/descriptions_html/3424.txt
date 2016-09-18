@@ -1,0 +1,77 @@
+description<br />
+<br />
+<br />
+|所属事業者 = 23px北海道旅客鉄道（JR北海道）<br />
+|所属路線   = ■根室本線<br />
+|キロ程     = 184.9<br />
+|起点駅     = 滝川<br />
+|所在地     = 北海道中川郡幕別町札内中央町<br />
+|緯度度=42|緯度分=54|緯度秒=45.71<br />
+|経度度=143|経度分=15|経度秒=22.49<br />
+|駅構造     = 地上駅<br />
+|ホーム     = 2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/910%E5%B9%B4">910年</a>（明治<a href="http://localhost/keyword/43%E5%B9%B4">43年</a>）1月7日<br />
+|廃止年月日 = <br />
+|乗車人員   = 287<br />
+|統計年度   = 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>度<br />
+|乗換       = <br />
+|備考       = 業務委託駅みどりの窓口 有<br />
+}}<br />
+1<a href="http://localhost/keyword/977%E5%B9%B4">977年</a>の<a href="http://localhost/keyword/%E6%9C%AD%E5%86%85%E9%A7%85">札内駅</a>と周囲約1km範囲。右下が根室方面。<br />
+&#39;<a href="http://localhost/keyword/%E6%9C%AD%E5%86%85%E9%A7%85">札内駅</a>&#39;（さつないえき）は、北海道中川郡幕別町札内中央町にある北海道旅客鉄道（JR北海道）根室本線の駅である。駅番号は&#39;K32&#39;。電報略号は&#39;サナ&#39;。<br />
+<br />
+== 歴史 == <br />
+* 1<a href="http://localhost/keyword/910%E5%B9%B4">910年</a>（明治<a href="http://localhost/keyword/43%E5%B9%B4">43年</a>）1月7日 - 国有鉄道釧路線（後の根室本線）の駅として開業。一般駅。<br />
+* 1<a href="http://localhost/keyword/974%E5%B9%B4">974年</a>（昭和<a href="http://localhost/keyword/49%E5%B9%B4">49年</a>）12月5日 - 駅舎改築。<br />
+* 1<a href="http://localhost/keyword/978%E5%B9%B4">978年</a>（昭和<a href="http://localhost/keyword/53%E5%B9%B4">53年</a>）12月1日 - 人道跨線橋設置。<br />
+* 1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a>（昭和<a href="http://localhost/keyword/57%E5%B9%B4">57年</a>）9月10日 - 専用線発着を除く車扱貨物の取扱を廃止。<br />
+* 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>（昭和<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>）6月1日 - 荷物の取扱を廃止。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、北海道旅客鉄道・日本貨物鉄道の駅となる。<br />
+* 1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a>（平成<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）4月1日 - 日本貨物鉄道の駅が廃止され、貨物の取扱が終了。<br />
+<br />
+== 駅名の由来 ==<br />
+この地を流れている札内川が一定の川底がなく、水が増すごとに流れを変え、水が減ずると一帯が河原となる事に因り、アイヌ語の「オ・サッ・ナイ→サッナイ（川尻のかれている川）」によるもの。<br />
+<br />
+== 駅構造 ==<br />
+駅舎内<br />
+相対式ホーム2面2線を有する地上駅。ホーム中央に、構内踏切がある。2線とも上下列車が使用可能となっているが、本線は駅舎と反対側の2番線となっており、特急等の通過列車は上下とも2番線を通過し、普通列車は原則上下とも1番線に停車する。<br />
+<br />
+駅舎は駅構内の北側にある。<a href="http://localhost/keyword/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%AB%E9%81%93%E6%9D%B1%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9">ジェイ・アール道東トラベルサービス</a>が業務を受託する業務委託駅で、窓口営業時間は7時から16時50分まで、日曜・祝日は休業となる。みどりの窓口が設置されている。<br />
+<br />
+かつては駅舎東側に貨物ホームがあったが、1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a>（昭和<a href="http://localhost/keyword/57%E5%B9%B4">57年</a>）9月に廃止された。また、駅の東にあった大協石油の油槽所や岩谷産業のLPGセンターへの専用線もあったが、1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a>（平成<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）4月までにすべて廃止された。<br />
+<br />
+== 駅周辺 ==<br />
+大きな農業倉庫が付近にあるなど、農業が栄えている街である。幕別町の一大集落だが、むしろ距離的に近い帯広の新興住宅街としての位置づけが大きい。<br />
+* 北海道道441号札内停車場線<br />
+* 国道38号<br />
+* 幕別町役場札内支所<br />
+* 帯広警察署札内交番<br />
+* 札内郵便局<br />
+* 帯広信用金庫札内支店<br />
+* 札内<a href="http://localhost/keyword/%E8%BE%B2%E6%A5%AD%E5%8D%94%E5%90%8C%E7%B5%84%E5%90%88">農業協同組合</a>（JAさつない）<br />
+* 私立江陵高等学校<br />
+* 幕別温泉緑館<br />
+* 十勝バス「札内」停留所<br />
+<br />
+== 隣の駅 ==<br />
+; 北海道旅客鉄道<br />
+: 根室本線<br />
+:: <a href="http://localhost/keyword/%E5%B8%AF%E5%BA%83%E9%A7%85">帯広駅</a> (K31) - &#39;<a href="http://localhost/keyword/%E6%9C%AD%E5%86%85%E9%A7%85">札内駅</a> (K32)&#39; - 稲士別駅 (K33)<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jrkushiro.jp/eki/nemuro_h/satsunai.html <a href="http://localhost/keyword/%E6%9C%AD%E5%86%85%E9%A7%85">札内駅</a>（JR北海道釧路支社）]<br />
+<br />
+<br />
+<br />
+<br />
+Category:北海道の鉄道駅<br />
+つない<br />
+Category:北海道旅客鉄道の鉄道駅<br />
+Category:日本貨物鉄道の廃駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:根室本線<br />
+Category:幕別町<br />
+Category:1<a href="http://localhost/keyword/910%E5%B9%B4">910年</a>開業の鉄道駅<br />

@@ -1,0 +1,72 @@
+description<br />
+<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面2線<br />
+|開業年月日 = 19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>（大正<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）7月29日『大分県史 近代編 3』 大分県、1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>。<br />
+|廃止年月日 =<br />
+|乗車人員 = 64<br />
+|統計年度 = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|乗換 =<br />
+|備考 = 無人駅（1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>（昭和<a href="http://localhost/keyword/46%E5%B9%B4">46年</a>）2月10日挾間町誌編集委員会 『挾間町誌』 挾間町誌刊行会、1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>10月。）<br />
+}}<br />
+ホーム<br />
+&#39;<a href="http://localhost/keyword/%E5%8D%97%E7%94%B1%E5%B8%83%E9%A7%85">南由布駅</a>&#39;（みなみゆふえき）は、大分県由布市湯布院町中川にある、九州旅客鉄道（JR九州）久大本線の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>（大正<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）7月29日 - 鉄道省（国有鉄道）の駅として開業。<br />
+* 1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>（昭和<a href="http://localhost/keyword/46%E5%B9%B4">46年</a>）2月10日 - 無人化。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により九州旅客鉄道が継承が山陽新幹線以外の九州地区の旅客鉄道業務を継承『交通年鑑 昭和<a href="http://localhost/keyword/63%E5%B9%B4">63年</a>版』 交通協力会、19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>3月。今村都南雄 『民営化の效果と現実NTTとJR』 中央法規出版、1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>8月。ISBN 978-4805840863。<br />
+<br />
+== 駅構造 ==<br />
+相対式ホーム2面2線を有する地上駅。ホーム同士は構内踏切で結ばれている。。<br />
+<br />
+1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>（昭和<a href="http://localhost/keyword/46%E5%B9%B4">46年</a>）2月10日から無人駅になった。<br />
+。<br />
+<br />
+== 利用状況 ==<br />
+1<a href="http://localhost/keyword/965%E5%B9%B4">965年</a>（昭和40年）度には乗車人員が98,579人（定期外:24,728人、定期:73,851人）、降車人員が93,929人で、手荷物（発送:77個、到着:46個）や小荷物（発送:184個、到着:215個）も取り扱っていた大分県総務部統計課 『昭和<a href="http://localhost/keyword/41%E5%B9%B4">41年</a>版 大分県統計年鑑』 大分県統計協会、1<a href="http://localhost/keyword/966%E5%B9%B4">966年</a>3月。。<br />
+<br />
+20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）度の乗車人員は人（定期外:2,559人、定期:16,481人）、降車人員は23,779人である。<br />
+<br />
+※1日平均乗車人員の数値は各年度版「[http://www.pref.oita.jp/site/toukei/toukeinenkan.html 大分県統計年鑑]」による年間乗車人員の値を各年度の日数で割った値。<br />
+<br />
+<br />
+<br />
+** 一日平均乗車人員は年間乗車人員の値を各年度の日数で割った値。<br />
+<br />
+== 駅周辺 ==<br />
+* 湯布院ハーベストファーム<br />
+* 南由布郵便局<br />
+* 国道210号<br />
+<br />
+== 隣の駅 ==<br />
+; 九州旅客鉄道 <br />
+: 久大本線<br />
+:: 由布院駅 - &#39;<a href="http://localhost/keyword/%E5%8D%97%E7%94%B1%E5%B8%83%E9%A7%85">南由布駅</a>&#39; - 湯平駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+=== 注釈 ===<br />
+<br />
+<br />
+=== 出典 ===<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* <br />
+<br />
+<br />
+<br />
+<br />
+Category:大分県の鉄道駅<br />
+なみゆふ<br />
+Category:九州旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>開業の鉄道駅<br />
+Category:久大本線<br />
+みなみゆふえき<br />

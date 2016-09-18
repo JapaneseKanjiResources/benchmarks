@@ -1,0 +1,120 @@
+description<br />
+&#39;TS 15&#39;<br />
+|所属事業者 = 32px 東武鉄道<br />
+|所在地 = 埼玉県草加市谷塚一丁目1-22<br />
+|緯度度=35|緯度分=48|緯度秒=51.01<br />
+|経度度=139|経度分=48|経度秒=4.74<br />
+|開業年月日 = 19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>（大正<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）10月1日<br />
+|駅構造 = 高架駅<br />
+|ホーム = 1面2線<br />
+|廃止年月日 =<br />
+|乗降人員 = 36,502<br />
+|統計年度 = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|所属路線 = TS 伊勢崎線（東武スカイツリーライン）<br />
+|前の駅 = TS 14 竹ノ塚<br />
+|駅間A = 2.5<br />
+|駅間B = 1.6<br />
+|次の駅 = 草加 TS 16<br />
+|キロ程 = 15.9<br />
+|起点駅 = 浅草<br />
+|備考 =<br />
+}}<br />
+}<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+↓草加駅<br />
+|}<br />
+|}<br />
+西口（200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>12月）<br />
+&#39;<a href="http://localhost/keyword/%E8%B0%B7%E5%A1%9A%E9%A7%85">谷塚駅</a>&#39;（やつかえき）は、埼玉県草加市谷塚一丁目にある東武鉄道伊勢崎線の駅である。「東武スカイツリーライン」の愛称区間に含まれている。駅番号は&#39;TS 15&#39;。<br />
+<br />
+== 年表 ==<br />
+* 19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>（大正<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）10月1日 - 開業。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>） - 2面3線化。<br />
+* 19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>（昭和<a href="http://localhost/keyword/63%E5%B9%B4">63年</a>）8月9日 - 高架化工事完了。1面4線化。<br />
+* 19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>（平成<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）7月23日 - エスカレーター2基が供用開始。<br />
+* 1<a href="http://localhost/keyword/994%E5%B9%B4">994年</a>（平成<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）12月19日 - エレベーター1基が供用開始。<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）3月17日 - &#39;TS 15&#39;の駅番号が設定される, 東武鉄道, (20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>2月9日) 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>3月17日閲覧。。<br />
+<br />
+== 駅構造 ==<br />
+島式ホーム1面2線を有する高架駅。緩行線にのみホームがある。地上時代は真ん中が本線である2面4線の配線であった鉄道ピクトリアル19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>12月増刊号特集東武鉄道。また、高架複々線化工事中の1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>頃は上下共用の中線を持つ2面3線の駅であった。<br />
+<br />
+トイレは1階改札内にあり200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>度にユニバーサルデザインの一環として多機能トイレが設置された。改札内コンコースの階段部分にスロープがある。エレベーター1基、エスカレーター2基が設置されている。<br />
+<br />
+定期券売り場は設置されていない。<br />
+<br />
+駅構内（改札外）および高架下には店舗スペース「<a href="http://localhost/keyword/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3">ファイン</a>谷塚」がある。出店店舗の詳細情報は東武鉄道公式サイト「[http://railway.tobu.co.jp/guide/station/info/1401.html <a href="http://localhost/keyword/%E8%B0%B7%E5%A1%9A%E9%A7%85">谷塚駅</a>構内の店舗・ATM]」を参照。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+上記の路線名は旅客案内上の名称（「東武スカイツリーライン」は愛称）で表記している。<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度の1日平均乗降人員は&#39;36,502人&#39;である[http://www.tobu.co.jp/corporation/rail/station_info/ 駅情報（乗降人員）] - 東武鉄道。<br />
+<br />
+近年の1日平均乗降・乗車人員の推移は下表のとおりである。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+<br />
+=== 東口 ===<br />
+* 草加警察署 <a href="http://localhost/keyword/%E8%B0%B7%E5%A1%9A%E9%A7%85">谷塚駅</a>前交番<br />
+* 草加有沢ボクシングジム<br />
+* 谷塚コリーナ<br />
+** <a href="http://localhost/keyword/%E3%81%84%E3%81%AA%E3%81%92%E3%82%84">いなげや</a> 草加谷塚店<br />
+** ダイソー<br />
+** マツモトキヨシ<br />
+** よむよむ草加<a href="http://localhost/keyword/%E8%B0%B7%E5%A1%9A%E9%A7%85">谷塚駅</a>前店<br />
+* 谷塚郵便局<br />
+* 東日本銀行草加支店<br />
+* 城北信用金庫谷塚支店<br />
+* <a href="http://localhost/keyword/%E3%81%84%E3%81%AA%E3%81%92%E3%82%84">いなげや</a> 草加瀬崎店<br />
+* メディカルトピア草加病院<br />
+* 鳳永病院<br />
+* TBSハウジング 草加会場<br />
+* 日光街道（埼玉県道49号足立越谷線・旧国道4号）<br />
+* 谷塚斎場<br />
+* ウエルシア草加瀬崎店<br />
+<br />
+=== 西口 ===<br />
+* 谷塚西口商店街<br />
+* 草加谷塚西郵便局<br />
+* ウエルシア谷塚店<br />
+* 草加市役所谷塚サービスセンター<br />
+* 東武ストア草加谷塚店<br />
+<br />
+== 路線バス ==<br />
+<br />
+* 乗り場は駅前東口ロータリーにある。<br />
+* 草加市コミュニティバス「パリポリくんバス」の運行は東武バスセントラル。<br />
+<br />
+== 隣の駅 ==<br />
+; 32px 東武鉄道<br />
+: TS 東武スカイツリーライン<br />
+:: 快速・区間快速・急行・区間急行・準急・区間準急<br />
+::: &#39;通過&#39;<br />
+:: 普通<br />
+::: 竹ノ塚駅（TS 14） - &#39;<a href="http://localhost/keyword/%E8%B0%B7%E5%A1%9A%E9%A7%85">谷塚駅</a>（TS 15）&#39; - 草加駅（TS 16）<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.tobu.co.jp/station/info/1401.html 東武鉄道 <a href="http://localhost/keyword/%E8%B0%B7%E5%A1%9A%E9%A7%85">谷塚駅</a>]<br />
+<br />
+<br />
+<br />
+Category:埼玉県の鉄道駅<br />
+つか<br />
+Category:東武鉄道の鉄道駅<br />
+Category:19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>開業の鉄道駅<br />
+やつかえき<br />

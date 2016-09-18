@@ -1,0 +1,53 @@
+description<br />
+<br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/929%E5%B9%B4">929年</a>（昭和<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）2月1日<br />
+|廃止年月日 =<br />
+|乗車人員 = 31<br />
+|乗降人員 =62<br />
+|統計年度 = 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a><br />
+|乗換 =<br />
+|備考 = 無人駅<br />
+}}<br />
+ホーム<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E8%A5%BF%E5%B0%8F%E6%9E%97%E9%A7%85">西小林駅</a>&#39;（にしこばやしえき）は、宮崎県小林市北西方にある、九州旅客鉄道（JR九州）吉都線の駅である。標高286.8mは吉都線の駅で最も高い。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を有する地上駅。かつては相対式ホーム2面2線と木造の駅舎を有し、二つのホームを跨線橋が結んでいた。駅舎と跨線橋は撤去され、駅舎の跡地に待合所が建てられた。無人駅。<br />
+<br />
+== 利用状況 ==<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>度の1日平均乗車人員は31人である。<br />
+<br />
+<br />
+== 駅周辺 == <br />
+* 小林市役所 西小林支所<br />
+* 西小林郵便局<br />
+* かおる幼稚園<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/929%E5%B9%B4">929年</a>（昭和<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）2月1日 - 開業。<br />
+* 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>（昭和<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>）3月14日 - 無人化。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、九州旅客鉄道に継承。<br />
+<br />
+== 隣の駅 ==<br />
+; 九州旅客鉄道<br />
+: 吉都線<br />
+:: えびの飯野駅 - &#39;<a href="http://localhost/keyword/%E8%A5%BF%E5%B0%8F%E6%9E%97%E9%A7%85">西小林駅</a>&#39; - 小林駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* <br />
+<br />
+<br />
+<br />
+<br />
+Category:宮崎県の鉄道駅<br />
+しこはやし<br />
+Category:九州旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:小林市<br />
+Category:1<a href="http://localhost/keyword/929%E5%B9%B4">929年</a>開業の鉄道駅<br />

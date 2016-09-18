@@ -1,0 +1,31 @@
+description<br />
+<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E9%87%8D%E9%87%8F%E3%83%9D%E3%83%B3%E3%83%89">重量ポンド</a>&#39;（じゅうりょうポンド、、記号: lbf, lbf）は、<a href="http://localhost/keyword/%E3%83%A4%E3%83%BC%E3%83%89">ヤード</a>・ポンド法の力または重量の単位である。米国以外では、使われることがまれで、米国内でも公式には使われない。<br />
+<br />
+1<a href="http://localhost/keyword/%E9%87%8D%E9%87%8F%E3%83%9D%E3%83%B3%E3%83%89">重量ポンド</a>は、質量1ポンドの物体に対して標準重力加速度（9.806 65 m/s2、196 133/6096 ft/s2）と同じ加速度を生じさせる力と定義される。簡単に言えば、質量1ポンドの物体の地球上における重量である。<br />
+<br />
+<a href="http://localhost/keyword/%E9%87%8D%E9%87%8F%E3%83%9D%E3%83%B3%E3%83%89">重量ポンド</a>は18世紀ごろから使われ始めたが、重力加速度の値は場所によって異なるため、<a href="http://localhost/keyword/%E9%87%8D%E9%87%8F%E3%83%9D%E3%83%B3%E3%83%89">重量ポンド</a>の値は厳密なものではなかった。1<a href="http://localhost/keyword/901%E5%B9%B4">901年</a>の国際度量衡総会 () において重量グラム、重量キログラムとともに標準重力加速度が定められた。その値を<a href="http://localhost/keyword/%E3%83%A4%E3%83%BC%E3%83%89">ヤード</a>・ポンド法に換算することで、<a href="http://localhost/keyword/%E9%87%8D%E9%87%8F%E3%83%9D%E3%83%B3%E3%83%89">重量ポンド</a>の値を厳密に定めることができるようになった。<br />
+<br />
+標準重力加速度の値を使うと、1<a href="http://localhost/keyword/%E9%87%8D%E9%87%8F%E3%83%9D%E3%83%B3%E3%83%89">重量ポンド</a>は正確に4.448 221 615 2605ニュートンとなる。英国では、この14桁の数値が公式の換算値である[http://www.legislation.gov.uk/uksi/1995/1804/schedule/made RELEV<a href="http://localhost/keyword/ANT">ANT</a> IMPERIAL UNITS, CORRESPONDING METRIC UNITS AND METRIC EQUIVAL<a href="http://localhost/keyword/ENT">ENT</a>S] The Units of Measurement Regulations 1995, pound-forceの欄。<br />
+<br />
+日本の計量法体系では、1<a href="http://localhost/keyword/%E9%87%8D%E9%87%8F%E3%83%9D%E3%83%B3%E3%83%89">重量ポンド</a>は正確に4.448 22ニュートンと定義されている[http://law.e-gov.go.jp/cgi-bin/idxselect.cgi?IDX_OPT=1&amp;H_NAME=%8c%76%97%ca%92%50%88%ca%97%df&amp;H_NAME_YOMI=%82%a0&amp;H_NO_GENGO=H&amp;H_NO_YEAR=&amp;H_NO_TYPE=2&amp;H_NO_NO=&amp;H_F<a href="http://localhost/keyword/ILE">ILE</a>_NAME=H04SE357&amp;H_RYAKU=1&amp;H_CTG=1&amp;H_YOMI_GUN=1&amp;H_CTG_GUN=1 計量単位令] 別表第7　項番9、「力」の項、<a href="http://localhost/keyword/%E9%87%8D%E9%87%8F%E3%83%9D%E3%83%B3%E3%83%89">重量ポンド</a>、「ニュートンの四・四四八二二倍<br />
+」。これは、英国の公式換算値を小数5桁に丸めたものである。<br />
+<br />
+== 引用 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 計量単位一覧<br />
+* ポンド (質量)<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:力の単位<br />
+Category:<a href="http://localhost/keyword/%E3%83%A4%E3%83%BC%E3%83%89">ヤード</a>・ポンド法<br />

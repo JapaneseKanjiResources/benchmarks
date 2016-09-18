@@ -1,0 +1,79 @@
+description<br />
+<br />
+<br />
+|所属事業者 = 42px 京浜急行電鉄<br />
+|所属路線   = KK 大師線<br />
+|キロ程     = 2.0<br />
+|起点駅     = 京急川崎<br />
+|所在地     = 川崎市川崎区鈴木町2-2<br />
+|座標       = <br />
+|駅構造     = 地上駅<br />
+|ホーム     = 相対式　2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/929%E5%B9%B4">929年</a>（昭和<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）12月10日<br />
+|廃止年月日 = <br />
+|乗降人員   = 8,597<br />
+|統計年度   = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換       = <br />
+|備考       = 1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>、味の素前駅から改称<br />
+}}<br />
+ホーム（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>1月撮影）<br />
+&#39;<a href="http://localhost/keyword/%E9%88%B4%E6%9C%A8%E7%94%BA%E9%A7%85">鈴木町駅</a>&#39;（すずきちょうえき）は、神奈川県川崎市川崎区鈴木町にある京浜急行電鉄大師線の駅である。駅番号は&#39;KK22&#39;。<br />
+<br />
+== 歴史 == <br />
+京急川崎寄りにあった味の素への引き込み線<br />
+京急大師線の連続立体交差事業が19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>（平成<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）に都市計画決定され、1<a href="http://localhost/keyword/994%E5%B9%B4">994年</a>（平成<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）に事業認可されて、当駅を含む区間は地下化される予定で事業が行われてきた。しかし、当駅を含む2期区間については、すぐに事業化できる状況ではないとして、事業期間の延長申請を見送り、事業は休止されることになった。<br />
+<br />
+=== 年表 ===<br />
+* 1<a href="http://localhost/keyword/929%E5%B9%B4">929年</a>（昭和<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）12月10日 - &#39;味の素前駅&#39;（あじのもとまええき）として開業。<br />
+* 1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>（昭和<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）10月20日 - &#39;<a href="http://localhost/keyword/%E9%88%B4%E6%9C%A8%E7%94%BA%E9%A7%85">鈴木町駅</a>&#39;に改称。<br />
+<br />
+== 駅構造 ==<br />
+相対式ホーム2面2線を有する地上駅。京急川崎方に構内踏切がある。1番線側の改札口は平日朝のみ利用可能な臨時出口である。20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>3月31日より終日駅員配置駅になった。多機能トイレ、スロープ設置済。<br />
+=== のりば ===<br />
+<br />
+<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度の1日平均乗降人員は&#39;8,597人&#39;である - 京浜急行電鉄。近年の1日平均&#39;乗降・乗車&#39;人員推移は下記の通り。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+<a href="http://localhost/keyword/%E9%88%B4%E6%9C%A8%E7%94%BA%E9%A7%85">鈴木町駅</a>は味の素川崎事業所の出入口前に位置する。鈴木町の名は味の素の創業者・鈴木三郎助に由来している。2000年以降、工場跡地を利用した複合商業施設の建設が相次いだ。20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>4月現在、当駅周辺は多摩川リバーサイド地区の都市整備事業は現在も進行中である。港町駅よりやや東側から川崎大師駅にかけた国道北側の一帯は国道409号の拡幅工事が行われている。当駅周辺を通る予定の首都高速川崎線および大師線の新ルート部分(京急川崎駅～川崎大師駅)の整備は未定である。また、20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>になって、<a href="http://localhost/keyword/%E9%88%B4%E6%9C%A8%E7%94%BA%E9%A7%85">鈴木町駅</a>南方約100mの国道より南側の住宅地に囲まれた狭い一区画に大師線予定地という看板が取り付けられた。<br />
+* 味の素川崎事業所<br />
+* メルシャン川崎工場（マンション建設のため工場の一区画が取り壊された）<br />
+* イトーヨーカドー川崎港町店<br />
+* ヤマダ電機テックランド川崎店<br />
+* BOOKOFF SUPER BAZAAR409号川崎港町<br />
+* 川崎河港水門<br />
+* 川崎旭町郵便局<br />
+<br />
+=== バス ===<br />
+最寄停留所は、国道409号線上にある&#39;味の素前&#39;[http://rinkobus.ekiworld.net/time/index.cgi?prm=0121, 臨港バス時刻表（駅一覧）]、川崎鶴見臨港バス公式サイト、20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>10月13日閲覧となる。以下の路線が乗り入れ、川崎鶴見臨港バスにより運行されている。<br />
+* 川01系統：川崎駅行、殿町行 ※平日2本のみ[http://rinkobus.ekiworld.net/time/index.cgi?prm=01210203,,09,23216,66509,020101, 臨港バス時刻表（味の素前時刻表）]、川崎鶴見臨港バス公式サイト、20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>10月13日閲覧<br />
+* 快速：川崎駅行、浮島橋行<br />
+<br />
+== 駅名の由来 ==<br />
+味の素の前身である鈴木商店の創設者、鈴木三郎助にちなむ。<br />
+<br />
+== 隣の駅 ==<br />
+;  42px 京浜急行電鉄<br />
+: KK 大師線<br />
+:: 港町駅（KK21） - &#39;<a href="http://localhost/keyword/%E9%88%B4%E6%9C%A8%E7%94%BA%E9%A7%85">鈴木町駅</a>（KK22）&#39; - 川崎大師駅（KK23）<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.keikyu.co.jp/train-info/kakueki/KK22.html 京浜急行電鉄 <a href="http://localhost/keyword/%E9%88%B4%E6%9C%A8%E7%94%BA%E9%A7%85">鈴木町駅</a>]<br />
+<br />
+<br />
+<br />
+Category:川崎区の鉄道駅<br />
+すきちよう<br />
+Category:京浜急行電鉄の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/929%E5%B9%B4">929年</a>開業の鉄道駅<br />

@@ -1,0 +1,38 @@
+description<br />
+<br />
+<br />
+|-----<br />
+! bgcolor=&#34;pink&#34; | 部位<br />
+|-----<br />
+|<br />
+<br />
+|-----<br />
+| align=&#34;center&#34; bgcolor=&#34;pink&#34; | ラテン名<br />
+|-----<br />
+| align=&#34;center&#34; | m. sternohyoideus<br />
+|-----<br />
+| align=&#34;center&#34; bgcolor=&#34;pink&#34; | 英名<br />
+|-----<br />
+| align=&#34;center&#34; | sternohyoid muscle<br />
+|}<br />
+&#39;<a href="http://localhost/keyword/%E8%83%B8%E9%AA%A8%E8%88%8C%E9%AA%A8%E7%AD%8B">胸骨舌骨筋</a>&#39;（きょうこつぜっこつきん）は頚部の筋肉のうち、舌骨の体部下縁から頚正中部を上下に走る筋肉である。舌骨を下方に引く作用を持つ。<br />
+<br />
+<a href="http://localhost/keyword/%E8%83%B8%E9%AA%A8%E8%88%8C%E9%AA%A8%E7%AD%8B">胸骨舌骨筋</a>の起始は胸骨柄、胸鎖関節、第一肋軟骨後面から起こり、舌骨の体部下縁に停止する。<br />
+<br />
+<br />
+== 参考文献 ==  <br />
+<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 首<br />
+* 解剖学／<a href="http://localhost/keyword/%E5%8F%A3%E8%85%94%E8%A7%A3%E5%89%96%E5%AD%A6">口腔解剖学</a>／<a href="http://localhost/keyword/%E4%BA%BA%E9%96%93%E3%81%AE%E7%AD%8B%E8%82%89%E3%81%AE%E4%B8%80%E8%A6%A7">人間の筋肉の一覧</a><br />
+<br />
+== 外部リンク == <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:頭頸部の筋肉<br />

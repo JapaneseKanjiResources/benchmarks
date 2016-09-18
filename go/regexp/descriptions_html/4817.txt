@@ -1,0 +1,52 @@
+description<br />
+<br />
+磐越西線<br />
+|キロ程 = 44.9<br />
+|起点駅 = 郡山<br />
+|所在地 = 福島県耶麻郡磐梯町大字更科<br />
+|開業年月日 = 1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>（昭和<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）12月20日<br />
+|廃止年月日 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 2線<br />
+|乗車人員 = <br />
+|統計年度 = <br />
+|備考 = <br />
+|備考全幅  = <br />
+}}<br />
+構内の様子（20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>11月）<br />
+翁島寄りのポイント（20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>11月）<br />
+構内配線図　A:磐梯町　B:翁島<br />
+&#39;<a href="http://localhost/keyword/%E6%9B%B4%E7%A7%91%E4%BF%A1%E5%8F%B7%E5%A0%B4">更科信号場</a>&#39;（さらしなしんごうじょう）は、福島県耶麻郡磐梯町にある、東日本旅客鉄道（JR東日本）磐越西線の信号場である。<br />
+<br />
+== 構造 ==<br />
+翁島駅より磐梯町駅方向に約4.5kmにある2線の信号場。<br />
+<br />
+本線は、双方向に出発信号機を備えた一線スルー構造となっているが、副本線は下り列車専用で磐梯町方向から副本線への入線と、副本線から翁島方向への発車はできない。<br />
+<br />
+== 周辺 ==<br />
+耕作地および山林が広がる。なお少し磐梯町駅寄りに下ると、送電線鉄塔付近から登り25パーミルで分岐する旧線路跡の盛土が確認できる（あまりに急勾配が連続するため昭和初期のころ付け替えられたらしい）。<br />
+<br />
+== 歴史 == <br />
+*1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>（昭和<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）12月20日 - 開業。<br />
+*1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化によりJR東日本に継承。<br />
+<br />
+== 参考文献 == <br />
+*鉄道廃線跡を歩く（宮脇俊三：日本交通公社）<br />
+<br />
+==隣の施設==<br />
+;東日本旅客鉄道<br />
+:磐越西線<br />
+::翁島駅 - &#39;<a href="http://localhost/keyword/%E6%9B%B4%E7%A7%91%E4%BF%A1%E5%8F%B7%E5%A0%B4">更科信号場</a>&#39; - 磐梯町駅<br />
+<br />
+== 関連項目 ==<br />
+* 信号場<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:福島県の鉄道駅<br />
+Category:東日本旅客鉄道の信号場<br />
+Category:日本国有鉄道の信号場<br />
+Category:磐梯町<br />
+Category:磐越西線<br />

@@ -1,0 +1,66 @@
+description<br />
+<br />
+|所属事業者 = 京福電気鉄道<br />
+|所属路線   = 嵐山本線<br />
+|キロ程     = 6.9<br />
+|起点駅     = 四条大宮<br />
+|所在地     = 京都市右京区嵯峨天龍寺今堀町<br />
+|座標       = <br />
+|駅構造     = 地上駅<br />
+|ホーム     = 相対式2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/910%E5%B9%B4">910年</a>（明治<a href="http://localhost/keyword/43%E5%B9%B4">43年</a>）3月25日<br />
+|廃止年月日 = <br />
+|乗車人員   = <br />
+|乗降人員   = 1,551 <br />
+|統計年度   = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|乗換       = 西日本旅客鉄道 山陰本線（嵯峨野線）嵯峨嵐山駅徒歩5分<br />
+|備考       = <br />
+}}<br />
+<br />
+嵯峨駅前駅時代の上りホーム (2007/02/15)<br />
+&#39;<a href="http://localhost/keyword/%E5%B5%90%E9%9B%BB%E5%B5%AF%E5%B3%A8%E9%A7%85">嵐電嵯峨駅</a>&#39;（らんでんさがえき）は、京都市右京区嵯峨天龍寺今堀町にある京福電気鉄道嵐山本線の駅。駅ナンバリングは&#39;A12&#39;。<br />
+<br />
+駅員無配置駅ではあるが、JR嵯峨嵐山駅に近く、比較的観光客の利用も多いことから、駅前の喫茶店に回数券等に加えて「嵐電1日フリーきっぷ」の販売を委託していた。嵐電1日フリーきっぷの販売を駅前の商店等に委託している唯一の例であったが、20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>12月末をもって取り扱いを終了した。<br />
+<br />
+== 歴史 ==<br />
+*1<a href="http://localhost/keyword/910%E5%B9%B4">910年</a>（明治<a href="http://localhost/keyword/43%E5%B9%B4">43年</a>）3月25日 - 嵐山電車軌道の&#39;嵯峨停車場前駅&#39;（さがていしゃばまええき）として開業。<br />
+*1<a href="http://localhost/keyword/918%E5%B9%B4">918年</a>（大正<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）4月2日 - 会社合併により京都電燈が経営する嵐山電鉄の駅となる。<br />
+*19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>（大正<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）11月16日 - &#39;嵯峨駅前駅&#39;（さがえきまええき）に改称。<br />
+*1<a href="http://localhost/keyword/942%E5%B9%B4">942年</a>（昭和<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）3月2日 - 路線継承により京福電気鉄道の駅となる。<br />
+*200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）3月19日 - &#39;<a href="http://localhost/keyword/%E5%B5%90%E9%9B%BB%E5%B5%AF%E5%B3%A8%E9%A7%85">嵐電嵯峨駅</a>&#39;に改称。<br />
+<br />
+かつての駅名である嵯峨停車場前駅、および嵯峨駅前駅は、1<a href="http://localhost/keyword/897%E5%B9%B4">897年</a>開業の嵯峨駅（京都鉄道→国鉄→JR西日本）の近隣にあることから付けられたものである。1<a href="http://localhost/keyword/994%E5%B9%B4">994年</a>にその嵯峨駅が嵯峨嵐山駅に改称したあとも当駅の名前は存置され、200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>に改称するまでの一時期は嵐電の駅名の中にJR西日本の旧駅名を留める形になっていた。<br />
+<br />
+== 駅構造 ==<br />
+相対式ホーム2面2線の地上駅。駅西側の踏切を通過し、JR西日本山陰本線（嵯峨野線）嵯峨嵐山駅へと至る道路へは各ホームとも斜路で連絡する。<br />
+<br />
+== 駅周辺 ==<br />
+*JR西日本山陰本線（嵯峨野線）嵯峨嵐山駅 - 北へ約300メートル、徒歩約4分。<br />
+*嵯峨野観光鉄道嵯峨野観光線トロッコ嵯峨駅 - 同上。<br />
+*長慶天皇嵯峨東陵（駅から南へすぐ）<br />
+*安倍晴明墓<br />
+<br />
+== 隣の駅 ==<br />
+; 京福電気鉄道<br />
+: 嵐山本線<br />
+:: 鹿王院駅 (A11) - &#39;<a href="http://localhost/keyword/%E5%B5%90%E9%9B%BB%E5%B5%AF%E5%B3%A8%E9%A7%85">嵐電嵯峨駅</a> (A12)&#39; - 嵐山駅 (A13)<br />
+:* 括弧内は駅番号を示す。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://randen.keifuku.co.jp/train/randensaga.php 嵐電嵯峨] - 「嵐電」（京福電気鉄道）<br />
+<br />
+<br />
+<br />
+<br />
+Category:右京区の鉄道駅<br />
+んてんさか<br />
+Category:京福電気鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/910%E5%B9%B4">910年</a>開業の鉄道駅<br />
+らんてんさかえき<br />

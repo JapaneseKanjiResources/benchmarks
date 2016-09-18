@@ -1,0 +1,79 @@
+description<br />
+飯山線<br />
+|キロ程 = 46.6<br />
+|起点駅 = 豊野<br />
+|所在地 = 長野県下水内郡栄村大字北信<br />
+|緯度度=36|緯度分=58|緯度秒=47.55<br />
+|経度度=138|経度分=33|経度秒=1.12<br />
+|開業年月日 = 19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>（大正<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）11月19日<br />
+|廃止年月日 =<br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|乗車人員 = 18<br />
+|統計年度 = 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a><br />
+|備考 = 簡易委託駅 標高：288.3m<br />
+|備考全幅 = <br />
+}}<br />
+旧駅舎<br />
+&#39;横倉駅&#39;（よこくらえき）は、長野県下水内郡栄村大字北信にある、東日本旅客鉄道（JR東日本）飯山線の駅である。<br />
+<br />
+== 歴史 ==<br />
+私鉄の飯山鉄道がこの区間を19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>（大正<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）11月19日に開業した際に合わせて開設された。その後飯山鉄道の国有化により、1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>（昭和<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）6月1日に国鉄の駅となった。<br />
+<br />
+1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a>（昭和<a href="http://localhost/keyword/57%E5%B9%B4">57年</a>）に国鉄が駅を無人化する方針を打ちだし、村が地元の人間を委託して駅長とした。その後この駅長が駅周辺に花壇を造り花を育てて、「花の駅」として知られるようになった。しかし20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）3月12日の長野県北部地震により駅舎が傾き、花壇が復旧工事の資材置き場に使われるなどしたことから一旦は花畑が無くなり、駅舎復旧後に再度の花畑の育成の取り組みが行われている。<br />
+<br />
+もともと駅舎には20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>秋頃をめどとして建て替えの予定があったが、長野県北部地震により傾き危険度判定で「危険」の認定を受けたことから建て替えが前倒しされ、同年8月22日に新駅舎の落成式が行われた。<br />
+<br />
+=== 年表 ===<br />
+* 19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>（大正<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）11月19日 - 飯山鉄道の駅として開業。<br />
+* 1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>（昭和<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）6月1日 - 買収により国鉄飯山線の駅となる。<br />
+* 1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>（昭和<a href="http://localhost/keyword/45%E5%B9%B4">45年</a>）12月21日 - 貨物営業廃止、旅客駅となる。<br />
+* 1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a>（昭和<a href="http://localhost/keyword/57%E5%B9%B4">57年</a>）11月1日 - 簡易委託化。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、東日本旅客鉄道の駅となる。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）<br />
+** 3月12日 - 長野県北部地震が発生、駅舎が大きな被害を受ける。駅舎は倒壊の恐れがあるため取り壊され、暫定的にプレハブ造りの仮駅舎で営業を再開。<br />
+** 8月22日 - 新駅舎落成式。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を持つ地上駅。かつては島式ホーム1面2線であった。駅舎は20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>8月22日に落成した木造平屋建て32平方メートルのもので、待合室を備えている。周囲の景観になじむ古民家風の建屋とされている。<br />
+<br />
+飯山駅管理の簡易委託駅で、近隣の理髪店に切符販売が委託され、常備券・補充券を発売している。<br />
+<br />
+== 利用状況 ==<br />
+* 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>度の1日平均乗車人員は18人である。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 栄小学校<br />
+* 千曲川<br />
+* 国道117号<br />
+* 百合居温泉<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 飯山線<br />
+:: 平滝駅 - &#39;横倉駅&#39; - 森宮野原駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=1633 JR東日本 横倉駅]<br />
+<br />
+<br />
+<br />
+<br />
+Category:長野県の鉄道駅<br />
+こくら<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:飯山鉄道<br />
+Category:栄村<br />
+Category:19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>開業の鉄道駅<br />
+Category:飯山線<br />
+<br />

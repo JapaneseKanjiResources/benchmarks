@@ -1,0 +1,103 @@
+description<br />
+<br />
+ <br />
+|開業年月日 = 1<a href="http://localhost/keyword/913%E5%B9%B4">913年</a>（大正<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）9月1日<br />
+|廃止年月日 =<br />
+|駅構造 = 地上駅<br />
+|ホーム = 相対式2面2線<br />
+|乗車人員 = <br />
+|乗降人員 = <br />
+|統計年度 = <br />
+|乗入路線数 = 3<br />
+|所属路線1 = ■富山市内軌道線支線<br />
+|隣の駅1 =<br />
+|前の駅1 = 県庁前<br />
+|駅間A1 = 0.4<br />
+|駅間B1 = -<br />
+|次の駅1 = -<br />
+|駅番号1 =<br />
+|キロ程1 = 1.0<br />
+|起点駅1 = 電鉄富山駅・エスタ前<br />
+|所属路線2 = ■富山市内軌道線安野屋線<br />
+|隣の駅2 = <br />
+|前の駅2 = -<br />
+|駅間A2 = -<br />
+|駅間B2 = 0.3<br />
+|次の駅2 = 諏訪川原<br />
+|駅番号2 =<br />
+|キロ程2 = 0.0<br />
+|起点駅2 = 当駅<br />
+|所属路線3 = ■富山市内軌道線富山都心線<br />
+|隣の駅3 = <br />
+|前の駅3 = -<br />
+|駅間A3 = -<br />
+|駅間B3 = 0.3<br />
+|次の駅3 = 国際会議場前<br />
+|駅番号3 =<br />
+|キロ程3 = 0.0<br />
+|起点駅3 = 当駅<br />
+|キロ程4 = 4.6<br />
+|起点駅4 = 南富山駅前<br />
+|乗換 = <br />
+|備考 = <br />
+|備考全幅 = <br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E4%B8%B8%E3%81%AE%E5%86%85%E5%81%9C%E7%95%99%E5%A0%B4">丸の内停留場</a>&#39;（まるのうちていりゅうじょう）は、富山県富山市丸の内一丁目にある、富山地方鉄道富山市内軌道線（支線、安野屋線、富山都心線）の停留場。<br />
+<br />
+== 概要 ==<br />
+併用軌道に設置されており、当停留場付近で軌道は大きく<a href="http://localhost/keyword/%E3%82%AB%E3%83%BC%E3%83%96">カーブ</a>している。<br />
+<br />
+当停留場で大学前停留場方面から環状線（3系統）電車に乗り換える際には、降車する際に料金を支払って乗り継ぎ券を受け取り、環状線電車に乗り換える。環状線電車から大学前停留場方面に乗り換える際も、同様に乗り継ぎ券を受け取って後続の2系統の電車に乗り継ぐ。<br />
+<br />
+== 構造 ==<br />
+相対式ホーム2面2線の地上駅。ホームは相対式配置。富山都心線開業に伴い、ホームが富山駅前側に移設されて上屋が設けられた。但し、南富山駅前方面の新ホームは開業時点では使っておらず、交差点を曲がる手前の旧来のホームを継続して使っていた。<br />
+<br />
+== 周辺 ==<br />
+* 富山城址公園（富山城・富山市郷土博物館・佐藤記念美術館）<br />
+* 北陸銀行富山丸の内支店<br />
+* 富山丸の内合同庁舎<br />
+** 富山税務署<br />
+* 北陸中日新聞富山支社<br />
+* 富山国際会議場（大手町フォーラム）<br />
+* 大手モール（大手町通り）<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/913%E5%B9%B4">913年</a>（大正<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）9月1日 - 富山電気軌道の&#39;総曲輪停留場&#39;として開業。<br />
+* 1<a href="http://localhost/keyword/920%E5%B9%B4">920年</a>（大正<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）7月1日 - 富山市に譲渡され、富山市営軌道の停留場となる[http://www.lib.kobe-u.ac.jp/das/jsp/ja/ContentViewM.jsp?LANG=JA&amp;METAID=00097056&amp;POS=1&amp;TYPE=IMAGE_F<a href="http://localhost/keyword/ILE">ILE</a> 1<a href="http://localhost/keyword/920%E5%B9%B4">920年</a>2月11日付大阪朝日新聞 北陸版]（神戸大学附属図書館新聞記事文庫）。<br />
+* 1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a>（昭和<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）<br />
+**1月1日 - 路線譲渡により富山地方鉄道の停留場となる1<a href="http://localhost/keyword/942%E5%B9%B4">942年</a>12月7日軌道譲渡許可[ 「軌道譲渡」『官報』1<a href="http://localhost/keyword/942%E5%B9%B4">942年</a>12月21日]（国立国会図書館デジタルコレクション）。<br />
+**3月1日 - 電力制限に伴う全便急行運転に伴い停留場休止。<br />
+* 1<a href="http://localhost/keyword/945%E5%B9%B4">945年</a>（昭和<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）8月2日 - 富山大空襲の戦災より路線休止。<br />
+*1<a href="http://localhost/keyword/949%E5%B9%B4">949年</a>（昭和<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）3月15日 - 富山駅前 - 旅篭町間復旧に伴い営業再開。<br />
+* 1<a href="http://localhost/keyword/952%E5%B9%B4">952年</a>（昭和<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）8月5日 - &#39;<a href="http://localhost/keyword/%E4%B8%B8%E3%81%AE%E5%86%85%E5%81%9C%E7%95%99%E5%A0%B4">丸の内停留場</a>&#39;に改称。安野屋線（丸の内 - 安野屋間）開業。<br />
+* 1<a href="http://localhost/keyword/973%E5%B9%B4">973年</a>（昭和<a href="http://localhost/keyword/48%E5%B9%B4">48年</a>）3月31日 - 西町 - 旅篭町 - 丸の内間廃止。<br />
+* 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>（平成<a href="http://localhost/keyword/21%E5%B9%B4">21年</a>）12月23日 - 富山都心線丸の内 - 国際会議場前 - 西町間開業。<br />
+<br />
+== 隣の停留場 ==<br />
+; 富山地方鉄道<br />
+: 富山市内軌道線（支線）<br />
+:: 県庁前停留場 - &#39;<a href="http://localhost/keyword/%E4%B8%B8%E3%81%AE%E5%86%85%E5%81%9C%E7%95%99%E5%A0%B4">丸の内停留場</a>&#39; - （1<a href="http://localhost/keyword/973%E5%B9%B4">973年</a>廃止区間） - 旅篭町停留場<br />
+: 富山市内軌道線（安野屋線）<br />
+:: &#39;<a href="http://localhost/keyword/%E4%B8%B8%E3%81%AE%E5%86%85%E5%81%9C%E7%95%99%E5%A0%B4">丸の内停留場</a>&#39; - 諏訪川原停留場<br />
+: 富山市内軌道線（富山都心線）<br />
+:: &#39;<a href="http://localhost/keyword/%E4%B8%B8%E3%81%AE%E5%86%85%E5%81%9C%E7%95%99%E5%A0%B4">丸の内停留場</a>&#39; → 国際会議場前停留場<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.chitetsu.co.jp/train/tariff.html 市内電車]<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:富山市の鉄道駅<br />
+るのうち<br />
+Category:富山地方鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/913%E5%B9%B4">913年</a>開業の鉄道駅<br />

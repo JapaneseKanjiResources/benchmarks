@@ -1,0 +1,54 @@
+description<br />
+&#39;<a href="http://localhost/keyword/2-3-4%E6%9C%A8">2-3-4木</a>&#39;（2-3-4き、）または2-4木は計算機科学の用語であり、4次のB木（）と同じである。<br />
+<br />
+一般に<a href="http://localhost/keyword/2-3-4%E6%9C%A8">2-3-4木</a>はB木のように辞書として使うことができる平衡木の一種である。探索、挿入、削除をO(log &#39;&#39;n&#39;&#39;)で行うことができる。ここで&#39;&#39;n&#39;&#39;は木の要素数である。<br />
+<br />
+<a href="http://localhost/keyword/2-3-4%E6%9C%A8">2-3-4木</a>は木の操作において多くの特別なケースが存在するので大半のプログラミング言語において比較的実装が難しい。赤黒木(red-black tree)の方が実装が簡単で代わりに用いられる傾向がある。<br />
+<br />
+center<br />
+<br />
+== 背景 ==<br />
+<br />
+<a href="http://localhost/keyword/2-3-4%E6%9C%A8">2-3-4木</a>は&#39;要素&#39;と呼ばれる単一の項目としてデータを格納する。<br />
+それら要素は<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>にまとめられる。<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>は以下のうちどれかである。<br />
+* 2-nodeの場合は、1つの要素と2つの子をもつ。<br />
+* 3-nodeの場合は、2つの要素と3つの子をもつ。<br />
+* 4-nodeの場合は、3つの要素と4つの子をもつ。<br />
+<br />
+<br />
+<br />
+それぞれの&#39;子&#39;は部分<a href="http://localhost/keyword/2-3-4%E6%9C%A8">2-3-4木</a>である (空もありうる)。&#39;根&#39;<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>は親を持たない<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>であり、全ての他の<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>はそこから到達できるので、探索の開始点になる。&#39;葉&#39;は子を持たない<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>である。<br />
+<br />
+B木同様、<a href="http://localhost/keyword/2-3-4%E6%9C%A8">2-3-4木</a>も順序つきである。そのためそれぞれの要素は、左の要素および左の部分木と比較して等しいかより大きくなければならない。従って、それぞれの子は左と右の要素で示される閉区間となる。<br />
+<br />
+<a href="http://localhost/keyword/2-3-4%E6%9C%A8">2-3-4木</a>を解析するときは、内部<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>と外部<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>を明確に区別しなければならない。内部<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>とは上記の例において木の中にあり、&#39;&#39;a&#39;&#39;、&#39;&#39;b&#39;&#39;、そして&#39;&#39;c&#39;&#39;を含んでいる<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>である。外部<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>とは木の中にない<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>であり、次の<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>の位置として示されているものである。それらは上記の例では、&#39;&#39;p&#39;&#39;、&#39;&#39;q&#39;&#39;、&#39;&#39;r&#39;&#39;、そして&#39;&#39;s&#39;&#39;を含む。<a href="http://localhost/keyword/2-3-4%E6%9C%A8">2-3-4木</a>は次の二つの性質を維持しなければならず、他の平衡木と明確に区別される。<br />
+* 各内部<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>は4つより多い子<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>を持たない<br />
+* すべての外部<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>は同じ深さを持たなければならない (これは、その木の中の任意の外部<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>へ到達するために、根<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>から同じ個数の<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>を探索すればよい事を意味する)<br />
+<br />
+<a href="http://localhost/keyword/2-3-4%E6%9C%A8">2-3-4木</a>は赤黒木のisometry、すなわち等価なデータ構造である。言い換えると、任意の<a href="http://localhost/keyword/2-3-4%E6%9C%A8">2-3-4木</a>に対して，それと同じ順序でデータ要素を持つ赤黒木が少なくとも一つ存在する。<a href="http://localhost/keyword/2-3-4%E6%9C%A8">2-3-4木</a>に対する挿入および削除は、赤黒木における&#39;色替え&#39;(color-flipping)および&#39;回転&#39;(rotation)と等価である。このことは、赤黒木が平衡する原理が複雑であるため、赤黒木の背後にあるロジックを理解する上で重要である。<br />
+<br />
+== 挿入 ==<br />
+<br />
+== 削除 ==<br />
+<br />
+== 赤黒木への視覚的な変換 ==<br />
+<a href="http://localhost/keyword/2-3-4%E6%9C%A8">2-3-4木</a>と等価の赤黒木<br />
+<a href="http://localhost/keyword/2-3-4%E6%9C%A8">2-3-4木</a>は、少なくとも一種類以上の赤黒木に変換可能である。具体的には3つの要素を持つ<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>の場合は真ん中の値を要素にもつ黒<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>を作成し、それ以外の要素を作成した<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>の子<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>として生成し色を赤とする。2つの要素を持つ<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>の場合は、どちらかの要素を持つ<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>を作成し色を黒とし、もう片方の要素はその<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>の子<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>とし色を赤とする。最後に葉以外の全ての<a href="http://localhost/keyword/%E3%83%8E%E3%83%BC%E3%83%89">ノード</a>が子どもを2つ持つように黒の葉を付与することで赤黒木を作成できる。このとき赤黒木の定義は自動的に満たされていることとなる。<br />
+<br />
+また<a href="http://localhost/keyword/2-3-4%E6%9C%A8">2-3-4木</a>における挿入および削除の各操作は、赤黒木におけるカラー・フリッピングおよび回転の各操作にあたる。<br />
+<br />
+== <a href="http://localhost/keyword/2-3-4%E6%9C%A8">2-3-4木</a>の問題 ==<br />
+<br />
+== 参考 ==<br />
+<br />
+* 2-3木<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.cse.ohio-state.edu/~bondhugu/acads/234-tree/index.shtml Animation of a 2-3-4 Tree]<br />
+* [http://www.cs.unm.edu/~rlpm/499/ttft.html Java Applet showing an 2-3-4 Tree]<br />
+* [http://slady.net/java/bt/ B-Tree animation (Java Applet)]<br />
+<br />
+<br />
+<br />
+<br />
+Category:データ構造<br />

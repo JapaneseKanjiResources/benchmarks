@@ -1,0 +1,29 @@
+description<br />
+<br />
+<br />
+<br />
+<br />
+ kg<br />
+| 相対対象 = 木星<br />
+| 相対質量 = 3.549 <br />
+| 平均密度 = 2.6 g/cm3<br />
+| 表面重力 = 0.062 m/s2(0.00633 G)<br />
+| 脱出速度 = ~0.100 km/s<br />
+| 自転周期 = 0.324 日<br />
+| 絶対等級 = 14.2<br />
+| アルベド = 0.04<br />
+}}<br />
+<br />
+&#39;ヒマリア&#39;(Jupiter VI Himalia)は、木星の第6衛星。200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>までに発見された衛星の中で内側から11番目の軌道を回っている。ヒマリア群という小衛星の集団の中で最大のものである。この集団には他にも5つの衛星がある。<br />
+<br />
+1<a href="http://localhost/keyword/904%E5%B9%B4">904年</a>にチャールズ・ディロン・パーラインがリック天文台で発見した。ゼウスの3人の息子を産んだギリシア神話のニュンペー、ヒマリアから名付けられている。正式に命名されたのは1<a href="http://localhost/keyword/975%E5%B9%B4">975年</a>で、それ以前は&#39;Jupiter VI&#39;として知られていた。ヘスティアという仮称も使われていたが、同名の小惑星が存在するため正式名称にはならなかった。<br />
+<br />
+2000年12月9日、土星探査機カッシーニが、土星に向かう途中にヒマリアの映像を撮影した。だが、あまりに距離が離れていたため極めて<a href="http://localhost/keyword/%E8%A7%A3%E5%83%8F%E5%BA%A6">解像度</a>は低く、地表の情報を読み取ることは困難であった。200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>3月7日にも、ニュー・ホライズンズが冥王星に向かう途中で木星観測の一環としてヒマリアを撮影したが、これも距離が離れていたためにわずか数ピクセルの画像に留まった[http://pluto.jhuapl.edu/soc/view_obs.php?image=data/jupiter/level2/lor/jpeg/003553/lor_0035531519_0x630_sci_1.jpg&amp;utc_time=2007-03-07%3Cbr%3E00:00:01%20UTC&amp;description=Irregular+satellites%2C+phase+coverage&amp;target=HIMALIA&amp;range=5.5M%20km&amp;exposure=40%20msec]。<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:木星の衛星<br />
+Category:天文学に関する記事<br />
+Category:1<a href="http://localhost/keyword/900%E5%B9%B4">900年</a>代発見の天体<br />

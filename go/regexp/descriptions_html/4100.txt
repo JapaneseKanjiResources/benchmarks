@@ -1,0 +1,56 @@
+description<br />
+<br />
+|タイプ種 = &#39;&#39;Hesperornis regalis&#39;&#39; <br />
+| シノニム =<br />
+* &#39;&#39;Lestornis&#39;&#39; <br />
+* &#39;&#39;Coniornis&#39;&#39; <br />
+* &#39;&#39;Hargeria&#39;&#39; <br />
+}} <br />
+&#39;<a href="http://localhost/keyword/%E3%83%98%E3%82%B9%E3%83%9A%E3%83%AD%E3%83%AB%E3%83%8B%E3%82%B9">ヘスペロルニス</a>&#39; （学名:&#39;&#39;Hesperornis&#39;&#39;）は、絶滅した鳥類。<br />
+<br />
+白亜紀後期に北アメリカに生息していた海鳥類。<br />
+アメリカのカンザス州で発見された。<br />
+<br />
+学名&#39;&#39;Hesperornis&#39;&#39;は、アメリカの古生物学者 オスニエル・チャールズ・マーシュによる命名（1<a href="http://localhost/keyword/872%E5%B9%B4">872年</a>）。「西の鳥」を意味する。<br />
+<br />
+== 形態と生態 ==<br />
+長い首・長いクチバシを持つその体型は現在のアビ類やウ類に似るが、体長は180cmとかなり大型である。<br />
+翼は小さく痕跡程度に退化しており、現在のペンギン類と同様に、飛ぶことはできない。<br />
+しかし、ペンギンが翼が変化したフリッパーで海中を泳ぐのに対して、ヘスペロニスは水掻きを持つ後足で泳ぐ。<br />
+そして現在の鳥類と決定的に異なる点は、クチバシに歯を持つことである。このクチバシを使い、海中で魚類を捕食していたと推定される（外部リンクの生態想像図参照）。<br />
+<br />
+<a href="http://localhost/keyword/%E3%83%98%E3%82%B9%E3%83%9A%E3%83%AD%E3%83%AB%E3%83%8B%E3%82%B9">ヘスペロルニス</a>は、白亜紀に登場した真鳥類(Euornithes)のグループに含まれるが、白亜紀末期に絶滅した。<br />
+現存鳥類に<a href="http://localhost/keyword/%E3%83%98%E3%82%B9%E3%83%9A%E3%83%AD%E3%83%AB%E3%83%8B%E3%82%B9">ヘスペロルニス</a>類の子孫はない。<br />
+<br />
+==分類体系==<br />
+*恐竜 dinosaur<br />
+*:竜盤類 Saurischia<br />
+*::獣脚類 Theropoda<br />
+*:::テタヌラ類 Tetanurae<br />
+*::::コエルロサウルス類 Coelurosauria<br />
+*:::::マニラプトル形類 Maniraptoriformes<br />
+*::::::マニラプトル類 Maniraptora<br />
+*:::::::エウマニラプトル類 Eumaniraptora<br />
+*::::::::鳥類 Aves<br />
+*:::::::::真鳥類 Ornithurae<br />
+<br />
+== 近縁群との関係 ==<br />
+<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+==外部リンク==<br />
+* [http://www.oceansofkansas.com/Hesperornis.html Hesperonis] (OCEANS OF KANSAS PALEONTOLOGY by Mike Everhart)<br />
+** [http://www.oceansofkansas.com/Hesperornis/kish-01.jpg 生態想像図(親と雛)]<br />
+** [http://www.oceansofkansas.com/Birds/BONNER-1.jpg 生態想像図(捕食1)]<br />
+** [http://www.oceansofkansas.com/Birds/sm-hesp1.jpg 生態想像図(捕食2)]<br />
+** [http://www.oceansofkansas.com/Hesperornis/hespercb.jpg 生態想像図(捕食3)]<br />
+** [http://www.oceansofkansas.com/Hesperornis/marhesp.jpg 骨格図] - Marsh(1872)による<br />
+** [http://www.oceansofkansas.com/Sternbrg/hesper4.jpg 骨格図(頭部詳細)] - クチバシの歯がよく分かる<br />
+<br />
+<br />
+<br />
+<br />
+Category:白亜紀の生物<br />
+Category:化石鳥類<br />

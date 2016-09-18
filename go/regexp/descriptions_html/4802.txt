@@ -1,0 +1,74 @@
+description<br />
+<br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>（昭和<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）10月25日<br />
+|廃止年月日 =<br />
+|乗車人員 = 19<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|乗換 =<br />
+|備考 = 無人駅<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E4%B8%8A%E6%9E%9D%E9%A7%85">上枝駅</a>&#39;（ほずええき）は、岐阜県高山市下切町にある、東海旅客鉄道（JR東海）<a href="http://localhost/keyword/%E9%AB%98%E5%B1%B1%E6%9C%AC%E7%B7%9A">高山本線</a>の駅である。難読駅名の一つ。駅名は開業当時存在した上枝村に由来する。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>（昭和<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）10月25日 - <a href="http://localhost/keyword/%E9%AB%98%E5%B1%B1%E6%9C%AC%E7%B7%9A">高山本線</a>の飛騨小坂 - 坂上駅間開通と同時に開業。旅客及び貨物の取扱を開始。<br />
+* 1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a>（昭和<a href="http://localhost/keyword/57%E5%B9%B4">57年</a>）3月1日 - 貨物の取扱を廃止。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、東海旅客鉄道（JR東海）の駅となる。<br />
+<br />
+== 駅構造 ==<br />
+相対式ホーム2面2線を持ち、列車交換が可能な地上駅。古い木造駅舎が線路より1段低いところに置かれている。2番線ホームには待合室はない。駅舎は離れたところに設置されている。駅舎の中には時刻表やベンチが設けられている他、地元の小学生が作った、機関車の模型が置いてある。高山駅管理の無人駅。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+ファイル:<a href="http://localhost/keyword/%E4%B8%8A%E6%9E%9D%E9%A7%85">上枝駅</a>２.JPG |2番ホームから飛騨国府方面を望む（20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>12月）<br />
+ファイル:<a href="http://localhost/keyword/%E4%B8%8A%E6%9E%9D%E9%A7%85">上枝駅</a>３.JPG |1番ホームから高山方面を望む（20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>12月）<br />
+ファイル:<a href="http://localhost/keyword/%E4%B8%8A%E6%9E%9D%E9%A7%85">上枝駅</a>４.JPG|駅舎内（20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>12月）<br />
+<br />
+<br />
+== 利用状況 ==<br />
+* 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>度の1日平均乗車人員は19人である。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+周辺は住宅地である。また駅前の道を東に200メートルほど行くと国道41号に至る。<br />
+<br />
+* 高山<a href="http://localhost/keyword/%E4%B8%8A%E6%9E%9D%E9%A7%85">上枝駅</a>前郵便局<br />
+* 高山警察署上枝警察官駐在所<br />
+* 高山西高校<br />
+* 温泉 ひだまりの湯<br />
+* 高山市立三枝小学校<br />
+* 須田病院<br />
+* 岐阜県道457号名張上切線<br />
+* 宮川<br />
+* 宮川第14号橋梁（宮川と国道41号線にかかる橋梁で、書籍では『あじめ橋』と紹介されていて、鉄道写真の名所）<br />
+* 高山インターチェンジ<br />
+<br />
+== バス路線 ==<br />
+駅近くの岐阜県道457号上にコミュニティバスのらMyCar北線が停車する。<br />
+<br />
+== 隣の駅 ==<br />
+; 東海旅客鉄道<br />
+: <a href="http://localhost/keyword/%E9%AB%98%E5%B1%B1%E6%9C%AC%E7%B7%9A">高山本線</a><br />
+:: 高山駅 - &#39;<a href="http://localhost/keyword/%E4%B8%8A%E6%9E%9D%E9%A7%85">上枝駅</a>&#39; - 飛騨国府駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+<br />
+Category:岐阜県の鉄道駅<br />
+すえ<br />
+Category:東海旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+ほすええき<br />
+Category:<a href="http://localhost/keyword/%E9%AB%98%E5%B1%B1%E6%9C%AC%E7%B7%9A">高山本線</a><br />
+Category:1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>開業の鉄道駅<br />

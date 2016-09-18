@@ -1,0 +1,63 @@
+description<br />
+八戸線<br />
+|キロ程 = 24.3<br />
+|起点駅 = 八戸<br />
+|所在地 = 青森県八戸市大字金浜字舟戸ノ上<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/956%E5%B9%B4">956年</a>（昭和<a href="http://localhost/keyword/31%E5%B9%B4">31年</a>）12月10日<br />
+|備考 = 無人駅<br />
+}}<br />
+ホーム（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>6月）<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E9%87%91%E6%B5%9C%E9%A7%85">金浜駅</a>&#39;（かねはまえき）は、青森県八戸市大字金浜字舟戸ノ上にある、東日本旅客鉄道（JR東日本）八戸線の駅。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/956%E5%B9%B4">956年</a>（昭和<a href="http://localhost/keyword/31%E5%B9%B4">31年</a>）12月10日 - 開業。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化によりJR東日本の駅となる。<br />
+* 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>（平成<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）12月1日 - 本八戸駅業務委託化による駅長・助役配置廃止に伴い、八戸駅長管理下となる。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を有する地上駅。八戸駅管理の無人駅。切り通しの中にある。<br />
+<br />
+== 駅周辺 ==<br />
+小さな集落がある。近くの道路は国道45号（道の駅はしかみ付近）につながっている。<br />
+<br />
+== バス ==<br />
+;『<a href="http://localhost/keyword/%E9%87%91%E6%B5%9C%E9%A7%85">金浜駅</a>前』<br />
+バス停は跨線橋上の近くにあり、バス停ポールは種差海岸通り方向のみに立てられている。ただし、いずれも本数は極端に少ない。かつては浜通り経由での階上駅行きのバスも付近を走っていた。<br />
+* 八戸市営バス<br />
+** 金浜小学校方面<br />
+*** [M15]・[15] 金浜小学校前<br />
+** 種差海岸通り方面<br />
+*** [3] 旭ヶ丘営業所<br />
+*** [C5] 中心街(朔日町)（1日1本のみ）<br />
+*** [20] 鮫（土曜／休日朝1本のみ）<br />
+*** [35] 市民病院（平日朝1本のみ）<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 八戸線<br />
+:: 大久喜駅 - &#39;<a href="http://localhost/keyword/%E9%87%91%E6%B5%9C%E9%A7%85">金浜駅</a>&#39; - 大蛇駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+==関連項目==<br />
+* 日本の鉄道駅一覧<br />
+* 金浜 (八戸市)<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=471 JR東日本 <a href="http://localhost/keyword/%E9%87%91%E6%B5%9C%E9%A7%85">金浜駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+Category:八戸市の鉄道駅<br />
+ねはま<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/956%E5%B9%B4">956年</a>開業の鉄道駅<br />

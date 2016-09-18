@@ -1,0 +1,145 @@
+description<br />
+吾妻線<br />
+|キロ程 = 42.0<br />
+|起点駅 = 渋川<br />
+|所在地幅 = long<br />
+|所在地 = 群馬県吾妻郡長野原町大字長野原1276<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面2線<br />
+|開業年月日= 1<a href="http://localhost/keyword/945%E5%B9%B4">945年</a>（昭和<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）1月2日<br />
+|廃止年月日= <br />
+|乗車人員= 714<br />
+|統計年度= 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|備考 = 直営駅（管理駅）* 1<a href="http://localhost/keyword/991%E5%B9%B4">991年</a>に長野原駅から改称。<br />
+}}<br />
+改札口（20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>11月）<br />
+&#39;<a href="http://localhost/keyword/%E9%95%B7%E9%87%8E%E5%8E%9F%E8%8D%89%E6%B4%A5%E5%8F%A3%E9%A7%85">長野原草津口駅</a>&#39;（ながのはらくさつぐちえき）は、群馬県吾妻郡長野原町大字長野原にある、東日本旅客鉄道（JR東日本）吾妻線の駅である。簡易Suica改札機設置駅。<br />
+<br />
+== 概要 ==<br />
+特急「草津」が停車する長野原町の中心駅で、草津温泉の最寄り駅となっている。<br />
+<br />
+隣の川原湯温泉駅より東方約1km に建設されている八ッ場ダムの本体工事に伴い、20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>10月1日から岩島駅 - 当駅間のルートが切り替えられた（旧線は吾妻川の左岸を通っていたが、切替により右岸を通るようになった）。なお、当駅は水没せず、位置も変わらないが、ダム関連工事が進むにつれて、かつて駅前にあった施設（建物）は移転等でほとんどが取り壊され、駅だけがぽつんとある状態になっていった。<br />
+<br />
+なお、八ツ場ダム問題に直面する長野原町の生活再建策の一つとして、群馬県とJR東日本は20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>度から<a href="http://localhost/keyword/%E9%95%B7%E9%87%8E%E5%8E%9F%E8%8D%89%E6%B4%A5%E5%8F%A3%E9%A7%85">長野原草津口駅</a>を改築する方針を固めた。従来の駅舎の西側に新駅舎が建設され、20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）7月27日に新駅舎の完成式典が行われた後、8月1日から新駅舎で業務が開始となった。1階に改札口とホームが設けられ、バス・タクシー乗り場も駅舎に隣接して設けられている。ホームから改札までは、段差を無くしバリアフリー化した。今後は駅前広場の整備が進められる。3年計画で総事業費は14 - 15億円[http://www.47news.jp/localnews/gunma/2011/02/post_20<a href="http://localhost/keyword/110">110</a>202084531.html <a href="http://localhost/keyword/%E9%95%B7%E9%87%8E%E5%8E%9F%E8%8D%89%E6%B4%A5%E5%8F%A3%E9%A7%85">長野原草津口駅</a>を改築へ・県とJR]（47NEWS 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>2月2日）。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/945%E5%B9%B4">945年</a>（昭和<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）1月2日 - 長野原線・渋川 - 当駅間開業の際に貨物駅として開設（日本鋼管群馬鉄山専用線・当駅 - 太子間も同時開業）。当時の駅名は&#39;長野原駅&#39;（ながのはらえき）。<br />
+* 1<a href="http://localhost/keyword/946%E5%B9%B4">946年</a>（昭和<a href="http://localhost/keyword/21%E5%B9%B4">21年</a>）4月20日 -  旅客営業を開始。貨物駅から一般駅に変更。 <br />
+* 1<a href="http://localhost/keyword/952%E5%B9%B4">952年</a>（昭和<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）10月1日 - 日本鋼管専用線を移管し、当駅 - 太子間の貨物支線が開業。 <br />
+* 1<a href="http://localhost/keyword/954%E5%B9%B4">954年</a>（昭和<a href="http://localhost/keyword/29%E5%B9%B4">29年</a>）6月21日 - 当駅 - 太子間の旅客営業を開始。<br />
+* 1<a href="http://localhost/keyword/967%E5%B9%B4">967年</a>（昭和<a href="http://localhost/keyword/42%E5%B9%B4">42年</a>）6月10日 - 渋川 - 当駅間を電化。<br />
+* 1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>（昭和<a href="http://localhost/keyword/45%E5%B9%B4">45年</a>）11月1日 -  当駅 - 太子間が休止。<br />
+* 1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>（昭和<a href="http://localhost/keyword/46%E5%B9%B4">46年</a>）<br />
+** 3月7日 - 当駅 - 大前間が延伸開業。同時に線名を吾妻線に改称。<br />
+** 5月1日 - 休止中の当駅 - 太子間が廃止。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化によりJR東日本の駅となる。<br />
+* 1<a href="http://localhost/keyword/991%E5%B9%B4">991年</a>（平成3年）12月1日 - &#39;<a href="http://localhost/keyword/%E9%95%B7%E9%87%8E%E5%8E%9F%E8%8D%89%E6%B4%A5%E5%8F%A3%E9%A7%85">長野原草津口駅</a>&#39;に改称。<br />
+* 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>（平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）3月5日 - みどりの窓口を廃止、「もしもし券売機Kaeruくん」を設置。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）6月25日 - 駅構内改築工事の初段階として、1番線を行き止まり方式とし、ホームと駅舎を結ぶ跨線橋を廃止。駅業務を1階に移設し、改札口などを地平に設ける。今後は後述のように駅前広場などを継続して整備する。<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）2月13日 - 「もしもし券売機Kaeruくん」営業終了。<br />
+* 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）7月27日 - 新駅舎完成式典を挙行（落成は7月9日）<br />
+** 8月1日 - 新駅舎の供用開始。<br />
+* 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>（平成<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>）10月1日 - 東京近郊区間に編入。簡易Suica改札機を設置、Suica利用可能駅になる。<br />
+* 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>（平成<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）8月2日 - 駅前広場の西側に、「長野原・草津・六合ステーション」が開業。食堂と土産物店が営業開始「[http://www1.town.naganohara.gunma.jp/www/contents/1438155584776/index.html 長野原・草津・六合ステーション」 オープン！] - 長野原町.20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>9月16日閲覧。[https://raijin.com/ns/7814385312198015/news.html 西吾妻　観光の玄関口　長野原に「ステーション」] - 上毛新聞ニュース,20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>8月3日.20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>9月16日閲覧。。<br />
+<br />
+ファイル:Naganoharakusatsuguchi-Sta.JPG|旧駅舎<br />
+ファイル:JRNaganoharaKusatsuguchi-eki2.JPG|旧駅舎（1階・改札、2階・待合室）（20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>8月）<br />
+ファイル:JRNaganoharaKusatsuguchi-eki3.JPG| 画面中央が閉鎖された跨線橋、左側が駅舎への通路（20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>8月）<br />
+ファイル:Jr-bus-zokkou.jpg|<a href="http://localhost/keyword/%E9%95%B7%E9%87%8E%E5%8E%9F%E8%8D%89%E6%B4%A5%E5%8F%A3%E9%A7%85">長野原草津口駅</a>旧バスターミナル。後方に旧駅舎からの通路が見える。<br />
+<br />
+<br />
+== 駅構造 ==<br />
+島式ホーム1面2線を有する地上駅で、駅舎は3階建てである。駅構内には留置線が設けられている。20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>6月25日より、新駅舎の建設のため、1番線を行き止まり方式として通路を新設し、駅舎とホームが直接結ばれ跨線橋は撤去された。旧駅舎の2階にあった改札口・自動券売機・売店は新駅舎の地平部分に移設、2階の自動販売機・待合室・コインロッカー・トイレはそのまま存置され、タクシー会社の事務所が入居したが、旧駅舎は20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>度中に解体された。<br />
+<br />
+直営駅（駅長配置）であり、管理駅として川原湯温泉駅 - <a href="http://localhost/keyword/%E5%A4%A7%E5%89%8D%E9%A7%85">大前駅</a>間の各駅を管理している。200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>にみどりの窓口が廃止され、その代替として「もしもし券売機Kaeruくん」が設置されたが、20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>2月13日をもって営業終了し撤去された。現在は指定席券売機が設置されている。<br />
+<br />
+=== のりば ===<br />
+<br />
+* 1番線は当駅発着の列車のみが使用する。20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>6月25日より行き止まり式のホームとなっている（大前方へは合流できない）。<br />
+* 夜間滞泊が設定されている。<br />
+<br />
+ファイル:JRNaganoharaKusatsuguchi-eki4.JPG|ホーム（20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>8月）<br />
+ファイル:JRE Naganohara-Kusatsuguchi station Shibukawa-side 20140823.JPG|ホームから川原湯温泉方を望む（20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>8月）。20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>10月に、画像向かって左の旧線から右の新線に切り替えられた。<br />
+ファイル:JRNaganoharaKusatsuguchi-eki7.JPG|同左（20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>8月）<br />
+ファイル:JRNaganoharaKusatsuguchi-eki6.JPG|2番ホームから群馬大津方を望む（20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>8月）。<br />
+ファイル:JRNaganoharaKusatsuguchi-eki5.JPG|1番線・群馬大津方の線路が撤去された跡（ホームと駅舎の連絡通路より）（20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>8月）。<br />
+<br />
+<br />
+== 利用状況 ==<br />
+* 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度の1日平均乗車人員は714人。近年の推移は下表の通り。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+バスターミナル（20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>11月）<br />
+* タクシープールが改札口を出た所にある（下記写真は、改築前のタクシープール）。<br />
+* バスターミナルは駅舎から連絡通路で直結されていたが（旧駅舎写真の裏手にある）、20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>6月25日に駅舎改築工事が始まり、連絡通路は2階の待合室とトイレ、自販機コーナーを結ぶ通路となった。2階にはタクシー会社の事務所も入居した。20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>6月24日までは、駅の外へ出る通路よりも幅が広く、バスターミナルとほぼ一体化されていた。これは、鉄道 - バス（志賀草津高原線）の連携体制をサポートするための構造であった。20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>7月に新駅舎が完成し、8月1日から供用が開始された。バスターミナルとタクシー乗り場までは改札から段差を無くしたバリアフリー構造の通路で結ばれている。<br />
+* 長野原・草津・六合ステーション<br />
+*:駅前広場西側に20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>8月開業した施設。1階に食堂と土産物屋・2階に休憩所兼多目的スペースがある。営業時間 10:00～16:00。<br />
+* 国道145号<br />
+* 国道292号<br />
+* 国道406号<br />
+* 群馬県道378号長野原草津口停車場線<br />
+* 群馬県吾妻県民局 長野原合同庁舎<br />
+* 長野原町立東中学校<br />
+* 長野原郵便局<br />
+* 長野原町役場<br />
+* 群馬県立長野原高等学校<br />
+* ジェイアールバス関東長野原支店<br />
+* トヨタレンタリース<a href="http://localhost/keyword/%E9%95%B7%E9%87%8E%E5%8E%9F%E8%8D%89%E6%B4%A5%E5%8F%A3%E9%A7%85">長野原草津口駅</a>前店<br />
+*: 吾妻川を渡った対岸にある。万座・鹿沢口駅前店の移転扱いで200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>に開設。<br />
+<br />
+=== 温泉地・<a href="http://localhost/keyword/%E8%A6%B3%E5%85%89%E5%9C%B0">観光地</a> ===<br />
+* 草津温泉 - JRバス関東草津温泉行で25分（急行便22分）<br />
+* 花敷温泉 - 中之条町町営バスで30分<br />
+* 尻焼温泉 - 中之条町町営バスで30分、終点花敷温泉から徒歩10分<br />
+* 野反湖 - 中之条町町営バスで65分（5～10月のみ運行）<br />
+* 北軽井沢 - 草軽交通バス北軽井沢行で30分<br />
+<br />
+== バス路線 ==<br />
+* 高速バスのりば(一番吾妻川寄り) - 「上州ゆめぐり号」（JRバス関東）<a href="http://localhost/keyword/%E7%B7%B4%E9%A6%AC%E9%A7%85">練馬駅</a>経由バスタ新宿（新宿駅南口）ゆき（上り便(新宿方面)は乗車のみ、下り便(草津方面)は降車のみ）<br />
+<br />
+* 1番のりば - 急行・各駅停車 草津温泉バスターミナル行（JRバス関東）<br />
+** 急行は草津温泉バスターミナルまでノンストップ<br />
+** 各駅停車の一部は西吾妻福祉病院を経由する<br />
+* 2番のりば - 急行・各駅停車 草津温泉バスターミナル行（JRバス関東）<br />
+* 3番のりば - 急行 草津温泉バスターミナル行、急行 白根火山行（JRバス関東）<br />
+** 一部の各駅停車草津温泉行きと急行便の続行便も発着する。<br />
+** 白根火山行は、4月末から11月初頭までの運行<br />
+* 4番のりば - 各駅停車 北軽井沢行（草軽交通）<br />
+* 5番のりば - 各駅停車 花敷温泉行、各駅停車 野反湖行（中之条町営バス、ローズクィーン交通に運行委託）<br />
+<br />
+タクシー乗り場は大前方にある。<br />
+<br />
+20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>8月1日より、<a href="http://localhost/keyword/%E9%95%B7%E9%87%8E%E5%8E%9F%E8%8D%89%E6%B4%A5%E5%8F%A3%E9%A7%85">長野原草津口駅</a>の新駅舎供用に伴い、バスのりばとタクシー乗り場の配置が変更となっている。<br />
+<br />
+== 隣の駅 ==<br />
+&#39;※特急「草津」の隣の停車駅は列車記事を参照してほしい。&#39;<br />
+; 東日本旅客鉄道<br />
+: 吾妻線<br />
+:: 川原湯温泉駅 - &#39;<a href="http://localhost/keyword/%E9%95%B7%E9%87%8E%E5%8E%9F%E8%8D%89%E6%B4%A5%E5%8F%A3%E9%A7%85">長野原草津口駅</a>&#39; - 群馬大津駅<br />
+<br />
+=== 廃止路線 ===<br />
+; 日本国有鉄道<br />
+: 長野原線 太子支線（廃止当時）<br />
+:: &#39;長野原駅（廃止当時）&#39; - 太子駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=<a href="http://localhost/keyword/110">110</a>9 JR東日本 <a href="http://localhost/keyword/%E9%95%B7%E9%87%8E%E5%8E%9F%E8%8D%89%E6%B4%A5%E5%8F%A3%E9%A7%85">長野原草津口駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+Category:群馬県の鉄道駅<br />
+かのはらくさつくち<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/945%E5%B9%B4">945年</a>開業の鉄道駅<br />
+Category:吾妻線<br />
+なかのはらくさつくちえき<br />

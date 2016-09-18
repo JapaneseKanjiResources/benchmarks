@@ -1,0 +1,81 @@
+description<br />
+<br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面3線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/927%E5%B9%B4">927年</a>（昭和<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）12月26日<br />
+|廃止年月日 =<br />
+|乗車人員 = 314<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|乗換 =<br />
+|備考 = 駅員配置駅みどりの窓口 有標高：382m<br />
+|備考全幅 =<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E5%A4%A9%E7%AB%9C%E5%B3%A1%E9%A7%85">天竜峡駅</a>&#39;（てんりゅうきょうえき）は、長野県飯田市川路天竜峡にある、東海旅客鉄道（JR東海）飯田線の駅である。<br />
+<br />
+== 概要 ==<br />
+伊那盆地の南、<a href="http://localhost/keyword/%E8%A6%B3%E5%85%89%E5%9C%B0">観光地</a>「天竜峡」を見下ろす川沿いに位置する。1<a href="http://localhost/keyword/927%E5%B9%B4">927年</a>に飯田線の前身伊那電気鉄道の起点駅として開業、その後三信鉄道が南から乗り入れ境界駅となり、当駅は両社を繋ぐ要所の駅となった。その後両社は国有化され途中駅となったものの要所としての地位は変わらず、民営化された現在でも普通列車は当駅止まりの列車が数多く設定されている。特急「伊那路」も全列車が停車し、<a href="http://localhost/keyword/%E8%A6%B3%E5%85%89%E5%9C%B0">観光地</a>の駅として役割を果たしている。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/927%E5%B9%B4">927年</a>（昭和<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）12月26日 - 伊那電気鉄道が駄科駅から延伸した際の終着駅として開業。一般駅。<br />
+* 1<a href="http://localhost/keyword/932%E5%B9%B4">932年</a>（昭和<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）10月30日 - 三信鉄道が門島駅まで開業し当駅に乗り入れ。<br />
+* 1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a>（昭和<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）8月1日 - 伊那電気鉄道・三信鉄道が飯田線の一部として国有化され、国鉄単独駅となる。<br />
+* 1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>（昭和<a href="http://localhost/keyword/46%E5%B9%B4">46年</a>）12月1日 - 貨物の取扱を廃止（旅客駅となる）。<br />
+* 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>（昭和<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>）3月14日 - 荷物の取扱を廃止。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、東海旅客鉄道が継承。<br />
+* 19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>（昭和<a href="http://localhost/keyword/63%E5%B9%B4">63年</a>）9月4日 - 駅開業60周年花電車運行。<br />
+* 19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>（平成<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）4月 - 天竜峡温泉発掘を契機に駅舎を改築。<br />
+* 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）<br />
+** 9月 - 台風18号の影響により、当駅 - 平岡駅間は運休となり、バスによる代行輸送となる。<br />
+** 10月10日 - 当駅 - 平岡駅間の運転を再開。<br />
+<br />
+== 駅構造 ==<br />
+ホーム<br />
+単式ホーム1面1線と島式ホーム1面2線、計2面3線のホームと側線と数本の留置線を持つ地上駅。ホーム間の移動用に、ホームの千代駅側に構内踏切がある。下り線（単式ホーム）側に駅舎がある。<br />
+<br />
+駅長は配置されない駅員配置駅（直営駅）であり、飯田駅が当駅を管理する。みどりの窓口がある。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+== 利用状況 ==<br />
+1日平均の乗車人員は以下の通りとなっている。<br />
+<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+<a href="http://localhost/keyword/%E8%A6%B3%E5%85%89%E5%9C%B0">観光地</a>として有名な渓谷、国指定名勝「天竜峡」が駅の目の前に有り、遊歩道や展望台が整備されている。付近には天竜峡温泉が湧いており、旅館や土産物店が軒を連ねる温泉街となっている。しかし、長野・新宿方面からの直通電車の廃止や、道路が狭く大型観光バスが乗入れにくいので、利用客の減少により数軒の旅館が閉鎖に追い込まれるなど、観光面で苦戦を強いられている。<br />
+* 天竜川<br />
+* 姑射橋<br />
+* 天竜舟下り<br />
+* 八十二銀行天竜峡支店<br />
+* 天龍峡インターチェンジ<br />
+<br />
+== 隣の駅 ==<br />
+; 東海旅客鉄道<br />
+: 飯田線<br />
+:* 特急「伊那路」停車駅<br />
+:: 快速（上りのみ運転、当駅から川路寄りは普通列車）・普通<br />
+::: 門島駅 - 金野駅（※） - 千代駅（※） - &#39;<a href="http://localhost/keyword/%E5%A4%A9%E7%AB%9C%E5%B3%A1%E9%A7%85">天竜峡駅</a>&#39; - <a href="http://localhost/keyword/%E5%B7%9D%E8%B7%AF%E9%A7%85">川路駅</a><br />
+:: （※）一部の普通列車は金野駅に停車しない（下り当該列車は千代駅も通過となる）。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+<br />
+Category:飯田市の鉄道駅<br />
+んりゆうきよう<br />
+Category:伊那電気鉄道<br />
+Category:三信鉄道<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:東海旅客鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/927%E5%B9%B4">927年</a>開業の鉄道駅<br />
+Category:飯田線<br />

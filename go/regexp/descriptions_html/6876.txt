@@ -1,0 +1,43 @@
+description<br />
+<a href="http://localhost/keyword/%E3%83%9A%E3%83%B3%E3%83%AD%E3%83%BC%E3%82%BA%E3%81%AE%E4%B8%89%E8%A7%92%E5%BD%A2">ペンローズの三角形</a><br />
+&#39;<a href="http://localhost/keyword/%E3%83%9A%E3%83%B3%E3%83%AD%E3%83%BC%E3%82%BA%E3%81%AE%E4%B8%89%E8%A7%92%E5%BD%A2">ペンローズの三角形</a>&#39;は不可能図形の一種。<br />
+<br />
+== 概要 ==<br />
+[[錯視を利用したあり得ない三角形のオブジェ。オーストラリアのパースにある。]]<br />
+1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>、スウェーデンの芸術家が考案した。1<a href="http://localhost/keyword/950%E5%B9%B4">950年</a>代に数学者ロジャー・ペンローズがそれとは独立に「不可能性の最も純粋な形」として考案し、一般に広めた。芸術家マウリッツ・エッシャーが不可能図形を多く扱ったが、その発想の一部となった。<br />
+<br />
+固体の物体であり、3本の真っ直ぐな四角柱がそれぞれ直角に組み合わされていながら、全体で三角形を形成している。これを通常のユークリッド空間における3次元の物体として具現化させることはできず、ある種の3次元多様体でのみ存在できる  <a href="http://localhost/keyword/%E3%83%9A%E3%83%B3%E3%83%AD%E3%83%BC%E3%82%BA%E3%81%AE%E4%B8%89%E8%A7%92%E5%BD%A2">ペンローズの三角形</a>に関する章で、作者はこの洞察を John Stillwell によるものとしている。。通常の3次元空間では、ある角度から見たときだけ<a href="http://localhost/keyword/%E3%83%9A%E3%83%B3%E3%83%AD%E3%83%BC%E3%82%BA%E3%81%AE%E4%B8%89%E8%A7%92%E5%BD%A2">ペンローズの三角形</a>のように見える物体を作ることは可能である。<a href="http://localhost/keyword/%E3%83%9A%E3%83%B3%E3%83%AD%E3%83%BC%E3%82%BA%E3%81%AE%E4%B8%89%E8%A7%92%E5%BD%A2">ペンローズの三角形</a>という言葉は、2次元平面にそれを描いたものと3次元のありえない立体の両方を指す。<br />
+<br />
+<br />
+エッシャーのリトグラフ『滝』では、2つの<a href="http://localhost/keyword/%E3%83%9A%E3%83%B3%E3%83%AD%E3%83%BC%E3%82%BA%E3%81%AE%E4%B8%89%E8%A7%92%E5%BD%A2">ペンローズの三角形</a>を組み合わせたようなジグザグの水路を描いており、水平な水路のようでいて高低差が生じているという絵になっている。結果として、一番高く見えるところから水路の始点に滝が流れ落ち、途中で水車を回している。エッシャーは水路の水が蒸発していくため、水車を回し続けるためには水を時々補給する必要があると指摘している。<br />
+<br />
+<a href="http://localhost/keyword/%E3%83%9A%E3%83%B3%E3%83%AD%E3%83%BC%E3%82%BA%E3%81%AE%E4%B8%89%E8%A7%92%E5%BD%A2">ペンローズの三角形</a>の面を追いかけていくと、3重のメビウスの帯になっていることがわかる。<br />
+<br />
+== 他のペンローズの多角形 ==<br />
+<a href="http://localhost/keyword/%E3%83%9A%E3%83%B3%E3%83%AD%E3%83%BC%E3%82%BA%E3%81%AE%E4%B8%89%E8%A7%92%E5%BD%A2">ペンローズの三角形</a>から似たようなものを構築可能で、他の正多角形からペンロースの正多角形を作ることができる。しかし、角が増えるに従って単に反っているかねじれているように見えてくる。<br />
+<br />
+<br />
+ファイル:Penrose_square.svg|ペンローズの正方形<br />
+ファイル:Penrose_pentagon.svg|ペンローズの五角形<br />
+ファイル:Penrose_hexagon.svg|ペンローズの六角形<br />
+ファイル:Penrose_octagon.svg|ペンローズの八角形<br />
+<br />
+<br />
+== 脚注・出典 ==<br />
+<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://im-possible.info/english/articles/real/real3.html パースにある<a href="http://localhost/keyword/%E3%83%9A%E3%83%B3%E3%83%AD%E3%83%BC%E3%82%BA%E3%81%AE%E4%B8%89%E8%A7%92%E5%BD%A2">ペンローズの三角形</a>のオブジェについての記事（英語）]<br />
+* [http://www.cs.technion.ac.il/~gershon/EscherForReal/ Escher for Real constructions]<br />
+* [http://sketchup.google.com/3dwarehouse/details?mid=9dc97890819b7ee1be9f99e917cf14f4 Three-dimensional model of a Penrose triangle for SketchUp] Google 3Dギャラリー<br />
+* [http://www.coolopticalillusions.com/build-an-impossible-triangle.htm <a href="http://localhost/keyword/%E3%83%9A%E3%83%B3%E3%83%AD%E3%83%BC%E3%82%BA%E3%81%AE%E4%B8%89%E8%A7%92%E5%BD%A2">ペンローズの三角形</a>の実物の作り方（英語）]<br />
+* [http://francistabary.com/index.php?menu=sculptures_impossibles Francis Tabary 作の様々な<a href="http://localhost/keyword/%E3%83%9A%E3%83%B3%E3%83%AD%E3%83%BC%E3%82%BA%E3%81%AE%E4%B8%89%E8%A7%92%E5%BD%A2">ペンローズの三角形</a>]<br />
+* [http://www.roz.at/rozweb/images/PenroseVSoncu2.jpg オーストリアにある大きな<a href="http://localhost/keyword/%E3%83%9A%E3%83%B3%E3%83%AD%E3%83%BC%E3%82%BA%E3%81%AE%E4%B8%89%E8%A7%92%E5%BD%A2">ペンローズの三角形</a>のオブジェの写真]<br />
+<br />
+<br />
+<br />
+Category:錯視<br />
+Category:位相幾何学<br />
+Category:幾何学<br />
+Category:エポニム<br />

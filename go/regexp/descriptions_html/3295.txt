@@ -1,0 +1,63 @@
+description<br />
+羽越本線<br />
+|前の駅 = 藤島<br />
+|駅間A = 5.1<br />
+|駅間B = 3.6<br />
+|次の駅 = 余目<br />
+|キロ程 = 151.1<br />
+|起点駅 = 新津<br />
+|ホーム = 2面2線<br />
+|駅構造 = 地上駅<br />
+|乗車人員 = 123<br />
+|統計年度 = 2001年<br />
+|所在地 = 山形県東田川郡庄内町西袋字駅前<br />
+|座標 = <br />
+|開業年月日 = 1<a href="http://localhost/keyword/950%E5%B9%B4">950年</a>（昭和<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）3月15日<br />
+|廃止年月日 =<br />
+|備考 = 無人駅<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E8%A5%BF%E8%A2%8B%E9%A7%85">西袋駅</a>&#39;（にしぶくろえき）は、山形県東田川郡庄内町西袋字駅前にある、東日本旅客鉄道（JR東日本）羽越本線の駅である。<br />
+<br />
+== 歴史 ==<br />
+信号場時代から旅客の取り扱いを行っていたが、1<a href="http://localhost/keyword/950%E5%B9%B4">950年</a>に正式に駅に昇格した。<br />
+* 1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>（昭和<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）6月1日 - &#39;南余目信号場&#39;として開設。<br />
+* 1<a href="http://localhost/keyword/950%E5%B9%B4">950年</a>（昭和<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）3月15日 - 駅に昇格、&#39;<a href="http://localhost/keyword/%E8%A5%BF%E8%A2%8B%E9%A7%85">西袋駅</a>&#39;開業。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により東日本旅客鉄道が承継。<br />
+<br />
+== 駅構造 ==<br />
+相対式ホーム2面2線を有する地上駅で酒田駅管理の無人駅となっている。<br />
+<br />
+* 1番線側に簡易駅舎（男女共用トイレあり）を備える。<br />
+* 2番線側に木造の待合室(1<a href="http://localhost/keyword/950%E5%B9%B4">950年</a>3月竣工)が設置されており、2番線にも駅の出入口がある。<br />
+* 1番線、2番線は跨線橋で結ばれる。<br />
+* 自動券売機の設置はなく、乗車駅証明発行機が1番線、2番線それぞれに設置されている。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+　周辺にはショウナイキンギョの養魚場が数件あり、直売にも応じている。<br />
+* 西袋簡易郵便局<br />
+* 県道342号<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 羽越本線<br />
+:: 藤島駅 - &#39;<a href="http://localhost/keyword/%E8%A5%BF%E8%A2%8B%E9%A7%85">西袋駅</a>&#39; - 余目駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* <br />
+<br />
+<br />
+<br />
+<br />
+Category:山形県の鉄道駅<br />
+しふくろ<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+にしふくろえき<br />
+にしふくろえき<br />
+Category:1<a href="http://localhost/keyword/950%E5%B9%B4">950年</a>開業の鉄道駅<br />

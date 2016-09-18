@@ -1,0 +1,168 @@
+description<br />
+}; border-top:5px } solid<br />
+| other_name = <br />
+| name = link=九州旅客鉄道 }}}<br />
+| image = <br />
+| image_width = 300px<br />
+| image_alt = <br />
+| caption = <br />
+| type = <br />
+| status = 廃止<br />
+| start = 起点：飯塚駅<br />
+| end = 終点：豊前川崎駅<br />
+| stations = 10駅<br />
+| open = <br />
+| event1label = <br />
+| event1 = <br />
+| close =  <br />
+| owner = 筑豊鉄道→15px 九州鉄道→15px 帝国鉄道庁→鉄道院→鉄道省→運輸通信省→運輸省→40px 日本国有鉄道（国鉄）→25px 九州旅客鉄道（JR九州）<br />
+| operator = <br />
+| depot = <br />
+| stock = <br />
+| linelength_km = 25.9<br />
+| linelength = <br />
+| gauge = <br />
+| minradius = <br />
+| routenumber = <br />
+| linenumber = <br />
+| el = 全線非電化<br />
+| speed = <br />
+| maxincline = <br />
+| map = 300px<br />
+| map_state = <br />
+}}<br />
+}<br />
+<br />
+<br />
+|&#39;&#39;平恒駅 (II)&#39;&#39;||}}<br />
+|&#39;&#39;平恒駅 (I)&#39;&#39;|-1939|}}<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+|}<br />
+|}<br />
+&#39;<a href="http://localhost/keyword/%E4%B8%8A%E5%B1%B1%E7%94%B0%E7%B7%9A">上山田線</a>&#39;（かみやまだせん）は、福岡県飯塚市の飯塚駅から田川郡川崎町の豊前川崎駅までを結んでいた、九州旅客鉄道（JR九州）の鉄道路線（地方交通線）である。国鉄再建法の施行（19<a href="http://localhost/keyword/80%E5%B9%B4">80年</a>）により第2次特定地方交通線に指定され、国鉄分割民営化後の19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>9月1日に廃止された。<br />
+<br />
+== 路線データ ==<br />
+*管轄（事業種別）：九州旅客鉄道（第一種鉄道事業者）<br />
+*区間（営業キロ）：飯塚 - 豊前川崎 25.9km（嘉穂信号場 - 下山田間 (1.7km) は、漆生線と重複）<br />
+*軌間：1067mm<br />
+*駅数：10（起終点駅含む）<br />
+*複線区間：なし（全線単線）<br />
+*電化区間：なし（全線非電化）<br />
+*閉塞方式：タブレット閉塞式<br />
+<br />
+== 歴史 ==<br />
+<a href="http://localhost/keyword/%E4%B8%8A%E5%B1%B1%E7%94%B0%E7%B7%9A">上山田線</a>は歴史的に、明治時代に筑豊炭田から産出される石炭の輸送のため、筑豊鉄道・九州鉄道が建設し、鉄道国有法により国有化された飯塚 - 上山田間と、油須原線構想により太平洋戦争後に建設された上山田 - 豊前川崎間に分かれる。<br />
+<br />
+前者の区間は&#39;筑豊鉄道&#39;が若松港への石炭積み出しのために敷設した鉄道（後の筑豊本線）の延長として1<a href="http://localhost/keyword/895%E5%B9%B4">895年</a>に飯塚 - 臼井間を開業したのが始まりであり、1<a href="http://localhost/keyword/897%E5%B9%B4">897年</a>に&#39;九州鉄道&#39;に合併された後、1<a href="http://localhost/keyword/901%E5%B9%B4">901年</a>に上山田まで延伸（大隈 - 上山田間は当初貨物線）された。190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>の国有化後は、筑豊本線の一部となったが、1<a href="http://localhost/keyword/929%E5%B9%B4">929年</a>に長尾線が原田まで延伸されて全通したのにともない、そちらが&#39;筑豊本線&#39;となり、飯塚 - 上山田間は&#39;<a href="http://localhost/keyword/%E4%B8%8A%E5%B1%B1%E7%94%B0%E7%B7%9A">上山田線</a>&#39;として分離された。<br />
+<br />
+後者の区間については、筑豊地区の石炭を苅田港に輸送するために計画された&#39;油須原線&#39;の一部であり、1<a href="http://localhost/keyword/966%E5%B9%B4">966年</a>に同計画の一部として建設された漆生線漆生 - 下山田（嘉穂信号場）間と同時に開業した。油須原線はもともと貨物輸送が目的の鉄道路線であったが、筑豊炭田の凋落とともに計画の東半分（豊前川崎 - 大任 - 油須原）が未開業に終わり、結局貨物輸送に使われることはなかった。<br />
+<br />
+貨物輸送の廃止後は、沿線の急激な衰退もあって営業成績は振るわず、営業係数ワーストランキングの常連となっていった。<br />
+<br />
+19<a href="http://localhost/keyword/80%E5%B9%B4">80年</a>の国鉄再建法施行により1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>6月に第2次特定地方交通線に指定され、沿線に7箇所存在した自治体（飯塚市・嘉穂郡穂波町・同桂川町・同碓井町・同嘉穂町・山田市・田川郡川崎町。ただし、桂川町内に<a href="http://localhost/keyword/%E4%B8%8A%E5%B1%B1%E7%94%B0%E7%B7%9A">上山田線</a>の駅は存在しなかった）の中で碓井町のみが第三セクター化による存続を訴えていた。<br />
+<br />
+だが、最終的には鉄道存続を断念し、JR九州へ移管されて1年5か月後の19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>9月1日に全線廃止となった。<br />
+<br />
+=== 年表 ===<br />
+*1<a href="http://localhost/keyword/895%E5%B9%B4">895年</a>（明治2<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）4月5日 &#39;筑豊鉄道&#39;が飯塚 - 臼井間を延伸開業、臼井駅を新設<br />
+*1<a href="http://localhost/keyword/897%E5%B9%B4">897年</a>（明治<a href="http://localhost/keyword/30%E5%B9%B4">30年</a>）10月1日 筑豊鉄道が&#39;九州鉄道&#39;に合併<br />
+*1<a href="http://localhost/keyword/898%E5%B9%B4">898年</a>（明治<a href="http://localhost/keyword/31%E5%B9%B4">31年</a>）<br />
+**2月8日 臼井 - 大隈を延伸開業、大隈 - 下山田間の貨物支線を開業、大隈・（貨）下山田の各駅を新設<br />
+**3月29日 平恒分岐点 - 平恒間の貨物支線を開業、（貨）平恒駅（初代）を新設<br />
+*1<a href="http://localhost/keyword/901%E5%B9%B4">901年</a>（明治<a href="http://localhost/keyword/34%E5%B9%B4">34年</a>）6月28日 下山田 - 上山田間の貨物支線を延伸開業、（貨）上山田駅を新設<br />
+*1<a href="http://localhost/keyword/903%E5%B9%B4">903年</a>（明治<a href="http://localhost/keyword/36%E5%B9%B4">36年</a>）12月20日 大隈 - 上山田間の旅客営業を開始、下山田・上山田の各駅を貨物駅から一般駅に変更<br />
+*190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（明治40年）7月1日 鉄道国有法により九州鉄道が買収され、&#39;官設鉄道&#39;となる<br />
+*1<a href="http://localhost/keyword/909%E5%B9%B4">909年</a>（明治<a href="http://localhost/keyword/42%E5%B9%B4">42年</a>）10月12日 国有鉄道線路名称制定により、若松 - 上山田間・平恒分岐点 - 平恒間が&#39;筑豊本線&#39;となる<br />
+*1<a href="http://localhost/keyword/917%E5%B9%B4">917年</a>（大正<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）3月12日 平恒分岐点に貨物駅を新設し、新平恒駅とする<br />
+*1<a href="http://localhost/keyword/929%E5%B9%B4">929年</a>（昭和<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）12月7日 長尾線飯塚 - 原田間全通にともない長尾線を筑豊本線に編入し、飯塚 - 上山田間 (14.4km) を&#39;<a href="http://localhost/keyword/%E4%B8%8A%E5%B1%B1%E7%94%B0%E7%B7%9A">上山田線</a>&#39;として区間分離<br />
+*1<a href="http://localhost/keyword/939%E5%B9%B4">939年</a>（昭和<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）5月29日 新平恒 - 平恒間（初代）(0.7km) の貨物支線を廃止、平恒駅（初代）を廃止、新平恒駅を平恒駅（2代）に改称<br />
+*1<a href="http://localhost/keyword/948%E5%B9%B4">948年</a>（昭和<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）5月8日 平恒駅を貨物駅から一般駅に改める<br />
+*19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>（昭和<a href="http://localhost/keyword/35%E5%B9%B4">35年</a>）<br />
+**2月 油須原線第2工区であった上山田 - 熊ヶ畑トンネル終点間の工事完了<br />
+**3月 油須原線第3工区であった熊ヶ畑トンネル終点間 - 東川崎間の工事完了<br />
+*1<a href="http://localhost/keyword/964%E5%B9%B4">964年</a>（昭和<a href="http://localhost/keyword/39%E5%B9%B4">39年</a>） 工事を国鉄から鉄道公団が承継<br />
+*1<a href="http://localhost/keyword/966%E5%B9%B4">966年</a>（昭和<a href="http://localhost/keyword/41%E5%B9%B4">41年</a>）<br />
+**3月 油須原線第4工区であった東川崎 - 豊前川崎間の工事完了<br />
+**3月10日 上山田 - 豊前川崎間 (11.5km) 延伸開業、ただし旅客営業のみ。熊ヶ畑・真崎・東川崎の各駅および嘉穂信号場を新設<br />
+*19<a href="http://localhost/keyword/80%E5%B9%B4">80年</a>（昭和<a href="http://localhost/keyword/55%E5%B9%B4">55年</a>）3月31日 飯塚 - 上山田 (14.4km) の貨物営業を廃止<br />
+*1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>（昭和<a href="http://localhost/keyword/59%E5%B9%B4">59年</a>）6月22日 第2次特定地方交通線として廃止承認<br />
+*1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 国鉄分割民営化に伴い、日本国有鉄道から九州旅客鉄道に承継<br />
+*19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>（昭和<a href="http://localhost/keyword/63%E5%B9%B4">63年</a>）<br />
+**8月28日 DE10-セキ6000×3両-50系×4両-DE10による、廃止記念列車を運転<br />
+**9月1日 全線 (25.9km) を廃止し、西鉄バスのバス路線に転換<br />
+<br />
+== 運行 ==<br />
+1<a href="http://localhost/keyword/966%E5%B9%B4">966年</a>3月の全通時点では、飯塚駅 - 上山田駅間は17往復が設定され、筑豊本線に直通する列車も複数存在した一方、新規開業の上山田駅以東（豊前川崎駅方面）とは運行系統が分断されていた『国鉄監修 交通公社の時刻表』1<a href="http://localhost/keyword/966%E5%B9%B4">966年</a>3月号 p.237。このとき開業した上山田駅以東は6往復が設定され、そのうち5往復が同時に開業した漆生線直通であった。上山田駅以西（飯塚駅方面）の本数は1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>10月ダイヤ改正時点で14往復『国鉄監修 交通公社の時刻表』1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>10月号、p.160、1<a href="http://localhost/keyword/972%E5%B9%B4">972年</a>3月ダイヤ改正時点で10往復『国鉄監修 交通公社の時刻表』1<a href="http://localhost/keyword/972%E5%B9%B4">972年</a>3月号、p.180と次第に減少したものの、廃止直前の19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>3月時点においても下り11本、上り13本が設定されていた『交通公社の時刻表』19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>3月号、p.338。上山田駅以東は1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>10月ダイヤ改正で早くも日中の1本が削減され、1<a href="http://localhost/keyword/972%E5%B9%B4">972年</a>3月ダイヤ改正時点ではさらに午後の1往復が1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>10月時点より削減されて4往復となる。以後、廃止まで4往復の体制は変わらなかったが、上山田駅以西との直通列車ものちには設定され1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>2月ダイヤ改正時点では1往復が設定されている（『国鉄監修 交通公社の時刻表』1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>1・2月号 p.244、247）。、漆生線廃止後の時点では2往復が上山田駅以西との直通となって『JNR編集時刻表』1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>4月号、弘済出版社、p.299、その状態で全廃を迎えた。<br />
+<br />
+== 駅一覧 ==<br />
+全駅福岡県に所在。接続路線の事業者名、所在地は<a href="http://localhost/keyword/%E4%B8%8A%E5%B1%B1%E7%94%B0%E7%B7%9A">上山田線</a>廃止時点のもの。当線廃止前の廃止路線は、その廃止時。<br />
+<br />
+<br />
+<br />
+通票種別：飯塚（楕円）臼井■大隈▲嘉穂■上山田▲豊前川崎<br />
+;貨物支線<br />
+:新平恒駅（後の平恒駅） - （貨）平恒駅（初代）<br />
+<br />
+== 廃止後の状況 ==<br />
+飯塚駅よりしばらくは筑豊本線沿いに<a href="http://localhost/keyword/%E4%B8%8A%E5%B1%B1%E7%94%B0%E7%B7%9A">上山田線</a>の線路敷跡が草叢して残っている。<br />
+<br />
+筑豊本線の分岐点付近から上山田駅を経て山田川の手前までの廃線跡はほぼ道路となっている。平恒駅跡は道路沿いにホーム跡が残る。臼井駅跡はホーム跡が残っていたが、現在は一部を残して埋められている。大隈駅跡は鉄道公園として腕木式信号などが保存され、往時を偲ばせている。嘉穂信号場跡は近年まで深い藪の中にその建物や廃線跡が残っていたが、並走する福岡県道443号下山田碓井線の拡張工事に伴い建物は取り壊された。建物跡付近から一部路盤が残るが前述の県道と交差する付近からは埋め立てられ、再び県道の一部となる。信号場と下山田駅との間にあった新原トンネルは撤去、開削されているがトンネル跡を示す案内板があり、道路向かいのバス停留所に現役時代の貴重な写真が掲示されている。下山田駅付近は近隣団地の緑地となり、駅跡を示すものはない。上山田駅跡には19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>3月まで西鉄バス（嘉穂交通）の山田支社（車体標記は○山）が置かれていたが、現在は山田生涯学習館・図書館となっており、庭の中に踏切遮断警報機と上山田駅跡を示す説明板が設置されている。<br />
+<br />
+上山田駅以東は廃線跡がよく残っている。熊ヶ畑駅付近では橋梁やレールが残され、1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a>から山田市（現在は嘉麻市）主催で線路の保守作業に使われていた軌道自転車で<a href="http://localhost/keyword/%E4%B8%8A%E5%B1%B1%E7%94%B0%E7%B7%9A">上山田線</a>跡を走る「トロッコ<a href="http://localhost/keyword/%E3%83%95%E3%82%A7%E3%82%B9">フェス</a>タ」が毎年秋に開催されている。熊ヶ畑駅そのものは駅舎も解体され、駅跡を示すものはない。<br />
+<br />
+熊ヶ畑駅から、嘉麻市と川崎町の境にある熊ヶ畑トンネルまでは道路を横断する部分を除いてレールが残っていたが、200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>にこのトンネル内のレールが約1.7kmに亘って盗まれていることが判明し、同年11月19日に被害届が出された。翌200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>2月に2人組の容疑者が捕まっている。この事件をはじめ、トンネルの壁への落書きやトンネル内へのゴミの<a href="http://localhost/keyword/%E4%B8%8D%E6%B3%95%E6%8A%95%E6%A3%84">不法投棄</a>もあったため、現在このトンネル内の線路は撤去され、両方の入り口が柵で封鎖されている。<br />
+<br />
+熊ヶ畑トンネルから<a href="http://localhost/keyword/%E7%9C%9F%E5%B4%8E%E9%A7%85">真崎駅</a>までは200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>夏に「雪舟ロード」と呼ばれる道路建設工事が完了し、遊歩道及び自転車道として使用されている。<br />
+<br />
+<a href="http://localhost/keyword/%E7%9C%9F%E5%B4%8E%E9%A7%85">真崎駅</a>跡地は「あまぎふれあい広場・鉄道記念公園」として整備されている。<a href="http://localhost/keyword/%E7%9C%9F%E5%B4%8E%E9%A7%85">真崎駅</a> - 東川崎駅 - 豊前川崎駅までは道路になっている。東川崎駅跡には、「国鉄<a href="http://localhost/keyword/%E4%B8%8A%E5%B1%B1%E7%94%B0%E7%B7%9A">上山田線</a>東川崎駅跡」の石碑が建っている。<br />
+<a href="http://localhost/keyword/%E4%B8%8A%E5%B1%B1%E7%94%B0%E7%B7%9A">上山田線</a>熊ケ畑トンネル（20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>撮影）<br />
+上山田駅跡<br />
+「雪舟ロード」となった<a href="http://localhost/keyword/%E4%B8%8A%E5%B1%B1%E7%94%B0%E7%B7%9A">上山田線</a>廃線跡<br />
+<br />
+== 代替交通 ==<br />
+廃止当初は、西鉄バス（のち嘉穂交通）が、<br />
+<br />
+*80 飯塚バスセンター - 飯塚駅 - 天道 - 桂川役場 - 碓井 - 牛隈 - 日吉 - 大橋 - 西鉄上山田<br />
+*81 飯塚バスセンター - 飯塚駅 - 天道 - 吉隈 - 碓井 - 牛隈 - 日吉 - 山田中央 - 西鉄上山田<br />
+*82 飯塚バスセンター - 山野 - 漆生 - 牛隈 - 日吉 - 大橋 - 西鉄上山田<br />
+*83 西鉄上山田 - 熊ヶ畑 - 魚楽園入口 - 湯遊共和国 - 真崎 - 豊前川崎駅 - 奥谷<br />
+の4路線を運行し、起点であった飯塚駅には転換交付金によって「飯塚駅バス停」が新設されたが、<a href="http://localhost/keyword/%E4%B8%8A%E5%B1%B1%E7%94%B0%E7%B7%9A">上山田線</a>廃止のちょうど<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>後にあたる1<a href="http://localhost/keyword/994%E5%B9%B4">994年</a>8月31日限りで83番系統の廃止および80番系統・81番系統の飯塚駅バス停乗り入れ廃止（同時に飯塚駅バス停も廃止）、80番系統・82番系統の大幅減便を経て、200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>3月31日限りで<a href="http://localhost/keyword/%E4%B8%8A%E5%B1%B1%E7%94%B0%E7%B7%9A">上山田線</a>のルートをできるだけ忠実に走行していた81番系統の廃止を最後にすべての系統が消滅した。<br />
+<br />
+飯塚 - 平恒間、飯塚 - 碓井第二保育所（旧臼井駅）間、飯塚 - 西牛隈（旧大隈駅）間、飯塚 - 下山田 - 上山田間では西鉄バス筑豊が路線バスを運行している。上山田駅 - 豊前川崎間も西鉄が運行していたが廃止され、代替として山田生涯学習館（旧上山田駅） - 熊ヶ畑間では嘉麻市バス（旧山田市バス）が、真崎 - 東川崎 - 豊前川崎間では川崎町ふれあいバスが運行されている。熊ヶ畑 - 真崎間には現在バス交通はない。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 参考文献 ==<br />
+<br />
+*<br />
+*<br />
+*<br />
+*<br />
+<br />
+== 外部リンク ==<br />
+*[http://www.city.kama.lg.jp/ 嘉麻市]<br />
+<br />
+<br />
+<br />
+Category:九州地方の鉄道路線 (廃止)<br />
+Category:九州旅客鉄道の廃止路線<br />
+Category:日本国有鉄道の鉄道路線<br />
+Category:筑豊本線<br />
+路かみやまた<br />
+路かみやまた<br />
+Category:特定地方交通線<br />

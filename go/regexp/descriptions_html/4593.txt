@@ -1,0 +1,41 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E6%96%87%E5%BF%83%E9%9B%95%E9%BE%8D">文心雕龍</a>&#39;（ぶんしんちょうりゅう）は、中国・南朝梁の劉&amp;#x52f0;（りゅうきょう）が著した文学理論書。全10巻。5世紀の末、南斉の末期に成立したと推測される。<br />
+<br />
+中国文学史上で有数の体系的なおかつ総合的な文学理論の書として評価される。各巻は5篇からなり、全体で50篇から成る構成である。前半の25篇は「原道」（文学原理）以下、33種の各カテゴリーの文学に関して論じており、後半25篇では創作、修辞、文学環境や作者論などの諸問題を論述している。<br />
+<br />
+六朝は中国文学史において、初めて文学が文学として自立した時代であるが、本書はその記念碑的な存在である。しかしながら、単なる文学理論にとどまらず、広く六朝時代の時代層を反映しており、この時代全般を考える上でも重要な書物である。<br />
+<br />
+== 主な版本及び注釈書 ==  <br />
+* 『広漢魏叢書』本<br />
+* 『四部叢刊』本<br />
+* 范文瀾注釈本　（開明書店,1<a href="http://localhost/keyword/936%E5%B9%B4">936年</a>）（人民文学出版社,1<a href="http://localhost/keyword/958%E5%B9%B4">958年</a>）<br />
+* <a href="http://localhost/keyword/%E4%B8%AD%E8%8F%AF%E6%9B%B8%E5%B1%80">中華書局</a>本　（1<a href="http://localhost/keyword/959%E5%B9%B4">959年</a>）<br />
+* 王元化著・岡村繁主編 『<a href="http://localhost/keyword/%E6%96%87%E5%BF%83%E9%9B%95%E9%BE%8D">文心雕龍</a>講疏』　汲古書院　200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a> <br />
+* The literary mind and the carving of dragons　（Vincent Yu-chung Shih 英訳本） （Hong Kong : Chinese University Press, c1983）　ISBN 962201271X<br />
+<br />
+* 興膳宏訳注　（「陶淵明、<a href="http://localhost/keyword/%E6%96%87%E5%BF%83%E9%9B%95%E9%BE%8D">文心雕龍</a>」世界古典文学全集25　筑摩書房、初版1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>）　数度重版、読み下し・現代語訳を収録<br />
+* 目加田誠訳注　「中国古典文学大系54　中国芸術論集」平凡社、1<a href="http://localhost/keyword/975%E5%B9%B4">975年</a>、復刊1<a href="http://localhost/keyword/994%E5%B9%B4">994年</a><br />
+**『目加田誠著作集　第5巻　文心雕竜』（龍渓書舎、1<a href="http://localhost/keyword/986%E5%B9%B4">986年</a>）　各現代語訳を収録<br />
+* 戸田浩暁訳注　「<a href="http://localhost/keyword/%E6%96%87%E5%BF%83%E9%9B%95%E9%BE%8D">文心雕龍</a>　新釈漢文大系64・65」明治書院。原文・読み下し・解説・現代語訳<br />
+**抄訳版「<a href="http://localhost/keyword/%E6%96%87%E5%BF%83%E9%9B%95%E9%BE%8D">文心雕龍</a>　中国古典新書」明徳出版社<br />
+<br />
+==関連文献==<br />
+* 戸田浩暁　『中国文学論考』　汲古書院　1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>－第一編「<a href="http://localhost/keyword/%E6%96%87%E5%BF%83%E9%9B%95%E9%BE%8D">文心雕龍</a>論」18篇<br />
+* 井波律子　『中国的レトリックの伝統』　影書房、1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>／講談社学術文庫（抄版）、1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a><br />
+: 第2章「<a href="http://localhost/keyword/%E6%96%87%E5%BF%83%E9%9B%95%E9%BE%8D">文心雕龍</a>論―その文学の根本的原理への道程」、※著者の処女論考。<br />
+*興膳宏　『中国文学理論研究集成 1　新版 中国の文学理論』　清文堂出版 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>／旧版・筑摩書房、19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a><br />
+*興膳宏　『中国文学理論研究集成 2　中国文学理論の展開』　清文堂出版、200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a><br />
+* 門脇廣文　『<a href="http://localhost/keyword/%E6%96%87%E5%BF%83%E9%9B%95%E9%BE%8D">文心雕龍</a>の研究』　創文社東洋学叢書　200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>－※日本語文献で、初の詳細な専門書。<br />
+<br />
+==篇名==<br />
+<br />
+*一巻：原道、徴聖、宗経、正緯、弁騒（辨騒）<br />
+*二巻：明詩、楽府、詮賦、頌讃、祝盟<br />
+*三巻：銘箴、誄碑、哀弔、雑文、諧讔<br />
+*四巻：史伝、諸子、論説、詔策、檄移<br />
+*五巻：封禅、章表、奏啓、議対、書記<br />
+<br />
+<br />
+Category:中国の文学作品<br />
+Category:魏晋南北朝<br />
+Category:5世紀の書籍<br />

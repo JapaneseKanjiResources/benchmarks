@@ -1,0 +1,54 @@
+description<br />
+<br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>（昭和<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）3月30日<br />
+|廃止年月日 =<br />
+|乗車人員 = 18<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換 =<br />
+|備考 = 駅員無配置駅<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E4%BC%8A%E5%8B%A2%E5%85%AB%E5%A4%AA%E9%A7%85">伊勢八太駅</a>&#39;（いせはたえき）は、三重県津市一志町小山にある、東海旅客鉄道（JR東海）名松線の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>（昭和<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）3月30日 - 国鉄の駅として、権現前 - 井関間開通時に開業。一般駅。<br />
+* 1<a href="http://localhost/keyword/963%E5%B9%B4">963年</a>（昭和<a href="http://localhost/keyword/38%E5%B9%B4">38年</a>）4月1日 - 貨物・荷物の取扱いを廃止。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化によりJR東海へ移管。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を有する地上駅。線路の北側（東側）にホームが配置されている。<br />
+<br />
+松阪駅管理の無人駅。待合所すらないが、駅舎のあとが残る。<br />
+<br />
+== 利用状況 ==<br />
+「三重県統計書」によると、1日の平均乗車人員は以下の通りである。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 忘れ井 - 千年以上前から知られていた、名水の湧き出す井戸。<br />
+* 当駅と権現前駅の間くらいに近鉄伊勢中川駅がある。（ただし、東に3km以上離れており、自動車で15分程度、徒歩では約40分以上かかる。）<br />
+* 当駅は伊勢自動車道一志<a href="http://localhost/keyword/%E5%AC%89%E9%87%8E%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8">嬉野インターチェンジ</a>の最寄り駅である。（南方に1.4km、自動車で約5分 - 8分程度。）<br />
+* この周辺は津市のベッドタウンとして発展している。<br />
+<br />
+== 隣の駅 ==<br />
+; 東海旅客鉄道<br />
+: 名松線<br />
+:: 権現前駅 - &#39;<a href="http://localhost/keyword/%E4%BC%8A%E5%8B%A2%E5%85%AB%E5%A4%AA%E9%A7%85">伊勢八太駅</a>&#39; - 一志駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+<br />
+Category:津市の鉄道駅<br />
+せはた<br />
+Category:東海旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>開業の鉄道駅<br />

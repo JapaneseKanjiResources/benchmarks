@@ -1,0 +1,46 @@
+description<br />
+&#39;伊原 康隆&#39;（いはら やすたか、1<a href="http://localhost/keyword/938%E5%B9%B4">938年</a> - ）は、日本の数学者。中央大学21世紀COE教授、東大名誉教授、京大名誉教授。専門は整数論で多くの業績をあげている。<br />
+<br />
+== 来歴・人物 ==<br />
+東京都出身。都立日比谷高校を経て、1<a href="http://localhost/keyword/961%E5%B9%B4">961年</a>、東京大学理学部卒業。1<a href="http://localhost/keyword/963%E5%B9%B4">963年</a>、同大学院修士課程修了。理学博士。東大教授を経て、京都大学数理解析研究所教授、200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>退官。ICM (kyoto,1990)ではplenary speaker、ICM (Beijing,2002)ではフィールズ賞選考委員。<br />
+<br />
+1<a href="http://localhost/keyword/967%E5%B9%B4">967年</a>　東京大学 理学博士。論文は「Hecke polynomials as congruence ζ functions in elliptic modular case(楕円モジュラーのヘッケ多項式を合同ゼータ関数で表わすこと)」博士論文書誌<a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a>。<br />
+<br />
+==業績==<br />
+* 関数体上の非可換類体論<br />
+* pro- l  基本群のガロワ表現<br />
+* ICM (Kyoto,1990)で &#39;&#39;Braids, Galois groups and some arithmetic functions.&#39;&#39; と題した講演を行い、エドワード・ウィッテンをひっくり返るほど驚かせた。<br />
+* Sp(4) とそのコンパクト・ツイスト上の保型形式の対応 : ラングランズ予想の特殊な場合だが、この予想が出る<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>(?)ほど前の着想<br />
+* 合同モノドロミー : 標数pの有限体上の代数曲線のある種のガロア被覆全体をp進体上のPSL(2)と実数体上のPSL(2)の直積の離散部分群で記述する理論。<br />
+* 伊原のゼータ函数<br />
+* 学位論文において、<a href="http://localhost/keyword/%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%A6%E4%BA%88%E6%83%B3">ヴェイユ予想</a>からラマヌジャン予想を導いた : 佐藤幹夫の計算だけでは十分ではなく、久賀道郎とともに本質的アイディアを出した<br />
+* 代数曲線の基本群への有理数体のガロア群の作用 : 遠アーベル幾何の一部で、いち早く l -進定式化を行いヤコビ和との関連など業績をあげた。 <br />
+* 数の微分 : 出題者はアーベル?アイゼンシュタイン?<br />
+* セールの本の元ネタ ： PSL_2(Q_p)の構造を組合せ論的に考察。これはセールの本の元になっている。<br />
+<br />
+弟子も多く、伊吹山知義（阪大教授）、織田孝幸（東大教授）、加藤和也（京大教授）、斎藤秀司（東大教授）、斎藤毅（東大教授）、金子昌信(九大教授)、橋本喜一朗(早大教授)等がいる。<br />
+<br />
+== 受賞歴・叙勲・講演歴 ==<br />
+* 1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a> - ICM招待講演<br />
+* 1<a href="http://localhost/keyword/973%E5%B9%B4">973年</a> - 日本数学会彌永賞：類体論の非アーベル化<br />
+* 19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a> - ICM全体講演<br />
+* 1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a> - 日本学士院日本学士院賞：数論の研究<br />
+* 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a> - 瑞宝中綬章<br />
+<br />
+== 著作 ==<br />
+* 「志学数学」 シュプリンガー・フェアラーク東京 <br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+Category:日本の数学者<br />
+380000<br />
+-380000<br />
+Category:京都大学の教員<br />
+Category:東京大学の教員<br />
+Category:京都大学数理解析研究所の人物<br />
+Category:東京都出身の人物<br />
+Category:瑞宝中綬章受章者<br />
+Category:1<a href="http://localhost/keyword/938%E5%B9%B4">938年</a>生<br />
+Category:数学に関する記事<br />

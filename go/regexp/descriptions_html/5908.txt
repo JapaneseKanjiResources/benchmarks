@@ -1,0 +1,98 @@
+description<br />
+<br />
+<br />
+|駅構造     = 地上駅<br />
+|ホーム     = 2面3線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/914%E5%B9%B4">914年</a>（大正3年）12月1日<br />
+|廃止年月日 = 1<a href="http://localhost/keyword/945%E5%B9%B4">945年</a>（昭和<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）3月28日ごろに最終運行（事実上廃止）。<br />
+|乗車人員   = <br />
+|乗降人員   = <br />
+|統計年度   = <br />
+|乗入路線数= 2<br />
+|所属路線1 = 与那原線*<br />
+|隣の駅1   = <br />
+|前の駅1   = <br />
+|駅間A1    = <br />
+|駅間B1    = 1.2<br />
+|次の駅1   = 古波蔵<br />
+|駅番号1   =<br />
+|キロ程1   = 0.0<br />
+|起点駅1   = 当駅<br />
+|所属路線2 = 海陸連絡線<br />
+|隣の駅2   = <br />
+|前の駅2   = <br />
+|駅間A2    = <br />
+|駅間B2    = 1.0<br />
+|次の駅2   = 桟橋荷扱所<br />
+|駅番号2   =<br />
+|キロ程2   = 0.0<br />
+|起点駅2   = 当駅<br />
+|乗換       = <br />
+|備考       = *嘉手納線・糸満線も乗り入れ<br />
+}}<br />
+沖縄戦後の<a href="http://localhost/keyword/%E9%82%A3%E8%A6%87%E9%A7%85">那覇駅</a>（1<a href="http://localhost/keyword/945%E5%B9%B4">945年</a>）<br />
+&#39;<a href="http://localhost/keyword/%E9%82%A3%E8%A6%87%E9%A7%85">那覇駅</a>&#39;（なはえき、琉球方言：ナーファー）は、1<a href="http://localhost/keyword/914%E5%B9%B4">914年</a>（大正3年）12月1日から1<a href="http://localhost/keyword/945%E5%B9%B4">945年</a>（昭和<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）3月までの間、沖縄県那覇市にあった<a href="http://localhost/keyword/%E6%B2%96%E7%B8%84%E7%9C%8C%E5%96%B6%E9%89%84%E9%81%93%E4%B8%8E%E9%82%A3%E5%8E%9F%E7%B7%9A">沖縄県営鉄道与那原線</a>、海陸連絡線の駅（廃駅）である。<br />
+<br />
+現在、駅があった場所は那覇バスターミナル（20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>から20<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>まで再開発により閉鎖中）となっており、近くには沖縄都市モノレール線（ゆいレール）の旭橋駅がある。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/914%E5%B9%B4">914年</a>（大正3年）12月1日 - 与那原線の駅として開業。<br />
+* 1<a href="http://localhost/keyword/917%E5%B9%B4">917年</a>（大正<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）7月1日 - 海陸連絡線の当駅 - 桟橋荷扱所間が開業。<br />
+* 1<a href="http://localhost/keyword/922%E5%B9%B4">922年</a>（大正<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）3月28日 - 嘉手納線が開業、当駅まで乗り入れ開始。<br />
+* 1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>（大正<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）7月11日 - 糸満線が開業、当駅まで乗り入れ開始。<br />
+* 1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>（昭和<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）10月10日 - 十・十空襲により駅舎、および駅設備をほぼ焼失。<br />
+* 1<a href="http://localhost/keyword/945%E5%B9%B4">945年</a>（昭和<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）<br />
+** 3月23日ごろ - 嘉手納線の運行が終了。<br />
+** 3月28日ごろ - 与那原線、糸満線の運行が終了。旅客乗り入れ路線がなくなり事実上廃止。<br />
+<br />
+== 駅構造 ==<br />
+対向式ホーム1面1線、島式ホーム1面2線の計2面3線の地上駅。さらに、機関庫、修理庫などの設備を有しており、県営鉄道唯一の転車台が存在した。側線も4〜5本設置されており、県営鉄道の駅の中では最大の規模を持つ駅であった。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+海陸連絡線は貨物線としての利用が主だったため、ホームは設置されていなかった。但し、貨物の積載所が存在した。<br />
+<br />
+== 駅周辺 ==<br />
+* 久茂地川<br />
+* 与那原街道（現・国道329号）<br />
+* 交番<br />
+<br />
+== 駅跡の現在 ==<br />
+駅跡に建設された那覇バスターミナル（20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>8月）<br />
+戦前から現存する仲島の大石（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>9月20日）<br />
+前述のように戦後は那覇バスターミナルが立地し、鉄道駅時代と変わらず交通の要所となった。バスターミナルは再開発のため、20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>5月にいったん閉鎖された。<br />
+<br />
+沖縄戦や戦後の米軍による整地などにより、バスターミナル供用当時は駅があったことを示すものは何も残っていなかった。唯一戦前から現存する構造物に、現在バスターミナル構内にある「仲島の大石（なかしまのうふいし）」と呼ばれる琉球石灰岩の大きな岩がある。県指定天然記念物に指定されており、県営鉄道開通前から戦時中、そして現在においても位置は変わっていない。<br />
+<br />
+バスターミナル閉鎖後、再開発工事中の20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>10月に<a href="http://localhost/keyword/%E9%82%A3%E8%A6%87%E9%A7%85">那覇駅</a>の転車台遺構が発見された[http://www.okinawatimes.co.jp/article.php?id=139041&amp;f=cr 軽便鉄道・<a href="http://localhost/keyword/%E9%82%A3%E8%A6%87%E9%A7%85">那覇駅</a>の転車台か　れんが積みの遺構公開] - 沖縄タイムス20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>10月28日。<br />
+<br />
+== 隣の駅 ==<br />
+; 沖縄県営鉄道<br />
+: 与那原線・嘉手納線・糸満線<br />
+:: &#39;<a href="http://localhost/keyword/%E9%82%A3%E8%A6%87%E9%A7%85">那覇駅</a>&#39; - 古波蔵駅<br />
+: 海陸連絡線<br />
+:: &#39;<a href="http://localhost/keyword/%E9%82%A3%E8%A6%87%E9%A7%85">那覇駅</a>&#39; - 桟橋荷扱所駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 参考文献 ==<br />
+* <br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+は<br />
+Category:沖縄県の廃駅<br />
+なはえき<br />
+Category:1<a href="http://localhost/keyword/914%E5%B9%B4">914年</a>開業の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/945%E5%B9%B4">945年</a>廃止の鉄道駅<br />
+廃なはえき<br />
+なはえき<br />

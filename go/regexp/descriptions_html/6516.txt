@@ -1,0 +1,64 @@
+description<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E3%83%90%E3%82%B9%E3%83%AD%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0">バスロケーションシステム</a>&#39;(Bus Location System)とは、<a href="http://localhost/keyword/%E7%84%A1%E7%B7%9A%E9%80%9A%E4%BF%A1">無線通信</a>やGPSなどを利用してバスの位置情報を収集することにより、バスの定時運行の調整等に役立てるシステムを言う。路線バスの運行は道路事情や天候による影響が大きく、鉄道などのほかの交通機関に比べて定時制の確保が難しいが、このシステムにより問題緩和を行う。<br />
+<br />
+日本では、利用者向けサービスのために、バスの接近や到着予測時刻情報を、バス停留所や携帯電話、インターネットにおいて情報提供する機能を主とすることが多い。<br />
+これによってバスの位置情報を提供することで、利用者は待ち時間のだいたいの目安がわかり、時間を有効に利用することができる。バス事業者では運行管理システムを兼ねていることが多い。本稿は、このような利用者向けサービスのシステムを説明する。なおこれは英語では bus arrival (and departure) information system と呼ばれる。<br />
+<br />
+== 沿革 ==<br />
+1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>代以降、道路渋滞が目立つようになり、時刻通りのバス運行が困難となり、なかなかバスが来ないことが乗客の不満事項の一つとして上げられていた。このようなバス待ちのストレスを解消するため、1<a href="http://localhost/keyword/977%E5%B9%B4">977年</a>度（昭和<a href="http://localhost/keyword/52%E5%B9%B4">52年</a>度）の「大都市モデルバスシステム整備費補助金」により、1<a href="http://localhost/keyword/978%E5%B9%B4">978年</a>（昭和<a href="http://localhost/keyword/53%E5%B9%B4">53年</a>）5月から新宿駅西口バスターミナルに乗り入れているバス路線[http://www.mlit.go.jp/hakusyo/transport/shouwa53/ind040103/frame.html 昭和<a href="http://localhost/keyword/53%E5%B9%B4">53年</a>運輸白書]。について運用を開始したのが<a href="http://localhost/keyword/%E3%83%90%E3%82%B9%E3%83%AD%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0">バスロケーションシステム</a>の始まりである。その後、この成果を基にして国としてシステムの整備を促進するため、1<a href="http://localhost/keyword/979%E5%B9%B4">979年</a>度（昭和<a href="http://localhost/keyword/54%E5%B9%B4">54年</a>度）から「<a href="http://localhost/keyword/%E3%83%90%E3%82%B9%E3%83%AD%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0">バスロケーションシステム</a>整備費補助制度」を実施することとなった。<br />
+<br />
+2000年代からは携帯電話網の普及・拡大により高速バスや空港リムジンバスにおいても採用される路線が増えている。<br />
+<br />
+== システム ==<br />
+バスの位置情報は<br />
+*バスとバス停に備え付けられたアンテナを介して、通過情報を取得して情報センターへ送信する方法<br />
+*GPSを利用して現在の位置を取得し、携帯電話のパケット通信や業務無線等により情報センターへ送信する方法<br />
+などがあり、いずれも情報センターへ集められた位置情報を利用者へ提供している。<br />
+現在は後者のGPSとパケット通信を使用したシステムが主流で、日本国内では、NECネクサソリューションズ株式会社がシェアトップ（車両台数ベースで50%以上）となっている。<br />
+<br />
+=== 位置情報の利用法 ===<br />
+位置情報は、下記写真のようにバス停に設置された情報端末で提供されるほか、インターネットや携帯電話を介して利用者へ提供される。<br />
+<br />
+画像:Bus location.jpg|京都市営バスがバス停で提供する位置情報<br />
+画像:Busloc2.jpg|秋田市交通局が導入したバス停の最新型<br />
+Image:Toei-Kanni-Bus-Location.jpg|都営バスにおける簡易接近表示の例<br />
+Image:Tobus Location.jpg|都営バスにおける近年の高機能型接近表示付バス停の例<br />
+画像:Iwakuni City Bus bus stop.jpg|岩国市交通局がバス停で提供する位置情報<br />
+画像:109-Todoroki-7.jpg|東急バスでは1<a href="http://localhost/keyword/986%E5%B9%B4">986年</a>から1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a>まで、到着予定時刻を表示する方法を一部路線で採用していた<br />
+画像:Bus-Location-mobile-Kanachu.jpg|神奈川中央交通における携帯電話での接近表示の例<br />
+画像:Bus-Location-Board kumamoto-city touricyousuji 1.jpg|熊本都市圏における接近表示の例<br />
+File:HachinoheCityBus BusLoca Lapia.jpg|八戸市交通部が導入した最新型運行情報表示器<br />
+File:京阪バスの<a href="http://localhost/keyword/%E3%83%90%E3%82%B9%E3%83%AD%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0">バスロケーションシステム</a>案内表示器。京阪寝屋川市駅にて 2014-05-13 22-36.jpg|京阪バスが主要バスターミナルに導入した運行情報表示器<br />
+<br />
+<br />
+== 出典 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+*オムニバスタウン<br />
+*都市新バスシステム<br />
+*ゾーンバス<br />
+*基幹バス<br />
+*PTPS（公共車輌優先システム）<br />
+*バスレーン<br />
+*リバーシブルレーン<br />
+*ET-Navi<br />
+*山梨県バス総合案内システム<br />
+<br />
+== 外部リンク ==<br />
+*[http://www.nec-nexs.com/solution/case/iyobus.html <a href="http://localhost/keyword/%E3%83%90%E3%82%B9%E3%83%AD%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0">バスロケーションシステム</a>の導入事例（NECネクサソリューションズ）]<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:道路交通<br />
+Category:乗合バス事業<br />
+Category:バス停<br />
+Category:交通政策<br />
+Category:情報システム<br />
+Category:オンライン交通情報<br />

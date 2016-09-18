@@ -1,0 +1,53 @@
+description<br />
+<br />
+奥羽本線<br />
+|キロ程     = 314.9<br />
+|起点駅     = 福島<br />
+|所在地     = 秋田県潟上市昭和大久保<br />
+|座標       = <br />
+|駅構造     = 地上<br />
+|ホーム     = 2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/964%E5%B9%B4">964年</a>（昭和<a href="http://localhost/keyword/39%E5%B9%B4">39年</a>）9月28日 <br />
+|廃止年月日 = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）9月27日<br />
+|乗車人員   = <br />
+|乗降人員   = <br />
+|統計年度   = <br />
+|乗換       = <br />
+|備考       = <br />
+}}<br />
+構内配線図　A:大久保　B:追分<br />
+&#39;<a href="http://localhost/keyword/%E5%A4%A7%E6%B8%85%E6%B0%B4%E4%BF%A1%E5%8F%B7%E5%A0%B4">大清水信号場</a>&#39;（おおしみずしんごうじょう）は、秋田県潟上市昭和大久保にあった、東日本旅客鉄道（JR東日本）奥羽本線の信号場である。<br />
+<br />
+== 構造 ==<br />
+<br />
+<a href="http://localhost/keyword/%E8%BF%BD%E5%88%86%E9%A7%85">追分駅</a>より大久保駅方向に約3.2kmにある2線の信号場。<br />
+<br />
+本線・副本線とも双方向に出発信号機を備えた一線スルー構造となっている。<br />
+<br />
+比較的駅間距離が短かったことや運転本数が減少傾向にあることで、線区のスリム化の観点から廃止された。<br />
+<br />
+== 周辺 ==<br />
+耕作地および山林が広がる。国道7号とほぼ並行している。<br />
+*秋田市立金足西小学校<br />
+<br />
+== 交通手段 ==<br />
+秋田中央交通大清水バス停から徒歩6分<br />
+<br />
+== 歴史 == <br />
+*1<a href="http://localhost/keyword/964%E5%B9%B4">964年</a>（昭和<a href="http://localhost/keyword/39%E5%B9%B4">39年</a>）9月28日 - 開設。<br />
+*20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）9月27日 - 廃止。<br />
+<br />
+== 隣の施設 ==<br />
+;東日本旅客鉄道<br />
+:奥羽本線<br />
+::<a href="http://localhost/keyword/%E8%BF%BD%E5%88%86%E9%A7%85">追分駅</a> - &#39;<a href="http://localhost/keyword/%E5%A4%A7%E6%B8%85%E6%B0%B4%E4%BF%A1%E5%8F%B7%E5%A0%B4">大清水信号場</a>&#39; - 大久保駅<br />
+<br />
+<br />
+<br />
+<br />
+Category:秋田県の廃駅<br />
+Category:東日本旅客鉄道の信号場<br />
+Category:日本国有鉄道の信号場<br />
+おおしみすしんこうしよう<br />
+おおしみすしんこうしよう<br />
+おおしみすしんこうしよう<br />

@@ -1,0 +1,65 @@
+description<br />
+<br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/933%E5%B9%B4">933年</a>（昭和<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）11月12日<br />
+|廃止年月日 =<br />
+|乗車人員 =<br />
+|乗降人員 =<br />
+|統計年度 =<br />
+|乗換 =<br />
+|備考 = 無人駅<br />
+}}<br />
+構内北側にあるスノーシェルター（200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>9月）<br />
+&#39;<a href="http://localhost/keyword/%E6%89%93%E4%BF%9D%E9%A7%85">打保駅</a>&#39;（うつぼえき）は、岐阜県飛騨市<a href="http://localhost/keyword/%E5%AE%AE%E5%B7%9D%E7%94%BA">宮川町</a>打保にある、東海旅客鉄道（JR東海）<a href="http://localhost/keyword/%E9%AB%98%E5%B1%B1%E6%9C%AC%E7%B7%9A">高山本線</a>の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/933%E5%B9%B4">933年</a>（昭和<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）11月12日 - 国鉄飛越線の駅として、坂上-杉原の開通時に開業。一般駅。<br />
+* 1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>（昭和<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）10月25日 - 線路名称改定。飛越線が<a href="http://localhost/keyword/%E9%AB%98%E5%B1%B1%E6%9C%AC%E7%B7%9A">高山本線</a>に編入され、当駅もその所属となる。<br />
+* 1<a href="http://localhost/keyword/973%E5%B9%B4">973年</a>（昭和<a href="http://localhost/keyword/48%E5%B9%B4">48年</a>）4月20日 - 貨物の取扱いを廃止。<br />
+* 1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>（昭和<a href="http://localhost/keyword/59%E5%B9%B4">59年</a>）2月1日 - 荷物の取扱いを廃止。<br />
+* 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>（昭和<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>）6月1日 - 無人駅化。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、東海旅客鉄道（JR東海）の駅となる。<br />
+* 2003年（平成<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）3月 - 簡易駅舎に改築。<br />
+* 200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>（平成<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>）10月22日 - 水害による路盤流出により、キハ48形（5803・6810）が当駅に取り残される。<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）<br />
+** 2月9日 - 不通区間の工事終了に伴い、上記2両がJR高山駅まで搬出され、その後名古屋市のJR東海名古屋車両区まで検査のため回送された（隣の坂上駅までは自走し、その後はディーゼル機関車にて牽引輸送）。<br />
+** 9月8日 - <a href="http://localhost/keyword/%E9%AB%98%E5%B1%B1%E6%9C%AC%E7%B7%9A">高山本線</a>の全線再開に伴い3年ぶりに駅の営業を再開。<br />
+<br />
+== 駅構造 ==<br />
+相対式ホーム2面2線を持ち、列車交換が可能な地上駅である。構内西側の1番線に猪谷方面行きの下り列車が停車し、構内東側の2番線に高山方面行きの上り列車が停車する。<br />
+<br />
+1<a href="http://localhost/keyword/983%E5%B9%B4">983年</a>まで特急「北アルプス」が富山地方鉄道へ乗り入れをしていた時期は当駅にて「北アルプス」同士の交換が行われていた。<br />
+<br />
+1番線に隣接して簡易駅舎が設置されている。2番ホームとは跨線橋で繋がっている。高山駅管理の無人駅となっている。<br />
+<br />
+構内の分岐器はスノーシェルターで覆われているが、この設備は<a href="http://localhost/keyword/%E9%AB%98%E5%B1%B1%E6%9C%AC%E7%B7%9A">高山本線</a>では当駅にしかない。200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>の台風23号による災害で車両が孤立した際には、このシェルターを車両の保護に使用したこともある。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 国道360号<br />
+* 郷土文化伝習館（国重要有形民俗文化財指定の雪国特有の用具など展示。徒歩10分程）<br />
+<br />
+== 隣の駅 ==<br />
+; 東海旅客鉄道<br />
+: <a href="http://localhost/keyword/%E9%AB%98%E5%B1%B1%E6%9C%AC%E7%B7%9A">高山本線</a><br />
+:: 坂上駅 - &#39;<a href="http://localhost/keyword/%E6%89%93%E4%BF%9D%E9%A7%85">打保駅</a>&#39; - 杉原駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+<br />
+つほ<br />
+Category:東海旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:飛騨市の鉄道駅<br />
+Category:<a href="http://localhost/keyword/%E9%AB%98%E5%B1%B1%E6%9C%AC%E7%B7%9A">高山本線</a><br />
+Category:1<a href="http://localhost/keyword/933%E5%B9%B4">933年</a>開業の鉄道駅<br />

@@ -1,0 +1,68 @@
+description<br />
+<br />
+真岡線<br />
+|キロ程    = 31.2<br />
+|起点駅    = 下館<br />
+|所在地    = 栃木県芳賀郡市貝町多田羅770-4<br />
+|緯度度=36|緯度分=30|緯度秒=57.37<br />
+|経度度=140|経度分=5|経度秒=23.15<br />
+|駅構造    = 地上駅<br />
+|ホーム    = 1面1線<br />
+|開業年月日= 1<a href="http://localhost/keyword/955%E5%B9%B4">955年</a>（昭和<a href="http://localhost/keyword/30%E5%B9%B4">30年</a>）4月1日<br />
+|廃止年月日=<br />
+|乗車人員  = 80<br />
+|乗降人員  = <br />
+|統計年度  = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換      =<br />
+|備考      = <br />
+}}<br />
+<a href="http://localhost/keyword/%E5%A4%9A%E7%94%B0%E7%BE%85%E9%A7%85">多田羅駅</a>構内（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>6月7日）<br />
+&#39;<a href="http://localhost/keyword/%E5%A4%9A%E7%94%B0%E7%BE%85%E9%A7%85">多田羅駅</a>&#39;（たたらえき）は、栃木県芳賀郡市貝町にある真岡鐵道真岡線の駅である。「SLもおか」停車駅。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/955%E5%B9%B4">955年</a>（昭和<a href="http://localhost/keyword/30%E5%B9%B4">30年</a>）4月1日 - 日本国有鉄道の駅として開業。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により東日本旅客鉄道（JR東日本）に継承。<br />
+* 19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>（昭和<a href="http://localhost/keyword/63%E5%B9%B4">63年</a>）4月11日 - 真岡鐵道に転換。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を有する地上駅で無人駅である。<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>度の一日平均乗車人員は82人である。<br />
+近年の一日平均乗車人員の推移は下記のとおり。<br />
+<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+駅前に商店は1軒のみ。住宅も少ない。駅前広場がある。<br />
+* 太平洋クラブ&amp;アソシエイツ益子コース<br />
+* 入野家住宅 - 国指定文化財。<br />
+* 多田羅沼<br />
+* 伊許山 - キャンプ場、伊許山園地がある。<br />
+<br />
+== 隣の駅 ==<br />
+; 真岡鐵道<br />
+: 真岡線<br />
+:: 七井駅 - &#39;<a href="http://localhost/keyword/%E5%A4%9A%E7%94%B0%E7%BE%85%E9%A7%85">多田羅駅</a>&#39; - 市塙駅　　　　　　　　　　　　　　　<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+ <br />
+== 関連項目 ==<br />
+<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.moka-railway.co.jp/kankou02_05.php <a href="http://localhost/keyword/%E5%A4%9A%E7%94%B0%E7%BE%85%E9%A7%85">多田羅駅</a>] - 真岡鐵道公式Web<br />
+<br />
+<br />
+<br />
+<br />
+Category:栃木県の鉄道駅<br />
+たら<br />
+Category:真岡鐵道の鉄道駅<br />
+Category:東日本旅客鉄道の廃駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:市貝町<br />
+Category:1<a href="http://localhost/keyword/955%E5%B9%B4">955年</a>開業の鉄道駅<br />

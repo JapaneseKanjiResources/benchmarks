@@ -1,0 +1,104 @@
+description<br />
+<br />
+<br />
+&#39;TI 13&#39;<br />
+|所属事業者= 32px 東武鉄道<br />
+|所属路線= TI 伊勢崎線<br />
+|キロ程  = 83.9<br />
+|起点駅  = 浅草<br />
+|所在地  = 栃木県足利市福居町<br />
+|緯度度=36|緯度分=18|緯度秒=19.70<br />
+|経度度=139|経度分=27|経度秒=30.07<br />
+|駅構造  = 地上駅<br />
+|ホーム  = 2面2線<br />
+|開業年月日 = 190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（明治40年）8月27日<br />
+|乗降人員 = 685<br />
+|統計年度 = 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a><br />
+|備考 = 業務委託駅 <br />
+}}<br />
+}<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+↓東武和泉駅<br />
+|}<br />
+|}<br />
+跨線橋より（200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>3月）<br />
+&#39;<a href="http://localhost/keyword/%E7%A6%8F%E5%B1%85%E9%A7%85">福居駅</a>&#39;（ふくいえき）は、栃木県足利市福居町にある東武鉄道伊勢崎線の駅である。駅番号は&#39;TI 13&#39;。<br />
+<br />
+== 年表 ==<br />
+* 190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（明治40年）8月27日 - 開業。<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）1月21日 - パーク・アンド・ライドサービス開始。<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）3月17日 - 駅ナンバリング導入。<br />
+* 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>（平成<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）9月中旬 - 駅舎改築工事。20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>（平成2<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）1月下旬完成予定。<br />
+* 20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>（平成2<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）3月31日- 新駅舎供用開始。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム2面2線を有する地上駅である。駅舎は伊勢崎方面ホーム側にあり、浅草方面ホームとの間は跨線橋で連絡している。かつて浅草方面ホームは待避線のある島式ホームであったが、1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>代に跨線橋を設置する際、上り線を外側に移動した。<br />
+<br />
+トイレは伊勢崎方面ホーム側に設置されている。<br />
+<br />
+駅の営業時間は初電から21時までとなっている。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+*上記の路線名は旅客案内上の名称（「東武スカイツリーライン」は愛称）で表記している。<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>度の一日平均乗降人員は685人である。近年の一日平均乗降人員の推移は下記の通り｡<br />
+<br />
+<br />
+== 路線バス ==<br />
+* &#39;あしバスアッシー&#39;（足利市生活路線バス）（20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>7月1日から）<br />
+** &#39;御厨線&#39;<br />
+*** &#39;61系統（左回り）：&#39;足利赤十字病院 - JR足利駅 - 東武足利市駅 - アピタ - ヨークタウン - &#39;<a href="http://localhost/keyword/%E7%A6%8F%E5%B1%85%E9%A7%85">福居駅</a>入口&#39; - 筑波小前 - 南幸楽荘 - &#39;<a href="http://localhost/keyword/%E7%A6%8F%E5%B1%85%E9%A7%85">福居駅</a>入口&#39; - ヨークタウン - アピタ - 東武足利市駅 - JR足利駅 - 足利赤十字病院<br />
+*** &#39;62系統（右回り）&#39;：足利赤十字病院 - JR足利駅 - 東武足利市駅 - アピタ - ヨークタウン - &#39;<a href="http://localhost/keyword/%E7%A6%8F%E5%B1%85%E9%A7%85">福居駅</a>入口&#39; - 南幸楽荘 - 筑波小前 - &#39;<a href="http://localhost/keyword/%E7%A6%8F%E5%B1%85%E9%A7%85">福居駅</a>入口&#39; - ヨークタウン - アピタ - 東武足利市駅 - JR足利駅 - 足利赤十字病院<br />
+<br />
+* &#39;足利市生活路線バス&#39;（20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>6月30日まで）<br />
+**「みなみ号」（御厨循環線）61系統・62系統：東武足利市駅 - 今井病院前 - アピタ前 - ヨークタウン - &#39;<a href="http://localhost/keyword/%E7%A6%8F%E5%B1%85%E9%A7%85">福居駅</a>入口&#39; - 協和中入口 - 筑波小前 - 久野小前 - 梁田公民館 - 南幸楽荘 - 上渋垂町 - &#39;<a href="http://localhost/keyword/%E7%A6%8F%E5%B1%85%E9%A7%85">福居駅</a>入口&#39; - ヨークタウン  - アピタ前 - 今井病院前 - 東武足利市駅<br />
+<br />
+== 駅周辺 ==<br />
+* 国道50号<br />
+* 旧明治紡績（現・トチセン）工場の赤レンガ棟（国の登録有形文化財）<br />
+* 足利市立協和中学校<br />
+* 足利市立御厨小学校<br />
+* 足利市御厨公民館<br />
+* 足利市河南消防署<br />
+* 雇用促進住宅福居宿舎<br />
+* 母衣輪神社　<br />
+* 福居郵便局<br />
+* 足利小山信用金庫福居支店<br />
+<br />
+* 八木宿 - 八木節発祥の地。<br />
+<br />
+<br />
+== 隣の駅 ==<br />
+; 32px 東武鉄道<br />
+: TI 伊勢崎線<br />
+:: 区間急行・区間準急（平日の上り1本のみ）・普通<br />
+::: 県駅 (TI 12) - &#39;<a href="http://localhost/keyword/%E7%A6%8F%E5%B1%85%E9%A7%85">福居駅</a> (TI 13)&#39; - 東武和泉駅 (TI 14)<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 日本の鉄道駅一覧<br />
+* 栃木県道129号福居停車場線 - 駅前通り<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.tobu.co.jp/station/info/1703.html 東武鉄道 <a href="http://localhost/keyword/%E7%A6%8F%E5%B1%85%E9%A7%85">福居駅</a>]<br />
+<br />
+<br />
+<br />
+Category:栃木県の鉄道駅<br />
+くい<br />
+Category:東武鉄道の鉄道駅<br />
+ふくいえき<br />
+Category:190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>開業の鉄道駅<br />

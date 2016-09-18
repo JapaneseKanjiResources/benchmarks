@@ -1,0 +1,169 @@
+description<br />
+<br />
+<br />
+[[ブレーメン市 GT8N]]<br />
+&#39;<a href="http://localhost/keyword/%E3%83%96%E3%83%AC%E3%83%BC%E3%83%A1%E3%83%B3%E5%BD%A2">ブレーメン形</a>&#39; (&#39;Typ Bremen&#39;) は、超低床路面電車の形式の1つ。<br />
+<br />
+== 概説 ==<br />
+ドイツのメーカー・MAN GHHが、19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>に試作車を発表し（ブレーメン市に納車）、19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>より量産を開始した。<br />
+<br />
+左右独立車輪の採用により台車部分を含む客室床面の全面の超低床化を実現し、100%超低床路面電車の普及に貢献した。製造会社が幾度も変わっており、現在はボンバルディア・トランスポーテーション（Bombardier Transportation）が製造している。<br />
+<br />
+メーカから正式な愛称を与えられていないため、最初に投入された都市ブレーメンにちなんだ Typ Bremen 以外に、製造会社にちなんだ Typ MAN/AEG、Typ AEG などいくつかの呼び方がある。「<a href="http://localhost/keyword/%E3%83%96%E3%83%AC%E3%83%BC%E3%83%A1%E3%83%B3%E5%BD%A2">ブレーメン形</a>」を指してGTシリーズと呼んでいる事例もあるが、これは適切ではない。GTはGelenkTriebwagen(連接の自走可能車)を意味し、ドイツの他のメーカの車両にも広く使われている一般的な車両形式名である。<br />
+<br />
+AEGとABBの鉄道部門が経営統合してアドトランツが設立された際に、それまでの超低床路面電車モデル（<a href="http://localhost/keyword/%E3%83%96%E3%83%AC%E3%83%BC%E3%83%A1%E3%83%B3%E5%BD%A2">ブレーメン形</a>、ユーロトラム、バリオバーン(:de:Variobahn）を形式統合する試みが行われ、新しいモデルとしてインチェントロを開発した（ユーロトラムやバリオバーンの様にフローティング車体を採用）。しかし従来の車両形式の終息にはつながらず、<a href="http://localhost/keyword/%E3%83%96%E3%83%AC%E3%83%BC%E3%83%A1%E3%83%B3%E5%BD%A2">ブレーメン形</a>も新型車体化して引き続き作られ，これらの多種の車両形式を生産することになった。<br />
+<br />
+ボンバルディア社がアドトランツ社を引き継いだ後は、<a href="http://localhost/keyword/%E3%83%96%E3%83%AC%E3%83%BC%E3%83%A1%E3%83%B3%E5%BD%A2">ブレーメン形</a>は、公式の製品カタログからは外されたが、新潟トランシスによる製造が続いた。ユーロトラムとインチェントロ(:en:Incentro）は、フレキシティ・アウトルックシリーズに含まれる形で製品カタログに残されている。<br />
+<br />
+製造会社の変遷<br />
+* 1990 MAN Gutehoffnungshutte Schienenverkehrstechnik AG<br />
+* 1993 AEG Schienenfahrzeuge Nahverkehr &amp; Wagen GmbH (車体の製造・組み立てはLHBが担当)<br />
+* 1996 ABB Daimler-Benz Transportation AG (Adtranz)<br />
+* 1999 DaimlerChrysler Rail Systems GmbH (ADtranz)<br />
+* 2001 Bombardier Transportation<br />
+<br />
+== 基本仕様 ==<br />
+<br />
+全ての車体に2軸台車を一つずつ装備した特徴の連接構造をとり、フローティング車体は使用していない（シーメンスの新設計であるコンビーノ・プラスもこの特徴を持つ）。2車体連接から4車体連接までの製造実績がある。<br />
+<br />
+そして左右独立車輪の採用により台車部分の低床化を実現しており、この部分の床面高さは360(一部車両は350)mm、ドア付近では300mmとなっている。各車体の中央に台車を持つため、客用扉は各車体の側面に向かって左側に寄せて取り付けられており、一方の先頭車体のみ2扉となっている。扉は両開きのプラグドアである。主電動機は各車体に1台ずつ装荷しており、片側はそのまま平歯車で、反対側には床下のねじり軸を介して駆動している。車体装架カルダン駆動方式の変形である。<br />
+<br />
+== 車両形式 ==<br />
+<br />
+<a href="http://localhost/keyword/%E3%83%96%E3%83%AC%E3%83%BC%E3%83%A1%E3%83%B3%E5%BD%A2">ブレーメン形</a>の車両形式は，ドイツの標準的形式名の法則（→GTシリーズ）に従って決められている。<br />
+<br />
+<br />
+== 諸元 ==<br />
+<br />
+以下の諸元は過去の実績に基づく標準的な数値。<br />
+*車体幅 : 2300mm / 2350mm /2400m<br />
+*全長<br />
+**先頭部車体 : 8950mm / 9100mm / 9250mm <br />
+**中間車体 : 8600mm<br />
+*車体高 : 3290mm<br />
+*床面高さ : 360mm（ドア付近300mm）<br />
+*ドア<br />
+**幅 : 1250mm<br />
+**ドア高さ : 1850 / 2000mm<br />
+*軌間 : 1000mm / 1067mm / 1435mm<br />
+*架線電圧 : 600V / 750V<br />
+*最高速度 : 70km/h<br />
+*主電動機<br />
+**定格出力 : 80kW / 84kW / 100kW / 120kW<br />
+<br />
+== 導入都市 ==<br />
+=== ドイツの都市 ===<br />
+==== ブレーメン ====<br />
+*投入開始 : 19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a> (GT6N試作車) / 19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a> (GT8N)<br />
+*形式 (車番) : GT6N試作車 (801) / GT8N (3001 - 3078)<br />
+<br />
+==== ミュンヘン ====<br />
+ミュンヘン GT6N<br />
+*投入開始 : 19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a> (GT6N試作車) / 19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a> (GT8N)<br />
+*形式 (運営主体による形式、車番) : GT6N試作車 (R1.1、2701 - 2703) / GT6N (R2.2、2101 - 2170) / GT8N-2 (R3.3、2201 - 2220)<br />
+<br />
+<br />
+==== アウクスブルク ====<br />
+*投入開始 : 19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a> (GT6M試作車) / 1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a> (GT6M)<br />
+*形式 (車番) : GT6M試作車 (601) / GT6M (602 - 611)<br />
+<br />
+==== ツヴィッカウ ====<br />
+*投入開始 : 19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a><br />
+*形式 (車番) : GT6M (901 - 912)<br />
+<br />
+==== ベルリン ====<br />
+ベルリン GT6N-ZR<br />
+*投入開始 : 1<a href="http://localhost/keyword/994%E5%B9%B4">994年</a> (GT6N) / 19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a> (GT6N-ZR)<br />
+*形式 (車番) : GT6N (1001 - <a href="http://localhost/keyword/110">110</a>5) / GT6N-ZR (2001 - 2045)<br />
+* LCDによる側面行先案内装置を完備。<br />
+<br />
+<br />
+==== フランクフルト（オーダー） ====<br />
+フランクフルト（オーダー） GT6M<br />
+*投入開始 : 1<a href="http://localhost/keyword/994%E5%B9%B4">994年</a><br />
+*形式 (車番) : GT6M (301 - 308)<br />
+<br />
+<br />
+==== ニュルンベルク ====<br />
+ニュルンベルク GT8N-2<br />
+*投入開始 : 1<a href="http://localhost/keyword/995%E5%B9%B4">995年</a> (GT6N) / 1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a> (GT8N-2)<br />
+*形式 (車番) : GT6N (1001 - 1014) / GT8N-2 (<a href="http://localhost/keyword/110">110</a>1 - 1126)<br />
+<br />
+<br />
+==== ブラウンシュヴァイク ====<br />
+ブラウンシュヴァイク GT6S<br />
+*投入開始 : 1<a href="http://localhost/keyword/995%E5%B9%B4">995年</a><br />
+*形式 (車番) : GT6S (9551 - 9562)<br />
+*軌間 : <a href="http://localhost/keyword/110">110</a>0mm<br />
+<br />
+<br />
+==== イェーナ ====<br />
+*投入開始 : 1<a href="http://localhost/keyword/995%E5%B9%B4">995年</a><br />
+*形式 (車番) : GT6M-ZR (601 - 633)<br />
+<br />
+==== マインツ ====<br />
+*投入開始 : 1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a><br />
+*形式 (車番) : GT6M-ZR (201 - 216)<br />
+<br />
+=== 日本の都市 ===<br />
+==== 熊本 ====<br />
+熊本市交通局9700形(GT4N-ZR) <br />
+熊本市交通局0800形(GT4M-ZR) <br />
+* 投入開始 : 1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>（0800形は200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）<br />
+* 形式 (車番) : GT4N-ZR (9701 - 9705 / 0801 - 0802)<br />
+* 0800形はインチェントロに準じた車体を採用。<br />
+* 熊本市交通局9700形電車、熊本市交通局0800形電車も参照<br />
+<br />
+<br />
+==== 岡山 ====<br />
+岡山電気軌道9200形(GT4M-ZR) <br />
+*投入開始 : 200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a><br />
+*形式 (車番) : GT4M-ZR (9201,1011)<br />
+* インチェントロに準じた車体を採用。<br />
+* 岡山電気軌道9200形電車も参照<br />
+<br />
+<br />
+==== 高岡・射水 ====<br />
+万葉線MLRV1001形(GT4M-ZR)<br />
+*投入開始 : 200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a><br />
+*形式 (車番) : GT4M-ZR (MLRV1001 - 1006)<br />
+* インチェントロに準じた車体を採用。<br />
+* 万葉線MLRV1000形電車も参照<br />
+<br />
+<br />
+==== 富山 ====<br />
+富山ライトレールTLR600形(GT4M-ZR)<br />
+富山地方鉄道9000形電車(GT4M-ZR)<br />
+*投入開始 : 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a><br />
+*形式 (車番) : GT4M-ZR (TLR0601 - 0607 / 9001 - 9003)<br />
+* インチェントロに準じた車体を採用。<br />
+* 富山ライトレールTLR0600形電車、富山地方鉄道9000形電車も参照<br />
+<br />
+<br />
+==== 福井・鯖江・越前 ====<br />
+福井鉄道F1000形(GT6M-ZR)<br />
+えちぜん鉄道L形電車(GT4M-ZR)<br />
+*投入開始 : 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+*形式 (車番) : GT6M-ZR (FL1001 - 1003)、GT4M-ZR (L-01 - 02)<br />
+* インチェントロに準じた車体を採用。<br />
+* 福井鉄道F1000形電車、えちぜん鉄道L形電車も参照<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 超低床電車<br />
+* 路面電車<br />
+* ライトレール<br />
+* JTRAM<br />
+* コンビーノ<br />
+* リトルダンサー<br />
+<br />
+== 外部リンク ==<br />
+<br />
+*[http://www.bombardier.com/ ボンバルディア]<br />
+*[http://www.strassenbahn-online.de/ Strassenbahn-Online]（ドイツ語）<br />
+<br />
+<br />
+<br />
+Category:路面電車車両<br />
+Category:ボンバルディア<br />
+Category:連接式の鉄道車両<br />

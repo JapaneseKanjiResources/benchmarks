@@ -1,0 +1,52 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E3%82%A2%E3%83%B3%E3%83%81%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%82%B9">アンチエイリアス</a>&#39; (anti-aliasing) は、サンプリングやダウンサンプリングでエイリアシングが起きないようにするための処理。画像に対して行なうと、ジャギー（ピクセルのギザギザ）が目立たなくなる。<br />
+<br />
+== デジタル画像における<a href="http://localhost/keyword/%E3%82%A2%E3%83%B3%E3%83%81%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%82%B9">アンチエイリアス</a> ==<br />
+デジタル画像における<a href="http://localhost/keyword/%E3%82%A2%E3%83%B3%E3%83%81%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%82%B9">アンチエイリアス</a>の例<br />
+コンピュータで扱うデジタル画像ではピクセル単位より細かく描画することは出来ない。このため、物体の輪郭にジャギーと呼ばれるギザギザが発生してしまう。このジャギーを軽減し少しでも目立たなくするために、物体の輪郭を背景と融合するように、色を滑らかに変化させることを<a href="http://localhost/keyword/%E3%82%A2%E3%83%B3%E3%83%81%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%82%B9">アンチエイリアス</a>といい、その処理をアンチエイリアシングという。<a href="http://localhost/keyword/%E3%82%A2%E3%83%B3%E3%83%81%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%82%B9">アンチエイリアス</a>をかけると輪郭がぼやけてしまうため、ビットマップフォントなどでは<a href="http://localhost/keyword/%E3%82%A2%E3%83%B3%E3%83%81%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%82%B9">アンチエイリアス</a>処理（アンチエイリアシング）は行なわれないことが多い。<br />
+<br />
+ソフトウェアによっては<a href="http://localhost/keyword/%E3%82%A2%E3%83%B3%E3%83%81%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%82%B9">アンチエイリアス</a>の処理に数段階の選択がある場合もある。<br />
+<br />
+<a href="http://localhost/keyword/%E3%82%A2%E3%83%B3%E3%83%81%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%82%B9">アンチエイリアス</a>が必要とされる処理には以下のようなものがある：<br />
+* ベクターイメージのラスタライズ<br />
+* ベクトルフォントのレンダリング<br />
+* 3次元コンピュータグラフィックスのレンダリングの工程<br />
+* ビットマップ画像（ラスターイメージ）の縮小（ダウンサンプリング）<br />
+<br />
+=== 3DCGにおけるアンチエイリアシング ===<br />
+3次元コンピュータグラフィックス (3DCG) において、通常ポリゴンベースのレンダリング（ラスタライズ）を行なっただけではトライアングルプリミティブのエッジがそのままジャギーとなってしまい、特に低<a href="http://localhost/keyword/%E8%A7%A3%E5%83%8F%E5%BA%A6">解像度</a>の場合はエッジの目立つ画像となってしまうため、高品位な画像を作成するためにアンチエイリアシング処理が多用されている。プロダクション用途の3DCGソフトウェアでは、通例レンダリング時に<a href="http://localhost/keyword/%E3%82%A2%E3%83%B3%E3%83%81%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%82%B9">アンチエイリアス</a>の技法や品質レベルを選択することができる。また、ゲームやシミュレーターなどのリアルタイム環境でのアンチエイリアシングは、品質とパフォーマンスを両立させるために各種のアンチエイリアシング技術が提案・開発され続けている[http://www.4gamer.net/games/120/G012093/20121125002/ 4Gamer.net ― NVIDIA，独自のアンチエイリアシング技法「FXAA」「TXAA」をアピール。いまあらためて振り返るアンチエイリアシングの歴史]。リアルタイム環境用途の場合、従来はグラフィックスハードウェアの固定機能やドライバーの固有機能として提供されるものが多かったが、プログラマブルシェーダー対応のハードウェアが登場してからは、FXAAやSMAA/CMAAなど、シェーダーを活用してポストエフェクト処理としてソフトウェア実装することが可能な技法も出現している。<br />
+; スーパーサンプリング (Super-Sample Anti-Aliasing, SSAA)<br />
+: 表示する画像<a href="http://localhost/keyword/%E8%A7%A3%E5%83%8F%E5%BA%A6">解像度</a>より高<a href="http://localhost/keyword/%E8%A7%A3%E5%83%8F%E5%BA%A6">解像度</a>に描画しておき、描画終了時に高<a href="http://localhost/keyword/%E8%A7%A3%E5%83%8F%E5%BA%A6">解像度</a>画像を表示<a href="http://localhost/keyword/%E8%A7%A3%E5%83%8F%E5%BA%A6">解像度</a>に変換（ダウンサンプル）してから表示する。その際、高<a href="http://localhost/keyword/%E8%A7%A3%E5%83%8F%E5%BA%A6">解像度</a>画像のピクセルを平均化して表示<a href="http://localhost/keyword/%E8%A7%A3%E5%83%8F%E5%BA%A6">解像度</a>画像が生成される。高品質な画像を生成できる反面、<a href="http://localhost/keyword/%E3%82%A2%E3%83%B3%E3%83%81%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%82%B9">アンチエイリアス</a>のレベルnに応じて、演算負荷およびリソース消費量がnの2乗で増大していくため、非常に負荷が高くなる。<br />
+; マルチサンプリング (Multi-Sample Anti-Aliasing, MSAA)<br />
+: スーパーサンプリングのように表示<a href="http://localhost/keyword/%E8%A7%A3%E5%83%8F%E5%BA%A6">解像度</a>より高<a href="http://localhost/keyword/%E8%A7%A3%E5%83%8F%E5%BA%A6">解像度</a>で描画するが、その際に各ピクセルにおけるカラー値生成処理（シェーディング、陰影計算）は表示<a href="http://localhost/keyword/%E8%A7%A3%E5%83%8F%E5%BA%A6">解像度</a>分の演算で済ませ、代わりに深度値（奥行き情報）を高<a href="http://localhost/keyword/%E8%A7%A3%E5%83%8F%E5%BA%A6">解像度</a>で記録しておき、最終的に深度値の差を参照しながらダウンサンプリングする方式。3DCGの場合、ジャギーが目立つのはオブジェクト（ポリゴン）のエッジである場合が多いことに着目して、オブジェクト内部の陰影計算は表示<a href="http://localhost/keyword/%E8%A7%A3%E5%83%8F%E5%BA%A6">解像度</a>で端折り、なるべくパフォーマンスを落とさないようにする。MSAAは代表的なグラフィックスAPIであるDirect3DおよびOpenGLの双方で標準化されており、対応するハードウェアも多い。欠点として、明確な奥行き情報の差がないポリゴン内部のジャギーは取り除くことができないため、テクスチャ（カラーマップやアルファマップ）のジャギーには対応できない。また、ディファードレンダリングのようなGバッファを利用する技術との相性が悪い[http://www.4gamer.net/games/032/G003263/20120929009/ 4Gamer.net ― 次世代ゲーム機のグラフィックスはどうなる？ CEDEC 2012 ゲーム開発マニアックス～グラフィックス編] [http://docs.nvidia.com/gameworks/content/gameworkslibrary/graphicssamples/d3d_samples/antialiaseddeferredrendering.htm Antialiased Deferred Rendering]。<br />
+; Custom Filter Anti-Aliasing, CFAA<br />
+: ATI Radeon HD 2000シリーズ以降においてドライバーレベルで実装されている、テントフィルター (tent filter) を使った重み付き隣接サンプリング技法[http://www.4gamer.net/specials/3de/radeon_hd_2000/radeon_hd_2000_03.shtml ［連載］［西川善司の3Dゲームエクスタシー］「ATI Radeon HD 2000」シリーズのGPUアーキテクチャ徹底解説] [http://pc.watch.impress.co.jp/docs/2007/0515/nvidia.htm NVIDIA、Radeon HD 2000の仕様に異論]。<br />
+; Fast Approximate Anti-Aliasing, FXAA<br />
+: NVIDIAが考案したポストエフェクト技法。表示<a href="http://localhost/keyword/%E8%A7%A3%E5%83%8F%E5%BA%A6">解像度</a>において、ピクセル色を周囲と比較して輝度差を調べ、輝度差があるピクセルの色は周囲と混ぜ合わせる。プログラマブルシェーダーを活用して明示的にソフトウェア実装することができる[http://docs.nvidia.com/gameworks/content/gameworkslibrary/graphicssamples/d3d_samples/fxaa311sample.htm FXAA 3.11 Sample]ほか、NVIDIA GeForceやNVIDIA Quadroではグラフィックスドライバー側でFXAAを自動的に強制適用するオプションも存在する。低負荷であり、またMSAAと違ってテクスチャ内部のジャギーにも対応できることなどが特徴。<br />
+; TXAA<br />
+: MSAAの欠点を克服する技術として、NVIDIAが開発した。TXAAに対応するNVIDIAハードウェアと、対応するタイトル（ゲームソフトウェア）の組み合わせのみで利用可能。<br />
+; Enhanced Sub-pixel Morphological Anti-Aliasing, SMAA<br />
+: Crytekが開発した、サブピクセルでのエッジ検出を利用した<a href="http://localhost/keyword/%E3%82%A2%E3%83%B3%E3%83%81%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%82%B9">アンチエイリアス</a>技術[http://www.iryoku.com/smaa/ SMAA: Enhanced Subpixel Morphological Antialiasing] [http://game.watch.impress.co.jp/docs/series/3dcg/20120312_518130.html 【GDC2012】西川善司の3Dゲームファンのための「CRY ENGINE」講座・Ver.2012 - GAME Watch]。プログラマブルシェーダーを活用したポストエフェクト技法として実装されている。<br />
+; Conservative Morphological Anti-Aliasing, CMAA<br />
+: Intelが考案した、エッジ検出ベースのポストエフェクト系<a href="http://localhost/keyword/%E3%82%A2%E3%83%B3%E3%83%81%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%82%B9">アンチエイリアス</a>技術[https://software.intel.com/en-us/articles/conservative-morphological-anti-aliasing-cmaa-update Conservative Morphological Anti-Aliasing (CMAA) - March 2014 Update | Intel&amp;#x00ae; Developer Zone]。Intelグラフィックスハードウェアではドライバー側でCMAAを自動的に強制適用するオプションも存在する[http://downloadmirror.intel.com/24245/eng/ReleaseNotes_GFX_15_36_3907.pdf Release Notes; DRIVER VERSION: 15.36.3.3907 &amp; 15.36.3.64.3907; DATE: September 5th, 2014]。<br />
+<br />
+== 信号処理における<a href="http://localhost/keyword/%E3%82%A2%E3%83%B3%E3%83%81%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%82%B9">アンチエイリアス</a> ==<br />
+デジタル信号では、あるサンプリング周波数でサンプリングされるために、サンプリング周波数の半分を超える周波数成分は折り返し雑音となる（サンプリング定理を参照）。この折り返し雑音 (alias) を遮断する技術が<a href="http://localhost/keyword/%E3%82%A2%E3%83%B3%E3%83%81%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%82%B9">アンチエイリアス</a>である。<br />
+<br />
+<a href="http://localhost/keyword/%E3%82%A2%E3%83%B3%E3%83%81%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%82%B9">アンチエイリアス</a>処理の実現方法の簡単な例は帯域制限フィルタを使ってサンプリング周波数の半分を超える周波数成分を予め除去してからサンプリングをすることである。このフィルタは低域通過フィルタ（ローパスフィルタ、Low-pass filter）であり、<a href="http://localhost/keyword/%E3%82%A2%E3%83%B3%E3%83%81%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%82%B9">アンチエイリアス</a>処理をおこなう低域通過フィルタを&#39;<a href="http://localhost/keyword/%E3%82%A2%E3%83%B3%E3%83%81%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%82%B9">アンチエイリアス</a>フィルタ&#39;と呼ばれる。<br />
+<br />
+なお、デジタル画像は二次元信号と捉えると、原画像にサンプリング処理された画像がディスプレイなどに表示されているとみなせる。このサンプリング時にエイリアス（ジャギー）が発生するのでそれを軽減することが<a href="http://localhost/keyword/%E3%82%A2%E3%83%B3%E3%83%81%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%82%B9">アンチエイリアス</a>である。ゆえに、デジタル画像における<a href="http://localhost/keyword/%E3%82%A2%E3%83%B3%E3%83%81%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%82%B9">アンチエイリアス</a>と信号処理における<a href="http://localhost/keyword/%E3%82%A2%E3%83%B3%E3%83%81%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%82%B9">アンチエイリアス</a>は同等のことである。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* ClearType<br />
+* ディスプレイ<br />
+* ミップマップ<br />
+<br />
+<br />
+Category:コンピュータグラフィックス<br />
+Category:画像処理<br />
+Category:標本化<br />

@@ -1,0 +1,258 @@
+description<br />
+<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%A9%E3%82%B8%E3%82%AA%E6%94%BE%E9%80%81%E5%B1%80">日本のラジオ放送局</a>&#39;は、電波法並びに放送法の規定では、特定地上基幹<a href="http://localhost/keyword/%E6%94%BE%E9%80%81%E4%BA%8B%E6%A5%AD%E8%80%85">放送事業者</a>と、基幹放送局提供事業者に区分される。前者は演奏所・送信所とも同一の事業者が管理する制度である。後者は送信所のみを管理し、演奏所を持つ認定基幹<a href="http://localhost/keyword/%E6%94%BE%E9%80%81%E4%BA%8B%E6%A5%AD%E8%80%85">放送事業者</a>によって利用される事を目的としている者である。<br />
+<br />
+また、経営形式に主眼を置くと、全国1法人のNHKと、各地に存在する民間放送に大別される。<br />
+<br />
+日本の民間ラジオ放送局の多くはネットワーク組織に加盟してラジオネットワークを形成しており、AMラジオはJRNとNRN、FMラジオはJFNとJFL、MegaNet、更にNHK-FM放送と放送大学を除く全民放FM局が参加している全国FM連合がある。<br />
+<br />
+但し、JFLとMegaNet、全国FM連合は他に比べ、ネットワークとしての関係はそれほど密ではなく、情報交換や一部の番組販売、不定期の共同キャンペーン実施などに留まっている。<br />
+<br />
+== 県域放送または広域放送（地上波放送） ==<br />
+※以下★はテレビ兼営局、▼は20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>7月22日現在のAMステレオ実施局。▽は20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>9月30日現在のIPサイマルラジオ「radiko」の実施局。●は、放送単位における親局と同一法人であり、独自の放送を行っている局。20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>7月20日から20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>5月31日まで、茨城放送のみ基幹放送局提供事業者（株式会社IBS）の放送局設備を利用する認定基幹<a href="http://localhost/keyword/%E6%94%BE%E9%80%81%E4%BA%8B%E6%A5%AD%E8%80%85">放送事業者</a>だったが、他は特定地上基幹<a href="http://localhost/keyword/%E6%94%BE%E9%80%81%E4%BA%8B%E6%A5%AD%E8%80%85">放送事業者</a>による放送である。<br />
+<br />
+=== 備考 ===<br />
+* 奈良県、和歌山県の県域FM放送局は、開局に至っていないが割り当て周波数は確保されている（奈良県：85.8MHz、和歌山県：77.2MHz）。<br />
+* AMステレオ放送実施局は大阪放送を除き親局のみ実施している。<br />
+* 関東・近畿・中京のradiko実施放送局（茨城放送・レディオ<a href="http://localhost/keyword/%E3%82%AD%E3%83%A5%E3%83%BC">キュー</a>ブ FM三重・ラジオ関西など一部の地方局を除く）は、配信対象エリアを放送対象地域内に限定していない。<br />
+* radikoでは、京都府内での京都放送の配信はあっても、滋賀県内での<a href="http://localhost/keyword/KBS%E6%BB%8B%E8%B3%80">KBS滋賀</a>の配信はない。<br />
+* 徳島県内にあるNHK第2放送の中継局池田中継局はNHK松山放送局の管轄。<br />
+* 長崎放送・Love FMは佐賀県（長崎放送はNBCラジオ佐賀）も放送対象地域としているが、radikoではそれぞれ佐賀県は配信対象地域外となる。<br />
+<br />
+== 全国放送 ==<br />
+=== 短波放送 ===<br />
+特定地上基幹<a href="http://localhost/keyword/%E6%94%BE%E9%80%81%E4%BA%8B%E6%A5%AD%E8%80%85">放送事業者</a>（1社）。<br />
+* 日経ラジオ社（ラジオNIKKEI 旧・日本短波放送、ラジオたんぱ）※「radiko」で第1放送・第2放送を同時配信中（全国配信）。<br />
+<br />
+=== 衛星放送 ===<br />
+衛星放送においては特定基幹放送制度がなく、認定基幹放送制度もしくは一般放送制度となっている。<br />
+==== 衛星基幹放送（BS放送） ====<br />
+* 放送大学（関東広域圏のみ地上波あり、基幹放送局提供事業者は放送衛星システム）※「radiko」で同時配信中（全国配信）。<br />
+<br />
+==== 衛星一般放送（CS放送） ====<br />
+法令上は放送局以外の無線局を使用して行われている。以下の一般<a href="http://localhost/keyword/%E6%94%BE%E9%80%81%E4%BA%8B%E6%A5%AD%E8%80%85">放送事業者</a>等は、いずれも電気通信事業者のスカパー<a href="http://localhost/keyword/JSA">JSA</a>Tが保有する無線局設備を使用している。<br />
+* ミュージックバード（TOKYO FM系）<br />
+** SPACE DiVA<br />
+* スカパー!プレミアムサービス<br />
+** スターデジオ（第一興商）<br />
+* SOUND PLANET（USEN）<br />
+<br />
+=== 有線一般放送（有線ラジオ放送） ===<br />
+無線局を使用しない放送であり、厳密には「ラジオ放送局」の定義から外れるが、「ラジオ放送を行う<a href="http://localhost/keyword/%E6%94%BE%E9%80%81%E4%BA%8B%E6%A5%AD%E8%80%85">放送事業者</a>」には該当する。<br />
+* USEN（USEN440）<br />
+* キャンシステム<br />
+<br />
+== ネットワーク ==<br />
+* JRN - TBSラジオをキーステーションとする全国ネットワーク機構<br />
+* NRN - 文化放送およびニッポン放送をキーステーションとする全国ネットワーク機構<br />
+* 火曜会 - AM局が参加する全国ネットワーク及び番組交流機構。キーステーションはない<br />
+* JFN - TOKYO FMをキーステーションとする全国ネットワーク機構<br />
+* JFL - J-WAVEを事実上の幹事局とする全国ネットワーク機構<br />
+* MegaNet - InterFMをキーステーションとする外国語放送局の全国ネットワーク機構<br />
+* 独立局 - いずれのネットワークにも属さない<br />
+* 全国FM連合 - 独立局をも含む52の民放FM全局が参加するネットワーク機構。幹事社はTOKYO FMとJ-WAVE<br />
+<br />
+== 臨時放送局 ==<br />
+下記についての詳細は当該項目を参照。<br />
+* イベント放送局<br />
+* 臨時災害放送局<br />
+<br />
+== その他 ==<br />
+* コミュニティ放送局<br />
+** コミュニティ放送局一覧<br />
+* AFN（旧FEN）<br />
+* デジタルラジオ<br />
+** BSデジタル音声放送<br />
+** CSデジタル音声放送<br />
+** 地上デジタル音声放送<br />
+* 放送法によらないもの（インターネットラジオ、ミニFMなど） - いわゆる「放送」ではない<br />
+<br />
+== ラジオ開局日 ==<br />
+; 1<a href="http://localhost/keyword/951%E5%B9%B4">951年</a><br />
+* 1.中部日本放送 1<a href="http://localhost/keyword/951%E5%B9%B4">951年</a>9月1日　JOAR（&#39;日本初の民放ラジオ局&#39;、20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>4月1日に「CBCラジオ」に免許を承継）<br />
+* 2.新日本放送 1<a href="http://localhost/keyword/951%E5%B9%B4">951年</a>9月1日　JOOR（中部日本放送に遅れる事5時間半後の同日開局、1<a href="http://localhost/keyword/958%E5%B9%B4">958年</a>6月1日に「毎日放送」となった）<br />
+* 3.朝日放送 1<a href="http://localhost/keyword/951%E5%B9%B4">951年</a>11月11日　JONR<br />
+* 4.ラジオ九州 1<a href="http://localhost/keyword/951%E5%B9%B4">951年</a>12月1日　JOFR（1<a href="http://localhost/keyword/958%E5%B9%B4">958年</a>8月1日に「RKB毎日放送」となった）<br />
+* 5.京都放送 1<a href="http://localhost/keyword/951%E5%B9%B4">951年</a>12月24日　JOBR<br />
+* 6.<a href="http://localhost/keyword/%E3%83%A9%E3%82%B8%E3%82%AA%E6%9D%B1%E4%BA%AC">ラジオ東京</a> 1<a href="http://localhost/keyword/951%E5%B9%B4">951年</a>12月25日　JOKR（19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>11月29日に「東京放送」、2001年10月1日に「TBSラジオ&amp;コミュニケーションズ」、20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>4月1日に「TBSラジオ」となった）<br />
+; 1<a href="http://localhost/keyword/952%E5%B9%B4">952年</a><br />
+* 7.北海道放送 1<a href="http://localhost/keyword/952%E5%B9%B4">952年</a>3月10日　JOHR（JOHE JOTL JOHS J<a href="http://localhost/keyword/OTS">OTS</a> JOHO JOFM JOFN JOQF JOTN JOHW JOQM JOQN JOQL JOQS）<br />
+* 8.信越放送 1<a href="http://localhost/keyword/952%E5%B9%B4">952年</a>3月25日　JOSR（JOSO JOSL JOSW JOSE）<br />
+* 9.文化放送 1<a href="http://localhost/keyword/952%E5%B9%B4">952年</a>3月31日　JOQR<br />
+* 10.ラジオ関西 1<a href="http://localhost/keyword/952%E5%B9%B4">952年</a>4月1日　J<a href="http://localhost/keyword/OCR">OCR</a><br />
+* 11.東北放送 1<a href="http://localhost/keyword/952%E5%B9%B4">952年</a>5月1日　JOIR<br />
+* 12.北陸放送 1<a href="http://localhost/keyword/952%E5%B9%B4">952年</a>5月10日　JOMR<br />
+* 13.四国放送 1<a href="http://localhost/keyword/952%E5%B9%B4">952年</a>7月1日　JOJR<br />
+* 14.北日本放送 1<a href="http://localhost/keyword/952%E5%B9%B4">952年</a>7月1日　JOLR<br />
+* 15.福井放送 1<a href="http://localhost/keyword/952%E5%B9%B4">952年</a>7月20日　JOPR<br />
+* 16.中国放送 1<a href="http://localhost/keyword/952%E5%B9%B4">952年</a>10月1日　JOER（JOEO）<br />
+* 17.静岡放送 1<a href="http://localhost/keyword/952%E5%B9%B4">952年</a>11月1日　JOVR（JOVE JOVO）<br />
+* 18.新潟放送 1<a href="http://localhost/keyword/952%E5%B9%B4">952年</a>12月24日　JODR（JODE JODO）<br />
+; 1<a href="http://localhost/keyword/953%E5%B9%B4">953年</a><br />
+* 19.長崎放送 1<a href="http://localhost/keyword/953%E5%B9%B4">953年</a>3月1日　JOUR（JOMF　JOUE　JOUO）<br />
+* 20.高知放送 1<a href="http://localhost/keyword/953%E5%B9%B4">953年</a>9月1日　JOZR<br />
+* 21.熊本放送 1<a href="http://localhost/keyword/953%E5%B9%B4">953年</a>10月1日　JOBF<br />
+* 22.大分放送 1<a href="http://localhost/keyword/953%E5%B9%B4">953年</a>10月1日　JOGF<br />
+* 23.山陽放送 1<a href="http://localhost/keyword/953%E5%B9%B4">953年</a>10月1日　JOYR<br />
+* 24.西日本放送 1<a href="http://localhost/keyword/953%E5%B9%B4">953年</a>10月1日　JOKF（JOKL）<br />
+* 25.南海放送 1<a href="http://localhost/keyword/953%E5%B9%B4">953年</a>10月1日　JOAF（JOAL JOAM JOAN JOAS）<br />
+* 26.南日本放送 1<a href="http://localhost/keyword/953%E5%B9%B4">953年</a>10月10日　JOCF<br />
+* 27.青森放送 1<a href="http://localhost/keyword/953%E5%B9%B4">953年</a>10月12日　JOGR（JOGO JOGE）<br />
+* 28.山形放送 1<a href="http://localhost/keyword/953%E5%B9%B4">953年</a>10月15日　JOEF<br />
+* 29.秋田放送 1<a href="http://localhost/keyword/953%E5%B9%B4">953年</a>11月1日　JOTR（JOTO JOTE）<br />
+* 30.ラジオ福島 1<a href="http://localhost/keyword/953%E5%B9%B4">953年</a>12月1日　JOWR（JOFL JOWO JOWE JOWW）<br />
+* 31.IBC岩手放送 1<a href="http://localhost/keyword/953%E5%B9%B4">953年</a>12月25日　JODF（JODM JODL JODN）<br />
+; 1<a href="http://localhost/keyword/954%E5%B9%B4">954年</a> 短波による商業放送の開始<br />
+* 32.九州朝日放送 1<a href="http://localhost/keyword/954%E5%B9%B4">954年</a>1月1日　JOIF（JOIL JOIM）<br />
+* 33.山陰放送 1<a href="http://localhost/keyword/954%E5%B9%B4">954年</a>3月1日　JOHF（JOHL JOHM JOHN）<br />
+* 34.宮崎放送 1<a href="http://localhost/keyword/954%E5%B9%B4">954年</a>7月1日　JONF<br />
+* 35.山梨放送 1<a href="http://localhost/keyword/954%E5%B9%B4">954年</a>7月1日　JOJF<br />
+* 36.ニッポン放送 1<a href="http://localhost/keyword/954%E5%B9%B4">954年</a>7月15日　JOLF<br />
+* 37.日本短波放送 1<a href="http://localhost/keyword/954%E5%B9%B4">954年</a>8月27日　JOZ（JOZ2 JOZ3 JOZ5 JOZ6 JOZ7）（2003年10月1日より日経ラジオ社となった。&#39;日本最初にして最後の、また世界で唯一の民間短波放送局&#39;）<br />
+* 38.琉球放送 1<a href="http://localhost/keyword/954%E5%B9%B4">954年</a>10月1日　JORR<br />
+; 1<a href="http://localhost/keyword/956%E5%B9%B4">956年</a><br />
+* 39.山口放送 1<a href="http://localhost/keyword/956%E5%B9%B4">956年</a>4月1日　JOPF（JOPL JOPM JOPN JOPO）<br />
+; 1<a href="http://localhost/keyword/958%E5%B9%B4">958年</a><br />
+* 40.大阪放送（ラジオ大阪） 1<a href="http://localhost/keyword/958%E5%B9%B4">958年</a>7月1日　JOUF<br />
+* 41.NBCラジオ佐賀 1<a href="http://localhost/keyword/958%E5%B9%B4">958年</a>8月1日　JOUO<br />
+* 42.ラジオ関東 1<a href="http://localhost/keyword/958%E5%B9%B4">958年</a>12月24日　JORF（JORL）（1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a>10月1日より「アール・エフ・ラジオ日本」となった）<br />
+; 1<a href="http://localhost/keyword/959%E5%B9%B4">959年</a><br />
+* 43.和歌山放送 1<a href="http://localhost/keyword/959%E5%B9%B4">959年</a>4月1日　JOVF（JOLF JONF JOMF）<br />
+; 19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a> 超短波放送の誕生<br />
+* 44.東海ラジオ放送 19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>4月1日　JOSF（JOSN JOTM JOSM）<br />
+* 45.FM東海 19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>5月2日　JS2H（&#39;日本初の超短波放送（FM放送）&#39;。1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>4月26日より「エフエム東京」となった）<br />
+* 46.<a href="http://localhost/keyword/KBS%E6%BB%8B%E8%B3%80">KBS滋賀</a> 19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>5月25日　JOBW<br />
+* 47.ラジオ沖縄 19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>7月1日　JOXR<br />
+; 1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a><br />
+* 48.札幌テレビ放送 1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>12月15日　JOWF（JOWF JOWL JOWN JOWM JOVX JOYS JOWS JOXS）（200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>10月1日に「STVラジオ」に免許を承継）<br />
+* 49.岐阜放送 1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>12月24日　JOZF<br />
+; 1<a href="http://localhost/keyword/963%E5%B9%B4">963年</a><br />
+* 50.茨城放送 1<a href="http://localhost/keyword/963%E5%B9%B4">963年</a>4月1日　JOYF（JOYL）<br />
+* 51.ラジオ栃木 1<a href="http://localhost/keyword/963%E5%B9%B4">963年</a>4月1日　JOXF（JOXM JOXN）（19<a href="http://localhost/keyword/69%E5%B9%B4">69年</a>6月1日より栃木放送となった）<br />
+; 19<a href="http://localhost/keyword/69%E5%B9%B4">69年</a>　<br />
+* 52.エフエム愛知 19<a href="http://localhost/keyword/69%E5%B9%B4">69年</a>12月24日　JOCU-FM<br />
+; 1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a><br />
+* 53.エフエム大阪 1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>4月1日　JOBU-FM<br />
+* 54.エフエム福岡 1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>7月15日　JODU-FM<br />
+; 1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a> 県域FM局の開局ラッシュ始まる<br />
+* 55.エフエム愛媛 1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a>2月1日　JOEU-FM<br />
+* 56.エフエム北海道 1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a>9月15日　JOFU-FM<br />
+* 57.エフエム長崎 1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a>10月1日　JOHU-FM<br />
+* 58.エフエム仙台 1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a>12月1日　JOJU-FM<br />
+* 59.広島エフエム放送 1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a>12月5日　JOGU-FM<br />
+; 1<a href="http://localhost/keyword/983%E5%B9%B4">983年</a><br />
+* 60.静岡エフエム放送 1<a href="http://localhost/keyword/983%E5%B9%B4">983年</a>4月1日　JOKU-FM<br />
+; 1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a><br />
+* 61.エフエム沖縄 1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>9月1日　JOIU-FM<br />
+* 62.エフエム宮崎 1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>12月1日　JOMU-FM<br />
+* 63.福井エフエム放送 1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>12月18日　JOLU-FM<br />
+; 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a><br />
+* 64.エフエム秋田 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>4月1日　JOPU-FM<br />
+* 65.富山エフエム放送 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>4月1日　JOOU-FM<br />
+* 66.三重エフエム放送 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>6月1日　JONU-FM<br />
+* 67.エフエム岩手 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>10月1日　JOQU-FM<br />
+* 68.エフエム群馬 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>10月1日　JORU-FM<br />
+* 69.エフエム熊本 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>11月1日　JOSU-FM<br />
+* 70.エフエム山口 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>12月1日　JOUU-FM<br />
+* 71.横浜エフエム放送 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>12月20日　JOTU-FM<br />
+; 1<a href="http://localhost/keyword/986%E5%B9%B4">986年</a><br />
+* 72.エフエム山陰 1<a href="http://localhost/keyword/986%E5%B9%B4">986年</a>10月1日　JOVU-FM<br />
+; 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a><br />
+* 73.エフエム青森 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>4月1日　JOWU-FM<br />
+* 74.エフエムラジオ新潟 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>10月1日　JOXU-FM<br />
+; 19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a><br />
+* 75.エフエム香川 19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>4月1日　JOYU-FM<br />
+* 76.エフエム富士 19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>8月8日　JOCV-FM<br />
+* 77.長野エフエム放送 19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>10月1日　JOZU-FM<br />
+* 78.J-WAVE 19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>10月1日　JOAV-FM<br />
+* 79.エフエムナックファイブ 19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>10月31日　JODV-FM<br />
+; 19<a href="http://localhost/keyword/89%E5%B9%B4">89年</a> 平成新局の開局が始まる<br />
+* 80.エフエム山形 19<a href="http://localhost/keyword/89%E5%B9%B4">89年</a>4月1日　JOEV-FM<br />
+* 81.FM802 19<a href="http://localhost/keyword/89%E5%B9%B4">89年</a>6月1日　JOFV-FM<br />
+* 82.ベイエフエム 19<a href="http://localhost/keyword/89%E5%B9%B4">89年</a>10月1日　JOGV-FM<br />
+; 19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a><br />
+* 83.エフエム石川 19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>4月1日　JOHV-FM<br />
+* 84.兵庫エフエムラジオ放送 19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>10月1日　JOIV-FM（20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>10月1日より現法人に事業継承）<br />
+* 85.エフエム大分 19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>10月1日　JOJV-FM<br />
+; 1<a href="http://localhost/keyword/991%E5%B9%B4">991年</a><br />
+* 86.エフエム京都 1<a href="http://localhost/keyword/991%E5%B9%B4">991年</a>7月1日　JOKV-FM<br />
+; 1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a><br />
+* 87.エフエム徳島 1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a>4月1日　JOMV-FM<br />
+* 88.エフエム高知 1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a>4月1日　JOLV-FM<br />
+* 89.エフエム佐賀 1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a>4月1日　JONV-FM<br />
+* 90.エフエム鹿児島 1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a>10月1日　JOOV-FM<br />
+; 19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a><br />
+* 91.エフエム・ノースウェーブ 19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>8月1日　JOPV-FM<br />
+* 92.CROSS FM 19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>9月1日　JORV-FM（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>7月1日より現法人に事業継承）<br />
+* 93.ZIP-FM 19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>10月1日　JOQV-FM<br />
+; 1<a href="http://localhost/keyword/994%E5%B9%B4">994年</a><br />
+* 94.エフエム栃木 1<a href="http://localhost/keyword/994%E5%B9%B4">994年</a>4月1日　JOSV-FM<br />
+; 1<a href="http://localhost/keyword/995%E5%B9%B4">995年</a><br />
+* 95.エフエム福島 1<a href="http://localhost/keyword/995%E5%B9%B4">995年</a>10月1日　JOTV-FM<br />
+* 96.FM COCOLO 1<a href="http://localhost/keyword/995%E5%B9%B4">995年</a>10月16日　JOAW-FM（20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>4月より放送免許をFM802が継承し1局2波体制で放送）<br />
+; 1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a> 奈良県以外の全国で県域民放ラジオ放送の開局完了（奈良県の広域局はある）<br />
+* 97.InterFM 1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a>4月1日　JODW-FM<br />
+* 98.エフエム滋賀 1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a>12月1日　JOUV-FM<br />
+; 1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a><br />
+* 99.Love FM 1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>4月1日　JOFW-FM（20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>1月1日より現法人に事業継承）<br />
+; 19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a><br />
+* 100.岡山エフエム放送 19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>4月1日　JOVV-FM<br />
+; 2000年<br />
+* 101.愛知国際放送 2000年4月1日　JOGW-FM（20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>9月30日で放送終了、閉局）<br />
+* 102.新潟県民エフエム放送 2000年12月20日　JOWV-FM<br />
+; 2001年 奈良県・和歌山県・茨城県以外の全国で県域民放FMラジオ放送<br />
+* 103.岐阜エフエム放送 2001年4月1日　JOXV-FM（20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>3月1日より現法人に事業継承）<br />
+; 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a> 10余年ぶりに民放FMの新局が開設される<br />
+* 104.InterFM NAGOYA 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>4月1日　JOCW-FM（20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>11月1日事業免許）<br />
+<br />
+== 廃止もしくは放送終了した局・事業者 ==<br />
+=== 廃止局・事業者 ===<br />
+* AM放送局<br />
+** ラジオ佐世保（ラジオ長崎に吸収合併、長崎放送となる。コールサインは現存）<br />
+** 近畿東海放送（ラジオ東海と合併し東海ラジオ放送に。近畿東海放送時代の親局は合併後廃止）<br />
+** ラジオ東海（近畿東海放送と合併し東海ラジオ放送に。ラジオ東海時代の親局は合併後廃止）<br />
+** <a href="http://localhost/keyword/%E6%A5%B5%E6%9D%B1%E6%94%BE%E9%80%81">極東放送</a>（AMを廃止・FMに転換し社名をFM沖縄に改称。混信対策）<br />
+* FM放送局<br />
+** 愛知国際放送（経営不振のため、20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>9月30日で放送終了、閉局）<br />
+* CS-PCM放送<br />
+** PCMセントラル（中部日本放送系、19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>6月4日で放送終了、7月1日に閉局）<br />
+** PCMジャパン（日本テレビ系、19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>6月4日で放送終了、7月1日に閉局）<br />
+<br />
+=== 放送終了事業者 ===<br />
+* BS放送（BSデジタル音声放送の終了に伴う）<br />
+** BS BIRD（ミュージックバード運営、200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>11月30日で放送終了）<br />
+** JFN衛星放送（JFN系、200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>11月30日で放送終了）<br />
+** <a href="http://localhost/keyword/%E3%83%93%E3%83%BC%E3%83%BB%E3%82%A8%E3%82%B9%E3%83%BB%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA">ビー・エス・コミュニケーションズ</a>（BSラジオNIKKEI、日経ラジオ社系、200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>3月31日で放送終了）<br />
+** World Independent Networks Japan（通称：WINJ、旧：セント・ギガ→クラブ・コスモ、総務省が委託<a href="http://localhost/keyword/%E6%94%BE%E9%80%81%E4%BA%8B%E6%A5%AD%E8%80%85">放送事業者</a>の指定を取り消したのを受けて200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>10月31日で放送終了）<br />
+** 以下はテレビ放送に特化<br />
+*** BS日本（日本テレビ系）- ラジオ放送はアール・エフ・ラジオ日本が制作を担当<br />
+*** ビーエス朝日（テレビ朝日系）<br />
+*** BS-i（現:BS-TBS、TBS系） - ラジオ放送はTBSラジオ&amp;コミュニケーションズが制作を担当<br />
+*** BSジャパン（テレビ東京系）<br />
+*** BSフジ（フジテレビ系）<br />
+**** LFX488（ニッポン放送制作、200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>3月31日で放送終了） - インターネットでの放送はLFX mudigiで継続<br />
+**** BSQR489（文化放送制作、200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>3月31日で放送終了）<br />
+*** WOWOW（WOWOW WAVE）<br />
+* CS放送<br />
+** スカパー!<br />
+*** はいさい!ラジオ506（ラジオ沖縄運営、2001年9月30日で放送終了）<br />
+*** デジタルたんぱ（ラジオたんぱ運営、200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>3月31日で放送終了）<br />
+*** DIGITAL J-WAVE 505（J-WAVE運営、200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>9月30日で放送終了）<br />
+*** 放送大学学園（BS放送に移行のため20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>3月31日で放送終了）<br />
+** CS-PCM放送<br />
+*** サテライトミュージック（大映系、ミュージックバードと合併）<br />
+*** ジパング・アンド・スカイコミュニケーションズ（TBS・日本ヘラルド映画系、ミュージックバードと合併）<br />
+** <a href="http://localhost/keyword/110">110</a>度CS放送<br />
+*** スペーステリア（サウンドテリア、TOKYO FM・三菱商事系、200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>3月31日で放送終了）<br />
+** 2.6GHz帯衛星デジタル音声放送<br />
+*** モバイル放送（モバHO!、東芝系、200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>3月31日でサービス終了）<br />
+<br />
+== 業界団体 ==<br />
+* 地方民間放送共同制作協議会（火曜会）<br />
+: 東京・大阪以外の全国のAMラジオ局が加盟している団体。<br />
+<br />
+<br />
+<br />
+*<br />
+らしおほうそうきよく<br />

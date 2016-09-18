@@ -1,0 +1,35 @@
+description<br />
+<br />
+|分類体系 = 新エングラー体系<br />
+|界 = 植物界 <br />
+|門 = 裸子植物門 <br />
+|綱 = &#39;<a href="http://localhost/keyword/%E3%82%B0%E3%83%8D%E3%83%84%E3%83%A0%E7%B6%B1">グネツム綱</a>&#39; <br />
+|目 = &#39;グネツム目&#39; <br />
+|学名 =   ex  1884 [http://www.tropicos.org/Name/100352617 Tropicos Gnetopsida]<br />
+|和名 = <a href="http://localhost/keyword/%E3%82%B0%E3%83%8D%E3%83%84%E3%83%A0%E7%B6%B1">グネツム綱</a><br />
+|下位分類名 = 科<br />
+|下位分類 =<br />
+* グネツム科 <br />
+* マオウ科 <br />
+* ウェルウィッチア科 <br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E3%82%B0%E3%83%8D%E3%83%84%E3%83%A0%E7%B6%B1">グネツム綱</a>&#39;（グネツムこう、学名：）は、裸子植物門に属する植物群の1つである。非常に多様なものを含むが、裸子植物としては進化した体制を持つ。<br />
+<br />
+<a href="http://localhost/keyword/%E3%82%B0%E3%83%8D%E3%83%84%E3%83%A0%E7%B6%B1">グネツム綱</a>にはグネツム目のみを含む。グネツム目は3つの科で構成される。<br />
+<br />
+*  グネツム科 - 東南アジア産のつる植物または低木。広葉樹のような葉を持つ。<br />
+**  グネツム属 - グネモン<br />
+*  マオウ科 - 中央アジアの乾燥地帯などに生育する低木。トクサのような外見をしている。<br />
+**  マオウ属 - シナマオウ<br />
+*  ウェルウィッチア科 - ナミブ砂漠にただ1種、サバクオモト（キソウテンガイ）がある。巨大な2枚の葉を対生する。<br />
+**  ウェルウィッチア属 - ウェルウィッチア<br />
+<br />
+かつては被子植物に近縁とも考えられたが、現在では被子植物とは異なり、他の裸子植物（球果植物綱、イチョウ綱、ソテツ綱）と共通の系統に入ると考えられている。最近では、球果植物門の系統に入りマツ科に近縁と考える説も唱えられている[http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16621615&amp;query_hl=9&amp;itool=pubmed_docsum Seed plant phylogeny: Gnetophytes are derived conifers and a sister group to Pinaceae]。 <br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+*<br />

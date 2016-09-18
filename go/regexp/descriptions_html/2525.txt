@@ -1,0 +1,44 @@
+description<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E3%82%AD%E3%82%B7%E3%83%AC%E3%83%B3">キシレン</a>&#39; (xylene) は分子式 C8H10、示性式 C6H4(CH3)2、 分子量 106.17 の芳香族化合物で、ベンゼンの水素のうち2つをメチル基で置換したものである。&#39;キシロール&#39;とも呼ばれる。<br />
+<br />
+== 性質 ==<br />
+3種類の異性体、&#39;&#39;o&#39;&#39;-<a href="http://localhost/keyword/%E3%82%AD%E3%82%B7%E3%83%AC%E3%83%B3">キシレン</a>（1,2-ジメチルベンゼン）、&#39;&#39;m&#39;&#39;-<a href="http://localhost/keyword/%E3%82%AD%E3%82%B7%E3%83%AC%E3%83%B3">キシレン</a>（1,3-ジメチルベンゼン）、&#39;&#39;p&#39;&#39;-<a href="http://localhost/keyword/%E3%82%AD%E3%82%B7%E3%83%AC%E3%83%B3">キシレン</a>（1,4-ジメチルベンゼン）が存在する。いずれも可燃性で、煤を出して燃える。極性溶媒に難溶、非極性溶媒に可溶。毒劇法により医薬用外劇物に指定されている。日本では製造・使用・廃棄に関して、管理・届け出が必要な化学物質としてPRTR法の第一種-30 にて指定されている。<br />
+<br />
+== 構造 ==<br />
+<a href="http://localhost/keyword/%E3%82%AD%E3%82%B7%E3%83%AC%E3%83%B3">キシレン</a>の構造式は次の通り。左から順に&#39;&#39;o&#39;&#39;-<a href="http://localhost/keyword/%E3%82%AD%E3%82%B7%E3%83%AC%E3%83%B3">キシレン</a>、&#39;&#39;m&#39;&#39;-<a href="http://localhost/keyword/%E3%82%AD%E3%82%B7%E3%83%AC%E3%83%B3">キシレン</a>、&#39;&#39;p&#39;&#39;-<a href="http://localhost/keyword/%E3%82%AD%E3%82%B7%E3%83%AC%E3%83%B3">キシレン</a>である。<br />
+<br />
+456px<br />
+<br />
+また、これらを空間充填モデルで表すと次のようになる。<br />
+<br />
+<br />
+Image:Kalottenmodell ortho-Xylol.png|&#39;&#39;o&#39;&#39;-<a href="http://localhost/keyword/%E3%82%AD%E3%82%B7%E3%83%AC%E3%83%B3">キシレン</a><br />
+Image:Kalottenmodell meta-Xylol.png|&#39;&#39;m&#39;&#39;-<a href="http://localhost/keyword/%E3%82%AD%E3%82%B7%E3%83%AC%E3%83%B3">キシレン</a><br />
+Image:Kalottenmodell para-Xylol.png|&#39;&#39;p&#39;&#39;-<a href="http://localhost/keyword/%E3%82%AD%E3%82%B7%E3%83%AC%E3%83%B3">キシレン</a><br />
+<br />
+<br />
+== 用途 ==<br />
+石油中に含まれ、薬剤等の原料として用いられる。医学・生物学分野では、古くから組織の切片標本の作製の際、組織を包埋するパラフィンや、封入剤として用いるカナダバルサムの溶媒として用いられてきたが、人体への毒性のため無害の代替品への切り替えが進みつつある。<br />
+<br />
+== 生産・消費状況 ==<br />
+200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>の日本国内における<a href="http://localhost/keyword/%E3%82%AD%E3%82%B7%E3%83%AC%E3%83%B3">キシレン</a>の生産量および工業消費量は次の通り。なお、「<a href="http://localhost/keyword/%E3%82%AD%E3%82%B7%E3%83%AC%E3%83%B3">キシレン</a>」は異性体混合物を表している。<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* BTEX<br />
+* フタル酸 - イソフタル酸 - テレフタル酸<br />
+* トルエン - メシチレン<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jaish.gr.jp/anzen/gmsds/0016.html 安全衛生情報センター：化学物質：<a href="http://localhost/keyword/%E3%82%AD%E3%82%B7%E3%83%AC%E3%83%B3">キシレン</a>]<br />
+<br />
+<br />
+Category:アルキルベンゼン<br />
+Category:溶媒<br />
+Category:劇物<br />
+Category:第2石油類<br />
+Category:特定悪臭物質<br />
+Category:労働安全<br />
+Category:労働災害<br />

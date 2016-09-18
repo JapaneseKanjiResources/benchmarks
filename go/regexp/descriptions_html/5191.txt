@@ -1,0 +1,59 @@
+description<br />
+<br />
+|駅構造=地上駅<br />
+|ホーム=1面2線<br />
+|乗車人員=<br />
+|乗降人員=167<br />
+|統計年度=200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>度<br />
+|開業年月日=1<a href="http://localhost/keyword/920%E5%B9%B4">920年</a>（大正<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）3月27日19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>（昭和<a href="http://localhost/keyword/63%E5%B9%B4">63年</a>）4月1日（転換）<br />
+|廃止年月日=<br />
+|前の駅=本山<br />
+|駅間A=0.5<br />
+|駅間B=1.5<br />
+|次の駅=皆瀬<br />
+}}<br />
+&#39;中里駅&#39;（なかざとえき）は、長崎県佐世保市上本山町にある松浦鉄道西九州線の駅。<br />
+<br />
+== 駅構造 ==<br />
+島式1面2線ホームの地上駅である。無人駅で駅舎は無いが、待合室がある。構内踏切があり、ホームの本山駅寄りの端から国道側に、皆瀬駅寄りの途中（停車位置の先）から桧台側に出入り口がそれぞれ設けられている。<br />
+<br />
+== 利用状況 ==<br />
+1日平均乗降人員は167人である（200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>度）<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 国道204号<br />
+* 佐世保市立中里中学校<br />
+* 桧台団地（高台にあるため、駅の近くから無料のモノレールがある）<br />
+* めんちゃんこ亭中里店<br />
+* マックスバリュ中里店<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/920%E5%B9%B4">920年</a>（大正<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）3月27日 - 佐世保軽便鉄道（後の佐世保鉄道・1<a href="http://localhost/keyword/936%E5%B9%B4">936年</a>国有化）により「&#39;中里&#39;（なかさと）&#39;駅&#39;」として開業。<br />
+* 1<a href="http://localhost/keyword/936%E5%B9%B4">936年</a>（昭和<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）10月1日 -　国有化と同時に「&#39;肥前中里&#39;（ひぜんなかざと）&#39;駅&#39;」に改称。<br />
+* 1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>（昭和<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）10月1日 - 貨物営業を廃止。<br />
+* 1<a href="http://localhost/keyword/963%E5%B9%B4">963年</a>（昭和<a href="http://localhost/keyword/38%E5%B9%B4">38年</a>）4月1日 - 無人化。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、九州旅客鉄道松浦線の駅となる。<br />
+* 19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>（昭和<a href="http://localhost/keyword/63%E5%B9%B4">63年</a>）4月1日 - 第三セクター松浦鉄道への転換により、松浦鉄道西九州線の駅となる。同時に現駅名に改称。<br />
+<br />
+== 隣の駅 ==<br />
+; 松浦鉄道<br />
+: 西九州線<br />
+:: 本山駅 - &#39;中里駅&#39; - 皆瀬駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+* 中里駅<br />
+<br />
+== 外部リンク ==<br />
+* [http://matutetu.com/publics/index/105/ 中里駅時刻表] - 松浦鉄道<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:佐世保市の鉄道駅<br />
+かさと<br />
+Category:松浦鉄道の鉄道駅<br />
+Category:佐世保鉄道<br />
+Category:1<a href="http://localhost/keyword/920%E5%B9%B4">920年</a>開業の鉄道駅<br />

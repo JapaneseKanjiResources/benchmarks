@@ -1,0 +1,49 @@
+description<br />
+<br />
+<br />
+thumb<br />
+&#39;<a href="http://localhost/keyword/%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E8%89%B2">オレンジ色</a>&#39;（オ<a href="http://localhost/keyword/%E3%83%AC%E3%83%B3%E3%82%B8">レンジ</a>いろ）は、果物のオ<a href="http://localhost/keyword/%E3%83%AC%E3%83%B3%E3%82%B8">レンジ</a>の実のような色「オ<a href="http://localhost/keyword/%E3%83%AC%E3%83%B3%E3%82%B8">レンジ</a>」『スーパー大辞林』<a href="http://localhost/keyword/%E4%B8%89%E7%9C%81%E5%A0%82">三省堂</a>、20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>。&#34;orange&#34; &#39;&#39;New Oxford American Dictionary&#39;&#39;, Oxford University Press, 2010.。赤と黄色の中間色である。&#39;橙色&#39;（だいだいいろ）とも言う「オ<a href="http://localhost/keyword/%E3%83%AC%E3%83%B3%E3%82%B8">レンジ</a>」、「橙色」『スーパー大辞林』<a href="http://localhost/keyword/%E4%B8%89%E7%9C%81%E5%A0%82">三省堂</a>、20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>。。暖色のひとつ「暖色」『スーパー大辞林』<a href="http://localhost/keyword/%E4%B8%89%E7%9C%81%E5%A0%82">三省堂</a>、20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>。。<br />
+<br />
+== 色見本 ==<br />
+日本工業規格(JIS Z 8102:2001)では次のような色である。(#ef810f)[http://www.color-sample.com/popular/jiscolor/en/  JIS慣用色 英名 (Color-Sample.com)]『[http://www.mdn.co.jp/di/book/5890/ グラフィックデザイン必携]』 ISBN 978-4-8443-5890-9 p.123。4原色についてはシアン0%、マゼンタ63%、イエロー91%、黒0%とある。[http://www.colordream.net/jiscolor1.htm JIS慣用色名 (ColorDream.Net)]。[http://www.colordream.net/Iro_MV.htm 「色出し名人」MillenniumⅡ for Windows (ColorDream.Net)]にJIS Z 8102:2001における慣用色名オ<a href="http://localhost/keyword/%E3%83%AC%E3%83%B3%E3%82%B8">レンジ</a>のマンセル値を無補正で入力して得られるRGB値。[http://www.colordream.net/ ColorDream.Net]<br />
+<br />
+<br />
+同じく、次に対応づける表もある。(#ff5900)[http://homepage3.nifty.com/mezala/pc/jiscolor/jiscolor.html JIS規格・物体色の色名とRGB数値についての覚書]。『[http://www.shogakukan.co.jp/books/detail/_isbn_4094178716 日本の269色]』 ISBN 978-4-09-417871-5 に印刷用サンプルとして示された4原色(CMYK)の網点数値から算出されたRGB値。その4原色はシアン0%、マゼンタ65%、イエロー100%、黒0%である。<br />
+<br />
+<br />
+CSS 2.1およびそれ以降では、は次の色に規定された。これは、X11の色名称に由来する。(#ffa500)<br />
+<br />
+=== インターナショナルオ<a href="http://localhost/keyword/%E3%83%AC%E3%83%B3%E3%82%B8">レンジ</a> ===<br />
+航空宇宙産業では、次のような色をインターナショナルオ<a href="http://localhost/keyword/%E3%83%AC%E3%83%B3%E3%82%B8">レンジ</a> :en:international orangeとする。赤と黄色の中間色で赤に近く鮮やかな朱色。航空法施行規則第百三十二条の三(昼間障害標識の種類及び設置基準)においては黄赤と呼ばれる。身近な例では、東京タワーの塗装などに用いられる。(#ff4f00)<br />
+<br />
+<br />
+次の3色は、米連邦標準595Cに定めるの、それぞれ先頭からJIS Z 8720:2000の補助イルミナントC(昼光)、同じく標準イルミナントA(電球)、およびJIS Z 8719:1996付表1の蛍光ランプF2のもとでの観測を再現したものである。(先頭から、#d33007、#ff0600、#b84300)[https://assist.daps.dla.mil/quicksearch/basic_profile.cfm?ident_number=53815 米連邦標準595C]の値を無補正で[http://www.colordream.net/Iro_MV.htm 「色出し名人」MillenniumⅡ for Windows (ColorDream.Net)]に入力して得られたRGB値。[http://www.colordream.net/ ColorDream.Net]<br />
+<br />
+<br />
+<br />
+<br />
+== 近似色 ==<br />
+* 赤<br />
+* 朱色<br />
+* 黄<br />
+* 山吹色<br />
+* 茶色<br />
+* コーラル<br />
+* 柿色<br />
+* 琥珀色<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 色<br />
+* 色名一覧<br />
+* 日本の色の一覧<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:色名<br />

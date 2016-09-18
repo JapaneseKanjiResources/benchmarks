@@ -1,0 +1,98 @@
+description<br />
+<br />
+|所属事業者 = 23px北海道旅客鉄道（JR北海道）<br />
+|所属路線   = ■根室本線<br />
+|キロ程     = 299.0<br />
+|起点駅     = 滝川<br />
+|所在地     = 北海道釧路市大楽毛5丁目<br />
+|座標 = <br />
+|駅構造     = 地上駅<br />
+|ホーム     = 1面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/901%E5%B9%B4">901年</a>（明治<a href="http://localhost/keyword/34%E5%B9%B4">34年</a>）7月20日釧路市地域史研究会 『釧路市統合年表:釧路市・阿寒町・音別町合併1周年記念』 釧路市 、200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>10月。<br />
+|廃止年月日 = <br />
+|乗車人員   =89 <br />
+|統計年度   =20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>度 <br />
+|乗換       = <br />
+|備考       = 無人駅<br />
+}}<br />
+|駅の東側に設けられた、本州製紙（当時）釧路工場（上）への貨物仕分線。周囲750m範囲。}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E5%A4%A7%E6%A5%BD%E6%AF%9B%E9%A7%85">大楽毛駅</a>&#39;（おたのしけえき）は、北海道釧路市大楽毛5丁目にある北海道旅客鉄道（JR北海道）根室本線の駅。駅番号は&#39;K50&#39;。電報略号は&#39;シケ&#39;。<br />
+<br />
+== 歴史 == <br />
+* 1<a href="http://localhost/keyword/901%E5%B9%B4">901年</a>（明治<a href="http://localhost/keyword/34%E5%B9%B4">34年</a>）7月20日 - 北海道官設鉄道の駅として開業。一般駅<br />
+* 1<a href="http://localhost/keyword/903%E5%B9%B4">903年</a>（明治<a href="http://localhost/keyword/36%E5%B9%B4">36年</a>）頃 - 舌辛（現・釧路市阿寒町）市街地より当駅まで、釧路炭礦及び澤口炭礦により馬車鉄道が敷設釧路叢書 第14巻「釧路の石炭」及び 第26巻「釧路の産業史」。大日本帝國陸地測量部 大正<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>発行 5万分の1地形図「舌辛」「大楽毛」によれば、舌辛市街の駅（現・阿寒町旭町2丁目）（）からさらに舌辛村音別（現・阿寒町富士見）（）の炭鉱へ伸びていた。また大楽毛までの中間地点（）に「中茶屋」という中継駅を有していた。現在の国道240号「まりも国道」の阿寒町旭町から大楽毛市街北側（ホクレン釧路地区家畜市場辺り）までは、同軌道と完全に重なる。ここからは市街地を迂回するように東側外周を回り込んで当駅表東側へ接続していた。阿寒町百年史 P469では、延長18km、石炭のほか人も乗せたとされる。。<br />
+* 1<a href="http://localhost/keyword/905%E5%B9%B4">905年</a>（明治<a href="http://localhost/keyword/38%E5%B9%B4">38年</a>）4月1日 - 官設鉄道に移管。<br />
+* 時期不詳（大正<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>以降） - 現・阿寒町飽別に、富士製紙から分離独立した富士電気株式会社（後に北海道電灯を経て大日本電力）が大正<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>に新富士の製紙工場向けに飽別発電所（第1発電所）を建設。当駅-舌辛間の馬車鉄道が当発電所（）まで延伸大日本帝國陸地測量部 大正<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>及び昭和<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>発行 5万分の1地形図「舌辛」「徹別」にて「馬車軌道」が記載されている。また同地図によれば、途中の徹別発電所（第2発電所）へも支線が分岐していた。発電所については釧路叢書「釧路の産業史」より。ただし同書によれば発電所の建設資材や機械類は馬車及び馬橇にて運搬とされていて、飽別や徹別発電所への馬車鉄道についての記述は一切無い。。<br />
+* 時期不詳 - 当駅-舌辛-飽別の馬車鉄道廃止阿寒町百年史ちなみに澤口炭礦は大正<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>閉山。。<br />
+* 1<a href="http://localhost/keyword/959%E5%B9%B4">959年</a>（昭和<a href="http://localhost/keyword/34%E5%B9%B4">34年</a>）9月15日 - 本州製紙（後の王子製紙）釧路工場操業開始。専用線運用開始1<a href="http://localhost/keyword/957%E5%B9%B4">957年</a>（昭和3<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）11月に大方敷設完了。1<a href="http://localhost/keyword/958%E5%B9%B4">958年</a>（昭和<a href="http://localhost/keyword/33%E5%B9%B4">33年</a>）にはこの専用線を使用して機械類の搬入を行っているが、直径5.5m、長さ26m、重量62tの大物機械搬入に際しては、国鉄シキ100形貨車を本州から回送して工事に当たらせた。（釧路の製紙（下））全国専用線一覧昭和<a href="http://localhost/keyword/45%E5%B9%B4">45年</a>版では作業距離2.5km、総延長8.4km。。<br />
+* 1<a href="http://localhost/keyword/978%E5%B9%B4">978年</a>（昭和<a href="http://localhost/keyword/53%E5%B9%B4">53年</a>）11月25日 - 人道渡線橋が完成。<br />
+* 1<a href="http://localhost/keyword/979%E5%B9%B4">979年</a>（昭和<a href="http://localhost/keyword/54%E5%B9%B4">54年</a>）7月15日 - 専用線発着を除く車扱貨物の取扱を廃止。<br />
+* 1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>（昭和<a href="http://localhost/keyword/59%E5%B9%B4">59年</a>）2月1日 - 車扱貨物・荷物の取扱を全廃。王子製紙釧路工場専用線廃止。<br />
+* 1<a href="http://localhost/keyword/986%E5%B9%B4">986年</a>（昭和<a href="http://localhost/keyword/61%E5%B9%B4">61年</a>）11月1日 - 簡易委託化。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化によりJR北海道が継承。<br />
+* 19<a href="http://localhost/keyword/89%E5%B9%B4">89年</a>（平成元年）10月2日 - 現在の駅舎に改築“駅と市支所が“合体” 釧路”. 北海道新聞 (北海道新聞社). (19<a href="http://localhost/keyword/89%E5%B9%B4">89年</a>10月4日)。釧路市役所大楽毛支所との合築。<br />
+* 2001年（平成<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>） - 簡易委託終了、無人化。<br />
+<br />
+== 駅構造 ==<br />
+1面2線の島式ホームを持つ地上駅。1番のりばが本線であるため、上下列車とも基本的に1番のりばを使用している。両ホームは跨線橋で連絡している。元々は駅舎に直面する1番のりばが存在したが、合理化により廃止され島式ホームの2番のりば・3番のりばをそれぞれ1番のりば・2番のりばとした。<br />
+<br />
+駅舎が駅構内の北側にある。現在は釧路駅管理の無人駅となっている。駅舎内には閉鎖された窓口のほか、自動券売機（稼働時間7時00分 - 18時00分）が設置されている。朝と夕方に釧路方面から当駅始終着の列車が1日2本存在するが、土曜・休日ダイヤは運休となる。<br />
+<br />
+駅は、戦後直後まで軍馬（釧路種）の一大集散地として発展していた。戦後、本州製紙（現在は王子製紙）釧路工場が近隣へ開設されるのに伴い、原料となる木材チップや製品の取扱を開始し、道内有数の貨物取扱駅となった。しかし昭和<a href="http://localhost/keyword/50%E5%B9%B4">50年</a>代頃より木材チップの工場搬入が順次トラック輸送に切り替わり、貨物取扱は廃止され、専用線も撤去された。<br />
+<br />
+== 駅名の由来 ==<br />
+駅名は、アイヌ語の「オタ・ノシケ（砂浜の中央）」に由来する。<br />
+<br />
+== 駅周辺 ==<br />
+設置される前は有人駅で、木造の古い駅舎であった。釧路市の郊外住宅地として住宅が増えており、釧路市中心部への通勤・通学客が多く利用するほか、高専への通学客も多い。<br />
+* 国道38号・国道240号<br />
+* 釧路市役所大楽毛支所<br />
+* 釧路警察署大楽毛交番<br />
+* 大楽毛郵便局<br />
+* 釧路工業高等専門学校<br />
+* 釧路家畜市場<br />
+* よつ葉乳業釧根工場<br />
+* 独立行政法人高齢・障害・求職者雇用支援機構北海道支部北海道職業能力開発促進センター釧路訓練センター<br />
+* 日商岩井鉄鋼リース釧路工場<br />
+* 日東バイオン釧路工場<br />
+* 王子製紙釧路工場<br />
+* 阿寒川<br />
+* <a href="http://localhost/keyword/%E9%98%BF%E5%AF%92%E3%83%90%E3%82%B9">阿寒バス</a>、くしろバス、北海道バス「<a href="http://localhost/keyword/%E5%A4%A7%E6%A5%BD%E6%AF%9B%E9%A7%85">大楽毛駅</a>前」停留所<br />
+<br />
+== 隣の駅 ==<br />
+; 北海道旅客鉄道<br />
+: 根室本線<br />
+:: 庶路駅 (K49) - （東庶路信号場） - &#39;<a href="http://localhost/keyword/%E5%A4%A7%E6%A5%BD%E6%AF%9B%E9%A7%85">大楽毛駅</a> (K50)&#39; - 新<a href="http://localhost/keyword/%E5%A4%A7%E6%A5%BD%E6%AF%9B%E9%A7%85">大楽毛駅</a> (K51)<br />
+<br />
+== 脚注 ==<br />
+<br />
+=== 注釈 ===<br />
+<br />
+<br />
+=== 出典 ===<br />
+<br />
+<br />
+== 参考文献 ==<br />
+* 北海道旅客鉄道釧路支社編『JR釧路支社 鉄道百年の歩み』（2001年）<br />
+* 釧路叢書 第25巻 釧路の製紙（上）釧路市　昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>発行<br />
+* 釧路叢書 第27巻 釧路の製紙（下）釧路市　平成<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>発行<br />
+* 全国専用線一覧 昭和<a href="http://localhost/keyword/39%E5%B9%B4">39年</a>版、昭和<a href="http://localhost/keyword/45%E5%B9%B4">45年</a>版、昭和<a href="http://localhost/keyword/58%E5%B9%B4">58年</a>版<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.jrkushiro.jp/eki/nemuro_h/otanoshi.html <a href="http://localhost/keyword/%E5%A4%A7%E6%A5%BD%E6%AF%9B%E9%A7%85">大楽毛駅</a>] - JR北海道釧路支社<br />
+<br />
+<br />
+<br />
+<br />
+たのしけ<br />
+Category:北海道旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:北海道官設鉄道<br />
+Category:根室本線<br />
+Category:釧路市の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/901%E5%B9%B4">901年</a>開業の鉄道駅<br />

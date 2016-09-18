@@ -1,0 +1,59 @@
+description<br />
+<br />
+, tatarça, تاتارچا<br />
+|familycolor=アルタイ諸語<br />
+|states=<br />
+|region=北アジア<br />
+|speakers=800万<br />
+|rank=<br />
+|fam1=アルタイ諸語<br />
+|fam2=テュルク諸語<br />
+|fam3=北西語群<br />
+|script=キリル文字ラテン文字アラビア文字<br />
+|nation=タタールスタン共和国<br />
+|agency=<br />
+|iso1=tt<br />
+|iso2=tat<br />
+|iso3=tat<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E3%82%BF%E3%82%BF%E3%83%BC%E3%83%AB%E8%AA%9E">タタール語</a>&#39;は、ロシア連邦に属するタタールスタン共和国の公用語。特に&#39;カザン・<a href="http://localhost/keyword/%E3%82%BF%E3%82%BF%E3%83%BC%E3%83%AB%E8%AA%9E">タタール語</a>&#39;とも呼ばれる。タタールスタン共和国の外にも、ウクライナやトルコ、中国など広い範囲に話者が分布している。ロシア連邦内の話者は約530万人（200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）。<br />
+<br />
+== 系統 ==<br />
+系統的にはテュルク諸語のキプチャク語群に属する。バシキール語やカザフ語などに近い。<br />
+<br />
+3つの主要な方言<br />
+* 西部<a href="http://localhost/keyword/%E3%82%BF%E3%82%BF%E3%83%BC%E3%83%AB%E8%AA%9E">タタール語</a>・ミシャル ()<br />
+* 中部<a href="http://localhost/keyword/%E3%82%BF%E3%82%BF%E3%83%BC%E3%83%AB%E8%AA%9E">タタール語</a>・ミンザラ ()<br />
+* シベリア<a href="http://localhost/keyword/%E3%82%BF%E3%82%BF%E3%83%BC%E3%83%AB%E8%AA%9E">タタール語</a><br />
+に大別される。<br />
+<br />
+クリミア・<a href="http://localhost/keyword/%E3%82%BF%E3%82%BF%E3%83%BC%E3%83%AB%E8%AA%9E">タタール語</a>は、同じキプチャク語群に属するがその中では系統の異なる別言語である。シベリア<a href="http://localhost/keyword/%E3%82%BF%E3%82%BF%E3%83%BC%E3%83%AB%E8%AA%9E">タタール語</a>は、独立した言語であるか論争あり。<br />
+<br />
+== 特徴 ==<br />
+形態法は膠着的。母音調和を持つ。語彙にはアラビア語やペルシア語、ロシア語からの借用語が多い。<br />
+<br />
+== 正書法 ==<br />
+20世紀まではアラビア文字を用いて表記されてきたが、1<a href="http://localhost/keyword/927%E5%B9%B4">927年</a>にラテン文字のアルファベットが制定された。1<a href="http://localhost/keyword/939%E5%B9%B4">939年</a>にはキリル文字による表記に改められた。19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>9月15日、タタールスタン共和国の国会は、再びラテン文字のアルファベットによる正書法を復活させることを決定し、2001年9月1日より実行に移された。現在、20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>までの目標で、キリル文字からラテン文字の表記への移行が進められている。<br />
+<br />
+しかし、この動きを受けて、ロシア上院は200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>、「ロシア連邦内のすべての言語の表記はキリル文字に基づくものでなければならない」という緊急の決定を採択した。また、200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>10月には、ロシア連邦憲法裁判所が、<a href="http://localhost/keyword/%E3%82%BF%E3%82%BF%E3%83%BC%E3%83%AB%E8%AA%9E">タタール語</a>の地位に関する問題を討議している。憲法裁判所は、200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>11月16日に、連邦内の諸言語の表記の制定についてのロシア連邦の立法府の権利を認める判断を下している。<br />
+<br />
+== 関連項目 ==<br />
+*タタール人<br />
+== 参考文献 ==<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* <br />
+<br />
+<br />
+<br />
+Category:ロシアの言語<br />
+Category:ウクライナの言語<br />
+Category:トルコの言語<br />
+Category:フィンランドの言語<br />
+Category:中国の言語<br />
+Category:アルタイ諸語<br />
+Category:テュルク諸語<br />
+Category:母音調和言語<br />

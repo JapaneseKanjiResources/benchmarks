@@ -1,0 +1,61 @@
+description<br />
+伊豆急行線<br />
+|キロ程 = 22.9<br />
+|起点駅 = 伊東<br />
+|所在地 = 静岡県賀茂郡東伊豆町奈良本<a href="http://localhost/keyword/122">122</a>5-12<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 単式 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/964%E5%B9%B4">964年</a>（昭和<a href="http://localhost/keyword/39%E5%B9%B4">39年</a>）10月1日<br />
+|廃止年月日 =<br />
+|乗車人員 =<br />
+|乗降人員 = 159<br />
+|統計年度 = 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>度<br />
+|乗換 =<br />
+|備考 = 無人駅<br />
+}}<br />
+改札口（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>11月）<br />
+&#39;<a href="http://localhost/keyword/%E4%BC%8A%E8%B1%86%E5%8C%97%E5%B7%9D%E9%A7%85">伊豆北川駅</a>&#39;（いずほっかわえき）は、静岡県賀茂郡東伊豆町奈良本<a href="http://localhost/keyword/122">122</a>5-12にある、伊豆急行伊豆急行線の駅。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を有する地上駅。<br />
+<br />
+; のりば<br />
+<br />
+<br />
+=== 構内 ===<br />
+* SuicaおよびSuicaと相互利用可能なICカード（PASMO等）は、伊豆急行線内全駅で利用可能であるが当駅にチャージ機は設置されずチャージサービスには対応していない。<br />
+<br />
+== 利用状況 ==<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>度の1日平均乗降人員は159人（静岡県統計年鑑による）<br />
+<br />
+== 駅周辺 ==<br />
+* 北川温泉<br />
+* アクアポート伊豆<br />
+* 穴切湾<br />
+* 国道<a href="http://localhost/keyword/135">135</a>号<br />
+<br />
+== 路線バス ==<br />
+* 東伊豆町自主運行バス（南伊豆東海バス）「北川」停留所　駅から徒歩約10分（国道<a href="http://localhost/keyword/135">135</a>号線 伊豆急行線との交差下付近）<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/964%E5%B9%B4">964年</a>（昭和<a href="http://localhost/keyword/39%E5%B9%B4">39年</a>）10月1日 - 開業。<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）4月1日 - 終日無人駅化。<br />
+<br />
+== 隣の駅 ==<br />
+;  48px 伊豆急行<br />
+:   伊豆急行線<br />
+:: 伊豆大川駅 - &#39;<a href="http://localhost/keyword/%E4%BC%8A%E8%B1%86%E5%8C%97%E5%B7%9D%E9%A7%85">伊豆北川駅</a>&#39; - 伊豆熱川駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+* 烈車戦隊トッキュウジャー　メンバーの故郷にある「昴ヶ浜駅」は<a href="http://localhost/keyword/%E4%BC%8A%E8%B1%86%E5%8C%97%E5%B7%9D%E9%A7%85">伊豆北川駅</a>が原型になっており、同駅の撮影もここで行なわれた。<br />
+<br />
+<br />
+<br />
+<br />
+Category:静岡県の鉄道駅<br />
+すほつかわ<br />
+Category:伊豆急行の鉄道駅<br />
+Category:東伊豆町<br />
+Category:1<a href="http://localhost/keyword/964%E5%B9%B4">964年</a>開業の鉄道駅<br />

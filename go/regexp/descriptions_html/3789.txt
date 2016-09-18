@@ -1,0 +1,89 @@
+description<br />
+<br />
+|開業年月日= 1<a href="http://localhost/keyword/939%E5%B9%B4">939年</a>（昭和<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）<br />
+|駅構造    = 地上駅<br />
+|ホーム    = 2面3線<br />
+|廃止年月日= <br />
+|乗車人員  = <br />
+|乗降人員  = 295<br />
+|統計年度  = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗入路線数= <br />
+|所属路線  = TN 鬼怒川線<br />
+|前の駅    = TN 55 鬼怒川温泉<br />
+|駅間A     = 2.1<br />
+|駅間B     = 1.7<br />
+|次の駅    = 新藤原 TN 57<br />
+|駅番号    = &#39;TN 56&#39;<br />
+|キロ程    = 14.5<br />
+|起点駅    = 下今市<br />
+|乗換      =<br />
+|備考      =<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E9%AC%BC%E6%80%92%E5%B7%9D%E5%85%AC%E5%9C%92%E9%A7%85">鬼怒川公園駅</a>&#39;（きぬがわこうえんえき）は、栃木県日光市藤原にある東武鉄道鬼怒川線の駅である。駅番号は&#39;TN 56&#39;。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/939%E5%B9%B4">939年</a>（昭和<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>） - 開業。<br />
+* 1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>（昭和<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）10月25日 - 休止。<br />
+* 1<a href="http://localhost/keyword/950%E5%B9%B4">950年</a>（昭和<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）9月1日 - 営業再開。<br />
+* 1<a href="http://localhost/keyword/961%E5%B9%B4">961年</a>（昭和<a href="http://localhost/keyword/36%E5%B9%B4">36年</a>）12月1日 - 再び休止。<br />
+* 1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>（昭和<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）12月10日 - 営業再開。<br />
+* 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>（平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）頃 - 駅舎を改築。<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）3月17日 - &#39;TN 56&#39;の駅ナンバリングを導入。<br />
+<br />
+== 駅構造 ==<br />
+島式ホーム1面2線と単式ホーム1面1線、計2面3線を有する地上駅である。駅舎は線路の西側にあり、島式ホームの1・2番線と直結している。1番線は浅草方面への折り返し専用となっている。3番線とは跨線橋により連絡している。<br />
+<br />
+新藤原側には留置線が1本設置されている。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+*上記の路線名は旅客案内上の名称（「東武スカイツリーライン」は愛称）で表記している。<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度の一日平均乗降人員は&#39;295人&#39;である[http://www.tobu.co.jp/corporation/rail/station_info/ 東武鉄道 駅情報（乗降人員）]。東武鉄道の特急列車が停車する駅では最も乗降人員が少なく、減少傾向が続いている。<br />
+<br />
+近年の推移は下表のとおりである。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 鬼怒川公園 - 園内には鬼怒川温泉唯一の共同浴場である「日光市営鬼怒川公園岩風呂」もある。<br />
+* 鬼怒川<br />
+* 国道121号<br />
+* 鬼怒川温泉 - 鬼怒川温泉駅 - 当駅間は温泉街に沿って線路が続いている。<br />
+* 藤原滝郵便局<br />
+* 鬼怒川温泉ロープウェイ<br />
+<br />
+== 路線バス ==<br />
+<br />
+<br />
+== ギャラリー ==<br />
+<br />
+ファイル:TOBURAILWAY KINUGAWA-KOEN STA KA<a href="http://localhost/keyword/ISA">ISA</a>TSUGUCHI.JPG|改札口および特急券・定期券発売窓口（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>10月）<br />
+ファイル:TOBURAILWAY KINUGAWA-KOEN STA ZENKEI.JPG|鬼怒川温泉方から見たホーム全景（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>10月）<br />
+ファイル:Kinugawa-kouen Station 2004.jpg|改築前の駅舎（200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>10月）<br />
+<br />
+<br />
+== 隣の駅 ==<br />
+; 32px 東武鉄道<br />
+: TN 鬼怒川線<br />
+:* 特急「きぬ」 停車駅<br />
+:: 快速・区間快速・普通<br />
+::: 鬼怒川温泉駅 (TN 55) - &#39;<a href="http://localhost/keyword/%E9%AC%BC%E6%80%92%E5%B7%9D%E5%85%AC%E5%9C%92%E9%A7%85">鬼怒川公園駅</a> (TN 56)&#39; - 新藤原駅 (TN 57)<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.tobu.co.jp/station/info/4211.html 東武鉄道 <a href="http://localhost/keyword/%E9%AC%BC%E6%80%92%E5%B7%9D%E5%85%AC%E5%9C%92%E9%A7%85">鬼怒川公園駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+ぬかわこうえん<br />
+Category:日光市の鉄道駅<br />
+Category:東武鉄道の鉄道駅<br />
+こうえんえき<br />
+Category:1<a href="http://localhost/keyword/939%E5%B9%B4">939年</a>開業の鉄道駅<br />

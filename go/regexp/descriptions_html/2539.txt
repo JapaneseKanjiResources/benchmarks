@@ -1,0 +1,24 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E6%94%BE%E5%B0%84%E5%8C%96">放射化</a>&#39;（ほうしゃか、Radioactivation）とは、もともとは放射能が無い同位体が、他の放射性物質等から発生する放射線を受ける事によって、<a href="http://localhost/keyword/%E6%94%BE%E5%B0%84%E6%80%A7%E5%90%8C%E4%BD%8D%E4%BD%93">放射性同位体</a>となること。<a href="http://localhost/keyword/%E6%94%BE%E5%B0%84%E5%8C%96">放射化</a>の度合いは、放射線の種類とエネルギー、及び放射線を受ける同位体に依存する。<br />
+<br />
+<a href="http://localhost/keyword/%E6%94%BE%E5%B0%84%E5%8C%96">放射化</a>は宇宙線による炭素14の生成のように自然界でも起こっている。人工的な<a href="http://localhost/keyword/%E6%94%BE%E5%B0%84%E5%8C%96">放射化</a>は1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>、キュリー夫人の娘イレーヌ・キュリーとその夫フレデリックによって初めて発表された。彼女らはポロニウムから生じたアルファ線をアルミニウムに照射し、<br />
+:{}^{27}{\\rm Al} (\\alpha,n) {}^{30}{\\rm P}<br />
+の反応により安定同位体から<a href="http://localhost/keyword/%E6%94%BE%E5%B0%84%E6%80%A7%E5%90%8C%E4%BD%8D%E4%BD%93">放射性同位体</a>が生成することを確認した。この功績により、1<a href="http://localhost/keyword/935%E5%B9%B4">935年</a>に2人はノーベル化学賞を受賞している。<br />
+<br />
+原子力エネルギーの利用を目的とする原子力発電所や加速器等を構成する材料の一部は、施設の運転中に発生する中性子によって<a href="http://localhost/keyword/%E6%94%BE%E5%B0%84%E5%8C%96">放射化</a>する。更に、中性子照射によって<a href="http://localhost/keyword/%E6%94%BE%E5%B0%84%E5%8C%96">放射化</a>した材料の中でも、施設の解体・処分時にある一定以上の残留放射能を持つものについては、低レベル放射性廃棄物へと区分されることが予想されている。<br />
+<br />
+<a href="http://localhost/keyword/%E6%94%BE%E5%B0%84%E5%8C%96">放射化</a>を利用した分析手法が<a href="http://localhost/keyword/%E6%94%BE%E5%B0%84%E5%8C%96">放射化</a>分析である。また、γ線源であるコバルト60合成のために以下の反応が利用されている。<br />
+:{}^{59}{\\rm Co} (n,\\gamma) {}^{60}{\\rm Co}<br />
+<br />
+==関連項目==<br />
+* 中性子捕獲<br />
+* <a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E6%A0%B8">原子核</a>反応<br />
+* 誘導放射能<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E6%A0%B8">原子核</a>物理学<br />
+Category:放射線<br />
+<br />

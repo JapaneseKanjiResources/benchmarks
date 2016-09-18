@@ -1,0 +1,117 @@
+description<br />
+<br />
+<br />
+|所属事業者 = 東日本旅客鉄道（JR東日本）<br />
+|所属路線 = 常磐線<br />
+|前の駅 = 湯本<br />
+|駅間A = 3.5<br />
+|駅間B = 4.4<br />
+|次の駅 = いわき<br />
+|キロ程 = 205.0<br />
+|起点駅 = 日暮里<br />
+|電報略号 = ウコ<br />
+|駅番号 =<br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/897%E5%B9%B4">897年</a>（明治<a href="http://localhost/keyword/30%E5%B9%B4">30年</a>）2月25日<br />
+|廃止年月日 =<br />
+|乗車人員 = 1,141<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a><br />
+|乗換 =<br />
+|備考 = 業務委託駅みどりの窓口 有* 1<a href="http://localhost/keyword/956%E5%B9%B4">956年</a>に綴駅から改称。<br />
+}}<br />
+旧駅舎（200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>9月）<br />
+&#39;<a href="http://localhost/keyword/%E5%86%85%E9%83%B7%E9%A7%85">内郷駅</a>&#39;（うちごうえき）は、福島県いわき市内郷綴町榎下にある、東日本旅客鉄道（JR東日本）常磐線の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/897%E5%B9%B4">897年</a>（明治<a href="http://localhost/keyword/30%E5%B9%B4">30年</a>）2月25日 - 日本鉄道の&#39;綴駅&#39;（つづらえき）として開業。<br />
+* 1<a href="http://localhost/keyword/897%E5%B9%B4">897年</a>（明治<a href="http://localhost/keyword/30%E5%B9%B4">30年</a>）11月10日 - 常磐炭鉱専用鉄道高倉線開業。<br />
+* 1<a href="http://localhost/keyword/899%E5%B9%B4">899年</a>（明治3<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）11月30日 - 磐城炭鉱専用鉄道内郷線開業。<br />
+* 1<a href="http://localhost/keyword/906%E5%B9%B4">906年</a>（明治<a href="http://localhost/keyword/39%E5%B9%B4">39年</a>）11月1日 - 日本鉄道が国有化され、官設鉄道の所属となる。<br />
+* 1<a href="http://localhost/keyword/908%E5%B9%B4">908年</a>（明治<a href="http://localhost/keyword/41%E5%B9%B4">41年</a>）5月22日 - 好間炭鉱専用鉄道好間線開業。<br />
+* 1<a href="http://localhost/keyword/909%E5%B9%B4">909年</a>（明治<a href="http://localhost/keyword/42%E5%B9%B4">42年</a>） - 三星炭鉱専用鉄道開業。（綴坑線）<br />
+** 10月12日 - 線路名称制定により常磐線の所属となる。<br />
+* 1<a href="http://localhost/keyword/922%E5%B9%B4">922年</a>（大正<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）12月 - 磐城炭鉱専用電気軌道開業。<br />
+* 1<a href="http://localhost/keyword/949%E5%B9%B4">949年</a>（昭和<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）6月1日 - 日本国有鉄道が発足。<br />
+* 1<a href="http://localhost/keyword/956%E5%B9%B4">956年</a>（昭和<a href="http://localhost/keyword/31%E5%B9%B4">31年</a>）12月20日 - &#39;<a href="http://localhost/keyword/%E5%86%85%E9%83%B7%E9%A7%85">内郷駅</a>&#39;に改称。<br />
+* 1<a href="http://localhost/keyword/958%E5%B9%B4">958年</a>（昭和<a href="http://localhost/keyword/33%E5%B9%B4">33年</a>）12月28日 - 常磐炭鉱専用電気軌道廃止。<br />
+* 1<a href="http://localhost/keyword/961%E5%B9%B4">961年</a>（昭和<a href="http://localhost/keyword/36%E5%B9%B4">36年</a>）年11月9日 - 常磐炭鉱専用鉄道高倉線廃止。<br />
+* 1<a href="http://localhost/keyword/972%E5%B9%B4">972年</a>（昭和<a href="http://localhost/keyword/47%E5%B9%B4">47年</a>）<br />
+** 6月24日 - 常磐炭鉱専用鉄道内郷線廃止。<br />
+** 9月30日 - 好間炭鉱専用鉄道好間線廃止。<br />
+** 11月1日 - 常磐炭鉱専用鉄道綴坑線廃止。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化によりJR東日本の駅となる。<br />
+* 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>（平成<a href="http://localhost/keyword/21%E5%B9%B4">21年</a>）3月14日 - 東京近郊区間の拡大に伴い、ICカード「Suica」のサービス開始。<br />
+* 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>（平成<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>）11月 - 新駅舎着工交通新聞20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>1月22日。<br />
+* 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>（平成<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）2月21日 - 新駅舎一部供用開始。<br />
+* 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>（平成<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）3月29日 - 新駅舎全面供用開始[http://www.minpo.jp/news/detail/2015033021851 湯本駅の全面改築完了　ホームに足湯] - 福島民報（20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>3月30日付）。<br />
+<br />
+== 駅構造 ==<br />
+相対式ホーム2面2線を有する地上駅になっている。互いのホームは跨線橋で連絡している。以前好間炭鉱専用鉄道好間線の線路が2番線のとなりに存在していた。<br />
+<br />
+20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>（平成<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）2月21日から供用開始される新駅舎は、木造平屋建て建築面積84平方メートル、延べ床面積68.7平方メートル、うち待合スペースが23.4平方メートルある。国宝の白水阿弥陀堂や常磐炭鉱の選鉱場跡などが近くにあることから、駅前広場側に炭鉱の産業遺構を連想させる石造りを模した壁を設置し、壁と駅舎の間に「こみち」のような空間を設けて、地域の歴史と遺構に思いを巡らせ地域の一部として親しまれる駅舎を狙ったものとなっている。<br />
+<br />
+JR東日本ステーションサービスが駅業務を受託する業務委託駅で、みどりの窓口（営業時間 6時 - 20時）・自動券売機・簡易Suica改札機が設置されている。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+== 利用状況 ==<br />
+* 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>度の1日平均乗車人員は1,141人である。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+<a href="http://localhost/keyword/%E5%86%85%E9%83%B7%E9%A7%85">内郷駅</a>前<br />
+* いわき中央警察署内郷交番<br />
+* いわき市消防本部内郷消防署<br />
+* 白水阿弥陀堂（平安時代末期の建造物、国宝指定）<br />
+* 浄土庭園<br />
+* いわき市役所内郷支所<br />
+* 福島県立いわき総合高等学校<br />
+* 内郷郵便局<br />
+* 水ノ出簡易郵便局<br />
+* 福島労災病院<br />
+* いわき市立総合磐城共立病院<br />
+* 総合保健福祉センター<br />
+* 福島運輸支局いわき自動車検査登録事務所<br />
+* 国道6号<br />
+* 国道49号（いわき駅との中間地附近を道路がオーバーパスする）<br />
+* 福島県道66号小名浜小野線<br />
+<br />
+== バス路線 ==<br />
+新常磐交通<br />
+* 駅前「&#39;<a href="http://localhost/keyword/%E5%86%85%E9%83%B7%E9%A7%85">内郷駅</a>前&#39;」バス停<br />
+** いわき駅前行、川平行<br />
+* 国道上「&#39;<a href="http://localhost/keyword/%E5%86%85%E9%83%B7%E9%A7%85">内郷駅</a>入口&#39;」バス停<br />
+** いわき駅前行、小名浜車庫行<br />
+<br />
+== その他 ==<br />
+* いわき市が合併する前は、旧・内郷市の代表駅だった。<br />
+* 当駅 - いわき駅間に、いわき貨物駅があったが1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>（昭和<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>）3月14日に信号場になり、1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a>頃に廃止された。同駅に併設されていた内郷機関区は1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>（昭和<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>）3月14日に廃止された。<br />
+* 駅前広場において毎夏「いわき回転やぐら盆踊り大会」が開催されている。[http://iwakikankou.blog12.fc2.com/blog-entry-<a href="http://localhost/keyword/176">176</a>3.html]<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 常磐線<br />
+:: 湯本駅 - &#39;<a href="http://localhost/keyword/%E5%86%85%E9%83%B7%E9%A7%85">内郷駅</a>&#39; - いわき駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=245 JR東日本 <a href="http://localhost/keyword/%E5%86%85%E9%83%B7%E9%A7%85">内郷駅</a>]<br />
+<br />
+<br />
+<br />
+Category:いわき市の鉄道駅<br />
+ちこう<br />
+Category:日本鉄道<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:常磐線<br />
+Category:1<a href="http://localhost/keyword/897%E5%B9%B4">897年</a>開業の鉄道駅<br />

@@ -1,0 +1,65 @@
+description<br />
+<br />
+| birth_place =  ミュンヘン<br />
+| death_date = <br />
+| death_place =  ミュンヘン<br />
+| nationality = <br />
+| field = 生化学<br />
+| workplaces = ベルリン大学 ミュンヘン大学<br />
+| alma_mater = ミュンヘン大学<br />
+| doctoral_advisor = オットー・フィッシャーアドルフ・フォン・バイヤー<br />
+| doctoral_students = <br />
+| known_for = 無細胞的発酵の発見<br />
+| prizes = ノーベル化学賞 (1907)<br />
+}}<br />
+<br />
+  <br />
+<br />
+&#39;<a href="http://localhost/keyword/%E3%82%A8%E3%83%89%E3%82%A5%E3%82%A2%E3%83%AB%E3%83%88%E3%83%BB%E3%83%96%E3%83%95%E3%83%8A%E3%83%BC">エドゥアルト・ブフナー</a>&#39;（Eduard Buchner, 1<a href="http://localhost/keyword/860%E5%B9%B4">860年</a>5月20日 - 1<a href="http://localhost/keyword/917%E5%B9%B4">917年</a>8月13日）はドイツの化学者、発酵学者。発酵の化学・生物学的諸研究により、190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>にノーベル化学賞を受賞した。 <br />
+<br />
+== 生涯 ==<br />
+医者と法医学の臨時講師の息子としてミュンヘンで生まれた。兄ハンス・ブフナー（Hans Buchner, 1<a href="http://localhost/keyword/850%E5%B9%B4">850年</a> - 1<a href="http://localhost/keyword/902%E5%B9%B4">902年</a>）は後に<a href="http://localhost/keyword/%E7%B4%B0%E8%8F%8C%E5%AD%A6">細菌学</a>者となったAsimov, &#39;&#39;Asimov&#39;s Biographical Encyclopedia of Science and Technology&#39;&#39; 2nd Revised edition。1<a href="http://localhost/keyword/884%E5%B9%B4">884年</a>にミュンヘンの植物学研究所でアドルフ・フォン・バイヤーの元で化学を、カール・ネーゲリの元で植物学の研究を始めた。エアランゲンでのオットー・フィッシャーと共同研究の後、1<a href="http://localhost/keyword/888%E5%B9%B4">888年</a>にミュンヘン大学から博士号を授与された。<br />
+<br />
+1<a href="http://localhost/keyword/896%E5%B9%B4">896年</a>からチュービンゲン大学助教授、1<a href="http://localhost/keyword/898%E5%B9%B4">898年</a>からベルリン農業大学（現ベルリン大学）教授、1<a href="http://localhost/keyword/909%E5%B9%B4">909年</a>からブレスロウ大学生化学科教授、1<a href="http://localhost/keyword/911%E5%B9%B4">911年</a>にヴュルツブルク大学教授を歴任した。<br />
+<br />
+=== 研究 ===<br />
+1<a href="http://localhost/keyword/896%E5%B9%B4">896年</a>、兄のハンスによる抗毒素の研究の予備実験として、酵母を砂（石英と珪藻土）とともに乳鉢ですり潰し、濾過した上で保存用にショ糖を加えたところ、発酵（二酸化炭素の発生）が起こるのを発見。顕微鏡で観察しても、その中には生きた酵母は全く存在しなかった。ブフナーは酵母が生産した何らかのたんぱく質が発酵を起こすと考え、その物質をチマーゼと命名した。これは後に&#39;酵素&#39;と呼ばれることになる。この発見がノーベル賞受賞につながった。発酵に生きた酵母が不要であることを示したことで、生気説に打撃を与えた。<br />
+<br />
+ブフナー漏斗やそれに関連した吸引ビン（ブフナーフラスコ）はブフナーの発明と誤解されることもあるが、実際には別の化学者エルンスト・ビューヒナーの名を冠したものである。<br />
+<br />
+190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>に生化学の研究と無細胞での発酵の発見により、ノーベル化学賞を受賞した。<br />
+<br />
+=== 私生活と死 ===<br />
+1<a href="http://localhost/keyword/900%E5%B9%B4">900年</a>にロッテ・シュタールと結婚した。第一次世界大戦に際し、少佐としてルーマニアのフォクシャニの最前線の野戦病院に勤務したが、1<a href="http://localhost/keyword/917%E5%B9%B4">917年</a>8月3日に負傷し、その9日後、ミュンヘンで亡くなった。<br />
+<br />
+== 論文 ==<br />
+*  [http://bip.cnrs-mrs.fr/bip10/buchner0.htm 英訳版]<br />
+* <br />
+<br />
+== 脚注・出典 ==<br />
+<br />
+<br />
+== 参考文献 ==<br />
+* <br />
+* <br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://nobelprize.org/nobel_prizes/chemistry/laureates/1907/buchner-lecture.html Buchner&#39;s Nobel Lecture] &#39;&#39;Cell Free Fermentation&#39;&#39; <br />
+* [http://nobelprize.org/nobel_prizes/chemistry/laureates/1907/buchner-bio.html Biography] <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:ドイツの生化学者<br />
+Category:ドイツのノーベル賞受賞者<br />
+Category:ノーベル化学賞受賞者<br />
+Category:ユリウス・マクシミリアン大学ヴュルツブルクの教員<br />
+Category:ヴロツワフ大学の教員<br />
+Category:フンボルト大学ベルリンの教員<br />
+Category:エバーハルト・カール大学テュービンゲンの教員<br />
+Category:ミュンヘン出身の人物<br />
+Category:1<a href="http://localhost/keyword/860%E5%B9%B4">860年</a>生<br />
+Category:1<a href="http://localhost/keyword/917%E5%B9%B4">917年</a>没<br />
+Category:第一次世界大戦で戦死した人物<br />

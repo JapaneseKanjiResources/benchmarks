@@ -1,0 +1,61 @@
+description<br />
+<br />
+|開業年月日 = 1<a href="http://localhost/keyword/932%E5%B9%B4">932年</a>（昭和<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）7月1日<br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面2線<br />
+|廃止年月日 = 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>（平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）12月16日<br />
+|乗降人員   = 311<br />
+|統計年度   = 1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a><br />
+|備考 = *1<a href="http://localhost/keyword/972%E5%B9%B4">972年</a>四海波駅を統合後、現在地に移転<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E5%B8%83%E5%9C%9F%E9%A7%85">布土駅</a>&#39;（ふっとえき）は、かつて愛知県知多郡美浜町大字布土にあった名古屋鉄道河和線の駅。<br />
+<br />
+200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>（平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）12月16日に廃止となった。毎時2本の普通電車のほか、朝に数本急行が停車していた。ただ、普通電車は知多新線を除いた他の路線とは違いほぼ30分間隔の等間隔ダイヤとなっておらず（普通電車が2本続けて発車した後特急と急行が連続して通過していた）非常に利用しづらいダイヤであったため、隣の快速急行（一部特急も停車）停車駅（200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>当時）である河和口駅などに利用者は流れてしまい、低迷した。<br />
+<br />
+== 駅構造 ==<br />
+ホームは2面2線の相対式の地上駅。ホームは最大6両まで対応していた。駅集中管理システム未導入の、完全な無人駅。駅舎もなく、直接ホームに入る形になっていた。冒頭の通り、同システム導入に伴うコストの削減のため、この駅は廃止対象の駅となり、200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>（平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）12月16日に廃止された。<br />
+<br />
+=== 配線図 ===<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 国道247号<br />
+* 三河湾<br />
+* 美浜町コミュニティバス「いってきバス自然号」が国道247号を走っている。河和方面へ1日5本、無料。<br />
+<br />
+== 利用状況 ==<br />
+*『名古屋鉄道百年史』によると1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a>度当時の1日平均乗降人員は311人であり、この値は岐阜市内線均一運賃区間内各駅（岐阜市内線・田神線・美濃町線徹明町駅 - 琴塚駅間）を除く名鉄全駅（342駅）中300位、河和線・知多新線（26駅）中25位であった。<br />
+*『愛知統計年鑑』によると1日平均の乗車人員は200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>度105人、200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>度<a href="http://localhost/keyword/110">110</a>人であった。<br />
+<br />
+== 歴史 ==<br />
+待合所と駅名標<br />
+* 1<a href="http://localhost/keyword/932%E5%B9%B4">932年</a>（昭和<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）7月1日 知多鉄道の駅として開業。<br />
+* 1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a>（昭和<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）2月1日 知多鉄道が名古屋鉄道に合併。<br />
+* 1<a href="http://localhost/keyword/972%E5%B9%B4">972年</a>（昭和<a href="http://localhost/keyword/47%E5%B9%B4">47年</a>）4月1日 同日廃止された四海波駅を統合し、太田川寄りに900m移設。<br />
+* 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>（平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）12月16日 廃止。<br />
+<br />
+== 隣の駅 ==<br />
+; 名古屋鉄道<br />
+: 河和線<br />
+:: 特急・快速急行<br />
+::: 通過<br />
+:: 急行（一部の列車が停車）・普通<br />
+::: 富貴駅 - （&#39;<a href="http://localhost/keyword/%E5%B8%83%E5%9C%9F%E9%A7%85">布土駅</a>&#39;） - 河和口駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 廃駅<br />
+<br />
+<br />
+<br />
+<br />
+Category:愛知県の廃駅<br />
+つと<br />
+Category:名古屋鉄道の廃駅<br />
+Category:1<a href="http://localhost/keyword/932%E5%B9%B4">932年</a>開業の鉄道駅<br />
+Category:200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>廃止の鉄道駅<br />
+ふつとえき<br />
+廃ふつとえき<br />
+Category:愛知県美浜町の歴史<br />

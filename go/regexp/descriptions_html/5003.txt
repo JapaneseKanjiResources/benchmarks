@@ -1,0 +1,77 @@
+description<br />
+<br />
+921<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/903%E5%B9%B4">903年</a>（明治<a href="http://localhost/keyword/36%E5%B9%B4">36年</a>）12月21日<br />
+|廃止年月日 =<br />
+|乗車人員 =<br />
+|乗降人員 =<br />
+|統計年度 =<br />
+|乗換 =<br />
+|備考 = 無人駅* 1<a href="http://localhost/keyword/942%E5%B9%B4">942年</a>に<a href="http://localhost/keyword/%E6%B7%BB%E7%94%B0%E9%A7%85">添田駅</a>から改称。<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E8%A5%BF%E6%B7%BB%E7%94%B0%E9%A7%85">西添田駅</a>&#39;（にしそえだえき）は、福岡県田川郡添田町大字庄にある、九州旅客鉄道（JR九州）<a href="http://localhost/keyword/%E6%97%A5%E7%94%B0%E5%BD%A6%E5%B1%B1%E7%B7%9A">日田彦山線</a>の駅。かつては庄貨物駅までの貨物支線が分岐していた。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/903%E5%B9%B4">903年</a>（明治<a href="http://localhost/keyword/36%E5%B9%B4">36年</a>）12月21日 - 九州鉄道の駅として川崎（現・豊前川崎） - 添田間開業と同時に&#39;<a href="http://localhost/keyword/%E6%B7%BB%E7%94%B0%E9%A7%85">添田駅</a>&#39;として開業。<br />
+* 1<a href="http://localhost/keyword/904%E5%B9%B4">904年</a>（明治<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）10月25日 - 添田 - 庄間の貨物支線開通。<br />
+* 190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（明治40年）7月1日 - 国有化鉄輪、p.65。。<br />
+* 1<a href="http://localhost/keyword/942%E5%B9%B4">942年</a>（昭和<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）8月1日 - &#39;<a href="http://localhost/keyword/%E8%A5%BF%E6%B7%BB%E7%94%B0%E9%A7%85">西添田駅</a>&#39;に改称。<br />
+* 1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a>（昭和<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）7月1日 - 西添田 - 庄間の貨物支線休止。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により九州旅客鉄道が承継鉄輪、p.181。。<br />
+* 19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>（平成<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）5月3日 - 駅と公民館オークホールとを結ぶ跨線橋が開通。<br />
+* 1<a href="http://localhost/keyword/994%E5%B9%B4">994年</a>（平成<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>） - 駅舎改築。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を有する地上駅。かつては島式ホーム1面2線であった。<br />
+<br />
+開業当初からの重厚な木造駅舎がJR九州に移管後も残っていたが、その後取り壊され円筒形の入り口を持つ駅舎が建てられた。駅舎には喫茶店が入っていたが閉店した。国鉄時代に無人駅となっている。<br />
+<br />
+かつては石炭の積み出しを行っていたが、現在駅にはその名残はほとんどない。<br />
+<br />
+== 駅周辺 ==<br />
+添田町の中心地は駅南側から隣駅となる<a href="http://localhost/keyword/%E6%B7%BB%E7%94%B0%E9%A7%85">添田駅</a>の間に広がっている。<br />
+* 添田町役場 - <a href="http://localhost/keyword/%E6%B7%BB%E7%94%B0%E9%A7%85">添田駅</a>からのほうがやや近い。<br />
+<br />
+駅東側は炭鉱閉山後も長らくボタ山が残されていたが、現在は造成開発され住宅やスーパー<a href="http://localhost/keyword/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88">マーケット</a>、公共の文化・スポーツ施設が建ち並ぶ新市街を形成している。<br />
+* オークホール（添田町公民館・音楽堂）<br />
+* そえだサン・スポーツランド（町営スポーツ施設）<br />
+* そえだドーム（添田勤労者体育館）<br />
+<br />
+== バス路線 ==<br />
+* 西鉄バス筑豊 - 10番系統が運行されている。最寄のバス停は駅西側の「<a href="http://localhost/keyword/%E8%A5%BF%E6%B7%BB%E7%94%B0%E9%A7%85">西添田駅</a>口」。駅東側へ渡る跨線橋先にもバス停「オークホール前」があるが、本数は少ない。上りは川崎経由後藤寺バスセンター（田川市）行き、下りは現在は<a href="http://localhost/keyword/%E6%B7%BB%E7%94%B0%E9%A7%85">添田駅</a>経由めんべい添田町工場行きのみ。かつては添田バスセンターを経由し<a href="http://localhost/keyword/%E8%8B%B1%E5%BD%A6%E5%B1%B1">英彦山</a>（豊前坊）方面へ向かう便も設定されていた。<br />
+<br />
+== 隣の駅 ==<br />
+; 九州旅客鉄道<br />
+: <a href="http://localhost/keyword/%E6%97%A5%E7%94%B0%E5%BD%A6%E5%B1%B1%E7%B7%9A">日田彦山線</a><br />
+:: 快速<br />
+::: &#39;通過&#39;<br />
+:: 普通<br />
+::: 豊前川崎駅 - &#39;<a href="http://localhost/keyword/%E8%A5%BF%E6%B7%BB%E7%94%B0%E9%A7%85">西添田駅</a>&#39; - <a href="http://localhost/keyword/%E6%B7%BB%E7%94%B0%E9%A7%85">添田駅</a><br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 参考文献 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* <br />
+<br />
+<br />
+<br />
+<br />
+Category:福岡県の鉄道駅<br />
+しそえた<br />
+Category:九州旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/903%E5%B9%B4">903年</a>開業の鉄道駅<br />
+Category:九州鉄道（初代）<br />
+Category:<a href="http://localhost/keyword/%E6%97%A5%E7%94%B0%E5%BD%A6%E5%B1%B1%E7%B7%9A">日田彦山線</a><br />
+にしそえたえき<br />

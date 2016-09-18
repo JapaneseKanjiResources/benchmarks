@@ -1,0 +1,50 @@
+description<br />
+勝山<a href="http://localhost/keyword/%E6%B0%B8%E5%B9%B3%E5%AF%BA">永平寺</a>線<br />
+|キロ程 = 11.9<br />
+|起点駅 =  福井<br />
+|所在地 = 福井県吉田郡<a href="http://localhost/keyword/%E6%B0%B8%E5%B9%B3%E5%AF%BA">永平寺</a>町谷口<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/951%E5%B9%B4">951年</a>（昭和<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>）12月15日<br />
+|廃止年月日 = <br />
+|乗車人員 = <br />
+|乗降人員 =   <br />
+|統計年度 = <br />
+|乗換 = <br />
+|備考 = 無人駅<br />
+}}<br />
+ホーム<br />
+&#39;<a href="http://localhost/keyword/%E4%B8%8B%E5%BF%97%E6%AF%94%E9%A7%85">下志比駅</a>&#39;（しもしいえき）は、福井県吉田郡<a href="http://localhost/keyword/%E6%B0%B8%E5%B9%B3%E5%AF%BA">永平寺</a>町谷口にあるえちぜん鉄道勝山<a href="http://localhost/keyword/%E6%B0%B8%E5%B9%B3%E5%AF%BA">永平寺</a>線の駅である。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を有する地上駅。無人駅となっている。<br />
+ホーム上には、上屋と一体となった待合所がある。ホーム下には小さい駐輪場が設置されている。<br />
+ホームには花壇が設置され、色とりどりの花が育てられている。<br />
+<br />
+== 駅周辺 ==<br />
+* 国道416号<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/951%E5%B9%B4">951年</a>（昭和<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>）12月15日 - 開業。<br />
+* 2001年（平成<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）6月24日 事故による全線運行休止により休業。<br />
+* 2003年（平成<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）<br />
+** 2月1日 えちぜん鉄道が承継。<br />
+** 10月19日 業務再開。<br />
+<br />
+== 隣の駅 ==<br />
+; えちぜん鉄道<br />
+: 勝山<a href="http://localhost/keyword/%E6%B0%B8%E5%B9%B3%E5%AF%BA">永平寺</a>線<br />
+:: <a href="http://localhost/keyword/%E6%B0%B8%E5%B9%B3%E5%AF%BA">永平寺</a>口駅 - &#39;<a href="http://localhost/keyword/%E4%B8%8B%E5%BF%97%E6%AF%94%E9%A7%85">下志比駅</a>&#39; - 光明寺駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+<br />
+Category:<a href="http://localhost/keyword/%E6%B0%B8%E5%B9%B3%E5%AF%BA">永平寺</a>町の鉄道駅<br />
+もしい<br />
+Category:えちぜん鉄道の鉄道駅<br />
+Category:京福電気鉄道の廃駅<br />
+Category:1<a href="http://localhost/keyword/951%E5%B9%B4">951年</a>開業の鉄道駅<br />

@@ -1,0 +1,36 @@
+description<br />
+<a href="http://localhost/keyword/%E3%82%B9%E3%83%9F%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88">スミスチャート</a>（データは未記入） 実用チャートでは外囲に波数比の目盛りがつく <br />
+<br />
+&#39;<a href="http://localhost/keyword/%E3%82%B9%E3%83%9F%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88">スミスチャート</a>&#39;（Smith chart）とは、電子工学において伝送路のインピーダンス整合を設計する際に用いられる、複素インピーダンスを示す円形の図表である。1<a href="http://localhost/keyword/939%E5%B9%B4">939年</a>にRCAのエンジニアでアマチュア無線家（コールサイン 1<a href="http://localhost/keyword/ANB">ANB</a>）でもあるフィリップ・スミスにより発明されたとされる。発明の理由をスミス氏は「計算尺が使えるようになった頃から、数学的な関係を図で表現することに興味を持っていた」と説明した。スミスの提案の<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>前、日本無線電信株式会社の水橋東作は1<a href="http://localhost/keyword/937%E5%B9%B4">937年</a>（昭和<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）に発表した論文中第１図で、「反射係数\\gammaのZ_{01}（及Z_{02}）に対する円線図」という<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>インピーダンスに対する<a href="http://localhost/keyword/%E3%82%B9%E3%83%9F%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88">スミスチャート</a>と等価の計算図表を提案し、この「便利な図」を用いてグラフィカルにインピーダンスの計算ができることを示した水橋東作, [http://www.linkclub.or.jp/~morikuni/mizuhashi-smithchart/Mizuhashi,J.IECEJ(1937).pdf &#34;四端子回路のインピーダンス変成と整合回路の理論,&#34;] 電気通信学会雑誌、第12号、pp.1053-1058 (1937).。このため日本国内では、<a href="http://localhost/keyword/%E3%82%B9%E3%83%9F%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88">スミスチャート</a>は&#39;&#39;水橋チャート&#39;&#39;または&#39;&#39;水橋-<a href="http://localhost/keyword/%E3%82%B9%E3%83%9F%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88">スミスチャート</a>&#39;&#39;と呼称するのが妥当であるとの意見が存在する岡村史良, [http://www.linkclub.or.jp/~morikuni/mizuhashi-smithchart/Okamura,J.IECEJ(1959).pdf &#34;<a href="http://localhost/keyword/%E3%82%B9%E3%83%9F%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88">スミスチャート</a>は日本人の独創ではないか,&#34;] 電気通信学会雑誌、第８号、pp.768-769 (1959).伊藤健一「インピーダンスのはなし」日刊工業新聞社 、p.26 (1999) ISBN 4-526-04463-6。<br />
+<br />
+<br />
+<a href="http://localhost/keyword/%E3%82%B9%E3%83%9F%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88">スミスチャート</a>の基本は次の式で示される。<br />
+:\\Gamma = \\frac{z_L - 1}{z_L + 1}<br />
+\\Gammaは複素反射係数（散乱係数&#39;&#39;s&#39;&#39;またはs_{11}とも呼ばれる)、z_Lは伝送路の負荷の<a href="http://localhost/keyword/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>インピーダンスで、Z_L/Z_0に等しい。ここで、<br />
+:Z_Lは負荷のインピーダンス<br />
+:Z_0は伝送路の特性インピーダンス <br />
+である。<br />
+<br />
+この図自体は複素平面であり、水平軸は複素反射係数の実数部、垂直軸は虚数部を表す。また、各円上はインピーダンスの実数（抵抗）成分が一定、上下に曲がった曲線上（実は円弧）はインピーダンスの虚数（リアクタンス）成分が一定である。図の中心は負荷と伝送線路が整合された場合に対応する。図の周囲は100％の反射に対応し、周囲に書かれた角度は反射係数の位相を0から180度（半波長）で示す。<br />
+<br />
+インピーダンスではなくアドミタンスを表す<a href="http://localhost/keyword/%E3%82%B9%E3%83%9F%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88">スミスチャート</a>を&#39;アドミタンスチャート&#39;と言う。アドミタンスチャートは<a href="http://localhost/keyword/%E3%82%B9%E3%83%9F%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88">スミスチャート</a>を180度回転して作成される。<a href="http://localhost/keyword/%E3%82%B9%E3%83%9F%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88">スミスチャート</a>にアドミタンスチャートを重ね合わせたものを&#39;イミタンスチャート&#39;と言う。<br />
+<br />
+コンピュータの時代になり、紙の<a href="http://localhost/keyword/%E3%82%B9%E3%83%9F%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88">スミスチャート</a>が問題を解くために使われることは少なくなったが、高周波の複素インピーダンスを直感的にわかるかたちで示す方法として、非常に有用な方法である。また、電磁気学（特に<a href="http://localhost/keyword/%E9%9B%BB%E6%B3%A2%E5%B7%A5%E5%AD%A6">電波工学</a>）を学ぶ学生には、通常はこの図表を用いた演習問題が課されており、依然として重要な教育手段である。<br />
+<br />
+ネットワークアナライザと呼ばれる計測器では、<a href="http://localhost/keyword/%E3%82%B9%E3%83%9F%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88">スミスチャート</a>の形で結果を表示する。ネットワークアナライザは、現代の高周波回路の設計に欠かせない計測器である。<br />
+<br />
+== 参考文献 ==<br />
+<br />
+# Field and Wave Electromagnetics, David K. Cheng, Addison Wesley, ISBN 0-201-52820-7<br />
+<br />
+== 外部リンク ==<br />
+* [http://www16.ocn.ne.jp/~macoco/ham/chart/chart.html <a href="http://localhost/keyword/%E3%82%B9%E3%83%9F%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88">スミスチャート</a>] - アンテナを製作する際のインピーダンスチャート、アドミタンスチャート、イミタンスチャートの使用例が書かれている。インピーダンスチャート、イミタンスチャートが入手可能。<br />
+* [http://wista.jp/SmithChart.htm The Art of Analog Circuits, Smith chart] - <a href="http://localhost/keyword/%E3%82%B9%E3%83%9F%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88">スミスチャート</a>での整合のとり方が書かれている。<a href="http://localhost/keyword/%E3%82%B9%E3%83%9F%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88">スミスチャート</a>、イミタンスチャートが入手可能。<br />
+* [http://www.mwave-lab.jp/smith.htm <a href="http://localhost/keyword/%E3%82%B9%E3%83%9F%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88">スミスチャート</a>] - インピーダンスチャートとアドミタンスチャートの使い方が書かれている。<br />
+<br />
+<br />
+Category:電磁気学<br />
+Category:電気回路<br />
+Category:電子工学<br />
+Category:無線工学<br />
+Category:グラフ<br />

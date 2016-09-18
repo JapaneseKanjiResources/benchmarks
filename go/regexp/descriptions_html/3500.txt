@@ -1,0 +1,81 @@
+description<br />
+<br />
+|所属事業者 = 23px北海道旅客鉄道（JR北海道）<br />
+|所属路線   = ■根室本線<br />
+|キロ程     = 173.4<br />
+|起点駅     = 滝川<br />
+|所在地     = 北海道帯広市西23条南1丁目<br />
+|緯度度=42|緯度分=55|緯度秒=26.82<br />
+|経度度=143|経度分=7|経度秒=31.53<br />
+|駅構造     = 地上駅<br />
+|ホーム     = 2面3線<br />
+|開業年月日 = 190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（明治40年）9月8日<br />
+|廃止年月日 = <br />
+|乗車人員   = 284<br />
+|統計年度   = 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>度<br />
+|乗換       = <br />
+|備考       = 無人駅<br />
+|備考全幅   = * この間に帯広貨物駅（滝川起点 <a href="http://localhost/keyword/176">176</a>.0km）がある。 <br />
+}}<br />
+<br />
+跨線橋（200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>8月）<br />
+跨線橋の中にある簡易自動券売機（200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>8月）<br />
+1<a href="http://localhost/keyword/977%E5%B9%B4">977年</a>の<a href="http://localhost/keyword/%E8%A5%BF%E5%B8%AF%E5%BA%83%E9%A7%85">西帯広駅</a>と周囲約1km×1.5km範囲。右が根室方面。右手方向の（貨）<a href="http://localhost/keyword/%E5%B8%AF%E5%BA%83%E9%A7%85">帯広駅</a>からの貨物線は、右端の農協（現JA帯広かわにし）倉庫周辺へ分岐した後、当駅の駅舎前を過ぎて、左端に少し見えている油槽所や、さらに先の日本甜菜製糖芽室製糖所へ向かう。<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E8%A5%BF%E5%B8%AF%E5%BA%83%E9%A7%85">西帯広駅</a>&#39;（にしおびひろえき）は、北海道帯広市西23条南1丁目にある北海道旅客鉄道（JR北海道）根室本線の駅。駅番号は&#39;K29&#39;。特急列車は通常全て通過する。年に数度修学旅行などの学校行事で列車利用の場合は停車する。<br />
+<br />
+== 駅構造 ==<br />
+単式と島式のホーム2面3線を有する地上駅である。駅舎とホームの間に帯広貨物駅と日本甜菜製糖芽室製糖所とを結ぶ帯広市産業開発公社の専用線（管理・運行は十勝鉄道）があるため、地上の待合室からホームへは跨線橋を使用しなければならない。この跨線橋は駅の南北を結ぶ自由通路にもなっている。<br />
+<br />
+本線は2番線で、交換や追抜きの待避の場合のみ、下りは1番線（場合により3番線）、上りは3番線を使用する。専用線側にも使われていないホームが残存している。<br />
+<br />
+<a href="http://localhost/keyword/%E5%B8%AF%E5%BA%83%E9%A7%85">帯広駅</a>管理下の無人駅。跨線橋内に簡易自動券売機が設置されている。以前は駅前商店で発売する簡易委託駅だったが、委託営業末期は欠札状態だった。その委託先商店は現在閉店している。<br />
+<br />
+== 駅名の由来 ==<br />
+管轄するJR北海道釧路支社によると、アイヌ語の「フシコ・ペッ(古い川)」→伏古に因るものだが、帯広の西方にある所に因んで駅名を改めた。<br />
+<br />
+== 駅周辺 ==<br />
+周辺はもともと住宅が多かったが、近年はその範囲も南側に大きく広がり、商業施設も増えてきている。<br />
+* 北海道道440号西帯広停車場線<br />
+* 国道38号<br />
+* 帯広広尾自動車道芽室帯広インターチェンジ<br />
+* 帯広警察署西帯広交番<br />
+* 西帯広郵便局<br />
+* 帯広信用金庫つつじが丘支店<br />
+* 帯広市川西<a href="http://localhost/keyword/%E8%BE%B2%E6%A5%AD%E5%8D%94%E5%90%8C%E7%B5%84%E5%90%88">農業協同組合</a>（JA帯広かわにし）西帯広支店<br />
+* 北海道帯広三条高等学校<br />
+* 十勝バス本社<br />
+* 十勝バス・&#39;ポテトライナー&#39;「西帯広」停留所<br />
+<br />
+== 歴史 ==<br />
+* 190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（明治40年）9月8日 - 国有鉄道の&#39;伏古駅&#39;（ふしこえき）として開業。<br />
+* 1<a href="http://localhost/keyword/928%E5%B9%B4">928年</a>（昭和3年）10月15日 - 駅舎改築『釧路鉄道管理局史』1<a href="http://localhost/keyword/972%E5%B9%B4">972年</a>10月発行、年代表。。<br />
+* 1<a href="http://localhost/keyword/954%E5%B9%B4">954年</a>（昭和<a href="http://localhost/keyword/29%E5%B9%B4">29年</a>）11月10日 - &#39;<a href="http://localhost/keyword/%E8%A5%BF%E5%B8%AF%E5%BA%83%E9%A7%85">西帯広駅</a>&#39;に改称。<br />
+* 1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>（昭和<a href="http://localhost/keyword/45%E5%B9%B4">45年</a>）5月20日 - 貨物取扱い廃止。<br />
+* 1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>（昭和<a href="http://localhost/keyword/46%E5%B9%B4">46年</a>）10月2日 - 荷物取扱い廃止。<br />
+* 19xx年 - 無人（簡易委託）化。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化によりJR北海道に継承。<br />
+* 199x年 - 簡易委託廃止、完全無人化。<br />
+* 2001年（平成<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）11月 - 駅舎改築。<br />
+<br />
+== 隣の駅 ==<br />
+; 北海道旅客鉄道<br />
+: 根室本線<br />
+:: 大成駅 (K28) - &#39;<a href="http://localhost/keyword/%E8%A5%BF%E5%B8%AF%E5%BA%83%E9%A7%85">西帯広駅</a> (K29)&#39; - 帯広貨物駅 - 柏林台駅 (K30)<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jrkushiro.jp/eki/nemuro_h/ni_obihi.html <a href="http://localhost/keyword/%E8%A5%BF%E5%B8%AF%E5%BA%83%E9%A7%85">西帯広駅</a>（JR北海道釧路支社）]<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:北海道の鉄道駅<br />
+しおひひろ<br />
+Category:北海道旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:根室本線<br />
+Category:190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>開業の鉄道駅<br />
+Category:帯広市の交通<br />

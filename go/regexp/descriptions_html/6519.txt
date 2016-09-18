@@ -1,0 +1,10 @@
+description<br />
+&#39;<a href="http://localhost/keyword/PUS">PUS</a>&#39;<br />
+* 金海国際空港を指すIATA空港コード（3レターコード）<br />
+* パシュトー語を指すISO 639-2言語コード<br />
+* 事務次官 (イギリス) - 正式名称「&#39;P&#39;ermanent &#39;U&#39;nder-&#39;S&#39;ecretary」の略記<br />
+<br />
+== 関連項目 ==<br />
+* パス - 曖昧さ回避<br />
+<br />
+<br />

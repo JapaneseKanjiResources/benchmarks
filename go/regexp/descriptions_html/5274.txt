@@ -1,0 +1,246 @@
+description<br />
+&#39;ブルバード&#39;（&#39;&#39;BOULEVARD&#39;&#39;）は、スズキが製造する水冷4ストロークV型2気筒エンジン搭載のクルーザー（アメリカン）タイプのオートバイである。排気量別にシリーズ車種として生産されている。<br />
+<br />
+日本語表記における車名は「ブルバード」となり、「大通り」（ブールバール）を意味する語に由来し、都会的なイメージから命名された[http://www.suzuki.co.jp/about/faq/dom2_name.html スズキ株式会社 - スズキ二輪車 - 車名の由来]。英語的発音を参考にすれば「ブゥルヴァード」がより原音に忠実な表記となる[http://ejje.weblio.jp/content/boulevard 英和辞典 Weblio辞書 - boulevardの意味] - Weblio英和辞典 ※音声ファイルによる参照が可能。。媒体によっては「&#39;ブルーバード&#39;」と表記されている場合も一部に見られるが、「青い鳥」（&#39;Bluebird&#39;）とは異なる[http://ejje.weblio.jp/content/boulevard 英和辞典 Weblio辞書 - bluebirdの意味] - Weblio英和辞典 ※音声ファイルによる参照が可能。。<br />
+<br />
+日本国外市場では、輸出仕向け地によりシリーズのラインナップが異なっている。欧州一般仕様では、先代シリーズの「イントルーダー」として国内版ブルバード（および輸出専用モデル）が販売されているほか、北米および豪州仕様では、国内版の旧イントルーダーシリーズやなどを含めて「ブルバード」として総合的にラインナップしている。本稿では、VZ系・VZR系のモデルを「ブルバード」シリーズとして解説する。<br />
+<br />
+== モデル一覧 ==<br />
+=== BOULEVARD400 ===<br />
+<br />
+| 設計統括 = <br />
+| デザイン = <br />
+| 製造期間 = 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a> - 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>(BC-VK55A)200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a> - 20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>(EBL-VK57A)20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a> - (BC-VK57A)<br />
+| タイプ = クルーザー<br />
+| フレーム = ダブルクレードル<br />
+| 全長 = 2,370<br />
+| 全幅 = 920<br />
+| 全高 = 1,125<br />
+| ホイールベース = 1,655<br />
+| 最低地上高 = 140<br />
+| シート高 = 700<br />
+| 燃料供給装置 = キャブレター<br />
+| 燃料供給装置型式 = MIKUNI BDSR29<br />
+| 始動方式 = セルフ式<br />
+| 潤滑方式 = ウェットサンプ<br />
+| 駆動方式 = シャフトドライブ<br />
+| トランスミッション = 常時噛合式5段リターン<br />
+| サスペンション (前) = 倒立式テレスコピックフォーク<br />
+| サスペンション (後) = モノショック式スイングアーム<br />
+| キャスター = 33.20<br />
+| トレール = 141<br />
+| ブレーキ (前) = 油圧式シングルディスク<br />
+| ブレーキ (後) = 機械式リーディングトレーリングドラム<br />
+| タイヤサイズ (前) = 130/90-16M/C 67H<br />
+| タイヤサイズ (後) = 170/80-15M/C 77H<br />
+| 最高速度 = <br />
+| 乗車定員 = 2<br />
+| 燃料タンク容量 = 17<br />
+| 燃費 = 36.0<br />
+| カラー =  パールクリスタルレッド (YU7) パールネブラーブラック (YAY)<br />
+| 本体価格 = 699,000円（税抜）<br />
+| 備考 = スペックは200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>式のもの[https://web.archive.org/web/20050318115958/http://www1.suzuki.co.jp/motor/boulevard/spec.html SUZUKI MOTORCYCLES - BOULEVARD400/800 - 諸元]（200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>3月18日時点のアーカイブ）<br />
+| 先代 = デスペラード400<br />
+| 後継 = <br />
+| 姉妹車 = <br />
+| 同クラス = <br />
+| 自由項目（項目名） = <br />
+| 自由項目（内容）   = <br />
+| 自由項目表示位置   = <br />
+}}<br />
+&#39;ブルバード400&#39;は200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>に発売された。800ccモデルと共通の車体をもつ普通自動二輪クラスとして同時にラインナップされた。クルーザータイプながら倒立式フォークを採用し、ショートフェンダーなどスポーツ走行をイメージさせる外装を施している。<br />
+<br />
+200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>11月には自動車排出ガス規制に適合させるマイナーチェンジが行われ、FI仕様のEBL-VK57A型へ更新された。<br />
+外観上の変更はほとんどないが、エアクリーナーカバーが涙滴形から盾形に変更となり、マフラー形状が変更されている点がおもな差異となる。<br />
+<br />
+20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>3月にはビキニカウルを装備するなど、おもに外装の刷新により大幅なイメージチェンジが行われた。ビキニカウルは、フラグシップモデルのM109R / M1800Rと同系統のデザインであり、多面的で独特な形状をもつ。また、上位機種同様にシングルシート仕様に変更するオプションパーツも発売された。他にはエンジンカバー類が黒色塗装からメッキ仕上げへと変更となっている。<br />
+; BC-VK55A 仕様沿革<br />
+:* VZ400K5 - 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>3月18日発売[http://www.suzuki.co.jp/release/b/b050318.htm スズキ株式会社 - 二輪製品ニュース - 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>3月18日] ※「ブルバード400/800」発売。<br />
+:* VZ400K7 / VZ400ZK7 - ZK7（ブルバード400リミテッド）は200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>8月19日発売[http://www.suzuki.co.jp/release/b/b060810.htm スズキ株式会社 - 二輪製品ニュース - 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>8月10日] ※「ブルバード400リミテッド（ZK7）」発売。<br />
+:* VZ400K8 / VZ400ZK8 - ZK8（ブルバード400リミテッド）は200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>9月発売。<br />
+; EBL-VK57A 仕様沿革<br />
+:* VZ400K9 / VZ400ZK9 - K9・ZK9（ブルバード400リミテッド）ともに200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>11月発売。<br />
+:* VZ400L0 - 20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>3月3日発売[http://www.suzuki.co.jp/release/b/2009/0226/index.html スズキ株式会社 - 二輪製品ニュース - 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>2月26日] ※「ブルバード400」マイナーチェンジ。<br />
+:* VZ400L1<br />
+:* VZ400L1<br />
+:* VZ400L3<br />
+:* VZ400L4<br />
+<br />
+400ccモデルは20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>に生産終了が公表された。<br />
+<br />
+<br />
+<br />
+=== BOULEVARD800 ===<br />
+<br />
+| 設計統括 = <br />
+| デザイン = <br />
+| 製造期間 = 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a> - <br />
+| タイプ = クルーザー<br />
+| フレーム = ダブルクレードル<br />
+| 全長 = 2,370<br />
+| 全幅 = 920<br />
+| 全高 = 1,125<br />
+| ホイールベース = 1,655<br />
+| 最低地上高 = 140<br />
+| シート高 = 700<br />
+| 燃料供給装置 = 電子式燃料噴射式<br />
+| 燃料供給装置型式 = <br />
+| 始動方式 = セルフ式<br />
+| 潤滑方式 = ウェットサンプ<br />
+| 駆動方式 = シャフトドライブ<br />
+| トランスミッション = 常時噛合式5段リターン<br />
+| サスペンション (前) = 倒立式テレスコピックフォーク<br />
+| サスペンション (後) = モノショック式スイングアーム<br />
+| キャスター = 33.20<br />
+| トレール = 141<br />
+| ブレーキ (前) = 油圧式シングルディスク<br />
+| ブレーキ (後) = 機械式リーディングトレーリングドラム<br />
+| タイヤサイズ (前) = 130/90-16M/C 67H<br />
+| タイヤサイズ (後) = 170/80-15M/C 77H<br />
+| 最高速度 = <br />
+| 乗車定員 = 2<br />
+| 燃料タンク容量 = 15<br />
+| 燃費 = 36.0<br />
+| カラー =  パールネブラーブラック (YAY)<br />
+| 本体価格 = 779,000円（税抜）<br />
+| 備考 = スペックは200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>式のもの<br />
+| 先代 = デスペラード800<br />
+| 後継 = <br />
+| 姉妹車 = <br />
+| 同クラス = <br />
+| 自由項目（項目名） = <br />
+| 自由項目（内容）   = <br />
+| 自由項目表示位置   = <br />
+}}<br />
+&#39;ブルバード800&#39;は200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>に発売された。400ccモデルと共通の車体をもつ大型自動二輪クラスとして同時にラインナップされた。クルーザータイプながらスポーツ走行をイメージさせる外装を施している。<br />
+200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>10月に国内での販売が終了となったが、輸出用の海外仕様の生産は継続された。海外仕様は、北米・豪州向けが「ブルバードM50」、欧州一般向けが「イントルーダーM800」の名称で販売されている。<br />
+<br />
+; BC-VS56A 仕様沿革<br />
+:* VZ800K5 - 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>3月18日発売<br />
+:* VZ800K6<br />
+<br />
+<br />
+<br />
+=== BOULEVARD M109R / INTRUDER M1800R ===<br />
+<br />
+| 設計統括 = <br />
+| デザイン = <br />
+| 製造期間 = 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a> - <br />
+| タイプ = クルーザー<br />
+| フレーム = <br />
+| 全長 = 2,460<br />
+| 全幅 = 940<br />
+| 全高 = 1,180<br />
+| ホイールベース = 1715<br />
+| 最低地上高 = <a href="http://localhost/keyword/135">135</a><br />
+| シート高 = 700<br />
+| 燃料供給装置 = 電子制御燃料噴射装置<br />
+| 燃料供給装置型式 = <br />
+| 始動方式 = セルフ式<br />
+| 潤滑方式 = セミドライサンプ<br />
+| 駆動方式 = シャフトドライブ<br />
+| トランスミッション = 常時噛合式5段リターン<br />
+| サスペンション (前) = 倒立式テレスコピックフォーク<br />
+| サスペンション (後) = モノショック式スイングアーム<br />
+| キャスター = <br />
+| トレール = <br />
+| ブレーキ (前) = 油圧式ダブルディスク<br />
+| ブレーキ (後) = 油圧式シングルディスク<br />
+| タイヤサイズ (前) = 130/70R18 M/C 63V<br />
+| タイヤサイズ (後) = 240/40R18 M/C 79V<br />
+| 最高速度 = <br />
+| 乗車定員 = 2<br />
+| 燃料タンク容量 = 19.0<br />
+| 燃費 = <br />
+| カラー =   Black Silver Violet Blue<br />
+| 本体価格 = <br />
+| 備考 = スペックは200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>式北米仕様のもの[https://web.archive.org/web/20051126030221/http://www.suzukicycles.com/Products/M109RK6/Specs/Default.aspx The Official Site of Suzuki&amp;#174; Motorcycles - Boulevard M109R - Specs]（200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>11月26日時点のアーカイブ）<br />
+| 先代 = <br />
+| 後継 = <br />
+| 姉妹車 = <br />
+| 同クラス = <br />
+| 自由項目（項目名） = <br />
+| 自由項目（内容）   = <br />
+| 自由項目表示位置   = <br />
+}}<br />
+&#39;ブルバードM109R&#39;（&#39;イントルーダーM1800R&#39;）は、日本国外専用モデルである。200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>に開催された第39回東京モーターショーに参考出品されたモデルを市販化したものとして、200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>2月より販売を開始[http://www.suzuki.co.jp/release/d/d060220.htm スズキ株式会社 - 企業ニュース - 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>2月20日]※「ブルバードM109R0」発売。<br />
+北米・豪州向けが「ブルバードM109R」、欧州一般向けが「イントルーダーM1800R」の名称で販売されている。<br />
+<br />
+; VZR1800 仕様沿革<br />
+:* 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>：VZR1800K6<br />
+:* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>：VZR1800K7<br />
+:* 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>：VZR1800K8<br />
+:* 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>：VZR1800K9 / VZR1800NK9 ※「VZR1800N」はネイキッド仕様の「ブルバードM109R2」。<br />
+:* 20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>：VZR1800L0<br />
+:* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>：VZR1800L1<br />
+:* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>：VZR1800L2<br />
+:* 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>：VZR1800L3<br />
+:* 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>：VZR1800L4<br />
+<br />
+<br />
+=== BOULEVARD M90 / INTRUDER M1500 ===<br />
+&#39;ブルバードM90&#39;（&#39;イントルーダーM1500&#39;）は、日本国外専用モデルである。<br />
+北米・豪州向けが「ブルバードM90」[https://web.archive.org/web/20090305153341/http://www.suzukicycles.com/Product%20Lines/Cycles/Products/Boulevard%20M90/2009/M90.aspx?category=cruiser Suzuki Cycles - Product Lines - Cycles - Products - Boulevard M90 - 2009 - M90]（200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>3月5日時点のアーカイブ）、欧州一般向けが「イントルーダーM1500」の名称で販売されている[https://web.archive.org/web/20130116104029/http://www.suzuki-gb.co.uk/bike/vz1500l0/ Suzuki GB Motorcycles - Intruder M1500]（20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>1月16日時点のアーカイブ）。<br />
+<br />
+<br />
+== 日本国外仕様 ==<br />
+日本国外向けのクルーザー車種においては、輸出仕向け地によりシリーズ名称が異なる。<br />
+<br />
+欧州向けでは、先代シリーズ名である「イントルーダー」が継続されており、「ブルバード」の名称は原則的に使用されていない。<br />
+<br />
+北米およびオーストラリア向けでは、200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>より統一ブランドとして「ブルバード」の商標が用いられており、他の仕向け地とは異なる名称となる。なお、車種名の数字は<a href="http://localhost/keyword/%E3%82%AD%E3%83%A5%E3%83%BC">キュー</a>ビックインチでの排気量を表す（概算では109cu.in.＝1800ccクラス、90cu.in.＝1500ccクラス、50cu.in.＝800ccクラスとなる）。<br />
+<br />
+; VZ系・VZR系モデル<br />
+:* ブルバードM109R：VZR1800：欧州一般仕様では「イントルーダーM1800R」。<br />
+:* ブルバードM95：VZ1600（K5）： <a href="http://localhost/keyword/%E3%83%9E%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC">マローダー</a>1600の名称変更モデル（輸出専用モデル）。カワサキOEMでベースモデルはカワサキ・バルカン1600ミーンストリーク。<br />
+:* ブルバードM90 - 国内版ブルバード800の排気量拡大版（輸出専用モデル）。欧州一般仕様では「イントルーダーM1500」。<br />
+:* ブルバードM50：VZ800：国内版ブルバード800の輸出仕様。欧州一般仕様では「イントルーダーM800」。<br />
+<br />
+; VL系モデル<br />
+:* ブルバードC109R：VLR1800（K8 - K9）：輸出専用モデル。欧州一般仕様では「イントルーダーC1800R」。<br />
+:* ブルバードC90：VL1500（K5 - K9）： 国内版イントルーダーLCの輸出仕様（名称変更モデル）。欧州一般仕様では「イントルーダーC1500」。<br />
+:* ブルバードC90：VL1500（L3 - ）：欧州一般仕様では「イントルーダーC1500」。<br />
+:* ブルバードC50：VL800（K5 - ）：国内版イントルーダークラシック800の輸出仕様（名称変更モデル）。欧州一般仕様では「イントルーダーC800」。<br />
+<br />
+; VS系モデル<br />
+:* ブルバードS83：VS1400GL（PK5 - PK9）：VS1400GLイントルーダー（輸出専用モデル）。<br />
+:* ブルバードS50：VS800GL（K5 - ）：国内版イントルーダー800の輸出仕様。<br />
+<br />
+; LS系モデル<br />
+:* ブルバードS40：LS650（K5 - ）：国内版サベージ650の輸出仕様。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* スズキ・サベージ<br />
+* スズキ・イントルーダー<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www1.suzuki.co.jp/motor/product/vz400l4/top スズキ - ブルバード400] - スズキ公式サイト<br />
+** [https://web.archive.org/web/20050318084125/http://www1.suzuki.co.jp/motor/boulevard/index.html SUZUKI MOTORCYCLES - BOULEVARD400/800]（200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>3月18日時点のアーカイブ） - スズキ公式サイト<br />
+<br />
+* [http://www.suzukicycles.com/Product%20Lines/Cycles/Categories/Cruiser.aspx Suzuki Cycles - Cruiser] - スズキUSA公式サイト<br />
+<br />
+* [http://www.globalsuzuki.com/motorcycle/products.html GLOBAL SUZUKI - MOTORCYCLE] スズキ・グローバル &gt; CRUISER<br />
+** [https://web.archive.org/web/20120615010510/http://www.globalsuzuki.com/motorcycle/moto/cruiser/vz1500/index.html GLOBAL SUZUKI - MOTORCYCLE - INTRUDER M1500 / SUZUKI BOULEVARD M90 Overview]（20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>6月15日時点のアーカイブ）<br />
+** <br />
+** <br />
+** <br />
+** <br />
+** <br />
+** <br />
+** <br />
+** <br />
+<br />
+* [http://www.bikebros.co.jp/catalog/3/125_1/ バイクブロス - スズキ ブルバード400のカタログ]<br />
+* [http://www.bikebros.co.jp/catalog/3/125_4/ バイクブロス - スズキ ブルバードM109Rのカタログ]<br />
+<br />
+<br />
+で用いられている車体色は、配色の系統を表しているのであって、色を再現しているわけではありません。|カラーバリエーションに関して|type=content}}<br />
+<br />
+<br />
+<br />
+Category:スズキのオートバイの車種<br />
+Category:クルーザー (オートバイ)の車種<br />

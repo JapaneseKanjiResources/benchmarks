@@ -1,0 +1,55 @@
+description<br />
+鋼索線（男山ケーブル）<br />
+|キロ程     = 0.4<br />
+|起点駅     = 八幡市<br />
+|所在地     = 京都府八幡市八幡平ノ山<br />
+|緯度度 = 34|緯度分=52|緯度秒=51.51 <br />
+|経度度 =<a href="http://localhost/keyword/135">135</a>|経度分=41|経度秒=59.36<br />
+|駅構造     = 地上駅<br />
+|ホーム     = 櫛形 2面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/955%E5%B9%B4">955年</a>（昭和<a href="http://localhost/keyword/30%E5%B9%B4">30年</a>）12月3日**<br />
+|廃止年月日 = <br />
+|乗車人員   = <br />
+|乗降人員   = <br />
+|統計年度   = <br />
+|乗換       = <br />
+|備考       = *1<a href="http://localhost/keyword/957%E5%B9%B4">957年</a>に八幡宮駅から改称<br />
+|備考全幅   = **前身として1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>から1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>まで男山駅があった<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E7%94%B7%E5%B1%B1%E5%B1%B1%E4%B8%8A%E9%A7%85">男山山上駅</a>&#39;（おとこやまさんじょうえき）は、京都府八幡市にある、京阪電気鉄道鋼索線（男山ケーブル）の駅。<br />
+<br />
+約3分で京阪本線と接続のある八幡市駅に着く。但し八幡市駅で乗り換えるためには一度改札を出る必要がある。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>（大正<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）6月22日 男山索道の男山駅として開業。 <br />
+* 1<a href="http://localhost/keyword/928%E5%B9%B4">928年</a>（昭和3年）5月28日 社名変更により男山鉄道の駅となる。 <br />
+* 1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>（昭和<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）2月11日 資材供出のため廃止。 <br />
+* 1<a href="http://localhost/keyword/955%E5%B9%B4">955年</a>（昭和<a href="http://localhost/keyword/30%E5%B9%B4">30年</a>）12月3日 京阪電気鉄道鋼索線の八幡宮駅として改めて開業。 <br />
+* 1<a href="http://localhost/keyword/957%E5%B9%B4">957年</a>（昭和3<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）1月1日 <a href="http://localhost/keyword/%E7%94%B7%E5%B1%B1%E5%B1%B1%E4%B8%8A%E9%A7%85">男山山上駅</a>に改称。 <br />
+<br />
+== 駅構造 ==<br />
+櫛形2面1線のホームを持つが、通常は西側の1面1線しか使用されない。改札口は無人化されており（運転扱いのため係員はいる）、当駅から乗車する場合は八幡市駅での出場時に運賃を精算することになる。<br />
+<br />
+== 駅周辺 ==<br />
+* 石清水八幡宮<br />
+* 京都国学院<br />
+<br />
+== 隣の駅 ==<br />
+; 京阪電気鉄道<br />
+: 鋼索線（男山ケーブル）<br />
+:: 八幡市駅 - &#39;<a href="http://localhost/keyword/%E7%94%B7%E5%B1%B1%E5%B1%B1%E4%B8%8A%E9%A7%85">男山山上駅</a>&#39;<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.okeihan.net/eki/detail.php?station_no=57 おけいはん.ねっと｜駅情報局：<a href="http://localhost/keyword/%E7%94%B7%E5%B1%B1%E5%B1%B1%E4%B8%8A%E9%A7%85">男山山上駅</a>]<br />
+<br />
+<br />
+<br />
+Category:京都府の鉄道駅<br />
+とこやまさんしよう<br />
+Category:京阪電気鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>開業の鉄道駅<br />
+おとこやまさんしようえき<br />
