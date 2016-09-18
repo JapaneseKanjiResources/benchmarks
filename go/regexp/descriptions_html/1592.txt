@@ -1,0 +1,67 @@
+description<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E6%A0%AA%E5%BC%8F%E4%BA%A4%E6%8F%9B">株式交換</a>&#39;（かぶしきこうかん）は、会社法の用語の一つで、株式会社がその発行済株式の全部を他の株式会社または合同会社に取得させること。結果として、その株式会社は他の株式会社または合同会社の完全子会社（100%子会社）となる。2つの既存の会社を一度に完全親子会社の関係にする組織再編に係る手続きであり、通常の「交換」の語義を超えた意義を有する会社法独自の概念である。<br />
+<br />
+==概要==<br />
+日本においては19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>（平成<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）の商法改正により導入された（旧商法352条～363条）。200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>（平成<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）に成立、公布された会社法においても引き継がれている。<br />
+<br />
+従来の方法に比して、簡易・迅速に企業再編が行える上、容易に完全親子会社関係が形成できる点にメリットがある。<br />
+<br />
+この手法を使う主な目的として、「会社の持株会社化」「他企業の買収」の二つがあげられる。<br />
+<br />
+== 手続 ==<br />
+以下の手続きをすべて要する。<br />
+#<a href="http://localhost/keyword/%E6%A0%AA%E5%BC%8F%E4%BA%A4%E6%8F%9B">株式交換</a>契約締結<br />
+#事前開示<br />
+#株主総会特別決議による承認（略式手続・簡易手続では不要） - 反対株主らには会社に対する株式買取請求権が与えられる<br />
+#会社債権者異議手続（原則不要）<br />
+#事後開示<br />
+<br />
+== 対価 ==<br />
+完全子会社となる会社の株主に与えられる対価は、通常は親会社の株式であろうが、会社法では&#39;対価の柔軟化&#39;を定めた。すなわち、対価として、親会社の証券（社債、新株予約権、新株予約権付社債）だけでなく、他の会社の株式等でも良い。<br />
+<br />
+既存株主の構成を変えないために、または事前に子会社株が買い占められて突然親会社の大株主になる者が現れる可能性などを考慮してか、最近では金銭を対価とする<a href="http://localhost/keyword/%E6%A0%AA%E5%BC%8F%E4%BA%A4%E6%8F%9B">株式交換</a>の事例も増えている。<br />
+<br />
+==会計==<br />
+完全親会社のほうでのみ、仕訳が必要となる。借方は「子会社株式」、貸方は「<a href="http://localhost/keyword/%E8%B3%87%E6%9C%AC%E9%87%91">資本金</a>」と資本準備金とその他資本剰余金となる。<br />
+<br />
+借方「子会社株式」の価額については、その<a href="http://localhost/keyword/%E6%A0%AA%E5%BC%8F%E4%BA%A4%E6%8F%9B">株式交換</a>を取得とみなすか持分の結合とみなすかで相違がある。取得とみなした場合はパーチェス法が適用される。パーチェス法では借方「子会社株式」の価額は、子会社株主に払った対価総額とする。このとき、株式を対価としたときは、株式を時価評価して算出することは言うまでもない（つまり株式時価単価×交付した株式数）。<br />
+<br />
+子会社での仕訳はない。<br />
+<br />
+== 株式移転との違い ==<br />
+*株式移転では親会社を新設する。<a href="http://localhost/keyword/%E6%A0%AA%E5%BC%8F%E4%BA%A4%E6%8F%9B">株式交換</a>では親会社は既存の会社である。<br />
+*<a href="http://localhost/keyword/%E6%A0%AA%E5%BC%8F%E4%BA%A4%E6%8F%9B">株式交換</a>は他企業の買収のためにも使えるが、株式移転では不可能。<br />
+*<a href="http://localhost/keyword/%E6%A0%AA%E5%BC%8F%E4%BA%A4%E6%8F%9B">株式交換</a>では親会社は合同会社でもよい。<br />
+*効力を発するのは、株式移転では新設親会社の設立登記時。<a href="http://localhost/keyword/%E6%A0%AA%E5%BC%8F%E4%BA%A4%E6%8F%9B">株式交換</a>では<a href="http://localhost/keyword/%E6%A0%AA%E5%BC%8F%E4%BA%A4%E6%8F%9B">株式交換</a>契約で定めた<a href="http://localhost/keyword/%E6%A0%AA%E5%BC%8F%E4%BA%A4%E6%8F%9B">株式交換</a>の日。<br />
+*共同株式移転はあるが<a href="http://localhost/keyword/%E6%A0%AA%E5%BC%8F%E4%BA%A4%E6%8F%9B">株式交換</a>で類似のものはない。<br />
+*株式移転では略式手続も簡易手続も存在しない（新設合併と同様）。<br />
+<br />
+== 会社法上の<a href="http://localhost/keyword/%E6%A0%AA%E5%BC%8F%E4%BA%A4%E6%8F%9B">株式交換</a> ==<br />
+&#39;&#39;会社法は、この節では条数のみ記載する。&#39;&#39;<br />
+<br />
+*<a href="http://localhost/keyword/%E6%A0%AA%E5%BC%8F%E4%BA%A4%E6%8F%9B">株式交換</a>契約の締結（767条）<br />
+*:株式会社の発行済株式の全部を取得する会社（株式会社又は合同会社に限る。以下この編において「<a href="http://localhost/keyword/%E6%A0%AA%E5%BC%8F%E4%BA%A4%E6%8F%9B">株式交換</a>完全親会社」という。）との間で、<a href="http://localhost/keyword/%E6%A0%AA%E5%BC%8F%E4%BA%A4%E6%8F%9B">株式交換</a>契約を締結しなければならない。<br />
+*<a href="http://localhost/keyword/%E6%A0%AA%E5%BC%8F%E4%BA%A4%E6%8F%9B">株式交換</a>契約（768条）<br />
+*<a href="http://localhost/keyword/%E6%A0%AA%E5%BC%8F%E4%BA%A4%E6%8F%9B">株式交換</a>の効力の発生（769条）<br />
+*:<a href="http://localhost/keyword/%E6%A0%AA%E5%BC%8F%E4%BA%A4%E6%8F%9B">株式交換</a>完全親株式会社は、効力発生日に、<a href="http://localhost/keyword/%E6%A0%AA%E5%BC%8F%E4%BA%A4%E6%8F%9B">株式交換</a>完全子会社の発行済株式の全部を取得する。<br />
+*<a href="http://localhost/keyword/%E6%A0%AA%E5%BC%8F%E4%BA%A4%E6%8F%9B">株式交換</a>契約に関する書面等の備置き及び閲覧等（782条）<br />
+*:<a href="http://localhost/keyword/%E6%A0%AA%E5%BC%8F%E4%BA%A4%E6%8F%9B">株式交換</a>完全子会社の株主及び新株予約権者は、<a href="http://localhost/keyword/%E6%A0%AA%E5%BC%8F%E4%BA%A4%E6%8F%9B">株式交換</a>完全子会社に対して、その営業時間内は、いつでも、<a href="http://localhost/keyword/%E6%A0%AA%E5%BC%8F%E4%BA%A4%E6%8F%9B">株式交換</a>契約の閲覧、謄本又は抄本の交付の請求をすることができる（同条3項）。<br />
+*債権者の異議（789条）<br />
+*<a href="http://localhost/keyword/%E6%A0%AA%E5%BC%8F%E4%BA%A4%E6%8F%9B">株式交換</a>に関する書面等の備置き及び閲覧等（791条）<br />
+*<a href="http://localhost/keyword/%E6%A0%AA%E5%BC%8F%E4%BA%A4%E6%8F%9B">株式交換</a>契約に関する書面等の備置き及び閲覧等（794条）<br />
+*:<a href="http://localhost/keyword/%E6%A0%AA%E5%BC%8F%E4%BA%A4%E6%8F%9B">株式交換</a>完全親株式会社の株主及び債権者は、その営業時間内は、いつでも、契約書面の閲覧等の請求をすることができる。<br />
+<br />
+*簡易<a href="http://localhost/keyword/%E6%A0%AA%E5%BC%8F%E4%BA%A4%E6%8F%9B">株式交換</a>（796条3項）<br />
+*反対株主の株式買取請求権（797条）<br />
+<br />
+== 関連項目 ==<br />
+* 事業譲渡<br />
+* 合併<br />
+* 会社分割<br />
+* LDH (持株会社) - 全盛期は<a href="http://localhost/keyword/%E6%A0%AA%E5%BC%8F%E4%BA%A4%E6%8F%9B">株式交換</a>により多くの企業を子会社化した。<br />
+<br />
+<br />
+Category:株式市場<br />
+Category:日本の株式会社法<br />
+<br />

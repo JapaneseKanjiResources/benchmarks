@@ -1,0 +1,30 @@
+description
+
+| subdivision_name1       = 
+| subdivision_name2       = 
+| seat_type               = 州都
+| seat                    = Ciudad Bolívar
+|area = 238000
+|area_percentage = 26.24
+|area_rank = 1st
+|population = 1620359
+|population_as_of = June 30, 2010
+|population_percentage = 5.62
+|population_rank = 7th
+|emblematic_tree = Sarrapia
+|binomial_name = Diphysa punctata
+|iso_code = VE-F
+| leader_title            = 知事
+| leader_name             = Francisco Rangel Gomez
+|website = http://www.e-bolivar.gob.ve
+|footnotes = 
+}}
+'ボリバル州'（ボリバルしゅう）は、ベネズエラを構成する23州の内の一つ。州都はシウダ・ボリバル。人口は120万7530人（1997年）。面積は23万8000km2。
+
+
+
+
+
+
+
+ほりはるしゆう

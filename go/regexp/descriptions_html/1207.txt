@@ -1,0 +1,17 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90%E5%B8%AF">価電子帯</a>&#39;(かでんしたい:valence band)とは、絶縁体や<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>において、<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90">価電子</a>によって満たされたエネルギーバンドのこと。&#39;荷電子帯&#39;とも表記される。<br />
+<br />
+[[金属、および<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>・絶縁体のバンド構造の簡単な模式図]]<br />
+絶対零度において「電子を含む一番エネルギーの高いバンド」が完全に電子で満たされている場合、これを狭義の&#39;充満帯&#39;(filled band)と呼ぶ。これは絶縁体や<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>にのみ存在する。特に共有結合型結晶の充満帯を&#39;<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90%E5%B8%AF">価電子帯</a>&#39;と呼ぶ。<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90%E5%B8%AF">価電子帯</a>の頂上から、伝導帯の底までのギャップが、バンドギャップである。<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>や絶縁体においては、バンドギャップ中にフェルミ準位が存在する。<br />
+<br />
+金属では<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90">価電子</a>を含むバンドに空き準位がある（バンド中にフェルミ準位がある）ため、<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90">価電子</a>がそのまま伝導電子（自由電子）となる。これに対し、<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>や絶縁体においては通常、<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90">価電子</a>にバンドギャップを超えるエネルギーを与えて<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90%E5%B8%AF">価電子帯</a>から伝導帯へ励起することで、初めて伝導電子を得られる。完全に電子で占有された<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90%E5%B8%AF">価電子帯</a>では、電流は流れない。<br />
+<br />
+なお広義には、電子で満たされた全てのエネルギーバンドを充満帯と呼ぶ。<br />
+<br />
+== 関連項目 ==<br />
+<br />
+<br />
+<br />
+Category:電子<br />
+Category:電子状態<br />
+Category:<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a><br />

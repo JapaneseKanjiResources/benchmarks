@@ -1,0 +1,50 @@
+description
+
+
+'転位反応'（てんいはんのう、英語：rearrangement reaction）とは、化合物を構成する原子または原子団（基）が結合位置を変え、分子構造の骨格変化を生じる化学反応の総称である。一方、原子または原子団（基）が骨格に変化を与えずに結合位置を変える化学反応（メトキシ基やアセチル基の分子内転移など）を'転移反応'とよぶ。
+
+反応形式別に、自己の分子骨格内で基が移動する'分子内転位'（ぶんしないてんい、intramolecular rearrangement）、基が一度遊離して異なる分子にも移動しうるものを'分子間転位'（ぶんしかんてんい、intermolecular rearrangement）と呼ぶ。
+
+また反応機構別に'求核転位'（求核反応）、'求電子転位'（求電子反応）、'シグマトロピー転位'（シグマトロピー反応）、'ラジカル転位'（ラジカル反応）と呼び分けられる。
+
+異性化の多くはプロトン（水素イオン）の転位を反応機構とし、生体内では酵素（EC.5群に属する異性化酵素）によって頻繁に転位反応が起こされている（注：EC.2群に属する'転移'酵素は分子'内'でなく分子'間'で原子団を移すものである）。
+
+== 主な転位反応 ==
+#'求核転位'
+#*ワーグナー・メーヤワイン転位（Wagner-Meerwein rearrangement）
+#*ピナコール・ピナコロン転位
+#*ベンジル・ベンジル酸転位
+#*アリル転位
+#*ウルフ転位（Wolff rearrangement）（アーント・アイシュタート合成）
+#*ファボルスキー転位（Favorskii rearrangement）
+#*プメラー転位（Pummerer rearrangement）
+#*ループ転位（Rupe rearrangement）
+#*マイヤー・シュスター転位（Mayer-Schuster rearrangement）
+#*バンバーガー転位（Bamberger rearrangement）
+#*フリッツ・バッテンバーグ・ビーチェル転位（Fritsch-Buttenberg-Wiechell rearrangement）
+#*スマイルス転位（Smiles rearrangement）
+#*フリース転位（Fries rearrangement ;分子間転位）
+#*ベックマン転位（Beckmann rearrangement）
+#*クルチウス転位（Curtius rearrangement）
+#*ロッセン転位（Lossen rearrangement）
+#*ホフマン転位（Hoffmann rearrangement）
+#*シュミット反応（Schmidt reaction）
+#*バイヤー・ビリガー酸化（Bayer-Villiger Oxidation）
+#*クリーギー転位（Criegee rearrangement）
+#*デーキン反応（Dakin reaction）
+#*ジエノン-フェノール転位 (dienone-phenol rearrangement)
+#'求電子転位'
+#*スティーブンス転位（Stevens rearrangement）
+#*ソムレ・ハウザー転位（Sommelet-Hauser rearrangement）
+#*ウィテッヒ転位（Wittig  rearrangement）
+#'シグマトロピー転位'
+#*クライゼン転位（Claissen rearrangement）
+#*コープ転位（Cope rearrangement）
+#*エン反応
+#*ベンジジン転位
+#'ラジカル転位'
+
+
+
+
+*

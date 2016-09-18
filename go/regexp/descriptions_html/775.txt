@@ -1,0 +1,49 @@
+description<br />
+ |<br />
+ 世紀=1 |<br />
+ 次世紀=2 |<br />
+<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=30 |<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=40 |<br />
+ <a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀=50 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=60 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=70 |<br />
+<br />
+ 3年前=50 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>前=51 |<br />
+ 1年前=52 |<br />
+ 年=53 |<br />
+ 1年後=54 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>後=55 |<br />
+ 3年後=56 |<br />
+}}<br />
+<br />
+<br />
+== 他の紀年法 ==<br />
+<br />
+* 干支 : 癸丑<br />
+* 日本<br />
+** 垂仁天皇<a href="http://localhost/keyword/82%E5%B9%B4">82年</a><br />
+** 皇紀<a href="http://localhost/keyword/713%E5%B9%B4">713年</a><br />
+*中国<br />
+** 後漢 : 建武<a href="http://localhost/keyword/29%E5%B9%B4">29年</a><br />
+* 朝鮮<br />
+** 高句麗 : 太祖王元年<br />
+** 新羅 : 儒理王<a href="http://localhost/keyword/30%E5%B9%B4">30年</a><br />
+** 百済 : 多婁王<a href="http://localhost/keyword/26%E5%B9%B4">26年</a><br />
+** 檀紀2<a href="http://localhost/keyword/386%E5%B9%B4">386年</a><br />
+* 仏滅紀元 : <a href="http://localhost/keyword/596%E5%B9%B4">596年</a><br />
+* ユダヤ暦 : 38<a href="http://localhost/keyword/13%E5%B9%B4">13年</a> - 3<a href="http://localhost/keyword/814%E5%B9%B4">814年</a><br />
+<br />
+== できごと ==<br />
+*パルティア王ヴォロガセス1世がアルメニアを占領してラダミストゥス王を排除するが、冬になるとパルティア軍が退却し、ラダミストゥスが復権した。<br />
+*高句麗の慕本王が臣下に暗殺され、太祖大王が即位。<br />
+<br />
+== 誕生 ==<br />
+<br />
+== 死去 ==<br />
+*慕本王、高句麗の第5代の王（* <a href="http://localhost/keyword/30%E5%B9%B4">30年</a>）<br />
+<br />
+*<br />
+<br />
+als:50er#53<br />

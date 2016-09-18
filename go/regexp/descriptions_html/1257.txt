@@ -1,0 +1,129 @@
+description<br />
+<br />
+ ;previously  <br />
+|left=<a href="http://localhost/keyword/%E3%83%8F%E3%83%95%E3%83%8B%E3%82%A6%E3%83%A0">ハフニウム</a><br />
+|right=タングステン<br />
+|above=Nb<br />
+|below=Db<br />
+|series=遷移金属<br />
+|group=5<br />
+|period=6<br />
+|block=d<br />
+|image name=Tantalum_single_crystal_and_1cm3_cube.jpg<br />
+|appearance=銀灰色<br />
+|atomic mass=180.94788<br />
+|electron configuration=&amp;#91;Xe&amp;#93; 4f14 5d3 6s2<br />
+|electrons per shell=2, 8, 18, 32, 11, 2<br />
+|phase=固体<br />
+|density gpcm3nrt=16.69<br />
+|density gpcm3mp=15<br />
+|melting point K=3290<br />
+|melting point C=3017<br />
+|melting point F=5463<br />
+|boiling point K=5731<br />
+|boiling point C=5458<br />
+|boiling point F=9856<br />
+|heat fusion=36.57<br />
+|heat vaporization=732.8<br />
+|heat capacity=25.36<br />
+|vapor pressure 1=3297<br />
+|vapor pressure 10=3597<br />
+|vapor pressure 100=3957<br />
+|vapor pressure 1 k=4395<br />
+|vapor pressure 10 k=4939<br />
+|vapor pressure 100 k=5634<br />
+|vapor pressure comment=<br />
+|crystal structure=body-centered cubic<br />
+|japanese crystal structure=α-Ta: 体心立方構造β-Ta: 正方晶系<br />
+|oxidation states=&#39;5&#39;, 4, 3, 2, -1（弱酸性酸化物）<br />
+|electronegativity=1.5<br />
+|number of ionization energies=2<br />
+|1st ionization energy=761<br />
+|2nd ionization energy=1500<br />
+|atomic radius=146<br />
+|covalent radius=170±8<br />
+|magnetic ordering=常磁性[http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf Magnetic susceptibility of the elements and inorganic compounds], in Handbook of Chemistry and Physics 81st edition, CRC press.<br />
+|electrical resistivity at 20=131 n<br />
+|thermal conductivity=57.5<br />
+|thermal expansion at 25=6.3<br />
+|speed of sound rod at 20=3400<br />
+|Young&#39;s modulus=186<br />
+|Shear modulus=69<br />
+|Bulk modulus=200<br />
+|Poisson ratio=0.34<br />
+|Mohs hardness=6.5<br />
+|Vickers hardness=873<br />
+|Brinell hardness=800<br />
+|CAS number=7440-25-7<br />
+|isotopes=<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+|isotopes comment=<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E3%82%BF%E3%83%B3%E3%82%BF%E3%83%AB">タンタル</a>&#39;（; ）は<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>73の元素。元素記号は &#39;Ta&#39;。<br />
+<br />
+== 概要 ==<br />
+バナジウム族元素の一つ。灰色の金属（遷移金属）で、比重は16.65、融点は3027 （異なる実験値あり）、沸点は4100 （5534 という実験値もあり）。空気中で不動態となり耐食性がある。特に<a href="http://localhost/keyword/%E3%82%BF%E3%83%B3%E3%82%BF%E3%83%AB">タンタル</a>は耐酸性が強い。王水に不溶。硝酸とフッ化水素の混合溶液には可溶。展性、延性に富み加工しやすい。反射率が全金属中最も低いため、外見は純金属としては最も黒い。安定な原子価は+5価。絶対温度4.5 Kで超伝導転移を起こす。<br />
+<br />
+<a href="http://localhost/keyword/%E3%82%BF%E3%83%B3%E3%82%BF%E3%83%AB">タンタル</a>石（コルタン）((Fe,Mn)(Ta,Nb)2O6) から得られる。<br />
+<br />
+いわゆるレアメタルの一つであり、産業的にきわめて重要な物質である。近年、価格高騰が著しい。<br />
+<br />
+<a href="http://localhost/keyword/%E3%82%BF%E3%83%B3%E3%82%BF%E3%83%AB">タンタル</a>の化合物質である炭化<a href="http://localhost/keyword/%E3%82%BF%E3%83%B3%E3%82%BF%E3%83%AB">タンタル</a> (TaC) は、モース硬度約9 - 10と非常に硬く、融点が3985 で、全物質中最も融点が高い。導電性及び熱伝導性を持ち、化学的に安定である。<br />
+<br />
+== 用途 ==<br />
+=== <a href="http://localhost/keyword/%E3%82%BF%E3%83%B3%E3%82%BF%E3%83%AB">タンタル</a>コンデンサ ===<br />
+最もよく利用されるのは、コンデンサである。は他種のコンデンサに比べて小型で、漏れ電流が少ない上、安定度がよい。パソコンや携帯電話など、小さなエレクトロニクス製品には多数の<a href="http://localhost/keyword/%E3%82%BF%E3%83%B3%E3%82%BF%E3%83%AB">タンタル</a>コンデンサが使用されているが、高価なこと、故障モードがオープンでなくショートであるため逆接による破壊時などに大電流を流してしまい発火性もあること、そして何より産出地が限られ国際問題に関わるため、製品への利用は減少させる方向である。なお、前述の特性の良さなどから、電子部品の計測のためのサンプル実装などで部品として例示されていることがあるが、実用に供する回路での使用は故障モード関して十分に考慮すべきであり、そのままサンプルの仕様を流用してはいけない。<br />
+<br />
+=== フィラメント ===<br />
+昔はフィラメントに使用されたが、タングステンに取って代わられた。<br />
+<br />
+=== インプラントや医療用途 ===<br />
+また、<a href="http://localhost/keyword/%E3%82%BF%E3%83%B3%E3%82%BF%E3%83%AB">タンタル</a>は体液と反応しない人体に無害な金属であるため、人工骨や人工関節など整形外科向け医療材料としての他、手術用縫合糸、人工心臓の材料、あるいは歯のインプラント（フィクスチャー）の材料にも使われる。<br />
+<br />
+=== 宝飾品 ===<br />
+ほか、宝飾品や高級時計に用いられることもある。<br />
+<br />
+== 歴史 ==<br />
+1<a href="http://localhost/keyword/802%E5%B9%B4">802年</a>、スウェーデンのアンデルス・エーケベリが発見した。このときエーケベリが発見したのは性質がよく似ているニオブとの混合酸化物であったが、1<a href="http://localhost/keyword/846%E5%B9%B4">846年</a>にドイツのハインリヒ・ローゼが単体として分離した。名称はギリシャ神話のフリギアの王、タンタロスに因む。<br />
+<br />
+== <a href="http://localhost/keyword/%E3%82%BF%E3%83%B3%E3%82%BF%E3%83%AB">タンタル</a>の化合物 ==<br />
+* 炭化<a href="http://localhost/keyword/%E3%82%BF%E3%83%B3%E3%82%BF%E3%83%AB">タンタル</a> (TaC)<br />
+** 炭化<a href="http://localhost/keyword/%E3%82%BF%E3%83%B3%E3%82%BF%E3%83%AB">タンタル</a><a href="http://localhost/keyword/%E3%83%8F%E3%83%95%E3%83%8B%E3%82%A6%E3%83%A0">ハフニウム</a> (TaxHf1-xCy)<br />
+* <a href="http://localhost/keyword/%E3%82%BF%E3%83%B3%E3%82%BF%E3%83%AB">タンタル</a>酸リチウム (LiTaO3)<br />
+* <a href="http://localhost/keyword/%E3%82%BF%E3%83%B3%E3%82%BF%E3%83%AB">タンタル</a>酸カリウム (KTaO3)<br />
+<br />
+== 同位体 ==<br />
+<br />
+天然の<a href="http://localhost/keyword/%E3%82%BF%E3%83%B3%E3%82%BF%E3%83%AB">タンタル</a>は、99.988%の181Taと0.012%の180m1Taで構成されている。このうちの180m1Taは、天然に存在する唯一の核異性体である。<br />
+<br />
+== 主な産出国 ==<br />
+* オーストラリア<br />
+* コンゴ民主共和国<br />
+* カナダ<br />
+* タイ王国<br />
+* 中国<br />
+<br />
+== 関連項目 ==<br />
+* APFSDS - 対戦車砲弾、装弾筒付翼安定徹甲弾とも訳される。運動エネルギーを利用して高速で大質量の金属をぶつける事で装甲を貫徹する砲弾。<a href="http://localhost/keyword/%E3%82%BF%E3%83%B3%E3%82%BF%E3%83%AB">タンタル</a>が最も弾体に適しているがコストがかさむため代わりに劣化ウランやタングステンが用いられている。<br />
+* コルタン<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.nihs.go.jp/ICSC/icssj-c/icss1596c.html 国際化学物質安全性カード <a href="http://localhost/keyword/%E3%82%BF%E3%83%B3%E3%82%BF%E3%83%AB">タンタル</a>] - 国立医薬品食品衛生研究所<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+*<br />

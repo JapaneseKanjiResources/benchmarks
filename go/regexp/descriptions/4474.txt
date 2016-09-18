@@ -1,0 +1,9 @@
+description
+'HRP'
+* Humanoid Robotics Project
+* HRP (航空機)
+* High Reliable system Profile(TOPPERS航空宇宙用カーネル)の略称
+* ペルオキシダーゼ（Hydrogen peroxidase，Horseradish peroxidase)の略称
+* 幸福実現党（The Happiness Realization Party）
+
+

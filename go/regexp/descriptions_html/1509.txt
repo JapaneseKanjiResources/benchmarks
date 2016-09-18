@@ -1,0 +1,102 @@
+description<br />
+<br />
+<br />
+|所属事業者= 20px京都市交通局（京都市営地下鉄）<br />
+|所属路線= T 東西線<br />
+|キロ程 = 10.5<br />
+|起点駅 = 六地蔵<br />
+|副駅名 = <br />
+|所在地 = 京都市東山区東小物座町<br />
+|座標 = <br />
+|駅構造 = 地下駅<br />
+|ホーム = 1面2線<br />
+|開業年月日= 1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>（平成<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）10月12日<br />
+|廃止年月日=<br />
+|乗車人員=<br />
+|乗降人員= 9,895<br />
+|統計年度= 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換 =<br />
+|備考 =<br />
+}}<br />
+}<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+↓東山駅<br />
+|}<br />
+|}<br />
+&#39;<a href="http://localhost/keyword/%E8%B9%B4%E4%B8%8A%E9%A7%85">蹴上駅</a>&#39;（けあげえき）は、京都市東山区にある、京都市営地下鉄東西線の駅。駅番号は&#39;T09&#39;。<br />
+<br />
+== 歴史 ==<br />
+京都市交通局の<a href="http://localhost/keyword/%E8%B9%B4%E4%B8%8A%E9%A7%85">蹴上駅</a>としては、京都市電蹴上線の<a href="http://localhost/keyword/%E8%B9%B4%E4%B8%8A%E9%A7%85">蹴上駅</a>京都電気鉄道鴨東線の駅として190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>8月開業、1<a href="http://localhost/keyword/918%E5%B9%B4">918年</a>7月市営化、1<a href="http://localhost/keyword/945%E5%B9%B4">945年</a>2月休止、1<a href="http://localhost/keyword/965%E5%B9%B4">965年</a>7月廃止。に次ぐ2代目の駅である。また、京阪京津線の<a href="http://localhost/keyword/%E8%B9%B4%E4%B8%8A%E9%A7%85">蹴上駅</a>は現在の地下鉄駅より交差点をはさんで西側にあった。<br />
+<br />
+駅施設は第三セクターの京都高速鉄道株式会社が建設を担当した。&#39;&#39; ※詳しくは京都市営地下鉄東西線#歴史を参照。&#39;&#39;<br />
+<br />
+* 1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>（平成<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）10月12日 - 東西線の醍醐 - 二条間の営業開始に際し開業する。<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）4月1日 - PiTaPaの供用を開始する。<br />
+<br />
+== 駅構造 ==<br />
+他の東西線の駅と同様、複線島式ホームで、ホームドアが設置されている。<br />
+<br />
+東西線の駅は駅ごとにステーションカラーが制定されており、当駅のステーションカラーは菫色（すみれいろ）である。<br />
+<br />
+地下4層にホームがある。地上への出口は2箇所。駅周辺は風致地区に設定されており、出入口はレンガ調のタイル仕上げになっている。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+<br />
+== 利用状況 ==<br />
+1日平均乗車人員と1日平均乗降人員の推移は下記の通り“京都市交通事業白書（事業概要）” [http://www.city.kyoto.lg.jp/kotsu/cmsfiles/contents/0000073/73257/hakusyo20.pdf 平成<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>度版]、[http://www.city.kyoto.lg.jp/kotsu/cmsfiles/contents/0000073/73257/hakusyo25.pdf 平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>度版]、[http://www.city.kyoto.lg.jp/kotsu/cmsfiles/contents/0000073/73257/hakusyo26.pdf 平成<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>度版]。<br />
+<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+京都盆地の東端、東山の山麓に位置する。北西方向は市街地であるが、南東方向には東海道（三条通）が山を越えていくのみである。<br />
+<br />
+当駅付近から東山駅付近にかけては多くの観光・文教施設などが立地しており、両駅から利用可能の施設も多い。<br />
+<br />
+* ウェスティン都ホテル京都<br />
+* 南禅寺<br />
+* 南禅寺界隈別荘<br />
+**無鄰庵<br />
+* 禅林寺（永観堂）<br />
+* 哲学の道<br />
+* <a href="http://localhost/keyword/%E7%90%B5%E7%90%B6%E6%B9%96%E7%96%8F%E6%B0%B4">琵琶湖疏水</a><br />
+** <a href="http://localhost/keyword/%E7%90%B5%E7%90%B6%E6%B9%96%E7%96%8F%E6%B0%B4">琵琶湖疏水</a>記念館<br />
+** 蹴上インクライン<br />
+** ねじりマンポ（アーチのレンガが螺旋状に積まれたトンネル）<br />
+** 蹴上発電所（日本最初の水力発電所）<br />
+** 蹴上浄水場<br />
+** 九条山浄水場<br />
+* 東山中学校・高等学校<br />
+* 京都市国際交流会館<br />
+* 京都市動物園<br />
+* 日向大神宮<br />
+* ヴィラ九条山<br />
+<br />
+== 隣の駅 ==<br />
+; 京都市営地下鉄<br />
+:T 東西線<br />
+:: 御陵駅 (T08) - &#39;<a href="http://localhost/keyword/%E8%B9%B4%E4%B8%8A%E9%A7%85">蹴上駅</a> (T09)&#39; - 東山駅 (T10)<br />
+:* 括弧内は駅番号を示す。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.city.kyoto.lg.jp/kotsu/page/0000009957.html <a href="http://localhost/keyword/%E8%B9%B4%E4%B8%8A%E9%A7%85">蹴上駅</a>]（駅施設） - 京都市情報館 交通局<br />
+<br />
+<br />
+<br />
+Category:京都市の鉄道駅<br />
+あけ<br />
+Category:京都市交通局の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>開業の鉄道駅<br />
+けあけえき<br />

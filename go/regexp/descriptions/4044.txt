@@ -1,0 +1,8 @@
+description
+'HDL'
+
+* ハードウェア記述言語 (''Hardware description language'')
+* 高比重リポタンパク/High Density Lipoprotein（HDL） (''High density lipoprotein'')
+* 香港ディズニーランド (''Hong Kong Disneyland'')
+* HSP Document Library (''HSP Document Library'')
+

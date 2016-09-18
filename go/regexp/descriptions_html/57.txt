@@ -1,0 +1,53 @@
+description<br />
+ |<br />
+ 世紀=1 |<br />
+ 次世紀=2 |<br />
+<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=50 |<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=60 |<br />
+ <a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀=70 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=80 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=90 |<br />
+<br />
+ 3年前=76 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>前=77 |<br />
+ 1年前=78 |<br />
+ 年=79 |<br />
+ 1年後=80 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>後=81 |<br />
+ 3年後=82 |<br />
+}}<br />
+<br />
+<br />
+== 他の紀年法 ==<br />
+<br />
+* 干支 : 己卯<br />
+* 日本<br />
+** 景行天皇<a href="http://localhost/keyword/9%E5%B9%B4">9年</a><br />
+** 皇紀<a href="http://localhost/keyword/739%E5%B9%B4">739年</a><br />
+*中国<br />
+** 後漢 : 建初<a href="http://localhost/keyword/4%E5%B9%B4">4年</a><br />
+* 朝鮮<br />
+** 高句麗 : 太祖王<a href="http://localhost/keyword/27%E5%B9%B4">27年</a><br />
+** 新羅 : 脱解王<a href="http://localhost/keyword/23%E5%B9%B4">23年</a><br />
+** 百済 : 己婁王3年<br />
+** 檀紀2<a href="http://localhost/keyword/412%E5%B9%B4">412年</a><br />
+* 仏滅紀元 : <a href="http://localhost/keyword/622%E5%B9%B4">622年</a><br />
+* ユダヤ暦 : 3<a href="http://localhost/keyword/839%E5%B9%B4">839年</a> - 3<a href="http://localhost/keyword/840%E5%B9%B4">840年</a><br />
+<br />
+== できごと ==<br />
+* 6月24日 - ティトゥス、ローマ皇帝に即位<br />
+* 8月24日 - ヴェスヴィオの噴火によりポンペイが埋没。<br />
+<br />
+== 誕生 ==<br />
+* 馬融、中国後漢の学者（+ <a href="http://localhost/keyword/166%E5%B9%B4">166年</a>）<br />
+* 和帝、後漢の第4代皇帝（+ <a href="http://localhost/keyword/105%E5%B9%B4">105年</a>）<br />
+<br />
+== 死去 ==<br />
+* 6月23日 - ウェスパシアヌス、ローマ皇帝（* <a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）<br />
+* 8月24日 - ガイウス・プリニウス・セクンドゥス、「大プリニウス」、ローマ帝国の元老院議員、博物学者（* 22/<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）<br />
+* 9月23日 - リヌス、ローマ教皇<br />
+<br />
+*<br />
+<br />
+als:70er#Johr 79<br />

@@ -1,0 +1,27 @@
+description<br />
+各ゾーン<br />
+&#39;<a href="http://localhost/keyword/%E5%9B%BD%E9%9A%9B%E9%9B%BB%E8%A9%B1%E7%95%AA%E5%8F%B7%E3%81%AE%E4%B8%80%E8%A6%A7">国際電話番号の一覧</a>&#39;は国をまたいで電話を使用する（国際電話）時に必要となる電話番号の一覧である。国家あるいは地域ごとに決められていることから、単に&#39;国番号&#39;とも言う。<br />
+<br />
+国際電気通信連合 (ITU) がE.164で割り当てたもの。<br />
+<br />
+== 一覧 ==<br />
+<br />
+<br />
+ゼロ (0) は割り当てなし。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 国名コード<br />
+* MS-DOS - CONFIG.SYSのCOUNTRY命令で国の指定に国際電話番号を用いる。<br />
+* <a href="http://localhost/keyword/%E9%83%B5%E4%BE%BF%E7%95%AA%E5%8F%B7">郵便番号</a><br />
+<br />
+== 外部リンク ==<br />
+* [http://www.kuni-bango.info/tenwabango-sanshutsu-ki.php 国際通話のための電話番号算出機]<br />
+<br />
+<br />
+Category:電話番号<br />
+Category:国名コード<br />
+Category:一覧<br />
+Category:各国の一覧<br />

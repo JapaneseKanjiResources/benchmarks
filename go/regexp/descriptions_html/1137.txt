@@ -1,0 +1,111 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E6%B4%BB%E7%81%AB%E5%B1%B1">活火山</a>&#39;（かつかざん、かっかざん、英語：active volcano）とは、「概ね過去1万年以内に噴火した火山及び現在活発な噴気活動のある火山」である（日本の火山噴火予知連絡会・気象庁による定義）。この定義による20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>現在の日本の<a href="http://localhost/keyword/%E6%B4%BB%E7%81%AB%E5%B1%B1">活火山</a>数は<a href="http://localhost/keyword/110">110</a>である。<br />
+<br />
+== 日本の<a href="http://localhost/keyword/%E6%B4%BB%E7%81%AB%E5%B1%B1">活火山</a> ==<br />
+=== 分類 ===<br />
+火山噴火予知連絡会、活動度による分類[http://www.jma.go.jp/jma/kishou/books/kenshin/vol71p059.pdf 最近一万年間の火山活動に基づく火山活動度指数による日本の<a href="http://localhost/keyword/%E6%B4%BB%E7%81%AB%E5%B1%B1">活火山</a>のランク分けについて] 林豊・宇平幸一 気象庁 験震時報71巻 pp.59-78。<br />
+但し、気象庁では「今後の噴火の可能性や社会的な影響が考慮されていない」として利用していない。<br />
+<br />
+※対象は日本国内の火山に限る。<br />
+<br />
+=== 常時観測対象の火山 ===<br />
+「今後<a href="http://localhost/keyword/100%E5%B9%B4">100年</a>程度の中長期的な噴火の可能性及び、社会的影響を踏まえ、火山防災のために監視・観測体制の充実等の必要がある火山」として常時観測を行う50火山が選定されている[http://www.data.jma.go.jp/svd/vois/data/tokyo/STOCK/kaisetsu/katsukazan_toha/katsukazan_toha.html#kanshikazan 「火山防災のために監視・観測体制の充実等が必要な火山」の選定] 気象庁20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>からは20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>（平成<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>）の御嶽山 (長野県)噴火を踏まえた 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>11月の火山噴火予知連絡会提言により、下表の&#39;50火山&#39;が選定されているが、200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>（平成<a href="http://localhost/keyword/21%E5%B9%B4">21年</a>）6月火山噴火予知連絡会によって、47火山が選定されていて、、八甲田山、十和田、弥陀ケ原が追加された。これらの火山には、気象庁や防災科学技術研究所の火山基盤観測網、大学などの機関が地表地震計、ボアホール型地中地震計、傾斜計、空振計、GPS観測装置、遠望カメラなどの観測施設を整備している[http://www.jma.go.jp/jma/kishou/books/kenshin/vol77p241.pdf 全国47 火山への火山観測施設の整備] 気象庁地震火山部火山課 験震時報第77巻 pp.241-309、しかし観測適地であっても、国立公園法、森林法、温泉法等に基づく制約を受けるほか、観測施設建設のための掘削機や重機搬入が困難で有ったり、地すべり地帯で有る事が多いため最適な観測機器の設置を断念する場合がある。<br />
+<br />
+<br />
+<br />
+特に活動が活発で、噴火が経済活動に与える影響が大きな火山（有珠山、岩手山、那須岳、<a href="http://localhost/keyword/%E6%B5%85%E9%96%93%E5%B1%B1">浅間山</a>、富士山、伊豆大島、三宅島、小笠原硫黄島、阿蘇山、霧島山）は、防災科学技術研究所の&#39;火山活動観測網 VIVA&#39; によっても[http://vivaweb2.bosai.go.jp/viva/v_explain.html 火山活動可視情報化システム(VIsualization system for Volcanic Activity)] 防災科学技術研究所連続観測が行われている。<br />
+<br />
+; 重点観測火山 （20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>時点）<br />
+近年、噴火活動を繰り返している火山23火山のうち16火山で観測機器を充実し常時観測を実施。<br />
+* 十勝岳、樽前山、有珠山、北海道駒ヶ岳、十勝岳、岩手山、<a href="http://localhost/keyword/%E8%8D%89%E6%B4%A5%E7%99%BD%E6%A0%B9%E5%B1%B1">草津白根山</a>、<a href="http://localhost/keyword/%E6%B5%85%E9%96%93%E5%B1%B1">浅間山</a>、泉尾渡島、三宅島、富士山、阿蘇山、雲仙岳、口之永良部島、諏訪之瀬島、霧島山、桜島<br />
+* 追加指定[http://www3.nhk.or.jp/news/html/20141120/k10013341531000.html 重点観測の火山 25に拡大へ] NHKオンライン 2014.11.20：雌阿寒岳、十和田、蔵王山、吾妻山、那須岳、弥陀ヶ原、焼岳、御岳山、九重山 （9火山）<br />
+<br />
+== 日本における定義の変遷 ==<br />
+=== 「<a href="http://localhost/keyword/%E6%B4%BB%E7%81%AB%E5%B1%B1">活火山</a>」の定義 ===<br />
+==== 19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>代以前 ====<br />
+* 1<a href="http://localhost/keyword/918%E5%B9%B4">918年</a> - 『震災豫防調査會報告』で、現在活動している&#39;47&#39;火山を<a href="http://localhost/keyword/%E6%B4%BB%E7%81%AB%E5%B1%B1">活火山</a>、活動を休んでいる火山を休火山、活動を止めてしまった火山を死火山としていた。具体的には、常に噴気活動があったり頻繁に噴火する火山（日本での例：桜島、<a href="http://localhost/keyword/%E6%B5%85%E9%96%93%E5%B1%B1">浅間山</a>など）を&#39;<a href="http://localhost/keyword/%E6%B4%BB%E7%81%AB%E5%B1%B1">活火山</a>&#39;、噴火記録はあるが現在は活動していない火山（同：富士山など）を休火山、有史以降の噴火記録がないものの、地質や噴火の痕跡などから火山と判断できる山（同：乗鞍岳など）を死火山としていた。<br />
+* 1<a href="http://localhost/keyword/952%E5%B9%B4">952年</a>3月 - 『火山観測法（初版）』（気象庁、1952）に「日本における活休火山一覧図」と「噴火年代表」が収録。45火山を記載。休火山と<a href="http://localhost/keyword/%E6%B4%BB%E7%81%AB%E5%B1%B1">活火山</a>は、区別されていない。<br />
+<br />
+==== 19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>代 ====<br />
+1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a> 国際火山学協会は、「歴史時代に噴火記録がある火山、あるいは、噴火記録はないが噴気活動が活発な火山。火山活動と関連した地震活動が頻繁に発生する大室山（伊豆東部火山群）を含む」を基準とした &#39;74&#39;火山を選定[https://gbank.gsj.jp/volcano/Act_Vol/defact.html <a href="http://localhost/keyword/%E6%B4%BB%E7%81%AB%E5%B1%B1">活火山</a>の定義と数の変遷] 産業技術総合研究所 地質調査総合センター。一方、気象庁は噴火や噴気活動の間隔は火山によってまちまちであることなどから、<a href="http://localhost/keyword/%E6%B4%BB%E7%81%AB%E5%B1%B1">活火山</a>と休火山を分けることが困難なため、「過去10世紀程度までに&#39;噴火記録のある火山や噴気・地熱活動がある」を基準として、&#39;63&#39;火山を&#39;<a href="http://localhost/keyword/%E6%B4%BB%E7%81%AB%E5%B1%B1">活火山</a>&#39;とした。<br />
+* 1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>（昭和<a href="http://localhost/keyword/43%E5%B9%B4">43年</a>）10月 - 発行された火山観測指針（気象庁職員のための火山観測マニュアル）には、噴火記録のない御嶽山 、噴火記録のある富士山も<a href="http://localhost/keyword/%E6%B4%BB%E7%81%AB%E5%B1%B1">活火山</a>リストに掲載されている。また、常時観測対象17火山（雌阿寒岳・十勝岳・樽前山・有珠山・北海道駒ヶ岳・吾妻山・安達太良山・磐梯山・那須岳・<a href="http://localhost/keyword/%E6%B5%85%E9%96%93%E5%B1%B1">浅間山</a>・伊豆大島・三宅島・伊豆鳥島・阿蘇山・雲仙岳・霧島山・桜島）を指定。<br />
+<br />
+==== 1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>代 ====<br />
+噴火記録の有無の扱いは、「歴史時代に人が目撃し記録されていたかどうか」であり、一般に休火山や死火山と考えられていた火山が相次いで活動をし、休火山、死火山の分類区分が無意味であることが一般的にも認知された。<br />
+* 1<a href="http://localhost/keyword/974%E5%B9%B4">974年</a> - 火山噴火予知連が、国の<a href="http://localhost/keyword/%E6%B4%BB%E7%81%AB%E5%B1%B1">活火山</a>の活動状況，噴火史のとりまとめを開始。<br />
+* 1<a href="http://localhost/keyword/975%E5%B9%B4">975年</a>10月 - 「噴火の記録がある火山，または噴気活動が活発な火山」 &#39;77&#39;火山。『日本<a href="http://localhost/keyword/%E6%B4%BB%E7%81%AB%E5%B1%B1">活火山</a>要覧』（気象庁 1975）刊行。<br />
+<br />
+==== 19<a href="http://localhost/keyword/80%E5%B9%B4">80年</a>代 ====<br />
+* 1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a> - 各<a href="http://localhost/keyword/%E6%B4%BB%E7%81%AB%E5%B1%B1">活火山</a>の基礎資料をまとめた『日本<a href="http://localhost/keyword/%E6%B4%BB%E7%81%AB%E5%B1%B1">活火山</a>総覧』(気象庁編 1984)刊行。<br />
+<br />
+==== 19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>代 ====<br />
+噴火記録の有無の扱いは、地質学的な証拠に基づく「&#39;過去およそ2000年以内に噴火した火山及び現在活発な噴気活動のある火山&#39;」。<br />
+* 1<a href="http://localhost/keyword/991%E5%B9%B4">991年</a> - 火山噴火予知連絡会が「過去およそ2000年以内に噴火した火山及び現在活発な噴気活動のある火山」、&#39;83&#39;<a href="http://localhost/keyword/%E6%B4%BB%E7%81%AB%E5%B1%B1">活火山</a>のリストを発表。<br />
+* 1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a> - 羅臼岳、<a href="http://localhost/keyword/%E7%87%A7%E3%83%B6%E5%B2%B3">燧ヶ岳</a>、北福徳堆を追加。&#39;86&#39;火山。<br />
+<br />
+==== 2000年代 ====<br />
+研究が進むにつれて、2000年以上の休止期間をおいて噴火する火山もあることが明らかとなり、国際的には1万年以内に噴火した火山を<a href="http://localhost/keyword/%E6%B4%BB%E7%81%AB%E5%B1%B1">活火山</a>とするのが主流となってきた。<br />
+* 2003年 - 火山噴火予知連絡会は「&#39;概ね過去1万年以内に噴火した火山及び現在活発な噴気活動のある火山&#39;」を<a href="http://localhost/keyword/%E6%B4%BB%E7%81%AB%E5%B1%B1">活火山</a>と再定義し、気象庁もその定義を踏襲することになった。この定義による日本国内の<a href="http://localhost/keyword/%E6%B4%BB%E7%81%AB%E5%B1%B1">活火山</a>は当初、&#39;108&#39;火山であった。<a href="http://localhost/keyword/%E6%B4%BB%E7%81%AB%E5%B1%B1">活火山</a>をこのように定義すると、頻繁に噴火する火山から数千年の休止期をおく火山まで幅が大きくなるので、火山噴火予知連絡会は同時に、社会的影響度を評価することなく火山学的に評価された火山活動度により、ランクA・ランクB・ランクC（Aが活動度が高い）の新しい3区分の<a href="http://localhost/keyword/%E6%B4%BB%E7%81%AB%E5%B1%B1">活火山</a>の分類（ランク分け）を定義した。<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a> - ランク分けは社会的影響度を考慮しないものであるため、火山の活動による危険性に直接は結び付かない。そこで気象庁は、200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>12月1日から、火山活動による災害の危険性に応じ、国内すべての<a href="http://localhost/keyword/%E6%B4%BB%E7%81%AB%E5%B1%B1">活火山</a>について噴火警報・噴火予報を発表するようになった。活動度レベルを廃止し同時に活動度の高い火山には5段階の噴火警戒レベルを導入し、噴火警報・予報で発表することとした（噴火警戒レベルと、上記のランク分けは関連するものではない。たとえば、20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>1月から活発な噴火活動を始めた新燃岳を含む霧島山のランクは、富士山と同じ&#39;B&#39;である）。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a> - 天頂山、雄阿寒岳を追加、樽前山に隣接する風不死岳を含める変更がなされ、&#39;<a href="http://localhost/keyword/110">110</a>&#39;火山[http://www.jma.go.jp/jma/press/<a href="http://localhost/keyword/110">110</a>6/07b/katsukazan<a href="http://localhost/keyword/110">110</a>607.html 火山噴火予知連絡会による新たな<a href="http://localhost/keyword/%E6%B4%BB%E7%81%AB%E5%B1%B1">活火山</a>の選定について 平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>6月7日] 気象庁 平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>報道発表資料。<br />
+:<br />
+<br />
+==== 20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>代 ====<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>6月 - 新たなデータにより3火山を追加。3火山のうち既存の<a href="http://localhost/keyword/%E6%B4%BB%E7%81%AB%E5%B1%B1">活火山</a>である樽前山に含まれた風不死岳を除いて計<a href="http://localhost/keyword/110">110</a>火山となった。<br />
+<br />
+=== 活動度評価 ===<br />
+<br />
+<br />
+== ギャラリー ==<br />
+<br />
+<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 参考文献 ==<br />
+* 気象庁<br />
+** [http://www.data.jma.go.jp/svd/vois/data/tokyo/STOCK/kaisetsu/katsukazan_toha/katsukazan_toha.html <a href="http://localhost/keyword/%E6%B4%BB%E7%81%AB%E5%B1%B1">活火山</a>とは] 気象庁<br />
+** [http://www.data.jma.go.jp/svd/vois/data/tokyo/STOCK/souran/menu_jma_hp.html 日本<a href="http://localhost/keyword/%E6%B4%BB%E7%81%AB%E5%B1%B1">活火山</a>総覧（第4版：平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>3月], [http://www.data.jma.go.jp/svd/vois/data/tokyo/STOCK/souran/seigohyo.pdf <a href="http://localhost/keyword/%E6%AD%A3%E8%AA%A4%E8%A1%A8">正誤表</a>]<br />
+** [http://www.jma.go.jp/jma/kishou/intro/gyomu/index95zu.html 日本の<a href="http://localhost/keyword/%E6%B4%BB%E7%81%AB%E5%B1%B1">活火山</a>分布、過去の火山活動による分類（ランク分け）]<br />
+*** <br />
+***  林豊・宇平幸一 験震時報71巻 pp.43-57<br />
+** [http://www.jma.go.jp/jp/volcano/ 噴火予報・警報]（最近一週間に発表された噴火予報・警報を表示）<br />
+*** [http://www.data.jma.go.jp/svd/vois/data/tokyo/STOCK/kaisetsu/volinfo.html 噴火警報、噴火予報の説明]<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 火山学<br />
+* 火山、火山の一覧、火山の一覧 (日本)<br />
+* 海底火山、火山島<br />
+* 火山帯<br />
+* マグマ、火成岩、火山岩<br />
+* 火口（噴火口）、カルデラ<br />
+* 火山灰<br />
+* 火砕流<br />
+* ラハール（火山活動によって発生する泥流・<a href="http://localhost/keyword/%E5%9C%9F%E7%9F%B3%E6%B5%81">土石流</a>）<br />
+* ホットスポット<br />
+* プレートテクトニクス<br />
+* プルームテクトニクス - スーパープルームの火山により生物の大絶滅が有ったと仮定されている。新しい理論。<br />
+* 温泉、地熱<br />
+* 地震<br />
+* イオ（木星の衛星）<br />
+* クラフト夫妻<br />
+* 火山災害予測図<br />
+* 休火山、死火山<br />
+<br />
+== 外部リンク ==<br />
+* 気象庁<br />
+** [http://www.data.jma.go.jp/svd/vois/data/tokyo/keikailevel.html 現在の噴火警戒レベル]<br />
+*** [http://www.data.jma.go.jp/svd/vois/data/tokyo/STOCK/kaisetsu/level_toha/level_toha.htm 噴火警戒レベルの説明]<br />
+** [http://www.jma.go.jp/jma/kishou/know/faq/faq8.html 気象・地震に関するよくある質問集：火山について]<br />
+** [http://www.data.jma.go.jp/svd/vois/data/tokyo/STOCK/souran/menu_jma_hp.html 日本<a href="http://localhost/keyword/%E6%B4%BB%E7%81%AB%E5%B1%B1">活火山</a>総覧 第4版]<br />
+** [http://www.data.jma.go.jp/svd/vois/data/tokyo/STOCK/kaisetsu/CCPVE/CCPVE.html 火山噴火予知連絡会]<br />
+* 産業技術総合研究所 地質調査総合センター<br />
+** [https://gbank.gsj.jp/volcano/ 日本の火山]<br />
+* [http://www.vnet.bosai.go.jp/ 火山基盤観測網] 防災科学技術研究所<br />
+<br />
+<br />
+Category:火山学<br />
+<br />
+en:Active volcano<br />

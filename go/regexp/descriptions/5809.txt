@@ -1,0 +1,13 @@
+description
+'G型肝炎'（Gがたかんえん、）は、ウイルス性肝炎の一種で、'GBウイルスC'（'GBV-C'、またはしばしばG型肝炎ウイルスまたはHGVと称される）が原因であるとしばしば指摘されている。しかし、GBV-Cが実際に肝疾患を引き起こすかどうかについてはまだ明らかにされていない。[http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=10592668&query_hl=12&itool=pubmed_docsum]
+GBV-Cは1996年に発見され、フラビウイルス科の中で未分類な一種である。
+
+ヒトの疾患とGBV-Cとの因果関係を複雑にしている事実として、GBV-Cが関与したと考えられる急性肝炎の症例がごく僅かなこと、GBV-Cに感染したほとんどの人に臨床症状が現れないということ、他の肝炎ウイルスとの混合感染がごく普通に見られること、などが挙げられる。
+
+HGVによる混合感染が実際にC型肝炎やHIVの進行を遅らせるかもしれないことを示唆した数件の研究がある。
+
+== 外部リンク ==
+*[http://www.chclibrary.org/micromed/00050870.html Hepatitis G described by Dr. Joseph Smith（ジョセフ=スミス博士により述べられたG型肝炎・英語）]
+*[http://cpmcnet.columbia.edu/dept/gi/hepG.html Hepatitis Central（英語）]
+
+Gかたかんえん

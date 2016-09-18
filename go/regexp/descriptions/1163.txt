@@ -1,0 +1,11 @@
+description
+'JUMAN'は、日本語の形態素解析システム。京都大学黒橋・河原研究室で開発されている。
+
+人手で整備した辞書に基づいており、ChaSenの元となったシステム。
+
+== 外部リンク ==
+*[http://nlp.ist.i.kyoto-u.ac.jp/ 京都大学 黒橋・河原研究室]
+*[http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN 日本語形態素解析システム JUMAN] （ウェブサイト）
+
+
+JUMAN

@@ -1,0 +1,33 @@
+description
+
+| birth_place = 、カリフォルニア州ロサンゼルス
+| death_date =
+| death_place = 、ブリティッシュコロンビア州バンクーバー
+| citizenship = 
+| field = 物理学、電気工学
+| doctoral_advisor = ウィリス・ラム
+| work_institution = QuantatronKorad Corporation
+| alma_mater = コロラド大学ボルダー校 スタンフォード大学
+| known_for  = 世界初のレーザーの発明
+| prizes = （1962年）（1966年）ウルフ賞物理学部門（1983年）日本国際賞（1987年）
+}}
+'セオドア・ハロルド・メイマン'（'Theodore Harold Maiman'、1927年7月11日 - 2007年5月5日）はアメリカ合衆国の物理学者。
+
+== 人物 ==
+ロサンゼルスに生まれ、コロラド大学、スタンフォード大学で学ぶ。1955年からコロンビア大学のチャールズ・タウンズの理論にもとづいてメーザーの研究を行い、1960年5月16日GMのヒューズ研究所で世界初のレーザー（ルビーレーザー）を発明した。
+
+1962年に自分の会社Korad Corporationを設立したが、1968年にはユニオンカーバイドに売却し、コンサルティング会社のメイマン・アソシエーツ社を設立した。
+
+1983年にウルフ賞、1987年に日本国際賞を受賞。
+
+
+Category:アメリカ合衆国の物理学者
+Category:レーザー
+Category:ウルフ賞物理学部門受賞者
+Category:日本国際賞受賞者
+Category:ゼネラルモーターズの人物
+Category:ロサンゼルス出身の人物
+Category:1927年生
+Category:2007年没
+
+

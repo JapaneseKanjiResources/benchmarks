@@ -1,0 +1,18 @@
+description
+'NIC'
+
+* ニカラグアのISO 3166-1国名コード
+* 新興工業国(''Newly industrialized countries'') -- 複数あるので通常はNICsと呼称する。→ 新興工業経済地域
+
+* アメリカ国家情報会議(''National Intelligence Council'')
+* アメリカ雪氷センター(''National Ice Center'')
+* インド情報工学センター(''National Informatics Centre'')
+* ネバダ・カリフォルニア大学国際教育機構Japan
+* 名古屋国際センター(''Nagoya International Center'')
+* 国民保険料負担(''National insurance contributions'')
+
+* ネットワーク・インタフェース・コントローラ(''Network Interface Controller'') → ネットワークカード
+* ネットワークインフォメーションセンター(''Network Information Center'')
+* 負インピーダンス変換器(''negative impedance converter'')
+* 奈良情報商業高等学校(''Nara information Commercial'')
+

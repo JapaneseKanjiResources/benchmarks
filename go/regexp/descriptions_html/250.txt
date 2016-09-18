@@ -1,0 +1,49 @@
+description<br />
+<br />
+<br />
+ |<br />
+ 世紀=1 |<br />
+ 次世紀=2 |<br />
+<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=80 |<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=90 |<br />
+ <a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀=100 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=<a href="http://localhost/keyword/110">110</a> |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=120 |<br />
+<br />
+ 3年前=97 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>前=98 |<br />
+ 1年前=99 |<br />
+ 年=100 |<br />
+ 1年後=101 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>後=102 |<br />
+ 3年後=103 |<br />
+}}<br />
+ <br />
+<br />
+== 他の紀年法 ==<br />
+<br />
+* 干支 : 庚子<br />
+* 日本<br />
+** 景行天皇<a href="http://localhost/keyword/30%E5%B9%B4">30年</a><br />
+** 皇紀<a href="http://localhost/keyword/760%E5%B9%B4">760年</a><br />
+*中国<br />
+** 後漢 : 永元<a href="http://localhost/keyword/12%E5%B9%B4">12年</a><br />
+* 朝鮮<br />
+** 高句麗 : 太祖王<a href="http://localhost/keyword/48%E5%B9%B4">48年</a><br />
+** 新羅 : 婆娑王<a href="http://localhost/keyword/21%E5%B9%B4">21年</a><br />
+** 百済 : 己婁王<a href="http://localhost/keyword/24%E5%B9%B4">24年</a><br />
+** 檀紀2<a href="http://localhost/keyword/433%E5%B9%B4">433年</a><br />
+* 仏滅紀元 : <a href="http://localhost/keyword/643%E5%B9%B4">643年</a><br />
+* ユダヤ暦 : 3<a href="http://localhost/keyword/860%E5%B9%B4">860年</a> - 3<a href="http://localhost/keyword/861%E5%B9%B4">861年</a><br />
+<br />
+== できごと ==<br />
+*中国最古の字典「説文解字」完成<br />
+<br />
+== 誕生 ==<br />
+* ユスティノス、<a href="http://localhost/keyword/%E3%82%AD%E3%83%AA%E3%82%B9%E3%83%88">キリスト</a>教神学者（+ <a href="http://localhost/keyword/162%E5%B9%B4">162年</a>?）（他説あり）<br />
+<br />
+== 死去 ==<br />
+* フラウィウス・ヨセフス、古代イスラエルの著述家（* <a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）<br />
+<br />
+Category:<a href="http://localhost/keyword/100%E5%B9%B4">100年</a><br />

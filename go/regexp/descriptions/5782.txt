@@ -1,0 +1,28 @@
+description
+Ernst Carl Gerlach Stückelberg (1934)
+'エルンスト・カール・ゲアラハ・シュテュッケルベルク'（'Ernst Carl Gerlach Stueckelberg', 1905年2月1日 - 1984年9月4日）は、スイスの理論物理学者。姓はしばしばStückelbergと綴られる。バーゼル大学に提出された学位論文付属の履歴書にはJohann Melchior Ernst Karl Gerlach Stückelberg-von Breidenbachと記載されているが、後に本人が綴りを変更した。
+
+湯川秀樹の発表した核力に関する理論に到達していながらノーベル賞を逃したと言われる物理学者でもある。
+
+1927年バーゼル大学で学位を取得、チューリッヒ大学でグレゴール・ウェンチェルのもとでコンラッド・ブロイラー（Konrad Bleuler）と講師となった。
+
+1935年、湯川秀樹よりも前に、核力をベクトル・ボゾンの交換力で説明する論文を書いたが、パウリに批判されて発表できなかったという話が残っている。
+
+1942年陽電子についての仮説を提案した。
+
+1943年量子電磁力学における無限大の生じる問題に繰り込み（Renormalization）を使う論文をかいたが論文誌にリジェクトされた。
+
+1976年マックス・プランク・メダルを受賞した。
+
+== 業績（英語版リンク） ==
+* :en:Stückelberg action
+* :en:Stückelberg-Feynman interpretation
+
+
+
+
+category:スイスの物理学者
+Category:チューリッヒ大学の教員
+Category:バーゼル出身の人物
+Category:1905年生
+Category:1984年没

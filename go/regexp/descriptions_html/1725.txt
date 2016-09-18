@@ -1,0 +1,116 @@
+description<br />
+<br />
+|所属事業者= 55px 相模鉄道<br />
+|所属路線= SO 本線<br />
+|キロ程  = 2.4<br />
+|起点駅  = 横浜<br />
+|所在地  = 横浜市保土ケ谷区天王町字2丁目45番地5<br />
+|座標    = <br />
+|駅構造  = 高架駅<br />
+|ホーム  = 2面2線<br />
+|開業年月日= 1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>（昭和<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）9月10日<br />
+|廃止年月日= <br />
+|乗車人員= <br />
+|乗降人員= 26,835<br />
+|統計年度= 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換    =<br />
+|備考    = <br />
+}}<br />
+ホーム（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>9月）<br />
+&#39;<a href="http://localhost/keyword/%E5%A4%A9%E7%8E%8B%E7%94%BA%E9%A7%85">天王町駅</a>&#39;（てんのうちょうえき）は、神奈川県横浜市保土ケ谷区天王町字2丁目にある、相模鉄道本線の駅である。駅番号は&#39;SO04&#39;。電報略号はテン。<br />
+<br />
+== 駅構造 ==<br />
+相対式ホーム2面2線を有する高架駅。改札口は横浜方に1か所設置されている。改札内コンコースと各ホームを連絡するエレベーターが設置されている。20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>（平成2<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）7月16日からは下りホームでエスカレーターが使用開始された。<br />
+<br />
+駅前広場は旧帷子橋跡である。<br />
+<br />
+当初、当駅 - 星川駅間の連続立体交差事業により、島式ホーム1面2線に変更される予定であった[http://www.sotetsu.co.jp/train/crossover/gaiyo.html 相鉄グループHP「連続立体交差事業」]が、計画変更により工事完成後も相対式ホーム2面2線のままとなる[http://www.sotetsu.co.jp/train/crossover/situation_024.html 相鉄グループHP「連続立体交差事業」現在の工事状況]なお駅構内図についてはhttp://www.sotetsu.co.jp/train/station/pdf/tennocho_01.pdfより。。<br />
+<br />
+<br />
+<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+== 駅設備 ==<br />
+改札を入って奥まで進むと男女別にトイレがある、コンコース内にはそば屋があり、隣接して売店も設けられている。<br />
+<br />
+== 利用状況 ==<br />
+1日あたり乗車人員の推移<br />
+20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度の1日平均乗降人員は&#39;26,835人&#39;であり[http://www.sotetsu.co.jp/csr/data/pdf/joko2014.pdf 相鉄グループHP「相鉄乗降人員」]、相鉄本線内の優等列車通過駅の中では最も多い。しかし、近年は減少傾向にある。<br />
+<br />
+近年の1日平均&#39;乗降・乗車&#39;人員推移は下記のとおり。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+旧帷子橋跡（200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>4月30日）<br />
+当駅から保土ヶ谷駅にかけて、東海道程ヶ谷宿の史跡が点在している。<br />
+* 横浜ビジネスパーク<br />
+** 横浜ビジネスパーク内郵便局<br />
+* 洪福寺松原商店街<br />
+* 洪福寺<br />
+* 横浜市岩間市民プラザ<br />
+* 横浜岩間郵便局<br />
+* イオン天王町店<br />
+* マルエツ天王町店<br />
+* キャンドゥ<a href="http://localhost/keyword/%E5%A4%A9%E7%8E%8B%E7%94%BA%E9%A7%85">天王町駅</a>前店<br />
+* 城南信用金庫天王町支店<br />
+* 横浜信用金庫保土ヶ谷支店<br />
+* ルネサンス天王町<br />
+<br />
+=== バス路線 ===<br />
+駅東側にある旧東海道上にある&#39;<a href="http://localhost/keyword/%E5%A4%A9%E7%8E%8B%E7%94%BA%E9%A7%85">天王町駅</a>前&#39;が最寄り停留所となる。以下の路線が横浜市交通局（市営）、神奈川中央交通（神奈中）、相鉄バス（相鉄）により運行されている。<br />
+==== 保土ヶ谷駅西口方面のりば ====<br />
+* 25 星川駅前・花見台経由保土ヶ谷駅西口行（市営）<br />
+* 121 大門通経由保土ヶ谷駅西口行（神奈中）<br />
+* 浜16 和田町駅前・市沢町経由西原団地行（相鉄）<br />
+<br />
+==== 国道16号線方面のりば ====<br />
+* 25 浅間町車庫前経由横浜駅西口行（市営）<br />
+* 深夜バス 保土ヶ谷車庫前行（市営）<br />
+* 121 上星川・羽沢団地前経由新横浜駅行（神奈中）<br />
+* 浜16 浅間町車庫前経由横浜駅西口行（相鉄）<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>（昭和<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）9月10日 - 開業。<br />
+* 1<a href="http://localhost/keyword/945%E5%B9%B4">945年</a>（昭和<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）5月29日 - 横浜大空襲により駅舎焼失。<br />
+* 1<a href="http://localhost/keyword/948%E5%B9%B4">948年</a>（昭和<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>） - 駅舎再建。<br />
+* 1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>（昭和<a href="http://localhost/keyword/43%E5%B9%B4">43年</a>）3月27日 - 駅舎高架化。本線唯一の高架駅に。<br />
+<br />
+== 駅名の由来 ==<br />
+鎌倉時代に創建された「牛頭&#39;天王&#39;社（ごずてんのうしゃ）」から。<br />
+<br />
+== その他 ==<br />
+歌川広重作『東海道五十三次』の「&#39;程ヶ谷&#39;」は、当駅前南側を流れていた改修前の帷子川に架かる橋を描いたものである。<br />
+<br />
+== 隣の駅 ==<br />
+; 55px 相模鉄道<br />
+: SO 本線<br />
+:: 特急・急行・快速<br />
+::: &#39;通過&#39;<br />
+:: 各停<br />
+::: 西横浜駅（SO03） - &#39;<a href="http://localhost/keyword/%E5%A4%A9%E7%8E%8B%E7%94%BA%E9%A7%85">天王町駅</a>（SO04）&#39; - 星川駅（SO05）<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 出典 ==<br />
+;神奈川県県勢要覧<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.sotetsu.co.jp/train/station/tennocho.html 相模鉄道 <a href="http://localhost/keyword/%E5%A4%A9%E7%8E%8B%E7%94%BA%E9%A7%85">天王町駅</a>]<br />
+* [http://sotetsu.net/tennocho/index.html 相鉄Style（相鉄スタイル） <a href="http://localhost/keyword/%E5%A4%A9%E7%8E%8B%E7%94%BA%E9%A7%85">天王町駅</a>] - 相鉄沿線口コミ情報サイト<br />
+<br />
+<br />
+<br />
+Category:横浜市の鉄道駅<br />
+んのうちよう<br />
+Category:相模鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>開業の鉄道駅<br />
+てんのうちようえき<br />

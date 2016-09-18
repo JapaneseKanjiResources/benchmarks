@@ -1,0 +1,77 @@
+description<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E6%94%BE%E5%B0%84%E6%80%A7%E5%90%8C%E4%BD%8D%E4%BD%93">放射性同位体</a>&#39;（ほうしゃせいどういたい、、RI）&#39;ラジオアイソトープ&#39;（英語：radioisotope、またはradioactive isotope）や&#39;放射性核種&#39;（ほうしゃせいかくしゅ、英語：radionuclide）、&#39;放射性同位元素&#39;とも呼ばれる。<br />
+意味としては正し<a href="http://localhost/keyword/%E3%81%8F%E3%81%AA%E3%81%84">くない</a>が、放射線治療や核医学の現場では&#39;アイソトープ&#39;とも呼ばれることがある。とは、ある元素の同位体で、その核種の不安定性から放射線を放出して放射性崩壊を起こす能力（放射能）を持つ元素を言うより正確には、安定同位体の存在する元素の放射性核種の事のみを言い、同位体が全て放射能をもつ場合放射性同位元素などというのだが、実質上同義語として用いられている理化学辞典項目「<a href="http://localhost/keyword/%E6%94%BE%E5%B0%84%E6%80%A7%E5%90%8C%E4%BD%8D%E4%BD%93">放射性同位体</a>」より。<br />
+== 概要 ==<br />
+同じ元素で中性子の数が違う核種の関係を同位体と呼ぶ。同位体は安定なものと不安定なものがあり、不安定なものは時間とともに放射性崩壊して放射線を発する。崩壊する確率は<a href="http://localhost/keyword/%E6%94%BE%E5%B0%84%E6%80%A7%E5%90%8C%E4%BD%8D%E4%BD%93">放射性同位体</a>によって異なる崩壊定数に比例し、崩壊定数が大きいほど高い確率で崩壊する。これが&#39;<a href="http://localhost/keyword/%E6%94%BE%E5%B0%84%E6%80%A7%E5%90%8C%E4%BD%8D%E4%BD%93">放射性同位体</a>&#39;である。<a href="http://localhost/keyword/%E6%94%BE%E5%B0%84%E6%80%A7%E5%90%8C%E4%BD%8D%E4%BD%93">放射性同位体</a>の例としては、水素3、炭素14、カリウム40、ヨウ素131、<a href="http://localhost/keyword/%E3%83%97%E3%83%AB%E3%83%88">プルト</a>ニウム239などがあげられる。<br />
+<br />
+<a href="http://localhost/keyword/%E6%94%BE%E5%B0%84%E6%80%A7%E5%90%8C%E4%BD%8D%E4%BD%93">放射性同位体</a>の崩壊は核種の変位法則に従い、アルファ崩壊により<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>と質量数の異なる核種へ<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>2、質量4それぞれ減少し、ヘリウム4（4He）<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E6%A0%B8">原子核</a>を放出する、またはベータ崩壊により同質量数で<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>の異なる核種中性子1つが陽子1つに変化し、電子を放出して<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>1増加する壊変をβ-崩壊、陽子1つが中性子一つに変化し、陽電子を放出して<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>が1つ減少する壊変をβ+崩壊という。なお、β+壊変をする核種はすべて人工<a href="http://localhost/keyword/%E6%94%BE%E5%B0%84%E6%80%A7%E5%90%8C%E4%BD%8D%E4%BD%93">放射性同位体</a>である。軌道電子を捕獲して、陽子が中性子へと変化する崩壊もある。へと放射性崩壊を起こす。ガンマ崩壊では質量数も<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>も不変である。一部の超ウラン元素等は自重に耐えられずに自発的に核分裂を起こして崩壊し、中性子を出すこともある。<br />
+<br />
+元素の中には<a href="http://localhost/keyword/%E6%94%BE%E5%B0%84%E6%80%A7%E5%90%8C%E4%BD%8D%E4%BD%93">放射性同位体</a>しか持たないものもある。このような元素を&#39;放射性元素&#39;と呼ぶ。放射性元素に該当する元素は、テクネチウム、プロメチウム、およびビスマス（<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>83）以上の<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>を持つ全ての元素であるビスマス209の<a href="http://localhost/keyword/%E5%8D%8A%E6%B8%9B%E6%9C%9F">半減期</a>はきわめて長く、2003年まで安定核種と考えられていた。。自然界に存在する元素を分離することで発見された放射性元素は天然放射性元素または天然放射性核種長倉三郎ほか編　『理化学辞典第5版』、岩波書店、1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a>、。ISBN 4-00-080090-6 と呼ばれる。一方、粒子加速器や原子炉を利用して核種変換することで発見された放射性元素は人工放射性元素または人工放射性核種と呼ばれ、多くの元素の人工放射性核種が実験的に作られている。人工放射性核種の持つ放射能は人工放射能と呼ばれることもある。<br />
+<br />
+一般に、<a href="http://localhost/keyword/%E5%8D%8A%E6%B8%9B%E6%9C%9F">半減期</a>が地球の年齢より十分に短い核種は、地球誕生から現在までの間に、崩壊しているため自然界には存在しない。ただし、ラドンやポロニウムのように<a href="http://localhost/keyword/%E5%8D%8A%E6%B8%9B%E6%9C%9F">半減期</a>は短い核種でも、ウランや<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>の崩壊生成物として生まれ続けている核種は、自然界に存在する。<br />
+<br />
+天然放射性元素には、ウラン238や<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>232などの、<a href="http://localhost/keyword/%E5%8D%8A%E6%B8%9B%E6%9C%9F">半減期</a>が地球の年齢と同等かそれ以上の核種が存在する。天然に存在する元素としては、ウランの<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>92が一般に最大とされている。<a href="http://localhost/keyword/%E3%82%A6%E3%83%A9%E3%83%B3235">ウラン235</a>は約7億年、ウラン238は44.6億年と<a href="http://localhost/keyword/%E5%8D%8A%E6%B8%9B%E6%9C%9F">半減期</a>が長く、地球の歴史を持ちこたえて残存したが、<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>93のネプツニウム以降は<a href="http://localhost/keyword/%E5%8D%8A%E6%B8%9B%E6%9C%9F">半減期</a>の短い核種しかないためである。ゆえに、ネプツニウム以降の人工放射性元素は、超ウラン元素とも呼ばれる。（ただし、ネプツニウムと<a href="http://localhost/keyword/%E3%83%97%E3%83%AB%E3%83%88">プルト</a>ニウム（<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>94）はウラン238の崩壊生成物として、微量ながら自然界にも存在することがわかっている。アメリシウム（<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>95）以上の<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>の元素は自然界には存在しない）。ウランや<a href="http://localhost/keyword/%E3%83%97%E3%83%AB%E3%83%88">プルト</a>ニウム、<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>のような<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>の大きな<a href="http://localhost/keyword/%E6%94%BE%E5%B0%84%E6%80%A7%E5%90%8C%E4%BD%8D%E4%BD%93">放射性同位体</a>は、娘核種もまた<a href="http://localhost/keyword/%E6%94%BE%E5%B0%84%E6%80%A7%E5%90%8C%E4%BD%8D%E4%BD%93">放射性同位体</a>となり、その娘核種も・・・という系列をなしており、これを崩壊系列と呼ぶ。崩壊系列は質量数を4で割った時の余りにより4種類に分別され、ウラン系列やアクチニウム系列などがある。<br />
+<br />
+このように10億年以上の長い<a href="http://localhost/keyword/%E5%8D%8A%E6%B8%9B%E6%9C%9F">半減期</a>を持っていて太陽系形成時から現代まで生き残っている核種を&#39;一次天然放射性核種&#39;という。また、これらの崩壊によって生成された娘核種のなかで、ラドンのような放射能をもっている核種を&#39;二次天然放射性核種&#39;といい、安定核種は&#39;放射性起源の核種&#39;といわれる。またトリチウムや炭素14のように、宇宙線との核反応で生じているような核種を&#39;誘導天然放射性核種&#39;(induced natural radionuclide)という。<br />
+<br />
+== 応用 ==<br />
+<a href="http://localhost/keyword/%E6%94%BE%E5%B0%84%E6%80%A7%E5%90%8C%E4%BD%8D%E4%BD%93">放射性同位体</a>は様々な分野に応用される。これらは放射線自体を利用するものと、放射性によってそれを含む放射性物質を検出するものとに分けられる。<br />
+<br />
+<a href="http://localhost/keyword/%E6%94%BE%E5%B0%84%E6%80%A7%E5%90%8C%E4%BD%8D%E4%BD%93">放射性同位体</a>（密封線源）から出る放射線は、放射線療法によるがんなどの治療、<a href="http://localhost/keyword/%E7%AA%81%E7%84%B6%E5%A4%89%E7%95%B0">突然変異</a>誘発による作物育種、非破壊検査、火災報知機などに応用される。<br />
+<br />
+放射性物質（非密封線源）は、物質自体はごく微量であっても確実に検出・定量することができる。この性質に基づく物質の検出への応用として、医療関係ではシンチグラフィなどによる検査・診断が挙げられる。化学では、分子の一部分を<a href="http://localhost/keyword/%E6%94%BE%E5%B0%84%E6%80%A7%E5%90%8C%E4%BD%8D%E4%BD%93">放射性同位体</a>で標識（ラベル）することによって化学反応の詳細を調べる方法があり、特に生化学で盛んに用いられる。また生体高分子を標識してこれを検出する方法は、免疫学的検定やDNAの塩基配列決定などに応用される。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+<br />
+<br />
+* 核物理学<br />
+* 核種<br />
+* <a href="http://localhost/keyword/%E5%8D%8A%E6%B8%9B%E6%9C%9F">半減期</a><br />
+* <a href="http://localhost/keyword/%E5%8D%8A%E6%B8%9B%E6%9C%9F">半減期</a>順の<a href="http://localhost/keyword/%E6%94%BE%E5%B0%84%E6%80%A7%E5%90%8C%E4%BD%8D%E4%BD%93">放射性同位体</a>の一覧<br />
+* 崩壊系列<br />
+* 放射年代測定<br />
+* 同位体<br />
+* 放射能<br />
+* 放射性物質<br />
+<br />
+* 超ウラン元素<br />
+* アクチノイド<br />
+* ポロニウムの同位体<br />
+* 放射線医学<br />
+* ラジオアイソトープ検査<br />
+* シンチグラフィ<br />
+* ポジトロン断層法<br />
+* 放射免疫検定<br />
+* 放射性同位元素等による放射線障害の防止に関する法律<br />
+<br />
+<br />
+== 参考文献 ==<br />
+*  <br />
+== 外部リンク ==<br />
+* [http://www.jrias.or.jp/ （社）日本アイソトープ協会]<br />
+* [http://www.rist.or.jp/atomica/ 原子力百科事典 <a href="http://localhost/keyword/ATO">ATO</a>MICA トップページ]<br />
+60Co線源の利用状況]<br />
+** [http://www.rist.or.jp/atomica/data/dat_detail.php?Title_Key=08-01-04-03 ＲＩ利用の概論]<br />
+** [http://www.rist.or.jp/atomica/data/dat_detail.php?Title_Key=08-02-02-04 ＲＩ小線源によるがん治療]<br />
+** [http://www.rist.or.jp/atomica/data/dat_detail.php?Title_Key=08-02-02-11 ＲＩミサイル療法]<br />
+** [http://www.rist.or.jp/atomica/data/dat_detail.php?Title_Key=08-04-02-06 ＲＩの工業計測用の厚さ計、密度計、水位計などへの利用統計]<br />
+** [http://www.rist.or.jp/atomica/data/dat_detail.php?Title_Key=08-04-02-07 夜光時計、蛍光灯点灯管、煙感知器など日用品への放射性同位元素の利用]<br />
+** [http://www.rist.or.jp/atomica/data/dat_detail.php?Title_Key=08-04-02-08 原子力電池（アイソトープ電池）]<br />
+** [http://www.rist.or.jp/atomica/data/dat_detail.php?Title_Key=08-04-03-01 放射性トレーサ法の原理と応用]<br />
+** [http://www.rist.or.jp/atomica/data/dat_detail.php?Title_Key=08-04-03-02 ＲＩの工業計測機器への応用原理]<br />
+** [http://www.rist.or.jp/atomica/data/dat_detail.php?Title_Key=08-04-03-03 ＲＩの分析計測機器への応用原理]<br />
+** [http://www.rist.or.jp/atomica/data/dat_detail.php?Title_Key=08-04-03-04 ＲＩの物理的作用・効果を利用した製品]<br />
+** [http://www.rist.or.jp/atomica/data/dat_detail.php?Title_Key=08-04-03-05 ＲＩの化学的作用の応用原理]<br />
+--&gt;<br />
+<br />
+<br />
+<br />
+<br />
+Category:同位体<br />
+Category:放射線<br />
+Category:<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E6%A0%B8">原子核</a>物理学<br />
+Category:核化学<br />

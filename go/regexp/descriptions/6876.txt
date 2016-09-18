@@ -1,0 +1,43 @@
+description
+ペンローズの三角形
+'ペンローズの三角形'は不可能図形の一種。
+
+== 概要 ==
+[[錯視を利用したあり得ない三角形のオブジェ。オーストラリアのパースにある。]]
+1934年、スウェーデンの芸術家が考案した。1950年代に数学者ロジャー・ペンローズがそれとは独立に「不可能性の最も純粋な形」として考案し、一般に広めた。芸術家マウリッツ・エッシャーが不可能図形を多く扱ったが、その発想の一部となった。
+
+固体の物体であり、3本の真っ直ぐな四角柱がそれぞれ直角に組み合わされていながら、全体で三角形を形成している。これを通常のユークリッド空間における3次元の物体として具現化させることはできず、ある種の3次元多様体でのみ存在できる  ペンローズの三角形に関する章で、作者はこの洞察を John Stillwell によるものとしている。。通常の3次元空間では、ある角度から見たときだけペンローズの三角形のように見える物体を作ることは可能である。ペンローズの三角形という言葉は、2次元平面にそれを描いたものと3次元のありえない立体の両方を指す。
+
+
+エッシャーのリトグラフ『滝』では、2つのペンローズの三角形を組み合わせたようなジグザグの水路を描いており、水平な水路のようでいて高低差が生じているという絵になっている。結果として、一番高く見えるところから水路の始点に滝が流れ落ち、途中で水車を回している。エッシャーは水路の水が蒸発していくため、水車を回し続けるためには水を時々補給する必要があると指摘している。
+
+ペンローズの三角形の面を追いかけていくと、3重のメビウスの帯になっていることがわかる。
+
+== 他のペンローズの多角形 ==
+ペンローズの三角形から似たようなものを構築可能で、他の正多角形からペンロースの正多角形を作ることができる。しかし、角が増えるに従って単に反っているかねじれているように見えてくる。
+
+
+ファイル:Penrose_square.svg|ペンローズの正方形
+ファイル:Penrose_pentagon.svg|ペンローズの五角形
+ファイル:Penrose_hexagon.svg|ペンローズの六角形
+ファイル:Penrose_octagon.svg|ペンローズの八角形
+
+
+== 脚注・出典 ==
+
+
+== 外部リンク ==
+
+* [http://im-possible.info/english/articles/real/real3.html パースにあるペンローズの三角形のオブジェについての記事（英語）]
+* [http://www.cs.technion.ac.il/~gershon/EscherForReal/ Escher for Real constructions]
+* [http://sketchup.google.com/3dwarehouse/details?mid=9dc97890819b7ee1be9f99e917cf14f4 Three-dimensional model of a Penrose triangle for SketchUp] Google 3Dギャラリー
+* [http://www.coolopticalillusions.com/build-an-impossible-triangle.htm ペンローズの三角形の実物の作り方（英語）]
+* [http://francistabary.com/index.php?menu=sculptures_impossibles Francis Tabary 作の様々なペンローズの三角形]
+* [http://www.roz.at/rozweb/images/PenroseVSoncu2.jpg オーストリアにある大きなペンローズの三角形のオブジェの写真]
+
+
+
+Category:錯視
+Category:位相幾何学
+Category:幾何学
+Category:エポニム

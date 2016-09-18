@@ -1,0 +1,79 @@
+description<br />
+<br />
+|所属事業者 =   15px名古屋鉄道<br />
+|所属路線 = 三河線（通称山線）<br />
+|キロ程 = 8.5<br />
+|起点駅 = 知立<br />
+|所在地 = 愛知県豊田市竹町宮下16<br />
+|座標      = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 島式 1面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/920%E5%B9%B4">920年</a>（大正<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）7月5日 <br />
+|廃止年月日 =<br />
+|乗車人員 = <br />
+|乗降人員 = 2,976<br />
+|統計年度 = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|乗換 =<br />
+|備考 =  無人駅（駅集中管理システム導入駅）<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E7%AB%B9%E6%9D%91%E9%A7%85">竹村駅</a>&#39;（たけむらえき）は愛知県豊田市竹町にある、名古屋鉄道三河線の駅である。駅名は竹&#39;村&#39;だが、住所は竹&#39;町&#39;である。<br />
+<br />
+== 駅構造 ==<br />
+島式1面2線の地上駅である。<br />
+通常では進行方向に対して左側に停車するが、この駅は右側に停車する（隣の若林駅も同様）。これはまだ三河線が自動閉塞でなかった頃、タブレットの交換を容易に行えるようにするためや、駅進入時に構内踏切を渡る乗客に対して安全性を確保するために右側通行にした右側通行についてのみ：[http://www.meitetsu.co.jp/wind/index.html 名鉄沿線おでかけマガジン Wind] 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>1月号より と言われている。実際、当駅の<a href="http://localhost/keyword/%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0">スプリング</a>ポイントも右側通行となるように設置されている。<br />
+<br />
+駅集中管理システムを導入した無人駅であり、豊田市駅から遠隔管理されている。また、ワンマン運転支援用のセンサーポールがホーム上に設置されている。<br />
+<br />
+=== 配線図 ===<br />
+<br />
+== バス路線 ==<br />
+* コミュニティバス<br />
+** 福祉バス　若園コース - 『<a href="http://localhost/keyword/%E7%AB%B9%E6%9D%91%E9%A7%85">竹村駅</a>』と『三河八橋駅』を結ぶ路線。週2日運行。<br />
+<br />
+== 駅周辺 ==<br />
+駅前には休耕田が広がる。<br />
+* トヨタ自動車堤工場<br />
+* 豊田中町郵便局<br />
+* 愛知県立豊田工業高等学校<br />
+* 愛知県立豊田高等特別支援学校<br />
+* 豊田市立竜神中学校<br />
+* 豊田市立竹村小学校<br />
+* 豊田市立住吉こども園<br />
+* 国道155号<br />
+* 愛知県道12号豊田一色線<br />
+* 愛知県道232号鴛鴨三好線<br />
+* 光恩寺<br />
+<br />
+== 利用状況 ==<br />
+*『名鉄<a href="http://localhost/keyword/120%E5%B9%B4">120年</a>：近<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>のあゆみ』によると20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>度当時の1日平均乗降人員は2,976人であり、この値は名鉄全駅（275駅）中143位、 三河線（23駅）中16位であった。<br />
+*『名古屋鉄道百年史』によると1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a>度当時の1日平均乗降人員は2,583人であり、この値は岐阜市内線均一運賃区間内各駅（岐阜市内線・田神線・美濃町線徹明町駅 - 琴塚駅間）を除く名鉄全駅（342駅）中152位、 三河線（38駅）中15位であった。<br />
+*『豊田市統計書』によると1日平均あたりの乗降客数は、200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>度2,746人、200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>度2,697人である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/920%E5%B9%B4">920年</a>（大正<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）7月5日 - 三河鉄道の駅として開業。<br />
+* 1<a href="http://localhost/keyword/941%E5%B9%B4">941年</a>（昭和<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>）6月1日 - 三河鉄道が名古屋鉄道に合併。同社三河線の駅となる。<br />
+* 1<a href="http://localhost/keyword/945%E5%B9%B4">945年</a>（昭和<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）8月14日 - 午後1時頃、<a href="http://localhost/keyword/%E7%AB%B9%E6%9D%91%E9%A7%85">竹村駅</a>へ向かう列車が到着100m手前でアメリカ軍のP-51戦闘機から銃撃を受ける。即死2名、重軽傷者75人。<br />
+* 2003年（平成<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）10月1日 - 駅集中管理システム及びトランパスを導入。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）2月11日 - ICカード<a href="http://localhost/keyword/%E4%B9%97%E8%BB%8A%E5%88%B8">乗車券</a>「manaca」供用開始。<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）2月29日 - トランパス供用終了。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 隣の駅 ==<br />
+;名古屋鉄道<br />
+:三河線<br />
+::土橋駅 - &#39;<a href="http://localhost/keyword/%E7%AB%B9%E6%9D%91%E9%A7%85">竹村駅</a>&#39; - 若林駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+<br />
+Category:豊田市の鉄道駅<br />
+けむら<br />
+Category:名古屋鉄道の鉄道駅<br />
+Category:三河鉄道<br />
+Category:1<a href="http://localhost/keyword/920%E5%B9%B4">920年</a>開業の鉄道駅<br />

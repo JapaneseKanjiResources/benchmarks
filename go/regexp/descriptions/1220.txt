@@ -1,0 +1,247 @@
+description
+
+
+'Java Platform, Enterprise Edition' ('Java EE') は、Javaの企業用機能セット。Java Platform, Standard Edition (Java SE) の拡張機能の形で提供される。
+
+== 概要 ==
+[[JavaプラットフォームにおけるJava EEの位置づけ。Java EEはJava SEの拡張機能として位置づけられている。]]
+
+1998年に発表され、主に大規模システム（サーバ用途）向けに、Java Servlet（サーブレット）、JavaServer Pages (JSP)、Enterprise JavaBeans (EJB)、Java Transaction API (JTA)、Java Message Service (JMS)、JavaMail、Java EE Connector Architecture (JCA)、およびXML関連のAPI（JAXP等）などの機能をセットにして提供するもの。多層システムの構築ができ、EJBによりトランザクション管理・リモート接続などの自動化ができる。
+
+過去のリリースに伴い名称が変化しており、2013年現在のバージョンはJava Platform, Enterprise Edition 7 (Java EE 7) と命名されているが、Java EE 5より過去のバージョンはJava 2 Platform, Enterprise Edition (J2EE) と命名されていた。
+
+Java EE自体は仕様であるため、各社がライセンスを受け実装し、販売などをしている。
+
+== 歴史 ==
+Java EEは1999年の登場以後、数年おきに新しいバージョンが策定されている。
+
+; Java 2 Platform, Enterprise Edition 1.2
+: 最初のJ2EEの仕様。Sun Microsystemsが開発をし、1999年12月12日にリリースされた。1.2当初は以下のような技術から構成されていた。
+: JDBC 2.0, JNDI 1.2, RMI-IIOP 1.0, Servlet 2.2, JSP 1.1, EJB 1.1, JMS 1.0, JTA 1.0,  1.1,  1.0
+
+; Java 2 Platform, Enterprise Edition 1.3
+: JSR 58 として2001年9月24日にリリースされた。仕様検討は、Java Community Processの元で行われた。ベータ版が2001年4月にSunによってリリースされている。1.3では新たにJSPの標準カスタムタグライブラリであるJSTLや、JAXP, , といった技術が追加された。またEJBが2.0へと更新され、JNDIはJ2SEへの移行により取り除かれた。
+
+; Java 2 Platform, Enterprise Edition 1.4
+: JSR 151 として2003年11月24日にリリースされた。ベータ版は2002年12月にSunによってリリースされている。1.4では新たにWebアプリケーションフレームワークであるJSFが採用され、またJSPがEL式を含む2.0へと更新された。
+
+; Java Platform, Enterprise Edition 5
+: JSR 244として2006年5月11日にリリースされた。5からは名称・バージョン体系が改められており、またJ2SE 5.0で導入されたアノテーションを使った仕組みが導入されるなど、仕様自体も大きく変更された。中でもEJBはDIやPOJOの概念を取り入れ仕様を全面的に見直した3.0へと更新されており、さらにEJBから派生する形で永続化フレームワークであるJPAも追加されている。
+
+; Java Platform, Enterprise Edition 6
+: JSR 316として2009年12月10日にリリースされた。6では新たにDIを実現するCDIや、バリデーションを提供するBean Validationといった技術が追加されている。
+
+; Java Platform, Enterprise Edition 7
+: JSR 342として2013年5月28日にリリースされた。7ではJSFがHTML5に対応した2.2に更新されるなどする一方、WebSocketやバッチ処理に関する仕様が追加されている。Java EE 7は以下のような技術から構成されている。
+: WebSocket, JSON Processing, Servlet 3.1, JSF 2.2, EL 3.0, JSP 2.3, JSTL 1.2, Batch Applications, Concurrency Utilities, CDI 1.1, DI 1.0, Bean Validation 1.1, EJB 3.2, Interceptors 1.2,  1.7, JPA 2.1,  1.2, JMS 2.0, JTA 1.2,  1.5, JAX-RS 2.0, Enterprise Web Services 1.3,  2.2, , JAX-RPC 1.1,  1.3,  1.0, JASPIC 1.1, Java ACC 1.5, Java EE Application Deployment 1.2,  1.1, Debugging Support for Other Languages 1.0, JAXB 2.2, JAXP 1.3, JDBC 4.0, JMX 2.0,  1.1, StAX
+
+== 主なAPI ==
+Java EE APIは Java SE APIを元に機能拡張された様々な技術を包含している。
+
+* [http://docs.oracle.com/javaee/7/api Java EE 7 Platform Packages]
+* [http://docs.oracle.com/javaee/6/api Java EE 6 Platform Packages]
+* [http://docs.oracle.com/javaee/5/api Java EE 5 Platform Packages]
+
+===  ===
+Servletパッケージでは、主にHTTPリクエストのためのAPIが定義されている。またJavaServer Pages (JSP) に関するAPIも含まれる。
+
+===  ===
+WebSocketパッケージでは、WebSocketの通信に関するAPIが定義されている。
+
+===  ===
+Facesパッケージでは、 Java Server Faces (JSF) に関するAPIが定義されている。JSFはコンポーネントによるUI構築技術である。
+
+===  ===
+ELパッケージでは、Java EEのEL式に関するクラスとインターフェースが定義されている。EL式はJSPやJSFを作成するWebアプリケーション開発者のためにデザインされた簡単な構文である。主にJSFにおいてコンポーネントに管理beanを結びつけるために用いられるが、仕様自体は独立しており、それ以外の部分でも使用可能である。
+
+===  ===
+Injectパッケージでは、[http://jcp.org/en/jsr/detail?id=299 Contexts and Dependency Injection] (CDI) APIのためのインジェクションアノテーションが定義されている。CDIは依存性の注入 (DI) に関する仕様である。
+
+===  ===
+Contextパッケージでは、Contexts and Dependency Injection (CDI) APIのためのコンテキストアノテーションとインタフェースが定義されている。
+
+===  ===
+Enterprise JavaBeans (EJB) パッケージでは、EJBコンテナがサポートするトランザクション処理 (JTA)、RPC（RMIまたはRMI-IIOP）、並行性制御、依存性の注入 (DI)、ビジネスオブジェクトのためのアクセス制御といった軽量APIが定義されている。またこのパッケージは、エンタープライズBeanとそのクライアント間、エンタープライズBeanとEJBコンテナ間の取り決めを定義したクラスとインタフェースも含む。
+
+===  ===
+Validationパッケージでは、Bean Validation APIのためのアノテーションとインタフェースが定義されている。Bean Validationはbean（例えばJPAのモデルクラス）に対する統一されたバリデーション（値の検証）手法を提供する。Java EEの各要素では、JPAが永続化層におけるバリデーションに、JSFがビュー層におけるバリデーションにまた関与する。
+
+===  ===
+Persistenceパッケージには、永続化プロバイダと管理クラス、それにJava Persistence API (JPA) クライアントの間の取り決めを定義したクラスとインタフェースが含まれている。
+
+===  ===
+Transactionパッケージでは、Java EEのトランザクション処理を担うJava Transaction API (JTA) のインタフェースとアノテーションを含むAPIが定義されている。これらのAPIは低レベルAPIが抽象化されたものであり、通常のアプリケーション開発者がJava EEを用いて開発する場合は、EJBのより高レベルのトランザクション管理を用いたり、このAPIのアノテーションとCDIの管理Beanとを組み合わせて使用することが想定されている。
+
+===  ===
+Messageパッケージでは、Java Authentication SPI (JASPIC) のインタフェースやクラスを含むAPIが定義されている。JASPICはセキュアなJava EEアプリケーションを構築するための仕様である。
+
+===  ===
+Concurrentパッケージでは、Java EEプラットフォーム標準の管理されたスレッドプールと連携する、並行処理に関するインタフェースが定義されている。
+
+===  ===
+JMSパッケージでは、Java Message Service (JMS) APIが定義されている。JMSはJavaプログラムにエンタープライズメッセージの生成、送信、受信、読込のための手法を提供する。
+
+===  ===
+BatchのAPIパッケージでは、Java EEのバッチ処理のためのAPIが定義されている。バッチ処理APIは、大容量のデータを扱う長時間に亘るバックグラウンドタスクや、定期的に実行されるタスクのための手法を提供する。
+
+===  ===
+Resourceパッケージでは、 (JCA) APIが定義されている。JCAはEnterprise application integration (EAI) の一部であるアプリケーションサーバーや企業情報システム (EIS) の相互接続を実現するための技術である。このAPIはベンダーのための低レベルAPIであり、通常のアプリケーション開発者をターゲットとしてはいない。
+
+== Java EEの実装 ==
+Java EEの機能を用いたアプリケーションを動作させるには、Java EEの仕様を実装した実行環境やライブラリが必要である。Java EE SDKには、Java EEに準拠したオープンソースのアプリケーションサーバであるGlassFish Open Source Editionが同梱されている。GlassFish 4.0はJava EE 7の参照実装である。NetBeansやEclipseといったJava開発ツールの多くもJava EEに対応している。
+
+以下に、Java EEに準拠した主なアプリケーションサーバを示す。表のバージョン番号は、該当するJava EE仕様に対応したバージョンを表している。
+
+
+
+== 例 ==
+以下に、Java EE 7の様々な技術を組み合わせて作成した、ユーザーの登録を行うWeb入力画面のサンプルを示す。
+
+Java EEには、サーブレットにJSP、またJSFとFaceletsといった、Web UIを作ることが可能ないくつかの技術が存在する。以下はJSFとFaceletsを用いた例である。コード上では明示されていないが、入力コンポーネントでは入力値の検証にBean Validationを使用している。
+
+
+
+
+    
+        
+    
+        
+    
+                
+        
+                
+                
+                                              
+                
+                
+                                
+                
+                
+                           
+                
+            
+        
+        
+    
+
+
+
+=== バッキングBeanの例 ===
+Java EEでは、ビューの処理の実装にバッキングBean（画面の背後で処理するBean、管理Beanとも）と呼ばれる仕組みを用いる。以下はCDIとEJBを用いたバッキングBeanの例である。
+
+
+@Named
+@ViewScoped
+public class UserEdit {
+        
+    private User user;
+
+    @Inject
+    private UserDAO userDAO;
+  
+    public String saveUser() {
+        userDAO.save(this.user);        
+        addFlashMessage("User " + this.user.getId() + " saved");
+                
+        return "users.xhtml?faces-redirect=true";
+    }
+
+    public void setUser(User user) {
+        this.user = user;
+    }
+
+    public User getUser() {
+        return user;
+    }
+}
+
+
+=== DAOの例 ===
+Java EEでは、ビジネスロジックの実装のためにEJBが用意されている。データの永続化ではJDBCやJPAが使用できる。以下はEJBとJPAを用いたData Access Object (DAO) の例である。コード上では明示されていないが、EJBではトランザクション管理にJTAが使用される。
+
+
+@Stateless
+public class UserDAO {
+        
+    @PersistenceContext
+    private EntityManager entityManager;
+        
+    public void save(User user) {
+        entityManager.persist(user);
+    }
+        
+    public void update(User user) {
+        entityManager.merge(user);
+    }
+
+    public List getAll() {
+        return entityManager.createNamedQuery("User.getAll", User.class)
+                            .getResultList();
+    }
+
+}
+
+
+=== エンティティの例 ===
+Java EEでは、エンティティ/モデルクラスのためにJPAが用意されており、またバリデーション（値の検証）ではBean Validationが使用できる。以下は両者を用いた例である。
+
+
+@Entity
+public class User {
+
+    @Id
+    @GeneratedValue(strategy = IDENTITY)
+    private Integer id;
+        
+    @Size(min = 2, message="First name too short")
+    private String firstName;
+        
+    @Size(min = 2, message="Last name too short")
+    private String lastName;
+  
+    public Integer getId() {
+        return id;
+    }
+        
+    public void setId(Integer id) {
+        this.id = id;
+    }
+  
+    public String getFirstName() {
+        return firstName;
+    }
+
+    public void setFirstName(String firstName) {
+        this.firstName = firstName;
+    }
+        
+    public String getLastName() {
+        return lastName;
+    }
+ 
+    public void setLastName(String lastName) {
+        this.lastName = lastName;
+    }
+
+}
+
+
+== 脚注 ==
+
+
+== 関連項目 ==
+
+
+* EAR
+
+== 外部リンク ==
+* [http://www.oracle.com/technetwork/jp/java/javaee/overview/ Oracle - Java EE]
+
+
+
+Category:Java
+Category:ウェブアプリケーション
+Platform, Enterprise Edition
+Category:Java enterprise platform
+Category:Java specification requests
+Category:長大な項目名

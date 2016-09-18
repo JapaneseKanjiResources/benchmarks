@@ -1,0 +1,369 @@
+description<br />
+<br />
+|所在地=佐賀県、長崎県<br />
+|起点=鳥栖駅<br />
+|終点=<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a><br />
+|駅数=42駅<br />
+|輸送実績=<br />
+|1日利用者数=<br />
+|開業=1<a href="http://localhost/keyword/891%E5%B9%B4">891年</a>8月20日<br />
+|全通=1<a href="http://localhost/keyword/905%E5%B9%B4">905年</a>4月5日（大村経由）1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>12月1日（現ルート）<br />
+|所有者=25px 九州旅客鉄道（JR九州）<br />
+|運営者=25px 九州旅客鉄道（JR九州）（全線 第1種鉄道事業者）25px 日本貨物鉄道（JR貨物）（鳥栖 - 市布 - 長崎間 第2種鉄道事業者）<br />
+|車両基地=<br />
+|使用車両=使用車両を参照<br />
+|路線距離=125.3 km（鳥栖 - 市布 - 長崎間）23.5 km（喜々津 - 長与 - 浦上間）<br />
+|軌間=1,067 mm<br />
+|線路数=複線（鳥栖 - 肥前山口間、諫早 - 喜々津間、浦上 - 長崎間）単線（上記以外）<br />
+|電化方式=交流20,000 V・60Hz 架空電車線方式<br />
+|最大勾配=<br />
+|最小曲線半径=<br />
+|閉塞方式=自動閉塞式<br />
+|保安装置=ATS-SK、ATS-DK（全線）<br />
+|最高速度=130 km/h<br />
+|路線図=Nagasaki_main_line_ja.png<br />
+|路線図名=<br />
+|路線図表示=<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E6%9C%AC%E7%B7%9A">長崎本線</a>&#39;（ながさきほんせん）は、佐賀県鳥栖市の鳥栖駅から長崎県長崎市の<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>までを結ぶ九州旅客鉄道（JR九州）の鉄道路線（幹線）である。ほかに喜々津駅 - 長与駅 - 浦上駅間の別線を持つ。&#39;長崎線&#39;とも呼ばれる。<br />
+<br />
+== 概要 ==<br />
+鳥栖駅で鹿児島本線から分岐し、佐賀市の佐賀駅を経て<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>まで伸びる路線であり、山陽新幹線に接続する福岡市の博多駅から長崎県各地までを結ぶ特急列車が多数運転されている。<br />
+<br />
+肥前山口駅 - <a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>間は諫早駅 - 喜々津駅間と浦上駅 - <a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>間を除いて単線であり、有明海の入り組んだ沿岸部を走るため、曲線区間が多い。特に肥前七浦駅 - 諫早駅間の曲線区間の多さは際立っており、この区間の速度アップのため特急に885系電車が投入されたと言っても過言ではない。鳥栖駅 - 肥前山口駅間など線路状況の良い区間では特急列車は最高速度130km/h、普通列車用の817系でも120km/hで走れるが、前記の沿岸部を走る区間は曲線区間で速度制限がかかり減速、次の直線で再び加速するもののすぐに次の曲線で減速を強いられる、の繰り返しが続く。それでもこの区間の所要時間短縮の努力は行われており、駅構内の配線は原則として一線スルー配線に改良されているほか、曲線の度合いの強い区間のマクラギは通常のPCマクラギより太さが太い強化型のものが使用されていることが多い。<br />
+<br />
+<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E6%9C%AC%E7%B7%9A">長崎本線</a>は喜々津駅 - 浦上駅間でルートが2つに分かれている。大村湾側を走る喜々津駅 - 長与駅 - 浦上駅間の明治時代に開業した非電化の<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E6%9C%AC%E7%B7%9A">長崎本線</a>を&#39;旧線（長与経由）&#39;と呼ぶ。新線開業前はこの路線を特急・急行も走っており、今でもその名残りを道ノ尾駅の表示などに見ることができる。一方、喜々津駅 - 市布駅 - 浦上駅間の長崎トンネルを通る電化された<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E6%9C%AC%E7%B7%9A">長崎本線</a>を&#39;新線（市布経由）&#39;と呼ぶ。旧線に比べ6.7kmの短縮と、高速運転に適した線形により、諫早駅 - <a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>間の所要時間を大幅に改善することができた。<br />
+<br />
+佐賀平野は軟弱地盤地帯で、この区間は路盤が非常に悪いために、単線用の架線柱の多くが両側支持の門型の物となっている。車窓から見える車道に立つ電柱の多くも、斜めの柱で補強していたり、立っていても僅かに傾いていたりする。<br />
+<br />
+鳥栖駅 - 佐賀駅間および諫早駅 - <a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>間（旧線・新線とも）はIC乗車カード「SUGOCA」の利用エリアに含まれている。なお、「福岡・佐賀・大分・熊本エリア」に含まれる鳥栖駅 - 佐賀駅間と「長崎エリア」に含まれる諫早駅 - <a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>間を跨っての利用はできない。<br />
+<br />
+=== 九州新幹線長崎（西九州）ルートについて ===<br />
+<br />
+現在、九州新幹線長崎（西九州）ルートが建設中であり、<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E6%9C%AC%E7%B7%9A">長崎本線</a>の肥前山口 - 長崎間が並行在来線として指定されている。並行在来線は新幹線開業時にJRから経営分離してもよいことになっており、JR九州も経営分離する方針であった。経営分離後は佐賀・長崎両県による第三セクター方式の経営が計画されていたが、経営分離に際し沿線自治体（鹿島市・<a href="http://localhost/keyword/%E6%B1%9F%E5%8C%97%E7%94%BA">江北町</a>）の同意が得られず着工の目処がたたなかったため、JR九州および両県は経営分離を断念することを発表した。<br />
+<br />
+=== 路線データ ===<br />
+*管轄・路線距離（営業キロ）：<br />
+**九州旅客鉄道（第一種鉄道事業者）：<br />
+***鳥栖駅 - 肥前山口駅 - 諫早駅 - 喜々津駅 - 市布駅 - 浦上駅 - <a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>間 125.3km<br />
+***喜々津駅 - 長与駅 - 浦上駅間 23.5km<br />
+**日本貨物鉄道（第二種鉄道事業者）：<br />
+***鳥栖駅 - 肥前山口駅 - 諫早駅 - 喜々津駅 - 市布駅 - 浦上駅 - <a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>間 (125.3km)（貨物列車の運転は鍋島まで）<br />
+*軌間：1067mm<br />
+*駅数：42（起終点駅・臨時駅含む）<br />
+** <a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E6%9C%AC%E7%B7%9A">長崎本線</a>所属駅に限定した場合、鹿児島本線所属の鳥栖駅『停車場変遷大事典 国鉄・JR編』JTB、1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a>。ISBN 978-4-533-02980-6。が除外され、41駅となる。なお、JR九州公式サイトの会社案内の「交通・営業データ」では、20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>6月1日時点のデータで39駅と記載されている[http://www.jrkyushu.co.jp/profile/outline/data.jsp KYUSHU RAILWAY COMPANY 2014-2015 会社案内] - 九州旅客鉄道。<br />
+*信号場数：3<br />
+*複線区間：<br />
+**鳥栖駅 - 肥前山口駅間<br />
+**諫早駅 - 喜々津駅間<br />
+**浦上駅 - <a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>間<br />
+*電化区間：鳥栖駅 - 諫早駅 - 喜々津駅 - 市布駅 - 浦上駅 - <a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>間（交流20,000V・60Hz）<br />
+*閉塞方式：自動閉塞式<br />
+*保安装置：ATS-SK、ATS-DK（全線）<br />
+*運転指令所：博多総合指令センター<br />
+*最高速度：<br />
+**130km/h（鳥栖駅 - 肥前山口駅間、諫早駅 - <a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>間）<br />
+**120km/h（肥前山口駅 - 諫早駅間）<br />
+**95km/h（喜々津駅 - 長与駅 - 浦上駅間）<br />
+<br />
+鳥栖駅 - 肥前<a href="http://localhost/keyword/%E5%A4%A7%E6%B5%A6%E9%A7%85">大浦駅</a>間がJR九州本社鉄道事業本部、土井崎信号場 - <a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>間と長与駅経由の旧線が同社長崎支社の管轄となっており、佐賀県と長崎県の県境付近（肥前<a href="http://localhost/keyword/%E5%A4%A7%E6%B5%A6%E9%A7%85">大浦駅</a> - 土井崎信号場間）に本社と支社の境界がある。<br />
+<br />
+== 運行形態 ==<br />
+}<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+|喜々津駅|}}<br />
+<br />
+<br />
+<br />
+|}}<br />
+<br />
+|東園駅|}}<br />
+|大草駅|}}<br />
+<br />
+|本川内駅|}}<br />
+|長与駅|}}<br />
+|高田駅|}}<br />
+|道ノ尾駅|}}<br />
+|西浦上駅|}}<br />
+|}}<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+|浦上駅|長崎電気軌道}}<br />
+<br />
+<br />
+<br />
+<br />
+----<br />
+<br />
+|}<br />
+|}<br />
+=== 優等列車 ===<br />
+鳥栖駅 - 市布駅 - <a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>間に、博多駅 - <a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>間の特急「かもめ」が25往復（他に区間運転の列車あり）、鳥栖駅 - 肥前山口駅間に、佐世保線に直通する博多駅 - 佐世保駅間の特急「みどり」が16往復（一部は<a href="http://localhost/keyword/%E5%A4%A7%E6%9D%91%E7%B7%9A">大村線</a>ハウステンボス駅発着の特急「ハウステンボス」を併結）運行されている。博多駅 - 佐賀駅間では、「かもめ」1 - 2本と「みどり」1本を合わせて1時間に2 - 3本の特急が利用可能である（「かもめ」が1時間に2本運行される場合、そのうち1本は肥前山口駅を通過する）。市布駅経由の新線が開業した1<a href="http://localhost/keyword/972%E5%B9%B4">972年</a>以降、諫早駅 - <a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>間はすべて新線経由で運転されている。<br />
+<br />
+20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>3月12日の九州新幹線鹿児島ルートの全線開業により、鹿児島本線系統の特急列車が一部の「有明」を除いて廃止された。この結果、博多駅 - 鳥栖駅間のダイヤに余裕が生じたため、改正前の783系使用列車で行われていた「かもめ」と「みどり」の併結運転廃止と787系への置き換え（一部）が実施された。<br />
+<br />
+==== 過去の優等列車 ====<br />
+<br />
+2000年代までは、夜行列車としては東京駅 - <a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>間の寝台特急「さくら」・京都駅 - <a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>間の寝台特急「あかつき」が運転されていたが、「さくら」は200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>3月1日のダイヤ改正で、「あかつき」は200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>3月15日のダイヤ改正で廃止され、夜行列車や本州直通優等列車の運転はなくなった。<br />
+<br />
+なお、JR初期や国鉄時代までさかのぼると、関門トンネルが開通した1<a href="http://localhost/keyword/942%E5%B9%B4">942年</a>から東京駅 - <a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>間に特急・急行列車が運行されていた。初例としては、特急列車「富士」が1<a href="http://localhost/keyword/942%E5%B9%B4">942年</a>から1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a>まで運行された。この列車は上海航路への接続列車として<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>から長崎港駅まで1駅延長運転された。ただし、この列車以前にも上海航路への接続列車として<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>から長崎港駅まで1駅延長運転されたものもあった。<br />
+<br />
+戦後の東京・関西方面 - <a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>間の列車としては「さくら」「あかつき」のほか、1<a href="http://localhost/keyword/950%E5%B9%B4">950年</a>代から急行列車として「雲仙」・「西海」（-19<a href="http://localhost/keyword/80%E5%B9%B4">80年</a>）、特急列車として「かもめ」（1<a href="http://localhost/keyword/961%E5%B9%B4">961年</a> - 1<a href="http://localhost/keyword/975%E5%B9%B4">975年</a>、京都駅 - <a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>間の運転）、「はやぶさ」（1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a> - 1<a href="http://localhost/keyword/975%E5%B9%B4">975年</a>）、「みずほ」（1<a href="http://localhost/keyword/975%E5%B9%B4">975年</a> - 1<a href="http://localhost/keyword/994%E5%B9%B4">994年</a>）があった。<br />
+<br />
+また、博多駅 - <a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>間には急行「ふたば」・「ながさき」・「出島」が運行されていた。それらの一部には佐世保駅発着の列車を連結しているものもあった。また、佐世保線・<a href="http://localhost/keyword/%E5%A4%A7%E6%9D%91%E7%B7%9A">大村線</a>経由で運行される列車があり、早岐駅から佐世保駅まで区間運行の列車が接続するダイヤが組まれていた。<br />
+<br />
+=== 地域輸送 ===<br />
+<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E6%9C%AC%E7%B7%9A">長崎本線</a>内の普通列車は、諫早から<a href="http://localhost/keyword/%E5%A4%A7%E6%9D%91%E7%B7%9A">大村線</a>に直通する気動車快速「シーサイドライナー」をのぞき、各駅停車で運行される。鹿児島本線内で快速運転を行う列車が<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E6%9C%AC%E7%B7%9A">長崎本線</a>に直通運転する場合も基本的には同様であるが、毎年ゴールデンウィーク期間に運転される臨時快速「有田<a href="http://localhost/keyword/%E9%99%B6%E5%99%A8%E5%B8%82">陶器市</a>号」の場合のみ、<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E6%9C%AC%E7%B7%9A">長崎本線</a>内でも快速運転を行う。「有田<a href="http://localhost/keyword/%E9%99%B6%E5%99%A8%E5%B8%82">陶器市</a>号」の線内の停車駅は通常この区間を運行する特急列車に準ずる。また、佐賀インターナショナルバルーン<a href="http://localhost/keyword/%E3%83%95%E3%82%A7%E3%82%B9">フェス</a>タ開催時は、普通列車に加えて臨時快速「バルーン<a href="http://localhost/keyword/%E3%83%95%E3%82%A7%E3%82%B9">フェス</a>タ号」が鳥栖方面 - 肥前山口駅間に運転されることがある。「バルーン<a href="http://localhost/keyword/%E3%83%95%E3%82%A7%E3%82%B9">フェス</a>タ号」は肥前麓駅・伊賀屋駅・鍋島駅をのぞく各駅に停車する。<br />
+<br />
+鳥栖駅 - 肥前山口駅間では、普通列車は1時間あたり1 - 2本程度運転される。全区間を通して運転される列車が上下各6本（このうち1本は土曜・休日のみ鳥栖で列車番号を変えて博多まで直通）あるほか、鳥栖駅 - 佐賀駅・肥前山口駅・肥前鹿島駅・多良駅間などの区間列車や鳥栖方面から佐世保線に直通する列車もある。朝には肥前大浦発鹿児島本線門司港行き列車の運転もあるほか、夕方以降には鹿児島本線門司港駅から<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E6%9C%AC%E7%B7%9A">長崎本線</a>へ直通する列車も存在する。また、肥前山口駅で長崎方面と佐世保方面へ分かれる多層建て普通列車も1往復設定されている。<br />
+<br />
+諫早駅 - <a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>間を走る普通列車は、新旧線それぞれ1時間あたり1 - 2本程度運転されており、新線は電車による列車（大半は鳥栖方面直通または諫早行き。一部気動車による運転もある）、旧線は<a href="http://localhost/keyword/%E5%A4%A7%E6%9D%91%E7%B7%9A">大村線</a>との直通列車などの気動車列車が経由する（喜々津駅・長与駅発着の区間列車もある）。<a href="http://localhost/keyword/%E5%A4%A7%E6%9D%91%E7%B7%9A">大村線</a>の快速「シーサイドライナー」は新線を通る。シーサイドライナーも夜間の佐世保行き2本（<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>を20時と21時12分に発車する列車）は諫早駅まで各駅停車となるため、この2本は普通列車を補完する役割も果たしている。<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E6%9C%AC%E7%B7%9A">長崎本線</a>内におけるシーサイドライナーの標準停車駅は諫早駅・喜々津駅・浦上駅・<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>のみである（前記の<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a> - 諫早駅間各駅停車の2本のほか、朝夕には西諫早駅や現川駅にも停車する列車もある）。基本的に毎日同じダイヤで運行されるが、長与駅発着の1往復は土曜・休日運休となる。<br />
+<br />
+肥前<a href="http://localhost/keyword/%E5%A4%A7%E6%B5%A6%E9%A7%85">大浦駅</a> - 小長井駅間は県境を挟んでおり、1日あたり下り9本、上り10本の閑散区間である（並行する長崎県交通局の路線バスのほうが本数が多い）。朝のラッシュが終わると、普通列車は昼まで4 - 5時間ほど運転されない。この区間を走る列車は下りは<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>（市布経由）まで、上りは鳥栖駅まで直通するものが多いが、諫早駅・肥前山口駅発着の区間列車も一部設定されている。<br />
+<br />
+全線でワンマン運転を実施している。新線では817系電車が、旧線ではキハ66・67・200形気動車が使用されている。ただし、ラッシュ時に415系電車や813系電車など3両編成以上の車両を使用するときは車掌も乗務する。<br />
+<br />
+鳥栖駅 - 肥前山口駅間・諫早駅 - （市布駅） - <a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>間および喜々津駅 - （長与駅） - 浦上駅間で運転されているワンマン運転の普通列車（2両編成）は、200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>3月17日まで無人駅および有人駅での営業時間外の停車時に関しては、前の車両のドアのみ開き（中扉は開かず・後ろ乗り前降り）、乗車時には<a href="http://localhost/keyword/%E6%95%B4%E7%90%86%E5%88%B8">整理券</a>を取り、下車時に<a href="http://localhost/keyword/%E4%B9%97%E8%BB%8A%E5%88%B8">乗車券</a>・運賃とともに運転士に渡す必要があったが、200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>3月18日のダイヤ改正後より、この3つの区間ではすべての駅で列車のホーム側のすべてのドアから乗り降りできるようになった。<br />
+<br />
+=== 貨物列車 ===<br />
+鳥栖駅 - 鍋島駅間で貨物列車が運行されている。<br />
+<br />
+コンテナ車で編成された高速貨物列車が、鳥栖貨物ターミナル方面 - 鍋島間に1日2往復運行されている。20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>時点では、上り列車はそれぞれ東京貨物ターミナル駅・百済貨物ターミナル駅まで直通している。牽引機関車は、ED76形およびEF81形電気機関車。さらに農産物流通のピークである5 - 7月は、ED76形牽引の臨時高速貨物列車が1往復増便される。<br />
+<br />
+線内の貨物列車の発着駅は、鍋島駅のみ。日本貨物鉄道（JR貨物）の第二種鉄道事業区間である鍋島駅 - <a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>間では、貨物列車は運行されていない。<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>はオフレールステーションの扱いで、コンテナを積載したトラックが鍋島駅との間を結んでいる。<br />
+<br />
+== 使用車両 ==<br />
+車種はキハとあるのは気動車、他は特記なければ電車。<br />
+<br />
+特急列車<br />
+*783系（「かもめ」・「みどり」・「ハウステンボス」 「かもめ」は佐賀発着のみ、南福岡車両区所属車）<br />
+*787系（「かもめ」・「みどり」、南福岡車両区所属車）<br />
+*885系（「かもめ」、南福岡車両区所属車）<br />
+20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>3月12日の九州新幹線鹿児島ルート全線開通に伴うダイヤ改正で、鹿児島本線 博多 - 新八代間で使用されていた特急「リレーつばめ」が運行廃止になったことに伴い、当線で使用されている783系の<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>乗り入れを廃止し、新たに787系で運行している。なお、787系は過去に一部の「かもめ」で使用していたことがあり、改正前も臨時列車でまれに運用されていた。<br />
+<br />
+普通・快速列車<br />
+*811系（鳥栖 - 肥前大浦間のみ、南福岡車両区所属車）<br />
+*813系（鳥栖 - 肥前大浦間のみ、南福岡車両区所属車）<br />
+*817系（ワンマン運転対応。ラッシュ時間帯は2 - 3編成つないで4 - 6両で運転、佐世保車両センター所属車）<br />
+*415系（南福岡車両区所属車）<br />
+*キハ66・67形（シーサイドライナーなど。<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E6%9C%AC%E7%B7%9A">長崎本線</a>では諫早 - 長崎間のみ、佐世保車両センター所属車）<br />
+*キハ200・220形（シーサイドライナーなど。<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E6%9C%AC%E7%B7%9A">長崎本線</a>では諫早 - 長崎間のみ、佐世保車両センター所属車）<br />
+*キハ47形（唐津線へ直通運転している佐賀 - 久保田間のみ、唐津運輸センター所属車）<br />
+*キハ125形（唐津線へ直通運転している佐賀 - 久保田間のみ、唐津運輸センター所属車）<br />
+<br />
+== 歴史 ==<br />
+<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>の線路終端<br />
+原爆の被害を受けた<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E6%9C%AC%E7%B7%9A">長崎本線</a>（1<a href="http://localhost/keyword/946%E5%B9%B4">946年</a>）<br />
+<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E6%9C%AC%E7%B7%9A">長崎本線</a>は、九州鉄道の手により現在の佐世保線・<a href="http://localhost/keyword/%E5%A4%A7%E6%9D%91%E7%B7%9A">大村線</a>のルートで建設された。鳥栖 - 早岐間と長与 - 長崎間が開業した1<a href="http://localhost/keyword/897%E5%B9%B4">897年</a>より全通するまでの約1年間は、大村湾に連絡船を開設して暫定的な連絡機関としていた。<br />
+<br />
+190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>の国有化を経て、現在のルート（有明線）が<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E6%9C%AC%E7%B7%9A">長崎本線</a>となったのは1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>のことである。旧<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E6%9C%AC%E7%B7%9A">長崎本線</a>（佐世保線・<a href="http://localhost/keyword/%E5%A4%A7%E6%9D%91%E7%B7%9A">大村線</a>ルート）は佐世保市・大村市といった長崎県内の各都市を結ぶ役割を果たす一方で、大回りとなるため福岡・佐賀方面と長崎市街との往来には長い時間が必要であった。このため、佐世保線・<a href="http://localhost/keyword/%E5%A4%A7%E6%9D%91%E7%B7%9A">大村線</a>ルートの短絡線として肥前山口 - 肥前鹿島 - 諫早（有明線）が建設され、<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E6%9C%AC%E7%B7%9A">長崎本線</a>に編入された。旧<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E6%9C%AC%E7%B7%9A">長崎本線</a>区間は佐世保線・<a href="http://localhost/keyword/%E5%A4%A7%E6%9D%91%E7%B7%9A">大村線</a>へと分離された。有明線は改正鉄道敷設法別表114号に「佐賀県肥前山口附近ヨリ鹿島ヲ経テ長崎県諌早ニ至ル鉄道」として規定されていた。<br />
+<br />
+1<a href="http://localhost/keyword/972%E5%B9%B4">972年</a>、諫早 - 長崎間にも短絡線が建設されたが、旧線・新線共に<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E6%9C%AC%E7%B7%9A">長崎本線</a>として運行されている。市布経由の新線は改正鉄道敷設法別表114号の2に「長崎県喜々津ヨリ矢上ヲ経テ浦上ニ至ル鉄道」として規定され、日本鉄道建設公団（鉄建公団）が主要幹線（C線）の&#39;浦上線&#39;（うらかみせん）として計画・建設した。<br />
+<br />
+また、長崎港出島埠頭に発着する上海航路との連絡のため、1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>に<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a>から長崎港駅までの1.1kmが延伸された。太平洋戦争の激化（1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a>頃）により上海航路が廃止された影響で、1<a href="http://localhost/keyword/946%E5%B9%B4">946年</a>以降は貨物線として使われていた。正式に廃止されたのは1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a>11月14日『新長崎市史　第四巻現代編』 長崎市史編さん委員会、長崎市、20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>3月、p.422『鉄輪の轟き　九州の鉄道<a href="http://localhost/keyword/100%E5%B9%B4">100年</a>記念誌』川崎孝夫、九州旅客鉄道、19<a href="http://localhost/keyword/89%E5%B9%B4">89年</a>10月、p.226である。跡地は遊歩道や公園として整備されている。<br />
+<br />
+=== 年表 ===<br />
+==== 九州鉄道 - 有明線編入前 ====<br />
+*1<a href="http://localhost/keyword/891%E5%B9%B4">891年</a>（明治<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）8月20日 【開業】&#39;九州鉄道佐賀線&#39; 鳥栖 - 佐賀 【駅新設】中原、神崎、佐賀<br />
+*1<a href="http://localhost/keyword/895%E5%B9%B4">895年</a>（明治2<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）5月5日 【延伸開業】佐賀 - 山口 - *武雄 【駅新設】牛津、山口、*北方、*武雄<br />
+*1<a href="http://localhost/keyword/896%E5%B9%B4">896年</a>（明治<a href="http://localhost/keyword/29%E5%B9%B4">29年</a>）10月10日 【駅新設】久保田<br />
+*1<a href="http://localhost/keyword/897%E5%B9%B4">897年</a>（明治<a href="http://localhost/keyword/30%E5%B9%B4">30年</a>）<br />
+**7月10日 【延伸開業】*武雄 - *早岐 【駅新設】*三間坂、*有田、*三河内、*早岐<br />
+**7月22日 【開業】長与 - 長崎（現在の浦上） 【駅新設】長与、道ノ尾、長崎（初代）<br />
+*1<a href="http://localhost/keyword/898%E5%B9%B4">898年</a>（明治<a href="http://localhost/keyword/31%E5%B9%B4">31年</a>）<br />
+**1月20日 【延伸開業】*早岐 - *大村 【駅新設】*南風崎、*川棚、*彼杵、*松原、*大村<br />
+**10月1日 【駅新設】*（貨）中樽<br />
+**11月27日 【延伸開業】*大村 - 諫早 - 長与（鳥栖 - 早岐 - 長崎間が開通） 【駅新設】諫早、喜々津、大草<br />
+*1<a href="http://localhost/keyword/905%E5%B9%B4">905年</a>（明治<a href="http://localhost/keyword/38%E5%B9%B4">38年</a>）4月5日 【延伸開業】浦上 - 長崎（2代） 【駅新設】長崎（2代） 【駅名改称】長崎（初代）→浦上<br />
+*190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（明治40年）<br />
+**7月1日 【買収・国有化】九州鉄道→官設鉄道<br />
+**11月1日 【駅名改称】神崎→神埼<br />
+*1<a href="http://localhost/keyword/909%E5%B9%B4">909年</a>（明治<a href="http://localhost/keyword/42%E5%B9%B4">42年</a>）<br />
+**5月1日 【貨物駅→一般駅・駅名改称】*中樽→上有田<br />
+**10月12日 【国有鉄道線路名称制定】&#39;<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E6%9C%AC%E7%B7%9A">長崎本線</a>&#39; 鳥栖 - 早岐 - 長崎<br />
+*1<a href="http://localhost/keyword/913%E5%B9%B4">913年</a>（大正<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）3月1日 【駅名改称】山口→肥前山口（同年2月20日に山口県国鉄山口駅開業のため）<br />
+*1<a href="http://localhost/keyword/919%E5%B9%B4">919年</a>（大正<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）12月1日 【信号所新設】*大町<br />
+*1<a href="http://localhost/keyword/922%E5%B9%B4">922年</a>（大正<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）<br />
+**4月1日 【信号所→信号場】*大町<br />
+**5月25日 【駅新設】*竹松<br />
+*1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>（大正<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）8月21日 【駅新設】*高橋<br />
+*1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>（大正<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）10月1日 【信号場新設】鍋島<br />
+*1<a href="http://localhost/keyword/927%E5%B9%B4">927年</a>（昭和<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）3月26日 【仮乗降場新設】目達原<br />
+*1<a href="http://localhost/keyword/928%E5%B9%B4">928年</a>（昭和3年）<br />
+**9月1日 【信号場→駅】*大町<br />
+**12月1日 【駅新設】伊賀屋<br />
+*1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>（昭和<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）<br />
+**3月19日 【延伸開業】長崎 - 長崎港<br />
+**7月7日 【信号場→駅】鍋島<br />
+<br />
+*が付いている駅は、のちに路線分離により<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E6%9C%AC%E7%B7%9A">長崎本線</a>の駅ではなくなった駅。<br />
+<br />
+==== 有明線 ====<br />
+*1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>（昭和<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）<br />
+**3月9日【開業】&#39;有明線&#39; 肥前山口 - 肥前竜王 【駅新設】福治、肥前竜王<br />
+**11月30日 【延伸開業】有明線 肥前竜王 - 肥前浜 【駅新設】肥前鹿島、肥前浜<br />
+*1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>（昭和<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）<br />
+**3月24日 【開業】&#39;有明西線&#39; 諫早 - 湯江 【駅新設】東諌早、肥前長田、小江、湯江 【線名改称】有明線→&#39;有明東線&#39;<br />
+**4月16日 【延伸開業】有明西線 肥前浜 - 多良 【駅新設】肥前七浦、肥前飯田、多良<br />
+**12月1日 【延伸開業】記念スタンプ[ 「逓信省告示第3018号」『官報』1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>11月29日]（国立国会図書館デジタルコレクション）多良 - 湯江（<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E6%9C%AC%E7%B7%9A">長崎本線</a>に編入） 【駅新設】小長井、肥前大浦<br />
+<br />
+==== 有明線編入後 ====<br />
+* 1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>（昭和<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）12月1日 【路線分離】佐世保線 肥前山口 - 早岐、<a href="http://localhost/keyword/%E5%A4%A7%E6%9D%91%E7%B7%9A">大村線</a> 早岐 - 諫早 【路線編入】肥前山口 - 諫早<br />
+* 1<a href="http://localhost/keyword/940%E5%B9%B4">940年</a>（昭和<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）4月1日 【駅名改称】福治→肥前白石<br />
+* 1<a href="http://localhost/keyword/942%E5%B9%B4">942年</a>（昭和<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）9月30日 【信号場新設】肥前麓、三田川<br />
+* 1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a>（昭和<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）<br />
+** 10月1日 【信号場新設】本川内<br />
+** 12月1日 【信号場→駅】三田川 【仮乗降場廃止】目達原<br />
+* 1<a href="http://localhost/keyword/945%E5%B9%B4">945年</a>（昭和<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）5月1日 【駅名改称】神埼→肥前神埼<br />
+* 1<a href="http://localhost/keyword/947%E5%B9%B4">947年</a>（昭和<a href="http://localhost/keyword/22%E5%B9%B4">22年</a>）3月1日 【信号場→駅】肥前麓<br />
+* 1<a href="http://localhost/keyword/952%E5%B9%B4">952年</a>（昭和<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）6月1日 【信号場→駅】本川内<br />
+** 7月5日 【仮停車場新設】横島<br />
+* 1<a href="http://localhost/keyword/956%E5%B9%B4">956年</a>（昭和<a href="http://localhost/keyword/31%E5%B9%B4">31年</a>）4月10日 【駅名改称】肥前神埼→神埼<br />
+* 1<a href="http://localhost/keyword/961%E5%B9%B4">961年</a>（昭和<a href="http://localhost/keyword/36%E5%B9%B4">36年</a>）10月1日 【信号場新設】東園<br />
+* 1<a href="http://localhost/keyword/965%E5%B9%B4">965年</a>（昭和40年）9月26日 【複線化】佐賀 - 鍋島<br />
+* 1<a href="http://localhost/keyword/966%E5%B9%B4">966年</a>（昭和<a href="http://localhost/keyword/41%E5%B9%B4">41年</a>）<br />
+** 3月26日 【複線化】肥前麓 - 中原<br />
+** 9月24日 【複線化】鍋島 - 久保田<br />
+** 9月28日 【複線化】中原 - 三田川<br />
+** 10月1日 【信号場→駅】東園<br />
+* 1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>（昭和<a href="http://localhost/keyword/43%E5%B9%B4">43年</a>）<br />
+** 8月6日 【複線化】久保田 - 牛津<br />
+** 9月3日 【複線化】伊賀屋 - 佐賀<br />
+** 9月22日 【複線化】三田川 - 神埼<br />
+** 9月26日 【複線化】鳥栖 - 肥前麓<br />
+** 9月28日 【複線化】神埼 - 伊賀屋<br />
+* 19<a href="http://localhost/keyword/69%E5%B9%B4">69年</a>（昭和<a href="http://localhost/keyword/44%E5%B9%B4">44年</a>）<br />
+** 4月25日 【信号場新設】里<br />
+** 7月1日 【仮停車場廃止】横島<br />
+** 9月25日 【複線化】牛津 - 肥前山口<br />
+** 9月27日 【複線化】諫早 - 喜々津<br />
+* 1<a href="http://localhost/keyword/972%E5%B9%B4">972年</a>（昭和<a href="http://localhost/keyword/47%E5%B9%B4">47年</a>）10月2日 【開業】喜々津 - 市布 - 浦上（特急・急行列車などを新線経由に変更） 【駅新設】市布、肥前古賀、現川、肥前三川（信号場）<br />
+* 19<a href="http://localhost/keyword/76%E5%B9%B4">76年</a>（昭和<a href="http://localhost/keyword/51%E5%B9%B4">51年</a>）<br />
+** 6月1日 【信号場新設】土井崎<br />
+** 6月6日 【電化】鳥栖 - 市布 - 長崎<br />
+* 1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a>（昭和<a href="http://localhost/keyword/57%E5%B9%B4">57年</a>）<br />
+** 11月14日 【路線廃止】長崎 - 長崎港<br />
+* 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>（昭和<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>）3月14日 【駅新設】西諌早<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）<br />
+** 3月9日 【臨時乗降場新設】西浦上<br />
+==== 民営化以後 ====<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）<br />
+** 4月1日 【承継】九州旅客鉄道（第1種）、日本貨物鉄道（第2種） 【臨時乗降場→駅】西浦上<br />
+* 19<a href="http://localhost/keyword/89%E5%B9%B4">89年</a>（平成元年）11月18日 【臨時駅新設】バルーンさが<br />
+* 19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>（平成<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）3月10日 【複線化】浦上 - 長崎 【駅新設】長里<br />
+* 19<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>（平成<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）10月1日 【駅名改称】三田川→吉野ケ里公園<br />
+* 1<a href="http://localhost/keyword/994%E5%B9%B4">994年</a>（平成<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）3月1日 【駅新設】高田<br />
+* 19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>（平成<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）7月1日 【貨物列車廃止】鍋島 - 長崎<br />
+* 200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>（平成<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）3月23日 【ワンマン運転開始】全線<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）3月12日 【駅新設】新鳥栖<br />
+<br />
+== 駅一覧 ==<br />
+* （臨）：臨時駅、◆・■：貨物取扱駅（■はオフレールステーション）<br />
+* 線路 … ∥：複線区間、◇・｜：単線区間（◇は列車交換可能）、∨：ここより下は単線、∧：ここより下は複線<br />
+<br />
+=== 新線経由（市布経由） ===<br />
+* 全区間交流電化<br />
+* 停車駅<br />
+** 普通…すべての旅客駅に停車<br />
+** 快速（シーサイドライナー）…●印の駅は全列車停車、▲印の駅は一部の列車が停車、｜印の駅は通過。諫早駅から<a href="http://localhost/keyword/%E5%A4%A7%E6%9D%91%E7%B7%9A">大村線</a>へ直通<br />
+** 特急（かもめ・みどり・ハウステンボス）…各列車記事参照<br />
+<br />
+<br />
+<br />
+* 中原駅 - 吉野ケ里公園駅間で三養基郡上峰町を通過するが、駅はない。<br />
+<br />
+=== 旧線（長与経由） ===<br />
+* 全区間非電化<br />
+* 全列車普通列車（すべての駅に停車）<br />
+* 全駅長崎県内に所在<br />
+<br />
+<br />
+<br />
+=== 廃止区間 ===<br />
+<a href="http://localhost/keyword/%E9%95%B7%E5%B4%8E%E9%A7%85">長崎駅</a> - 長崎港駅（1.1km。1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a>11月14日廃止）<br />
+<br />
+=== 過去の接続路線 ===<br />
+* 佐賀駅：<br />
+** 佐賀電気軌道（神野停留所：直接連絡ではなく、バスを介した接続であった） - 1<a href="http://localhost/keyword/937%E5%B9%B4">937年</a>8月20日廃止<br />
+** 佐賀線 - 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>3月28日廃止<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 参考文献 ==<br />
+* 川島令三編著『四国・九州ライン - 全線・全駅・全配線』5 長崎・佐賀エリア、講談社、20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>。ISBN 978-4-06-295164-7。<br />
+<br />
+== 関連項目 ==<br />
+<br />
+*日本の鉄道路線一覧<br />
+*ボート・トレイン<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+*<br />
+Category:九州地方の鉄道路線<br />
+路なかさきほん<br />
+Category:日本国有鉄道の鉄道路線<br />
+Category:九州旅客鉄道の鉄道路線<br />
+Category:佐賀県の交通<br />
+Category:長崎県の交通<br />

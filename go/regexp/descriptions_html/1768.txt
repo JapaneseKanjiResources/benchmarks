@@ -1,0 +1,144 @@
+description<br />
+<br />
+|緯度度 = 34 | 緯度分 = 42 | 緯度秒 = 59.25<br />
+|経度度 = <a href="http://localhost/keyword/135">135</a> |経度分 = 25 | 経度秒 = 33.68<br />
+|開業年月日= 1<a href="http://localhost/keyword/905%E5%B9%B4">905年</a>（明治<a href="http://localhost/keyword/38%E5%B9%B4">38年</a>）4月12日<br />
+|駅構造 = 高架駅<br />
+|ホーム = 3面4線<br />
+|廃止年月日=<br />
+|乗車人員 =<br />
+|乗降人員 = 9,690<br />
+|統計年度 = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|乗入路線数= 2<br />
+|所属路線1 = 本線<br />
+|前の駅1 = HS 07 杭瀬<br />
+|駅間A1 = 1.2<br />
+|駅間B1 = 0.9<br />
+|次の駅1 = 尼崎 HS 09<br />
+|駅番号1 =<br />
+|キロ程1 = 8.0<br />
+|起点駅1 = 梅田<br />
+|所属路線2 = 阪神なんば線<br />
+|前の駅2 = HS 09 尼崎<br />
+|駅間A2 = 0.9<br />
+|駅間B2 = 1.4<br />
+|次の駅2 = 出来島 HS 49<br />
+|駅番号2 =<br />
+|キロ程2 = 0.9<br />
+|起点駅2 = 尼崎<br />
+|備考 =<br />
+}}<br />
+ホーム<br />
+<a href="http://localhost/keyword/%E5%A4%A7%E7%89%A9%E9%A7%85">大物駅</a>東側高架橋（200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>5月24日）本線（手前）と西大阪線（奥）は<a href="http://localhost/keyword/%E5%B0%BC%E5%B4%8E%E9%A7%85">尼崎駅</a>から当駅まで並走し、当駅で分岐する。<br />
+&#39;<a href="http://localhost/keyword/%E5%A4%A7%E7%89%A9%E9%A7%85">大物駅</a>&#39;（だいもつえき）は、兵庫県尼崎市大物町にある、阪神電気鉄道の駅。駅番号は&#39;HS 08&#39;。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/905%E5%B9%B4">905年</a>（明治<a href="http://localhost/keyword/38%E5%B9%B4">38年</a>）4月12日 - 阪神本線の開業と同時に開業。<br />
+* 1<a href="http://localhost/keyword/924%E5%B9%B4">924年</a>（大正<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）1月20日 - 伝法線（現在の阪神なんば線）開業。<br />
+* 1<a href="http://localhost/keyword/964%E5%B9%B4">964年</a>（昭和<a href="http://localhost/keyword/39%E5%B9%B4">39年</a>）5月20日 - 伝法線が西大阪線に改称。<br />
+* 1<a href="http://localhost/keyword/978%E5%B9%B4">978年</a>（昭和<a href="http://localhost/keyword/53%E5%B9%B4">53年</a>）3月26日 - 高架化。<br />
+* 2003年（平成<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）7月26日 - <a href="http://localhost/keyword/%E5%B0%BC%E5%B4%8E%E9%A7%85">尼崎駅</a>改良工事に伴い西大阪線の<a href="http://localhost/keyword/%E5%B0%BC%E5%B4%8E%E9%A7%85">尼崎駅</a> - 当駅間が単線となる。<br />
+* 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>（平成<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）12月20日 - <a href="http://localhost/keyword/%E5%B0%BC%E5%B4%8E%E9%A7%85">尼崎駅</a>改良工事進捗に伴い西大阪線の<a href="http://localhost/keyword/%E5%B0%BC%E5%B4%8E%E9%A7%85">尼崎駅</a> - 当駅間が複線に復帰。<br />
+* 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>（平成<a href="http://localhost/keyword/21%E5%B9%B4">21年</a>）3月20日 - 西大阪線が阪神なんば線に改称。<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）3月20日 - 阪神なんば線への改称以来実施されてきた平日日中における同線直通快速急行の停車を取りやめ（当駅 - 千鳥橋駅間各駅共通　その代替として西隣の<a href="http://localhost/keyword/%E5%B0%BC%E5%B4%8E%E9%A7%85">尼崎駅</a>発着の区間準急を大阪難波発着から延長）[http://www.hanshin.co.jp/company/press/pdf/20120120-11.pdf 3月20日（火・祝）全線でダイヤ改正] - 阪神電気鉄道プレスリリース 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>1月20日。<br />
+* 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>（平成<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>）4月1日 - 駅番号導入。<br />
+<br />
+== 利用可能な鉄道路線 ==<br />
+* 阪神電気鉄道<br />
+** 本線<br />
+** 阪神なんば線<br />
+*: ※当駅 - <a href="http://localhost/keyword/%E5%B0%BC%E5%B4%8E%E9%A7%85">尼崎駅</a>間は両線の並立区間（二重戸籍）という扱いである。<br />
+<br />
+== 駅構造 ==<br />
+島式ホームの外側に相対式ホームを持つ3面4線の高架駅である。阪神なんば線は、尼崎側に尼崎車庫への分岐点があるため、停留所ではないのに対して、本線は分岐器や絶対信号機を持たないため、停留所に分類される。改札口・コンコースは2階、ホームは3階にある。改札口は1か所のみ。本線ホームはやや<a href="http://localhost/keyword/%E3%82%AB%E3%83%BC%E3%83%96">カーブ</a>している。<br />
+<br />
+<br />
+<br />
+1・2番線は本線、3・4番線は阪神なんば線のホームとなっている。2・3番線は島式ホームとなっており、梅田方面からの列車から難波・奈良方面行きへは対面乗り換えが可能。<br />
+<br />
+ホーム有効長は1番線が100メートルで、現状では阪神車両の4両編成が停車する。2 - 4番線は130メートルで、阪神の19 m 級車両および近畿日本鉄道の21 m 級車両のいずれも6両編成が停車可能である。<br />
+<br />
+<a href="http://localhost/keyword/%E5%B0%BC%E5%B4%8E%E9%A7%85">尼崎駅</a>改良工事に伴う同駅までの西大阪線（現・阪神なんば線）一時単線化により、上り線のみを使用した期間（2003年7月26日 - 200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>3月26日、200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>2月2日 - 同年12月19日）は、西大阪線の上下列車はいずれも3番線に発着していた。<br />
+<br />
+駅が<a href="http://localhost/keyword/%E3%82%AB%E3%83%BC%E3%83%96">カーブ</a>していて、線路にカントが付いており、電車とホームの隙間もかなり広い箇所がある。本線では通過速度が105 km/h に制限されている。<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+ 19頁|note=右上は尼崎車庫への連絡線}}<br />
+<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）度の1日平均乗降人員は&#39;9,269人&#39;である[http://www.city.amagasaki.hyogo.jp/dbps_data/_material_/_files/000/000/033/204/T08.pdf 尼崎市統計書（平成<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>）]。<br />
+<br />
+各年度の1日平均乗車・乗降人員数は下表のとおり。<br />
+<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 国道2号<br />
+* 国道43号<br />
+* 大物公園 - D51形蒸気機関車が<a href="http://localhost/keyword/%E9%9D%99%E6%85%8B%E4%BF%9D%E5%AD%98">静態保存</a>されている。<br />
+* 尼崎だいもつ病院 - 旧建物・兵庫県立尼崎病院。<br />
+* 小田南公園 - ナイター設備のある軟式野球場などがある広めの公園。休日は野球場外でも少年野球が行われる中、ジョギングやバーベ<a href="http://localhost/keyword/%E3%82%AD%E3%83%A5%E3%83%BC">キュー</a>を楽しむ者が集まり混雑することがある。<br />
+* 大物主神社<br />
+* 阪神ライディングスクール 二輪車専門教習所。<br />
+* 日鉄住金鋼板（旧・大同鋼板）西日本製造所尼崎地区<br />
+* ユニチカ記念館 - 1<a href="http://localhost/keyword/900%E5%B9%B4">900年</a>に、ニチボー（大日本紡績）の前身である尼崎紡績の本社事務所として建てられた洋館式の建物。駅の南、国道43号そばに位置。<br />
+* タカオカチョコレート - 駅南にあるチョコレート工場。<br />
+* 福知山線の南部分、通称「尼崎港支線」の線路跡が駅西側で交差している。終点の尼崎港駅は当駅から南に徒歩5分。<br />
+* 尼崎大物郵便局<br />
+* 尼崎郵便局<br />
+* マックスバリュ大物店 - 駅の高架下にある。<br />
+<br />
+=== バス路線 ===<br />
+最寄停留所は、&#39;東大物町1丁目&#39;または&#39;阪神大物&#39;となる。以下の路線が乗り入れ、阪神バス（尼崎市内線旧・尼崎市交通局）により運行されている。<br />
+* 51番：阪神杭瀬 行、JR尼崎（南） 行（東大物町1丁目にのみ停車）<br />
+* 52番：コスモ工業団地前 行、JR尼崎（南） 行<br />
+<br />
+== 駅名について ==<br />
+難読駅名といえるが、「&#39;大物&#39;」という地名そのものは、「&#39;大物浦&#39;」として『平家物語』や、能楽の『船弁慶』、歌舞伎『義経千本桜』にも登場する。<br />
+<br />
+== 隣の駅 ==<br />
+;阪神電気鉄道<br />
+:本線<br />
+::直通特急・特急・区間特急・急行・区間急行<br />
+:::&#39;通過&#39;<br />
+::普通<br />
+:::杭瀬駅 (HS 07) - &#39;<a href="http://localhost/keyword/%E5%A4%A7%E7%89%A9%E9%A7%85">大物駅</a> (HS 08)&#39; - <a href="http://localhost/keyword/%E5%B0%BC%E5%B4%8E%E9%A7%85">尼崎駅</a> (HS 09)<br />
+:阪神なんば線<br />
+::快速急行<br />
+:::&#39;通過&#39;<br />
+::準急・区間準急・普通<br />
+:::<a href="http://localhost/keyword/%E5%B0%BC%E5%B4%8E%E9%A7%85">尼崎駅</a> (HS 09) - &#39;<a href="http://localhost/keyword/%E5%A4%A7%E7%89%A9%E9%A7%85">大物駅</a> (HS 08)&#39; - 出来島駅 (HS 49)<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+* 鴫野駅（JR学研都市線）……現在おおさか東線延伸に伴い改良工事中。工事が完了すると当駅と同じような構造になる。位置づけとしても、一つ前の駅から並走してきた二つの線が当駅で分かれるという共通点を持つようになる。<br />
+* 大物崩れ<br />
+<br />
+== 外部リンク ==<br />
+* [http://rail.hanshin.co.jp/station/daimotsu.html <a href="http://localhost/keyword/%E5%A4%A7%E7%89%A9%E9%A7%85">大物駅</a>（阪神電気鉄道）]<br />
+<br />
+<br />
+<br />
+<br />
+Category:尼崎市の鉄道駅<br />
+いもつ<br />
+Category:阪神電気鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/905%E5%B9%B4">905年</a>開業の鉄道駅<br />

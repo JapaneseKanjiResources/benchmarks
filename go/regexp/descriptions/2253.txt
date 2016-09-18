@@ -1,0 +1,18 @@
+description
+'等電点'（とうでんてん、、IEP）はアニオンになる官能基とカチオンになる官能基の両方を持つ化合物において、電離後の化合物全体の電荷平均が0となるpHのこと。
+
+==アミノ酸の等電点==
+アミノ酸はアミノ基とカルボキシル基の両方を持っているので等電点がある代表的な化合物であるが、カルボキシル基を複数もつ酸性アミノ酸(アスパラギン酸及びグルタミン酸)は一般に等電点が低く、アミノ基を複数もつ塩基性アミノ酸(アルギニン、ヒスチジン及びリシン)は一般に等電点が高い。その他の中性アミノ酸の等電点はアミノ基の酸解離定数（pKa）とカルボキシル基の酸解離定数を足して2で割ると容易に算出できる。
+
+== 関連項目 ==
+*電気化学
+*イオン
+*沈殿
+*電気泳動
+
+== 外部リンク ==
+*[http://www.embl-heidelberg.de/cgi/pi-wrapper.pl EMBL WWW Gateway to Isoelectric Point Service] &mdash; calculates the pI for an input amino acid sequence.
+*[http://isoelectric.ovh.org Calculation of protein isoelectric point] &mdash; free online and offline program to calculation pI and more theoretical information about this subject
+
+とうてんてん
+とうてんてん

@@ -1,0 +1,65 @@
+description<br />
+<br />
+ 赤穂線<br />
+|キロ程 = 48.0<br />
+|起点駅 = 相生<br />
+|所在地 = 岡山県瀬戸内市邑久町大富490-2<br />
+|座標 =  <br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>（昭和<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）9月1日<br />
+|廃止年月日 =<br />
+|乗車人員 = 199<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換 =<br />
+|備考 = 無人駅（自動券売機 有）<br />
+}}<br />
+ホーム（200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>5月11日）<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E5%A4%A7%E5%AF%8C%E9%A7%85">大富駅</a>&#39;（おおどみえき）は、岡山県瀬戸内市邑久町大富にある、西日本旅客鉄道（JR西日本）赤穂線の駅。<br />
+<br />
+== 駅構造・設備 ==<br />
+単式1面1線のホームが線路南側（岡山方面に向かって左側）に設けられた地上駅（停留所）である。ICOCA利用可能駅（相互利用可能ICカードはICOCAの項を参照）で簡易自動改札が設置されている無人駅（東岡山駅管理）。<br />
+入口に簡易型自動改札機と、自動券売機1台（ICOCAチャージ機能付）が設けられている。棒線駅のため、岡山方面行きと播州赤穂方面行きの双方が同一ホームより発着する。<br />
+<br />
+== 駅周辺 ==<br />
+畑が中心で、民家が散在している。駐輪場がある。<br />
+* 瀬戸内市立今城小学校<br />
+* 瀬戸内市立今城幼稚園<br />
+* 瀬戸内市立今城保育園<br />
+* 上寺山余慶寺（国の重要文化財）<br />
+<br />
+== 利用状況 ==<br />
+1日の平均乗車人員は以下の通りである出典：岡山県統計年報。<br />
+<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>（昭和<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）9月1日 - 赤穂線の伊部 - 東岡山間延伸時に開業。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、西日本旅客鉄道へ移管。<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）7月27日 - ICOCA対応の簡易型自動改札機設置（同年9月1日よりICOCA導入）。<br />
+<br />
+== 隣の駅 ==<br />
+; 西日本旅客鉄道<br />
+:  赤穂線<br />
+:: 邑久駅 - &#39;<a href="http://localhost/keyword/%E5%A4%A7%E5%AF%8C%E9%A7%85">大富駅</a>&#39; - 西大寺駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.jr-odekake.net/eki/top.php?id=0651<a href="http://localhost/keyword/110">110</a> <a href="http://localhost/keyword/%E5%A4%A7%E5%AF%8C%E9%A7%85">大富駅</a>（JR西日本）]<br />
+<br />
+<br />
+<br />
+<br />
+Category:岡山県の鉄道駅<br />
+おとみ<br />
+Category:西日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+おおとみえき<br />
+Category:1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>開業の鉄道駅<br />

@@ -1,0 +1,38 @@
+description
+
+| birth_place =  ワシントンD.C.
+| death_date = 
+| death_place =
+| residence = 
+| nationality = 
+| field = 数学
+| work_institution = シカゴ大学プリンストン大学
+| alma_mater = メリーランド大学プリンストン大学
+| doctoral_advisor = 
+| doctoral_students = 
+| known_for = 多変数複素解析の研究
+| prizes = Alan T. Waterman Award (1976年)  フィールズ賞 (1978年)
+| religion = 
+| footnotes =
+}}
+'チャールズ・ルイス・フェファーマン'（''Charles Louis Fefferman'', 1949年4月18日 - ）は、アメリカの数学者。プリンストン大学に在職。
+
+ワシントンD.C.生まれ。15歳の時、最初の論文をドイツ語で発表し、17歳でメリーランド大学を卒業。20歳でプリンストン大学でPh.D.を取得。
+会社員を経て、22歳でシカゴ大学で正教授（米国史上最年少）に就き、24歳からプリンストン大学に在職。1978年、29歳でフィールズ賞を受賞。
+主な業績は多変数複素解析における研究。
+
+
+
+
+
+
+
+Category:アメリカ合衆国の数学者
+490418
+-490418
+Category:フィールズ賞受賞者
+Category:シカゴ大学の教員
+Category:ワシントンD.C.出身の人物
+Category:1949年生
+Category:存命人物
+Category:数学に関する記事

@@ -1,0 +1,7 @@
+description
+#CDMA（Code Division Multiple Access）符号分割多元接続のこと。
+#1.の技術を用いた移動通信システムcdmaOneおよびCDMA2000、CDMA2000 1xの略称（ただしW-CDMAは含まれない）。
+
+
+
+Category:携帯電話

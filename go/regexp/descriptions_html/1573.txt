@@ -1,0 +1,146 @@
+description<br />
+<br />
+| 所在地 = 北海道上川郡東神楽町<br />
+| 母都市 = <br />
+| 種類 = 商業<br />
+| 所有者 = <br />
+| 運営者 = 旭川市<br />
+| 運用時間 = 8:00 - 21:00<br />
+| 開港 = 1<a href="http://localhost/keyword/966%E5%B9%B4">966年</a>6月<br />
+| 閉鎖 = <br />
+| ターミナル数 = <br />
+| 拠点航空会社 = <br />
+| 敷地面積 ha = 214<br />
+| 標高 m = 210.5<br />
+| 標高 ft = 692<br />
+| ウェブサイト = [http://www.aapb.co.jp/ <a href="http://localhost/keyword/%E6%97%AD%E5%B7%9D%E7%A9%BA%E6%B8%AF">旭川空港</a>]<br />
+| 緯度度 = 43|緯度分 = 40|緯度秒 = 15|N(北緯)及びS(南緯) = N<br />
+| 経度度 = 142|経度分 = 26|経度秒 = 51|E(東経)及びW(西経) = E<br />
+| 座標地域 = JP<br />
+| 地図名 = Japan<br />
+| 地図ラベル = AKJ/RJEC<br />
+| 地図サイズ = <br />
+| 地図説明 = 空港の位置<br />
+| 滑走路1方向 = 16/34<br />
+| 滑走路1ILS = I<br />
+| 滑走路1長さ m = 2,500<br />
+| 滑走路1幅 m = 60<br />
+| 滑走路1表面 = アスファルト<br />
+| 統計年 = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度<br />
+| 旅客数 = 1,<a href="http://localhost/keyword/110">110</a>,137人<br />
+| 貨物取扱量 = 4,964 t<br />
+| 発着回数 = <br />
+| 脚注 = <br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E6%97%AD%E5%B7%9D%E7%A9%BA%E6%B8%AF">旭川空港</a>&#39;（あさひかわくうこう、）は、北海道旭川市及び上川郡東神楽町にまたがる特定地方管理空港。<br />
+<br />
+== 概要 ==<br />
+北海道第2の都市旭川市中心部から南東約16km（バスで約35分）の田園地帯に囲まれた丘陵地帯に位置する。旭川を中心とした道北の経済、文化、観光の拠点である。空港の東側には、日本最大の国立公園である大雪山連峰と、これに続く十勝岳連峰の山々がある。<br />
+<br />
+1<a href="http://localhost/keyword/966%E5%B9%B4">966年</a>6月に1,200mの滑走路を持つ第三種空港として供用を開始。19<a href="http://localhost/keyword/80%E5%B9%B4">80年</a>、第二種空港に格上げ。以降2度の滑走路延長を行い、現在の滑走路は2,500m×60mの長さとなっている。滑走路の方向は16/34で、滑走路全体に渡り平行誘導路を有する。着陸帯の幅は300mであり、計器着陸に対応している。計器着陸装置(ILS)は、滑走路34にカテゴリIが設置されている。<br />
+<br />
+管理者の旭川市による除雪体制が充実しており、新千歳空港のように大雪で閉鎖されることがほとんどない。冬でも就航率が高く、200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a> - 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>の<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>間で降雪による欠航はわずか5便のみである。一方で年間約1億5000万円にものぼる除雪費がほぼそのまま空港収支の赤字となっており、財務面での負担となっている。<br />
+<br />
+200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>に初の定期国際線となる、韓国・ソウル便が就航。近年は台湾の北海道ブームにより、200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>と200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>には300便を超える国際チャーター便が運航され、以降もなお年間150便程度が運航されている。<br />
+<br />
+年間利用客数は、国内949,645人、国際160,492人（20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度）。200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>度の旅客数実績では、道内で唯一需要予測を上回った。<br />
+<br />
+20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>12月5日の北海道新聞朝刊で、20<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>に完成予定の国際線ターミナルが整備されることが報じられた。<br />
+<br />
+== 沿革 ==<br />
+1<a href="http://localhost/keyword/977%E5%B9%B4">977年</a>に撮影された、<a href="http://localhost/keyword/%E6%97%AD%E5%B7%9D%E7%A9%BA%E6%B8%AF">旭川空港</a>付近の空中写真。滑走路長1,200mの頃。<br />
+* 1<a href="http://localhost/keyword/966%E5%B9%B4">966年</a>6月 - 滑走路1200m×30mで開港。<br />
+* 19<a href="http://localhost/keyword/80%E5%B9%B4">80年</a> - 第二種空港(B)に指定される。<br />
+* 1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a>5月 - 滑走路延長工事のため、空港を一時供用中止。<br />
+* 1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a>2月 - 滑走路1640m×45mで空港再開。<br />
+* 1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a>11月 - 滑走路を2000mに延長。<br />
+* 1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>2月 - 滑走路を2500mに延長。<br />
+*1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a> - 平行誘導路完成。<br />
+* 2000年5月 - 現ターミナルビル供用開始。<br />
+* 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>6月 - 定期国際線（韓国・ソウル便）就航。<br />
+<br />
+== 施設 ==<br />
+空港ターミナルビルは、東神楽町の滑走路東側に1棟あり、内部を国内線・国際線で分けて使用している。ボーディングブリッジは4基を備える（うち1番スポットは内際切り替えに対応）。<a href="http://localhost/keyword/%E6%97%AD%E5%B7%9D%E7%A9%BA%E6%B8%AF">旭川空港</a>ビル株式会社が運営している。地上3階建て。<br />
+* 1階 - 航空会社カウンター、到着ロビー、総合案内<br />
+* 2階 - 国内線出発ロビー、国際線出発ロビー、ホールディングルーム、ショッピングモール、ビジネスラウンジ「空」、有料待合室<br />
+* 3階 - 展望デッキ（無料）、展望ロビー、レストラン<br />
+* 有料駐車場 - 約1120台<br />
+<br />
+ファイル:140724 Asahikawa Airport Hokkaido Japan02s3.jpg|ターミナルビル、北側から撮影<br />
+ファイル:140724 Asahikawa Airport Hokkaido Japan04s3.jpg|管制塔<br />
+ファイル:Asahikawa Airport Hokkaido Japan04s3.jpg|国際線出発口<br />
+ファイル:Asahikawa Airport Hokkaido Japan05n.jpg|ラウンジ「空」<br />
+ファイル:Asahikawa Airport Hokkaido Japan02n.jpg|エプロン<br />
+ファイル:Asahikawa airport panorama of Japan.jpg|上空からの<a href="http://localhost/keyword/%E6%97%AD%E5%B7%9D%E7%A9%BA%E6%B8%AF">旭川空港</a>。背後にそびえる山は十勝連峰<br />
+<br />
+<br />
+== 拠点・焦点都市としている航空会社 ==<br />
+この空港をハブ空港（拠点都市）としている航空会社は無い。<br />
+<br />
+== 就航路線 ==<br />
+航空会社が2社以上の場合、最前の航空会社の機材・乗務員で運航する共同運航便（コードシェア便）<br />
+<br />
+=== 国内線 ===<br />
+<br />
+<br />
+&#39;かつての定期就航路線&#39;<br />
+* 函館空港・たんちょう釧路空港・新千歳空港・仙台空港・新潟空港・成田国際空港・<a href="http://localhost/keyword/%E7%A5%9E%E6%88%B8%E7%A9%BA%E6%B8%AF">神戸空港</a>・福岡空港<br />
+<br />
+<br />
+<br />
+=== 国際線 ===<br />
+* &#39; トランスアジア航空 &#39;<br />
+** ・台湾桃園国際空港（台北）<br />
+* &#39; エバー航空 &#39;<br />
+** ・台湾桃園国際空港（台北）　2015/7-9運行予定<br />
+* &#39; アシアナ航空 &#39;<br />
+** ・仁川国際空港（ソウル）（季節限定運航）<br />
+* &#39; 中国東方航空 &#39;<br />
+** ・北京首都国際空港（北京）、上海浦東国際空港（上海）[http://www.chinaeastern-air.co.jp/news/2014_06_12.html 旭川=上海線定期便開設のご案内] 中国東方航空　20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>6月12日付<br />
+* &#39; 春秋航空 &#39;<br />
+** ・上海浦東国際空港（上海）<br />
+<br />
+<br />
+ファイル:Asahikawa Airport Hokkaido Japan03n.jpg|エプロンのトランスアジア航空機<br />
+<br />
+<br />
+== アクセス ==<br />
+旭川市中心部まで約15km、富良野市まで約40km。旭川駅までバスで約35分。<br />
+<br />
+;旭川電気軌道<br />
+:*6条9丁目（旭川市役所） - 旭川駅前 - 旭川医大 - &#39;<a href="http://localhost/keyword/%E6%97%AD%E5%B7%9D%E7%A9%BA%E6%B8%AF">旭川空港</a>&#39;<br />
+:*旭山動物園 - &#39;<a href="http://localhost/keyword/%E6%97%AD%E5%B7%9D%E7%A9%BA%E6%B8%AF">旭川空港</a>&#39;<br />
+:*旭岳温泉 - ひがしかわ道草館 - &#39;<a href="http://localhost/keyword/%E6%97%AD%E5%B7%9D%E7%A9%BA%E6%B8%AF">旭川空港</a>&#39; - 旭川駅前<br />
+;ふらのバス<br />
+:快速ラベンダー号 旭川駅 - 旭川医大 - &#39;<a href="http://localhost/keyword/%E6%97%AD%E5%B7%9D%E7%A9%BA%E6%B8%AF">旭川空港</a>&#39; - 美瑛駅 - 富良野駅前 - 新富良野プリンスホテル<br />
+<br />
+== その他 ==<br />
+ターミナルビル2階にはJALUX・全日空商事などの土産物屋が並び、北海道の有名菓子や海産物がひと通り揃っている。免税店も設けられている。かつては丸井今井も出店していたが、200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>7月の同社旭川店閉店に伴い撤退し、入れ替わりで西武百貨店が出店した。土産物屋は「ロテル・ド・北倶楽部」、「ひよこのお昼ねプリン」など地元・旭川の菓子店の商品が取り扱われている。じゃがポックル、花畑牧場生キャラメルなどの商品もある。なお、<a href="http://localhost/keyword/%E6%97%AD%E5%B7%9D%E7%A9%BA%E6%B8%AF">旭川空港</a>の空弁には「たこまき」と「ジンむす」がある。<br />
+<br />
+空の日を記念して毎年、<a href="http://localhost/keyword/%E6%97%AD%E5%B7%9D%E7%A9%BA%E6%B8%AF">旭川空港</a>まつりが行われる。その際には駐車場が無料になる。また、旭川市は北海道のスキー発祥地であるため、スキーを伝えたレルヒ大佐の銅像が駐車場の横に建っている。空港の南東側は「就実の丘」と呼ばれる航空機撮影や丘陵風景の撮影ポイントである。ターミナルの横にある芝生の公園「グリーンポート」からは空港が一望でき、空港が開いているときは自由に立入りができる。東神楽町のアメダス設置地点でもある。<br />
+<br />
+かつてはコミューター航空会社の北海道エアシステムが就航していたが、20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>1月に函館 - 旭川線を廃止したのを最後に撤退。また格安航空会社（LCC）としては、スカイマークが200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>4月に参入したが、搭乗率の低迷を理由に20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>3月に撤退した。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 旭川飛行場 - 陸上自衛隊旭川駐屯地内にある800mの滑走路。<a href="http://localhost/keyword/%E6%97%AD%E5%B7%9D%E7%A9%BA%E6%B8%AF">旭川空港</a>開港前は民間にも供されていた。<br />
+* 北海道の関与団体の一覧 - <a href="http://localhost/keyword/%E6%97%AD%E5%B7%9D%E7%A9%BA%E6%B8%AF">旭川空港</a>ビル株式会社は北海道の「関与団体」として指定されている。<br />
+* グリーンポート - 空港ターミナルに隣接した位置にある公園。<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.aapb.co.jp/ <a href="http://localhost/keyword/%E6%97%AD%E5%B7%9D%E7%A9%BA%E6%B8%AF">旭川空港</a>ターミナル]<br />
+* [http://www.euaa.jp/ <a href="http://localhost/keyword/%E6%97%AD%E5%B7%9D%E7%A9%BA%E6%B8%AF">旭川空港</a>利用拡大期成会]<br />
+* [http://www.hkd.mlit.go.jp/zigyoka/z_kowan/airport/profile2014/jp/asahikawa/airport_asahikawa01.html <a href="http://localhost/keyword/%E6%97%AD%E5%B7%9D%E7%A9%BA%E6%B8%AF">旭川空港</a>] - 国土交通省 北海道開発局 港湾空港部<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:北海道地方の空港<br />
+Category:旭川市の交通<br />
+Category:東神楽町<br />

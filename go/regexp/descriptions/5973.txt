@@ -1,0 +1,13 @@
+description
+'BOS'
+*bos (ISO 639)
+* ボストン（IATA都市コード）
+** ローガン国際空港のIATA空港コード
+** ボストン・レッドソックス
+** ボストン・セルティックス
+** ボストン・ブルーインズ
+*ベースボールオペレーションシステム（Baseball Operation System）
+*太陽光発電の周辺装置の総称であるBalance of Systemsの略。
+
+
+

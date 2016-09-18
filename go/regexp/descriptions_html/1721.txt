@@ -1,0 +1,115 @@
+description<br />
+<br />
+| death_place = ドイツ、メクレンブルク＝シュヴェリーン自由州、Bad Kleinen<br />
+| school_tradition = 分析哲学<br />
+| main_interests   = 数学の哲学、数理論理学、言語哲学|<br />
+| influences =  Adolf Trendelenburg、Hermann Lotze&#34;Frege&#39;s Technical Concepts&#34; in <br />
+| influenced = ジュゼッペ・ペアノ、バートランド・ラッセル、ルドルフ・カルナップ、ルートヴィヒ・ウィトゲンシュタイン、マイケル・ダメット、エトムント・フッサール、ゲルショム・ショーレム、Ian Rumfitt、およびほとんどの分析哲学者<br />
+| notable_ideas    = Principle of compositionality、記号論理学、述語論理、論理主義、Sense and reference |<br />
+|}}<br />
+&#39;<a href="http://localhost/keyword/%E3%82%B4%E3%83%83%E3%83%88%E3%83%AD%E3%83%BC%E3%83%97%E3%83%BB%E3%83%95%E3%83%AC%E3%83%BC%E3%82%B2">ゴットロープ・フレーゲ</a>&#39;（Friedrich Ludwig Gottlob Frege, 1<a href="http://localhost/keyword/848%E5%B9%B4">848年</a>11月8日 - 19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>7月26日）は、ドイツの哲学者、数学者、論理学者であり、現代の数理論理学、分析哲学の祖と呼ばれる。<br />
+<br />
+フレーゲはバルト海に面したドイツの港町ヴィスマールの生まれである。母のアウグステ・ビアロブロツキーはポーランド系である。彼ははじめイェーナ大学で学び、その後ゲッティンゲン大学に移り1<a href="http://localhost/keyword/873%E5%B9%B4">873年</a>に博士号を取得した。その後イェーナに戻り、1<a href="http://localhost/keyword/896%E5%B9%B4">896年</a>から数学教授。19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>に死去した。<br />
+<br />
+== 業績 ==<br />
+フレーゲはアリストテレス以来の最大の論理学者といわれる。革命的な『概念記法』(&#39;&#39;Begriffsschrift&#39;&#39;) は1<a href="http://localhost/keyword/879%E5%B9%B4">879年</a>に出版され、アリストテレス以来2,000年変わらずに続いていた伝統論理学を一掃して論理学の新時代を切り開いた。今日の数学で定着している∀（任意の）や∃（存在する）のような量化はこのフレーゲの業績に基づいている。<br />
+<br />
+フレーゲは命題論理と述語論理の公理化を最初に行った人物であり、特に述語論理はそれ自体がフレーゲの発明である（実際には概念記法は高階論理の体系であり、ラムダ計算の祖ともいえる極めて先駆的なものである）。しかしそのあまりもの先進性、独創性（そしてひょっとしたら彼の既存の説への激しい攻撃）ゆえにフレーゲの同時代にはその意義は十分に理解されなかった。彼の概念が広まったのは、ジュゼッペ・ペアノやバートランド・ラッセルらによるところが大きい。ルートヴィヒ・ウィトゲンシュタインとエトムント・フッサールは、フレーゲの影響を大きく受けた哲学者である。また、ルドルフ・カルナップはフレーゲの授業に出席しており、彼の（カルナップによればシャイな）性格について書き残している。<br />
+<br />
+またフレーゲは言語哲学や分析哲学の基礎を確立した人物の一人としても数えられる。「意義と意味について」における意味（独：Bedeutung, 英：meaning, reference）と意義（独：Sinn, 英：sense）の区別、概念と対象との区別などで知られる。<br />
+<br />
+フレーゲは数学は論理に帰着しうるとする論理主義の最初の主要な論客でもあり、彼の『算術の基本法則』(&#39;&#39;Grundgesetze der Arithmetik&#39;&#39;) は自然数論および実数論を論理から導こうとする企てであった。しかしラッセルが『算術の基本法則』の公理系が矛盾を引き起こすこと（いわゆるラッセルの逆理）を発見して指摘したため、2巻の補遺にこの矛盾について認める文言が付されている。フレーゲ自身はなんとか矛盾を回避する方法を模索したが、フレーゲの修正案にも欠陥があることが、1<a href="http://localhost/keyword/938%E5%B9%B4">938年</a>にスタニスワフ・レシニェフスキによって示された。<br />
+<br />
+フレーゲの体系に矛盾が生じた原因は、ながらく彼の第5法則に帰されてきた。しかし後にチャールズ・パーソンズ、ジョージ・ブーロス、リチャード・ヘックらによって、第5法則に訴えずとも、いわゆる「ヒュームの原理」から自然数論が導出可能であることが示された。これにより、近年ではフレーゲの論理主義を再評価する動きが強まっている。<br />
+<br />
+== 経歴 ==<br />
+*1<a href="http://localhost/keyword/848%E5%B9%B4">848年</a> ヴィスマールにて出生。<br />
+*1<a href="http://localhost/keyword/854%E5%B9%B4">854年</a> ヴィスマールのギムナジウムに進学。<br />
+*1<a href="http://localhost/keyword/866%E5%B9%B4">866年</a> 父カール・アレクサンダーが死去。<br />
+*1<a href="http://localhost/keyword/869%E5%B9%B4">869年</a> ヴィスマールのギムナジウムを卒業、イェーナ大学に進学。<br />
+*1<a href="http://localhost/keyword/871%E5%B9%B4">871年</a> イェーナ大学卒業。<br />
+*1<a href="http://localhost/keyword/871%E5%B9%B4">871年</a>頃 ゲッティンゲン大学に移動。<br />
+*1<a href="http://localhost/keyword/873%E5%B9%B4">873年</a> 数学の博士号を取得。<br />
+*1<a href="http://localhost/keyword/874%E5%B9%B4">874年</a> イェーナ大学に大学教授資格論文を提出し、数学科の私講師に採用される。<br />
+*1<a href="http://localhost/keyword/879%E5%B9%B4">879年</a> 『概念記法』を刊行。<br />
+*1<a href="http://localhost/keyword/879%E5%B9%B4">879年</a>頃 イェーナ大学の員外教授に昇進。<br />
+*1<a href="http://localhost/keyword/884%E5%B9%B4">884年</a> 『算術の基礎』を刊行。<br />
+*1<a href="http://localhost/keyword/885%E5%B9%B4">885年</a> イェーナ医学・自然科学協会で「算術の形式的理論について」を講演。<br />
+*1<a href="http://localhost/keyword/887%E5%B9%B4">887年</a> マルガレート・リーゼブルクと結婚。<br />
+*1<a href="http://localhost/keyword/891%E5%B9%B4">891年</a> イェーナ医学・自然科学協会で「関数と概念」を講演。<br />
+*1<a href="http://localhost/keyword/892%E5%B9%B4">892年</a> 論文「意義と意味について」、「概念と対象について」を発表。<br />
+*1<a href="http://localhost/keyword/893%E5%B9%B4">893年</a> 『算術の基本法則』第1巻を刊行。<br />
+*1<a href="http://localhost/keyword/895%E5%B9%B4">895年</a> リューベックで第67回ドイツ自然科学者・医学者大会の数学・天文部会で講演し、ダフィット・ヒルベルトと出会う。<br />
+*1<a href="http://localhost/keyword/896%E5%B9%B4">896年</a> イェーナ大学の正名誉教授に昇進。<br />
+*1<a href="http://localhost/keyword/898%E5%B9%B4">898年</a> 母アウグステ・ビアロブロツキー死去。<br />
+*1<a href="http://localhost/keyword/899%E5%B9%B4">899年</a> フレーゲとペアノとの交換書簡をペアノの雑誌 &#39;&#39;Rivista di matematica&#39;&#39; 上に発表。<br />
+*1<a href="http://localhost/keyword/900%E5%B9%B4">900年</a>頃 アルフレートを養子に迎える。<br />
+*1<a href="http://localhost/keyword/900%E5%B9%B4">900年</a> パリ国際哲学会議に招待講演を依頼されるが断る。<br />
+*1<a href="http://localhost/keyword/902%E5%B9%B4">902年</a> ラッセルから「ラッセルのパラドックス」を知らせる手紙が届く。<br />
+*1<a href="http://localhost/keyword/903%E5%B9%B4">903年</a> 『算術の基本法則』第2巻を刊行する。枢密顧問官の称号を授与される。<br />
+*1<a href="http://localhost/keyword/905%E5%B9%B4">905年</a> 妻マルガレート死去。<br />
+*1<a href="http://localhost/keyword/911%E5%B9%B4">911年</a> ウィトゲンシュタインがフレーゲを訪ねる。<br />
+*1<a href="http://localhost/keyword/912%E5%B9%B4">912年</a> ケンブリッジ数学会議に招待講演を依頼されるが断る。<br />
+*1<a href="http://localhost/keyword/917%E5%B9%B4">917年</a> ウィトゲンシュタインよりウィーンに招待されるが断る。<br />
+*1<a href="http://localhost/keyword/918%E5%B9%B4">918年</a> イェーナ大学を退職、バート・クライネンに引退。<br />
+*19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a> バート・クライネンにて死去。<br />
+<br />
+== 著書 ==<br />
+*『概念記法』、1<a href="http://localhost/keyword/879%E5%B9%B4">879年</a><br />
+*『数学の基礎』、1<a href="http://localhost/keyword/884%E5%B9%B4">884年</a><br />
+*『算術の基本法則』、1893-1<a href="http://localhost/keyword/903%E5%B9%B4">903年</a><br />
+*「関数と概念」、1<a href="http://localhost/keyword/991%E5%B9%B4">991年</a><br />
+*「意義と意味について」、「概念と対象について」、1<a href="http://localhost/keyword/892%E5%B9%B4">892年</a><br />
+*「幾何学の基礎について」、1<a href="http://localhost/keyword/903%E5%B9%B4">903年</a><br />
+*「関数とは何か？」、1<a href="http://localhost/keyword/904%E5%B9%B4">904年</a><br />
+*「論理的調査」、1918–1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a><br />
+<br />
+<a href="http://localhost/keyword/%E5%8B%81%E8%8D%89%E6%9B%B8%E6%88%BF">勁草書房</a>から著作集が出ている。<br />
+*『フレーゲ著作集1　概念記法』　藤村竜雄編、<a href="http://localhost/keyword/%E5%8B%81%E8%8D%89%E6%9B%B8%E6%88%BF">勁草書房</a>、19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>。ISBN 4326148209<br />
+*『フレーゲ著作集2　算術の基礎』　野本和幸、土屋俊編、<a href="http://localhost/keyword/%E5%8B%81%E8%8D%89%E6%9B%B8%E6%88%BF">勁草書房</a>、2001年。ISBN 4326148217<br />
+*『フレーゲ著作集3　算術の基本法則』　野本和幸編、<a href="http://localhost/keyword/%E5%8B%81%E8%8D%89%E6%9B%B8%E6%88%BF">勁草書房</a>、2000年。ISBN 4326148225<br />
+*『フレーゲ著作集4　哲学論集』　黒田亘、野本和幸編、<a href="http://localhost/keyword/%E5%8B%81%E8%8D%89%E6%9B%B8%E6%88%BF">勁草書房</a>、19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>。ISBN 4326148233<br />
+*『フレーゲ著作集5　数学論集』　野本和幸、飯田隆編、<a href="http://localhost/keyword/%E5%8B%81%E8%8D%89%E6%9B%B8%E6%88%BF">勁草書房</a>、2001年。ISBN 4326148241<br />
+*『フレーゲ著作集6　書簡集　付「日記」』　野本和幸編、<a href="http://localhost/keyword/%E5%8B%81%E8%8D%89%E6%9B%B8%E6%88%BF">勁草書房</a>、200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>。ISBN 432614825X<br />
+<br />
+== 参考文献 ==<br />
+*藤村竜雄　「フレーゲの生涯――解説に代えて――」『フレーゲ著作集1　概念記法』、<a href="http://localhost/keyword/%E5%8B%81%E8%8D%89%E6%9B%B8%E6%88%BF">勁草書房</a>、249-275頁、19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>。<br />
+*野本和幸　「編者解説」『フレーゲ著作集2　算術の基礎』、<a href="http://localhost/keyword/%E5%8B%81%E8%8D%89%E6%9B%B8%E6%88%BF">勁草書房</a>、199-239頁、2001年。<br />
+*野本和幸　「編者解説」『フレーゲ著作集3　算術の基本法則』、<a href="http://localhost/keyword/%E5%8B%81%E8%8D%89%E6%9B%B8%E6%88%BF">勁草書房</a>、435-479頁、2000年。<br />
+*野本和幸　「編者解説」『フレーゲ著作集4　哲学論集』、<a href="http://localhost/keyword/%E5%8B%81%E8%8D%89%E6%9B%B8%E6%88%BF">勁草書房</a>、313-343頁、19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>。<br />
+*野本和幸　「編者解説」『フレーゲ著作集6　書簡集　付「日記」』、<a href="http://localhost/keyword/%E5%8B%81%E8%8D%89%E6%9B%B8%E6%88%BF">勁草書房</a>、385-431頁、200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>。<br />
+<br />
+== 関連項目 ==<br />
+*概念記法<br />
+*論理主義<br />
+*記号論理学<br />
+*命題論理<br />
+*述語論理<br />
+*ラッセルのパラドックス<br />
+*バートランド・ラッセル<br />
+*ルートヴィヒ・ウィトゲンシュタイン<br />
+*ジュゼッペ・ペアノ<br />
+*エドムント・フッサール<br />
+<br />
+== 参照 ==<br />
+<br />
+<br />
+== 外部リンク ==<br />
+* 飯田隆[http://100.yahoo.co.jp/detail/%E3%83%95%E3%83%AC%E3%83%BC%E3%82%B2/ 「フレーゲ」（Yahoo!百科事典）]<br />
+* [http://www-groups.dcs.st-and.ac.uk/~history/Biographies/Frege.html Friedrich Ludwig Gottlob Frege] &#39;&#39;MacTutor History of Mathematics archive.&#39;&#39;（英語）<br />
+<br />
+<br />
+<br />
+Category:19世紀ドイツの哲学者<br />
+Category:20世紀ドイツの哲学者<br />
+48<a href="http://localhost/keyword/110">110</a>8<br />
+-48<a href="http://localhost/keyword/110">110</a>8<br />
+Category:数学の哲学者<br />
+Category:言語哲学者<br />
+Category:分析哲学者<br />
+Category:論理学者<br />
+Category:ドイツの数学者<br />
+Category:数学に関する記事<br />
+Category:フリードリヒ・シラー大学イェーナの教員<br />
+Category:1<a href="http://localhost/keyword/848%E5%B9%B4">848年</a>生<br />
+Category:19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>没<br />

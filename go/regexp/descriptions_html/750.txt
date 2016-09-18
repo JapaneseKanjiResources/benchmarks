@@ -1,0 +1,55 @@
+description<br />
+ |<br />
+ 世紀=1 |<br />
+ 次世紀=2 |<br />
+<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=20 |<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=30 |<br />
+ <a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀=40 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=50 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=60 |<br />
+<br />
+ 3年前=41 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>前=42 |<br />
+ 1年前=43 |<br />
+ 年=44 |<br />
+ 1年後=45 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>後=46 |<br />
+ 3年後=47 |<br />
+}}<br />
+<br />
+<br />
+== 他の紀年法 ==<br />
+<br />
+* 干支 : 甲辰<br />
+* 日本<br />
+** 垂仁天皇<a href="http://localhost/keyword/73%E5%B9%B4">73年</a><br />
+** 皇紀<a href="http://localhost/keyword/704%E5%B9%B4">704年</a><br />
+*中国<br />
+** 後漢 : 建武<a href="http://localhost/keyword/20%E5%B9%B4">20年</a><br />
+* 朝鮮<br />
+** 高句麗 : 閔中王元年<br />
+** 新羅 : 儒理王<a href="http://localhost/keyword/21%E5%B9%B4">21年</a><br />
+** 百済 : 多婁王<a href="http://localhost/keyword/17%E5%B9%B4">17年</a><br />
+** 金官伽倻 : 首露王3年<br />
+** 檀紀2<a href="http://localhost/keyword/377%E5%B9%B4">377年</a><br />
+* 仏滅紀元 : <a href="http://localhost/keyword/587%E5%B9%B4">587年</a><br />
+* ユダヤ暦 : 3<a href="http://localhost/keyword/804%E5%B9%B4">804年</a> - 3<a href="http://localhost/keyword/805%E5%B9%B4">805年</a><br />
+<br />
+== できごと ==<br />
+*この年頃に使徒ヤコブが殉教。<br />
+*ユダヤ・サマリア・イドマヤを統治していたアグリッパ1世の死去により、ローマ帝国がユダヤ属州を直轄する。（-<a href="http://localhost/keyword/48%E5%B9%B4">48年</a>）<br />
+*ローマ皇帝クラウディウスがマウレタニア属州を設置。<br />
+*後漢軍が高句麗王大武神王を破る。<br />
+<br />
+== 誕生 ==<br />
+<br />
+== 死去 ==<br />
+* ヤコブ、使徒。(* 生年不明)<br />
+* アグリッパ1世、古代ユダヤの統治者。（* 紀元前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>）<br />
+* 呉漢、後漢の武将。（* 生年不明）<br />
+<br />
+<br />
+*<br />
+<br />
+als:40er#44<br />

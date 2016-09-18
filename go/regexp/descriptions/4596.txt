@@ -1,0 +1,75 @@
+description
+'ハロルド・E・パーマー'（Harold E. Palmer, 1877年3月6日 - 1949年11月16日）は、大正・昭和期を代表する応用英語学者・英語教育学者・音声学者。Speechとしての言語（言語運用）と、Codeとしての言語（言語体系）を区別して、これを言語教育に適用し、20世紀の応用言語学の発展に寄与した。またspeechをさらに第一次伝達（Primary Speech）と第二次伝達（Secondary Speech）の二要素に分けている。
+
+オーラルメソッド（口頭教授法）を提唱し、英語教授研究所（現在の財団法人語学教育研究所）を設立して日本の英語教育改善に大きく貢献した。女子学習院、東京文理大、東京外語大の講師も務めた。フランス語が堪能であった。イギリス・ロンドン出身。
+
+== 略歴 ==
+* 1877年、ロンドンにて生まれる。
+* 1890年、ケント州HytheのProspect House Schoolに入学。
+* 1892年、1年間フランスに留学。
+* 1902年、ベルギーのヴェルヴィエにある語学学校にて英語教師として働き始める。
+* 1903年、ヴェルヴィエにて自分の小さな語学学校を開く。のちのInstitut Palmerである。
+* 1915年、ロンドン大学で教え始める。
+* 1922年、来日し、文部省英語教育顧問となる。
+* 1923年、英語教授研究所（IRET）（現在の財団法人語学教育研究所、IRLT）を創設。初代所長となる。東京高等師範学校附属中学校（現・筑波大学附属中学校・高等学校）で、自ら提唱するオーラルメソッドを実践した教育を行う。
+* 1935年、東京帝国大学より文学博士の学位を授与される。
+* 1936年、帰英。
+* 1949年、。
+
+== 業績 ==
+* 1917年、''The Scientific Study and Teaching of Languages''（言語に関する科学的な研究および教授）出版。
+* 1921年、''The Principles of Language-Study''（語学研究の法則）出版。''The Oral Method of Teaching Languages''（言語を教える口頭方法）出版。
+* 1922年、''English Intonation, With Systematic Exercises''（英語の抑揚の系統的練習）出版。
+* 1924年、''Memorandum on Problems of English Teaching in the Light of a New Theory''（英語教授問題についての新説に照らした覚書）出版。''A Grammar of Spoken English''（口頭英語の文法）出版。
+* 1925年、''English through Actions''（動作による英語）出版。
+* 1929年、''Eigo no rokushukan (The First Six Weeks of English)''（英語の六週間）出版。
+* 1930年、''Interim Report on Vocabulary Selection''（語彙選択に関する中間報告）出版。''The Principles of Romanization''（羅馬化の法則）出版。
+* 1931年、''Second Interim Report on Vocabulary Selection''（語彙選択に関する第二次中間報告）出版。
+* 1932年、''This Language-Learning Business''（この言語学習事務）(H. Vere Redmanと共著)出版。
+* 1933年、''Second Interim Report on English Collocations''（英語の連語に関する第二次中間報告）出版。''A New Classification of English Tones''（英語の抑揚の新しい分類）出版。
+* 1934年、''Specimens of English Construction Patterns''（英語の構築特分型の見本）、''An Essay in Lexicology''（語彙評論）
+* 1937年、''Thousand-Word English''（千単語英語）(A. S. Hornbyと共著)出版。
+* 1938年、''A Grammar of English Words''（英語の文法）出版。
+* 1940年、''The Teaching of Oral English''（口頭英語の教授）出版。
+* 1943年、''International English Course''（国際英語学科）始まる。
+
+== パーマーの考えた習慣形成に関する5段階 ==
+* Auditory Observation
+* Oral Imitation
+* Catenizing
+* Semanticizing
+* Composition by Analogy
+
+== エピソード ==
+* Palmerは自分の名前をカナで「パーマ」と書いていたが、今日では美容院でのパーマと混同されるのを避けるため「パーマー」と表記するようになった。
+* 1921年、第一次大戦後の欧米教育視察に来ていた元文部次官澤柳政太郎はパーマーに出会う。松方幸次郎氏の経済的援助を得て、パーマーを日本に招くことにした。
+* パーマーの功績を称えて創設された語学教育研究所の「'パーマー賞'」は、素晴らしい実践をしている中学校・高等学校の英語教師（または団体）に与えられる最高の栄誉として認められている。
+
+== 関連文献など ==
+* 語学教育研究所（編）.1995.『パーマー選集』（全10巻）本の友社
+* 小篠敏明.1995.『Harold E. Palmerの英語教授法に関する研究』第一学習社
+* 伊村元道.1997.『パーマーと日本の英語教育』大修館
+* 早川　勇.2014.『英語辞書と格闘した日本人』テクネ（第十八話がパーマーに関するもの）
+* 長瀬慶來.2001.『ロンドン学派のイントネーション研究－ハロルドE.パーマーの音調研究－』山梨医科大学紀要第18巻
+* Richard C. Smith. 1998. THE PALMER-HORNBY CONTRIBUTION TO ENGLISH TEACHING IN JAPAN. ''International Journal of Lexicography'',11,269-291.
+
+== 外部リンク ==
+* [http://www.irlt.or.jp/ 財団法人語学教育研究所]
+* [http://www.warwick.ac.uk/~elsdr/WritingsofH.E.Palmer.pdf The Writings of Harold E. Palmer  ''An Overview'']
+* [http://www2.warwick.ac.uk/fac/soc/celte/research/elt_archive/halloffame/palmer/ CELTE]
+
+
+
+
+Category:イギリスの言語学者
+Category:日本の言語学者
+Category:英語学者
+Category:英語教育に関する人物
+Category:東京外国語大学の教員
+Category:東京教育大学の教員
+Category:学習院女子大学の教員
+Category:語学教育研究所の人物
+Category:在日イギリス人
+Category:ロンドン出身の人物
+Category:1877年生
+Category:1949年没

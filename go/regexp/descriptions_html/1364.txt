@@ -1,0 +1,43 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E6%AD%A3%E4%B8%89%E8%A7%92%E5%BD%A2">正三角形</a>&#39;（せいさんかくけい、）は、正多角形である三角形である。つまり、3本の辺の長さが全て等しい三角形である。3つの内角の大きさが全て等しい三角形と定義してもよい。1つの内角は 60°（&#39;&#39;π&#39;&#39;/3 rad）である。また一つの内角が60°である二等辺三角形は<a href="http://localhost/keyword/%E6%AD%A3%E4%B8%89%E8%A7%92%E5%BD%A2">正三角形</a>となる。<br />
+<a href="http://localhost/keyword/%E6%AD%A3%E4%B8%89%E8%A7%92%E5%BD%A2">正三角形</a><br />
+<br />
+== 計量 ==<br />
+一辺を &#39;&#39;a&#39;&#39; とすると、<br />
+<br />
+<br />
+== 座標 ==<br />
+複素数平面上で<a href="http://localhost/keyword/%E6%AD%A3%E4%B8%89%E8%A7%92%E5%BD%A2">正三角形</a>の重心を0、一つの頂点を1とすると、他の2つの頂点は1の虚立方根 ω および ω2 である。<br />
+<br />
+三角形の頂点をA\\left(\\frac{a}{\\sqrt{3}},0\\right), B\\left(-\\frac{a}{2\\sqrt{3}},\\frac{a}{2}\\right), C\\left(-\\frac{a}{2\\sqrt{3}},-\\frac{a}{2}\\right) とすれば辺の長さaの<a href="http://localhost/keyword/%E6%AD%A3%E4%B8%89%E8%A7%92%E5%BD%A2">正三角形</a>となる。<br />
+<br />
+x\\ge -\\frac{a}{2\\sqrt{3}}, y\\ge \\frac{x}{\\sqrt{3}}-\\frac{a}{3}, y\\le -\\frac{x}{\\sqrt{3}}+\\frac{a}{3} で囲まれる領域は辺の長さaの<a href="http://localhost/keyword/%E6%AD%A3%E4%B8%89%E8%A7%92%E5%BD%A2">正三角形</a>となる。<br />
+<br />
+== <a href="http://localhost/keyword/%E5%AF%BE%E7%A7%B0%E6%80%A7">対称性</a> ==<br />
+線対称な図形であり、その対称軸は各頂点から向かい合った辺に下ろした垂線で3本ある。三角形の中では最も対称軸の本数が多い。点対称な図形ではないが重心を中心とした120°の回転対称である。<br />
+<br />
+内心、外心、垂心、重心が全て一点に集まっている唯一の三角形である。内心と外心が一致することから角の二等分線と対辺の垂直二等分線が一致し、この線で<a href="http://localhost/keyword/%E6%AD%A3%E4%B8%89%E8%A7%92%E5%BD%A2">正三角形</a>を2つにわけて得られる直角三角形は三角定規の1つに用いられている。<br />
+<br />
+== その他の性質 ==<br />
+正多角形のうち平面を隙間なく敷き詰めることのできる図形は<a href="http://localhost/keyword/%E6%AD%A3%E4%B8%89%E8%A7%92%E5%BD%A2">正三角形</a>、正方形、正六角形の三つのみである。 また正多角形のうち<a href="http://localhost/keyword/%E6%AD%A3%E5%A4%9A%E9%9D%A2%E4%BD%93">正多面体</a>の面になりうるものは<a href="http://localhost/keyword/%E6%AD%A3%E4%B8%89%E8%A7%92%E5%BD%A2">正三角形</a>、正方形、正五角形の三つのみであり、そのうち面が<a href="http://localhost/keyword/%E6%AD%A3%E4%B8%89%E8%A7%92%E5%BD%A2">正三角形</a>であるものは正四面体、正八面体、正二十面体である。<br />
+<br />
+<a href="http://localhost/keyword/%E6%AD%A3%E4%B8%89%E8%A7%92%E5%BD%A2">正三角形</a>を1つの頂点が互いに全て重なるように6つ敷き詰めると正六角形ができる。これは（1種類の）正多角形を敷き詰めることで別の正多角形を作る唯一の方法である。2種類以上の正多角形を使ってよい場合、正六角形を、6つずつの正方形と<a href="http://localhost/keyword/%E6%AD%A3%E4%B8%89%E8%A7%92%E5%BD%A2">正三角形</a>を交互で囲うように敷き詰めて正十二角形を作れる。<br />
+<br />
+<a href="http://localhost/keyword/%E6%AD%A3%E4%B8%89%E8%A7%92%E5%BD%A2">正三角形</a>は定規とコンパスだけを用いて作図が可能である。&#39;&#39;n&#39;&#39; が素数である正 &#39;&#39;n&#39;&#39; 角形のうち、このような作図が可能なのは &#39;&#39;n&#39;&#39; がフェルマー素数である場合に限られる。<br />
+<br />
+== 関連項目 ==<br />
+<br />
+<br />
+<br />
+* 三角形<br />
+* 正多角形<br />
+* 二等辺三角形<br />
+* 冬の大三角<br />
+<br />
+<br />
+<br />
+<br />
+Category:三角形<br />
+Category:数学に関する記事<br />
+<br />
+pt:Triângulo#Tipos de triângulos<br />

@@ -1,0 +1,28 @@
+description
+RGBとコンポジット映像でのテキスト80桁表示の比較
+'Color Graphics Adapter' (CGA) は、IBM PC用に1981年に開発された、PC用カラーグラフィックスカードであり、後の標準となったカードである。
+
+CGAは16Kibytesのメモリを搭載し、80x25・40x25のテキスト16色か、640x200 2色、320x200 4色の表示モードを持つ。また、テキストモードはMDAと上位互換性を持つ。コントローラにはMDA同様モトローラMC6845を用いている。
+
+出力は15.75kHz/60HzのTTLレベルRGBIである。転じて15kHz系のRGB映像信号や、640x200などの15kHzで使用される解像度を俗に「CGA」と呼ぶようにもなった。IBM純正のカードはNTSC準拠のコンポジット映像出力もできる。コンポジット映像出力で80x25・640x200表示をすると滲みが出る。
+
+== INT 10h ビデオモード一覧 ==
+
+
+
+==コネクタ==
+CGAのコネクタは DE-9である。9ピンのVGA端子とはピンアサインが異なり互換性は無い[http://info-coach.fr/atari/hardware/interfaces.php#EGA_DB9_Connector EGA/CGA/VGA9 DB9 Connector]。
+
+177px
+
+
+
+==信号==
+
+
+==脚注==
+
+
+
+
+Category:グラフィックカード

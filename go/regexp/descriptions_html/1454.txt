@@ -1,0 +1,115 @@
+description<br />
+<br />
+<br />
+|駅構造    = 地上駅<br />
+|ホーム    = 2面3線<br />
+|開業年月日= 1<a href="http://localhost/keyword/891%E5%B9%B4">891年</a>（明治<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）3月18日<br />
+|廃止年月日= <br />
+|乗車人員  = 2,502<br />
+|乗降人員  = <br />
+|統計年度  = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|所属路線  =  山陽本線<br />
+|前の駅    = 万富<br />
+|駅間A    = 4.5<br />
+|駅間B    = 4.7<br />
+|次の駅    = 上道<br />
+|駅番号    =<br />
+|キロ程    = 128.0<br />
+|起点駅    = 神戸<br />
+|乗換      = <br />
+|備考      = 直営駅みどりの窓口 有<br />
+}}<br />
+南口<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E7%80%AC%E6%88%B8%E9%A7%85">瀬戸駅</a>&#39;（せとえき）は、岡山県岡山市東区瀬戸町瀬戸にある、西日本旅客鉄道（JR西日本）山陽本線の駅である。<br />
+<br />
+岡山市東区瀬戸地区（旧瀬戸町）の中心駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/891%E5%B9%B4">891年</a>（明治<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）3月18日 - 山陽鉄道 三石駅 - 岡山駅間の開通と同時に開業。旅客・貨物の取扱を開始。<br />
+* 1<a href="http://localhost/keyword/906%E5%B9%B4">906年</a>（明治<a href="http://localhost/keyword/39%E5%B9%B4">39年</a>）12月1日 - 山陽鉄道の国有化により国鉄の駅となる。<br />
+* 1<a href="http://localhost/keyword/909%E5%B9%B4">909年</a>（明治<a href="http://localhost/keyword/42%E5%B9%B4">42年</a>）10月12日 - 線路名称制定。山陽本線の所属となる。<br />
+* 1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>（昭和<a href="http://localhost/keyword/46%E5%B9%B4">46年</a>）8月15日 - 貨物の取扱を廃止。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、西日本旅客鉄道（JR西日本）の駅となる。<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）6月7日 - ICOCA対応自動改札機導入。同年9月1日よりICOCAが使用可能となる。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）3月17日 - 南口改札口とエレベーターの使用を開始。これに伴って新跨線橋の使用も開始、従来の跨線橋は使用停止となる。<br />
+* 20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>（平成2<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）4月21日 - 発車標の使用を開始。<br />
+<br />
+== 駅構造 ==<br />
+上りホーム<br />
+下りホーム<br />
+単式ホーム1面1線と島式ホーム1面2線、合計2面3線のホームを持つ地上駅。1番のりばが上り本線、2番のりばは中線、3番のりばが下り本線である。<a href="http://localhost/keyword/%E6%97%85%E5%AE%A2%E5%88%97%E8%BB%8A">旅客列車</a>は通常1・3番のりばのみを使用し、2番のりばは岡山方面からの折返し列車の発着や、特急の待避に使われる。20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>3月14日改正時点では下り列車1本が当駅で特急「スーパーいなば」の通過待ちを行う。<br />
+<br />
+駅舎は単式の姫路方面行きホーム（1番のりば）側にあり、島式の岡山方面行きホーム（2・3番のりば）へは跨線橋で連絡している。1番のりばの改札付近、2・3番のりばの階段降り口付近は混雑しやすい。<br />
+<br />
+長らく管理駅であったが、現在は東岡山駅の被管理駅となっている。ICOCA利用可能駅（相互利用可能ICカードはICOCAの項を参照）。上道駅以東の岡山エリアのICOCA導入駅では唯一、開閉式の自動改札機を備える。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+※2番のりばから和気方面への発車も可能であるが、該当する<a href="http://localhost/keyword/%E6%97%85%E5%AE%A2%E5%88%97%E8%BB%8A">旅客列車</a>の設定はない。<br />
+<br />
+20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）3月17日、南口改札を結ぶ、新たな跨線橋・エレベータを設置。旧跨線橋は撤去された。<br />
+<br />
+== 利用状況 ==<br />
+* 1日平均の乗車人員の近年の推移は以下の通りである。周辺に高校が2つあり、瀬戸地区自体が岡山市を含む周辺の市のベッドタウンでもあるので朝夕の乗降客が多く、この駅で折り返す列車もある。<br />
+<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 岡山市東区役所瀬戸支所（旧瀬戸町役場）<br />
+* ハローズ瀬戸店<br />
+* ザグザグ瀬戸店<br />
+* メガネの三城瀬戸店<br />
+* 竹久夢二本舗敷島堂瀬戸店<br />
+* ドコモショップ岡山瀬戸店<br />
+* 岡山東<a href="http://localhost/keyword/%E8%BE%B2%E6%A5%AD%E5%8D%94%E5%90%8C%E7%B5%84%E5%90%88">農業協同組合</a><br />
+* 備前瀬戸郵便局<br />
+* 岡山県警赤磐警察署<br />
+* 中国銀行瀬戸支店<br />
+* <a href="http://localhost/keyword/%E3%83%88%E3%83%9E%E3%83%88%E9%8A%80%E8%A1%8C">トマト銀行</a>瀬戸支店<br />
+* おかやま信用金庫瀬戸支店<br />
+* 日生信用金庫瀬戸支店<br />
+* 環太平洋大学岡山第1キャンパス（旧神戸女子大学瀬戸短期大学）<br />
+* 岡山県立瀬戸高等学校<br />
+* 岡山県立瀬戸南高等学校<br />
+* 岡山市立瀬戸中学校<br />
+* 岡山市立江西小学校<br />
+* 岡山県道37号西大寺山陽線<br />
+* 岡山県道・兵庫県道96号岡山赤穂線<br />
+* 岡山県道178号瀬戸停車場線<br />
+<br />
+== バス路線 ==<br />
+バスのりばは駅前にあり、それを示すポールが立っている（冒頭画像参照）。<br />
+* 宇野バス<br />
+** 1番のりば<br />
+*** 下市経由ネオポリス東6丁目行き<br />
+*** 下市経由ネオポリス西9丁目行き<br />
+** 2番のりば<br />
+*** 平島・二本松経由表町バスセンター、岡山駅行き<br />
+<br />
+== 隣の駅 ==<br />
+; 西日本旅客鉄道<br />
+:  山陽本線<br />
+:: <a href="http://localhost/keyword/%E4%B8%87%E5%AF%8C%E9%A7%85">万富駅</a> - &#39;<a href="http://localhost/keyword/%E7%80%AC%E6%88%B8%E9%A7%85">瀬戸駅</a>&#39; - 上道駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.jr-odekake.net/eki/top.php?id=0650606 <a href="http://localhost/keyword/%E7%80%AC%E6%88%B8%E9%A7%85">瀬戸駅</a>（JR西日本）]<br />
+<br />
+<br />
+<br />
+<br />
+Category:岡山市の鉄道駅<br />
+と<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:西日本旅客鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/891%E5%B9%B4">891年</a>開業の鉄道駅<br />
+Category:山陽鉄道<br />
+せとえき<br />

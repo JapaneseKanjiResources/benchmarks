@@ -1,0 +1,60 @@
+description
+
+、属格:
+ |symbology = The Little Bear
+ |RA = 15
+ |dec = +75
+ |culmination date = 6月25日21時
+ |areatotal = 256
+ |arearank = 56
+ |numbermainstars = 7
+ |numberbfstars = 23
+ |numberstarsplanets = 1
+ |numberbrightstars = 2
+ |numbernearbystars = 0
+ |brighteststarname = ポラリス（&alpha; UMi）
+ |starmagnitude = 2.005
+ |neareststarname = &pi;1 UMi
+ |stardistance = 70.8
+ |numbermessierobjects = 0
+ |meteorshowers = こぐま座流星群
+ |bordering = りゅう座きりん座ケフェウス座
+ |notes = 
+}}
+
+'こぐま座'（小熊座、Ursa Minor）は、北天の星座で、トレミーの48星座の1つ。北半球では1年中見ることができる。
+
+小北斗七星と呼ばれる事がある[http://www.geocities.jp/kanotuno/tuusinn/sirube.htm 「道しるべ」～導く星☆北極星～]鹿角平天文台通信。
+
+&alpha;星の'ポラリス'は、現在の'北極星'である。
+
+== 主な天体 ==
+=== 恒星 ===
+
+&alpha;星、β星の2つの2等星がある。
+* &alpha;星：ポラリス。この星は三重連星であるが、光度差が大きく望遠鏡でも見分けにくい。
+* &beta;星：コカブは、紀元前1500年から紀元前500年頃にかけて天の北極の近くにあり当時北極星として使われていた。
+* &gamma;星：フェルカド：3等星。
+&beta;星と&gamma;星は「矢来（やらい・楯がわりの柵）星」とも呼ばれた。北斗七星を矢に見立て、それから星達を守っているという意味である。
+
+== 由来と歴史 ==
+紀元前6世紀の古代ギリシアの天文学者タレスが設定した星座だとされるが、これ以前に船乗りたちが方位を見つけるためにこの星座を使っていたのは確かである。その後古代においては忘れ去られ、長く'ドラゴンの翼座'(近くにりゅう座があるため)と呼ばれた。そのほかのさまざまな文明でも、天の北極がここにあると認識されていた。
+
+== 神話 ==
+ギリシア神話による由来はおおぐま座を参照。
+
+== 出典 ==
+
+
+
+
+
+
+
+
+
+
+
+
+*
+Category:天文学に関する記事

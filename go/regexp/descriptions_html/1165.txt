@@ -1,0 +1,137 @@
+description<br />
+<br />
+「[[Wikitude」。スマートフォンを通して見た風景上に、その場所に関する情報がオーバーレイされる]]<br />
+&#39;<a href="http://localhost/keyword/%E6%8B%A1%E5%BC%B5%E7%8F%BE%E5%AE%9F">拡張現実</a>&#39;（かくちょうげんじつ、、&#39;AR&#39;）とは、人が知覚する現実環境をコンピュータにより拡張する技術、およびコンピュータにより拡張された現実環境そのものを指す言葉。<br />
+<br />
+英語の &#39;&#39;Augmented Reality&#39;&#39; の日本語訳であるため、それを日本語発音した「&#39;オーグメンテッド・リアリティ&#39;」や省略形の&#39;AR&#39;も用いられる。また、&#39;<a href="http://localhost/keyword/%E6%8B%A1%E5%BC%B5%E7%8F%BE%E5%AE%9F">拡張現実</a>感&#39;（-かん）、&#39;強化現実&#39;（きょうかげんじつ）、&#39;増強現実&#39;（ぞうきょうげんじつ）とも言う。似た言葉に複合現実（MR）がある。<br />
+<br />
+== 概要 ==<br />
+<a href="http://localhost/keyword/%E6%8B%A1%E5%BC%B5%E7%8F%BE%E5%AE%9F">拡張現実</a>は仮想現実（バーチャルリアリティ = VR）の変種であり、その時周囲を取り巻く現実環境に情報を付加・削除・強調・減衰させ、文字通り人間から見た現実世界を拡張するものを指すRonald T. Azuma, A Survey of Augmented Reality, Teleoperators and Virtual Environments 6, 4 (1997), 355-385.。<br />
+バーチャルリアリティが人工的に構築された現実感と現実を差し替えるのに対し、<a href="http://localhost/keyword/%E6%8B%A1%E5%BC%B5%E7%8F%BE%E5%AE%9F">拡張現実</a>は現実の一部を改変する技術である。例えばバーチャルリアリティでは、仮想の部屋に居て、仮想のテーブルに置かれた仮想のティーポットを見ているかのような五感情報を人に提示するのに対し、<a href="http://localhost/keyword/%E6%8B%A1%E5%BC%B5%E7%8F%BE%E5%AE%9F">拡張現実</a>では人が実際に居る現実の部屋のテーブルの上に、仮想のティーポットが置かれているかのような情報提示を行う。コンピュータ情報を付加して現実の情報を実態よりも強化・増強して人間に提供することから&#39;強化現実&#39;・&#39;増強現実&#39;と呼ばれることもある。現実環境を情報ソースとして用いることから必然的にリアルタイム処理を必要とする場合が多い。技術課題としてはバーチャルリアリティでのそれに加えて、仮想物体と現実環境・物体との相互作用、例えば視覚要素では照明、影、接触、隠蔽などを解決することが特に課題になる。<br />
+<br />
+コンピュータが現実を拡張する手段としては、視覚・聴覚・触覚など、人のすべての感覚器官と体性感覚に対する情報提示が試みられている。バーチャルリアリティでは、人に提示する仮想物体のリアリティが重視されるのに対して、<a href="http://localhost/keyword/%E6%8B%A1%E5%BC%B5%E7%8F%BE%E5%AE%9F">拡張現実</a>では、現実世界の位置や物体などのコンテクストとの関連性も重視される。後者に重きを置いたシステムでは、例えば場所や物の説明を文字や音声で行うなど、現実を拡張する手段として単純な情報提示手法が用いられることもある。<br />
+<br />
+<br />
+多くのシステムでは、情報の提示や取得に、バーチャルリアリティで広く利用されているデバイス、もしくは技術が利用される。例えば、視覚情報提示には主にヘッドマウンテッドディスプレイが利用される。しかし、現実環境における作業を支援する意図から、携帯電話等の小型情報端末の画面を用いた提示も検討されている。<br />
+<br />
+提示される環境の主体が現実環境であることから、現実環境における作業支援がその応用分野として期待されている。例えば、道案内情報の提供、航空機やコピー機のメンテナンスを行う技術者に対する技術情報提供、医療分野における手術支援に向けた情報提示などの応用研究が行われている。<br />
+<br />
+一般消費者向けのサービスを作るためによく行われている手法に、ARToolKitなどの画像認識<a href="http://localhost/keyword/%E3%83%AB%E3%83%BC%E3%83%81%E3%83%B3">ルーチン</a>を利用して、2次元コードパターンや静止画など（「ARマーカー」などと呼ばれる）をデジタルカメラで撮影すると、それをマーカーとして映像にマッチムーブした3DCGアニメーションがリアルタイムで合成表示されたり、静止画に合ったコンテンツが表示される物がある。<br />
+<br />
+== 歴史 ==<br />
+<a href="http://localhost/keyword/%E6%8B%A1%E5%BC%B5%E7%8F%BE%E5%AE%9F">拡張現実</a>と同様のアイデアは、劇作家のライマン・フランク・ボームによって1<a href="http://localhost/keyword/901%E5%B9%B4">901年</a>に初めに述べられた。彼は、現実世界に創作されたデータを重ね合わて表示する「キャラクター・マーカー」という電子デバイスを考案したJohnson, Joel. [http://moteandbeam.net/the-master-key-l-frank-baum-envisions-ar-glasses-in-1901 “The Master Key”: L. Frank Baum envisions augmented reality glasses in 1901] &#39;&#39;Mote &amp; Beam&#39;&#39; 10 September 2012。<br />
+<br />
+映像撮影技師の:en:Morton Heiligは1957–<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>にかけて「センソラマ」というシミュレータを開発し特許を取得した。これは映像と音響と振動と香りを模擬するシステムであったhttp://www.google.com/patents?q=3050870。<br />
+<br />
+またARを実現するデバイスが実際に開発された事例として、1<a href="http://localhost/keyword/966%E5%B9%B4">966年</a>のアイバン・サザランドによる「ヘッドマウントディスプレイ」の発明などがなされてきた。<br />
+<br />
+1<a href="http://localhost/keyword/975%E5%B9%B4">975年</a>には:en:Myron Kruegerによって、ユーザーが仮想物体とやりとりできる「ビデオプレイス」というシステムが初めて開発された。<br />
+<br />
+19<a href="http://localhost/keyword/89%E5%B9%B4">89年</a>、「仮想現実」(VR) という言葉が:en:Jaron Lanierによって作られ、初めての仮想世界で行うビジネスを作り出した。<br />
+<br />
+「<a href="http://localhost/keyword/%E6%8B%A1%E5%BC%B5%E7%8F%BE%E5%AE%9F">拡張現実</a>」という名前は、19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>にボーイングの技術者であるTom Caudellによって付けられた[http://www.ece.unm.edu/morenews/profile_caudell.html Tom Caudell]. Ece.unm.edu. Retrieved 9 June 2012.。<br />
+<br />
+1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a>にアームストロング空軍研究所のL.B. Rosenbergは機能するARシステムとしては最初期のものである「Virtual Fixtures」を開発し、デモンストレーションを行ったL. B. Rosenberg.  The Use of Virtual Fixtures As Perceptual Overlays to Enhance Operator Performance in Remote Environments.  Technical Report AL-TR-0089, USAF Armstrong Laboratory, Wright-Patterson AFB OH, 1992.L. B. Rosenberg, &#34;The Use of Virtual Fixtures to Enhance Operator Performance in Telepresence Environments&#34; SPIE Telemanipulator Technology, 1993.。<br />
+<br />
+1992-<a href="http://localhost/keyword/93%E5%B9%B4">93年</a>に、ARシステムのプロトタイプ「KARMA」の有名な論文が発表された。<br />
+<br />
+2000年、Bruce H. Thomasは初の屋外携帯ARゲームである「:en:ARQuake」をウェアラブル・コンピュータ国際シンポジウムで発表しデモンストレーションを行った。<br />
+<br />
+このように、一部のエンターテイメント向け試作機を除けば、軍事産業や自動車・航空機製造産業で主に利用されてきたARだが、2000年代に入り携帯端末の普及に伴い一般消費者向けサービスへと利用されるようになった[http://wired.jp/wv/2009/08/31/<a href="http://localhost/keyword/%E6%8B%A1%E5%BC%B5%E7%8F%BE%E5%AE%9F">拡張現実</a>arはモバイルへ：各種プロジェクトを紹/ <a href="http://localhost/keyword/%E6%8B%A1%E5%BC%B5%E7%8F%BE%E5%AE%9F">拡張現実</a>(AR)はモバイルへ：各種プロジェクトを紹介]。<br />
+<br />
+日本では200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>以降一般にも知られるようになった。同年にAR技術を応用した初めての市販ゲーム「THE EYE OF JUDGM<a href="http://localhost/keyword/ENT">ENT</a>」が発売された。<br />
+<br />
+200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>、スマートフォンでARを活用した初の一般向け位置情報アプリケーションである「Wikitude」がリリースされた。日本ではGPSの位置情報を利用する「セカイカメラ」が200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>にリリースされた。<br />
+<br />
+20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>8月27日にリリースされた日本の携帯電話（フィーチャーフォン）用プラットフォームである「AR3DPlayer」は、2次元バーコードのQRコードをそのままQaRマーカーとして認識するトラッキング・システムを実装していた。カメラやGPS、加速度センサなど各種センサによって携帯電話の位置や向きをトラッキングすることで、正しい位置と向きに画像を表示するシステムはARの実現のために重要な技術である。AR用のトラッキングのための画像認識ライブラリは19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>にリリースされた「ARToolKit」などから利用することができ、2003年にはDieter SchmalstiegおよびDaniel Wagnerによって携帯電話・<a href="http://localhost/keyword/PDA">PDA</a>向けで初のマーカー・トラッキング・システムが開発されていた。アジアではQRコードが携帯電話による画像認識マーカーとして普及していたため、ARのマーカー・トラッキングにも用いられるようになった。<br />
+<br />
+テレビや映画や雑誌などといったエンターテイメント利用の事例も、日本ではAR三兄弟などを中心に進んでいる。<br />
+<br />
+20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>には詩人・アーティストのni_kaがAR技術を用いた「AR詩」を発表している「AR技術による喪の空間の創造　ni_kaのAR詩について」『DOMMUNE OFFICIAL GUIDE BOOK2』<a href="http://localhost/keyword/%E6%B2%B3%E5%87%BA%E6%9B%B8%E6%88%BF%E6%96%B0%E7%A4%BE">河出書房新社</a>　20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>　p49-50「ni_kaの「AR詩」」『Web Designing』20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>6月号　マイナビ　p43。<br />
+<br />
+20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>、Googleによる<a href="http://localhost/keyword/%E6%8B%A1%E5%BC%B5%E7%8F%BE%E5%AE%9F">拡張現実</a>ツール「Google Glass」のベータ版のテストが始まり、この製品向けの様々な<a href="http://localhost/keyword/%E6%8B%A1%E5%BC%B5%E7%8F%BE%E5%AE%9F">拡張現実</a>アプリケーションがサードパーティーにより実装されてきている。眼鏡型および時計型コンピュータは、スマートフォン以降のウェアラブル・コンピュータ（身に付けられるコンピュータ。持ち運びできるモバイル・コンピュータの次に来る流れとして注目されている）の本命と見なされている。<br />
+<br />
+== 用途 ==<br />
+=== 医療 ===<br />
+手術時に<a href="http://localhost/keyword/%E6%8B%A1%E5%BC%B5%E7%8F%BE%E5%AE%9F">拡張現実</a>により体内の臓器を投影する手法が開発中[http://development.blog.shinobi.jp/Entry/8339/ 身体スキャンにより手術を支援するAR - 医療での<a href="http://localhost/keyword/%E6%8B%A1%E5%BC%B5%E7%8F%BE%E5%AE%9F">拡張現実</a>技術利用イメージ - InsideOut. SamGMU Augmented reality project.]。<br />
+<br />
+=== 軍事 ===<br />
+IHADSSから暗視画像が表示される]]<br />
+以前からAH-64 アパッチには暗視装置の画像を表示するAN/AAQ-11が搭載されていた。<br />
+<br />
+軍事演習のために<a href="http://localhost/keyword/%E6%8B%A1%E5%BC%B5%E7%8F%BE%E5%AE%9F">拡張現実</a>を利用したXARMEXというシステムが開発中[http://www.topentity.com/xarmex/ XARMEX]。<br />
+<br />
+== ポピュラーカルチャーにおける<a href="http://localhost/keyword/%E6%8B%A1%E5%BC%B5%E7%8F%BE%E5%AE%9F">拡張現実</a> ==<br />
+ARを利用する具体的なビジョンは「スタートレック」などのSFに現れてきた[http://www.wired.com/business/2012/04/opinion-abell-ar-envy/ Augmented Reality’s Path From Science Fiction to Future Fact]。<br />
+<br />
+日本におけるAR技術周知のきっかけのひとつとして、&#34;<a href="http://localhost/keyword/%E6%8B%A1%E5%BC%B5%E7%8F%BE%E5%AE%9F">拡張現実</a>に類似したツール&#34;が登場するアニメ「電脳コイル」(2007) の存在を挙げる声もある。ただし、電脳コイルに登場する<a href="http://localhost/keyword/%E6%8B%A1%E5%BC%B5%E7%8F%BE%E5%AE%9F">拡張現実</a>は、実際のAR技術と直接の関係はない。<br />
+<br />
+<br />
+また、同作品以前にも&#34;<a href="http://localhost/keyword/%E6%8B%A1%E5%BC%B5%E7%8F%BE%E5%AE%9F">拡張現実</a>に類似したツール&#34;が登場するアニメ・漫画は数多く存在する。例えば「ドラゴンボール」に登場する、相手の戦闘力を見ることの出来る片眼鏡形の表示装置「スカウター」なども<a href="http://localhost/keyword/%E6%8B%A1%E5%BC%B5%E7%8F%BE%E5%AE%9F">拡張現実</a>の一種と言える。<br />
+<br />
+<br />
+このように、SF作品を中心に<a href="http://localhost/keyword/%E6%8B%A1%E5%BC%B5%E7%8F%BE%E5%AE%9F">拡張現実</a>を投影するヘッドマウントディスプレイやその他ディスプレイは数多くの作品で登場している。登場人物の表情を描写する都合からか、片眼鏡型で通信用ヘッドセットに付随しているものが多い。投影される情報は、敵との距離や武器の残弾、照準などである。<br />
+<br />
+==関連項目==<br />
+<br />
+* マーカーレスAR<br />
+* バーチャルリアリティ（VR、仮想現実）<br />
+* 拡張仮想（AV、オーグメンテッド・バーチャル）<br />
+* 複合現実（MR）<br />
+* ウェアラブルコンピューティング<br />
+* ユビキタスコンピューティング<br />
+* サード・リアリティ<br />
+* 位置情報サービス<br />
+<br />
+=== ARデバイス ===<br />
+* ヘッドマウンテッドディスプレイ<br />
+* EyeToy(PlayStation Eye、PlayStation Camera)<br />
+* Kinect<br />
+* ニンテンドー3DS（ARゲームズ）<br />
+* PlayStation Vita<br />
+* サイバーナビ<br />
+<br />
+=== ARを使ったゲーム、アプリケーションおよびサービス ===<br />
+<br />
+* AR3DPlayer<br />
+* AR Toolkit（ARソフト作成のためのライブラリ）<br />
+* AR3D (画像認識のマーカーレスARとQRコードのトラッキングエンジン。ライブラリ提供有り。)<br />
+* C<a href="http://localhost/keyword/ARK">ARK</a>CHO (ARコンテンツを作成するためのサービス)<br />
+* ARAPPLI<br />
+* S<a href="http://localhost/keyword/ATC">ATC</a>H<br />
+* AR三兄弟<br />
+* イマナラ!<br />
+* セカイカメラ<br />
+* クリッターズ<br />
+* 仮面ライダーARカードダス<br />
+* ONE PIECE ARカードダス<br />
+* ARゲームズ<br />
+* 顔シューティング<br />
+* ゆずイロトリドリARカメラ(ゆずの配信限定シングルイロトリドリ (ゆずの曲)のアプリ。)<br />
+* auナビウォーク (ルート検索し、「ナビ開始」をタップして、「AR」のマークをタップするとスマートフォンのカメラを用いて案内ができる機能、Androidのみ対応)<br />
+<br />
+=== ARの登場する作品 ===<br />
+* 電脳コイル<br />
+* アクセル・ワールド<br />
+* ROBOTICS;NOTES<br />
+* 遊戯王ZEXAL<br />
+* プリズム◇リコレクション!<br />
+* 人類は衰退しました<br />
+* ゴーストリコンシリーズ<br />
+* マブラヴ オルタネイティヴ<br />
+<br />
+== 出典 ==<br />
+<br />
+<br />
+== 外部リンク ==<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+*<br />
+Category:コンピュータの利用<br />
+Category:ユーザインタフェース<br />
+Category:社会技術<br />

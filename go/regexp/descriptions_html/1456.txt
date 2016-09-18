@@ -1,0 +1,83 @@
+description<br />
+ 伯備線<br />
+|キロ程    = 22.7km（倉敷起点）岡山から38.6<br />
+|起点駅    = <br />
+|所在地    = 岡山県総社市美袋1924-2<br />
+| 緯度度 = 34|緯度分 = 43|緯度秒 = 11.65<br />
+| 経度度 = 133|経度分 = 39|経度秒 = 15.83<br />
+|駅構造    = 地上駅<br />
+|ホーム    = 2面3線<br />
+|開業年月日= 19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>（大正<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）5月17日<br />
+|廃止年月日= <br />
+|乗車人員  = 269<br />
+|乗降人員  = <br />
+|統計年度  = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換      = <br />
+|備考      = 無人駅（自動券売機 有）<br />
+|備考全幅 = <br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E7%BE%8E%E8%A2%8B%E9%A7%85">美袋駅</a>&#39;（みなぎえき）は、岡山県総社市美袋にある、西日本旅客鉄道（JR西日本）伯備線の駅である。難読駅名として知られている。<br />
+<br />
+== 歴史 ==<br />
+* 19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>（大正<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）5月17日 - 伯備南線の宍粟駅（現・豪渓駅） - <a href="http://localhost/keyword/%E7%BE%8E%E8%A2%8B%E9%A7%85">美袋駅</a>間延伸時に、終着駅として開業。<br />
+* 1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>（大正<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）6月20日 - 伯備南線が木野山駅まで延伸。途中駅となる。<br />
+* 1<a href="http://localhost/keyword/928%E5%B9%B4">928年</a>（昭和3年）10月25日 - 伯備南線が伯備線に改称され、当駅もその所属となる。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、西日本旅客鉄道の駅となる。<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）<br />
+** 4月1日 - 簡易委託を廃止。<br />
+** 7月2日 - ICOCA対応の簡易型自動改札機設置。<br />
+** 12月7日 - 駅舎が登録有形文化財に指定される。<br />
+<br />
+== 駅構造 ==<br />
+構内（200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>8月1日）<br />
+単式ホーム1面1線と島式ホーム1面2線、合計2面3線のホームを持つ地上駅。駅舎は単式ホームの1番のりば側にあり、島式ホームの2・3番のりば側へは跨線橋で連絡している。風格ある古い木造瓦葺きの駅舎が特徴である。<br />
+<br />
+かつては簡易委託駅であったが、200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）に完全な無人駅となった。現在は倉敷駅が管理している。ICOCA利用可能駅（相互利用可能ICカードはICOCAの項を参照）。ICOCAチャージ機能付きの自動券売機および、簡易型の自動改札機が設置されている。便所は新しく作り直され、男女別になっている。<br />
+<br />
+駅舎は200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）12月7日に登録有形文化財に指定されている。駅舎は、伯備線倉敷 - 美袋間が開通した19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>（大正<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）に建てられた。木造平屋（79平方メートル）でセメント瓦葺きの切妻屋根、外壁に木板を重ねた構造が特徴。窓や入り口の建具をアルミサッシに変更した以外は、ほぼ建築当初の姿を保っている。1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>（昭和<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>）から総社市が管理。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+下り本線は1番のりば、上り本線は3番のりば。2番のりばは上下共用の待避線（中線）であり、下り列車の発着も可能であるが、200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）8月時点、当駅で待避を行う下り列車は設定されていない。<br />
+<br />
+== 利用状況 ==<br />
+1日の平均乗車人員は以下の通りである。<br />
+<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 総社市役所昭和出張所（旧・昭和町役場）<br />
+* 美袋郵便局<br />
+*高梁川<br />
+* 総社市立昭和中学校<br />
+* 総社市立昭和小学校<br />
+* 国道180号<br />
+* 岡山県道193号美袋停車場線<br />
+<br />
+== 隣の駅 ==<br />
+; 西日本旅客鉄道<br />
+:  伯備線<br />
+:: 日羽駅 - &#39;<a href="http://localhost/keyword/%E7%BE%8E%E8%A2%8B%E9%A7%85">美袋駅</a>&#39; - 備中広瀬駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.jr-odekake.net/eki/top.php?id=0650406 <a href="http://localhost/keyword/%E7%BE%8E%E8%A2%8B%E9%A7%85">美袋駅</a>（JR西日本）]<br />
+<br />
+<br />
+<br />
+<br />
+Category:岡山県の鉄道駅<br />
+なき<br />
+Category:西日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+みなきえき<br />
+Category:19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>開業の鉄道駅<br />
+みなきえき<br />
+みなきえき<br />
+みなきえき<br />
+みなきえき<br />

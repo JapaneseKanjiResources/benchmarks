@@ -1,0 +1,50 @@
+description<br />
+ |<br />
+ 世紀=1 |<br />
+ 次世紀=2 |<br />
+<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=10 |<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=20 |<br />
+ <a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀=30 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=40 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=50 |<br />
+<br />
+ 3年前=33 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>前=34 |<br />
+ 1年前=35 |<br />
+ 年=36 |<br />
+ 1年後=37 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>後=38 |<br />
+ 3年後=39 |<br />
+}}<br />
+<br />
+<br />
+== 他の紀年法 ==<br />
+<br />
+* 干支 : 丙申<br />
+* 日本<br />
+** 垂仁天皇<a href="http://localhost/keyword/65%E5%B9%B4">65年</a><br />
+** 皇紀<a href="http://localhost/keyword/696%E5%B9%B4">696年</a><br />
+*中国<br />
+** 後漢 : 建武<a href="http://localhost/keyword/12%E5%B9%B4">12年</a><br />
+*** 公孫述 : 龍興<a href="http://localhost/keyword/12%E5%B9%B4">12年</a><br />
+* 朝鮮<br />
+** 高句麗 : 大武神王<a href="http://localhost/keyword/19%E5%B9%B4">19年</a><br />
+** 新羅 : 儒理王<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+** 百済 : 多婁王<a href="http://localhost/keyword/9%E5%B9%B4">9年</a><br />
+** 檀紀2<a href="http://localhost/keyword/369%E5%B9%B4">369年</a><br />
+* 仏滅紀元 : <a href="http://localhost/keyword/579%E5%B9%B4">579年</a><br />
+* ユダヤ暦 : 3<a href="http://localhost/keyword/796%E5%B9%B4">796年</a> - 3<a href="http://localhost/keyword/797%E5%B9%B4">797年</a><br />
+<br />
+== できごと ==<br />
+*<a href="http://localhost/keyword/%E3%83%9A%E3%83%AB%E3%82%BB%E3%82%A6%E3%82%B9%E5%BA%A7">ペルセウス座</a>流星群が初めて観測された。<br />
+*ポンティウス・ピラトゥスがユダヤ総督を罷免される。<br />
+*光武帝が公孫述の政権「成」を滅ぼし、中国全土を統一。（新末後漢初）<br />
+<br />
+== 誕生 ==<br />
+<br />
+== 死去 ==<br />
+<br />
+Category:<a href="http://localhost/keyword/36%E5%B9%B4">36年</a><br />
+<br />
+als:30er#36<br />

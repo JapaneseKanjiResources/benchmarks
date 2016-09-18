@@ -1,0 +1,13 @@
+description
+'Glue Record'とは、DNSにおいて、下位のドメインを委譲する場合に、委譲元のネームサーバに登録される、移譲先のネームサーバのAレコードのことである。
+
+たとえば、ns.example.com（委譲元ネームサーバ）は、
+:Question:www.subnet.example.com　ANY （www.subnet.example.com知らない？）
+に対し、以下のような返事を行う。
+*Authority: subnet.example.com NS ns.subnet.example.com （それについては、ns.subnet.example.com（移譲先ネームサーバ）に聞いてくれ）
+*Addition : ns.subnet.example.com A 192.168.0.1 （これがGlue Record）
+この場合、Glueが無ければ、永遠にns.subnet.example.comに到達することはできなくなってしまう。
+
+
+
+Category:インターネットのプロトコル

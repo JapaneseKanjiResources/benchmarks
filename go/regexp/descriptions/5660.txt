@@ -1,0 +1,64 @@
+description
+
+ヘレナモルフォ（''M. helena''）
+タイヨウモルフォ（''M. hecuba''）
+ペレイデスモルフォ（''M. peleides''）
+ペレイデスモルフォ
+シロモルフォ（''M. polyphemus''）
+'モルフォチョウ'（モルフォ蝶・学名''Morpho''）は、北アメリカ南部から南アメリカにかけて80種ほどが生息する大型のチョウの仲間。"Morpho"は、ギリシャ語で「形態」・「美しい」を意味し、アプロディーテーおよびウェヌスの形容語句でもある。
+
+分類上はタテハチョウ科・モルフォチョウ亜科・モルフォチョウ族・'モルフォチョウ属'に分類される。モルフォチョウ亜科はモルフォチョウ科（Morphidae）という独立した科で扱われることもある。
+
+体にくらべて非常に大きな翅をもち、さらに翅の表側に金属光沢をもつのが特徴である。この光沢はほとんどの種類で青に発色する。これは翅の表面にある櫛形の鱗粉で光の干渉が起きるため、光沢のある青みが現れる。このような現象を構造色という。また、不規則な軌跡を描いて速く飛ぶのも特徴である。鮮やかな翅の色を持つのは雄で、ほとんどの雌は雄よりも地味な茶色か青みが少ないことが多い。
+
+翅の裏側には褐色や灰色のまだら模様がある。また、翅の裏には目玉模様（眼状紋）がある種類がほとんどで、分類上はジャノメチョウに近縁とされている。翅の表裏の色の変化で天敵を驚かせると考えられている。翅を閉じていると目立たない。
+
+森林に生息する。幼虫はマメ科の植物を食べる。成虫の寿命は約1ヶ月で、毒があるため捕食者はあまりいない。成虫は花の蜜よりも腐った果実、動物の死骸、キノコなどを好む。雄は川沿いなどをパトロール飛行する習性がある。
+
+生息地ではしばしば蝶園で養殖され、標本は土産物などにされている。モルフォチョウの標本は、体液が染み出て翅の構造色を損なうのを防ぐために腹部が除去されているものが多い。
+
+== 採集方法 ==
+モルフォ蝶の採集方法は果実採集と青い銀紙による採集がある。
+
+果実採集のために準備するものは、腐った果実とサトウキビである。バケツにサトウキビの絞り汁を入れてその中に果実を浸し、木の枝の上などに置いておくというもので、これはカブトムシなどの甲虫等も採集することができる。
+
+銀紙による採集は、モルフォチョウの雄が青く反射するものを全て同種の雄と勘違いして追い払うために近づいてくる性質を利用したもので、銀紙の反射によってモルフォ蝶をおびき寄せ、網で捕まえる。この採集方法は当時南アメリカで役人を務めていたフランス人のウジェーヌ・ル・ムールトが考え出したものである。
+
+== 主な種類 ==
+モルフォチョウの多くにはギリシャ神話の登場人物の名が付けられている。
+* アキレアナモルフォ ''M. achilleana''
+* アドニスモルフォ ''M. adonis''
+* アナキシビアモルフォ ''M. anaxibia''
+:ブラジル南部にだけに生息し、羽の色は青色で雌は羽のふちが茶色になっている
+* エガーモルフォ ''M. aega''
+* エロスモルフォ ''M. eros''
+:アマゾン川源流の標高2000m級の産地に生息する。希少種でボリビアに生息する。
+* カシカモルフォ ''Morpho cacica''
+* キプリスモルフォ ''M. cypris''
+* シロモルフォ ''M. polyphemus''
+:名前のとおり羽が白く、羽のふちには茶色の模様があり、腐った果実によく集まる。メキシコに生息。
+* タイヨウモルフォ ''M. hecuba''
+:モルフォ蝶の中でも最大級（20cm）の茶色の羽をもつモルフォ。ブラジルに生息。
+* タミリスモルフォ ''M. thamyris''
+* ディダミアモルフォ ''M. deidamia''
+* ディディウスモルフォ ''M. didius''
+* テレマクスモルフォ ''M. telemachus''
+* ネスティラモルフォ ''M. nestira''
+* パトロクルスモルフォ ''M. patroclus''
+* ブリセイスモルフォ ''Morpho briseis''
+* メネラウスモルフォ ''M. menelaus''
+:モルフォ蝶の仲間では一番の普通種。コロンビア、ブラジル、ベネズエラ、ペルーに生息。
+* モンテズマモルフォ ''M. montezuma''
+* ルナモルフォ ''M. luna''
+* レテノールモルフォ ''M. rhetenor''
+
+== 文学 ==
+*Blandin, P. 2007. ''The Systematics of the Genus Morpho, Lepidoptera Nymphalidae'' Hillside Books, Canterbury.[http://www.insects.demon.co.uk/mono/TS-english.html]
+*Blandin, P. 1988. ''The genus Morpho, Lepidoptera Nymphalidae''. Part 1. The subgenera Iphimedeia and Schwartzia. Sciences Nat, Venette.
+*Blandin, P. 1993. ''The genus Morpho, Lepidoptera Nymphalidae''. Part 2. The subgenera Iphixibia, Cytheritis, Balachowskyna, and Cypritis.  Sciences Nat, Venette.
+*Blandin, P. 2007. ''The genus Morpho, Lepidoptera Nymphalidae''. Part 3. The Subgenera Pessonia, Grasseia and Morpho and Addenda to Parts 1 & 2. Hillside Books, Canterbury.[http://www.insects.demon.co.uk/mono/Blandin3-english.html]
+
+
+
+
+*もるふおちよう

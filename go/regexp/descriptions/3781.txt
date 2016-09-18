@@ -1,0 +1,85 @@
+description
+'動名詞'（どうめいし）は、言語学における準動詞の一種で、印欧語で動詞が名詞としての機能を持って使われるようになること。そのため、文中で、主語や目的語になることができる。動詞としての機能もそのまま持っていて、目的語、補語、副詞句を伴うことができ、名詞句を形成する。目的語に動名詞のみをとる動詞、不定詞のみをとる動詞がある。
+
+==英語==
+英語では動詞の原形に '-ing' を付けて動名詞を作る。現在分詞と同形であるが、起源を異にする。
+
+動詞の目的語、あるいは慣用表現などにしばしば用いられるが、その文法的性質は一般的にそれに伴う動詞の性質、ないしは前置詞の意味に基づく。他動詞の目的格において明確に動名詞と不定詞が区別されるものがあるのは、動名詞は主に過去、不定詞は未来の事象を示すことによる。
+
+===例文===
+* ''Trying'' F1 is so fun.（F1 に挑戦するのはとても楽しい）
+
+===目的語に動名詞のみをとる動詞===
+不定詞もとるが名詞的用法以外の用法として使われる場合も含む。
+*give（・・・を与える、～に・・・を与える）
+*stop
+*enjoy
+*practice
+*escape
+*admit
+*avoid
+*mind
+*discuss
+*finish
+*delay
+
+===目的語に不定詞のみをとる動詞===
+これらは一般的に目的格内の動作が未来に行われることから、未来を表す不定詞を伴う。
+*decide
+*want
+*hope
+*plan
+*afford
+*agree
+
+===動名詞と不定詞で意味が変わる動詞===
+これら 2 つの例は、動名詞は主に過去、不定詞は未来の事象を示すことから意味の相違が生まれる。
+*forget
+*remember
+
+===慣用句など===
+*I'm ''looking forward to'' 'meeting' you next Sunday at the museum.
+（その博物館で次の日曜日お会いできることを楽しみにしています）
+
+※動詞句 look forward to は、前置詞 to の文法的性質から、不定詞でなく名詞句もしくは動名詞を目的語にとる。
+
+*on + 動名詞「～するやいなや」
+:'On arriving' at the station, I was looking for him.（動名詞句、副詞句、単文）
+:= 'On arrival' ..., ....（名詞構文、前置詞句、副詞句、単文）
+:= 'As soon as' ['The moment', 'The instant'] I arrived ..., ....（副詞節、複文）
+:= 'No sooner' had I arrived ... 'than' I was looking for him.（副詞節、複文）
+:= 'Hardly' ['Scarcely'] had I arrived ... 'when' ['before'] I was looking for him.（副詞節、複文）
+「駅に着くやいなや彼を探した。」
+
+*in + 動名詞「～するとき」(= when)
+これら in と on における意味の相違はそれぞれの前置詞の文法的意味の相違による。
+
+*with a view to + 動名詞「～するために」(= for the purpose of + 動名詞, in order [so as] to 不定詞, in order [so] that 節)
+::I must study hard 'with a view to' ['for the purpose of'] 'getting' a high score. （高得点を取るためには、一生懸命勉強しなければならない；目的）
+::=I must study hard 'in order' ['so'] 'that' I 'may get' a high score.
+::=I must study hard 'in order' ['so as'] 'to get' a high score.
+
+*for fear of + 動名詞「～しないように」(= for fear (that) [lest] 節)
+*make a point of + 動名詞「～することにしている」(= make it a rule to 不定詞)
+*it goes without saying that ... (= not to mention ..., it is needless to say that ...)「〜は言うまでもなく」
+
+== 英語以外の言語における動名詞 ==
+英語では動名詞をジェランド（gerund）と呼ぶ。これはラテン語の'ゲルンディウム'（gerundium）に由来する文法用語である。ゲルンディウムは英語と同じく動名詞と訳されるが、用法は異なる。ラテン語の不定法は主格・対格としてのみ使われるため、斜格または前置詞の目的語としてはかわりにゲルンディウムが使われる。
+
+ラテン語にはゲルンディウムとは別に動形容詞（gerundivum ゲルンディーウム、）という形があり、こちらは動詞から派生した形容詞であって、しばしば「……されるべき」という意味を表すため、受動未来分詞と呼ばれることもある。形態の上ではゲルンディウムとゲルンディーウムは同形である（ただしゲルンディウムには単数形しかなく、主格もない）。ちなみに gerundium という語は、それ自身 gero（運ぶ、実行する）のゲルンディーウムである gerundus に由来する。
+
+ロマンス諸語にはラテン語のゲルンディーウムに由来する名称を持つ準動詞がある（フランス語のジェロンディフ（gérondif）、イタリア語のジェルンディオ（gerundio）、スペイン語のヘルンディオ（gerundio）など）が、これらは分詞構文などで副詞としてのみ用いられ、名詞として用いることはできない。
+
+なお、ドイツ語には英語の動名詞に相当する準動詞は存在せず、動詞を名詞的に用いる場合は原形不定詞やzu不定詞句などを使う。
+
+== 関連記事 ==
+*不定詞
+*分詞
+*品詞
+*文法
+
+
+
+
+Category:品詞
+Category:準動詞の種類

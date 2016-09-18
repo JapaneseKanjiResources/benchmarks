@@ -1,0 +1,215 @@
+description<br />
+高崎線<br />
+|キロ程 = 8.2km（大宮起点）上野から尾久経由で35.1<br />
+|起点駅 = <br />
+|所在地 = 埼玉県上尾市柏座一丁目1-18<br />
+|緯度度=35|緯度分=58|緯度秒=24.72<br />
+|経度度=139|経度分=35|経度秒=18.42<br />
+|駅構造 = 地上駅（橋上駅）<br />
+|ホーム = 2面3線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/883%E5%B9%B4">883年</a>（明治<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>）7月28日<br />
+|廃止年月日 =<br />
+|乗車人員 = 41,168<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換 =<br />
+|備考 = みどりの窓口 有<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E4%B8%8A%E5%B0%BE%E9%A7%85">上尾駅</a>&#39;（あげおえき）は、埼玉県上尾市柏座一丁目にある、東日本旅客鉄道（JR東日本）高崎線の駅である。<br />
+<br />
+== 歴史 ==<br />
+上尾は中山道の宿場町であったが、沿道の他の宿場と比べると小さかった。1<a href="http://localhost/keyword/883%E5%B9%B4">883年</a>（明治<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>）に、日本で3番目の鉄道である日本鉄道（現・高崎線）の開業とともに<a href="http://localhost/keyword/%E4%B8%8A%E5%B0%BE%E9%A7%85">上尾駅</a>が開業した。県内では<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>・鴻巣駅・熊谷駅と並んで古い駅となっている。中山道が駅の東を通っていたため、出口はこの東に向けて設けられた。<br />
+<br />
+19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>（昭和<a href="http://localhost/keyword/35%E5%B9%B4">35年</a>）の利用者数は一日平均13,996人であった。この頃から駅西側の宅地開発が始まり、利便性を高めるため、駅の北に東西を結ぶ宏栄橋が1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>（昭和<a href="http://localhost/keyword/46%E5%B9%B4">46年</a>）9月に架けられた。1<a href="http://localhost/keyword/967%E5%B9%B4">967年</a>（昭和<a href="http://localhost/keyword/42%E5%B9%B4">42年</a>）に駅自体の橋上化工事が始まり、1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>（昭和<a href="http://localhost/keyword/43%E5%B9%B4">43年</a>）2月に東西を結ぶ自由通路が完成し、同年6月10日に新駅舎での営業が開始された。<br />
+<br />
+1<a href="http://localhost/keyword/973%E5%B9%B4">973年</a>（昭和<a href="http://localhost/keyword/48%E5%B9%B4">48年</a>）には日本国有鉄道（国鉄）の労働組合による遵法闘争に怒った乗客が暴動を起こし、駅舎や電車を破壊するという騒動が起きている（&#39;上尾事件&#39;）。<br />
+<br />
+国鉄分割民営化により、夕ラッシュ時に停車駅を減らした快速「タウン」（後に快速アーバン）の運転が開始されたが、当駅は通過となった。そのため、上尾市は同じく通過駅となった<a href="http://localhost/keyword/%E6%A1%B6%E5%B7%9D%E9%A7%85">桶川駅</a>を有する桶川市とともに、JRに対して通勤快速の停車を長年要望し続け、200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>（平成<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>）10月16日のダイヤ改正によって、下り2本に限って2駅への停車が実現した。<br />
+<br />
+=== 年表 ===<br />
+* 1<a href="http://localhost/keyword/883%E5%B9%B4">883年</a>（明治<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>）7月28日 - 日本鉄道により開業。当駅は県内および高崎線内で<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>・鴻巣駅・熊谷駅と並び最も古い駅となっている。<br />
+* 1<a href="http://localhost/keyword/906%E5%B9%B4">906年</a>（明治<a href="http://localhost/keyword/38%E5%B9%B4">38年</a>）11月1日 - 鉄道国有化にともない国有鉄道の駅となる。<br />
+* 1<a href="http://localhost/keyword/935%E5%B9%B4">935年</a>（昭和<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>） - 駅舎を改築する。<br />
+* 1<a href="http://localhost/keyword/967%E5%B9%B4">967年</a>（昭和<a href="http://localhost/keyword/42%E5%B9%B4">42年</a>） - 橋上化の工事開始。<br />
+* 1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>（昭和<a href="http://localhost/keyword/43%E5%B9%B4">43年</a>）6月10日 - 新駅舎の営業開始。<br />
+* 19<a href="http://localhost/keyword/69%E5%B9%B4">69年</a>（昭和<a href="http://localhost/keyword/44%E5%B9%B4">44年</a>）12月8日 - 新駅舎完成。<br />
+* 1<a href="http://localhost/keyword/973%E5%B9%B4">973年</a>（昭和<a href="http://localhost/keyword/48%E5%B9%B4">48年</a>）3月13日 - 上尾事件発生。<br />
+* 1<a href="http://localhost/keyword/983%E5%B9%B4">983年</a>（昭和<a href="http://localhost/keyword/58%E5%B9%B4">58年</a>）9月 - 東口再開発事業が完了。商業施設群『アリコベール』完成。自由通路と上下ホーム幅が拡幅される。<br />
+* 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>（昭和<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>）3月14日 - 新特急の停車開始。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化でJR東日本の駅となる。<br />
+* 1<a href="http://localhost/keyword/995%E5%B9%B4">995年</a>（平成<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）2月 - 西口にペデストリアンデッキが完成。<br />
+* 2001年（平成<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）11月18日 - ICカードSuica供用開始。<br />
+* 200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>（平成<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）3月 - 「JR<a href="http://localhost/keyword/%E4%B8%8A%E5%B0%BE%E9%A7%85">上尾駅</a>改修等に係る研究会」発足（官民各団体20名）。<br />
+* 2003年（平成<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）3月24日 - 研究会が「JR<a href="http://localhost/keyword/%E4%B8%8A%E5%B0%BE%E9%A7%85">上尾駅</a>改修等に係る提言書」を市に提出。<br />
+* 200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>（平成<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>）10月16日 - 通勤快速の一部停車開始。<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）<br />
+**4月19日 - 臨時市議会で駅舎改修の工事委託契約を承認。<br />
+** 6月23日 - 3年6か月の期間で駅舎改修工事着工。総工費は40億6,600万円（上尾市負担額 36億5,100万円）。<br />
+* 20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>（平成<a href="http://localhost/keyword/22%E5%B9%B4">22年</a>）<br />
+** 3月14日 - E’site上尾が開業。<br />
+** 6月1日 - この日から発車メロディが「上尾市歌」に変更されるp. 13 - 上尾市、20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>3月、20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>12月18日閲覧。。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>） - 駅舎改修工事完成。東西自由通路が8mから20mに拡張。<br />
+* 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）7月28日 - 開業130周年を迎え、記念イベントが開催される。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線（1番線）と島式ホーム1面2線（2・3番線）の計2面3線のホームを持つ地上駅で、橋上駅舎を有している。新駅舎の一部供用開始により、各ホームとコンコースを連絡するエスカレーターが2基ずつ、エレベーターが1基ずつ設置されている。<br />
+<br />
+社員配置駅（管理駅）で、北<a href="http://localhost/keyword/%E4%B8%8A%E5%B0%BE%E9%A7%85">上尾駅</a>を管理下に置く。みどりの窓口、びゅうプラザ、指定席券売機、自動改札機が設置されている。改札内にはKIOSK、そば店、トイレがある。<br />
+<br />
+駅舎は東西自由通路と一体化し、東西両駅前広場のペデストリアンデッキと連結しており、バスターミナルや商業施設群と連絡する。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+* 本項では上野東京ラインのラインカラーを紫で示すが、実際のホーム案内はオ<a href="http://localhost/keyword/%E3%83%AC%E3%83%B3%E3%82%B8">レンジ</a>で案内されている。<br />
+* 特急「あかぎ・スワローあかぎ」の一部と湘南新宿ラインの列車は新宿駅方面に発着し、後者はさらに大船駅経由で東海道線へ直通する。上野東京ラインの列車は上野駅を経由して東京駅から東海道線へ直通する。<br />
+* 下り通勤快速、下り快速、上下特急の前を走っていた普通が、当駅2番線で待避する場合がある。朝ラッシュ時には、普通列車と特急列車の利用者を分離する目的で上り（上野行・新宿行）特急は接続列車がなくても2番線に入線する。上り特別快速の待避は200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>3月14日改正で<a href="http://localhost/keyword/%E6%A1%B6%E5%B7%9D%E9%A7%85">桶川駅</a>に変更されている。<br />
+* 下りホームには夕方ラッシュ時における降車客対策を目的としてホームから旅客を分離する空中回廊が設置されていたが、駅舎改修工事のため閉鎖・解体された。<br />
+* 発車メロディは「上尾市歌」のサビの部分をア<a href="http://localhost/keyword/%E3%83%AC%E3%83%B3%E3%82%B8">レンジ</a>したものである[http://www.city.ageo.lg.jp/page/015<a href="http://localhost/keyword/110">110</a>60701.html 市歌、<a href="http://localhost/keyword/%E4%B8%8A%E5%B0%BE%E9%A7%85">上尾駅</a>、北<a href="http://localhost/keyword/%E4%B8%8A%E5%B0%BE%E9%A7%85">上尾駅</a>の発車メロディ] - 上尾市役所。<br />
+<br />
+ファイル:New Ageo Station 3.JPG|改札口（20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>6月11日）<br />
+ファイル:New Ageo Station 4.JPG|自由通路（西口側）（20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>6月11日）<br />
+ファイル:New Ageo Station 5.jpg|自由通路（東口側）（20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>6月11日）<br />
+<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度の一日平均乗車人員は&#39;41,168人&#39;である[http://www.jreast.co.jp/passenger/2014_01.html 各駅の乗車人員（20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度）] - 東日本旅客鉄道。同社の駅では第103位。<br />
+<br />
+高崎線全体（高崎線として運行されている列車が発着する駅を含む）では大宮駅、上野駅、赤羽駅、<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>、<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>新都心駅に次ぐ6位となっている。<br />
+<br />
+近年の一日平均乗車人員推移は下表のとおりである。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+<br />
+高崎線は南東から北西に走っており、北東側を東口、南西側を西口としている。両側とも駅前広場があり、東西自由通路と連結したペデストリアンデッキが設置されている。<br />
+<br />
+=== 東口 ===<br />
+* アリコベール - デパート館「丸広百貨店」・ホテル館・サロン館・プラザ館が、それぞれ駅前広場を取り囲む形で立ち並ぶ、東武鉄道系列の商業施設群。<br />
+* 旧中山道（埼玉県道164号鴻巣桶川<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>線）<br />
+* 上尾市役所<br />
+* 上尾市図書館<br />
+* 上尾宮本町郵便局<br />
+* ベ<a href="http://localhost/keyword/%E3%83%AB%E3%83%BC%E3%83%8A">ルーナ</a>本社<br />
+* 埼玉りそな銀行 上尾支店<br />
+* 国道17号（中山道）<br />
+<br />
+=== 西口 ===<br />
+* 上尾市役所 <a href="http://localhost/keyword/%E4%B8%8A%E5%B0%BE%E9%A7%85">上尾駅</a>出張所<br />
+* 上尾郵便局（ゆうちょ銀行上尾店併設）<br />
+* 上尾柏座郵便局<br />
+* 上尾中央総合病院<br />
+* 上尾ショーサンプラザ - イトーヨーカドー上尾店が主要テナントとして入居する昭和産業の商業ビル。<br />
+* みずほ銀行 上尾支店<br />
+* 三菱東京<a href="http://localhost/keyword/UFJ">UFJ</a>銀行 上尾支店<br />
+* 埼玉りそな銀行 上尾西口支店<br />
+* ライオンズタワー上尾（2F プラザ22）<br />
+* モンシェリー（アーケード商店街）<br />
+<br />
+=== バス路線 ===<br />
+東武バスウエスト大宮営業事務所（東口）・東武バスウエスト上尾営業所（西口）・朝日自動車菖蒲営業所・丸建自動車「けんちゃんバス」の路線が発着し、上尾市内循環バス「ぐるっとくん」（東武バスウエスト・協同観光バス・丸建自動車に運行委託）も発着する。かつては東武バスが一円に路線網を保有していたが、東口では基幹路線を除いて朝日自動車に移管された。<br />
+<br />
+その他、降車専用であるが<a href="http://localhost/keyword/%E5%9B%BD%E9%9A%9B%E8%88%88%E6%A5%AD">国際興業</a>バスの深夜中距離バス「ミッドナイトアロー上尾・鴻巣」も当駅東口を経由する。<br />
+<br />
+路線の詳細は各事業者・営業所の記事を参照。<br />
+<br />
+==== 西口 ====<br />
+&#39;1番乗り場&#39;<br />
+* 尾11：西柏座経由 西上尾車庫行（東武バスウエスト）<br />
+* 尾12：西柏座・畔吉経由 西上尾車庫行（東武バスウエスト）<br />
+* 尾13：西柏座経由 西上尾第一団地行（東武バスウエスト）<br />
+* 尾14：西柏座・団地（内回り）経由 西上尾第一団地行（東武バスウエスト）<br />
+<br />
+&#39;2番乗り場&#39;<br />
+* 尾21：市民体育館前経由 西上尾第一団地行（東武バスウエスト）<br />
+* 尾22：市民体育館前・西上尾第二団地経由 西上尾第一団地行（東武バスウエスト）<br />
+<br />
+&#39;3番乗り場&#39;<br />
+* 尾31：市民体育館前経由 西上尾第二団地行（東武バスウエスト）<br />
+* 尾32：市民体育館前・西上尾第二団地経由 リハビリセンター行（東武バスウエスト）<br />
+<br />
+&#39;5番乗り場&#39;<br />
+* 扇02：秀明英光高校行（東武バスウエスト）<br />
+<br />
+&#39;6番乗り場&#39;<br />
+* 尾61：日産ディーゼル前経由 リハビリセンター行（東武バスウエスト）<br />
+* 尾62：日産ディーゼル前経由 平方行（東武バスウエスト）<br />
+* 尾63：日産ディーゼル前経由 丸山公園行（東武バスウエスト）<br />
+* 川越06：日産ディーゼル前経由 埼玉医大行（東武バスウエスト）<br />
+* 川越06：日産ディーゼル前・埼玉医大経由 川越駅行（東武バスウエスト）<br />
+* 扇02：日産ディーゼル前・リハビリセンター入口経由 指扇駅行（東武バスウエスト）<br />
+* 空港連絡バス（<a href="http://localhost/keyword/%E4%B8%8A%E5%B0%BE%E9%A7%85">上尾駅</a>・<a href="http://localhost/keyword/%E6%A1%B6%E5%B7%9D%E9%A7%85">桶川駅</a>～羽田空港線）：羽田空港行（東武バスウエスト）平成2<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>7月13日運行開始<br />
+<br />
+&#39;上尾協和ビル前乗り場&#39;<br />
+* ぐるっとくん大石領家北上尾線（東武バスウエスト）<br />
+* ぐるっとくん大石桶川線（東武バスウエスト）<br />
+* ぐるっとくん平方丸山公園線（東武バスウエスト）<br />
+* ぐるっとくん平方小敷谷循環（東武バスウエスト）<br />
+<br />
+&#39;駐輪場前乗り場&#39;<br />
+* ぐるっとくん大谷循環（東武バスウエスト）<br />
+* ぐるっとくん原市瓦葺線（協同観光バス）<br />
+<br />
+※4番乗り場は欠番<br />
+<br />
+==== 東口 ====<br />
+&#39;1番乗り場&#39;<br />
+* 大51：白樺通り入口経由 大宮駅東口行（東武バスウエスト、深夜バスも運行）<br />
+<br />
+&#39;2番乗り場&#39;<br />
+* 尾52：白樺通り経由 吉野町車庫行（東武バスウエスト）<br />
+*佐野プレミアム・アウトレット行（東武バス）（注：不定期運行、前日までの予約必要、片道のみの利用不可）<br />
+<br />
+&#39;3番乗り場&#39;<br />
+* がんセンター北口経由 伊奈役場行（朝日自動車）<br />
+* 羽貫駅前経由 伊奈学園総合高等学校行（朝日自動車）<br />
+* 沼南駅前経由 東大宮駅行（朝日自動車）<br />
+* 南平塚経由 東大宮駅行（朝日自動車）<br />
+<br />
+&#39;4番乗り場&#39;<br />
+* 二ツ宮経由 がんセンター前行（朝日自動車）<br />
+* 平塚住宅前経由 <a href="http://localhost/keyword/%E4%B8%8A%E5%B0%BE%E9%A7%85">上尾駅</a>東口行（朝日自動車）<br />
+<br />
+&#39;5番乗り場&#39;<br />
+* 7：日本薬科大学前経由 蓮田駅西口行（丸建自動車：けんちゃんバス）<br />
+* 埼玉アイスアリーナ・県立武道館行（直行シャトル便）（丸建自動車：けんちゃんバス）<br />
+* ぐるっとくん原市平塚循環（丸建自動車）<br />
+* ぐるっとくん上平菅谷北上尾線（協同観光バス）<br />
+* ぐるっとくん上平箕の木循環（協同観光バス）<br />
+<br />
+&#39;6番乗り場&#39;<br />
+* 送迎バス用の乗り場であり、路線バスの発着はない。<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 高崎線<br />
+:* 特急「草津」「あかぎ」「スワローあかぎ」停車駅（「草津」は一部通過）<br />
+:: 通勤快速（下りの一部のみ停車）・快速「アーバン」・（湘南新宿ライン）特別快速<br />
+::: 大宮駅 - &#39;<a href="http://localhost/keyword/%E4%B8%8A%E5%B0%BE%E9%A7%85">上尾駅</a>&#39; - <a href="http://localhost/keyword/%E6%A1%B6%E5%B7%9D%E9%A7%85">桶川駅</a><br />
+:: 普通・（湘南新宿ライン）普通（大宮駅から快速）<br />
+::: 宮原駅 - &#39;<a href="http://localhost/keyword/%E4%B8%8A%E5%B0%BE%E9%A7%85">上尾駅</a>&#39; - 北<a href="http://localhost/keyword/%E4%B8%8A%E5%B0%BE%E9%A7%85">上尾駅</a><br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+* 埼玉県道133号上尾停車場線 - 駅前通り<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=42 JR東日本 <a href="http://localhost/keyword/%E4%B8%8A%E5%B0%BE%E9%A7%85">上尾駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+Category:埼玉県の鉄道駅<br />
+けお<br />
+Category:日本鉄道<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/883%E5%B9%B4">883年</a>開業の鉄道駅<br />
+Category:高崎線<br />
+あけおえき<br />

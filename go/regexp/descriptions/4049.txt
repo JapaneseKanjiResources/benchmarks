@@ -1,0 +1,27 @@
+description
+
+
+'Pango'（Παν語）とは、GTK+に多言語テキストを表示するためのオープンソースライブラリ。PangoのPanはギリシャ語で「全て・汎（汎用）」、goは日本語の「語」を意味している。
+
+== 利用しているソフトウェア ==
+
+
+Pangoはほぼ全てのLinuxディストリビューションに組み込まれている。とりわけ、Fedora 6などはMozilla FirefoxウェブブラウザやMozilla Thunderbird電子メールクライアントにおけるテクストレンダリングに用いている。ただしPangoはMozillaのソースコードに含まれていないため、Mozilla Corporationから許可を得て行っている。また、DebianのIceweasel（Debian Etch以降におけるMozilla Firefoxの別名）やIceDove (Mozilla Thunderbird)、IceApe (SeaMonkey) もPangoを用いている。
+
+
+あらゆるテキストやグラフィックスがレンダリング可能となるのは、フリーのグラフィックライブラリであるcairoに統合されるまで待たなくてはならない。
+
+== 脚注 ==
+
+
+
+== 外部リンク ==
+
+[http://www.pango.org/ Pangoオフィシャルサイト]
+
+
+
+
+Category:GNOME
+Category:オープンソース
+Category:ライブラリ (プログラミング)

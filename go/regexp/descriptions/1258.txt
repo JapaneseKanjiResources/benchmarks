@@ -1,0 +1,108 @@
+description
+ 
+|left=ルテチウム
+|right=タンタル
+|above=Zr
+|below=Rf
+|series=遷移金属
+|group=4
+|period=6
+|block=d
+|image name=Hf-crystal bar.jpg
+|appearance=銀灰色
+|atomic mass=178.49
+|electron configuration=&#91;Xe&#93; 4f14 5d2 6s2
+|electrons per shell=2, 8, 18, 32, 10, 2
+|phase=固体
+|density gpcm3nrt=13.31
+|density gpcm3mp=12
+|melting point K=2506
+|melting point C=2233
+|melting point F=4051
+|boiling point K=4876
+|boiling point C=4603
+|boiling point F=8317
+|heat fusion=27.2
+|heat vaporization=571
+|heat capacity=25.73
+|vapor pressure 1=2689
+|vapor pressure 10=2954
+|vapor pressure 100=3277
+|vapor pressure 1 k=3679
+|vapor pressure 10 k=4194
+|vapor pressure 100 k=4876
+|vapor pressure comment=
+|crystal structure=hexagonal
+|japanese crystal structure=六方晶系
+|oxidation states='4', 3, 2（両性酸化物）
+|electronegativity=1.3
+|number of ionization energies=3
+|1st ionization energy=658.5
+|2nd ionization energy=1440
+|3rd ionization energy=2250
+|atomic radius=159
+|covalent radius=175±10
+|magnetic ordering=常磁性[http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf Magnetic susceptibility of the elements and inorganic compounds], in Handbook of Chemistry and Physics 81st edition, CRC press.
+|electrical resistivity at 20=331 n
+|thermal conductivity=23.0
+|thermal expansion at 25=5.9
+|speed of sound rod at 20=3010
+|Young's modulus=78
+|Shear modulus=30
+|Bulk modulus=110
+|Poisson ratio=0.37
+|Mohs hardness=5.5
+|Vickers hardness=1760
+|Brinell hardness=1700
+|CAS number=7440-58-6
+|isotopes=
+
+
+
+
+
+
+
+
+
+|isotopes comment=
+}}
+'ハフニウム'（）は原子番号72の元素。元素記号は 'Hf'。
+
+== 概要 ==
+チタン族元素の一つ。灰色の金属（遷移金属）。常温、常圧で安定な結晶構造は六方最密充填構造 (HCP) で、比重は13.31、融点は2222 、沸点は4450 （融点、沸点とも異なる実験値あり）。展性、延性に富む。酸化力のある酸に溶けるが、アルカリには溶けない。高温で酸素、水素、窒素、ハロゲンと反応する。原子価は+2価、+3価、+4価（+4価が最も安定）。化学的、物理的性質はジルコニウムに似る。
+
+天然ではハフニウムはジルコニウムの鉱物（ジルコン）にジルコニウムを置換して存在する。知られているハフニウムの鉱物（ハフニウムがジルコニウムよりも多い鉱物）はハフノンのみである[http://www.mindat.org/min-1792.html Hafnon ''mindat''][http://www.mindat.org/chemsearch.php?inc=Hf%2C&exc=&sub=Search+for+Minerals Chemical Search Hf ''mindat'']が、ジルコンに比べ非常に珍しい。苗木石（岐阜県苗木地方で見出されたもの）は最大7%程度のハフニウムを含む。
+
+== 用途 ==
+熱中性子の吸収断面積が大きく（これはジルコニウムとは逆の性質）、機械的強度、融点が高く、化学的にも安定で耐食性に優れることから、原子炉の制御棒の材料に利用される。また、酸化ハフニウムは、MOSFETのゲートからのリーク電流対策のための高誘電率 (High-k) 材料として注目されている。
+その他、酸化物の沸点が、タングステンよりも高いことから、酸化環境下でのプラズマ電極やプラズマアークノズルなどにも用いられる。
+
+== 歴史 ==
+1922年、デンマークのニールス・ボーアは、当時未発見だった72番元素はランタノイドではなくジルコニウムに類似したものだと予言してニールス・ボーア研究所のとゲオルク・ド・ヘヴェシーにジルコンの分析を提唱。エックス線分析と分別結晶を繰り返すことにより1923年に発見。ハフニウムとジルコニウムは性質がよく似ているため、ジルコニウムとの分離が難しく発見が遅れ、天然元素としては最後から三番目に発見された（二番目はレニウム、最後はフランシウムであり、その後発見された元素は全て合成されたものである）。ニールス・ボーア研究所のあるコペンハーゲンのラテン語名 ''hafnia'' が語源。
+
+== ハフニウムの化合物 ==
+* 炭化ハフニウム (HfC)
+** 炭化タンタルハフニウム (TaxHf1-xCy)
+* ケイ酸ハフニウム(IV) (HfSiO4)
+* 酸化ハフニウム(IV) (HfO2) - 高誘電率ゲート絶縁膜
+* フッ化ハフニウム(IV) (HfF4) - フッ化ガラスの材料
+* 塩化ハフニウム(IV) (HfCl4)
+
+== 同位体 ==
+
+
+== 出典 ==
+
+
+== 外部リンク ==
+* [http://mineralhunters.web.fc2.com/naegi06_2.html 岐阜県苗木地方の希元素鉱物]
+* [http://www.chemenv.titech.ac.jp/watanabe/Pages/plasma2.html ハフニウムを用いたプラズマトーチ]
+
+
+
+
+
+
+
+*

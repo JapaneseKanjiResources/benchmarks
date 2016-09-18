@@ -1,0 +1,97 @@
+description
+
+
+|nickname          = 城
+|usedname          = 
+|nameorigin        = 
+|image_city        = Fahua Pagoda 01 2014-03.jpg
+|image_caption     =法華塔
+|image_map         = Shanghai administrative Jiading.svg
+|map_caption       = 上海市中の嘉定区の位置
+|simplified        = 嘉定
+|traditional       = 
+|pinyin            = Jiādìng
+|katakana          = ジャーディン
+|wuupin            = 
+|class             = 市轄区
+|subdivision_type  = 国家
+|subdivision_name  = 中華人民共和国
+|subdivision_type1 = 直轄市
+|subdivision_name1 = 上海
+|leader_title      = 
+|leader_name       = 
+|leader_title1     = 
+|leader_name1      = 
+|established_title = 
+|established_date  = 
+|established_title1= 改制
+|established_date1 = 1992年
+|area_total        = 458.8
+|area_urban        = 
+|population_total  = 51
+|population_as_of  = 2003
+|population_density= 
+|latd              = 31
+|latm              = 23
+|lats              = 
+|latNS             = N
+|longd             = 121
+|longm             = 15
+|longs             = 
+|longEW            = E
+|elevation         = 
+|GDP               = 
+|GDP_as_of         = 
+|GDPPC             =  
+|areacode          = 021
+|postcode          = 201800
+|carlicense        = 
+|admini_division_code = 310114
+|website           = http://www.jiading.gov.cn/
+|footnotes         = 
+}}
+'嘉定区'（かていく、、、）は中華人民共和国上海市に位置する市轄区。
+
+== 地理 ==
+嘉定区は上海市西北部に位置し、西は江蘇省昆山市に、南は呉淞江（蘇州河）を隔てて閔行区・長寧区・青浦区に、北は江蘇省太倉市に、東は宝山区・普陀区に接する。
+
+== 歴史 ==
+秦代は会稽郡婁県に属し、隋唐代は蘇州昆山県に属した。1218年（嘉定10年）平江府昆山県東部が分割されることとなり、元号より'嘉定県'と命名された。元代になると1295年（元貞元年）に'嘉定州'に昇格したが、1369年（洪武2年）に明朝により'嘉定県'に戻されている。
+
+1958年に江蘇省から上海市の管轄に改編され、1992年10月11日に市管区に昇格し現在に至る。
+
+別称の城は唐代に城郷が設置されていたことによる。清初には嘉定城は清軍に降伏せず、三度にわたって抵抗、太平天国後期に太平軍が三度にわたって占領した。
+
+== 行政区画 ==
+下部に3街道と7鎮及び2区を管轄する。区人民政府は博楽南路に所在する。
+*街道
+**嘉定鎮街道
+**新成路街道
+**真新街道
+*鎮
+**馬陸鎮
+**南翔鎮
+**江橋鎮
+**安亭鎮
+**外岡鎮
+**徐行鎮
+**華亭鎮
+*区
+**嘉定工業区
+**菊園新区
+
+== 経済 ==
+米国のゼネラルモーターズ、ドイツのフォルクスワーゲン、日本のトヨタ自動車が自動車組立工場を進出しており、自動車産業が盛んである。
+
+2004年より開催されているF1の中国グランプリが行われる「上海インターナショナルサーキット（上海国際賽車場）」も嘉定区に所在している。
+
+== 外部リンク ==
+*[http://www.jiading.gov.cn/ 嘉定区人民政府] 
+
+
+
+
+
+
+*
+Category:上海市の行政区画

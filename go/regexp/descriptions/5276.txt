@@ -1,0 +1,445 @@
+description
+'人間の筋肉の一覧'（にんげんのきんにくのいちらん）は、人間の筋肉を一覧にしたものである。
+[[File:Skeletal muscles homo sapiens.JPG|thumb|400|'主要な筋肉の概要図'
+]]
+人体には、通常は、大小含めて約600を越える筋肉が存在する。筋肉は、大別すると骨格筋、平滑筋、心筋に分けられる。これらは、意識して動かすことができるかという点で随意筋（骨格筋のみ）と不随意筋（心筋・平滑筋）に分けられる。また、組織構造から横紋筋（心筋・骨格筋）と平滑筋に分けられる。
+
+骨格筋は、体幹筋と体肢筋に分けられる。そのうち体幹筋を体幹腹部の前体幹筋と体幹背部の後体幹筋に分ける。前体幹筋は頭部の筋・頸部の筋・胸部の筋・腹部の筋を含み、後体幹筋は背部の筋のみとなる。体肢筋は上肢の筋・下肢の筋に分けられる。
+
+==頭部の筋==
+この図に描かれている筋肉 額:[[前頭筋 目の周り:眼輪筋 口の周り:口輪筋 口の上:上唇挙筋 耳の上:上耳介筋 耳の前:前耳介筋 耳の裏:後耳介筋 鼻:鼻筋 顎から首:広頸筋 耳から首:胸鎖乳突筋 首の後:僧帽筋 など]]
+*浅頭筋(musculi capitis superficiales)（表情筋）
+**頭蓋表筋(musculi epicranius)
+***後頭前頭筋(musculus occipitofrontalis)
+****前頭筋(venter frontalis)
+****後頭筋(venter occipitalis)
+***側頭頭頂筋(musculus temporoparientalis)
+***鼻根筋(musculus procerus)
+*耳介筋(musculi auriculae)
+**外耳介筋(musculi auriculae externae)
+***上耳介筋(musculus auricularis superior)
+***前耳介筋(musculus auricularis anterior)
+***後耳介筋(musculus auricularis posterior)
+***側頭耳介筋(mesculus temporoparietalis)
+**内耳介筋(musculi auriculae internae)
+***大耳輪筋(musculus helicis major)
+***小耳輪筋(musculus helicis minor)
+***耳珠筋(musculus tragicus)
+***対珠筋(musculus antitragicus)
+***耳介横筋(musculus transversus auriculae)
+***耳介斜筋(musculus obliquus auriculae)
+*眼瞼筋(musculi palpebrae)
+**眼輪筋(musculus orbicularis oculi)
+**眉毛下制筋(musculus depressor supercilii)
+**皺眉筋(musculus corrugator supercilii)
+*鼻筋群
+**鼻筋(musculus nasalis)
+***鼻孔圧迫筋(Pars transversa musculi nasalis)
+***鼻孔開大筋(Pars alaris musculi nasalis)
+**鼻中隔下制筋(musculus depressor septi)
+*口筋(musculi oris)
+**大頬骨筋(musculus zygomaticus major)
+**小頬骨筋(musculus zygomaticus minor)
+**笑筋(musculus risorius)
+**上唇挙筋(musculus levator labii superioris)
+**上唇鼻翼挙筋(musculus levator labii superioris alaeque nasi)
+**口輪筋(musculus orbicularis oris)
+**口角挙筋(musculus levator anguli oris)
+**口角下制筋(musculus depressor anguli oris)
+**下唇下制筋(musculus depressor labii inferioris)
+**頬筋(musculus buccinator)
+**オトガイ筋(musculus mentalis)
+*咀嚼筋(musculi masticatorii)（深頭筋、musculi capitis profundae）
+**咬筋(musculus masseter)
+**側頭筋(musculus temporalis)
+**内側翼突筋(musculus pterygoideus medialis)
+**外側翼突筋(musculus pterygoideus lateralis)
+*頭筋膜
+
+==頸部の筋==
+*浅頸筋(musculi colli superficiales)
+**広頸筋(platysma)
+**胸鎖乳突筋(musculus sternocleidomastoideus)
+*深頸筋(musculi colli profundi)
+**斜角筋(musculus scalenus)
+***前斜角筋(musculus scalenus anterior)
+***中斜角筋(musculus scalenus medius)
+***後斜角筋(musculus scalenus posterior)
+***最小斜角筋(musculus scalenus minimus)
+**椎前筋(musculi prevertebrales)
+***前頭直筋(musculus rectus capitis anterior)
+***頭長筋(musculus longus capitis)
+***頸長筋(musculus longus colli)
+***外側頭直筋(musculus rectus capitis lateralis)
+
+==胸部の筋==
+*胸腕筋(musculi thoracobarachiales)
+**大胸筋(musculus pectoralis major)
+**小胸筋(musculus pectoralis minor)
+**鎖骨下筋(musculus subclavius)
+**前鋸筋(musculus serratus anterior)
+*胸壁筋(musculi thoracis)
+**外肋間筋(musculi intercostales externi)
+**内肋間筋(musculi intercostales interni)
+**肋下筋(musculi subcostales)
+**長肋骨挙筋(musculi levatores costarum longi)
+**短肋骨挙筋(musculi levatores costarum breves) 
+**胸横筋(musculus transversus thoracis)
+*横隔膜(diaphragma)
+
+==腹部の筋==
+*腹筋
+**腹直筋(musculus rectus abdominis)
+**錐体筋(musculus pyramidalis)
+*側腹筋
+**外腹斜筋(musculus obliquus externus abdominis)
+**内腹斜筋(musculus obliquus internus abdominis)
+**腹横筋(musculus transversus abdominis)
+*後腹筋
+**腰方形筋(musculus quadratus lumborum)
+*会陰筋
+**前仙尾筋(musculus sacrococcygeus ventralis)
+**後仙尾筋(musculus sacrococcygeus dorsalis)
+**尾骨筋(musculus coccygeus)
+***腸骨尾骨筋(musculus iliococcygeus)
+***恥骨尾骨筋(musculus pubococcygeus)
+***恥骨直腸筋(musculus puborectalis)
+
+==背部の筋==
+*棘腕筋(musculi spinohumerales)
+**僧帽筋(musculus trapezius)
+**広背筋(musculus latissimus dorsi)
+**菱形筋(musculus rhomboidei)
+***小菱形筋(musculus rhomboidei minor)
+***大菱形筋(musculus rhomboidei major)
+**肩甲挙筋(musculus levator scapulae)
+*棘肋筋(musculi spinocostales)
+**鋸筋(musculi serrati)
+***上後鋸筋(musculus serratus posterior superior)
+***下後鋸筋(musculus serratus posterior inferior)
+*棘背筋(musculi spinodorsales)
+**長背筋(musculi dorsi longi)
+***板状筋(musculus spenius)
+****頭板状筋(musculus spenius capitis)
+****頸板状筋(musculus spenius cervicis)
+***脊柱起立筋(musculus erector spinae)
+****腸肋筋(musculus ilicostalis)
+*****腰腸肋筋(musculus iliocostalis lumborum)
+*****頸腸肋筋(musculus iliocostalis cervicis)
+*****胸腸肋筋(musculus iliocostalis thoracis)
+****最長筋(musculus longissimus)
+*****胸最長筋(musculus longissimus thoracis)
+*****頸最長筋(musculus longissimus cervicis)
+*****頭最長筋(musculus longissimus capitis)
+****棘筋(musculus spinalis)
+*****胸棘筋(musculus spinalis thoracis) 
+*****頸棘筋(musculus spinalis cervicis) 
+*****頭棘筋(musculus spinalis capitis)
+***横突棘筋(musculi transversospinales)
+****半棘筋(musculus semispinalis)
+*****頸半棘筋(musculus semispinalis cervicis)
+*****頭半棘筋(musculus semispinalis capitis)
+*****胸半棘筋(musculus semispinalis thoracis)
+****多裂筋(musculi multifidus)
+*****腰多裂筋（musculus multifidus lumborum) 
+*****胸多裂筋（musculus multifidus thoracis) 
+*****頸多裂筋（musculus multifidus cervicis)
+****回旋筋(musculi rotatores)
+*****腰回旋筋(musculi rotatores lumborum)
+*****胸回旋筋(musculi rotatores thoracis) 
+*****頸回旋筋(musculi rotatores cervicis)
+**短背筋(musculi dorsi breves)
+***棘間筋(musculi interspinales)
+****腰棘間筋(musculi interspinales lumborum)
+****胸棘間筋(musculi interspinales thoracis)
+****頸棘間筋(musculi interspinales cervicis)
+***横突間筋(musculi intertransversarii)
+****腰内側横突間筋(musculi intertransversarii mediales lumborum)
+****腰外側横突間筋(musculi intertransversarii laterales lumborum)
+****胸横突間筋(musculi intertransversarii thoracis)
+****頸後横突間筋(musculi intertransversarii posteriores cervicis)
+*****頸内側後横突間筋(musculi intertransversarii mediales cervicis)
+****頸前横突間筋(musculi intertransversarii anteriores cervicis)
+***後頭下筋(musculi suboccipitales)
+****大後頭直筋(musculus capitis posterior major)
+****小後頭直筋(musculus capitis posterior minor)
+****上頭斜筋(musculus obliquus capitis superior)
+****下頭斜筋(musculus obliquus capitis inferior)
+
+==上肢の筋==
+*上肢帯筋(musculi cinguli membri superioris)
+**三角筋(musculus deltoideus)
+**棘上筋(musculus supraspinatus)
+**棘下筋(musculus infraspinatus)
+**肩甲下筋(musculus subscapularis)
+**小円筋(musculus teres minor)
+**大円筋(musculus teres major)
+*上腕筋群(musculi brachii)
+**上腕屈筋群
+***上腕二頭筋(musculus biceps brachii)
+***烏口腕筋(musculus coracobrachialis)
+***上腕筋(musculus brachialis)
+**上腕伸筋群
+***上腕三頭筋(musculus triceps brachii)
+***肘筋(musculus anconeus)
+*前腕筋(musculus antebrachii)
+**前腕屈筋群
+***円回内筋(musculus pronator teres)
+***橈側手根屈筋(musculus flexor carpi radialis)
+***長掌筋(musculus palmaris longus)
+***尺側手根屈筋(musculus flexor carpi ulnaris)
+***浅指屈筋(musculus flexor digitorum superficialis)
+***深指屈筋(musculus flexor digitorum profundus)
+***長母指屈筋(musculus flexor pollicis longus)
+***方形回内筋(musculus pronator quadratus)
+**前腕伸筋群
+***腕橈骨筋(musculus brachioradialis)
+***長橈側手根伸筋(musculus extensor carpi radialis longus)
+***短橈側手根伸筋(musculus extensor carpi radialis brevis)
+***回外筋(musculus supinator)
+***尺側手根伸筋(musculus extensor carpi ulnaris)
+***総指伸筋(musculus extensor digitorum)
+***小指伸筋(musculus extensor digiti minimi)
+***示指伸筋(musculus extensor indicis)
+***長母指伸筋(musculus extensor pollicis longus)
+***短母指伸筋(musculus extensor pollicis brevis)
+***長母指外転筋(musculus abductor pollicis longus)
+*手筋(musculi manus)
+**小指球筋
+***短掌筋(musculus palmaris brevis)
+***小指外転筋(musculus abductor digiti minimi)
+***短小指屈筋(musculus flexor digiti minimi brevis)
+***小指対立筋(musculus opponens digiti minimi)
+**中手筋
+***虫様筋(musculi lumbricales)
+***背側骨間筋(musculi interossei dorsales)
+***掌側骨間筋(musculi interossei palmares)
+**母指球筋
+***母指内転筋(musculus adductor pollicis)
+***短母指外転筋(musculus abductor pollicis brevis)
+***短母指屈筋(musculus flexor pollicis brevis)
+***母指対立筋(musculus opponens pollicis)
+
+==下肢の筋==
+*下肢帯筋(musculi cinguli membri inferioris)
+**内寛骨筋
+***腸腰筋(musculus iliopsoas)
+****腸骨筋(musculus iliacus)
+****大腰筋(musculus psoas major)
+****小腰筋(musculus psoas minor)
+**外寛骨筋
+***臀筋(musculi gluteus)
+****大臀筋(musculus gluteus maximus)
+****中臀筋(musculus gluteus medius)
+****小臀筋(musculus gluteus minimus)
+****大腿筋膜張筋(musculus tensor fasciae latae)
+***大腿方形筋(musculus quadratus femoris)
+***内閉鎖筋(musculus obturatorius internus)
+***梨状筋(musculus piriformis)
+***双子筋(musculus gemellus)
+****上双子筋(musculus gemellus superior)
+****下双子筋(musculus gemellus inferior)
+*大腿筋(musculi femoris)
+**大腿内転筋群
+***恥骨筋(musculus pectineus)
+***薄筋(musculus gracilis)
+***長内転筋(musculus adductor longus)
+***短内転筋(musculus adductor brevis)
+***大内転筋(musculus adductor magnus)
+***小内転筋(musculus adductor minimus)
+***外閉鎖筋(musculus obturatorius externus)
+**大腿伸筋群
+***縫工筋(musculus sartorius)
+***大腿四頭筋(musculus quadriceps femoris)
+****大腿直筋(musculus rectus femoris)
+****内側広筋(musculus vastus medialis)
+****外側広筋(musculus vastus lateralis)
+****中間広筋(musculus vastus intermedius)
+***膝関節筋(musculus articularis genus)
+**大腿屈筋群
+***大腿二頭筋(musculus biceps femoris)
+***半腱様筋(musculus semitendinosus)
+***半膜様筋(musculus semimembranosus)
+*下腿筋(musculi cruris)
+**下腿伸筋群
+***前脛骨筋(musculus tibialis anterior)
+***長趾伸筋(musculus extensor digitorum longus)
+***第三腓骨筋(musculus peroneus tertius)
+***長母趾伸筋(musculus extensor hallucis longus)
+**腓骨筋(musculus peroneus)
+***長腓骨筋(musculus peroneus longus)
+***短腓骨筋(musculus peroneus brevis)
+**下腿屈筋群
+***足底筋(musculus plantaris)
+***膝窩筋(musculus popliteus)
+***下腿三頭筋(musculus triceps surae)
+****腓腹筋(musculus gastrocnemius)
+****ヒラメ筋(musculus soleus)
+***長趾屈筋(musculus flexor digitorum longus)
+***後脛骨筋(musculus tibialis posterior)
+***長母趾屈筋(musculus flexor hallucis longus)
+*足筋(musculi pedis)
+**足背筋
+***短趾伸筋(musculus extensor digitorum brevis)
+***短母趾伸筋(musculus extensor hallucis brevis)
+**足底筋群
+***中足筋
+****短趾屈筋(musculus flexor digitorum brevis)
+****足底方形筋(musculus quadratus plantae)
+****虫様筋(musculi lumbricales)
+****背側骨間筋(musculi interossei dorsales)
+****底側骨間筋(musculi interossei plantares)
+***母趾球筋
+****母趾外転筋(musculus abductor hallucis)
+****短母趾屈筋(musculus flexor hallucis brevis)
+****母趾内転筋(musculus adductor hallucis)
+***小趾球筋
+****小趾外転筋(musculus abductor digiti minimi)
+****短小趾屈筋(musculus flexor digiti minimi brevis)
+****小趾対立筋(musculus opponens digiti minimi pedis)
+
+==参考==
+===消化器系の筋===
+*舌筋(musculi linguae)
+**外舌筋(musculus extrinsic)
+***オトガイ舌筋(musculus genioglossus)
+***舌骨舌筋(musculus hyoglossus)
+***茎突舌筋(musculus styloglossus)
+***小角舌筋(musculus chondroglossus)
+**内舌筋(musculus instrinsic)
+***上縦舌筋(musculus longitudinalis superior)
+***下縦舌筋(musculus longitudinalis inferior)
+***横舌筋(musculus transversus linguae)
+***垂直舌筋(musculus verticalis linguae)
+*口蓋筋(musculi palati et faucium)
+**口蓋帆挙筋(musculus levator veli palatini)
+**口蓋帆張筋(musculus tensor veli palatini)
+**口蓋舌筋(musculus palatoglossus)
+**口蓋垂筋(musculus uvulae)
+**口蓋咽頭筋(musculus palatopharyngeus)
+*咽頭筋(musculi pharyngis)
+**上咽頭収縮筋(musculus constrictor pharyngis superior)
+**中咽頭収縮筋(musculus constrictor pharyngis medius)
+**下咽頭収縮筋(musculus constrictor pharyngis inferior)
+**茎突咽頭筋(musculus stylopharyngeus)
+**口蓋咽頭筋(musculus palatopharyngeus)
+**耳管咽頭筋(musculus salpingopharyngeus)
+**咽頭舌筋
+*食道の筋
+**気管支食道筋(musculus bronchooesophageus)
+**胸膜食道筋(musculus pleurooesophageus)
+*胃の筋
+**外縦走筋(musculus longitudinal outer)
+**中輪走筋(musculus circular middle)
+**内斜走筋(musculus oblique inner)
+**噴門括約筋(musculus sphincter cardiac)
+**幽門括約筋(musculus sphincter pylori)
+*胆嚢の筋
+**総胆管括約筋(musculus sphincter ductus choledochi)
+**胆膵管膨大部括約筋(musculus sphincter ampullae hepatopancreatica)
+*膵臓の筋
+**膵管括約筋(musculus sphincter ductus pancreatici)
+*直腸の筋
+**会陰筋
+***内肛門括約筋(musculus sphincter ani internus)
+***外肛門括約筋(musculus sphincter ani externus)
+***膀胱排尿筋（排尿筋、膀胱平滑筋）(musculus detrusor)
+***肛門挙筋(musculus levator ani)
+****腸骨尾骨筋
+****恥骨尾骨筋
+***精巣挙筋（挙睾筋）(musculus cremaster)
+*尿道の筋
+**膀胱括約筋（内尿道括約筋）(musculus sphincter urethrae internus)
+***直腸膀胱筋（直腸子宮筋）(musculus rectovesicalis)
+***恥骨前立腺筋（恥骨膀胱筋）(musculus puboprostaticus)
+**尿道括約筋（外尿道括約筋）(musculus sphincter urethrae externus) 
+**尿道平滑筋
+**会陰筋
+***膣平滑筋
+***浅会陰横筋(musculus tranverse perineal superficialis)
+***深会陰横筋(musculus tranverse perineal profundus) 
+***坐骨海綿体筋(musculus ischiocavernosus)
+***球海綿体筋(musculus bulbospongiosus)
+
+===呼吸器系の筋===
+*喉頭筋(musculi laryngis)
+**外喉頭筋(musculus extrinsic laryngis)
+***舌骨筋(musculi hyoidei)
+****舌骨上筋(musculi suprahyoidei)
+*****顎二腹筋(musculus digastricus)
+*****顎舌骨筋(musculus mylohyoideus)
+*****茎突舌骨筋(musculus stylohyoideus)
+*****オトガイ舌骨筋(musculus geniohyoideus)
+****舌骨下筋(musculi infrahyoidei)
+*****胸骨舌骨筋(sternohyoideus)
+*****胸骨甲状筋(musculus sternothyroideus)
+*****甲状舌骨筋(musculus thyrohyoideus)
+*****肩甲舌骨筋(musculus omohyoideus)
+*****甲状腺挙筋(musculus levator glandulae thyroideae)
+**内喉頭筋(musculus intrinsic laryngis)
+***輪状甲状筋(musculus cricothyreoideus)
+***後輪状披裂筋(musculus cricoarytenoideus posterior)
+****下角輪状筋(musculus ceratocricoideus)
+***披裂筋(musculus arytenoideus)
+****斜披裂筋(musculus arytenoideus obliques)
+****横披裂筋(musculus arytenoideus transversus)
+***外側輪状披裂筋(musculus cricoarytenoideus lateralis)
+***披裂喉頭蓋筋(musculus aryepiglotticus)
+****甲状喉頭蓋筋(musculus epiglotticus)
+***甲状披裂筋(musculus thyreoarytenoideus)
+****声帯筋(musculus vocalis)
+****室筋(musculus ventricularis)
+**斜甲状披裂筋(musculus thyreoarytenoideus obliquus)
+*気管筋(musculus trachealis)
+*鰓弓筋(musculus branchial)
+
+===循環器系の筋===
+*心筋(myocardium)
+**心房の筋
+***櫛状筋(musculi pectinati)
+**心室の筋
+***乳頭筋(musculi papillares)
+****前乳頭筋(musculus papillaris anterior)
+****後乳頭筋(musculus papillaris posterior)
+****中隔乳頭筋(musculi papillares septale)
+
+===感覚器系の筋===
+*眼筋(musculi bulbi)
+**外眼筋（眼球移動筋）(musculi bulbi externae)
+***上直筋(musculus rectus superior)
+***下直筋(musculus rectus inferior)
+***内側直筋(musculus rectus medialis)
+***外側直筋(musculus rectus lateralis)
+***上斜筋(musculus obliquus superior)
+***下斜筋(musculus obliquus inferior)
+**内眼筋(musculi bulbi internae)
+***毛様体筋(musculus ciliaris)
+****毛様体輪状筋(musculus muller ciliaris)
+****毛様体縦走筋(musculus brucke ciliaris)
+***虹彩筋(musculus iris)
+****瞳孔括約筋(musculus sphincter pupillae)
+****瞳孔散大筋(musculus dilator pupillae)
+**上眼瞼挙筋(musculus levator palpebrae superioris)
+*耳小骨筋(musculi ossiculorum auditus)
+**鼓膜張筋(musculus tensor tympani)
+**アブミ骨筋(musculus stapedius)
+*立毛筋（起毛筋）(musculus arrector pili)
+
+==関連項目==
+*解剖学（口腔解剖学）／人間の骨の一覧／ラテン語／人間の関節一覧／ヒトの神経の名称一覧／人間の動静脈一覧／ヒトのリンパの名称一覧
+*ミオトーム／骨分節
+*主動作筋（主力筋）
+*拮抗筋
+*補助動筋（補助筋、協力筋、協同筋）
+*固定筋
+*単関節筋／二関節筋／多関節筋
+*単頭筋／二頭筋／三頭筋／四頭筋
+*二腹筋／多腹筋
+*多尾筋
+*紡錐状筋／羽状筋／半羽状筋／多羽状筋
+
+
+Category:人体のしくみ
+*にんけんのきんにくのいちらん
+Category:解剖学
+Category:生物学の一覧

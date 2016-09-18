@@ -1,0 +1,80 @@
+description<br />
+ <a href="http://localhost/keyword/%E6%9C%AC%E5%9B%9B%E5%82%99%E8%AE%83%E7%B7%9A">本四備讃線</a>（瀬戸大橋線）<br />
+|キロ程    = 9.7km（茶屋町起点）岡山から24.6<br />
+|起点駅    = <br />
+|所在地幅  = <br />
+|所在地    = 岡山県倉敷市児島上の町二丁目60番2号<br />
+| 緯度度 = 34|緯度分 = 29|緯度秒 = 26.35<br />
+| 経度度 = 133|経度分 = 48|経度秒 = 54.54<br />
+|駅構造    = 高架駅<br />
+|ホーム    = 2面2線<br />
+|開業年月日= 19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>（昭和<a href="http://localhost/keyword/63%E5%B9%B4">63年</a>）3月20日<br />
+|廃止年月日= <br />
+|乗車人員  = 434<br />
+|乗降人員  = <br />
+|統計年度  = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換      = <br />
+|備考      = 無人駅（自動券売機 有）<br />
+|備考全幅 = <br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E4%B8%8A%E3%81%AE%E7%94%BA%E9%A7%85">上の町駅</a>&#39;（かみのちょうえき）は、岡山県倉敷市児島上の町二丁目にある、西日本旅客鉄道（JR西日本）<a href="http://localhost/keyword/%E6%9C%AC%E5%9B%9B%E5%82%99%E8%AE%83%E7%B7%9A">本四備讃線</a>（瀬戸大橋線）の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>（昭和<a href="http://localhost/keyword/63%E5%B9%B4">63年</a>）3月20日 - <a href="http://localhost/keyword/%E6%9C%AC%E5%9B%9B%E5%82%99%E8%AE%83%E7%B7%9A">本四備讃線</a>開業と同時に設置。<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）<br />
+** 7月9日 - ICOCA対応の簡易型自動改札機導入。<br />
+** 9月1日 - ICOCA使用開始。<br />
+<br />
+== 駅構造 ==<br />
+かさ上げ前のホーム（200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>9月18日） <br />
+相対式ホーム2面2線を持つ3階建ての高架駅。分岐器や絶対信号機を持たないため、停留所に分類される。高架下の階段から直接ホームに入る形になっている。<br />
+<br />
+児島駅管理の無人駅であるが、ICOCAが利用可能（相互利用可能ICカードはICOCAの項を参照）で、高架下には簡易式の自動改札機と近距離切符の自動券売機（ICOCAチャージ対応）、男女兼用のトイレがある。200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>3月までにホームのかさ上げ工事が実施された（920mm→<a href="http://localhost/keyword/110">110</a>0mm）。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+== 利用状況 ==<br />
+1日の平均乗車人員は以下の通りである出典：岡山県統計年報。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* サークルK<br />
+* 倉敷市立短期大学<br />
+* 倉敷市立倉敷翔南高等学校<br />
+* 倉敷市立緑丘小学校<br />
+* にちゅうだこ<br />
+* <a href="http://localhost/keyword/%E3%82%AE%E3%83%A3%E3%83%AD%E3%83%83%E3%83%97">ギャロップ</a>ヘアー<br />
+* 岡山県道268号白尾塩生線<br />
+* 岡山県道276号宇野津下之町線<br />
+<br />
+== 路線バス ==<br />
+;下津井電鉄バス<br />
+*児島循環線「ふれあい号」　児島駅方面<br />
+1日10便、概ね1時間間隔での運行となっている。<br />
+<br />
+== 隣の駅 ==<br />
+※快速「マリンライナー」（早朝・深夜の一部のみ当駅に停車）の隣の停車駅は列車記事を参照のこと。<br />
+; 西日本旅客鉄道<br />
+:  瀬戸大橋線（<a href="http://localhost/keyword/%E6%9C%AC%E5%9B%9B%E5%82%99%E8%AE%83%E7%B7%9A">本四備讃線</a>）<br />
+:: 木見駅 - &#39;<a href="http://localhost/keyword/%E4%B8%8A%E3%81%AE%E7%94%BA%E9%A7%85">上の町駅</a>&#39; - 児島駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jr-odekake.net/eki/top.php?id=0651303 JR西日本 <a href="http://localhost/keyword/%E4%B8%8A%E3%81%AE%E7%94%BA%E9%A7%85">上の町駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+category:倉敷市の鉄道駅<br />
+みのちよう<br />
+Category:西日本旅客鉄道の鉄道駅<br />
+Category:19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>開業の鉄道駅<br />
+<br />
+<br />

@@ -1,0 +1,74 @@
+description<br />
+&#39;TI 54&#39;<br />
+|所属事業者= 32px 東武鉄道<br />
+|所属路線= TI 桐生線<br />
+|キロ程 = 12.9<br />
+|起点駅 = 太田<br />
+|所在地 = 群馬県みどり市笠懸町阿左美1057-4<br />
+|緯度度=36|緯度分=23|緯度秒=8.01<br />
+|経度度=139|経度分=18|経度秒=23.97<br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/937%E5%B9%B4">937年</a>（昭和<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）5月5日<br />
+|乗降人員 = 584[http://www.tobu.co.jp/corporation/rail/station_info/ 駅情報（乗降人員）] - 東武鉄道<br />
+|統計年度 = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|備考 =<br />
+}}<br />
+駅前（200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>12月）<br />
+&#39;<a href="http://localhost/keyword/%E9%98%BF%E5%B7%A6%E7%BE%8E%E9%A7%85">阿左美駅</a>&#39;（あざみえき）は、群馬県みどり市笠懸町阿左美にある東武鉄道桐生線の駅である。駅番号は&#39;TI 54&#39;。<br />
+<br />
+== 歴史 ==<br />
+桐生線開業時には<a href="http://localhost/keyword/%E9%98%BF%E5%B7%A6%E7%BE%8E%E9%A7%85">阿左美駅</a>は設置されていなかった。1<a href="http://localhost/keyword/935%E5%B9%B4">935年</a>（昭和<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>）ころ、阿左美沼の遊園地化を目論んでいた今井伊太郎が、東武鉄道社長の<a href="http://localhost/keyword/%E6%A0%B9%E6%B4%A5%E5%98%89%E4%B8%80%E9%83%8E">根津嘉一郎</a> にかけあい駅設置が認められ、1<a href="http://localhost/keyword/937%E5%B9%B4">937年</a>（昭和<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）に開業した阿左美地区の軍需工場への通勤の便を図るための設置との話もあるが、軍需工場が設置されたのは駅開業後の1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>（昭和<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）である。。1<a href="http://localhost/keyword/954%E5%B9%B4">954年</a>（昭和<a href="http://localhost/keyword/29%E5%B9%B4">29年</a>）12月にはホーム拡張工事中に縄文時代の住居跡が発見され、発掘調査が実施され県史跡に指定された。昭和40年代になると赤字を理由とした駅の廃止が計画され、当時の所在自治体である笠懸村議会が、1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>（昭和<a href="http://localhost/keyword/46%E5%B9%B4">46年</a>）1月および1<a href="http://localhost/keyword/973%E5%B9%B4">973年</a>（昭和<a href="http://localhost/keyword/48%E5%B9%B4">48年</a>）7月の二度にわたり駅廃止反対の決議を行い陳情をした。<br />
+<br />
+* 1<a href="http://localhost/keyword/937%E5%B9%B4">937年</a>（昭和<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）5月5日 - 開業。<br />
+* 1<a href="http://localhost/keyword/954%E5%B9%B4">954年</a>（昭和<a href="http://localhost/keyword/29%E5%B9%B4">29年</a>）12月 - ホーム拡張工事中に縄文時代の住居跡が発見される。<br />
+* 1<a href="http://localhost/keyword/955%E5%B9%B4">955年</a>（昭和<a href="http://localhost/keyword/30%E5%B9%B4">30年</a>）3月7日 - 3月9日 - 住居跡の遺跡調査が行われる。<br />
+* 19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>（昭和<a href="http://localhost/keyword/35%E5%B9%B4">35年</a>）3月23日 - 住居跡が群馬県指定史跡となる。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を有する地上駅。駅舎・ホームは線路の西側にある。<br />
+<br />
+ホーム中ほどの群馬県道68号桐生伊勢崎線（桐生県道）寄りに、「阿左美縄文式文化住居跡」（群馬県指定史跡）という縄文時代の住居跡がある。<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度の1日平均乗降人員は584人である。<br />
+<br />
+== 駅周辺 ==<br />
+* 阿左美沼 <br />
+** 桐生競艇場 - 日本最北の競艇場。<br />
+* 群馬県立桐生南高等学校<br />
+* 桐生大学<br />
+** 桐生大学短期大学部<br />
+* 国道50号（桐生バイパス）<br />
+* 群馬県道68号桐生伊勢崎線（桐生県道）<br />
+* 東邦病院<br />
+* 文真堂書店 阿左美店<br />
+* 南光寺<br />
+* みどり市立笠懸東小学校<br />
+<br />
+== 隣の駅 ==<br />
+; 32px 東武鉄道<br />
+: TI 桐生線<br />
+:: 藪塚駅 (TI 53) - &#39;<a href="http://localhost/keyword/%E9%98%BF%E5%B7%A6%E7%BE%8E%E9%A7%85">阿左美駅</a> (TI 54)&#39; - 新桐生駅 (TI 55)<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 参考文献 ==<br />
+*『笠懸村誌 下』1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>、264、695-697頁<br />
+* <a href="http://localhost/keyword/%E4%BD%90%E8%97%A4%E5%8D%9A">佐藤博</a>之・浅香勝輔『民営鉄道の歴史がある景観3』古今書院、19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>、16-18頁<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.tobu.co.jp/station/info/2905.html 東武鉄道 <a href="http://localhost/keyword/%E9%98%BF%E5%B7%A6%E7%BE%8E%E9%A7%85">阿左美駅</a>]<br />
+<br />
+<br />
+<br />
+Category:群馬県の鉄道駅<br />
+Category:みどり市の交通<br />
+さみ<br />
+Category:東武鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/937%E5%B9%B4">937年</a>開業の鉄道駅<br />

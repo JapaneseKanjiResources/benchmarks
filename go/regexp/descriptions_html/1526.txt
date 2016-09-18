@@ -1,0 +1,121 @@
+description<br />
+<br />
+| type = 大陸間弾道ミサイル (ICBM)<br />
+| service =<br />
+| used_by = 30px アメリカ空軍<br />
+| wars =<br />
+<br />
+| designer =<br />
+| design_date = 1<a href="http://localhost/keyword/953%E5%B9%B4">953年</a> (XB-65)<br />
+| manufacturer = コンベア社<br />
+| unit_cost =<br />
+| production_date = 1<a href="http://localhost/keyword/959%E5%B9%B4">959年</a>-1<a href="http://localhost/keyword/965%E5%B9%B4">965年</a><br />
+| number = 全部で約350が生産された。最大勢力は129機である。 (30 D, 27 E, 72 F).<br />
+| variants = アトラス A, B/C, D, E/F (ICBMとして)<br />
+<br />
+| spec_label =<br />
+| weight = 打ち上げ時最大260,000 lbs.<br />
+| length = 75 ft. 10 in. (85 ft. 6 in. ICBM仕様)<br />
+| part_length =<br />
+| width =<br />
+| height =<br />
+| diameter = 10 ft. (補助ロケットを含まず)<br />
+| crew =<br />
+| passengers =<br />
+<br />
+| wingspan =<br />
+| propellant = 液体推進剤<br />
+| ceiling =<br />
+| altitude = ICBMとして約900マイル<br />
+| depth =<br />
+| boost = 軌道速度は約17,500 mph. (ICBMとしては約16,000 mph)<br />
+| accuracy =<br />
+| launch_platform =<br />
+| transport =<br />
+}}<br />
+<br />
+&#39;CGM/HGM-16 アトラス&#39; (Atlas) は、1<a href="http://localhost/keyword/950%E5%B9%B4">950年</a>代の後半にアメリカ空軍で開発され、ジェネラル・<a href="http://localhost/keyword/%E3%83%80%E3%82%A4%E3%83%8A">ダイナ</a>ミクス社のコンベア部門で生産された大陸間弾道ミサイル (ICBM) である。アメリカ合衆国で初めて開発に成功したICBMであり、1<a href="http://localhost/keyword/959%E5%B9%B4">959年</a>から1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>にかけて実戦配備されていた。<br />
+<br />
+== 概要 ==<br />
+アトラスはアメリカ空軍で最初のICBMであり、その名称はギリシア神話の巨人アトラスにちなむ。アトラスはアメリカ国内配備のタイタンI、イギリスに配備されたソー、イタリアとトルコに配備されたジュピターと共に初期の冷戦におけるアメリカ空軍の核戦力の一翼を担った。1<a href="http://localhost/keyword/964%E5%B9%B4">964年</a>から退役が開始され、1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>には軍の配備からは外された。<br />
+<br />
+アトラス・ミサイルはアメリカ航空宇宙局(NASA)の衛星打ち上げロケット・アトラスロケットシリーズとして発展し、アトラス LV-3Bが1<a href="http://localhost/keyword/959%E5%B9%B4">959年</a>からのマーキュリー計画において、有人宇宙船（フレンドシップ7ほか合計4機）を軌道飛行させることに成功している。衛星打ち上げ用使い捨て型ロケットとしての展開にも成功し、第2段にアジェナロケットあるいはセントールロケットを用いた形態がとられた。現在はユナイテッド・ローンチ・アライアンスで生産され、また19<a href="http://localhost/keyword/80%E5%B9%B4">80年</a>代には衛星打ち上げ専用として改良されたアトラスIIが開発され、最新型のアトラスVは現在でも軍民の人工衛星打上げに使用されている長寿命のシリーズである。<br />
+<br />
+アトラスのロケットエンジンはRP-1（ケロシン）を燃料、液体酸素を酸化剤に用いている。飛行制御は2基のバーニアエンジンで行う。エンジンの構成は1.5段式と呼ばれる独特のもので主エンジンに切り離し式ブースターエンジンを組み合わせている。ブースターエンジンは個別の燃料タンクを持たず主エンジンと共用となっており140秒間燃焼した後に投棄される。燃料タンクは軽量化のためにごく薄いステンレスで作られているが、あまりに薄いためそのままでは自重を支えることができず、風船のように燃料内圧で強度を保つ方式(バルーンタンク)となっている。燃料が入っていない時は窒素ガスで加圧されて形状を保つ。<br />
+<br />
+アトラスや旧ソ連のR-7、タイタンIなどの初期のICBMは酸化剤として液体酸素 (LOX) を用いる液体燃料ロケットを採用しているが、LOXは極低温のため蒸発を考慮せねばならず、ミサイルに搭載したまま配備することができなかった。発射命令が下ってから断熱化された耐圧タンクに保存されているLOXと燃料をミサイルへ注入しはじめてから実際に発射されるまでには数時間の作業が必要であった。このためLOXを酸化剤とするICBMの配備期間は短く、赤煙硝酸と非対称ジメチルヒドラジンを推進剤とする常温保存が可能な液体燃料や固体燃料を用いるロケットエンジンを備える第二世代のミサイルに置き替えられていった。<br />
+<br />
+総生産数は約350基。<a href="http://localhost/keyword/%E3%82%AD%E3%83%A5%E3%83%BC">キュー</a>バ危機の時には発射準備態勢に入っている。<br />
+<br />
+== 開発 ==<br />
+アトラスは1<a href="http://localhost/keyword/957%E5%B9%B4">957年</a>に最初に発射されたアメリカ合衆国にとって初めて成功した大陸間弾道ミサイルである。1.5段式、液体燃料ロケットで2軸のジンバルを備えた推力1,200&amp;nbsp;hp誘導エンジン打ち上げの写真を参照と3基の推力1,590&amp;nbsp;kNのエンジンを備える。<br />
+<br />
+アトラスはコンソリデーテッド・ヴァルティ社（コンベア社）によって核弾頭を備えた射程8,000kmの戦略ミサイルとして第二次世界大戦の直後の1<a href="http://localhost/keyword/946%E5%B9%B4">946年</a>から開発が開始された。当初はドイツのV2ロケットの研究から始まっている。V-2の改良型・MX-774開発計画は1<a href="http://localhost/keyword/947%E5%B9%B4">947年</a>7月に契約を打ち切られたものの、コンベア社の自己資金も投入し、1<a href="http://localhost/keyword/948%E5%B9%B4">948年</a>に打ち上げられた。<br />
+<br />
+1<a href="http://localhost/keyword/951%E5%B9%B4">951年</a>1月より空軍とコンベア社は、MX-774の経験を元に大陸間弾道ミサイルの開発を開始することとなった。このMX-1593計画は射程約9,200km、弾頭重量3.6t[http://www.globalsecurity.org/wmd/systems/sm-65.htm globalsecurity]というものであり、1段半式のロケットであった。実用化時期は1<a href="http://localhost/keyword/963%E5%B9%B4">963年</a>頃を目指していた。なお、1<a href="http://localhost/keyword/951%E5%B9%B4">951年</a>8月に爆撃機系統の名称であるB-65アトラスが与えられた。1<a href="http://localhost/keyword/953%E5%B9%B4">953年</a>頃には全長33m(<a href="http://localhost/keyword/110">110</a>ft)、直径3.7m(12ft)、全備重量200t(440,000lb)[http://www.globalsecurity.org/wmd/systems/sm-65.htm globalsecurity]、エンジン5基のデザインhttp://www.designation-systems.net/dusrm/m-16.html Directory of U.S. Military Rockets and Missilesが検討され始めた。技術開発に困難が考えられたために、3段階の開発を行うこととした。まず、エンジンを1基搭載した試験機X-11、次いでエンジン3基のX-12、エンジン5基（うちブースター4基）の前量産型XB-65である。<br />
+<br />
+その後、核弾頭の技術開発が進み、弾頭重量の大幅軽減が可能となった。このため、デザインは完全に再検討され、1<a href="http://localhost/keyword/954%E5%B9%B4">954年</a>にはエンジン数を3基とし、サイズも長さ25m前後に小型化された。これにより、試験機X-11およびX-12の開発・生産は中止となっている。名称も1<a href="http://localhost/keyword/955%E5%B9%B4">955年</a>にSM-65に変更された。<br />
+<br />
+アトラスの最初の試験型XSM-65A（アトラスA）は1段半式ロケットのブースター部分の開発試験機であった。XLR-89ロケットエンジン2基を胴体両側面に搭載している。主エンジンと切り離し機構はなく、1段のみの機体であった。アトラスAは3基が静的試験に用いられた後、4号機から打ち上げ試験が開始された。この4号機は1<a href="http://localhost/keyword/957%E5%B9%B4">957年</a>6月11日、ケープカナベラル空軍基地からの打ち上げに失敗し、上空で指令爆破されている。打ち上げの初成功は1<a href="http://localhost/keyword/957%E5%B9%B4">957年</a>12月17日の三回目のもの（アトラス 12A）である。アトラスAは1<a href="http://localhost/keyword/958%E5%B9%B4">958年</a>6月までに8基が打ち上げ試験され、3基が成功した。<br />
+<br />
+二つ目の試験型であるXSM-65B・アトラスBはエンジン3基を搭載した1段半式ロケットである。アトラスAにメインエンジンが追加され、ブースター切り離しもできるようになり、実用型の推進機関配置に近いものとなっている。1<a href="http://localhost/keyword/958%E5%B9%B4">958年</a>7月19日に初打ち上げを行ったが、これは失敗している。1<a href="http://localhost/keyword/959%E5%B9%B4">959年</a>2月までに9回の打ち上げを行い、6回が成功した。水平到達距離も9,000kmを超えている。<br />
+<br />
+最後の試験型であるXSM-65C・アトラスCは1<a href="http://localhost/keyword/958%E5%B9%B4">958年</a>12月23日に初打ち上げが行われた。1<a href="http://localhost/keyword/959%E5%B9%B4">959年</a>8月までに6回の打ち上げが行われ、初打ち上げも含めて3回が成功している。アトラスCは薄いバルーンタンクを採用している。<br />
+<br />
+最初の量産型であるD型が1<a href="http://localhost/keyword/959%E5%B9%B4">959年</a>の終わりに完成してヴァンデンバーグ空軍基地に配備され最初のアトラス部隊である第576戦略ミサイル中隊が3基のミサイルで作戦配置に着いた。この配備は屋外で無防備のままであったが、次に誘導装置やエンジンを改良したE型が地上に寝かせた形である棺桶型のバンカーに配備され、さらに地下式のミサイルサイロに配備されたF型が完成し、量産型のD、E、Fの三タイプ合計で100基以上がアメリカ合衆国本土に配備された。即応性に優れた後継ミサイルである、タイタンIIやミニットマンIの配備に伴い、アトラスは退役した。<br />
+<br />
+== 要目 ==<br />
+アトラスの発射シーケンス。上段左から右にかけて、まず地上配備の棺桶型バンカーから垂直に立てられる。次に燃料と液体酸素が注入され（下段最左）、ミサイルに空気中の水分が氷結して白くなる。下段左から二番目でエンジンが点火し、ミサイルが上昇を開始する。<br />
+<br />
+* 名称: CGM-16D アトラス D<br />
+** アメリカ空軍所属の大陸間弾道ミサイル（1.5段式液体燃料ロケット）<br />
+** 1<a href="http://localhost/keyword/959%E5%B9%B4">959年</a>実戦配備、1<a href="http://localhost/keyword/964%E5%B9%B4">964年</a>退役<br />
+** 地上発射台配備（発射は垂直に立ててから）、ホットローンチ方式<br />
+** 燃料: ケロシン、液体酸素<br />
+** 誘導方式: 慣性誘導（地上からの無線管制可能）<br />
+** 弾頭: 1（Mk.3,Mk.4再突入体 (RV) にW49核弾頭（核出力 1.44 Mt））<br />
+** 全長: 23.11 m<br />
+** 主エンジン：LR-105 液体燃料ロケット 1基<br />
+** ブースター：LR-89 液体燃料ロケット 2基<br />
+** バーニア：LR-101 液体燃料ロケット 2基<br />
+** 発射重量: 120,200 kg<br />
+** 射程: 14,000 km<br />
+<br />
+* 名称: CGM-16E アトラス E<br />
+** 1<a href="http://localhost/keyword/961%E5%B9%B4">961年</a>実戦配備、1<a href="http://localhost/keyword/965%E5%B9%B4">965年</a>退役<br />
+** 誘導方式: 慣性誘導<br />
+** 弾頭: 1（Mk.4再突入体 (RV) にW38核弾頭（核出力 3.75 Mt））<br />
+** 全長: 25.15 m<br />
+** 発射重量: <a href="http://localhost/keyword/122">122</a>,470 kg<br />
+** 命中精度 3,700 m (CEP)<br />
+（以下同上）<br />
+<br />
+* 名称: HGM-16F アトラス F<br />
+** 1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>実戦配備、1<a href="http://localhost/keyword/965%E5%B9%B4">965年</a>退役<br />
+** サイロ配備（発射はエレベーターで地上に出てから）、ホットローンチ方式<br />
+（以下同上）<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* アメリカ合衆国のミサイル一覧<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.allstar.fiu.edu/AERO/bossart.htm bio Karel J. Bossart]<br />
+* [http://www.rootsweb.com/~gsfa/heroes.html#Karel%20Jan%20Bossart Karel Jan Bossart, Ir.]<br />
+* [http://www.warrenmuseum.com/atlas.htm Atlas SM-65], from the FEW Museum<br />
+* [http://www.designation-systems.net/dusrm/m-16.html Atlas launch vehicle profile]<br />
+* [http://www.astronautix.com/lvs/atlasd.htm Atlas D] from Encyclopedia Astronautica<br />
+* [http://www.techbastard.com/missile/atlas/index.php Atlas ICBM Information/History]<br />
+* [http://www.youtube.com/watch?v=Dg9PdW9yb3c Video of an early Atlas launch in 1960]<br />
+* [http://space.mooo.com/atlas 1958 Video of &#34;Atlas in Orbit&#34; Newsreel]<br />
+* [http://www.maniacworld.com/Atlas-ICBM-Launched.htm Atlas ICBM Launch on 5/23/1960] Video<br />
+<br />
+<br />
+<br />
+あとらす<br />

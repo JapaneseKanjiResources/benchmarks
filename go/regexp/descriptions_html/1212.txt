@@ -1,0 +1,21 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90">価電子</a>&#39;（かでんし、valence electron）とは、原子内の最外殻の電子殻をまわっている電子のことである。&#39;原子<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90">価電子</a>&#39;（げんしかでんし）ともいう。ただし、最外殻電子がちょうどその電子殻の最大収容数の場合、または最外殻電子が8個の場合、<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90">価電子</a>の数は0とする。 <br />
+<br />
+<br />
+原子が化合物や結晶等を構成する際に、それらの化学結合や物性は、その原子内の核外電子が深く関わる。原子内の電子軌道を回る電子には、化学結合や物性に深く関わるものと、ほとんど関係しないものがある。化学結合や物性に関わる電子は、原子内の最外殻など外側を回っている。これらが<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90">価電子</a>と言われる。逆に、<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E6%A0%B8">原子核</a>に近い軌道にある電子（内殻電子）は、通常の物性や化学結合に寄与することはほとんどない（が、例外も存在する）。<br />
+<br />
+固体の絶縁体や<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>における<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90%E5%B8%AF">価電子帯</a>を占める電子を指すこともある。固体の金属においては、伝導電子（自由電子）に相当する。<br />
+<br />
+典型元素の<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90">価電子</a>は、その元素より<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>の小さい最初の希ガス原子の核外電子の軌道より外側の軌道を回るものがなる。ただし、典型元素でも、ガリウムの3d軌道のように、比較的浅い内殻電子は、<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90">価電子</a>的な振る舞いをし物性や化学結合に寄与する場合がある。例えば、窒化ガリウムでは、化合物の構成に関与している。また、遷移元素では、<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90">価電子</a>は最外殻電子を意味していないため、特定の<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90">価電子</a>を持っていないと言える。特にf電子をもつ元素では、<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90">価電子</a>の定義は必ずしもこのようにはならない場合が少な<a href="http://localhost/keyword/%E3%81%8F%E3%81%AA%E3%81%84">くない</a>。<br />
+<br />
+== 関連項目 ==<br />
+*<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90%E5%B8%AF">価電子帯</a><br />
+*伝導帯<br />
+*フェルミエネルギー<br />
+*バンド理論<br />
+*バンド構造<br />
+<br />
+<br />
+Category:電子<br />
+Category:電子状態<br />
+<br />

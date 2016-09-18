@@ -1,0 +1,241 @@
+description<br />
+<br />
+<br />
+|所在地   = 岡山県<br />
+|起点     = 岡山駅<br />
+|終点     = 津山駅<br />
+|駅数     = 17駅<br />
+|開業     = 1<a href="http://localhost/keyword/898%E5%B9%B4">898年</a>12月21日<br />
+|廃止     = <br />
+|所有者   = 25px西日本旅客鉄道<br />
+|運営者   = 25px西日本旅客鉄道<br />
+|使用車両 = キハ40・47形、キハ120形<br />
+|路線距離 = 58.7 km<br />
+|軌間     = 1,067 mm<br />
+|線路数   = 単線<br />
+|路線記号= <br />
+|電化方式 = 非電化<br />
+|最高速度 = 95 km/h<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a>&#39;（つやません）は、岡山県岡山市北区の岡山駅から津山市の津山駅に至る西日本旅客鉄道（JR西日本）の鉄道路線（地方交通線）である。<br />
+<br />
+== 概要 ==<br />
+ラインカラー・路線記号導入後の駅名標（津山駅）<br />
+因美線とともに陰陽連絡線を構成し、岡山駅 - 鳥取駅間を結ぶ急行「砂丘」などの優等列車が運転されていたが、<a href="http://localhost/keyword/%E6%99%BA%E9%A0%AD%E6%80%A5%E8%A1%8C">智頭急行</a>智頭線の開業により同線経由の特急列車が運転されるようになると陰陽連絡線としての役割を失い、<a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a>は都市間連絡線として徹するようになった。<br />
+<br />
+全線を岡山支社が管轄しており、20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>3月26日よりラインカラーおよび路線記号が導入され、ラインカラーは山吹色（）、路線記号は&#39;T&#39;である。なお以前は同支社管内で独自にピンク（）がラインカラーとして設定されていた。岡山駅 - 法界院駅間はIC乗車カード「ICOCA」の岡山・広島エリアのうち、岡山・福山地区に含まれている[http://www.jr-odekake.net/icoca/area/map/okayama.html ご利用可能エリア 岡山・広島エリア｜ICOCA｜ICOCA：JRおでかけネット] - 西日本旅客鉄道。<br />
+<br />
+=== 路線データ ===<br />
+* 管轄（事業種別）：西日本旅客鉄道（第一種鉄道事業者）<br />
+* 路線距離（営業キロ）：58.7km<br />
+* 軌間：1067mm<br />
+* 駅数：17（起終点駅含む）<br />
+** <a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a>所属駅に限定した場合、山陽本線所属の岡山駅と姫新線所属の津山駅『『停車場変遷大事典 国鉄・JR編』JTB、1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a>。ISBN 978-4-533-02980-6。が除外され、15駅となる。<br />
+* 複線区間：なし（全線単線）<br />
+* 電化区間：なし（全線非電化）<br />
+* 閉塞方式：自動閉塞式（特殊）<br />
+* 最高速度：95km/h<br />
+* 運転指令所：岡山総合送指令所津山派出<br />
+<br />
+== 運行形態 ==<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+}}<br />
+正式な起点は岡山駅だが、列車運行上は津山駅から岡山駅へ向かう列車が下り、逆方向が上りとなっている。これは、岡山駅で接続する山陽新幹線・山陽本線・宇野線・吉備線、津山駅で接続する姫新線に方向をあわせたためである。なお、<a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a>の創業企業体である中国鉄道が津山を中心に考えた「上り」「下り」の表記を、国有化の時にそのまま継承したという説がある。<br />
+<br />
+20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>6月20日現在、快速「ことぶき」と普通のみ運転されている『JR時刻表』20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>7月号、交通新聞社。。かつては津山駅から因美線・姫新線に直通し岡山駅 - 鳥取駅を結ぶ列車や、岡山駅 - 中国勝山駅を結ぶ列車もあったが、現在はすべて津山駅で運転系統が分かれている。<br />
+<br />
+200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>3月14日のダイヤ改正で急行「つやま」が廃止され（インターネット・アーカイブ）- 西日本旅客鉄道岡山支社プレスリリース 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>12月19日、これにより<a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a>の優等列車はすべて廃止された。<a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a>ではこのほかに、岡山駅 - 鳥取駅間を結ぶ急行「砂丘」が、<a href="http://localhost/keyword/%E6%99%BA%E9%A0%AD%E6%80%A5%E8%A1%8C">智頭急行</a>線を経由する特急「いなば」（現在の「スーパーいなば」）が運転を開始する1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>まで運転されていた。<br />
+<br />
+=== 普通 ===<br />
+岡山駅 - 津山駅間の全線を通して運転する列車が1時間あたり1本程度設定されているほか、福渡駅や金川駅発着も設定されている。平日・土曜日には野々口発岡山行きと通学輸送のための岡山駅 - 法界院駅間の区間列車が運転されている。後述の快速が通過する駅においては運転間隔が2時間前後開く場合がある。<br />
+<br />
+なお、臨時列車で津山駅から姫新線新見方面への延長運転が行われており、200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>3月には「勝山お雛まつり」の期間中、200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>3月13日まで設定されていた急行「つやま」が津山駅から快速として新見駅まで延長運転されていた。<br />
+<br />
+=== 快速「ことぶき」 ===<br />
+快速「&#39;ことぶき&#39;」は岡山駅 - 津山駅間で、日中はほぼ2時間間隔、下り8本・上り7本が運転されている。一般公募で<a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a>沿線に福渡駅・神目駅・<a href="http://localhost/keyword/%E4%BA%80%E7%94%B2%E9%A7%85">亀甲駅</a>・金川駅・誕生寺駅など縁起の良い駅名が多数あることから名付けられた。<br />
+<br />
+毎年夏には津山市で8月に開かれている「津山納涼ごんごまつり」をPRをする目的で快速「ことぶき」や姫新線の列車に河童「ごんごまつり」のごんごとは津山の方言で河童を意味している。のヘッドマークを取り付けて「&#39;ごんちゃん号&#39;」として走る。<br />
+<br />
+1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>11月29日のダイヤ改正で、岡山駅 - 鳥取駅間を<a href="http://localhost/keyword/%E6%99%BA%E9%A0%AD%E6%80%A5%E8%A1%8C">智頭急行</a>線経由で結ぶ特急「いなば」の新設に伴い、岡山駅 - 鳥取駅間を当線経由で結んでいた急行「砂丘」が廃止されたため、急行「つやま」1往復とともに運行を開始した。当初は急行列車の代替でもあったことから、座席指定席も設定されていた。しかし、<a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a>でみどりの窓口があるのは岡山駅・法界院駅・津山駅の3駅のみで、金川駅・福渡駅および簡易委託扱いの弓削駅・<a href="http://localhost/keyword/%E4%BA%80%E7%94%B2%E9%A7%85">亀甲駅</a>では停車駅でありながら座席指定券を購入できず、金川駅・無人化前の福渡駅では手書き補充券での発券となり、運用面で問題があった。しかも座席は自由席と変わらず、当初は座席近くの窓に「指定席」と書かれた藁半紙の紙片が貼られていただけだったが、その後対象外の列車が記述された正規のステッカーに更新された。あまりの扱いのひどさから「最低の指定席」と非難され、地元メディアや雑誌などでも話題にされたこともあった。このためか徐々に縮小され、2001年3月7日に指定席の設定が廃止されて全車自由席となっている。<br />
+<br />
+車両は、運行開始当初はエンジンを330PS仕様のものに換装した岡山電車区気動車センター（現在の岡山気動車区）所属の専用塗色のキハ47形2両編成による限定運用であった。その後、同センター所属のキハ47形のエンジンの大半が330PS仕様となった以後も、「ことぶき」は専用塗色車2両編成での運用が基本となっていたが、同区の車両の朱色5号単色への塗装変更により、現在はこういった運用はなくなっている。<br />
+<br />
+200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>から200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>の毎年3月には、姫新線の中国勝山駅前で行われる「勝山ひな祭り」の開催に合わせて、津山駅 - 中国勝山駅間で1往復が延長運転していた（インターネット・アーカイブ）- 西日本旅客鉄道岡山支社プレスリリース 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>1月20日（インターネット・アーカイブ）- 西日本旅客鉄道岡山支社プレスリリース 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>2月1日（インターネット・アーカイブ）- 西日本旅客鉄道岡山支社プレスリリース 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>1月19日。また、200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>には4月1日から6月30日まで開催されていた「岡山デスティネーションキャンペーン」期間中にも延長運転が行われ（インターネット・アーカイブ）- 西日本旅客鉄道プレスリリース 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>3月26日、これが好評であったため、同年7月以降もしばらく土休日およびお盆休み期間中などに実施されていた。<br />
+<br />
+なお、<a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a>には国鉄時代の1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>代から19<a href="http://localhost/keyword/80%E5%B9%B4">80年</a>代にも、快速列車が設定されていた時期があったが後に各駅停車化されたため、その後は19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>に中国勝山発岡山行き快速が朝に設定されるまで日本交通公社『JTB時刻表』19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>3月号 pp.238-239、同19<a href="http://localhost/keyword/89%E5%B9%B4">89年</a>1月号 pp.238-239（19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>11月21日訂補時刻表を掲載）（この快速は1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>の「ことぶき」登場時頃に廃止）、<a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a>に快速列車が運行されたことはなかった。<br />
+<br />
+<br />
+ファイル:JRW DC kiha47-44 kiha47-1038.jpg|快速「ことぶき」<br />
+ファイル:kotobuki-go.jpg|岡山市北区建部町下神目（福渡駅-神目駅間）を走る快速「ことぶき」<br />
+ファイル:Kuse Station -01.jpg|ごんちゃん号（右）（20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>7月5日）<br />
+<br />
+<br />
+== 落石事故とその状況 ==<br />
+代行バス（金川駅 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>11月25日）<br />
+<a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a>では山間部を走行するため、落石が多く発生しており警戒が行われている[http://sankei.jp.msn.com/region/news/120306/oky12030602120003-n1.htm <a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a>で運転一時見合わせ 岡山] - 産経新聞 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>3月6日。<br />
+<br />
+200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>2月26日には玉柏駅 - 牧山駅間で落石が発生し、キハ40形1両で運転されていた回送列車が衝突する列車脱線事故が発生した（運転士1名が負傷） - 航空・事故鉄道事故調査委員会（当時）。同年3月14日に運転を再開したが[http://web.archive.org/web/20050315002141/www.westjr.co.jp/news/newslist/article/050314a.html <a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a> 玉柏〜牧山間の開通]（インターネット・アーカイブ）- 西日本旅客鉄道 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>3月14日、200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>11月19日には同一区間の別の箇所でも落石が発生し、変形した線路に津山発岡山行きが通過して脱線する列車脱線事故（<a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a>列車脱線事故）が発生した（乗客25名が負傷） - 航空・事故鉄道事故調査委員会（当時）。再び落石の可能性があることから、発生源の岩石などに処置を施すとともに、ワイヤーネット・落石防止柵および落石検知装置が設置されたが、同区間のほかの落石が発生する可能性がある場所にも落石検知装置が設置され、200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>3月18日に運転を再開した[http://web.archive.org/web/20070321033533/www.westjr.co.jp/news/newslist/article/1172841_799.html <a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a>（玉柏から牧山駅間）の運転再開について]（インターネット・アーカイブ）- 西日本旅客鉄道プレスリリース 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>2月26日。<br />
+<br />
+200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>に起きた脱線事故の場所では、並行する県道に落石によって道路の陥没が脱線事故の約1時間前に発見されていた。県道は警察が現場を確認して通行止めにしていたが、JR西日本には伝わっておらず、落石などの災害時には、道路と鉄道が近接する区間では落石などによって災害が発生した場合は、道路管理者・鉄道事業者に対して必要に応じて速やかに情報を提供するよう通達が通知されている - 国土交通省 - 国土交通省。<br />
+<br />
+なお、200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>に起きた脱線事故では、JR西日本が落石した斜面一部を所有する岡山市に対し、土地所有者には土砂の撤去と崩落防止の義務があるとして、復旧費用の一部である2,889万円の負担を求めた裁判が行われ、岡山地方裁判所は岡山市に2,611万円の支払いを命令した[http://www.asahi.com/kansai/travel/news/OSK200807220081.html 岡山市に2611万円支払い命令 JR脱線事故費用償還] - 朝日新聞 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>7月23日。岡山市はこの判決を不服として控訴をしていたが、岡山市がJR西日本に対して1,400万円を支払うことで和解が成立した[http://com.city.okayama.jp/kaigiroku/cgi-bin/WWWframeNittei.exe?USR=webusr&amp;PWD=&amp;A=frameNittei&amp;XM=000100000000000&amp;L=1&amp;S=15&amp;Y=%95%bd%90%ac22%94%4e&amp;B=255&amp;T=1&amp;T0=70&amp;O=1&amp;P1=&amp;P2=&amp;P3=&amp;P=0&amp;K=13&amp;N=91&amp;W1=%92%c3%8e%52%90%fc&amp;W2=%8d%54%91%69&amp;W3=&amp;W4=&amp;W5=&amp;W6=&amp;W7=&amp;W8=&amp;DU=0 岡山市議会会議録 【平成<a href="http://localhost/keyword/22%E5%B9%B4">22年</a> 2月定例会-03月10日-10号】 難波巧経済局長の発言] - 岡山市議会。<br />
+<br />
+== 使用車両 ==<br />
+岡山気動車区所属のキハ40・47形とキハ120形300番台が使用されている。20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>3月現在は、キハ40・47形による運用が主力となっていて、1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a>の当線の高速化工事（歴史節参照）完成直後当時は岡山電車区気動車センターおよび、津山鉄道部所属。に多く見られたキハ120形300番台による運用は2往復にまで減少している。<br />
+<br />
+ファイル:JRW DC kiha40-2133.jpg|キハ40・47形<br />
+ファイル:JRW DC kiha120-340.jpg|キハ120形<br />
+<br />
+<br />
+== 歴史 ==<br />
+<br />
+<a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a>は、吉備線と同じく中国鉄道（現在の中鉄バス）が私設鉄道法で開業した私鉄が発祥で、大半が1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>6月1日に戦時買収で国有化された路線である。<br />
+<br />
+=== 国有化以前 ===<br />
+岡山県の県庁所在地である岡山と美作地方の中心都市の津山とは明治維新以降人や物の往来が増加していた。古くから両都市を結ぶ津山街道（現在の国道53号とほぼ同じルート）があったが、辛香峠などの難所があった。また、当時の岡山県の南北交通で主流であった舟運（高瀬舟）を使おうにも岡山は旭川水系、津山は吉井川水系であり、旭川を北上して福渡から津山街道に入るか落合までさらに北上し院庄から津山に入るなどの方法しかなく、人や物の往来に困難を来していた。このため最新の交通手段である鉄道の敷設が企画され、1<a href="http://localhost/keyword/896%E5%B9%B4">896年</a>4月30日に中国鉄道が設立された。<br />
+<br />
+同年に岡山 - 津山 - 勝山 - 根雨 - 米子の免許が下り、早くも7月には起工、1<a href="http://localhost/keyword/898%E5%B9%B4">898年</a>12月21日に「中国鉄道本線」として岡山市駅 - 津山駅（現在の津山口駅）までが開業した。津山駅以遠は建設を断念し免許は失効、のちに国により姫新線や伯備線として建設された。開業区間はほぼ津山街道に沿う形であるが、法界院駅 - 野々口駅間は難所の辛香峠を避け旭川沿いに建設されている。建設は国の技術によらなかったため、曲線やトンネルの断面などが独自の規格となっている。現在でも曲線半径が綺麗な数字になっていないのはこのためである。<br />
+<br />
+鉄道の開通により高瀬舟による旭川の舟運は主役の座から降りることとなり、金川や福渡といった鉄道の結節点から先の末端へのフィーダーに変化した。このため金川や福渡は大きく栄えることとなる。<br />
+<br />
+当初はタンク式の蒸気機関車が牽引する列車であったが、1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>以降は気動車が導入され、吉備線とあわせ国鉄制式車並の大型車総勢17両を揃え、手堅い設計で実用的に使いこなし全国的にも知られる存在であった（「買収気動車」を参照）。しかも一部は便所付き車両を導入するなど旅客サービス水準は高かった。しかし戦時買収で国有化され中国鉄道本線から<a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a>となった。<br />
+<br />
+=== 国有化以後 ===<br />
+戦後中国鉄道の気動車は地方私鉄に払い下げられ、設計の優秀さから長く使用されたが、当の<a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a>はC11形などが牽引する列車で運転された。<br />
+<br />
+その後国鉄でも気動車が次々と投入され、<a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a>に再び気動車が戻るようになり、旧岡山鉄道管理局管内では比較的早くに無煙化された。<br />
+<br />
+その後は国道53号の整備・それに伴う沿線地域のモータリーゼーション化の加速・沿線地域の過疎化もあって合理化され、交換設備が取り外されたり列車本数が削減されるなど徐々に利便性が悪化していた。このため、1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a>に沿線自治体の資金負担や住民の募金によって高速化改造（交換設備の復活と一線スルー化）、キハ120形300番台の投入が行われ、所要時間の短縮や増発が行われた。なお、当線の高速化への取り組みはのちに鳥取県や島根県が山陰本線を高速化する際に参考としている。<br />
+<br />
+=== 年表 ===<br />
+==== 中国鉄道・国鉄作備線 ====<br />
+* 1<a href="http://localhost/keyword/898%E5%B9%B4">898年</a>（明治<a href="http://localhost/keyword/31%E5%B9%B4">31年</a>）12月21日：&#39;中国鉄道本線&#39; 岡山市駅 - 津山駅間（34M76C≒56.25km）が開業。岡山市駅・玉柏駅・野々口駅・金川駅・福渡駅・弓削駅・誕生寺駅・<a href="http://localhost/keyword/%E4%BA%80%E7%94%B2%E9%A7%85">亀甲駅</a>・津山駅（現在の津山口駅）が開業。岡山駅 - 岡山市駅間に人力貨車運搬線を敷設。<br />
+* 1<a href="http://localhost/keyword/900%E5%B9%B4">900年</a>（明治<a href="http://localhost/keyword/33%E5%B9%B4">33年</a>）4月14日：建部駅が開業。<br />
+* 1<a href="http://localhost/keyword/902%E5%B9%B4">902年</a>（明治<a href="http://localhost/keyword/35%E5%B9%B4">35年</a>）11月12日：営業キロの表記をマイル・チェーンからマイルのみに簡略化（34M76C→35.0M）。<br />
+* 1<a href="http://localhost/keyword/903%E5%B9%B4">903年</a>（明治<a href="http://localhost/keyword/36%E5%B9%B4">36年</a>）4月18日：法界院仮停車場が開業。<br />
+* 1<a href="http://localhost/keyword/904%E5%B9%B4">904年</a>（明治<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）11月15日：岡山駅 - 岡山市駅間（0.3M≒0.48km）が延伸開業し、国鉄岡山駅に乗り入れ。岡山市駅が岡山荷扱所に改称。<br />
+* 1<a href="http://localhost/keyword/908%E5%B9%B4">908年</a>（明治<a href="http://localhost/keyword/41%E5%B9%B4">41年</a>）<br />
+** 6月20日：法界院仮停車場が廃止。別の場所に法界院簡易停車場が開業。<br />
+** 9月2日：法界院簡易停車場を駅に変更され法界院駅が開業。<br />
+* 1<a href="http://localhost/keyword/912%E5%B9%B4">912年</a>（大正元年）10月10日：牧山停留場が開業。<br />
+* 1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>（大正<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）<br />
+** 8月1日：津山駅が津山口駅に改称。<br />
+** 8月21日：国鉄&#39;作備線&#39;の支線として津山駅 - 津山口駅間（1.2M≒1.93km）が開業。<br />
+* 1<a href="http://localhost/keyword/924%E5%B9%B4">924年</a>（大正<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）5月1日：津山口駅 - 津山駅間が作備線の本線に編入。<br />
+* 1<a href="http://localhost/keyword/927%E5%B9%B4">927年</a>（昭和<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）<br />
+** 4月1日：原仮停留場が開業。<br />
+** 10月1日：原仮停留場が廃止。<br />
+* 1<a href="http://localhost/keyword/928%E5%B9%B4">928年</a>（昭和3年）<br />
+** 2月20日：原仮停留場が再開業。<br />
+** 3月20日：岡山駅 - 法界院駅間に博覧会場前仮停留場が開業。<br />
+** 5月19日：博覧会前仮停留場が廃止。<br />
+** 12月16日：神目仮停留場が開業。<br />
+* 1<a href="http://localhost/keyword/929%E5%B9%B4">929年</a>（昭和<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）<br />
+** 6月20日：原仮停留場を正式な停留場に変更し、原停留場が開業。<br />
+** 12月25日：神目仮停留場を正式な停留場に変更し、神目停留場が開業。<br />
+* 1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>（昭和<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）4月1日：営業距離の表記をマイルからメートルに変更（中国鉄道本線 35.3M→56.8km、作備線 1.2M→1.9km）。<br />
+* 1<a href="http://localhost/keyword/933%E5%B9%B4">933年</a>（昭和<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）12月20日：<a href="http://localhost/keyword/%E4%BA%80%E7%94%B2%E9%A7%85">亀甲駅</a> - 津山口駅間に高尾仮停留場が開業。<br />
+* 1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>（昭和<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）<br />
+** 9月29日：旭川橋梁流失のため、建部駅 - 福渡駅間に南仮乗降場・北仮乗降場が開業。<br />
+** 11月27日：旭川橋梁復旧に伴い南仮乗降場・北仮乗降場が廃止。<br />
+* 1<a href="http://localhost/keyword/936%E5%B9%B4">936年</a>（昭和<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）10月10日：作備線が&#39;姫新線&#39;に編入、津山駅 - 津山口駅間は同線の支線になる。<br />
+* 1<a href="http://localhost/keyword/937%E5%B9%B4">937年</a>（昭和<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）6月15日：佐良山停留場が開業。高尾仮停留場が廃止。<br />
+<br />
+==== 国鉄<a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a> ====<br />
+* 1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>（昭和<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）6月1日：中国鉄道の鉄道部門が国有化され、岡山駅 - 津山口駅 - 津山駅間が&#39;<a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a>&#39;になる[ 「運輸通信省告示第250号」『官報』1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>5月27日]（国立国会図書館デジタルコレクション）。停留場が駅に変更。原停留場が備前原駅に改称。岡山荷扱所が廃止。中国鉄道はバス事業者の中鉄バスとして存続。<br />
+* 1<a href="http://localhost/keyword/956%E5%B9%B4">956年</a>（昭和<a href="http://localhost/keyword/31%E5%B9%B4">31年</a>）10月1日：小原駅が開業。<br />
+* 19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>（昭和<a href="http://localhost/keyword/35%E5%B9%B4">35年</a>）12月20日：<a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a>初の優等列車として岡山駅 - 中国勝山駅・上井駅（現在の倉吉駅）間に準急「ひるぜん」が運転開始今尾恵介・<a href="http://localhost/keyword/%E5%8E%9F%E6%AD%A6%E5%8F%B2">原武史</a>『日本鉄道旅行歴史地図帳 - 全線・全駅・全優等列車 - 11号・中国四国』新潮社、20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>、p.35 - p.36。ISBN 978-4-10-790045-6。。<br />
+* 1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>（昭和<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）9月1日：宇野駅 - 鳥取駅間で準急「砂丘」が運転開始（1<a href="http://localhost/keyword/966%E5%B9%B4">966年</a>に急行化）。<br />
+* 1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a>（昭和<a href="http://localhost/keyword/57%E5%B9%B4">57年</a>）8月31日：全線に列車集中制御装置 (CTC) が導入。<br />
+<br />
+==== 分割民営化以後 ====<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日：国鉄分割民営化により西日本旅客鉄道が承継。全線の貨物営業廃止。<br />
+* 19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>（平成<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）6月1日：岡山支社から津山鉄道部管轄に変更『データで見るJR西日本 2001』- 西日本旅客鉄道。ワンマン運転開始『JR気動車客車編成表 2011』交通新聞社、20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>。ISBN 978-4-330-22011-6。。<br />
+* 1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a>（平成<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）12月1日：全線高速化。<br />
+* 1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>（平成<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）11月29日：急行「砂丘」の廃止により、急行「つやま」および快速「ことぶき」が運転開始[http://web.archive.org/web/19980205231200/www.westjr.co.jp/new/1press/n970725c.html 平成<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>秋ダイヤ改正について 2.在来線都市間輸送]（インターネット・アーカイブ）- 西日本旅客鉄道プレスリリース 1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>7月25日。<br />
+* 2001年（平成<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）3月7日：「ことぶき」の座席指定席が廃止。<br />
+* 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>（平成<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）<br />
+** 2月26日：玉柏駅 - 牧山駅間で、落石に回送列車が衝突して脱線する列車脱線事故が発生し、玉柏駅 - 金川駅間が不通になる（その後、不通区間は玉柏駅 - 牧山駅間に短縮[http://web.archive.org/web/20050308114059/http://www.westjr.co.jp/news/newslist/article/050302g.html 斜面崩落災害に伴う<a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a>ダイヤ改正]（インターネット・アーカイブ）- 西日本旅客鉄道プレスリリース 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>3月2日）。<br />
+** 3月14日：全線で運転再開。<br />
+* 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>（平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）11月19日：玉柏駅 - 牧山駅間で落石が発生して脱線する列車脱線事故が発生し、同区間が不通になる（インターネット・アーカイブ）- 西日本旅客鉄道。<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）<br />
+** 3月18日：全線で運転再開[http://web.archive.org/web/20070321033533/www.westjr.co.jp/news/newslist/article/1172841_799.html <a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a>（玉柏から牧山駅間）の運転再開について]（インターネット・アーカイブ）- 西日本旅客鉄道プレスリリース 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>2月26日。<br />
+** 9月1日：岡山駅 - 法界院駅間が「ICOCA」の利用エリアになる[http://web.archive.org/web/20080106200750/http://www.westjr.co.jp/news/newslist/article/1173198_799.html 岡山・広島エリアに｢ICOCA｣デビュー！]（インターネット・アーカイブ）- 西日本旅客鉄道プレスリリース 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>8月8日[http://web.archive.org/web/20070428195334/www.westjr.co.jp/news/newslist/article/060524b.html 岡山・広島エリアへICカード<a href="http://localhost/keyword/%E4%B9%97%E8%BB%8A%E5%88%B8">乗車券</a>「ICOCA」を導入します]（インターネット・アーカイブ） - 西日本旅客鉄道プレスリリース 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>5月24日。<br />
+* 年月日不明：津山鉄道部が廃止され、岡山支社の管轄になる『[http://pamph.jr-odekake.net/view_pamph2.php?client_id=jr-west&amp;book_id=jrdata2007 データで見るJR西日本 2007]』には記載されているが、『[http://pamph.jr-odekake.net/view_pamph2.php?client_id=jr-west&amp;book_id=jrdata2008 データで見るJR西日本 2008]』には記載されていない。<br />
+* 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>（平成<a href="http://localhost/keyword/21%E5%B9%B4">21年</a>）3月13日：急行「つやま」が廃止[http://railf.jp/news/2009/03/14/201300.html 急行“つやま”廃止される] - 『鉄道ファン』交友社 railf.jp鉄道ニュース 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>3月14日。<br />
+* 20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>（平成<a href="http://localhost/keyword/22%E5%B9%B4">22年</a>）3月20日・21日：おかやまB級グルメ<a href="http://localhost/keyword/%E3%83%95%E3%82%A7%E3%82%B9">フェス</a>タin津山にあわせて岡山駅 - 津山駅間でキハ58系の臨時快速「おかやまB級グルメ<a href="http://localhost/keyword/%E3%83%95%E3%82%A7%E3%82%B9">フェス</a>タ号」が運行される（21日は津山行のみ）[http://railf.jp/news/2010/03/21/202900.html “おかやまB級グルメ<a href="http://localhost/keyword/%E3%83%95%E3%82%A7%E3%82%B9">フェス</a>タ号”，キハ58＋キハ28で運転] - 『鉄道ファン』交友社 railf.jp鉄道ニュース 20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>3月21日。<br />
+<br />
+== 駅一覧 ==<br />
+* 停車駅<br />
+** 普通 … すべての駅に停車<br />
+** 快速「ことぶき」… ●印の駅は全列車停車、○印の駅は一部の列車が停車、｜印の駅は全列車通過<br />
+* 線路（全線単線） … ◇・∧：列車交換可、｜：列車交換不可<br />
+* 全駅岡山県内に所在<br />
+<br />
+<br />
+<br />
+JR西日本直営駅は両端の駅（岡山駅と津山駅）のみ。中間駅のうち、法界院駅・金川駅の2駅はジェイアール西日本岡山メンテックによる業務委託駅、それら以外の中間駅は簡易委託駅または無人駅である。<br />
+<br />
+=== 廃駅 ===<br />
+（　）内は岡山駅起点の営業キロ。<br />
+<br />
+* 岡山荷扱所（旧・岡山市駅）：1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>廃止、岡山駅 - 法界院駅間 (0.5km)<br />
+* 博覧会場前仮停留場：1<a href="http://localhost/keyword/928%E5%B9%B4">928年</a>廃止、岡山駅 - 法界院間（約1.2km）<br />
+* 法界院仮停車場：1<a href="http://localhost/keyword/908%E5%B9%B4">908年</a>廃止、岡山駅 - 法界院駅間（約3.2km）<br />
+* 南仮乗降場：1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>廃止、建部駅 - 福渡駅間 (29.3km)<br />
+* 北仮乗降場：1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>廃止、建部駅 - 福渡駅間 (29.8km)<br />
+* 高尾仮停留場：1<a href="http://localhost/keyword/937%E5%B9%B4">937年</a>廃止、佐良山駅付近 (53.3km)<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 参考文献 ==<br />
+* 川島令三『山陽・山陰ライン 全線・全駅・全配線 (4) 兵庫西部・岡山エリア』講談社、20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>。ISBN 978-4-06-295154-8。<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 日本の鉄道路線一覧<br />
+<br />
+<br />
+<br />
+Category:中国地方の鉄道路線<br />
+Category:西日本旅客鉄道の鉄道路線<br />
+Category:日本国有鉄道の鉄道路線<br />
+路<br />
+Category:岡山県の交通<br />

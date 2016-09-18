@@ -1,0 +1,108 @@
+description<br />
+ <br />
+|left=ルテチウム<br />
+|right=<a href="http://localhost/keyword/%E3%82%BF%E3%83%B3%E3%82%BF%E3%83%AB">タンタル</a><br />
+|above=Zr<br />
+|below=Rf<br />
+|series=遷移金属<br />
+|group=4<br />
+|period=6<br />
+|block=d<br />
+|image name=Hf-crystal bar.jpg<br />
+|appearance=銀灰色<br />
+|atomic mass=178.49<br />
+|electron configuration=&amp;#91;Xe&amp;#93; 4f14 5d2 6s2<br />
+|electrons per shell=2, 8, 18, 32, 10, 2<br />
+|phase=固体<br />
+|density gpcm3nrt=13.31<br />
+|density gpcm3mp=12<br />
+|melting point K=2506<br />
+|melting point C=2233<br />
+|melting point F=4051<br />
+|boiling point K=4876<br />
+|boiling point C=4603<br />
+|boiling point F=8317<br />
+|heat fusion=27.2<br />
+|heat vaporization=571<br />
+|heat capacity=25.73<br />
+|vapor pressure 1=2689<br />
+|vapor pressure 10=2954<br />
+|vapor pressure 100=3277<br />
+|vapor pressure 1 k=3679<br />
+|vapor pressure 10 k=4194<br />
+|vapor pressure 100 k=4876<br />
+|vapor pressure comment=<br />
+|crystal structure=hexagonal<br />
+|japanese crystal structure=六方晶系<br />
+|oxidation states=&#39;4&#39;, 3, 2（両性酸化物）<br />
+|electronegativity=1.3<br />
+|number of ionization energies=3<br />
+|1st ionization energy=658.5<br />
+|2nd ionization energy=1440<br />
+|3rd ionization energy=2250<br />
+|atomic radius=159<br />
+|covalent radius=175±10<br />
+|magnetic ordering=常磁性[http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf Magnetic susceptibility of the elements and inorganic compounds], in Handbook of Chemistry and Physics 81st edition, CRC press.<br />
+|electrical resistivity at 20=331 n<br />
+|thermal conductivity=23.0<br />
+|thermal expansion at 25=5.9<br />
+|speed of sound rod at 20=3010<br />
+|Young&#39;s modulus=78<br />
+|Shear modulus=30<br />
+|Bulk modulus=<a href="http://localhost/keyword/110">110</a><br />
+|Poisson ratio=0.37<br />
+|Mohs hardness=5.5<br />
+|Vickers hardness=<a href="http://localhost/keyword/176">176</a>0<br />
+|Brinell hardness=1700<br />
+|CAS number=7440-58-6<br />
+|isotopes=<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+|isotopes comment=<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E3%83%8F%E3%83%95%E3%83%8B%E3%82%A6%E3%83%A0">ハフニウム</a>&#39;（）は<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>72の元素。元素記号は &#39;Hf&#39;。<br />
+<br />
+== 概要 ==<br />
+チタン族元素の一つ。灰色の金属（遷移金属）。常温、常圧で安定な結晶構造は六方最密充填構造 (HCP) で、比重は13.31、融点は2222 、沸点は4450 （融点、沸点とも異なる実験値あり）。展性、延性に富む。酸化力のある酸に溶けるが、アルカリには溶けない。高温で酸素、水素、窒素、ハロゲンと反応する。原子価は+2価、+3価、+4価（+4価が最も安定）。化学的、物理的性質はジルコニウムに似る。<br />
+<br />
+天然では<a href="http://localhost/keyword/%E3%83%8F%E3%83%95%E3%83%8B%E3%82%A6%E3%83%A0">ハフニウム</a>はジルコニウムの鉱物（ジルコン）にジルコニウムを置換して存在する。知られている<a href="http://localhost/keyword/%E3%83%8F%E3%83%95%E3%83%8B%E3%82%A6%E3%83%A0">ハフニウム</a>の鉱物（<a href="http://localhost/keyword/%E3%83%8F%E3%83%95%E3%83%8B%E3%82%A6%E3%83%A0">ハフニウム</a>がジルコニウムよりも多い鉱物）はハフノンのみである[http://www.mindat.org/min-1792.html Hafnon &#39;&#39;mindat&#39;&#39;][http://www.mindat.org/chemsearch.php?inc=Hf%2C&amp;exc=&amp;sub=Search+for+Minerals Chemical Search Hf &#39;&#39;mindat&#39;&#39;]が、ジルコンに比べ非常に珍しい。苗木石（岐阜県苗木地方で見出されたもの）は最大7%程度の<a href="http://localhost/keyword/%E3%83%8F%E3%83%95%E3%83%8B%E3%82%A6%E3%83%A0">ハフニウム</a>を含む。<br />
+<br />
+== 用途 ==<br />
+熱中性子の吸収断面積が大きく（これはジルコニウムとは逆の性質）、機械的強度、融点が高く、化学的にも安定で耐食性に優れることから、原子炉の制御棒の材料に利用される。また、酸化<a href="http://localhost/keyword/%E3%83%8F%E3%83%95%E3%83%8B%E3%82%A6%E3%83%A0">ハフニウム</a>は、MOSFETのゲートからのリーク電流対策のための高誘電率 (High-k) 材料として注目されている。<br />
+その他、酸化物の沸点が、タングステンよりも高いことから、酸化環境下でのプラズマ電極やプラズマアークノズルなどにも用いられる。<br />
+<br />
+== 歴史 ==<br />
+1<a href="http://localhost/keyword/922%E5%B9%B4">922年</a>、デンマークのニールス・ボーアは、当時未発見だった72番元素はランタノイドではなくジルコニウムに類似したものだと予言してニールス・ボーア研究所のとゲオルク・ド・ヘヴェシーにジルコンの分析を提唱。エックス線分析と分別結晶を繰り返すことにより1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>に発見。<a href="http://localhost/keyword/%E3%83%8F%E3%83%95%E3%83%8B%E3%82%A6%E3%83%A0">ハフニウム</a>とジルコニウムは性質がよく似ているため、ジルコニウムとの分離が難しく発見が遅れ、天然元素としては最後から三番目に発見された（二番目はレニウム、最後はフランシウムであり、その後発見された元素は全て合成されたものである）。ニールス・ボーア研究所のあるコペンハーゲンのラテン語名 &#39;&#39;hafnia&#39;&#39; が語源。<br />
+<br />
+== <a href="http://localhost/keyword/%E3%83%8F%E3%83%95%E3%83%8B%E3%82%A6%E3%83%A0">ハフニウム</a>の化合物 ==<br />
+* 炭化<a href="http://localhost/keyword/%E3%83%8F%E3%83%95%E3%83%8B%E3%82%A6%E3%83%A0">ハフニウム</a> (HfC)<br />
+** 炭化<a href="http://localhost/keyword/%E3%82%BF%E3%83%B3%E3%82%BF%E3%83%AB">タンタル</a><a href="http://localhost/keyword/%E3%83%8F%E3%83%95%E3%83%8B%E3%82%A6%E3%83%A0">ハフニウム</a> (TaxHf1-xCy)<br />
+* ケイ酸<a href="http://localhost/keyword/%E3%83%8F%E3%83%95%E3%83%8B%E3%82%A6%E3%83%A0">ハフニウム</a>(IV) (HfSiO4)<br />
+* 酸化<a href="http://localhost/keyword/%E3%83%8F%E3%83%95%E3%83%8B%E3%82%A6%E3%83%A0">ハフニウム</a>(IV) (HfO2) - 高誘電率ゲート絶縁膜<br />
+* フッ化<a href="http://localhost/keyword/%E3%83%8F%E3%83%95%E3%83%8B%E3%82%A6%E3%83%A0">ハフニウム</a>(IV) (HfF4) - フッ化ガラスの材料<br />
+* 塩化<a href="http://localhost/keyword/%E3%83%8F%E3%83%95%E3%83%8B%E3%82%A6%E3%83%A0">ハフニウム</a>(IV) (HfCl4)<br />
+<br />
+== 同位体 ==<br />
+<br />
+<br />
+== 出典 ==<br />
+<br />
+<br />
+== 外部リンク ==<br />
+* [http://mineralhunters.web.fc2.com/naegi06_2.html 岐阜県苗木地方の希元素鉱物]<br />
+* [http://www.chemenv.titech.ac.jp/watanabe/Pages/plasma2.html <a href="http://localhost/keyword/%E3%83%8F%E3%83%95%E3%83%8B%E3%82%A6%E3%83%A0">ハフニウム</a>を用いたプラズマトーチ]<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+*<br />

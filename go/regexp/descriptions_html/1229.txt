@@ -1,0 +1,123 @@
+description<br />
+<br />
+&#39;平方剰余&#39;（へいほうじょうよ）とは、ある自然数を法としたときの平方数のことであり、&#39;<a href="http://localhost/keyword/%E5%B9%B3%E6%96%B9%E5%89%B0%E4%BD%99%E3%81%AE%E7%9B%B8%E4%BA%92%E6%B3%95%E5%89%87">平方剰余の相互法則</a>&#39;（へいほうじょうよのそうごほうそく、）は、ある整数  が別の整数  の平方剰余であるか否かを判定する法則である。<br />
+<br />
+== 定義 ==<br />
+整数  と  とが互いに素であるとする。合同式<br />
+:x^2 \\equiv a\\pmod p<br />
+が解を持つとき、 は  を法として&#39;平方剰余&#39;であるといい、そうでないとき&#39;平方非剰余&#39;であるという。<br />
+<br />
+奇素数  と、 と互いに素な  に対して次の記号<br />
+:\\left( \\frac{a}{p} \\right) = \\begin{cases}<br />
+  1  &amp;\\text{if }x^2 \\equiv a\\pmod p\\mbox{ for some } x\\\\<br />
+  -1 &amp;\\text{if }x^2 \<br />
+ot\\equiv a\\pmod p\\mbox{ for any } x<br />
+\\end{cases}<br />
+を、&#39;平方剰余記号&#39;、またはアドリアン＝マリ・ルジャンドルにちなんで&#39;ルジャンドル記号&#39;と呼ぶ。<br />
+<br />
+== 相互法則 ==<br />
+&#39;<a href="http://localhost/keyword/%E5%B9%B3%E6%96%B9%E5%89%B0%E4%BD%99%E3%81%AE%E7%9B%B8%E4%BA%92%E6%B3%95%E5%89%87">平方剰余の相互法則</a>&#39;は整数  が奇素数  を法として平方剰余であるか否かを判定する法則である。<br />
+:,  を相異なる奇素数とするときに、<br />
+::\\left( \\frac{p}{q} \\right)\\left( \\frac{q}{p} \\right) = (-1)^{ \\frac{p-1}{2} \\cdot \\frac{q-1}{2} }<br />
+:が成り立つ。<br />
+<br />
+また、このほかに以下の第1補充法則、第2補充法則が知られている。<br />
+<br />
+&#39;第1補充法則:&#39;<br />
+::\\left( \\frac{-1}{p} \\right) = (-1)^{ \\frac{p-1}{2}}. <br />
+<br />
+&#39;第2補充法則:&#39;<br />
+::\\left( \\frac{2}{p} \\right) = (-1)^{ \\frac{p^2-1}{8}}.<br />
+<br />
+また、 と互いに素な整数 ,  に対して<br />
+::\\left( \\frac{ab}{p} \\right) = \\left( \\frac{a}{p} \\right)\\left( \\frac{b}{p} \\right)<br />
+が成立する。一般に素数  に対して 1, 2, ..., &#39;&#39;p&#39;&#39; − 1}} は  を法として乗法に関して群になることが知られているが、この式は  から −1, 1}} への群準同型写像が存在することを示している。よってその写像の核は位数  の部分群となり、 の要素の半分は平方剰余であり、半分は平方非剰余であることが分かる。<br />
+<br />
+この法則は、レオンハルト・オイラーによって予想され、カール・フリードリッヒ・ガウスによって証明された（ガウス日誌によれば、1<a href="http://localhost/keyword/796%E5%B9%B4">796年</a>4月8日。発表されたのは1<a href="http://localhost/keyword/801%E5%B9%B4">801年</a>の『整数論』において）。ガウスはこの法則に対して生涯で7つの異なる証明を与えた。その一つの動機は、三次や四次の相互法則を証明することにあった。現在では200近くもの証明が知られているが、どれもそれほど簡単ではない。<br />
+<br />
+三次や四次の相互法則は、ヤコビ、アイゼンシュタインによって独立に証明された（1<a href="http://localhost/keyword/844%E5%B9%B4">844年</a>にアイゼンシュタインが証明を公表）。より高次のまた一般的な代数的整数における一般的な相互法則の証明は（ヒルベルトの第9問題）、高木貞治やエミール・アルティンによってなされた。（アルティン相互法則を参照）<br />
+<br />
+==<a href="http://localhost/keyword/%E5%B9%B3%E6%96%B9%E5%89%B0%E4%BD%99%E3%81%AE%E7%9B%B8%E4%BA%92%E6%B3%95%E5%89%87">平方剰余の相互法則</a>の応用==<br />
+ 型の素数は二個の平方数の和で表すことができる。また逆にある奇素数が二つの平方数の和で表すことができるならば、 型の素数である。<br />
+<br />
+<br />
+\\begin{alignat}{2}<br />
+5 &amp;= 1^2 + 2^2\\\\<br />
+13 &amp;= 2^2 + 3^2\\\\<br />
+17 &amp;= 1^2 + 4^2\\\\<br />
+29 &amp;= 2^2 + 5^2\\\\<br />
+37 &amp;= 1^2 + 6^2\\\\<br />
+41 &amp;= 4^2 + 5^2\\\\<br />
+53 &amp;= 2^2 + 7^2\\\\<br />
+61 &amp;= 5^2 + 6^2<br />
+\\end{alignat}<br />
+<br />
+<br />
+証明は、ある素数  に対して  と表せたならば  より真に小さい  を選んで  とできるアルゴリズムの存在を示すことで行うことができる。<br />
+<br />
+ 型の素数は第1補充法則より、 と表すことができるため、このアルゴリズムを適用すればいつかは  を  にすることができる。<br />
+<br />
+===平方剰余の計算===<br />
+ 以下の自然数 ,  以下の素数  について、 を計算してみると次の表になる。<br />
+<br />
+<br />
+==== の場合====<br />
+::\\left( \\frac{a}{3} \\right) = \\begin{cases}<br />
+  1  &amp;\\text{if }a \\equiv 1\\pmod 3\\\\<br />
+  -1 &amp;\\text{if }a \\equiv 2\\pmod 3\\\\<br />
+  0  &amp;\\text{if }a \\equiv 0\\pmod 3<br />
+\\end{cases}<br />
+となる。 が  と異なる奇素数ならば、<br />
+::\\left( \\frac{q}{3} \\right) = \\begin{cases}<br />
+  1  &amp;\\text{if }q \\equiv 1\\pmod 6\\\\<br />
+  -1 &amp;\\text{if }q \\equiv 5\\pmod 6<br />
+\\end{cases}<br />
+と表せる。ここで、&#39;<a href="http://localhost/keyword/%E5%B9%B3%E6%96%B9%E5%89%B0%E4%BD%99%E3%81%AE%E7%9B%B8%E4%BA%92%E6%B3%95%E5%89%87">平方剰余の相互法則</a>&#39;を使うと、<br />
+::\\biggl( \\frac{3}{q} \\biggr)\\biggl( \\frac{q}{3} \\biggr) <br />
+=(-1)^{\\frac{3-1}{2} \\cdot \\frac{q-1}{2}} <br />
+=(-1)^{\\frac{q-1}{2}} <br />
+<br />
+となり、<br />
+::\\left( \\frac{3}{q} \\right) = \\begin{cases}<br />
+  1  &amp;\\text{if }q \\equiv \\pm 1\\pmod {12}\\\\<br />
+  -1 &amp;\\text{if }q \\equiv \\pm 5\\pmod {12}<br />
+\\end{cases}<br />
+と求められる。今  は  とも  とも互いに素であり、このことと第1補充法則より<br />
+::\\left( \\frac{-3}{q} \\right)<br />
+= \\left(\\frac{-1}{q} \\right)\\left( \\frac{3}{q} \\right)<br />
+= (-1)^{ \\frac{3-1}{2}}\\left( \\frac{q}{3} \\right)<br />
+= \\left( \\frac{q}{3} \\right)<br />
+= \\begin{cases}<br />
+  1  &amp;\\text{if }q \\equiv 1\\pmod 6\\\\<br />
+  -1 &amp;\\text{if }q \\equiv 5\\pmod 6<br />
+\\end{cases}<br />
+と求められる。即ち、 と異なる奇素数  に対して、 が  を割り切るような整数  が存在することと、 が  を法として  に合同であることは同値である。<br />
+<br />
+==== の場合====<br />
+同様にして、 を  と異なる奇素数とすると、<br />
+::\\left( \\frac{q}{5} \\right) = \\begin{cases}<br />
+  1  &amp;\\text{if }q \\equiv \\pm 1\\pmod 5\\\\<br />
+  -1 &amp;\\text{if }q \\equiv \\pm 2\\pmod 5.<br />
+\\end{cases}<br />
+ゆえに&#39;<a href="http://localhost/keyword/%E5%B9%B3%E6%96%B9%E5%89%B0%E4%BD%99%E3%81%AE%E7%9B%B8%E4%BA%92%E6%B3%95%E5%89%87">平方剰余の相互法則</a>&#39;から<br />
+::\\biggl( \\frac{5}{q} \\biggr)\\biggl( \\frac{q}{5} \\biggr) <br />
+= (-1)^{ \\frac{5-1}{2} \\cdot \\frac{q-1}{2} } <br />
+= 1 <br />
+<br />
+となり、よって<br />
+::\\left( \\frac{5}{q} \\right) = \\begin{cases}<br />
+  1  &amp;\\text{if }q \\equiv \\pm 1\\pmod 5\\\\<br />
+  -1 &amp;\\text{if }q \\equiv \\pm 2\\pmod 5<br />
+\\end{cases}<br />
+と求められる。<br />
+<br />
+== 関連項目 ==<br />
+* <br />
+* <br />
+<br />
+<br />
+<br />
+<br />
+Category:数論<br />
+Category:数学の法則<br />
+Category:数学に関する記事<br />

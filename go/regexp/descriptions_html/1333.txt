@@ -1,0 +1,86 @@
+description<br />
+<br />
+<br />
+|所属事業者 = 15px 東京都交通局（都営地下鉄）<br />
+|所属路線   = I 三田線<br />
+|キロ程     = 17.0<br />
+|起点駅     = 目黒<br />
+|所在地     = 東京都板橋区板橋一丁目53-17<br />
+| 緯度度 = 35 | 緯度分 = 44 | 緯度秒 = 55.6 | N(北緯)及びS(南緯) = N<br />
+| 経度度 = 139 |経度分 = 43 | 経度秒 = 10.6 | E(東経)及びW(西経) = E<br />
+| 地図国コード = JP<br />
+|駅構造     = 地下駅<br />
+|ホーム     = 1面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>（昭和<a href="http://localhost/keyword/43%E5%B9%B4">43年</a>）12月27日<br />
+|廃止年月日 = <br />
+|乗車人員   = 13,855<br />
+|乗降人員   = 27,844<br />
+|統計年度   = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換       = <br />
+|備考       = <br />
+}}<br />
+ホーム（20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>6月）<br />
+&#39;<a href="http://localhost/keyword/%E6%96%B0%E6%9D%BF%E6%A9%8B%E9%A7%85">新板橋駅</a>&#39;（しんいたばしえき）は、東京都板橋区板橋一丁目にある、東京都交通局（都営地下鉄）三田線の駅である。駅番号は&#39;I 17&#39;。<br />
+<br />
+== 年表 ==<br />
+* 1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>（昭和<a href="http://localhost/keyword/43%E5%B9%B4">43年</a>）12月27日 - 都営地下鉄6号線開業に伴い開業。<br />
+* 1<a href="http://localhost/keyword/978%E5%B9%B4">978年</a>（昭和<a href="http://localhost/keyword/53%E5%B9%B4">53年</a>）7月1日 - 6号線を三田線に改称。<br />
+<br />
+== 駅構造 ==<br />
+島式ホーム1面2線の地下駅。<br />
+<br />
+西高島平方に引き上げ線を持ち、三田・目黒方面への始発列車が滞泊する。20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>3月15日のダイヤ改正により当駅止まりの最終電車が復活した[改正前は前日に高島平から回送で出庫した列車を留置したものを充当していた。。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度の1日平均乗降人員は&#39;27,844人&#39;（乗車人員：13,855人、降車人員：13,989人）である[http://www.kotsu.metro.tokyo.jp/subway/kanren/passengers.html 東京都交通局 各駅乗降人員一覧]。<br />
+<br />
+近年の1日平均乗降・乗車人員の推移は下表のとおりである。<br />
+<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+=== A1出口 ===<br />
+* 東京国際フランス学園<br />
+* 家具年金会館<br />
+<br />
+=== A2出口 ===<br />
+* 東日本旅客鉄道（JR東日本）埼京線 板橋駅（乗り換えも改札を出て5分かかり、板橋区役所前～西高島平と同じように、通常乗換案内などは行われないが、都営地下鉄の各駅情報のページには乗換駅として紹介されているほか[http://www.kotsu.metro.tokyo.jp/subway/stations/shin-itabashi/i17.html 都営地下鉄各駅情報　<a href="http://localhost/keyword/%E6%96%B0%E6%9D%BF%E6%A9%8B%E9%A7%85">新板橋駅</a>]ただし、JR東日本のページでは乗換駅扱いされていない（[http://www.jreast.co.jp/estation/station/info.aspx?StationCd=132 JR東日本：各駅情報　板橋駅]）、定期券での連絡運輸は行っている[http://www.jreast.co.jp/renrakuteiki/pdf/00.pdf 2社にまたがる連絡定期券の発売範囲 JR東日本]。）<br />
+* 八千代銀行 板橋支店<br />
+* UR都市機構 板橋ビュータワー<br />
+<br />
+=== A3出口 ===<br />
+* 東武東上線 下板橋駅<br />
+* 三菱東京<a href="http://localhost/keyword/UFJ">UFJ</a>銀行 板橋支店・新板橋支店<br />
+* 東京都立北園高等学校<br />
+<br />
+== 名称について ==<br />
+駅名の由来としては、地下鉄代替により廃止された都電志村線の電停として存在した「板橋駅前電停」のほぼ同位置にあり、また最寄りには国鉄赤羽線（現：JR東日本埼京線）板橋駅、地名として適当であろう「下板橋」はすでに近隣に距離があるものの当初乗り入れ相手とされた東武東上線に下板橋駅として採用されていた兼ね合いから板橋に&#39;新&#39;を冠する名称を採用した可能性がある。<br />
+<br />
+なお、国道17号で石神井川にかかっている新板橋とは地理的に直接的な関係はない。同橋は三田線では板橋区役所前駅と板橋本町駅の間となる。<br />
+<br />
+== 隣の駅 ==<br />
+;  15px 東京都交通局<br />
+: I 都営三田線<br />
+:: 西巣鴨駅 (I 16) - &#39;<a href="http://localhost/keyword/%E6%96%B0%E6%9D%BF%E6%A9%8B%E9%A7%85">新板橋駅</a> (I 17)&#39; - 板橋区役所前駅 (I 18)<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.kotsu.metro.tokyo.jp/subway/stations/shin-itabashi/i17.html 東京都交通局 <a href="http://localhost/keyword/%E6%96%B0%E6%9D%BF%E6%A9%8B%E9%A7%85">新板橋駅</a>]<br />
+<br />
+<br />
+<br />
+Category:板橋区の鉄道駅<br />
+んいたはし<br />
+Category:東京都交通局の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>開業の鉄道駅<br />

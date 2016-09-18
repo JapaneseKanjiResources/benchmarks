@@ -1,0 +1,116 @@
+description<br />
+}}<br />
+<br />
+|駅構造 = 地上駅<br />
+|ホーム = 3面5線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/928%E5%B9%B4">928年</a>（昭和3年）2月11日<br />
+|廃止年月日 =<br />
+|乗車人員 = 908<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗入路線数 = 2<br />
+|所属路線1 = 山陽本線<br />
+|前の駅1 = 下松<br />
+|駅間A1 = 4.6<br />
+|駅間B1 = 3.4<br />
+|次の駅1 = 徳山<br />
+|駅番号1 =<br />
+|キロ程1 = 411.5<br />
+|起点駅1 = 神戸<br />
+|所属路線2 = <a href="http://localhost/keyword/%E5%B2%A9%E5%BE%B3%E7%B7%9A">岩徳線</a><br />
+|前の駅2 = 周防花岡<br />
+|駅間A2 = 3.9<br />
+|駅間B2 = -<br />
+|次の駅2 = （徳山）*<br />
+|駅番号2 =<br />
+|キロ程2 = 43.7<br />
+|起点駅2 = 岩国<br />
+|備考 = 業務委託駅POS端末設置<br />
+|備考全幅 = * 全列車が徳山駅まで乗り入れ<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E6%AB%9B%E3%82%B1%E6%B5%9C%E9%A7%85">櫛ケ浜駅</a>&#39;（くしがはまえき）は、山口県周南市大字久米字院内にある、西日本旅客鉄道（JR西日本）の駅。<br />
+<br />
+山陽本線を所属線として『停車場変遷大事典 国鉄・JR編』JTB 1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a> ISBN 978-4533029806、<a href="http://localhost/keyword/%E5%B2%A9%E5%BE%B3%E7%B7%9A">岩徳線</a>を加えた2路線が乗り入れる。線路名称上では当駅が<a href="http://localhost/keyword/%E5%B2%A9%E5%BE%B3%E7%B7%9A">岩徳線</a>の終着駅であるが、運転系統上、<a href="http://localhost/keyword/%E5%B2%A9%E5%BE%B3%E7%B7%9A">岩徳線</a>の列車は全て徳山駅まで乗り入れており、当駅止まりの<a href="http://localhost/keyword/%E5%B2%A9%E5%BE%B3%E7%B7%9A">岩徳線</a>列車は設定されていない。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/928%E5%B9%B4">928年</a>（昭和3年）2月11日 - 国有鉄道山陽本線の下松駅 - 徳山駅間に新設開業。旅客・貨物の取扱を開始。<br />
+* 1<a href="http://localhost/keyword/932%E5%B9%B4">932年</a>（昭和<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）5月29日 - 岩徳西線（現在の<a href="http://localhost/keyword/%E5%B2%A9%E5%BE%B3%E7%B7%9A">岩徳線</a>）が周防花岡駅まで開業し分岐駅となる。<br />
+* 1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>（昭和<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）12月1日 - 山陽本線の麻里布駅（現在の岩国駅） - <a href="http://localhost/keyword/%E6%AB%9B%E3%82%B1%E6%B5%9C%E9%A7%85">櫛ケ浜駅</a>間が、それまでの岩徳西線を含む周防花岡駅経由のルートに変更され、以前の柳井駅経由のルートは柳井線に改称される。<br />
+* 1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>（昭和<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）10月11日 - 線路名称改定。山陽本線の麻里布駅（現在の岩国駅） - <a href="http://localhost/keyword/%E6%AB%9B%E3%82%B1%E6%B5%9C%E9%A7%85">櫛ケ浜駅</a>間はそれまでの柳井駅経由に戻され、周防花岡駅経由のルートは<a href="http://localhost/keyword/%E5%B2%A9%E5%BE%B3%E7%B7%9A">岩徳線</a>に改称。<br />
+* 1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>（昭和<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）9月1日 - 貨物の取扱を廃止。<br />
+* 1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>（昭和<a href="http://localhost/keyword/43%E5%B9%B4">43年</a>）3月7日 - 当駅を通過する上り特急「つばめ」が構内ポイント切替ミスより<a href="http://localhost/keyword/%E5%B2%A9%E5%BE%B3%E7%B7%9A">岩徳線</a>へ進入。救援機関車により山陽本線に引き戻す。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、西日本旅客鉄道（JR西日本）の駅となる。<br />
+*20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）2月 - 使用されていない2番のりばの3番線側に柵を設置。<br />
+<br />
+== 駅構造 ==<br />
+単式1面・島式2面の合計3面4線（5線に見えるが、山陽本線上りプラットホームの待避線に見える線路は上り方で行き止まりになる保守用）のホームを持つ地上駅。<br />
+<br />
+山陽本線の列車は駅舎側の単式ホーム（1番のりば）と島式1面（2番のりば、その反対側の1線は上述のとおり保守用のため番線カウントにも含まれない）を、<a href="http://localhost/keyword/%E5%B2%A9%E5%BE%B3%E7%B7%9A">岩徳線</a>の列車は島式1面（3・4番のりば）を使用する。なお、<a href="http://localhost/keyword/%E5%B2%A9%E5%BE%B3%E7%B7%9A">岩徳線</a>は単線であるため、当駅が交換駅としての役割も担っている。各ホームは跨線橋で連絡している。<br />
+<br />
+徳山地域鉄道部が管理し、ジェイアール西日本広島メンテックが駅業務を受託する業務委託駅である。窓口ではPOS端末による発券を行うが、土休日は無人になる。<br />
+<br />
+===のりば===<br />
+<br />
+<br />
+なお、列車運転取り扱い上では、2番のりばの反対側の使われていない線路を「3番線」とするため、<a href="http://localhost/keyword/%E5%B2%A9%E5%BE%B3%E7%B7%9A">岩徳線</a>の3・4番のりばが「4番線」「5番線」とされている。<br />
+<br />
+== 駅周辺 ==<br />
+* 出光興産徳山事業所<br />
+* 帝人ファイバー徳山事業所<br />
+* 徳山競艇場<br />
+* 周南市総合スポーツセンター<br />
+* 周南市野球場<br />
+* 周南市陸上競技場<br />
+* 周南地域地場産業振興センター<br />
+* 周南市立櫛浜小学校<br />
+* 周南市立太華中学校<br />
+* 徳山朝鮮初中級学校<br />
+* 徳山櫛浜郵便局<br />
+* 山口銀行櫛ヶ浜支店<br />
+* 西京銀行櫛ヶ浜支店<br />
+* 太華山<br />
+* 粭島（すくもじま）<br />
+<br />
+== バス ==<br />
+最寄り停留所は、&#39;<a href="http://localhost/keyword/%E6%AB%9B%E3%82%B1%E6%B5%9C%E9%A7%85">櫛ケ浜駅</a>前&#39;となる。以下の路線が乗り入れ、&#39;防長交通&#39;により運行されている。<br />
+<br />
+* &#39;快速バス&#39;<br />
+** 徳山駅前 - &#39;<a href="http://localhost/keyword/%E6%AB%9B%E3%82%B1%E6%B5%9C%E9%A7%85">櫛ケ浜駅</a>前&#39; - 下松駅前 - 光駅前 - 光市役所前 - 室積 - 江の浦 - 平生 - 周東病院前 - 柳井駅前<br />
+<br />
+* &#39;一般路線バス&#39;<br />
+** [5-1]：徳山駅前 - 市役所前 - 慶万 - 遠石八幡 - &#39;<a href="http://localhost/keyword/%E6%AB%9B%E3%82%B1%E6%B5%9C%E9%A7%85">櫛ケ浜駅</a>前&#39; - 下松駅前<br />
+** [5-2]：徳山駅前 - 市役所前 - 慶万 - 遠石八幡 - &#39;<a href="http://localhost/keyword/%E6%AB%9B%E3%82%B1%E6%B5%9C%E9%A7%85">櫛ケ浜駅</a>前&#39; - 粭島（すくもじま）<br />
+** [5-3]：徳山駅前 - 銀座 - 速玉町 - 遠石八幡 - &#39;<a href="http://localhost/keyword/%E6%AB%9B%E3%82%B1%E6%B5%9C%E9%A7%85">櫛ケ浜駅</a>前&#39; - 奈切<br />
+** 下松駅前 - 下松健康パーク前 - 競艇場入口 - &#39;<a href="http://localhost/keyword/%E6%AB%9B%E3%82%B1%E6%B5%9C%E9%A7%85">櫛ケ浜駅</a>前&#39; - 緑ヶ丘運動公園前 - 大学前 - 徳山高専正門<br />
+<br />
+== 利用状況 ==<br />
+1日の平均乗車人員は以下の通りである。出典：山口県統計年鑑<br />
+<br />
+<br />
+== 隣の駅 ==<br />
+; 西日本旅客鉄道<br />
+: 山陽本線<br />
+:: 下松駅 - &#39;<a href="http://localhost/keyword/%E6%AB%9B%E3%82%B1%E6%B5%9C%E9%A7%85">櫛ケ浜駅</a>&#39; - 徳山駅<br />
+: <a href="http://localhost/keyword/%E5%B2%A9%E5%BE%B3%E7%B7%9A">岩徳線</a>（<a href="http://localhost/keyword/%E6%AB%9B%E3%82%B1%E6%B5%9C%E9%A7%85">櫛ケ浜駅</a> - 徳山駅間は山陽本線）<br />
+:: 周防花岡駅 - &#39;<a href="http://localhost/keyword/%E6%AB%9B%E3%82%B1%E6%B5%9C%E9%A7%85">櫛ケ浜駅</a>&#39; - 徳山駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:山口県の鉄道駅<br />
+しかはま<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:西日本旅客鉄道の鉄道駅<br />
+くしかはまえき<br />
+Category:1<a href="http://localhost/keyword/928%E5%B9%B4">928年</a>開業の鉄道駅<br />

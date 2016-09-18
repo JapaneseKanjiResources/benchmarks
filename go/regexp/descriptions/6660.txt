@@ -1,0 +1,22 @@
+description
+'LI18NUX'（ライエイティーンナックス）とは、Linuxの国際化を推進する団体で、Linux Internationalization Initiativeの略称(InternationalizationのIと末尾のnの間が18字省略されていることによる。)である。
+
+1999年9月29日に東京国際フォーラムで開催された「Linux World Expo 99」の会場で公式活動を開始した。2000年5月8日、Linux Standard Base と合体する形で Free Standards Group となった[http://www.nikkeibp.co.jp/archives/101/101377.html Linux標準化2団体、「Free Standards Group」に統合] 日経BPnet、2000年5月9日。
+
+2003年7月頃に OpenI18N と名称を変更した模様。
+
+LI18NUXでは、Linuxの国際化を推進する人々に技術討論の場を提供したりもしている。
+
+== 脚注 ==
+
+
+== リンク ==
+* [http://www.li18nux.org/ LI18NUX.org]
+* [http://www.openi18n.org/ OpenI18N.org]
+
+== 関連記事 ==
+* [http://pcweb.mycom.co.jp/news/2000/03/23/15.html Linux国際化への取り組み　Li18nuxアジア太平洋地域議長　木戸彰夫氏に伺う]
+
+
+
+LI18NUX

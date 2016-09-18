@@ -1,0 +1,15 @@
+description
+'CTL'
+
+* アメリカの鉄道ネットワーク「アムトラック」のセントラリア（ワシントン州）の駅番号'CTL'。
+* 'コバルトチタンリチウム二次電池'（Cobalt Titan-Lithium）を表す記号。
+* '計算木論理'（Computational Tree Logic）。
+* 'コントロールトラック信号'（Control Track Longitudinal）　コントロール信号、CTL信号。タイムコードの種類で、00:00:00:00から開始する。
+* '細胞傷害性T細胞'（cytotoxic T lymphocyte; TcまたはCTL）
+* '推定全損' (Constructive Total Loss)　例、船を修理するためのコストが総保険価額を上回り、修理しない方が良い場合。
+* '石炭液化' (Coal to liquids)　石炭を液体の炭化水素に変形させる化学的工程。 石炭液化は、気化とフィッシャー・トロプシュ法によって「間接」的に、または、ベルギウス法（⇒石炭化学）によって「直接」行う両方法がある。
+* '複雑なテキスト配置' (complex text layout)。コンピュータによるテキスト処理の分野で、文字列の描画のためにグリフの置換や並び替えなどの自明でない処理を行うこと。また、そのような処理が必要な用字系を'コンプレックステキスト言語' (complex text language; CTL) と呼ぶこともある。
+* カナダのケベック州の都市、ラヴァルにある公共輸送システムw:en:Société de transport de Laval (STL)の旧名略称（'Commission de transport de la Ville de Laval'）。
+
+
+

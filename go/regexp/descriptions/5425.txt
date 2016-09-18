@@ -1,0 +1,49 @@
+description
+
+
+thumb
+'オレンジ色'（オレンジいろ）は、果物のオレンジの実のような色「オレンジ」『スーパー大辞林』三省堂、2010年。"orange" ''New Oxford American Dictionary'', Oxford University Press, 2010.。赤と黄色の中間色である。'橙色'（だいだいいろ）とも言う「オレンジ」、「橙色」『スーパー大辞林』三省堂、2010年。。暖色のひとつ「暖色」『スーパー大辞林』三省堂、2010年。。
+
+== 色見本 ==
+日本工業規格(JIS Z 8102:2001)では次のような色である。(#ef810f)[http://www.color-sample.com/popular/jiscolor/en/  JIS慣用色 英名 (Color-Sample.com)]『[http://www.mdn.co.jp/di/book/5890/ グラフィックデザイン必携]』 ISBN 978-4-8443-5890-9 p.123。4原色についてはシアン0%、マゼンタ63%、イエロー91%、黒0%とある。[http://www.colordream.net/jiscolor1.htm JIS慣用色名 (ColorDream.Net)]。[http://www.colordream.net/Iro_MV.htm 「色出し名人」MillenniumⅡ for Windows (ColorDream.Net)]にJIS Z 8102:2001における慣用色名オレンジのマンセル値を無補正で入力して得られるRGB値。[http://www.colordream.net/ ColorDream.Net]
+
+
+同じく、次に対応づける表もある。(#ff5900)[http://homepage3.nifty.com/mezala/pc/jiscolor/jiscolor.html JIS規格・物体色の色名とRGB数値についての覚書]。『[http://www.shogakukan.co.jp/books/detail/_isbn_4094178716 日本の269色]』 ISBN 978-4-09-417871-5 に印刷用サンプルとして示された4原色(CMYK)の網点数値から算出されたRGB値。その4原色はシアン0%、マゼンタ65%、イエロー100%、黒0%である。
+
+
+CSS 2.1およびそれ以降では、は次の色に規定された。これは、X11の色名称に由来する。(#ffa500)
+
+=== インターナショナルオレンジ ===
+航空宇宙産業では、次のような色をインターナショナルオレンジ :en:international orangeとする。赤と黄色の中間色で赤に近く鮮やかな朱色。航空法施行規則第百三十二条の三(昼間障害標識の種類及び設置基準)においては黄赤と呼ばれる。身近な例では、東京タワーの塗装などに用いられる。(#ff4f00)
+
+
+次の3色は、米連邦標準595Cに定めるの、それぞれ先頭からJIS Z 8720:2000の補助イルミナントC(昼光)、同じく標準イルミナントA(電球)、およびJIS Z 8719:1996付表1の蛍光ランプF2のもとでの観測を再現したものである。(先頭から、#d33007、#ff0600、#b84300)[https://assist.daps.dla.mil/quicksearch/basic_profile.cfm?ident_number=53815 米連邦標準595C]の値を無補正で[http://www.colordream.net/Iro_MV.htm 「色出し名人」MillenniumⅡ for Windows (ColorDream.Net)]に入力して得られたRGB値。[http://www.colordream.net/ ColorDream.Net]
+
+
+
+
+== 近似色 ==
+* 赤
+* 朱色
+* 黄
+* 山吹色
+* 茶色
+* コーラル
+* 柿色
+* 琥珀色
+
+== 脚注 ==
+
+
+
+== 関連項目 ==
+
+* 色
+* 色名一覧
+* 日本の色の一覧
+
+
+
+
+
+Category:色名

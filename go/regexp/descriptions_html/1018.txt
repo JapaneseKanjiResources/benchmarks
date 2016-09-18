@@ -1,0 +1,53 @@
+description<br />
+ |<br />
+ 世紀=1 |<br />
+ 次世紀=2 |<br />
+<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=0 |<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=10 |<br />
+ <a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀=20 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=30 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=40 |<br />
+<br />
+ 3年前=26 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>前=27 |<br />
+ 1年前=28 |<br />
+ 年=29 |<br />
+ 1年後=30 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>後=31 |<br />
+ 3年後=32 |<br />
+}}<br />
+<br />
+<br />
+== 他の紀年法 ==<br />
+<br />
+* 干支 : 己丑<br />
+* 日本<br />
+** 垂仁天皇<a href="http://localhost/keyword/58%E5%B9%B4">58年</a><br />
+** 皇紀<a href="http://localhost/keyword/689%E5%B9%B4">689年</a><br />
+*中国<br />
+** 後漢 : 建武<a href="http://localhost/keyword/5%E5%B9%B4">5年</a><br />
+*** 隗囂 : 漢復<a href="http://localhost/keyword/7%E5%B9%B4">7年</a><br />
+*** 公孫述 : 龍興<a href="http://localhost/keyword/5%E5%B9%B4">5年</a><br />
+* 朝鮮<br />
+** 高句麗 : 大武神王<a href="http://localhost/keyword/12%E5%B9%B4">12年</a><br />
+** 新羅 : 儒理王<a href="http://localhost/keyword/6%E5%B9%B4">6年</a><br />
+** 百済 : 多婁王<a href="http://localhost/keyword/2%E5%B9%B4">2年</a><br />
+** 檀紀2<a href="http://localhost/keyword/362%E5%B9%B4">362年</a><br />
+* 仏滅紀元 : <a href="http://localhost/keyword/572%E5%B9%B4">572年</a><br />
+* ユダヤ暦 : 3<a href="http://localhost/keyword/789%E5%B9%B4">789年</a> - 3<a href="http://localhost/keyword/790%E5%B9%B4">790年</a><br />
+<br />
+== できごと ==<br />
+*後漢建武<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>、農民反乱を全て平定。11月、太学を興す『人物中国の歴史 5 －三国志の世界－』集英社、1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a>、p.287。<br />
+<br />
+== 誕生 ==<br />
+<br />
+== 死去 ==<br />
+* リウィア、初代ローマ皇帝アウグストゥスの妻、2代ローマ皇帝ティベリウスの母（* 紀元前<a href="http://localhost/keyword/58%E5%B9%B4">58年</a>）<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+*<br />
+<br />
+als:20er#29<br />

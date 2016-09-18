@@ -1,0 +1,35 @@
+description
+'チンワルド雲母'（チンワルドうんも、zinnwaldite）は、リチウムと鉄を含む雲母。siderophyllite（KFe2+2AlAl2Si2O10(OH)2）と polylithionite（KLi2AlSi4O10F2）の間の系列名であり、独立種ではない。
+
+有名な産地である、チェコとドイツに跨るツィンヴァルトという町の名前から来ている（ドイツではツィンヴァルト・ゲオルゲンフェルト Zinnwald-Georgenfeld、チェコではツィーノヴェツ Cínovec）。
+
+花崗岩質のペグマタイトに産する。日本の産地は岐阜県中津川市、滋賀県栗太郡田ノ上山など。
+
+== 益富雲母 ==
+田ノ上山ではチンワルド雲母の鉄をマンガンに置き換えた新鉱物が発見され、鉱物学者・益富壽之助に因んで益富雲母（masutomilite）の名が付けられた。化学組成は KLiAlMn2+AlSi3O10F2 で、こちらは独立種である。
+
+== 関連項目 ==
+
+* 鉱物 - ケイ酸塩鉱物 - 雲母
+* 鉱物の一覧
+* ペグマタイト鉱物
+
+== 参考文献 ==
+* M. Rieder et al., "Nomenclature of the micas", ''The Canadian Mineralogist'', Vol. 36, pp. 41-48, 1998. [http://www.minsocam.org/MSA/IMA/ima98(10).pdf PDF]
+* 沼野忠之　『岡山の鉱物』　日本文教出版〈岡山文庫〉、1980年、ISBN 4-8212-5092-6。
+* 黒田吉益・諏訪兼位　『偏光顕微鏡と岩石鉱物 第2版』　共立出版、1983年、ISBN 4-320-04578-5。
+
+== 外部リンク ==
+* [http://www.mindat.org/min-4419.html Zinnwaldite]（mindat.org）
+* [http://webmineral.com/data/Zinnwaldite.shtml Zinnwaldite Mineral Data]（webmineral.com）
+* [http://home.hiroshima-u.ac.jp/er/Mn/Mn_KLG_mic.html Micaグループ]（地球資源論研究室）
+* [http://www.mokichi.net/mineral/mineral6_text.html mineral6_text]（水晶散歩） - チンワルド雲母の写真のあるページ
+
+
+Category:ケイ酸塩鉱物
+Category:フッ化物
+Category:アルミニウムの化合物
+Category:カリウムの化合物
+Category:リチウムの化合物
+Category:鉄の化合物
+Category:中津川市

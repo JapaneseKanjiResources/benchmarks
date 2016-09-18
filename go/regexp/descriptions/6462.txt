@@ -1,0 +1,78 @@
+description
+
+'節'（せつ、clause）とは、文を構成する、述語とその項からなるまとまりのことで、その中でも特に定形 (finite) のものだけを指す。
+== 概要 ==
+例えば分詞構文の分詞が意味上の主語を伴う場合に「節」とみなす研究者もいるが、通常は分詞や不定詞が意味上の主語を伴っていても「句」とみなして「節」とは考えない。
+
+節は、文中での働きから名詞節、形容詞節、副詞節に分類される。また普通「節」と呼ぶ場合、従位接続詞に導かれた「従属節」（Dependent clause）のことを指すことが多いが、'複文'の中で、文の主たる要素を構成する節を「主節」（Independent clause）と呼ぶことがある。
+
+== 節の種類 ==
+節はそれぞれに述語を含むが、文全体の中心となる述語節（主節）に対する働きによって以下のような分類される。なお節はそれぞれ単一の品詞と同じような働きをするので品詞名で呼ばれることもある。
+*主節 - 文全体をまとめる節。日本語において主節の述語は文末に置かれる。
+*接続節 - 主節以外の節で、主節への接続の仕方によって並列節と従属節に分けられる。
+**並列節 - 意味的に主節と対等の関係にある節。例えば、「私は彼が好きだが、」といった節。
+**従属節 - 主節に対して従属的にかかっている節。なお副詞節のみを従属節とする考え方もある。
+***連体修飾節 - 名詞を修飾する節。形容詞節とも呼ばれる。
+***副詞節 - 述語や文全体を修飾する節。連用修飾節は副詞節の一部である。
+***補足節 - 述語を補足する名詞としての役割をになった節。名詞節とも言われる。日本語では「の」「こと」などによって名詞化されるものや「～と」「～か」などによって引用されるものをいう。
+ドイツ語などでは従属節とそれ以外の主文とで語順が異なる。枠構造・V2語順を参照。
+
+== 英語の節 ==
+=== 名詞節 ===
+Noun clause
+*疑問詞（who, what, why, where）、関係詞（what, why, when, how）、従位接続詞（that, if, whether）によって導かれ、文中で主語、補語及び目的語の役割を果たす。なおthatは、同格（先行する名詞を説明するので形容詞的であるが）の名詞節を導くことがある。
+
+=== 形容詞節 ===
+Adjectival clause
+*関係詞（who, which, that, why, when, where, as, but, than）によって導かれ、文中で先行詞となる名詞や代名詞を修飾し、意味を説明したり、限定したりする役割を果たす。直接後置して修飾するものは制限節（restrictive clause）という、関係詞は省略されることがある。カンマ（,）に夾まれて補足説明的に修飾するものは非制限節（nonrestrictive clause）という。関係詞は略されることがない。
+
+#The girl 'who is playing tennis with your friend' is my younger sister.（あなたの友達とテニスをしている少女は私の妹です。注：制限節。whoは省略不可。）
+#The girl '(who) your friend is playing tennis with' is my younger sister.（あなたの友達がテニスをしている少女は私の妹です。注：制限節。whoは省略可。）
+#The girl, 'who played tennis with your friend', went back home.（あなたの友達とテニスをした、あの少女は家に帰った。注；非制限節。whoは省略不可。）
+#This is　''the same'' watch 'as I lost yesterday'.（これは、私が昨日なくした時計と同じ物だ。注；関係代名詞asは、the same＋名詞, such＋名詞を先行詞とする。）
+
+=== 副詞節 ===
+Adverbial clause
+*条件、原因・理由、程度、譲歩、時、目的、様態などを表現する従位接続詞
+（if, in case, whether, because, since, as, so...that, as far as, as long as, though, although, even if, when, before, after, till, until, as soon as, in order that, so that, for fear(that), as if, as though, where, that）や複合関係副詞（whatever, whenever, wherever, however）によって導かれ、文中で主節全体を修飾するものをいう。
+
+#'Even if it rains tomorrow,' I must go out.（たとえ明日雨であっても、私は出かけなければならない。）
+#I have to go to the library 'so that I may return the book'.（わたしは、その本をかえすために図書館へいかなければならない。）
+#'If she had been born' three hundred years ago, she would have succeeded to the throne.（もし300年前に生まれていたら、彼女は女王になったであろう。）
+#'Though I was very tired', I continued to work.（私は非常に疲れていたが、仕事を続けた。）
+
+== ロジバンの節 ==
+
+人工言語ロジバンにおける上述の節の各種類に相当する例を挙げる。
+
+=== 主節 ===
+:'i ko'e pendo mi' 　彼は私の友達だ。
+:'i ko'e pendo mi' gi'e cadzu lo panka 　彼は私の友達で、公園を歩く。
+:'i ko'e pendo mi ije ri cadzu lo panka'　　彼は私の友達だ。そしてそれは公園を歩く。
+:'i ge ko'e pendo mi gi ri cadzu lo panka' 　彼は私の友達だ。そしてそれは公園を歩く。
+
+=== 接続節 ===
+:i lo gerku cu pendo mi 'gi'e cadzu lo panka' 　彼は私の友達で、公園を歩く。　（並列節）
+
+:i lo gerku 'poi ke'a pendo mi ku'o' cu cadzu 　私の友達である犬が歩く。　（従属・連体修飾節、制限・客観）
+:i lo gerku 'noi ke'a pendo mi ku'o' cu cadzu 　犬―それは私の友達だが―が歩く。　（従属・連体修飾節、非制限・客観）
+:i lo gerku 'voi ke'a pendo mi ku'o' cu cadzu （私の友達、と私が呼んでいる・思っている犬が歩く。　（従属・連体修飾節、制限・主観）
+:＊再帰代名詞・ラムダとして ke'a を用い、節の終点は ku'o で示す。構文上の曖昧性をきたさなければこれらは省ける（これらの例では省ける）。
+
+:i mi na barkla 'ki'u lo nu carvi kei' 　出かけない、雨が降っているので。　（従属・副詞節）
+:i 'ki'u lo nu carvi kei' mi na barkla 　雨が降っているので私は出かけない。　（従属・副詞節）
+:i mi ei klama lo ckuzda 'tezu'e lo nu xruti lo cukta kei' 　私は図書館へ行かなければならない、その本を返すために。　（従属・副詞節）
+:i 'tezu'e lo nu xruti lo cukta kei' mi ei klama lo ckuzda 　その本を返すために私は図書館へ行かなければならない。　（従属・副詞節）
+:＊節を開くのにNU類を用い、終点は kei で示す。構文上の曖昧性をきたさなければ kei は省ける（1つめと3つめの例では省ける）。開いた節は項としてLE類（lo など）でまとめ、これを前置詞に相当するBAI類（ki'u, tezu'e など）で主節に結びつける。
+
+:i mi na djuno 'lo du'u ko'o na barkla ki'u ma kau kei' 　私は彼女がなぜ出かけないのか知らない。　（従属・補足節）
+:i 'lo du'u ko'o na barkla ki'u ma kau kei' cu na se djuno mi 　彼女がなぜ出かけないのか、私は知らない。　（従属・補足節）
+:＊ lo du'u ... kei は mi と同様、賓辞 djuno がとる項であり、統語論上は対等な関係にある。構文上の曖昧性をきたさなければ kei は省ける（1つめの例では省ける）。
+
+== 関連項目 ==
+*文節
+*起承転結
+
+
+Category:文法
+Category:統語論

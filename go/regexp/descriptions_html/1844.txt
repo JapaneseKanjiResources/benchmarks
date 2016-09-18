@@ -1,0 +1,87 @@
+description<br />
+<br />
+ <br />
+|所属事業者 = 名古屋鉄道<br />
+|所属路線 = 三河線（通称海線）<br />
+|キロ程 = 13.0<br />
+|起点駅 = 知立<br />
+|所在地 = 愛知県高浜市青木町六丁目3-1<br />
+|座標      = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/914%E5%B9%B4">914年</a>（大正3年）2月5日<br />
+|廃止年月日 =<br />
+|乗車人員 = <br />
+|乗降人員 = 2,043<br />
+|統計年度 = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|乗換 = <br />
+|備考 = 無人駅（駅集中管理システム導入駅）<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E9%AB%98%E6%B5%9C%E6%B8%AF%E9%A7%85">高浜港駅</a>&#39;（たかはまみなとえき）は、愛知県高浜市青木町にある、名鉄三河線の駅。manacaが使用可能である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/914%E5%B9%B4">914年</a>（大正3年）2月5日 : 三河鉄道の駅として開業。<br />
+* 1<a href="http://localhost/keyword/941%E5%B9%B4">941年</a>（昭和<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>）6月1日 : 三河鉄道が名古屋鉄道に合併。同社三河線の駅となる。<br />
+* 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>（平成<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）<br />
+** 8月25日 : 無人駅となる。<br />
+** 9月14日 : トランパス導入。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）2月11日 - ICカード<a href="http://localhost/keyword/%E4%B9%97%E8%BB%8A%E5%88%B8">乗車券</a>「manaca」供用開始。<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）2月29日 - トランパス供用終了。<br />
+*20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a> （平成<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）12月 - 建て替え工事着工。<br />
+*20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>（平成2<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）3月10日 - 新駅舎供用開始。<br />
+*20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a> （平成2<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）3月25日 - 建て替え工事完成。<br />
+<br />
+== 駅構造 ==<br />
+1面1線の地上駅である。かつては1面2線の島式ホームであったが、三河線の貨物営業の廃止や運行ダイヤが整理されパターン化したことにより、交換駅としての必要性がなくなり単線化された。駅舎は開業当時の面影を残していたが、建替え工事[http://www.meitetsu.co.jp/profile/news/2014/__icsFiles/afieldfile/2015/03/23/release150323_ceprogram.pdf?_ga=1.91660890.1988142241.1403164866 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>度 設備投資計画：名古屋鉄道]（当初は20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度の予定[http://www.meitetsu.co.jp/profile/news/2013/__icsFiles/afieldfile/2014/03/31/release140331_ceprogram.pdf?_ga=1.57131241.274075979.1375580366 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度 設備投資計画：名古屋鉄道]だったが、延期となった）により解体され、20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>3月に新駅舎が完成した。[http://www.asahi.com/articles/ASHDB4VSDHDBOBJB00B.html 愛知）<a href="http://localhost/keyword/%E9%AB%98%E6%B5%9C%E6%B8%AF%E9%A7%85">高浜港駅</a>舎、瓦屋根のままに　来年３月誕生|朝日新聞digital]--&gt;<br />
+<br />
+<br />
+<br />
+<a href="http://localhost/keyword/%E9%AB%98%E6%B5%9C%E6%B8%AF%E9%A7%85">高浜港駅</a>新駅舎室内.JPG|改札口(20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>3月)<br />
+MT-Takahama Minato Station-Building.jpg|旧駅舎(200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>3月)<br />
+MT-Takahama-minato Station-TicketGate.JPG|旧駅舎内部(20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>5月)<br />
+Meitetsu Takahamaminato eki 1.jpg|プラットホーム(200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>8月)<br />
+<br />
+<br />
+=== 配線図 ===<br />
+<br />
+<br />
+== 利用状況 ==<br />
+*『名鉄<a href="http://localhost/keyword/120%E5%B9%B4">120年</a>：近<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>のあゆみ』によると20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>度当時の1日平均乗降人員は2,043人であり、この値は名鉄全駅（275駅）中182位、 三河線（23駅）中18位であった。<br />
+*『名古屋鉄道百年史』によると1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a>度当時の1日平均乗降人員は1,991人であり、この値は岐阜市内線均一運賃区間内各駅（岐阜市内線・田神線・美濃町線徹明町駅 - 琴塚駅間）を除く名鉄全駅（342駅）中173位、 三河線（38駅）中20位であった。<br />
+*『愛知県統計年鑑』によると1日平均の乗車人員は、200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>度826人、200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>度841人である。<br />
+<br />
+== 駅周辺 ==<br />
+駅前には大きな瓦のモニュメントがある。<br />
+* 南中学校<br />
+* 高浜小学校<br />
+* 港小学校<br />
+* 高浜幼稚園<br />
+* 大聖寺<br />
+* 高浜市やきものの里かわら美術館<br />
+<br />
+=== バス路線 ===<br />
+* 高浜市コミュニティバス「いきいき号」<br />
+** 東部コース（平日運行）:市役所、刈谷豊田総合病院高浜分院方面行き<br />
+** 循環コース（土曜日運行）:市役所、かわら美術館方面行き<br />
+<br />
+== 隣の駅 ==<br />
+; 名古屋鉄道<br />
+: 三河線<br />
+:: <a href="http://localhost/keyword/%E4%B8%89%E6%B2%B3%E9%AB%98%E6%B5%9C%E9%A7%85">三河高浜駅</a> - &#39;<a href="http://localhost/keyword/%E9%AB%98%E6%B5%9C%E6%B8%AF%E9%A7%85">高浜港駅</a>&#39; - 北新川駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+Category:愛知県の鉄道駅<br />
+かはまみなと<br />
+Category:名古屋鉄道の鉄道駅<br />
+Category:三河鉄道<br />
+たかはまみなとえき<br />
+Category:1<a href="http://localhost/keyword/914%E5%B9%B4">914年</a>開業の鉄道駅<br />

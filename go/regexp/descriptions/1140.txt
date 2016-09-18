@@ -1,0 +1,40 @@
+description
+
+
+'Network News Transfer Protocol'（ネットワーク ニュース トランスファー プロトコル、'NNTP'）は、インターネットアプリケーションプロトコルのひとつである。おもに、ネットニュース(Usenet)の記事を読むことと記事を投稿することのために使われる。記事はニュースサーバ間を相互に配送される。カリフォルニア大学サンディエゴ校の Brian Kantor とカリフォルニア大学バークレー校の Phil Lapsley が Network News Transfer Protocol の仕様である RFC 977 を1986年の5月に完成させた。他の貢献者として、Baylor College of Medicine の Stan Barber とアップルコンピュータの Erik Fair がいる。
+
+Usenet はもともとは UUCP ネットワーク上での使用を前提として設計された。つまり、ほとんどの記事は電話回線で直接コンピュータ同士を接続して配送されていた。読者と投稿者は同じニュースサーバにログインし、そのサーバのディスクにある記事を直接読んでいた。
+
+LAN とインターネットが一般に普及すると、パーソナルコンピュータ上で使用できるニュースリーダーと、インターネット上で記事を配送する手段が必要とされた。インターネットで互換性のあるファイルシステムがまだ広くは利用できなかったため、SMTP に類似した新しいプロトコルを作ることになった。
+
+ウェルノウンTCPポート番号 である 119 番は NNTP のために予約されている。クライアントが SSL でニュースサーバに接続するときは TCP のポート 563 番が使われる'STARTTLS'拡張コマンドでTLS (SSL) へ移行する方法が、RFC 4642で提案されている。。これは 'NNTPS' と呼ばれることがある。
+
+最近では、Webで利用可能なBBSやその他インターネットコミュニティサイトが普及したことと、NNTPがボットネットの活動に利用されることが多くなったことが原因で、殆ど利用されなくなってきている。
+
+== Network News Reader Protocol(NNRP) ==
+1990年代のはじめに NNTP 標準が策定されようとしていたとき、NNTP をクライアント側での使用に特化したもの(NNRP)が提案された。このプロトコルは決して完全には実装されていなかったが、INN に付属する 'nnrpd' というプログラムでその名前が使われ続けている。結果として、クライアントにとって使いやすい標準的な NNTP コマンドのサブセットが、今も 'NNRP' と呼ばれている。
+
+== 脚注 ==
+
+
+== 関連項目 ==
+* ニュースグループ
+* ネットニュース
+* 電子掲示板
+* SCTP
+
+== 外部リンク ==
+* Kantor, Brian and Phil Lapsley. RFC 977 "Network News Transfer Protocol: A Proposed Standard for the Stream-Based Transmission of News." 1986.
+* Horton, Mark, and R. Adams. RFC 1036 "Standard for Interchange of USENET Messages." 1987.
+* [http://www.academ.com/academ/nntp/ietf/1996-July/000022.html NNTP Version 2 draft] an early, abandoned attempt to revise NNTP
+* Barber, Stan, et al. RFC 2980 "Common NNTP Extensions." 2000
+* [http://www.eyrie.org/~eagle/nntp/ietf.html IETF nntpext Working Group]
+* RFC 3977 (October 2006)
+* RFC 4642 (October 2006)
+
+== 翻訳元 == 
+'':en:Network News Transfer Protocol 2006-05-02 12:34 UTCより翻訳。著者 : Aldie, Nanshu, Christian, Fleminra ほか''
+
+
+Category:アプリケーション層プロトコル
+0977

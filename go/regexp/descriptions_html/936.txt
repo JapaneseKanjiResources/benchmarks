@@ -1,0 +1,49 @@
+description<br />
+ |<br />
+ 世紀=1 |<br />
+ 次世紀=2 |<br />
+<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=60 |<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=70 |<br />
+ <a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀=80 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=90 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=100 |<br />
+<br />
+ 3年前=81 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>前=82 |<br />
+ 1年前=83 |<br />
+ 年=84 |<br />
+ 1年後=85 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>後=86 |<br />
+ 3年後=87 |<br />
+}}<br />
+<br />
+<br />
+== 他の紀年法 ==<br />
+<br />
+* 干支 : 甲申<br />
+* 日本<br />
+** 景行天皇<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+** 皇紀<a href="http://localhost/keyword/744%E5%B9%B4">744年</a><br />
+*中国<br />
+** 後漢 : 建初<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>、元和元年<br />
+* 朝鮮<br />
+** 高句麗 : 太祖王3<a href="http://localhost/keyword/2%E5%B9%B4">2年</a><br />
+** 新羅 : 婆娑王<a href="http://localhost/keyword/5%E5%B9%B4">5年</a><br />
+** 百済 : 己婁王<a href="http://localhost/keyword/8%E5%B9%B4">8年</a><br />
+** 檀紀2<a href="http://localhost/keyword/417%E5%B9%B4">417年</a><br />
+* 仏滅紀元 : <a href="http://localhost/keyword/627%E5%B9%B4">627年</a><br />
+* ユダヤ暦 : 3<a href="http://localhost/keyword/844%E5%B9%B4">844年</a> - 3<a href="http://localhost/keyword/845%E5%B9%B4">845年</a><br />
+<br />
+== できごと ==<br />
+* モンス・グラウピウスの戦い（<a href="http://localhost/keyword/83%E5%B9%B4">83年</a>説あり）<br />
+<br />
+== 誕生 ==<br />
+* 成務天皇、第13代天皇（+ <a href="http://localhost/keyword/190%E5%B9%B4">190年</a>）<br />
+*武内宿禰<br />
+<br />
+== 死去 ==<br />
+<br />
+*<br />
+<br />
+als:80er#Johr 84<br />

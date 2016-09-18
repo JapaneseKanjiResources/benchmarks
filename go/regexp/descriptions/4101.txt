@@ -1,0 +1,11 @@
+description
+'NDC'
+
+* 日本十進分類法('N'ippon 'D'ecimal 'C'lassification) - 日本で使われている図書館資料の分類法。
+* NDC (鉄道車両) - 新潟鐵工所（現・新潟トランシス）のローカル線向け軽快気動車シリーズ。
+* 日本データコム('N'ippon 'D'ata 'C'om, Inc.) - NTTドコモの基幹システム開発などを行うシステムベンダー。
+* 地域番号('N'ational 'D'estination 'C'ode) - E.164仕様の中で定義された国別割り当て電話番号を構成するセグメントの1つ。
+* 正規化装置座標 ('N'ormalized 'D'evice 'C'oordinates) のこと。 - Graphical Kernel Systemを参照。
+* 韓国鉄道9211系気動車('N'ew 'D'iesel 'C'ar)のこと。 - ムグンファ号を参照。 
+* ニコ生デスクトップキャプチャー(XP)('N'iconico 'D'esktop 'C'apture) - 仮想カメラ・デスクトップキャプチャソフトウェア。
+

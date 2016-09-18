@@ -1,0 +1,97 @@
+description<br />
+<br />
+|駅構造     = 地上駅<br />
+|ホーム     = 2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/893%E5%B9%B4">893年</a>（明治<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>）12月31日<br />
+|廃止年月日 = <br />
+|乗車人員   = 251<br />
+|乗降人員   = <br />
+|統計年度   = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換       = <br />
+|備考       = 駅員無配置駅<br />
+}}<br />
+200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>6月10日の駅舎。200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>夏から設置された飲料品の自動販売機がまだない。<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E5%AE%AE%E5%B7%9D%E9%A7%85">宮川駅</a>&#39;（みやがわえき）は、三重県伊勢市小俣町本町にある、東海旅客鉄道（JR東海）参宮線の駅である。<br />
+<br />
+快速「みえ」は原則として通過となるが、参宮線内各駅停車となる夜間の伊勢市駅終着のものに加え、名古屋行きの「みえ」2号・4号が停車する。<br />
+<br />
+== 歴史 ==<br />
+終着駅であった開業直後の<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>間（1<a href="http://localhost/keyword/893%E5%B9%B4">893年</a> - 1<a href="http://localhost/keyword/896%E5%B9%B4">896年</a>）については、1日平均の乗降者数が1,000人を超え、松阪駅の約2倍の人数で混雑していた。しかし、1<a href="http://localhost/keyword/897%E5%B9%B4">897年</a>（明治<a href="http://localhost/keyword/30%E5%B9%B4">30年</a>）11月の山田駅（現・伊勢市駅）開業と共に、混雑は山田駅に移り、1<a href="http://localhost/keyword/898%E5%B9%B4">898年</a>（明治<a href="http://localhost/keyword/31%E5%B9%B4">31年</a>）の乗降者数は約10分の1に激減することになった『小俣町史 通史編』259ページ。<br />
+<br />
+=== 年表 ===<br />
+* 1<a href="http://localhost/keyword/893%E5%B9%B4">893年</a>（明治<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>）12月31日 - 参宮鉄道開業当初の終着駅として設置。一般駅。<br />
+* 1<a href="http://localhost/keyword/897%E5%B9%B4">897年</a>（明治<a href="http://localhost/keyword/30%E5%B9%B4">30年</a>）11月11日 - 参宮鉄道が山田駅（現・伊勢市駅）まで延伸し、途中駅となる。<br />
+* 190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（明治40年）10月1日 - 国有化。<br />
+* 1<a href="http://localhost/keyword/909%E5%B9%B4">909年</a>（明治<a href="http://localhost/keyword/42%E5%B9%B4">42年</a>）10月12日 - 線路名称が制定され、参宮線の所属となる。<br />
+* 1<a href="http://localhost/keyword/937%E5%B9%B4">937年</a>（昭和<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）12月末 - 貴賓室・乗降所上屋・跨線橋の新築工事および路線の曲線改修工事が完成、1<a href="http://localhost/keyword/938%E5%B9%B4">938年</a>（昭和<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）1月7日に小俣町役場にて祝賀会を開催する「宮川新驛舍 七日落成式」伊勢新聞 1<a href="http://localhost/keyword/938%E5%B9%B4">938年</a>1月4日付 7面、「省線宮川驛舍 立派に竣工 けふ盛大な祝賀宴」伊勢新聞 1<a href="http://localhost/keyword/938%E5%B9%B4">938年</a>1月7日付 2面、「宮川驛増改築落成祝賀会」伊勢新聞 1<a href="http://localhost/keyword/938%E5%B9%B4">938年</a>1月9日付 夕刊 2面。<br />
+* 1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a>（昭和<a href="http://localhost/keyword/56%E5%B9%B4">56年</a>）頃 - 上りホーム（2番線）に旅客上屋を設置する『広報おばた 第325号』（1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a>5月1日発行、発行：小俣町役場）p7、建物資産標に記載されている年月は昭和<a href="http://localhost/keyword/55%E5%B9%B4">55年</a>12月。<br />
+* 1<a href="http://localhost/keyword/986%E5%B9%B4">986年</a>（昭和<a href="http://localhost/keyword/61%E5%B9%B4">61年</a>）11月1日 - 貨物取扱廃止、無人化『JR伊勢市駅開業90周年記念誌』p12。参宮線最後の貨物取扱駅だった。<br />
+* 1<a href="http://localhost/keyword/986%E5%B9%B4">986年</a>（昭和<a href="http://localhost/keyword/61%E5%B9%B4">61年</a>）11月 - 跨線橋完成竣功年月が橋の銘板に記載<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により東海旅客鉄道の駅となる。<br />
+* 1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a>（平成<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）4月1日 - 駅前に168台収容の無料駐輪場が完成する「168台収容の無料駐輪場が完成 小俣町・JR<a href="http://localhost/keyword/%E5%AE%AE%E5%B7%9D%E9%A7%85">宮川駅</a>前」中日新聞 1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a>4月2日付 朝刊 16面 伊勢志摩版。<br />
+* 1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>（平成<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）2月下旬 - 南（2番線）側出入り口が完成する「今月下旬に利用OK 参宮線<a href="http://localhost/keyword/%E5%AE%AE%E5%B7%9D%E9%A7%85">宮川駅</a> 南側出入り口建設進む」中日新聞 1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>2月5日付 朝刊 20面 伊勢志摩版。<br />
+<br />
+== 駅構造 ==<br />
+相対式ホーム2面2線を有する地上駅。互いのホームは跨線橋で連絡している。行き違い用線路がホームよりずっと長いのは、かつて貨物列車や伊勢神宮参拝の長距離列車が当駅で交換した名残である。<br />
+<br />
+伊勢市駅管理の無人駅となっている。なお、2番線側から直接ホームに入ることも可能である。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+== 利用状況 ==<br />
+「三重県統計書」によると、1日の平均乗車人員は以下の通りである。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* ユニチカ宮川事業所<br />
+* 伊勢市小俣総合支所（旧・小俣町役場）<br />
+* 離宮院跡 - 斎王が伊勢神宮に参拝する際に立ち寄った離宮跡。<br />
+* 小俣郵便局<br />
+* 小俣神社<br />
+* 伊勢市立小俣小学校<br />
+* 伊勢市立小俣中学校<br />
+* 伊勢市立小俣図書館<br />
+* 倉野屋旅館 - 倉野信次（福岡ソフトバンクホー<a href="http://localhost/keyword/%E3%82%AF%E3%82%B9%E3%82%B3">クスコ</a>ーチ）の親族が経営する旅館。<br />
+* 宮川医療少年院<br />
+<br />
+== バス路線 ==<br />
+;三交伊勢志摩交通<br />
+* 13系統 有滝<br />
+* 13系統 伊勢市駅前<br />
+* 13系統 ジャスコ伊勢店（いせトピア経由）<br />
+* 13系統 ジャスコ伊勢店（伊勢学園前経由）<br />
+;伊勢市コミュニティバス「おかげバス」<br />
+* 明野ルート<br />
+** 柏団地（近鉄明野駅前経由）<br />
+** 小俣図書館<br />
+* 栗野ルート　 （デマンド制・1日5便）<br />
+<br />
+== 隣の駅 ==<br />
+※当駅に一部が停車する快速「みえ」の隣の停車駅は列車記事を参照のこと。<br />
+; 東海旅客鉄道<br />
+: 参宮線<br />
+:: 田丸駅 - &#39;<a href="http://localhost/keyword/%E5%AE%AE%E5%B7%9D%E9%A7%85">宮川駅</a>&#39; - 山田上口駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 参考文献 ==<br />
+* 『小俣町史 通史編』19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>11月3日発行、編集：小俣町史編さん委員会、発行：小俣町<br />
+* 『JR伊勢市駅開業90周年記念誌』1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>11月発行、編集発行者：東海旅客鉄道株式会社 伊勢市駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+* 三重県道531号宮川停車場線<br />
+<br />
+<br />
+<br />
+<br />
+Category:伊勢市の鉄道駅<br />
+やかわ<br />
+Category:参宮鉄道<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:東海旅客鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/893%E5%B9%B4">893年</a>開業の鉄道駅<br />

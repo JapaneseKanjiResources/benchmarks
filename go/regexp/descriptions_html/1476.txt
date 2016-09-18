@@ -1,0 +1,73 @@
+description<br />
+山陽本線<br />
+|キロ程     = 358.6<br />
+|起点駅     = 神戸<br />
+|所在地     = 山口県岩国市通津3382<br />
+|緯度度=34|緯度分=4|緯度秒=6.01<br />
+|経度度=132|経度分=12|経度秒=18.44<br />
+|駅構造     = 地上駅<br />
+|ホーム     = 2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>（昭和<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）8月11日<br />
+|廃止年月日 = <br />
+|乗車人員   = 576<br />
+|乗降人員   = <br />
+|統計年度   = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換       = <br />
+|備考       = 業務委託駅<br />
+<br />
+|備考全幅   = <br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E9%80%9A%E6%B4%A5%E9%A7%85">通津駅</a>&#39;（つづえき）は、山口県岩国市通津にある、西日本旅客鉄道（JR西日本）山陽本線の駅。<br />
+<br />
+==歴史==<br />
+* 1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>（昭和<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）8月11日 - 国有鉄道山陽本線の藤生駅 - 由宇駅間に新設開業。旅客・貨物の取扱を開始。<br />
+* 19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>（昭和<a href="http://localhost/keyword/35%E5%B9%B4">35年</a>）6月1日 - 貨物の取扱を廃止。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、西日本旅客鉄道（JR西日本）の駅となる。<br />
+* 1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a>（平成<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）6月1日 - ジェイアール西日本広島メンテックによる業務委託駅となる。<br />
+<br />
+==駅構造==<br />
+相対式ホーム2面2線の地上駅。分岐器や絶対信号機を持たないため、停留所に分類される。駅舎は下りホーム側にあり、反対側の上りホームへは跨線橋で連絡している。<br />
+<br />
+徳山地域鉄道部が管理し、ジェイアール西日本広島メンテックが駅業務を受託する業務委託駅で、土休日は無人となる。窓口での発券はPOS端末によって行われる。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+案内上ののりば番号は設定されていない。<br />
+<br />
+==駅周辺==<br />
+*マックスバリュ<br />
+*ジュンテンドー<br />
+*通津郵便局<br />
+*通津海水浴場（200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>閉鎖）<br />
+*通津美が浦公園<br />
+*桜井戸<br />
+*岩国市立通津小学校<br />
+*岩国市立通津中学校<br />
+*旭化成岩国工場<br />
+*通津港<br />
+*国道188号<br />
+<br />
+== 利用状況 ==<br />
+1日の平均乗車人員は以下の通りである。<br />
+<br />
+<br />
+==隣の駅==<br />
+;西日本旅客鉄道<br />
+: 山陽本線<br />
+::藤生駅 - &#39;<a href="http://localhost/keyword/%E9%80%9A%E6%B4%A5%E9%A7%85">通津駅</a>&#39; - 由宇駅<br />
+<br />
+==関連項目==<br />
+*日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jr-odekake.net/eki/top.php?id=0800626 JR西日本（<a href="http://localhost/keyword/%E9%80%9A%E6%B4%A5%E9%A7%85">通津駅</a>）]<br />
+<br />
+<br />
+<br />
+<br />
+Category:岩国市の鉄道駅<br />
+つ<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:西日本旅客鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>開業の鉄道駅<br />

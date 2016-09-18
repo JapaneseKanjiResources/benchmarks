@@ -1,0 +1,39 @@
+description
+
+'HFS' ('Hierarchical File System') とは、Mac OSでかつて使われていたファイルシステムのひとつである。日本ではしばしば「'Mac OS 標準フォーマット'」ともいう。
+
+HFSは二つのフォークを持つ。すなわち、主データ（データフォークと呼ばれる）の他にリソースフォークというメタ情報を持つことで知られている。また大文字と小文字の区別をしない。
+
+HFSはファイルシステムの中では比較的新しい部類に入り、把握しやすいボリュームの扱いや、シンボリックリンク・ショートカットより先進的なエイリアス機構を備えるなど、設計上優れた部分も多い。
+
+ブロックサイズ（管理単位）は、ボリュームサイズ32MiBまで512バイト、以降32MiB毎に512バイトずつ増加し（64MiBを超えたサイズでは、FATファイルシステムのようにいきなり倍になることはない）、225〜256MiBでHFS+と同じ4KiBになる。
+2GiB（System 7.1.x(他国語版を含む 以下同様)までの上限）で32KiB、4GiB（System 7.5 7.5.1での上限）で64KiB、2TiB（System 7.5.2以降での上限）では32MiBになる。
+
+このファイルシステムで記録されたストレージの読み書きが可能なのはMac OSまたはMac OS X（10.5.x (Leopard)まで）のみである。
+
+Mac OS Xでは、標準フォーマットはHFS+に置き換えられ、起動ディスクにHFSは利用出来なくなった。
+
+== HFSの歴史 ==
+HFSは初期Macintoshで使用されていたMacintosh File System (MFS) の改良版で、1985年9月に発表され、Systemバージョン3.1より実装された。MFSはフラットなファイルシステムであり、フォルダはFinderレベルでエミュレートされていた。そのため、アプリケーションからはすべてのファイルが同一階層に見え、ファイル数が少ないフロッピーディスクではあまり問題にならないものの、ハードディスクで使用し、アプリケーションから扱うファイル数が増えるにつれ不便なものとなってきていた。その上、約100ファイルを越えると非常に不安定になった。Hierarchicalとはファイルシステムレベルでのフォルダによる階層構造がサポートされたことに由来する。
+
+1998年、HFS+がMac OS 8.1で導入され、HFSの後継となった。Mac OS X 10.5.xまではHFSを起動ディスクとして利用できないが、読み書きはHFS+同様に可能である。
+Mac OS X 10.6.x (Snow Leopard) 以降ではHFSは読み込みのみ可能で、起動のみならず書き込みやボリューム作成もできなくなった。
+
+2016年、macOS Sierraにて、サポートが終了する[https://developer.apple.com/library/prerelease/content/releasenotes/MacOSX/WhatsNewInOSX/Articles/OSXv10.html#//apple_ref/doc/uid/TP40017145-SW1 What's new in OS X - OS X v10.12]''The HFS Standard filesystem is no longer supported.''。
+
+== 出典 ==
+
+== 関連項目 ==
+*Xsan
+
+== 外部リンク ==
+*[http://developer.apple.com/documentation/mac/Files/Files-99.html HFS仕様書]
+
+
+
+
+Category:OSのファイルシステム
+Category:Mac OS
+Category:OS X
+
+de:Dateisystem#Hierarchische Dateisysteme

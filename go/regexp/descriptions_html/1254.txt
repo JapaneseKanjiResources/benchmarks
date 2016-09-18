@@ -1,0 +1,48 @@
+description<br />
+&#39;<a href="http://localhost/keyword/MAC">MAC</a>&#39;, &#39;Mac&#39;（マック）<br />
+<br />
+== 頭字語 ==<br />
+=== 一般名詞 ===<br />
+*強制アクセス制御（mandatory access control）とは、コンピュータのプロセス、データ、システムデバイスを、誤用、不正な利用から守る技術である。<br />
+*媒体アクセス制御（media access control）とは、コンピュータネットワーク技術において、OSI参照モデルの第2層（データリンク層）の副層（<a href="http://localhost/keyword/MAC">MAC</a>アドレスも参照）。<br />
+*<a href="http://localhost/keyword/%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8">メッセージ</a>認証コード（message authentication code）とは、認証や通信途中の改ざんを<a href="http://localhost/keyword/%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF">チェック</a>するためなどの短い情報。<br />
+*最小肺胞内濃度（minimum alveolar concentration）<br />
+*膜侵襲複合体（membrane attack complex）は、人体の免疫に関わる補体の複合体。<br />
+*<a href="http://localhost/keyword/MAC">MAC</a>シップ（merchant aircraft carrier）は、第二次世界大戦前半にイギリス海軍が船団護衛用として用いた簡易空母。<br />
+*積和演算（Multiply and ACcumulation）は、a ← a + b × c の演算。<br />
+*<a href="http://localhost/keyword/MAC">MAC</a>構造（mast and chimney）は、マスト（mast）と煙突（chimney）が一体化した、船舶の上部構造物。<br />
+*非結核性抗酸菌複合体（&#39;M&#39;ycobacterium &#39;A&#39;vium &#39;C&#39;omplex）は非結核性抗酸菌症の原因菌として多くを占める、<a href="http://localhost/keyword/Myco">Myco</a>bacterium aviumと<a href="http://localhost/keyword/Myco">Myco</a>bacterium intracellulareの総称。<br />
+<br />
+=== 固有名詞 ===<br />
+* Monster Attacking Crewは、特撮テレビ番組『ウルトラマンレオ』に登場した地球防衛チーム。<br />
+* Mid-American Conferenceは、アメリカ合衆国のカレッジスポーツ、NCAAのディヴィジョン1-Aに属するカンファレンス。<br />
+* Project <a href="http://localhost/keyword/MAC">MAC</a>は、マサチューセッツ工科大学で行われたコンピュータ科学のプロジェクト。<br />
+* Mobile Access Centerは、フルブラウザのサービス（mac.io）。<br />
+* M・A・C、Make-up Art Cosmetics社、カナダの化粧品メーカーとそのブランド名（<a href="http://localhost/keyword/MAC">MAC</a>）。<br />
+* 軍事空輸軍団（Military Airlift Command）はかつてあったアメリカ空軍の主要軍団。<br />
+* ミリタリー・アーマーメント・コーポレーション（Military Armament Corporation）はかつてあったアメリカの銃器メーカー。<br />
+* Medical Academy Corporationは、医師国家試験予備校の一つ。<br />
+* ドラッグストア・マックは、大屋が運営するドラッグストアのブランド。<br />
+<br />
+== その他の略語 ==<br />
+* Macintoshは、アップルコンピュータが発売しているコンピュータの愛称（Mac、マック）。<br />
+* マクドナルド（McDonald&#39;s）は、ハンバーガーショップ（マック）。商品名に使われる場合もある（例：McFlurry、McMuffin）。<br />
+* マカオのISO 3166-1国名コード。<br />
+* <a href="http://localhost/keyword/MAC">MAC</a>は、パナソニックが製造していたラジカセの登録商標。<br />
+* <a href="http://localhost/keyword/MAC">MAC</a>ツールズは、工具店。<br />
+* 松江情報センター（Matsue Joho Center, Inc.）の略語。<br />
+* <a href="http://localhost/keyword/MAC">MAC</a>法（marker and cell method）は、流体力学における数値解法の一つ。<br />
+* 限界削減費用（Marginal Abatement Cost）の略語。<br />
+* 松山オートクラブの略語。モータースポーツクラブで、全日本ラリー選手権・久万高原ラリーの主催者。<br />
+* マケドニア語のISO 639コード<br />
+* ダグラス・マッカーサーの通称<br />
+<br />
+== 外国語の原語表記 ==<br />
+*マック (ゲール語)は、アイルランド系の姓の一部に使われる語または接頭辞(父称)で、ゲール語で「息子」という意味。MacDonald（ドナルドの息子の意）など。McDonaldの様にMcと略されることもある（意味は同じ）。<br />
+<br />
+<br />
+<br />
+es:<a href="http://localhost/keyword/MAC">MAC</a><br />
+en:<a href="http://localhost/keyword/MAC">MAC</a><br />
+fr:<a href="http://localhost/keyword/MAC">MAC</a><br />
+it:<a href="http://localhost/keyword/MAC">MAC</a><br />

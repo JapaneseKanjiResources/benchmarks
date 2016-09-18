@@ -1,0 +1,82 @@
+description<br />
+<br />
+&#39;二次超曲面&#39;（にじちょうきょくめん、quadric surface）とは、円錐曲線の概念を一般次元ユークリッド空間 &#39;R&#39;&#39;&#39;n&#39;&#39; に拡張したものであり、2次多項式の零点集合として表されるような超曲面のことをさす。3次元空間における二次超曲面は&#39;<a href="http://localhost/keyword/%E4%BA%8C%E6%AC%A1%E6%9B%B2%E9%9D%A2">二次曲面</a>&#39;ともよばれる。<br />
+<br />
+== 定義 ==<br />
+一般な &#39;&#39;n&#39;&#39;-次元二次超曲面の定義式は、座標 (&#39;&#39;x&#39;&#39;1, &#39;&#39;x&#39;&#39;2, ..., &#39;&#39;x&#39;&#39;n&#39;&#39;) に対して<br />
+: \\left(\\sum^{n}_{i=1} a_{i}x_{i}^2 + 2\\sum^{n}_{i<br />
+で与えられる。ただし、ここで &#39;&#39;a&#39;&#39;i&#39;&#39;, &#39;&#39;a&#39;&#39;ij&#39;&#39; のうち少なくとも一つは 0 でないことが要求される。また、次のような行列、及びベクトル<br />
+: <br />
+\\mathbf{x} = \\begin{pmatrix} x_1 \\\\ x_2 \\\\ \\vdots \\\\ x_n \\\\ \\end{pmatrix}, \\quad <br />
+A = \\begin{pmatrix}<br />
+a_{1} &amp; a_{12} &amp; \\cdots &amp; a_{1n} \\\\<br />
+a_{12} &amp; a_{2} &amp; \\cdots &amp; a_{2n} \\\\<br />
+\\vdots &amp; \\vdots &amp; \\ddots &amp; \\vdots \\\\<br />
+a_{1n} &amp; a_{2n} &amp; \\cdots &amp; a_{n}<br />
+\\end{pmatrix}, \\quad <br />
+\\mathbf{b} = \\begin{pmatrix} b_1 \\\\ b_2 \\\\ \\vdots \\\\ b_n \\end{pmatrix}<br />
+<br />
+を考えると、定義式の 2 次と 1 次の斉次部分は &#39;R&#39;&#39;&#39;n&#39;&#39; の標準内積 &amp;lang;&amp;bull;, &amp;bull;&amp;rang; を使って<br />
+: \\langle A\\mathbf{x},\\mathbf{x}\\rangle = \\sum^{n}_{i=1} a_{i}x_{i}^2 + 2\\sum^{n}_{i<br />
+と表すことができるので、定義式は<br />
+: \\langle A\\mathbf{x}, \\mathbf{x}\\rangle + 2\\langle\\mathbf{b}, \\mathbf{x}\\rangle + c = 0<br />
+という形に書くことができる。これはさらに<br />
+:\\tilde{\\mathbf{x}} = \\begin{pmatrix} \\mathbf{x} \\\\ 1 \\end{pmatrix} = \\begin{pmatrix} x_1\\\\ x_2\\\\ \\vdots\\\\ x_n\\\\ 1 \\end{pmatrix}, \\quad R = \\begin{pmatrix} A &amp; \\mathbf{b} \\\\ {}^t\\mathbf{b} &amp; c \\end{pmatrix} = \\begin{pmatrix}<br />
+ a_{1} &amp; a_{12} &amp; \\cdots &amp; a_{1n} &amp; b_1\\\\<br />
+ a_{12} &amp; a_{2} &amp; \\cdots &amp; a_{2n} &amp; b_2\\\\<br />
+ \\vdots &amp; \\vdots &amp; \\ddots &amp; \\vdots &amp; \\vdots\\\\<br />
+ a_{1n} &amp; a_{2n} &amp; \\cdots &amp; a_{n} &amp; b_n\\\\<br />
+ b_1 &amp; b_2 &amp; \\cdots &amp; b_n &amp; c<br />
+\\end{pmatrix}<br />
+とおくことにより、<br />
+:\\langle R\\tilde{\\mathbf{x}},\\tilde{\\mathbf{x}}\\rangle = 0<br />
+の形になる。このとき、&#39;&#39;A&#39;&#39; をこの<a href="http://localhost/keyword/%E4%BA%8C%E6%AC%A1%E6%9B%B2%E9%9D%A2">二次曲面</a>の&#39;係数行列&#39;と呼び、&#39;&#39;R&#39;&#39; をこの<a href="http://localhost/keyword/%E4%BA%8C%E6%AC%A1%E6%9B%B2%E9%9D%A2">二次曲面</a>の&#39;拡大係数行列&#39;と呼ぶ。2 次の係数に関する制約から、&#39;&#39;A&#39;&#39; および &#39;&#39;R&#39;&#39; は零行列にはならない。<br />
+<br />
+== 標準形 ==<br />
+&#39;&#39;n&#39;&#39;-次元二次超曲面は、その拡大係数行列の階数が &#39;&#39;n&#39;&#39; + 1 に等しいとき&#39;非退化&#39;であるといい、そうでないとき&#39;退化&#39;しているという。二次超曲面が非退化であるとき、係数行列 &#39;&#39;A&#39;&#39; と拡大係数行列 &#39;&#39;R&#39;&#39; の階数の関係を用いて、二次超曲面は次のように分類される。<br />
+: rank &#39;&#39;R&#39;&#39; &amp;minus; rank &#39;&#39;A&#39;&#39; = 0: &#39;錐面&#39;<br />
+: rank &#39;&#39;R&#39;&#39; &amp;minus; rank &#39;&#39;A&#39;&#39; = 1: &#39;有心二次超曲面&#39;<br />
+: rank &#39;&#39;R&#39;&#39; &amp;minus; rank &#39;&#39;A&#39;&#39; = 2: &#39;無心二次超曲面&#39;<br />
+また、退化した二次超曲面は筒面の一種である。今、有心と無心という言葉が出てきたが、これは点対称であるかないかを指す。上の 3 つは、適当な直交変換を行うことによって、次のような陰関数に帰着できる。<br />
+*錐面<br />
+:a&#39;_1 X_1^2 + a&#39;_2 X_2^2 + \\cdots + a&#39;_n X_n^2 = 0<br />
+*有心二次超曲面<br />
+:a&#39;_1 X_1^2 + a&#39;_2 X_2^2 + \\cdots + a&#39;_n X_n^2 = 1<br />
+*無心二次超曲面<br />
+:a&#39;_1 X_1^2 + a&#39;_2 X_2^2 + \\cdots + a&#39;_{n-1} X_{n-1}^2 + 2b X_n = 1<br />
+上の 3 式を、非退化な二次超曲面の&#39;標準形&#39;という。この時、上の係数を対角成分にもつ行列は適当な相似変換を行うことにより、次のような行列に変換できる。<br />
+: S = \\begin{pmatrix}<br />
+ E_p &amp; 0    &amp; 0 \\\\<br />
+ 0   &amp; -E_q &amp; 0 \\\\<br />
+ 0   &amp; 0    &amp; (0)<br />
+\\end{pmatrix}<br />
+ただし、右下の成分が 0 になるのは、無心二次超曲面の場合のみである。係数 1 の単位行列の次数 &#39;&#39;p&#39;&#39; と、係数 &amp;minus;1 の単位行列の次数 &#39;&#39;q&#39;&#39; を対にしたもの (&#39;&#39;p&#39;&#39;, &#39;&#39;q&#39;&#39;) を、二次超曲面の&#39;符号数&#39;という。二次超曲面の形態は、符号数によってさらに細かく分類される。<br />
+<br />
+== 楕円体の体積 ==<br />
+符号数が (&#39;&#39;n&#39;&#39;, 0) であるような二次超曲面を&#39;楕円面&#39;という。楕円面は、二次超曲面の中で唯一の閉じた超曲面である。従って、楕円面によって囲まれた部分（&#39;楕円体&#39;）にのみ体積が定義できる。その体積 &#39;&#39;V&#39;&#39; は、ガンマ関数 &amp;Gamma;(&#39;&#39;x&#39;&#39;) を用いて、<br />
+:V = \\frac{\\Gamma(1/2)^n}{\\Gamma(n/2+1)}\\sqrt{\\frac{1}}<br />
+で与えられる。これは半径 &#39;&#39;r&#39;&#39; の球の体積 (4&amp;pi;/3)&#39;&#39;r&#39;&#39;3 の一般化である。<br />
+<br />
+== 3次元<a href="http://localhost/keyword/%E4%BA%8C%E6%AC%A1%E6%9B%B2%E9%9D%A2">二次曲面</a> ==<br />
+比較的初等の数学では、<a href="http://localhost/keyword/%E4%BA%8C%E6%AC%A1%E6%9B%B2%E9%9D%A2">二次曲面</a>と言うと狭義に 3 次元ユークリッド空間 &#39;R&#39;3 上のものを指していた。その実態については一般次元の場合と同じであるが、円錐曲線のように、各曲面に固有の名称がついているので、それについて挙げることにする。ここでは、a,b,cはそれぞれ正の実数とする。<br />
+<br />
+<br />
+画像:Quadric_Ellipsoid.jpg|楕円面<br />
+画像:Quadric_Elliptic_Paraboloid.jpg|楕円放物面<br />
+画像:Quadric_Hyperbolic_Paraboloid.jpg|双曲放物面<br />
+画像:Quadric_Hyperboloid_1.jpg|一葉双曲面<br />
+画像:Quadric_Hyperboloid_2.jpg|二葉双曲面<br />
+画像:Quadric_Cone.jpg|錐面<br />
+画像:Quadric_Elliptic_Cylinder.jpg|楕円柱面<br />
+画像:Quadric_Hyperbolic_Cylinder.jpg|双曲線柱面<br />
+画像:Quadric_Parabolic_Cylinder.jpg|放物線柱面<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 円錐曲線<br />
+<br />
+<br />
+Category:曲面<br />
+Category:数学に関する記事<br />
+<br />
+ru:Поверхность второго порядка<br />

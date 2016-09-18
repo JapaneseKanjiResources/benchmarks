@@ -1,0 +1,86 @@
+description<br />
+<br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面2線<br />
+|開業年月日= 1<a href="http://localhost/keyword/898%E5%B9%B4">898年</a>（明治<a href="http://localhost/keyword/31%E5%B9%B4">31年</a>）12月21日<br />
+|廃止年月日=<br />
+|乗車人員= 247<br />
+|乗降人員=<br />
+|統計年度= 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|所属路線=  <a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a><br />
+|前の駅 = 佐良山<br />
+|駅間A = 4.3<br />
+|駅間B = 3.6<br />
+|次の駅 = 小原<br />
+|駅番号 =<br />
+|キロ程 = 49.1<br />
+|起点駅 = 岡山<br />
+|乗換 =<br />
+|備考 = 簡易委託駅<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E4%BA%80%E7%94%B2%E9%A7%85">亀甲駅</a>&#39;（かめのこうえき）は、岡山県<a href="http://localhost/keyword/%E4%B9%85%E7%B1%B3%E9%83%A1">久米郡</a>美咲町原田にある、西日本旅客鉄道（JR西日本）<a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a>の駅である。<br />
+<br />
+駅近くに亀の甲羅のような岩（亀甲岩）があることから「亀甲」の名がある。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/898%E5%B9%B4">898年</a>（明治<a href="http://localhost/keyword/31%E5%B9%B4">31年</a>）12月21日 - 中国鉄道本線（現在の<a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a>）開業時に設置される。<br />
+* 1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>（昭和<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）6月1日 - 中国鉄道の鉄道部門が国有化され、国有鉄道<a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a>の駅となる。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、西日本旅客鉄道（JR西日本）の駅となる。<br />
+* 1<a href="http://localhost/keyword/995%E5%B9%B4">995年</a>（平成<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）8月 - 亀の形をした現駅舎に改築される。<br />
+* 200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>（平成<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>）6月14日 - NHK・BShiで放送された『列島縦断 鉄道12000キロの旅 〜最長片道切符でゆく42日〜』の生中継が当駅で行われる。<br />
+<br />
+== 駅構造 ==<br />
+構内<br />
+相対式ホーム2面2線を持ち、行違い設備を有する地上駅。ホーム間は跨線橋で連絡している。待合室がある。駅舎のある上り側1番線を上下本線、反対の下り側2番線を上下副本線とした一線スルーとなっている。<br />
+<br />
+津山駅管理の簡易委託駅で、早朝・深夜を除いて出札窓口の営業がある。以前は携帯車発機により<a href="http://localhost/keyword/%E4%B9%97%E8%BB%8A%E5%88%B8">乗車券</a>を発券していたが、現在はPOS端末による発券をしている。<br />
+<br />
+亀をモチーフにした外観の駅舎が特徴的である。駅舎の屋根の上は、亀の頭の形をした時計（目の所）がある。構内にも亀の像があるほか、亀の資料がある。便所は男女別、水洗式。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+== 利用状況 ==<br />
+1日の平均乗車人員は以下の通りである出典：岡山県統計年報。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 美咲町役場<br />
+* 美咲警察署<br />
+* 亀甲郵便局（日本郵政岡山支店亀甲集配センター）<br />
+* 中国銀行<br />
+* サンクス岡山美咲町店<br />
+* 天満屋ハピーマート亀甲店<br />
+* 国道53号<br />
+* 岡山県道159号久米中央線<br />
+* 岡山県道352号大戸上中央線<br />
+<br />
+== 隣の駅 ==<br />
+; 西日本旅客鉄道<br />
+:  <a href="http://localhost/keyword/%E6%B4%A5%E5%B1%B1%E7%B7%9A">津山線</a><br />
+:: 快速「ことぶき」<br />
+::: 津山駅 - &#39;<a href="http://localhost/keyword/%E4%BA%80%E7%94%B2%E9%A7%85">亀甲駅</a>&#39; - 弓削駅<br />
+:: 普通（福渡駅 - 岡山駅間で快速となる「ことぶき」含む）<br />
+::: 佐良山駅 - &#39;<a href="http://localhost/keyword/%E4%BA%80%E7%94%B2%E9%A7%85">亀甲駅</a>&#39; - 小原駅<br />
+<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jr-odekake.net/eki/top.php?id=0651413 <a href="http://localhost/keyword/%E4%BA%80%E7%94%B2%E9%A7%85">亀甲駅</a>（JR西日本）]<br />
+<br />
+<br />
+<br />
+<br />
+category:岡山県の鉄道駅<br />
+めのこう<br />
+Category:西日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/898%E5%B9%B4">898年</a>開業の鉄道駅<br />
+Category:中国鉄道<br />
+かめのこうえき<br />

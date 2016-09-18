@@ -1,0 +1,48 @@
+description<br />
+ |<br />
+ 世紀=1 |<br />
+ 次世紀=2 |<br />
+<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=30 |<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=40 |<br />
+ <a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀=50 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=60 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=70 |<br />
+<br />
+ 3年前=56 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>前=57 |<br />
+ 1年前=58 |<br />
+ 年=59 |<br />
+ 1年後=60 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>後=61 |<br />
+ 3年後=62 |<br />
+}}<br />
+<br />
+<br />
+== 他の紀年法 ==<br />
+<br />
+* 干支 : 己未<br />
+* 日本<br />
+** 垂仁天皇<a href="http://localhost/keyword/88%E5%B9%B4">88年</a><br />
+** 皇紀7<a href="http://localhost/keyword/19%E5%B9%B4">19年</a><br />
+*中国<br />
+** 後漢 : 永平<a href="http://localhost/keyword/2%E5%B9%B4">2年</a><br />
+* 朝鮮<br />
+** 高句麗 : 太祖王<a href="http://localhost/keyword/7%E5%B9%B4">7年</a><br />
+** 新羅 : 脱解王3年<br />
+** 百済 : 多婁王3<a href="http://localhost/keyword/2%E5%B9%B4">2年</a><br />
+** 檀紀2<a href="http://localhost/keyword/392%E5%B9%B4">392年</a><br />
+* 仏滅紀元 : <a href="http://localhost/keyword/602%E5%B9%B4">602年</a><br />
+* ユダヤ暦 : 3<a href="http://localhost/keyword/819%E5%B9%B4">819年</a> - 3<a href="http://localhost/keyword/820%E5%B9%B4">820年</a><br />
+<br />
+== できごと ==<br />
+* ローマ皇帝ネロが実母小アグリッピナを殺害<br />
+<br />
+== 誕生 ==<br />
+<br />
+== 死去 ==<br />
+3月 - 小アグリッピナ、ローマ皇帝ネロの母(*<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>)<br />
+<br />
+Category:<a href="http://localhost/keyword/59%E5%B9%B4">59年</a><br />
+<br />
+als:50er#59<br />

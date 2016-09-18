@@ -1,0 +1,56 @@
+description
+
+|タイプ種 = ''Hesperornis regalis'' 
+| シノニム =
+* ''Lestornis'' 
+* ''Coniornis'' 
+* ''Hargeria'' 
+}} 
+'ヘスペロルニス' （学名:''Hesperornis''）は、絶滅した鳥類。
+
+白亜紀後期に北アメリカに生息していた海鳥類。
+アメリカのカンザス州で発見された。
+
+学名''Hesperornis''は、アメリカの古生物学者 オスニエル・チャールズ・マーシュによる命名（1872年）。「西の鳥」を意味する。
+
+== 形態と生態 ==
+長い首・長いクチバシを持つその体型は現在のアビ類やウ類に似るが、体長は180cmとかなり大型である。
+翼は小さく痕跡程度に退化しており、現在のペンギン類と同様に、飛ぶことはできない。
+しかし、ペンギンが翼が変化したフリッパーで海中を泳ぐのに対して、ヘスペロニスは水掻きを持つ後足で泳ぐ。
+そして現在の鳥類と決定的に異なる点は、クチバシに歯を持つことである。このクチバシを使い、海中で魚類を捕食していたと推定される（外部リンクの生態想像図参照）。
+
+ヘスペロルニスは、白亜紀に登場した真鳥類(Euornithes)のグループに含まれるが、白亜紀末期に絶滅した。
+現存鳥類にヘスペロルニス類の子孫はない。
+
+==分類体系==
+*恐竜 dinosaur
+*:竜盤類 Saurischia
+*::獣脚類 Theropoda
+*:::テタヌラ類 Tetanurae
+*::::コエルロサウルス類 Coelurosauria
+*:::::マニラプトル形類 Maniraptoriformes
+*::::::マニラプトル類 Maniraptora
+*:::::::エウマニラプトル類 Eumaniraptora
+*::::::::鳥類 Aves
+*:::::::::真鳥類 Ornithurae
+
+== 近縁群との関係 ==
+
+
+== 脚注 ==
+
+
+==外部リンク==
+* [http://www.oceansofkansas.com/Hesperornis.html Hesperonis] (OCEANS OF KANSAS PALEONTOLOGY by Mike Everhart)
+** [http://www.oceansofkansas.com/Hesperornis/kish-01.jpg 生態想像図(親と雛)]
+** [http://www.oceansofkansas.com/Birds/BONNER-1.jpg 生態想像図(捕食1)]
+** [http://www.oceansofkansas.com/Birds/sm-hesp1.jpg 生態想像図(捕食2)]
+** [http://www.oceansofkansas.com/Hesperornis/hespercb.jpg 生態想像図(捕食3)]
+** [http://www.oceansofkansas.com/Hesperornis/marhesp.jpg 骨格図] - Marsh(1872)による
+** [http://www.oceansofkansas.com/Sternbrg/hesper4.jpg 骨格図(頭部詳細)] - クチバシの歯がよく分かる
+
+
+
+
+Category:白亜紀の生物
+Category:化石鳥類

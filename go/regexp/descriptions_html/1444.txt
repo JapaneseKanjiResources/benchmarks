@@ -1,0 +1,72 @@
+description<br />
+<br />
+ 吉備線（桃太郎線）<br />
+|前の駅  = 備前三門<br />
+|駅間A   = 1.4<br />
+|駅間B   = 3.2<br />
+|次の駅  = 備前一宮<br />
+|駅番号  =<br />
+|キロ程  = 3.3<br />
+|起点駅  = 岡山<br />
+|乗換    = <br />
+|備考    = 無人駅（自動券売機 有） <br />
+|備考全幅= * 仮停留場として。停留場時代を経て1<a href="http://localhost/keyword/928%E5%B9%B4">928年</a>（昭和3年）11月23日に正式な駅へ格上げ。<br />
+}}<br />
+駅舎（200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>9月）<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E5%A4%A7%E5%AE%89%E5%AF%BA%E9%A7%85">大安寺駅</a>&#39;（だいあんじえき）は、岡山県岡山市北区大安寺中町にある、西日本旅客鉄道（JR西日本）吉備線（桃太郎線）の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/914%E5%B9%B4">914年</a>（大正3年）2月25日 - 中国鉄道の株主でもあった畳表問屋の豪商間野氏によって仮停留場として開業。<br />
+* 1<a href="http://localhost/keyword/915%E5%B9%B4">915年</a>（大正<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）7月1日 - 停留場に格上げ。<br />
+* 19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>（大正<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>） - 畳表輸送用に長いプラットホームを設置。<br />
+* 1<a href="http://localhost/keyword/928%E5%B9%B4">928年</a>（昭和3年）11月23日 - 正式な駅に格上げ。 <br />
+* 1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>（昭和<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）6月1日 - 中国鉄道の鉄道部門が国有化され、国鉄吉備線の駅となる。<br />
+* 1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>（昭和<a href="http://localhost/keyword/46%E5%B9%B4">46年</a>）11月1日 - 無人駅化（簡易委託駅化）。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、西日本旅客鉄道の駅となる。<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）7月26日 - ICOCA対応の簡易型自動改札機を設置（同年9月1日、ICOCA導入）。<br />
+<br />
+== 駅構造 ==<br />
+島式ホーム1面2線を有し行違いが可能な地上駅。互いのホームは構内踏切で連絡している。<br />
+<br />
+岡山駅管理の無人駅。ICOCA利用可能駅であり、ICOCAの相互利用対象であるPiTaPa（スルッとKANSAI協議会）も利用可能。ホームから構内踏切を渡った先に待合スペース程度の駅舎があり、そこに簡易型の自動改札機と、ICOCAホルダー完備の自動券売機が置かれている。また男女共用の水洗式便所が駅舎を出たところに設置されている。<br />
+<br />
+=== のりば ===<br />
+<br />
+* 上記の路線名は旅客案内上の呼称（愛称）で記載している。長らくのりば番号が存在しなかったが、路線愛称制定に合わせて設定された。<br />
+<br />
+== 利用状況 ==<br />
+1日の平均乗車人員は以下の通りである出典：岡山県統計年報。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+周辺は住宅密集地となっており道路も狭い。当駅から400mほど南を並行する岡山県道242号川入巌井線沿いにはロードサイド型店舗が多い。なお、当駅と同じ「大安寺」とつく岡山県立岡山大安寺中等教育学校は当駅から1kmほど離れている。同校へは山陽本線北長瀬駅からのアクセスが便利である。<br />
+<br />
+* 博多総合車両所岡山支所（旧岡山新幹線運転所）<br />
+* 岡山市立大野小学校<br />
+* 岡山県警<a href="http://localhost/keyword/%E5%B2%A1%E5%B1%B1%E8%A5%BF%E8%AD%A6%E5%AF%9F%E7%BD%B2">岡山西警察署</a><br />
+* 岡山市消防局西消防署<br />
+<br />
+== 隣の駅 ==<br />
+; 西日本旅客鉄道<br />
+:  桃太郎線（吉備線）<br />
+:: 備前三門駅 - &#39;<a href="http://localhost/keyword/%E5%A4%A7%E5%AE%89%E5%AF%BA%E9%A7%85">大安寺駅</a>&#39; - 備前一宮駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jr-odekake.net/eki/top.php?id=0651502 <a href="http://localhost/keyword/%E5%A4%A7%E5%AE%89%E5%AF%BA%E9%A7%85">大安寺駅</a>（JR西日本）]<br />
+<br />
+<br />
+<br />
+<br />
+Category:岡山市北区の鉄道駅<br />
+いあんし<br />
+Category:西日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:中国鉄道<br />
+Category:1<a href="http://localhost/keyword/914%E5%B9%B4">914年</a>開業の鉄道駅<br />

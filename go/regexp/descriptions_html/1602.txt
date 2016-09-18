@@ -1,0 +1,90 @@
+description<br />
+<br />
+<br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>（大正<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）3月20日<br />
+|廃止年月日 =<br />
+|乗車人員 = 213<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換 =<br />
+|備考 = 駅員無配置駅<br />
+}}<br />
+夜明けの<a href="http://localhost/keyword/%E7%9B%B8%E5%8F%AF%E9%A7%85">相可駅</a>。背後に新しい住宅地が広がる<br />
+跨線橋から多気・松阪方面をのぞむ<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E7%9B%B8%E5%8F%AF%E9%A7%85">相可駅</a>&#39;（おうかえき）は、三重県多気郡多気町相可にある、東海旅客鉄道（JR東海）紀勢本線の駅である。<br />
+<br />
+<a href="http://localhost/keyword/%E5%A4%9A%E6%B0%97%E9%A7%85">多気駅</a>より多気町の中心に近く、櫛田川を挟んだ松阪市射和町の玄関口でもある。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>（大正<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）3月20日 - 紀勢東線の相可口駅（現在の<a href="http://localhost/keyword/%E5%A4%9A%E6%B0%97%E9%A7%85">多気駅</a>）から栃原駅までの延伸に伴い開業。<br />
+* 1<a href="http://localhost/keyword/959%E5%B9%B4">959年</a>（昭和<a href="http://localhost/keyword/34%E5%B9%B4">34年</a>）7月15日 - 三木里駅 - 新鹿駅間の開通に伴う線路名称改定により紀勢本線所属となる。<br />
+* 1<a href="http://localhost/keyword/983%E5%B9%B4">983年</a>（昭和<a href="http://localhost/keyword/58%E5%B9%B4">58年</a>）12月21日 - 無人駅となる「天王寺鉄管局、紀勢線と参宮線の駅業務を大幅削減へ」日本経済新聞1<a href="http://localhost/keyword/983%E5%B9%B4">983年</a>6月29日付、地方経済面中部7ページ。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により東海旅客鉄道に承継。<br />
+* 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>（平成<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）4月10日 - この日をもって交換設備を撤去、翌日より交換不能駅（列車の行き違いのできない駅）となる。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を有する地上駅。線路の西側にホームが設置されている。<br />
+<br />
+200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>4月10日までは相対式ホーム2面2線を有する構造であったが、東側の線路が撤去された。なお、200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>4月10日までは西側のホームが1番線、東側のホームが2番線とされ、それぞれ亀山方面、新宮方面の列車が発着していた。線路が撤去されたのちも2番線のホーム自体は撤去されておらず、駅の佐奈方に設置された跨線橋も駅の東西を結ぶ自由通路として利用されている。簡易な構造の駅舎がホームに接して設けられている。<br />
+<br />
+<a href="http://localhost/keyword/%E5%A4%9A%E6%B0%97%E9%A7%85">多気駅</a>管理の駅員無配置駅である。<br />
+<br />
+== 利用状況 ==<br />
+「三重県統計書」によると、1日の平均乗車人員は以下の通りである。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 相可上神社<br />
+* 多気町役場<br />
+* 多気町松阪市学校組合立多気中学校<br />
+* 多気郵便局<br />
+* 多気クリスタルタウン<br />
+* 多気工業団地<br />
+** シャープ多気工場<br />
+* 三重県立相可高等学校<br />
+* 伊勢参宮街道<br />
+<br />
+== バス路線 ==<br />
+* 三重交通<br />
+** 「相鹿上神社」停留所<br />
+*** 54系統・55系統 松阪駅前（射和経由）<br />
+*** 54系統 三瀬谷（射和経由）<br />
+*** 55系統 シャープ正門前<br />
+** 「相可一区」停留所<br />
+*** 52系統 松阪駅前<br />
+*** 52系統 松阪駅前（工業団地経由）<br />
+*** 52系統 大石<br />
+<br />
+* 多気町町営バス<br />
+** 幹線バス：下河田、<a href="http://localhost/keyword/%E5%A4%9A%E6%B0%97%E9%A7%85">多気駅</a>、波多瀬公民館、大石<br />
+** 予約運行型小型バス（でん多）<br />
+*** 1系統（西相鹿瀬線） <a href="http://localhost/keyword/%E5%A4%9A%E6%B0%97%E9%A7%85">多気駅</a><br />
+*** 2系統（西池上・下佐奈線） <a href="http://localhost/keyword/%E5%A4%9A%E6%B0%97%E9%A7%85">多気駅</a><br />
+*** 3系統（上佐奈線） 長谷公民館<br />
+*** 4系統（五桂・井戸谷線） 多気町役場<br />
+<br />
+== 隣の駅 ==<br />
+; 東海旅客鉄道<br />
+: 紀勢本線<br />
+:: <a href="http://localhost/keyword/%E5%A4%9A%E6%B0%97%E9%A7%85">多気駅</a> - &#39;<a href="http://localhost/keyword/%E7%9B%B8%E5%8F%AF%E9%A7%85">相可駅</a>&#39; - 佐奈駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+<br />
+<br />
+<br />
+Category:三重県の鉄道駅<br />
+うか<br />
+Category:東海旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>開業の鉄道駅<br />
+Category:紀勢本線<br />
+おうかえき<br />

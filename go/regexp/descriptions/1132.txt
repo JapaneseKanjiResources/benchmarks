@@ -1,0 +1,12 @@
+description
+'PHP'
+* PHP: Hypertext Preprocessor - Webページ作成のために用いられるプログラミング言語の一種。
+* PHP研究所 - 松下幸之助によって創設された出版社・民間シンクタンク。
+** PHP新書 - PHP研究所が刊行する新書。
+** PHP (雑誌) - PHP研究所が発行する雑誌。
+** PHP文庫 - PHP研究所が発行する文庫。
+* Personal Handy Phone - PHSの旧名称。
+* フィリピンの通貨、フィリピン・ペソのISO 4217コード。
+* 鳩の巣原理: Pidgeon Hole Principle - n+1羽の鳩をn個の巣に入れたとき2羽以上入る巣が存在するという数学の理論。
+* Preferential Handling Procedure - 少数輸入自動車のために特別に設けられた認証制度。 
+

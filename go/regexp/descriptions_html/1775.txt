@@ -1,0 +1,67 @@
+description<br />
+<br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/922%E5%B9%B4">922年</a>（大正<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）8月1日<br />
+|廃止年月日 =<br />
+|乗車人員 =<br />
+|乗降人員 =<br />
+|統計年度 =<br />
+|乗換 =<br />
+|備考 =<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E5%89%8D%E9%83%B7%E9%A7%85">前郷駅</a>&#39;（まえごうえき）は、秋田県由利本荘市前郷にある、由利高原鉄道<a href="http://localhost/keyword/%E9%B3%A5%E6%B5%B7%E5%B1%B1">鳥海山</a>ろく線の駅である。<br />
+<br />
+社員配置駅。当駅所属の駅員は居らず、矢島駅・<a href="http://localhost/keyword/%E5%89%8D%E9%83%B7%E9%A7%85">前郷駅</a>のローテーション勤務となっている。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/922%E5%B9%B4">922年</a>（大正<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）8月1日 - 横荘鉄道の駅として由利郡東滝沢村に開業し、横荘鉄道西線の終着駅となる。<br />
+* 1<a href="http://localhost/keyword/937%E5%B9%B4">937年</a>（昭和<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）<br />
+** 9月1日 - 横荘鉄道国有化に伴い、鉄道省（矢島線）に移管。<br />
+** 12月15日 - 矢島線が西滝沢駅まで延伸する。<br />
+* 1<a href="http://localhost/keyword/949%E5%B9%B4">949年</a>（昭和<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）6月1日 - 日本国有鉄道発足。<br />
+* 時期不詳 - 交換設備撤去および業務委託化。<br />
+* 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>（昭和<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>）10月1日 - 由利高原鉄道へ移管と同時に交換設備復活。<br />
+* 2003年（平成<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）12月26日 - 駅現舎に改築。<br />
+<br />
+== 駅構造 ==<br />
+相対式2面2線のホームを持つ地上駅。国鉄矢島線時代末期に交換設備を廃止書籍『国鉄全線各駅停車3 奥羽・羽越400駅』（小学館、1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>）177ページより。、ホーム1面1線であったものを第3セクター転換時に列車本数増のためホームを増設、再び交換可能とした。<br />
+<br />
+; のりば<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 秋田県道171号前郷停車場線<br />
+** 秋田県道293号西滝沢館線<br />
+* 由利本荘市役所 由利総合支所（旧・由利町役場）<br />
+* 由利郵便局<br />
+* 羽後信用金庫由利支店<br />
+* 由利本荘市立由利小学校<br />
+* 由利本荘市立由利中学校<br />
+* 由利福祉健康センター<br />
+<br />
+== その他 ==<br />
+当駅を境に閉塞方式が変わるため、羽後本荘方からの到着列車（下り）からは、スタフを受け取り、矢島方から来た列車（上り）からタブレットを受領し、対向列車は反対の受領を行う。駅員が常駐し、駅員からの手渡しで各列車への受渡しをしている。<br />
+<br />
+== 隣の駅 ==<br />
+; 由利高原鉄道<br />
+: <a href="http://localhost/keyword/%E9%B3%A5%E6%B5%B7%E5%B1%B1">鳥海山</a>ろく線<br />
+:: 曲沢駅 - &#39;<a href="http://localhost/keyword/%E5%89%8D%E9%83%B7%E9%A7%85">前郷駅</a>&#39; - 久保田駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.obako5.com/利用案内/各駅の案内/07-前郷/ <a href="http://localhost/keyword/%E5%89%8D%E9%83%B7%E9%A7%85">前郷駅</a>]（各駅情報） - 由利高原鉄道<br />
+<br />
+<br />
+<br />
+えこう<br />
+Category:由利高原鉄道の鉄道駅<br />
+Category:日本国有鉄道の廃駅<br />
+Category:由利本荘市の鉄道駅<br />
+まえこうえき<br />
+Category:1<a href="http://localhost/keyword/922%E5%B9%B4">922年</a>開業の鉄道駅<br />

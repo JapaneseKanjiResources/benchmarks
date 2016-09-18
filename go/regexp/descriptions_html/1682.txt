@@ -1,0 +1,106 @@
+description<br />
+<br />
+<br />
+<br />
+|所属事業者= 33px 京成電鉄<br />
+|所属路線 = KS 本線<br />
+|キロ程 = 34.0<br />
+|起点駅 = 京成上野<br />
+|所在地 = 千葉県習志野市実籾一丁目1番1号<br />
+| 緯度度 = 35 | 緯度分 = 41 | 緯度秒 = 12.8 | N(北緯)及びS(南緯) = N<br />
+| 経度度 = 140 |経度分 = 4 | 経度秒 = 6.4 | E(東経)及びW(西経) = E<br />
+| 地図国コード = JP<br />
+|駅構造 = 地上駅（橋上駅）<br />
+|ホーム = 2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>（大正<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）12月9日<br />
+|廃止年月日 =<br />
+|乗車人員 =<br />
+|乗降人員 = 23,321<br />
+|統計年度 = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換 =<br />
+|備考 =<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E5%AE%9F%E7%B1%BE%E9%A7%85">実籾駅</a>&#39;（みもみえき）は、千葉県習志野市実籾にある、京成電鉄本線の駅である。駅番号は&#39;KS28&#39;。<br />
+<br />
+== 年表 ==<br />
+* 1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>（大正<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）12月9日 - 開業。<br />
+* 1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a>（平成<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）3月6日 - 橋上駅舎竣設<br />
+* 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>（平成<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>）8月5日 改札前売店がファミリーマートに改装。<br />
+<br />
+== 駅構造 ==<br />
+相対式ホーム2面2線を有する地上駅で、橋上駅舎を持つ。改札は天井が高く、開放感がある。<br />
+<br />
+20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>に地上と改札階を連絡するエレベーターを北口と南口に各1基、改札階と各ホームを連絡するエレベーターを各1基設置した - 京成電鉄。<br />
+<br />
+それぞれ橋上駅化前までは東寄りに別々の改札があり、構内踏切もあった。当時、下りホーム側の切符売り場は橋上化前まで手売りで、上りホームには改札付近に売店があった。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+* 上表の路線名は成田空港線開業後の旅客案内の名称に基づいている。<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度の1日平均乗降人員は&#39;23,321人&#39;である[http://www.keisei.co.jp/keisei/tetudou/people_top.htm 京成電鉄駅別乗降人員] - 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>5月3日閲覧。。京成線内69駅中18位である。<br />
+<br />
+近年の1日平均乗降人員および乗車人員は下表のとおりである。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+駅南側は200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>に道路の拡幅工事が完了し、駅北側は再開発が行われ、南北ともにロータリーが整備された。沿道には個人商店が数軒ある。<br />
+<br />
+<a href="http://localhost/keyword/%E5%85%AB%E5%8D%83%E4%BB%A3%E5%8F%B0%E9%A7%85">八千代台駅</a>側の踏切で<a href="http://localhost/keyword/%E5%8D%83%E8%91%89%E7%9C%8C%E9%81%9357%E5%8F%B7%E5%8D%83%E8%91%89%E9%8E%8C%E3%82%B1%E8%B0%B7%E6%9D%BE%E6%88%B8%E7%B7%9A">千葉県道57号千葉鎌ケ谷松戸線</a>と交差している。<br />
+<br />
+<br />
+* 日本大学生産工学部実籾校舎<br />
+* 習志野市立習志野高等学校<br />
+* 千葉県立実籾高等学校<br />
+*習志野市東消防署<br />
+*実籾交番<br />
+*習志野市立東習志野図書館<br />
+*習志野市立第四中学校<br />
+*習志野市東習志野小学校<br />
+*習志野実籾郵便局<br />
+*京葉銀行 実籾支店<br />
+*千葉銀行 実籾支店<br />
+<br />
+=== バス路線 ===<br />
+千葉シーサイドバス<br />
+* 幕張駅・<a href="http://localhost/keyword/%E6%B5%B7%E6%B5%9C%E5%B9%95%E5%BC%B5%E9%A7%85">海浜幕張駅</a>経由 千葉マリンスタジアム行<br />
+* 日立製作所（習志野工場）行<br />
+* <a href="http://localhost/keyword/%E5%85%AB%E5%8D%83%E4%BB%A3%E5%8F%B0%E9%A7%85">八千代台駅</a>行<br />
+<br />
+京成バス<br />
+* 八千41：鈴木金属経由 <a href="http://localhost/keyword/%E5%85%AB%E5%8D%83%E4%BB%A3%E5%8F%B0%E9%A7%85">八千代台駅</a>行<br />
+<br />
+== 付記 ==<br />
+* さだまさしの「私は犬になりたい¥490-シングルヴァージョン-」の歌詞に<a href="http://localhost/keyword/%E5%AE%9F%E7%B1%BE%E9%A7%85">実籾駅</a>が登場する。さだが200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>5月に放送されたNHK総合のテレビ番組『今夜も生でさだまさし』で語ったところ p.61によると、さだは青春時代を京成沿線の菅野で過ごしていたため京成沿線に土地勘があり、「上野から（実籾までの運賃が）480円か490円だった」（20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>4月現在当駅は京成上野から490円の区間の末端だが200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>当時は470円）ことにちなんで用いたものだという。ちなみに、アルバム『美しい朝』に収録されたバージョンでは、「実籾の方を傷つけたかなと思って」この部分の歌詞を変えたという。<br />
+<br />
+== 隣の駅 ==<br />
+<br />
+;  33px 京成電鉄<br />
+: KS 本線<br />
+:: 快速特急・特急・通勤特急<br />
+::: &#39;通過&#39;<br />
+:: 快速・普通<br />
+::: 京成大久保駅 (KS27) - &#39;<a href="http://localhost/keyword/%E5%AE%9F%E7%B1%BE%E9%A7%85">実籾駅</a> (KS28)&#39; - <a href="http://localhost/keyword/%E5%85%AB%E5%8D%83%E4%BB%A3%E5%8F%B0%E9%A7%85">八千代台駅</a> (KS29)<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+*  - 京成電鉄<br />
+<br />
+<br />
+<br />
+Category:千葉県の鉄道駅<br />
+もみ<br />
+Category:京成電鉄の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>開業の鉄道駅<br />
+みもみえき<br />

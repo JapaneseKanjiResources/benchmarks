@@ -1,0 +1,50 @@
+description<br />
+<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E8%BB%A2%E4%BD%8D%E5%8F%8D%E5%BF%9C">転位反応</a>&#39;（てんいはんのう、英語：rearrangement reaction）とは、化合物を構成する原子または原子団（基）が結合位置を変え、分子構造の骨格変化を生じる化学反応の総称である。一方、原子または原子団（基）が骨格に変化を与えずに結合位置を変える化学反応（メトキシ基やアセチル基の分子内転移など）を&#39;転移反応&#39;とよぶ。<br />
+<br />
+反応形式別に、自己の分子骨格内で基が移動する&#39;分子内転位&#39;（ぶんしないてんい、intramolecular rearrangement）、基が一度遊離して異なる分子にも移動しうるものを&#39;分子間転位&#39;（ぶんしかんてんい、intermolecular rearrangement）と呼ぶ。<br />
+<br />
+また反応機構別に&#39;求核転位&#39;（求核反応）、&#39;求電子転位&#39;（求電子反応）、&#39;シグマトロピー転位&#39;（シグマトロピー反応）、&#39;ラジカル転位&#39;（ラジカル反応）と呼び分けられる。<br />
+<br />
+異性化の多くは<a href="http://localhost/keyword/%E3%83%97%E3%83%AD%E3%83%88%E3%83%B3">プロトン</a>（水素イオン）の転位を反応機構とし、生体内では酵素（EC.5群に属する異性化酵素）によって頻繁に<a href="http://localhost/keyword/%E8%BB%A2%E4%BD%8D%E5%8F%8D%E5%BF%9C">転位反応</a>が起こされている（注：EC.2群に属する&#39;転移&#39;酵素は分子&#39;内&#39;でなく分子&#39;間&#39;で原子団を移すものである）。<br />
+<br />
+== 主な<a href="http://localhost/keyword/%E8%BB%A2%E4%BD%8D%E5%8F%8D%E5%BF%9C">転位反応</a> ==<br />
+#&#39;求核転位&#39;<br />
+#*ワーグナー・メーヤワイン転位（Wagner-Meerwein rearrangement）<br />
+#*ピナコール・ピナコロン転位<br />
+#*ベンジル・ベンジル酸転位<br />
+#*アリル転位<br />
+#*ウルフ転位（Wolff rearrangement）（アーント・アイシュタート合成）<br />
+#*ファボルスキー転位（Favorskii rearrangement）<br />
+#*プメラー転位（Pummerer rearrangement）<br />
+#*ループ転位（Rupe rearrangement）<br />
+#*マイヤー・シュスター転位（Mayer-Schuster rearrangement）<br />
+#*バンバーガー転位（Bamberger rearrangement）<br />
+#*フリッツ・バッテンバーグ・ビーチェル転位（Fritsch-Buttenberg-Wiechell rearrangement）<br />
+#*スマイルス転位（Smiles rearrangement）<br />
+#*フリース転位（Fries rearrangement ;分子間転位）<br />
+#*ベックマン転位（Beckmann rearrangement）<br />
+#*クルチウス転位（Curtius rearrangement）<br />
+#*ロッセン転位（Lossen rearrangement）<br />
+#*ホフマン転位（Hoffmann rearrangement）<br />
+#*シュミット反応（Schmidt reaction）<br />
+#*バイヤー・ビリガー酸化（Bayer-Villiger Oxidation）<br />
+#*クリーギー転位（Criegee rearrangement）<br />
+#*デーキン反応（Dakin reaction）<br />
+#*ジエノン-フェノール転位 (dienone-phenol rearrangement)<br />
+#&#39;求電子転位&#39;<br />
+#*スティーブンス転位（Stevens rearrangement）<br />
+#*ソムレ・ハウザー転位（Sommelet-Hauser rearrangement）<br />
+#*ウィテッヒ転位（Wittig  rearrangement）<br />
+#&#39;シグマトロピー転位&#39;<br />
+#*クライゼン転位（Claissen rearrangement）<br />
+#*<a href="http://localhost/keyword/%E3%82%B3%E3%83%BC%E3%83%97">コープ</a>転位（Cope rearrangement）<br />
+#*エン反応<br />
+#*ベンジジン転位<br />
+#&#39;ラジカル転位&#39;<br />
+<br />
+<br />
+<br />
+<br />
+*<br />

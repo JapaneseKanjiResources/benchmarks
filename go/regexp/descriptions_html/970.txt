@@ -1,0 +1,49 @@
+description<br />
+ |<br />
+ 世紀=1 |<br />
+ 次世紀=2 |<br />
+<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=20 |<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=30 |<br />
+ <a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀=40 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=50 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=60 |<br />
+<br />
+ 3年前=39 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>前=40 |<br />
+ 1年前=41 |<br />
+ 年=42 |<br />
+ 1年後=43 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>後=44 |<br />
+ 3年後=45 |<br />
+}}<br />
+<br />
+<br />
+== 他の紀年法 ==<br />
+<br />
+* 干支 : 壬寅<br />
+* 日本<br />
+** 垂仁天皇<a href="http://localhost/keyword/71%E5%B9%B4">71年</a><br />
+** 皇紀<a href="http://localhost/keyword/702%E5%B9%B4">702年</a><br />
+*中国<br />
+** 後漢 : 建武<a href="http://localhost/keyword/18%E5%B9%B4">18年</a><br />
+* 朝鮮<br />
+** 高句麗 : 大武神王<a href="http://localhost/keyword/25%E5%B9%B4">25年</a><br />
+** 新羅 : 儒理王<a href="http://localhost/keyword/19%E5%B9%B4">19年</a><br />
+** 百済 : 多婁王<a href="http://localhost/keyword/15%E5%B9%B4">15年</a><br />
+** 金官伽倻 : 首露王元年<br />
+** 檀紀2<a href="http://localhost/keyword/375%E5%B9%B4">375年</a><br />
+* 仏滅紀元 : <a href="http://localhost/keyword/585%E5%B9%B4">585年</a><br />
+* ユダヤ暦 : 3<a href="http://localhost/keyword/802%E5%B9%B4">802年</a> - 3<a href="http://localhost/keyword/803%E5%B9%B4">803年</a><br />
+<br />
+== できごと ==<br />
+*パルティア王ヴァルダネス1世がセレウキアの反乱を鎮圧。<br />
+<br />
+== 誕生 ==<br />
+* 3月3日 - 首露王、朝鮮の金官伽倻の太祖 (+ <a href="http://localhost/keyword/199%E5%B9%B4">199年</a>)<br />
+<br />
+== 死去 ==<br />
+<br />
+*<br />
+<br />
+als:40er#42<br />

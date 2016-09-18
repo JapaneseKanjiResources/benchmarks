@@ -1,0 +1,45 @@
+description<br />
+<br />
+| ChemSpiderID = 5880<br />
+| UNII_Ref = <br />
+| UNII = GMW67QNF9C<br />
+| ChEMBL_Ref = <br />
+| ChEMBL = 291962<br />
+| InChI = 1/C6H13NO2/c1-4(2)3-5(7)6(8)9/h4-5H,3,7H2,1-2H3,(H,8,9)/t5-/m0/s1<br />
+| InChIKey = ROHFNLRQFUQHCH-YFKPBYRVBU<br />
+| StdInChI_Ref = <br />
+| StdInChI = 1S/C6H13NO2/c1-4(2)3-5(7)6(8)9/h4-5H,3,7H2,1-2H3,(H,8,9)/t5-/m0/s1<br />
+| StdInChIKey_Ref = <br />
+| StdInChIKey = ROHFNLRQFUQHCH-YFKPBYRVSA-N<br />
+| CASNo = 61-90-5<br />
+|  CASNo_Ref = <br />
+| PubChem = 6106<br />
+| KEGG_Ref = <br />
+| KEGG = D00030<br />
+| SM<a href="http://localhost/keyword/ILE">ILE</a>S = CC(C)C[C@@H](C(=O)O)N<br />
+}}<br />
+| Section2 = <br />
+| Section3 = <br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E3%83%AD%E3%82%A4%E3%82%B7%E3%83%B3">ロイシン</a>&#39; (leucine) は、アミノ酸の1種であり、側鎖に イソブチル基を持ため、疎水性アミノ酸に分類される。また、非極性側鎖アミノ酸で分枝鎖アミノ酸に分類される。略号は Leu あるいは L である。白色結晶となることから、ギリシャ語で『白い』を意味する &#34;leuco&#34; にちなみ命名された。英語式発音を片仮名転記すると「リューシーン」となる。<br />
+<br />
+タンパク質構成アミノ酸で、ヒトは<a href="http://localhost/keyword/%E3%83%AD%E3%82%A4%E3%82%B7%E3%83%B3">ロイシン</a>を合成できないため、ヒトの必須アミノ酸の1つに数えられる。幼児では生長、成人では窒素平衡に必須である。ただし、遺伝子に異常がある場合、メープルシロップ尿症の原因になるアミノ酸の1つでもある。ケト原性を持つ。タンパク質の生成・分解を調整することによって筋肉の維持に関与する。なお、<a href="http://localhost/keyword/%E3%83%AD%E3%82%A4%E3%82%B7%E3%83%B3">ロイシン</a>は1つキラル中心を持っており天然型の<a href="http://localhost/keyword/%E3%83%AD%E3%82%A4%E3%82%B7%E3%83%B3">ロイシン</a>は、S体のL-<a href="http://localhost/keyword/%E3%83%AD%E3%82%A4%E3%82%B7%E3%83%B3">ロイシン</a>であり、ヒトはこれを苦く感ずる。対して、天然にはほとんど見られないR体のD-<a href="http://localhost/keyword/%E3%83%AD%E3%82%A4%E3%82%B7%E3%83%B3">ロイシン</a>は、ヒトには甘く感じられる。<br />
+<br />
+== 出典 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* アミノ酸発酵<br />
+* <a href="http://localhost/keyword/%E3%83%AD%E3%82%A4%E3%82%B7%E3%83%B3">ロイシン</a>発酵<br />
+<br />
+== 外部リンク ==<br />
+* [http://hfnet.nih.go.jp/contents/indiv_agreement.html?633 <a href="http://localhost/keyword/%E3%83%AD%E3%82%A4%E3%82%B7%E3%83%B3">ロイシン</a> - 「健康食品」の安全性・有効性情報] （国立健康・栄養研究所）<br />
+<br />
+<br />
+<br />
+<br />
+Category:タンパク質を構成するアミノ酸<br />
+Category:必須アミノ酸<br />
+Category:ケト原性アミノ酸<br />
+Category:双性イオン<br />

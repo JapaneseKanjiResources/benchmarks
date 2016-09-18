@@ -1,0 +1,27 @@
+description
+'Twist and'はスクウェアダンスのCallのひとつ、2004年11月2日 (火) 05:23 (UTC)現在BASIC Challenge Programに含まれる。
+
+==定義==
+Centers : Step Forward して Partner Trade ; Ends : Centerの方向を向いて近づき(Anything)で指示されたコールを行う。
+
+
+==例==
+*Twist and Fan the Top
+*Twist and Touch 1/4
+
+
+==特徴==
+Centerの2人が同じ向きを向いているLineからしかはじめられません。
+Twist the Lineと異なり性別の依存性はありません。
+このためTwist the Lineより多く用いられる傾向にあります。
+
+(Anything)で指示されるコールは、開始時のEndsだけで動作できるコールである必要があります。
+すなわち、Twist and Split Grand Chain 8などは厳密には定義違反となります。
+
+
+
+==関連項目==
+*Twist the Line
+
+
+Category:スクウェアダンス

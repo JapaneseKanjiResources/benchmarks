@@ -1,0 +1,48 @@
+description<br />
+ |<br />
+ 世紀=1 |<br />
+ 次世紀=2 |<br />
+<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=40 |<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=50 |<br />
+ <a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀=60 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=70 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=80 |<br />
+<br />
+ 3年前=60 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>前=61 |<br />
+ 1年前=62 |<br />
+ 年=63 |<br />
+ 1年後=64 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>後=65 |<br />
+ 3年後=66 |<br />
+}}<br />
+<br />
+<br />
+== 他の紀年法 ==<br />
+<br />
+* 干支 : 癸亥<br />
+* 日本<br />
+** 垂仁天皇<a href="http://localhost/keyword/92%E5%B9%B4">92年</a><br />
+** 皇紀<a href="http://localhost/keyword/723%E5%B9%B4">723年</a><br />
+*中国<br />
+** 後漢 : 永平<a href="http://localhost/keyword/6%E5%B9%B4">6年</a><br />
+* 朝鮮<br />
+** 高句麗 : 太祖王<a href="http://localhost/keyword/11%E5%B9%B4">11年</a><br />
+** 新羅 : 脱解王<a href="http://localhost/keyword/7%E5%B9%B4">7年</a><br />
+** 百済 : 多婁王<a href="http://localhost/keyword/36%E5%B9%B4">36年</a><br />
+** 檀紀2<a href="http://localhost/keyword/396%E5%B9%B4">396年</a><br />
+* 仏滅紀元 : <a href="http://localhost/keyword/606%E5%B9%B4">606年</a><br />
+* ユダヤ暦 : 3<a href="http://localhost/keyword/823%E5%B9%B4">823年</a> - 3<a href="http://localhost/keyword/824%E5%B9%B4">824年</a><br />
+<br />
+== できごと ==<br />
+*ローマ帝国とパルティアが和議を締結。（）<br />
+<br />
+== 誕生 ==<br />
+<br />
+== 死去 ==<br />
+* マルクス・アントニウス・パッラス - ローマ皇帝クラウディウスの解放奴隷にして側近（+ 1年）<br />
+<br />
+*<br />
+<br />
+als:60er#63<br />

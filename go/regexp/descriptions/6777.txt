@@ -1,0 +1,11 @@
+description
+'Mobile Markup Language' (MML) は、HTML4.0のタグセットを基礎にして記述を簡略化した、携帯電話用のコンテンツ記述言語。当時のJ-フォン東京（現ソフトバンク）と慶應義塾大学の「MOBiDY(Mobile Digital Telephony with Internet)」プロジェクトが共同で開発したウェブページ記述言語。
+
+機能が少ない方から多い方に向かって順に、「S-MML」「M-MML」「full-MML」というバリエーションが有り、「full-MML」はHTML4.0のタグセットを全て利用出来る。ただし、タグの表記が短縮されている点が異なる。当時のJ-PHONEグループが提供するコンテンツ・サービスの内、「Sky Web」では「S-MML」が、「J-SKY」では「M-MML」が使用されていた。
+
+文法がHTMLに似ており、HTMLで記述したページを対応携帯電話で閲覧してもボーダフォンのサーバで自動的にMMLに変更される。2004年現在、ボーダフォンの標準ページ記述言語はXHTML BASICになっているため将来的に廃止される予定。
+
+
+Category:携帯電話 (ソフトバンク)
+Category:マークアップ言語
+Category:慶應義塾大学

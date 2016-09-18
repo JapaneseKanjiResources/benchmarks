@@ -1,0 +1,11 @@
+description
+'Ratfor' (''RATional FORtran'') は、FORTRANをC言語風に拡張したプログラミング言語。1976年に、「Software Tools」（Brian W. Kernighan, P. J. Plauger 著。邦訳は『ソフトウェア作法』木村泉訳、共立出版、1981年） で発表された。RatforはRatforで記述されている。
+
+FORTRAN用のプリプロセッサとして実装されている。
+
+== 外部リンク ==
+
+* [http://sepwww.stanford.edu/doku.php?id=sep:software:ratfor Ratfor]
+
+
+RATFOR

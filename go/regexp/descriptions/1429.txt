@@ -1,0 +1,25 @@
+description
+'System Selector' （'システムセレクター'）はシステムソフトウェア。
+開発元はVINTAGE SOLUTIONS社。キヤノンシステムソリューションズが日本語ローカライズを行い販売する。PC/AT互換機用の、ハードディスクのパーティションを管理するソフトウェア。
+
+フロッピーディスクドライブやCD-ROMドライブから起動して、GUI操作でパーティション作成/削除/サイズ変更/移動/複写およびFAT16・FAT32の相互変換などが実行できる。FAT16、FAT32、NTFS、Linuxで使われるExt3などのファイルシステムに対応している。
+
+最新版はSystem Selector 3 。ただし、2005年8月31日の時点でキヤノンシステムソリューションズでは販売終了を宣言している。
+
+*fips
+*Partition Magic
+*Drive Image
+*PQ Boot
+*GRUB
+*LILO
+*Boot Manager
+*System Commander
+
+== 外部リンク ==
+*[http://web.archive.org/web/20051123165307/http://canon-sol.jp/product/sy/index.html System Selector 3]（2005年11月23日時点のアーカイブ）
+
+
+
+
+Category:システムソフトウェア
+Category:ブート

@@ -1,0 +1,94 @@
+description
+
+
+|latest release version = 3
+|latest release date = 1996年
+|container for = 
+|contained by = 
+|extended from = 
+|extended to = Encapsulated PostScript
+|standard = 
+}}
+
+
+'PostScript'（ポストスクリプト）は、アドビシステムズが開発している、1984年に発表したページ記述言語。
+
+スタック指向型のプログラミング言語で、様々な計算・処理と共に描画命令を実行することができる。事前にデータをスタックに格納し、後の命令がデータを処理するというモデルで実行される。そのために記述法が逆ポーランド記法で一貫しており、名前は「追伸」の英語「post script」に後置記法といった意味を掛けている。
+
+== バージョン ==
+*1985年 - PostScript Level 1。初期バージョン。
+*1990年 - PostScript Level 2。日本語やカラー化対応。
+*1996年 - PostScript 3。PDF形式への対応。（Level 3は正式名称ではない）
+
+== 概要 ==
+PostScript は1985年にアップルコンピュータのプリンター、LaserWriterに採用された。モトローラ68000プロセッサと1.5メガバイトのRAM を搭載したこのプリンターは、プリンターでありながら当時のパーソナルコンピュータと同等の計算能力を持ち、それ自身が PostScript インタプリタを実行してページを生成した。同じ年、Linotype社により PostScript を採用したイメージセッタが発表された。
+
+当時はコンピューター・プリンター間の通信速度の遅さが印刷物の品質向上のネックになっていた。しかし、プリンター自身に高い計算能力を持たせて、プログラミング言語を実行するという大胆な発想により、一気に問題は解決された。PostScript 以前は伝統的な手法より品質が劣るとされてきた電子印刷が一気に商業印刷のレベルでも使われるようになり、今日当たり前のようになっている DTP が普及するきっかけとなった。
+
+後に印刷以外の用途でも使われ、ワークステーションである NeXT は描画エンジンとして Display PostScript を採用していた。
+
+今日ではパーソナルコンピュータの性能が上がると同時に、コンピュータ・プリンター間の接続速度が向上したため、個人レベルでパーソナルコンピュータに PostScript インタプリタを搭載し、生成されたイメージをプリンターに送るということも行われる。
+
+== 実装 ==
+ほとんどは、レーザープリンターに実装されている。「PSプリンター」と呼ばれ、Macintosh の標準プリンターであり、Microsoft Windows でも利用されることがあるが、アドビシステムズへのライセンス料が高額なためか、価格が数十万～百万円以上と一般のレーザープリンターに比べ高価で、専ら DTP 用途に限られている。
+
+ソフトウェアによる実装では、アドビシステムズからライセンスを受けたラスターイメージプロセッサ (RIP) がエプソンなどいくつかのメーカーから自社製プリンターのために販売されていたが、PSプリンターの価格低下もあり、あまり普及していない。なお互換フリーソフトウェアとして Ghostscript がある。
+
+== サンプルプログラム ==
+以下の内容を PostScript プリンターに送信すると、文字列「Hello World!」が印刷される。
+
+ /font /Courier findfont 24 scalefont def
+ font setfont
+ 100 100 moveto
+ (Hello World!) show
+ showpage
+
+
+以下の内容を PostScript プリンターに送信すると、長方形と文字列が印刷される。また、テキストファイルとして保存し、Adobe Illustrator などで開くこともできる。
+
+ %!
+ % macro (draw rectangle) ; usage: left top width height RRECT
+ /RRECT { newpath 4 copy pop pop moveto dup 0 exch rlineto exch 0 rlineto neg 0 exch rlineto closepath pop pop } def
+ 
+ 100 100 100 150 RRECT
+ .5 setgray
+ fill
+ 
+ 100 300 moveto
+ /Helvetica findfont
+ 12 scalefont
+ setfont
+ .5 0 .5 0 setcmykcolor
+ (test string) show
+ 
+ showpage
+
+
+== 参考文献 ==
+
+*
+*
+*
+
+== 関連項目 ==
+*Encapsulated PostScript (EPS)
+*Forth
+*Portable Document Format (PDF)
+*ラスターイメージプロセッサ
+*NeWS
+*PostScriptフォント
+*追伸 - 名称の語源
+*プログラミング言語
+*Scalable Vector Graphics (SVG) - 他のベクタ形式の画像フォーマット
+*Windows Metafile (WMF, EMF) - 他のベクタ形式の画像フォーマット
+
+== 外部リンク ==
+*[http://www.adobe.com/jp/print/postscript/ Adobe Printing Technologies -About PostScript 3]（アドビシステムズ）
+*[http://partners.adobe.com/public/developer/ps/index_specs.html Adobe PostScript language specifications]（アドビシステムズ, 英語）
+*[http://wwwnucl.ph.tsukuba.ac.jp/~inakura/ps/postscript.html How to Edit PostScript]（日本語）
+*[http://tutorial.jp/graph/ps/psman.pdf PostScript実習マニュアル] (PDF)
+
+
+
+Category:アドビシステムズ
+*

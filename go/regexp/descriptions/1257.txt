@@ -1,0 +1,129 @@
+description
+
+ ;previously  
+|left=ハフニウム
+|right=タングステン
+|above=Nb
+|below=Db
+|series=遷移金属
+|group=5
+|period=6
+|block=d
+|image name=Tantalum_single_crystal_and_1cm3_cube.jpg
+|appearance=銀灰色
+|atomic mass=180.94788
+|electron configuration=&#91;Xe&#93; 4f14 5d3 6s2
+|electrons per shell=2, 8, 18, 32, 11, 2
+|phase=固体
+|density gpcm3nrt=16.69
+|density gpcm3mp=15
+|melting point K=3290
+|melting point C=3017
+|melting point F=5463
+|boiling point K=5731
+|boiling point C=5458
+|boiling point F=9856
+|heat fusion=36.57
+|heat vaporization=732.8
+|heat capacity=25.36
+|vapor pressure 1=3297
+|vapor pressure 10=3597
+|vapor pressure 100=3957
+|vapor pressure 1 k=4395
+|vapor pressure 10 k=4939
+|vapor pressure 100 k=5634
+|vapor pressure comment=
+|crystal structure=body-centered cubic
+|japanese crystal structure=α-Ta: 体心立方構造β-Ta: 正方晶系
+|oxidation states='5', 4, 3, 2, -1（弱酸性酸化物）
+|electronegativity=1.5
+|number of ionization energies=2
+|1st ionization energy=761
+|2nd ionization energy=1500
+|atomic radius=146
+|covalent radius=170±8
+|magnetic ordering=常磁性[http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf Magnetic susceptibility of the elements and inorganic compounds], in Handbook of Chemistry and Physics 81st edition, CRC press.
+|electrical resistivity at 20=131 n
+|thermal conductivity=57.5
+|thermal expansion at 25=6.3
+|speed of sound rod at 20=3400
+|Young's modulus=186
+|Shear modulus=69
+|Bulk modulus=200
+|Poisson ratio=0.34
+|Mohs hardness=6.5
+|Vickers hardness=873
+|Brinell hardness=800
+|CAS number=7440-25-7
+|isotopes=
+
+
+
+
+
+
+
+
+|isotopes comment=
+}}
+'タンタル'（; ）は原子番号73の元素。元素記号は 'Ta'。
+
+== 概要 ==
+バナジウム族元素の一つ。灰色の金属（遷移金属）で、比重は16.65、融点は3027 （異なる実験値あり）、沸点は4100 （5534 という実験値もあり）。空気中で不動態となり耐食性がある。特にタンタルは耐酸性が強い。王水に不溶。硝酸とフッ化水素の混合溶液には可溶。展性、延性に富み加工しやすい。反射率が全金属中最も低いため、外見は純金属としては最も黒い。安定な原子価は+5価。絶対温度4.5 Kで超伝導転移を起こす。
+
+タンタル石（コルタン）((Fe,Mn)(Ta,Nb)2O6) から得られる。
+
+いわゆるレアメタルの一つであり、産業的にきわめて重要な物質である。近年、価格高騰が著しい。
+
+タンタルの化合物質である炭化タンタル (TaC) は、モース硬度約9 - 10と非常に硬く、融点が3985 で、全物質中最も融点が高い。導電性及び熱伝導性を持ち、化学的に安定である。
+
+== 用途 ==
+=== タンタルコンデンサ ===
+最もよく利用されるのは、コンデンサである。は他種のコンデンサに比べて小型で、漏れ電流が少ない上、安定度がよい。パソコンや携帯電話など、小さなエレクトロニクス製品には多数のタンタルコンデンサが使用されているが、高価なこと、故障モードがオープンでなくショートであるため逆接による破壊時などに大電流を流してしまい発火性もあること、そして何より産出地が限られ国際問題に関わるため、製品への利用は減少させる方向である。なお、前述の特性の良さなどから、電子部品の計測のためのサンプル実装などで部品として例示されていることがあるが、実用に供する回路での使用は故障モード関して十分に考慮すべきであり、そのままサンプルの仕様を流用してはいけない。
+
+=== フィラメント ===
+昔はフィラメントに使用されたが、タングステンに取って代わられた。
+
+=== インプラントや医療用途 ===
+また、タンタルは体液と反応しない人体に無害な金属であるため、人工骨や人工関節など整形外科向け医療材料としての他、手術用縫合糸、人工心臓の材料、あるいは歯のインプラント（フィクスチャー）の材料にも使われる。
+
+=== 宝飾品 ===
+ほか、宝飾品や高級時計に用いられることもある。
+
+== 歴史 ==
+1802年、スウェーデンのアンデルス・エーケベリが発見した。このときエーケベリが発見したのは性質がよく似ているニオブとの混合酸化物であったが、1846年にドイツのハインリヒ・ローゼが単体として分離した。名称はギリシャ神話のフリギアの王、タンタロスに因む。
+
+== タンタルの化合物 ==
+* 炭化タンタル (TaC)
+** 炭化タンタルハフニウム (TaxHf1-xCy)
+* タンタル酸リチウム (LiTaO3)
+* タンタル酸カリウム (KTaO3)
+
+== 同位体 ==
+
+天然のタンタルは、99.988%の181Taと0.012%の180m1Taで構成されている。このうちの180m1Taは、天然に存在する唯一の核異性体である。
+
+== 主な産出国 ==
+* オーストラリア
+* コンゴ民主共和国
+* カナダ
+* タイ王国
+* 中国
+
+== 関連項目 ==
+* APFSDS - 対戦車砲弾、装弾筒付翼安定徹甲弾とも訳される。運動エネルギーを利用して高速で大質量の金属をぶつける事で装甲を貫徹する砲弾。タンタルが最も弾体に適しているがコストがかさむため代わりに劣化ウランやタングステンが用いられている。
+* コルタン
+
+== 脚注 ==
+
+
+== 外部リンク ==
+* [http://www.nihs.go.jp/ICSC/icssj-c/icss1596c.html 国際化学物質安全性カード タンタル] - 国立医薬品食品衛生研究所
+
+
+
+
+
+
+
+*

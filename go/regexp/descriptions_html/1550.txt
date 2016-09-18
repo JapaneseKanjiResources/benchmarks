@@ -1,0 +1,143 @@
+description<br />
+<br />
+|開業年月日= 1<a href="http://localhost/keyword/893%E5%B9%B4">893年</a>（明治<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>）12月31日『歴史でめぐる鉄道全路線 国鉄・JR』25号 18頁<br />
+|廃止年月日=<br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面4線<br />
+|乗車人員 = 630<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗入路線数= 2<br />
+|所属路線1 = 紀勢本線<br />
+|前の駅1 = 徳和<br />
+|駅間A1 = 4.9<br />
+|駅間B1 = 3.9<br />
+|次の駅1 = 相可<br />
+|駅番号1 =<br />
+|キロ程1 = 42.5<br />
+|起点駅1 = 亀山<br />
+|所属路線2 = 参宮線<br />
+|隣の駅2 = self<br />
+|次の駅2 = (3.3km) 外城田►<br />
+|キロ程2 = 0.0<br />
+|起点駅2 = 多気<br />
+|乗換 =<br />
+|備考 = 駅長配置駅（管理駅）みどりの窓口 有<br />
+|備考全幅 = * 改称経歴 - 1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a> <a href="http://localhost/keyword/%E7%9B%B8%E5%8F%AF%E9%A7%85">相可駅</a>（初代）→相可口駅 - 1<a href="http://localhost/keyword/959%E5%B9%B4">959年</a> 相可口駅→<a href="http://localhost/keyword/%E5%A4%9A%E6%B0%97%E9%A7%85">多気駅</a>『歴史でめぐる鉄道全路線 国鉄・JR』25号 25頁<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E5%A4%9A%E6%B0%97%E9%A7%85">多気駅</a>&#39;（たきえき）は、三重県多気郡多気町多気にある、東海旅客鉄道（JR東海）・日本貨物鉄道（JR貨物）の駅である。<br />
+<br />
+== 乗り入れ路線 ==<br />
+当駅の所属線である紀勢本線『停車場変遷大事典 国鉄・JR編』JTB 1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a>から、参宮線が分岐する。交通の要衝として、特急「南紀」を含む全ての列車が停車する『歴史でめぐる鉄道全路線 国鉄・JR』25号 6頁。線路名称上は参宮線の起点駅であるが、紀勢本線松阪方面からの特急以外の列車については当駅から参宮線に直通するものが多く、運転系統上では紀勢本線新宮方面への普通列車の多くが当駅始発となっている。<br />
+<br />
+分岐駅においては、本線の方がまっすぐ伸びており、支線の方が大きく曲がる形で分岐するのが通常であるが、当駅は例外で、本線である紀勢本線のほうが大きく曲がっており、支線である参宮線のほうがまっすぐになっている(JR東海では岐阜駅や大府駅なども同様)。これは、亀山駅から参宮線の鳥羽方面が初めにあって、紀勢線の相可方面が後から建設されたという歴史的経緯による。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/893%E5%B9%B4">893年</a>（明治<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>）12月31日 - 参宮鉄道 津駅 - <a href="http://localhost/keyword/%E5%AE%AE%E5%B7%9D%E9%A7%85">宮川駅</a>間の開通時に&#39;<a href="http://localhost/keyword/%E7%9B%B8%E5%8F%AF%E9%A7%85">相可駅</a>&#39;（初代）として開業。<br />
+** 当時は現在でも多気町の中心的集落となっている相可への入口としての役割が強かったらしく、駅名が相可となっていた。<br />
+* 190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（明治40年）10月1日 - 参宮鉄道の国有化。<br />
+* 1<a href="http://localhost/keyword/909%E5%B9%B4">909年</a>（明治<a href="http://localhost/keyword/42%E5%B9%B4">42年</a>）10月12日 - 線路名称制定。参宮線所属駅となる。<br />
+* 1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>（大正<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）3月20日 - 紀勢東線が栃原駅まで開通。<a href="http://localhost/keyword/%E7%9B%B8%E5%8F%AF%E9%A7%85">相可駅</a>（2代目）開業により&#39;相可口駅&#39;に改称。<br />
+* 1<a href="http://localhost/keyword/959%E5%B9%B4">959年</a>（昭和<a href="http://localhost/keyword/34%E5%B9%B4">34年</a>）7月15日 - &#39;<a href="http://localhost/keyword/%E5%A4%9A%E6%B0%97%E9%A7%85">多気駅</a>&#39;に改称熊野市史編纂委員会 編（1983）：587ページ。同時に参宮線の当駅から亀山方と紀勢東線が紀勢本線に編入され、紀勢本線所属に変更。<br />
+* 1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>（昭和<a href="http://localhost/keyword/46%E5%B9%B4">46年</a>）11月 - この頃、ダイヘン三重事業所への専用線が運用開始。<br />
+* 1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>（昭和<a href="http://localhost/keyword/59%E5%B9%B4">59年</a>）2月1日 - 貨物取扱を廃止。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）<br />
+** 3月31日 - 貨物取扱を、変圧器などに限り再開。<br />
+** 4月1日 - 国鉄分割民営化により東海旅客鉄道（JR東海）・日本貨物鉄道（JR貨物）の駅となる『歴史でめぐる鉄道全路線 国鉄・JR』25号 21頁。<br />
+<br />
+== 駅構造 ==<br />
+<a href="http://localhost/keyword/%E5%A4%9A%E6%B0%97%E9%A7%85">多気駅</a>プラットホーム左から3・2・1番線<br />
+島式ホーム2面4線を有する地上駅である。駅舎とホームは跨線橋で連絡している。<br />
+<br />
+駅長・駅員配置駅（直営駅）である。管理駅として、紀勢本線で<a href="http://localhost/keyword/%E7%9B%B8%E5%8F%AF%E9%A7%85">相可駅</a> - 阿曽駅間の各駅、および参宮線の外城田駅を管理している。みどりの窓口が設置されているが、係員が駅構内の入換係員と兼務のため、窓口が閉鎖されている時間帯が一日数回ある。自動券売機の設置はなく、<a href="http://localhost/keyword/%E4%B9%97%E8%BB%8A%E5%88%B8">乗車券</a>類はすべて窓口のマルス端末での発行となる。自動改札機は設置されていない。<br />
+<br />
+駅構内に乗務員区所である伊勢運輸区がある。ホームにLED発車標が設置されている。<br />
+<br />
+=== のりば ===<br />
+<br />
+上りは2番線、下りは4番線を本線としているため、快速や特急は全てこのホームを使用する。副本線である1・3番線は始発列車の発車に使われることが多いが、例外もある。<br />
+<br />
+=== 貨物取扱・専用線 ===<br />
+当駅では、臨時車扱貨物のみを取り扱っており、定期貨物列車の設定がない。<br />
+<br />
+しかし、参宮線の東側に沿ってダイヘン三重事業所へ続く専用線があり、そこを発着する変圧器などを輸送する特大貨物輸送列車が年に数回ほど運行されることがある。<br />
+<br />
+;貨物取扱量<br />
+:各年版『三重県統計書』による。単位はt。表中、最高値を赤色で、最高値を記録した年度以降の最低値を青色で、最高値を記録した年度以前の最低値を緑色で表記している。<br />
+<br />
+<br />
+<br />
+== 利用状況 ==<br />
+「三重県統計書」によると、1日の平均乗車人員は以下の通りである。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+<a href="http://localhost/keyword/%E5%A4%9A%E6%B0%97%E9%A7%85">多気駅</a>の西側<br />
+<a href="http://localhost/keyword/%E5%A4%9A%E6%B0%97%E9%A7%85">多気駅</a>の東側<br />
+駅名のみならず、所在地も「多気郡多気町多気」となっており、一見すると多気町の中心であるかの印象を与えるが、役場をはじめとした町の中心的施設はほぼ全てが相可（隣駅の<a href="http://localhost/keyword/%E7%9B%B8%E5%8F%AF%E9%A7%85">相可駅</a>周辺）にある。そのためか当駅周辺には若干の市街地が広がっているものの、主要駅の割には目立った施設があるわけではない。<br />
+<br />
+松阪市、多気郡明和町との境界に近く、松阪市法田町、明和町岩内等が利用圏に入っている。<br />
+<br />
+* <a href="http://localhost/keyword/%E5%A4%9A%E6%B0%97%E9%A7%85">多気駅</a>前郵便局<br />
+* 多気郡農協相可支店多気ATMコーナー(平日のみ稼動)<br />
+* 松阪警察署多気警察官駐在所<br />
+* 櫛田川<br />
+* 神山一乗寺(一乗寺)<br />
+* ダイヘン三重事業所<br />
+* 国道42号<br />
+* 伊勢本街道<br />
+* ヤマザキショップフドノ店<br />
+<br />
+== バス路線 ==<br />
+* 多気町町営バス<br />
+** 幹線バス： 下河田、波多瀬公民館、大石<br />
+** 予約運行型小型バス（でん多）<br />
+*** 1系統（西相鹿瀬線） <a href="http://localhost/keyword/%E7%9B%B8%E5%8F%AF%E9%A7%85">相可駅</a><br />
+*** 2系統（西池上・下佐奈線） <a href="http://localhost/keyword/%E7%9B%B8%E5%8F%AF%E9%A7%85">相可駅</a><br />
+<br />
+== 隣の駅 ==<br />
+; 東海旅客鉄道<br />
+: 紀勢本線<br />
+:* 特急「南紀」停車駅<br />
+:: 快速「みえ」<br />
+::: 松阪駅 - &#39;<a href="http://localhost/keyword/%E5%A4%9A%E6%B0%97%E9%A7%85">多気駅</a>&#39; （- 参宮線 伊勢市方面）<br />
+:: 普通<br />
+::: 徳和駅 - &#39;<a href="http://localhost/keyword/%E5%A4%9A%E6%B0%97%E9%A7%85">多気駅</a>&#39; - <a href="http://localhost/keyword/%E7%9B%B8%E5%8F%AF%E9%A7%85">相可駅</a><br />
+: 参宮線<br />
+:: 快速「みえ」<br />
+::: ※参宮線内については列車により異なるため、列車記事を参照のこと。<br />
+:: 普通<br />
+::: （徳和駅 -） &#39;<a href="http://localhost/keyword/%E5%A4%9A%E6%B0%97%E9%A7%85">多気駅</a>&#39; - 外城田駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 参考文献 ==<br />
+* 熊野市史編纂委員会 編『熊野市史 中巻』熊野市、昭和<a href="http://localhost/keyword/58%E5%B9%B4">58年</a>3月31日、1377p.<br />
+* <br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+* 三重県道421号勢和兄国松阪線<br />
+* 三重県道529号多気停車場斎明線<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://railway.jr-central.co.jp/station-guide/tokai/taki/index.html JR東海 <a href="http://localhost/keyword/%E5%A4%9A%E6%B0%97%E9%A7%85">多気駅</a>]<br />
+* [http://watchizu.gsi.go.jp/ 国土地理院地図閲覧サービス] - [http://watchizu.gsi.go.jp/watchizu.aspx?latitude=34.516278&amp;longitude=136.571972 <a href="http://localhost/keyword/%E5%A4%9A%E6%B0%97%E9%A7%85">多気駅</a>周辺の1/25000地形図]<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:三重県の鉄道駅<br />
+き<br />
+Category:参宮鉄道<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:東海旅客鉄道の鉄道駅<br />
+Category:日本貨物鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/893%E5%B9%B4">893年</a>開業の鉄道駅<br />
+Category:紀勢本線<br />
+たきえき<br />

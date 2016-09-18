@@ -1,0 +1,60 @@
+description<br />
+ |<br />
+ 世紀=1 |<br />
+ 次世紀=2 |<br />
+<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=0 |<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=10 |<br />
+ <a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀=20 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=30 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=40 |<br />
+<br />
+ 3年前=20 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>前=21 |<br />
+ 1年前=22 |<br />
+ 年=23 |<br />
+ 1年後=24 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>後=25 |<br />
+ 3年後=26 |<br />
+}}<br />
+<br />
+<br />
+== 他の紀年法 ==<br />
+<br />
+* 干支 : 癸未<br />
+* 日本<br />
+** 垂仁天皇<a href="http://localhost/keyword/52%E5%B9%B4">52年</a><br />
+** 皇紀6<a href="http://localhost/keyword/83%E5%B9%B4">83年</a><br />
+*中国<br />
+** 新 : 地皇<a href="http://localhost/keyword/4%E5%B9%B4">4年</a><br />
+** 漢 : 更始元年<br />
+*** 隗囂 : 漢復元年<br />
+* 朝鮮<br />
+** 高句麗 : 大武神王<a href="http://localhost/keyword/6%E5%B9%B4">6年</a><br />
+** 新羅 : 南解王<a href="http://localhost/keyword/20%E5%B9%B4">20年</a><br />
+** 百済 : 温祚王<a href="http://localhost/keyword/41%E5%B9%B4">41年</a><br />
+** 檀紀2<a href="http://localhost/keyword/356%E5%B9%B4">356年</a><br />
+* 仏滅紀元 : <a href="http://localhost/keyword/566%E5%B9%B4">566年</a><br />
+* ユダヤ暦 : 3<a href="http://localhost/keyword/783%E5%B9%B4">783年</a> - 3<a href="http://localhost/keyword/784%E5%B9%B4">784年</a><br />
+<br />
+== できごと ==<br />
+=== ローマ帝国 ===<br />
+* ストラボンが「Geographica」を発刊。<br />
+*ローマ皇帝ティベリウスの後継者小ドルススが暗殺される。後にセイヤヌスの犯行と判明。<br />
+<br />
+=== 中国 ===<br />
+* 昆陽の戦いで劉秀（後の光武帝）軍が新軍に勝利。<br />
+* 10月 - 更始帝軍の攻撃により王莽が討たれ、新が滅亡。<br />
+<br />
+== 誕生 ==<br />
+* ガイウス・プリニウス・セクンドゥス（大プリニウス） - 古代ローマの博物学者、政治家、軍人（+ <a href="http://localhost/keyword/79%E5%B9%B4">79年</a>）<br />
+<br />
+== 死去 ==<br />
+* 9月14日 - 小ドルスス、第2代ローマ皇帝ティベリウスの息子（* <a href="http://localhost/keyword/%E7%B4%80%E5%85%83%E5%89%8D14%E5%B9%B4">紀元前14年</a>?）<br />
+* 10月6日 - 王莽、中国新の皇帝（* 紀元前<a href="http://localhost/keyword/45%E5%B9%B4">45年</a>）<br />
+* 劉縯 - 中国新代の武将、光武帝の兄。<br />
+* ユバ2世 - マウレタニア王（* 紀元前<a href="http://localhost/keyword/52%E5%B9%B4">52年</a>/紀元前<a href="http://localhost/keyword/50%E5%B9%B4">50年</a>）<br />
+<br />
+Category:<a href="http://localhost/keyword/23%E5%B9%B4">23年</a><br />
+<br />
+als:20er#23<br />

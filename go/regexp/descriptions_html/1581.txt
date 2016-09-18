@@ -1,0 +1,48 @@
+description<br />
+<br />
+| image_1 = Forints.jpg<br />
+| image_title_1 = 硬貨と紙幣<br />
+| iso_code = HUF<br />
+| issuing_authority = ハンガリー国立銀行<br />
+| issuing_authority_website = www.mnb.hu<br />
+| date_of_introduction = 1 August 1946<br />
+| date_of_introduction_source = 8.700/1946 (VII.29) Decree of the Prime Minister<br />
+| using_countries =  ハンガリー第二共和国 ハンガリー人民共和国 ハンガリー共和国 ハンガリー<br />
+| inflation_rate = 4,2%<br />
+| subunit_ratio_1 = 1/100<br />
+| subunit_name_1 = フィレール<br />
+| subunit_inline_note_1 = (現存しない)<br />
+| symbol = Ft<br />
+| plural = &#39;&#39;forintok&#39;&#39;（使用されていない）<br />
+| used_coins = 5, 10, 20, 50, 100, 200 <a href="http://localhost/keyword/%E3%83%95%E3%82%A9%E3%83%AA%E3%83%B3%E3%83%88">フォリント</a><br />
+| coin_article = ハンガリーの硬貨<br />
+| used_banknotes = 500, 1000, 2000, 5000, 10,000, 20,000 <a href="http://localhost/keyword/%E3%83%95%E3%82%A9%E3%83%AA%E3%83%B3%E3%83%88">フォリント</a><br />
+| banknote_article = ハンガリーの紙幣<br />
+| printer = Pénzjegynyomda Zrt. Budapest<br />
+| printer_website = <br />
+| mint = Hungarian Mint Ltd.<br />
+| mint_website = <br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E3%83%95%E3%82%A9%E3%83%AA%E3%83%B3%E3%83%88">フォリント</a>&#39; (forint [ˈforint]) は、ハンガリーの通貨単位。通貨記号は&#39;Ft&#39;、ISO 4217の通貨コードは&#39;HUF&#39;。forint は語頭も小文字で表記する。<br />
+<br />
+1<a href="http://localhost/keyword/%E3%83%95%E3%82%A9%E3%83%AA%E3%83%B3%E3%83%88">フォリント</a>は100フィレール (fillér [ˈfillːe̝ːr])。1<a href="http://localhost/keyword/945%E5%B9%B4">945年</a>から1<a href="http://localhost/keyword/946%E5%B9%B4">946年</a>にかけて、旧通貨であるペンゲー (pengő [ˈpeŋɡøː]) がハイパーインフレーションを起こした後、1<a href="http://localhost/keyword/946%E5%B9%B4">946年</a>8月1日から採用された。ハンガリーにおける略号はフォンリントが Ft、フィッレールが f。例えば、12<a href="http://localhost/keyword/%E3%83%95%E3%82%A9%E3%83%AA%E3%83%B3%E3%83%88">フォリント</a>34フィッレールは 12 forint 34 fillér、12 Ft 34 f、12,34 Ft のように表記する。ただし、フィッレールは19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>以降流通していない。現在は、株価・為替レートや単価などの、1<a href="http://localhost/keyword/%E3%83%95%E3%82%A9%E3%83%AA%E3%83%B3%E3%83%88">フォリント</a>未満の端数を表す目的にのみ使われる。<br />
+<br />
+ハンガリーはユーロ導入を目指しているが、大幅な財政赤字が削減できず20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>までという当初の目標は達成できなかった。<br />
+<br />
+20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>12月現在、1<a href="http://localhost/keyword/%E3%83%95%E3%82%A9%E3%83%AA%E3%83%B3%E3%83%88">フォリント</a>=約0.48円。<br />
+<br />
+== 関連項目 ==<br />
+* 為替<br />
+* 為替レート<br />
+* 現行通貨の一覧<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:通貨単位<br />
+Category:各国の通貨<br />
+Category:ヨーロッパの通貨<br />
+Category:ハンガリーの経済<br />

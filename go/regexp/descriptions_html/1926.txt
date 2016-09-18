@@ -1,0 +1,92 @@
+description<br />
+<br />
+|death_date = 1<a href="http://localhost/keyword/910%E5%B9%B4">910年</a>5月27日<br />
+|death_place =  バーデン バーデン＝バーデン<br />
+|death_cause = <br />
+|residence = <br />
+|citizenship = <br />
+|nationality = <br />
+|field = 微生物学<br />
+|workplaces = ベルリン大学<br />
+|alma_mater = ゲッティンゲン大学<br />
+|doctoral_advisor = ヤーコプ・ヘンレ<br />
+|academic_advisors = <br />
+|doctoral_students = <br />
+|notable_students = <br />
+|known_for = コッホの原則炭疽菌、結核菌、コレラ菌の発見<br />
+|influences = <br />
+|influenced = フリードリヒ・<a href="http://localhost/keyword/%E3%83%AC%E3%83%95%E3%83%A9%E3%83%BC">レフラー</a><br />
+|awards = ノーベル生理学・医学賞 （1<a href="http://localhost/keyword/905%E5%B9%B4">905年</a>）<br />
+|author_abbreviation_bot = <br />
+|author_abbreviation_zoo = <br />
+|signature = Robert Koch signature.svg<br />
+|signature_alt =<br />
+|footnotes =<br />
+}}<br />
+<br />
+<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E3%83%AD%E3%83%99%E3%83%AB%E3%83%88%E3%83%BB%E3%82%B3%E3%83%83%E3%83%9B">ロベルト・コッホ</a>&#39;、または&#39;ハインリヒ・ヘルマン・<a href="http://localhost/keyword/%E3%83%AD%E3%83%99%E3%83%AB%E3%83%88%E3%83%BB%E3%82%B3%E3%83%83%E3%83%9B">ロベルト・コッホ</a>&#39;（&#39;Heinrich Hermann Robert Koch&#39;、1<a href="http://localhost/keyword/843%E5%B9%B4">843年</a>12月11日 - 1<a href="http://localhost/keyword/910%E5%B9%B4">910年</a>5月27日）は、ドイツの医師、<a href="http://localhost/keyword/%E7%B4%B0%E8%8F%8C%E5%AD%A6">細菌学</a>者。ルイ・パスツールとともに、「&#39;近代<a href="http://localhost/keyword/%E7%B4%B0%E8%8F%8C%E5%AD%A6">細菌学</a>の開祖&#39;」とされる。<br />
+<br />
+== 概要 ==<br />
+炭疽菌、結核菌、コレラ菌の発見者である。純粋培養や染色の方法を改善し、細菌培養法の基礎を確立した。寒天培地やペトリ皿（シャーレ）は彼の研究室で発明され、その後今日に至るまで使い続けられている。<br />
+<br />
+また感染症の病原体を証明するための基本指針となるコッホの原則を提唱し、感染症研究の開祖として医学の発展に貢献した。<br />
+<br />
+== 経歴 ==<br />
+生家の様子<br />
+* 1<a href="http://localhost/keyword/843%E5%B9%B4">843年</a>、ヘルマン・コッホとヘンリエッテ・ビーヴェントの間にニーダーザクセン州の東南にある（ハルツ近郊、現在ツェラーフェルトと合併し）生まれ、ゲッティンゲン大学を卒業。<br />
+<br />
+* 1<a href="http://localhost/keyword/876%E5%B9%B4">876年</a>、炭疽菌の純粋培養に成功し、炭疽の病原体であることを証明した。このことによって細菌が動物の病原体であることを証明し、その証明指針であるコッホの原則を提唱した。<br />
+* 1<a href="http://localhost/keyword/882%E5%B9%B4">882年</a>3月24日、結核菌を発見した。ヒトにおいて炭疽菌と同様に病原性の証明を行って、論文『結核の病因論』を著わし、ヒトにおいても細菌が病原体であることを証明した（後にこれを記念して、3月24日は世界結核デーと制定された）。<br />
+* 1<a href="http://localhost/keyword/883%E5%B9%B4">883年</a>、インドにおいて、コレラ菌を発見。<br />
+* 1<a href="http://localhost/keyword/890%E5%B9%B4">890年</a>、結核菌の培養上清からツベルクリン（結核菌ワクチン）を創製。当初は治療用に使用することが目的だったが、効果がなかったため、現在では診断用のみに用いられている。<br />
+* 1<a href="http://localhost/keyword/893%E5%B9%B4">893年</a>、妻エミーと離婚、30歳年下のヘドヴィグ・フライブルクと結婚。<br />
+* 1<a href="http://localhost/keyword/897%E5%B9%B4">897年</a>、王立協会外国人会員。<br />
+* 1<a href="http://localhost/keyword/905%E5%B9%B4">905年</a>、結核に関する研究の業績よりノーベル生理学・医学賞を受賞。<br />
+<br />
+ベルリン大学で教鞭をとり、彼の弟子として、<br />
+:* ゲオルク・ガフキー - 腸チフス菌を発見した。<br />
+:* フリードリヒ・<a href="http://localhost/keyword/%E3%83%AC%E3%83%95%E3%83%A9%E3%83%BC">レフラー</a> - ジフテリア菌の分離に成功し、口蹄疫ウイルスを発見した。<br />
+:* エミール・ベーリング - 血清療法の研究により1<a href="http://localhost/keyword/901%E5%B9%B4">901年</a>ノーベル生理学・医学賞を受賞した。<br />
+:* パウル・エールリヒ - 化学療法の研究により1<a href="http://localhost/keyword/908%E5%B9%B4">908年</a>ノーベル生理学・医学賞を受賞した。<br />
+:* 北里柴三郎 - 破傷風菌を純粋培養し、ペスト菌を発見した。<br />
+などを輩出した。<br />
+<br />
+* 1<a href="http://localhost/keyword/908%E5%B9%B4">908年</a>、北里に招かれ来日。<br />
+* 1<a href="http://localhost/keyword/910%E5%B9%B4">910年</a>、ドイツ南西部のバーデン＝バーデンで逝去。<br />
+<br />
+== 関連事項 ==<br />
+* ベルリンには彼の名を冠した<a href="http://localhost/keyword/%E3%83%AD%E3%83%99%E3%83%AB%E3%83%88%E3%83%BB%E3%82%B3%E3%83%83%E3%83%9B">ロベルト・コッホ</a>細菌研究所がある。<br />
+* 医学の基礎研究に貢献した研究者に授与される<a href="http://localhost/keyword/%E3%83%AD%E3%83%99%E3%83%AB%E3%83%88%E3%83%BB%E3%82%B3%E3%83%83%E3%83%9B">ロベルト・コッホ</a>賞が創設されている。<br />
+* 北里研究所には北里柴三郎によってコッホ祠が建立された。北里の死後はその弟子により北里祠も建てられ、後に合祀されてコッホ・北里神社となっている。<br />
+* ドイツでパウル・エールリヒと梅毒の最初の特効薬サルヴァルサンを開発していた秦 佐八郎は日本へ帰国前、臨終に立ち会った。<br />
+<br />
+== 関連書籍 ==<br />
+* メチニコフ『近代医学の建設者 パストゥール,リスター,コッホ』宮村定男訳、岩波新書、1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a><br />
+* 宮本忍『ローベルト・コッホ』新教育事業協会、1<a href="http://localhost/keyword/950%E5%B9%B4">950年</a><br />
+* 高野六郎『ローベルト・コッホ』主婦之友社、1<a href="http://localhost/keyword/951%E5%B9%B4">951年</a>、文化を築いた人々<br />
+* トーマス・D.ブロック『ローベルト・コッホ 医学の原野を切り拓いた忍耐と信念の人』長木大三,添川正夫訳、シュプリンガー・フェアラーク東京、1<a href="http://localhost/keyword/991%E5%B9%B4">991年</a><br />
+<br />
+== 関連項目 ==<br />
+*コッホの原則<br />
+*ルイ・パスツール<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.kitasato.ac.jp/new_event/n20080527.html <a href="http://localhost/keyword/%E3%83%AD%E3%83%99%E3%83%AB%E3%83%88%E3%83%BB%E3%82%B3%E3%83%83%E3%83%9B">ロベルト・コッホ</a>に献花]<br />
+* [http://ir.nul.nagoya-u.ac.jp/jspui/bitstream/2237/8366/1/12-1.pdf　肺病・コッホ・鴎外-結核の比較文化史]福田眞人、名古屋大学、1990<br />
+<br />
+<br />
+<br />
+<br />
+Category:ドイツの<a href="http://localhost/keyword/%E7%B4%B0%E8%8F%8C%E5%AD%A6">細菌学</a>者<br />
+Category:ドイツの医師<br />
+Category:ドイツのノーベル賞受賞者<br />
+Category:ノーベル生理学・医学賞受賞者<br />
+Category:19世紀の自然科学者<br />
+Category:王立協会<br />
+Category:フンボルト大学ベルリンの教員<br />
+Category:<a href="http://localhost/keyword/%E3%83%AD%E3%83%99%E3%83%AB%E3%83%88%E3%83%BB%E3%82%B3%E3%83%83%E3%83%9B">ロベルト・コッホ</a>研究所の人物<br />
+Category:訪日外国人<br />
+Category:1<a href="http://localhost/keyword/843%E5%B9%B4">843年</a>生<br />
+Category:1<a href="http://localhost/keyword/910%E5%B9%B4">910年</a>没<br />

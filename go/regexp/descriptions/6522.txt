@@ -1,0 +1,9 @@
+description
+'MUC'
+
+#ミュンヘンを表すIATA都市コード
+#ミュンヘン国際空港を表すIATA空港コード
+#上島珈琲貿易株式会社の略称
+#情報抽出の評価型プロジェクトMessage Understanding Conference
+
+

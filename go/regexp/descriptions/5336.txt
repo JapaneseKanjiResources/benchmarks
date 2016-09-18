@@ -1,0 +1,38 @@
+description
+
+
+|-----
+! bgcolor="pink" | 部位
+|-----
+|
+
+|-----
+| align="center" bgcolor="pink" | ラテン名
+|-----
+| align="center" | m. sternohyoideus
+|-----
+| align="center" bgcolor="pink" | 英名
+|-----
+| align="center" | sternohyoid muscle
+|}
+'胸骨舌骨筋'（きょうこつぜっこつきん）は頚部の筋肉のうち、舌骨の体部下縁から頚正中部を上下に走る筋肉である。舌骨を下方に引く作用を持つ。
+
+胸骨舌骨筋の起始は胸骨柄、胸鎖関節、第一肋軟骨後面から起こり、舌骨の体部下縁に停止する。
+
+
+== 参考文献 ==  
+
+
+== 関連項目 ==
+
+* 首
+* 解剖学／口腔解剖学／人間の筋肉の一覧
+
+== 外部リンク == 
+
+
+
+
+
+
+Category:頭頸部の筋肉

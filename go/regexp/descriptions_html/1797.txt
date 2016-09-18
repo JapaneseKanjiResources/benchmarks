@@ -1,0 +1,114 @@
+description<br />
+津軽線<br />
+|キロ程 = 27.0<br />
+|起点駅 = 青森<br />
+|所在地 = 青森県東津軽郡<a href="http://localhost/keyword/%E5%A4%96%E3%83%B6%E6%B5%9C%E7%94%BA">外ヶ浜町</a>字上蟹田55<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面3線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/951%E5%B9%B4">951年</a>（昭和<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>）12月5日<br />
+|廃止年月日 = <br />
+|乗車人員 = 209<br />
+|乗降人員 = <br />
+|統計年度 = 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a><br />
+|乗換 = <br />
+|備考 = 直営駅（管理駅）みどりの窓口 有<br />
+}}<br />
+リニューアル前の駅舎（200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）<br />
+『津軽』のボード<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E8%9F%B9%E7%94%B0%E9%A7%85">蟹田駅</a>&#39;（かにたえき）は、青森県東津軽郡<a href="http://localhost/keyword/%E5%A4%96%E3%83%B6%E6%B5%9C%E7%94%BA">外ヶ浜町</a>字上蟹田にある、東日本旅客鉄道（JR東日本）津軽線の駅である。<br />
+<br />
+== 概要 ==<br />
+当駅は津軽線の単独駅であり、津軽線と北海道旅客鉄道（JR北海道）海峡線の分岐駅は隣の中小国駅である。しかし、海峡線を経由する<a href="http://localhost/keyword/%E6%97%85%E5%AE%A2%E5%88%97%E8%BB%8A">旅客列車</a>は当初から中小国駅を通過していたため、特急「白鳥」・「スーパー白鳥」が全て停車する当駅が実質的な分岐駅となっていた。このため、当駅でJR東日本とJR北海道の乗務員の交代が行われており、寝台特急も一時期は当駅で車掌の交代が行われていた（その後は青森駅で行われるようになった）。また、貨物列車も行き違いのため、当駅に運転停車する事がある。だが、20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>（平成2<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）3月26日の<a href="http://localhost/keyword/%E5%8C%97%E6%B5%B7%E9%81%93%E6%96%B0%E5%B9%B9%E7%B7%9A">北海道新幹線</a>開業に伴い、青函トンネルを経由する定期<a href="http://localhost/keyword/%E6%97%85%E5%AE%A2%E5%88%97%E8%BB%8A">旅客列車</a>は、在来線の海峡線からすべて<a href="http://localhost/keyword/%E5%8C%97%E6%B5%B7%E9%81%93%E6%96%B0%E5%B9%B9%E7%B7%9A">北海道新幹線</a>に移行するため、当駅には乗り入れなくなった。<br />
+<br />
+200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>（平成<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）12月1日のダイヤ改正で快速「海峡」が廃止され、以降20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>3月の在来線定期<a href="http://localhost/keyword/%E6%97%85%E5%AE%A2%E5%88%97%E8%BB%8A">旅客列車</a>の設定終了に至るまで海峡線（津軽海峡線）を通過する普通列車は設定されなかった。このため、当駅 - 木古内駅間の各駅で特急「白鳥」・「スーパー白鳥」の普通車自由席に乗車する場合は、特急料金が不要となる特例が設けられていた。また、海峡線方面と津軽線三厩方面乗り換え相互の（大平駅 - 三厩駅間で乗降する）場合、運賃は当駅改札を出ない限り中小国駅乗り換えで計算する区間外乗車の特例がそれぞれ設けられていた20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>8月10日に津軽今別駅（JR北海道管内）が全列車通過扱いとなるまでは、連絡通路で結ばれていた津軽二股駅（JR東日本管内）との間で、海峡線木古内・函館方面と津軽線三厩方面の相互乗り換えが可能だった。ただし、正式な乗り換え駅とはされていなかったうえ、津軽二股駅には普通列車が1日5往復停車するのに対し、津軽今別駅には特急「白鳥」が1日2往復停車したのみであった為、接続の便は良くなかった。。これらの理由から、北海道側の木古内駅同様、「青春18きっぷ」利用者の当駅での乗り換えが多かった。20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>（平成2<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）3月26日の<a href="http://localhost/keyword/%E5%8C%97%E6%B5%B7%E9%81%93%E6%96%B0%E5%B9%B9%E7%B7%9A">北海道新幹線</a>開業後、「青春18きっぷ」にて北海道方面へ行く場合は、奥津軽いまべつ駅(在来線は津軽二股駅)が乗り換え駅となるただし、<a href="http://localhost/keyword/%E5%8C%97%E6%B5%B7%E9%81%93%E6%96%B0%E5%B9%B9%E7%B7%9A">北海道新幹線</a>に乗車する場合は、別途「青春18きっぷ<a href="http://localhost/keyword/%E5%8C%97%E6%B5%B7%E9%81%93%E6%96%B0%E5%B9%B9%E7%B7%9A">北海道新幹線</a>オプション券(2300円・小児同額)」を購入しなければならない。また、20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>3月26日のダイヤ改正でも、三厩方面は5往復のみの運行となるため、津軽二股駅・新幹線奥津軽いまべつ駅で新幹線に乗り換える場合も接続は良<a href="http://localhost/keyword/%E3%81%8F%E3%81%AA%E3%81%84">くない</a>。。<br />
+<br />
+津軽線の普通列車は朝夕の一部列車を除き当駅にて運転系統が分断されており（当駅発青森行は電車、三厩行は気動車）、三厩方面へは当駅にて乗り換えとなる。<br />
+<br />
+津軽線（青森駅 - 中小国駅間）と海峡線（中小国駅 - 木古内駅間）と江差線（木古内駅 - 五稜郭駅間）と函館本線（五稜郭駅 - 函館駅間）は旅客案内上「津軽海峡線」という愛称が使用され、在来線定期<a href="http://localhost/keyword/%E6%97%85%E5%AE%A2%E5%88%97%E8%BB%8A">旅客列車</a>の設定終了に至るまで「海峡線」とは案内されることはなかった。一方、津軽線の当駅と青森駅以外の駅に海峡線を経由する列車は止まらないため、中小国駅を含めて。<br />
+<br />
+<br />
+<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/951%E5%B9%B4">951年</a>（昭和<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>）12月5日：日本国有鉄道（国鉄）津軽線の駅として開業。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日：国鉄分割民営化により、東日本旅客鉄道（JR東日本）の駅となる。<br />
+* 19<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>（昭和<a href="http://localhost/keyword/63%E5%B9%B4">63年</a>）3月13日：北海道旅客鉄道（JR北海道）海峡線（津軽海峡線）開業。北海道直通列車となる特急「はつかり」、快速「海峡」などが停車。<br />
+* 200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>（平成<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）12月1日：快速「海峡」が廃止され、津軽海峡線の当駅 - 木古内駅間を通過する普通列車が消滅（前述）。<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）3月18日：キヨスク閉店。<br />
+* 20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>（平成<a href="http://localhost/keyword/22%E5%B9%B4">22年</a>）12月4日：すべての特急「白鳥」・「スーパー白鳥」が停車するようになる。<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）5月12日：トゲクリガニの「津軽蟹夫」が観光駅長に就任[http://www.47news.jp/news/2012/05/post_20120514160619.html JR津軽線<a href="http://localhost/keyword/%E8%9F%B9%E7%94%B0%E9%A7%85">蟹田駅</a>に「カニ駅長」お目見え] - 47NEWS（東奥日報から配信）、20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>5月14日[http://www.toonippo.co.jp/junijuni/pickup/20120710141403.asp はじめまして <a href="http://localhost/keyword/%E8%9F%B9%E7%94%B0%E9%A7%85">蟹田駅</a>のカニスマ駅長です] - 東奥小中学生新聞／週刊JuniJuni「ピックアップニュース」、20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>7月10日同年10月からはこの観光駅長にちなみ、津軽線に運転される臨時快速「リゾートあすなろ津軽」も「リゾートあすなろ津軽蟹夫」に改称されている。。<br />
+* 20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>（平成2<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）<br />
+** 3月21日：この日を最後に津軽海峡線の在来線定期<a href="http://localhost/keyword/%E6%97%85%E5%AE%A2%E5%88%97%E8%BB%8A">旅客列車</a>の運行を終了。<br />
+** 3月26日：早朝夜間駅員不在となり、窓口営業時間を短縮。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線と島式ホーム1面2線、合計2面3線を有する地上駅。互いのホームは跨線橋で連絡している。ホームの有効長は8両。このほか留置線が1線あり、青森方へ一旦引き上げてから入る形となっている。<br />
+<br />
+直営駅で管理駅でもあり、中沢駅 - 津軽二股駅間の各駅を管理している。<br />
+<br />
+駅舎は木造平屋建てで、みどりの窓口（営業時間：7時00分 - 19時00分）、自動券売機と駅スタンプも設置されている。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+== 利用状況 ==<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+駅前通りの県道238号蟹田停車場線<br />
+* 国道280号<br />
+* <a href="http://localhost/keyword/%E5%A4%96%E3%83%B6%E6%B5%9C%E7%94%BA">外ヶ浜町</a>役場（旧・蟹田町役場）<br />
+* 外ヶ浜警察署<br />
+* 蟹田郵便局<br />
+* 青森銀行蟹田支店<br />
+* 青森<a href="http://localhost/keyword/%E8%BE%B2%E6%A5%AD%E5%8D%94%E5%90%8C%E7%B5%84%E5%90%88">農業協同組合</a>蟹田支店<br />
+* 青森県信用漁業協同組合連合会蟹田支店<br />
+* 外ヶ浜漁業協同組合蟹田支所<br />
+* 蟹田港<br />
+* 蟹田川<br />
+* 青森県道238号蟹田停車場線<br />
+* <a href="http://localhost/keyword/%E5%A4%96%E3%83%B6%E6%B5%9C%E7%94%BA">外ヶ浜町</a>立蟹田中学校<br />
+* 外ヶ浜鉄道建設所：200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>7月9日 - 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>度 <a href="http://localhost/keyword/%E5%8C%97%E6%B5%B7%E9%81%93%E6%96%B0%E5%B9%B9%E7%B7%9A">北海道新幹線</a>の本州側建設拠点<br />
+* <a href="http://localhost/keyword/%E8%9F%B9%E7%94%B0%E9%A7%85">蟹田駅</a>前市場「ウェル蟹」<br />
+<br />
+== バス ==<br />
+* <a href="http://localhost/keyword/%E5%A4%96%E3%83%B6%E6%B5%9C%E7%94%BA">外ヶ浜町</a>循環バス<br />
+** 宇田（旧・平舘村）方面<br />
+** 今別町二股経由三厩（旧・三厩村）方面（外ヶ浜中央病院診療日のみ運行）<br />
+<br />
+== その他 ==<br />
+* 2・3番線には海峡線開通を記念して、太宰治の『津軽』の一節を刻んだボードが立てられている。<br />
+* 駅西口には無料駐車場があり、<a href="http://localhost/keyword/%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%83%B3%E3%83%89%E3%83%A9%E3%82%A4%E3%83%89">パークアンドライド</a>利用者も居る。<br />
+<br />
+== 隣の駅 ==<br />
+&#39;※臨時快速「リゾートあすなろ津軽蟹夫」・「リゾートあすなろ竜飛」の隣の停車駅は各列車記事を参照。&#39;<br />
+; 東日本旅客鉄道（JR東日本）<br />
+: 津軽線<br />
+:: 瀬辺地駅 - &#39;<a href="http://localhost/keyword/%E8%9F%B9%E7%94%B0%E9%A7%85">蟹田駅</a>&#39; - 中小国駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+=== 注釈 ===<br />
+<br />
+=== 出典 ===<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=467 各駅情報（<a href="http://localhost/keyword/%E8%9F%B9%E7%94%B0%E9%A7%85">蟹田駅</a>）] - 東日本旅客鉄道<br />
+<br />
+<br />
+<br />
+<br />
+Category:青森県の鉄道駅<br />
+にた<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+かにたえき<br />
+かにたえき<br />
+Category:1<a href="http://localhost/keyword/951%E5%B9%B4">951年</a>開業の鉄道駅<br />

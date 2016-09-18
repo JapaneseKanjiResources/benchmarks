@@ -1,0 +1,119 @@
+description<br />
+ 芸備線<br />
+|キロ程    = 18.8km（備中神代起点）新見から25.2<br />
+|起点駅    = <br />
+|所在地    = 広島県庄原市<a href="http://localhost/keyword/%E6%9D%B1%E5%9F%8E%E7%94%BA">東城町</a>川東160-3<br />
+|緯度度=34|緯度分=54|緯度秒=5.68<br />
+|経度度=133|経度分=16|経度秒=25.71<br />
+|駅構造    = 地上駅<br />
+|ホーム    = 1面1線<br />
+|開業年月日= 1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>（昭和<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）11月25日<br />
+|廃止年月日= <br />
+|乗車人員  = 9<br />
+|乗降人員  = <br />
+|統計年度  = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗入路線数= <br />
+|乗換      = <br />
+|備考      = 簡易委託駅<br />
+|備考全幅 = <br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E6%9D%B1%E5%9F%8E%E9%A7%85">東城駅</a>&#39;（とうじょうえき）は、広島県庄原市<a href="http://localhost/keyword/%E6%9D%B1%E5%9F%8E%E7%94%BA">東城町</a>川東にある、西日本旅客鉄道（JR西日本）芸備線の駅である。<br />
+<br />
+== 概要 ==<br />
+野馳駅との間に岡山県と広島県との県境が走り、旅客流動も当駅を境に分かれている。新見駅発の芸備線のうち、半分は当駅で折り返す。当駅から備後落合方面へ向かう列車は1日に3往復のみであり（いずれも新見駅からの直通）、全国でも有数の閑散路線となっている。<br />
+<br />
+鉄道よりも駅前にあるバス停から発着するバスの発着の方が賑やかで、広島方面へ向かう高速バス（後述）は1日6往復（ほかに庄原発1本、三次行き1本）運行されているほか、1日10往復の福山行き路線バスや、庄原市東城地区内を走る路線バスも運行されている。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>（昭和<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）11月25日 - 国有鉄道三神線（当時）が矢神駅から延伸し、その終着駅として開業。<br />
+* 1<a href="http://localhost/keyword/935%E5%B9%B4">935年</a>（昭和<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>）6月15日 - 三神線が小奴可駅まで延伸し、途中駅となる。<br />
+* 1<a href="http://localhost/keyword/937%E5%B9%B4">937年</a>（昭和<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）7月1日 - 三神線が芸備線の一部となり、当駅もその所属となる。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、西日本旅客鉄道の駅となる。<br />
+* 2001年（平成<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）3月3日 - 駅員配置を廃止、簡易委託駅になる。<br />
+* 200x年 - 旧上りホーム（1番線）の使用を廃止。これにより、新見 - 備後落合の区間では、矢神駅より西側での行き違いはできなくなった。<br />
+<br />
+== 駅構造 ==<br />
+構内（200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>10月3日）<br />
+地上駅。元々は相対式ホーム2面2線を有する駅であり、駅舎側のホームが2番線、向かい側のホームが1番線と、一般的な付け方とは逆に番線番号が付けられていたが、旧1番線への跨線橋は老朽化に伴い使用できなくなっており、立ち入ることができない。そのため現在は単式ホーム1面1線のみで運用され、備後落合方面・新見方面とも2番線に停車する。ただし、使われなくなった1番線は現在も場内・出発信号機が残っているため上り本線として扱われており、上り列車は下り本線（2番線）に逆線停車する扱いとなっている。なお、夜間時間帯には1本列車が留置される。<br />
+<br />
+新見駅管理の簡易委託駅であり、窓口では朝から日中にかけて（休日は朝のみ）、携帯車発機による<a href="http://localhost/keyword/%E4%B9%97%E8%BB%8A%E5%88%B8">乗車券</a>を販売している。<br />
+<br />
+急行列車が運転されていた時期は、急行列車も停車しており、ホームには1<a href="http://localhost/keyword/972%E5%B9%B4">972年</a>（昭和<a href="http://localhost/keyword/47%E5%B9%B4">47年</a>）から19<a href="http://localhost/keyword/80%E5%B9%B4">80年</a>（昭和<a href="http://localhost/keyword/55%E5%B9%B4">55年</a>）まで運行された急行「やまのゆ」の号車案内がいまだに残っている。<br />
+<br />
+== 利用状況 ==<br />
+1日平均の乗車人員は以下の通りである。<br />
+* 76人（19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>度）<br />
+* 68人（2000年度）<br />
+* 43人（2001年度）<br />
+* 30人（200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>度）<br />
+* 32人（2003年度）<br />
+* 33人（200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>度）<br />
+* 28人（200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>度）<br />
+* 17人（200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>度）<br />
+* 16人（200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>度）<br />
+* 14人（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>度）<br />
+* 12人（200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>度）<br />
+* 11人（20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>度）<br />
+* 11人（20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>度）<br />
+* 12人（20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>度）<br />
+* 12人（20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>度）<br />
+* 9人（20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度）<br />
+<br />
+== 駅周辺 ==<br />
+* 広島県道238号東城停車場線<br />
+* 広島県立東城高等学校<br />
+* 国道182号<br />
+* 国道314号<br />
+* 庄原市役所 東城支所<br />
+* 庄原警察署 東城交番<br />
+* 庄原市立東城小学校<br />
+* 中国自動車道東城インターチェンジ<br />
+* フレスタ東城店<br />
+<br />
+== バス路線 ==<br />
+バスのりばは駅前にあり、それを示すポールが立っている（冒頭画像参照）。なお、<a href="http://localhost/keyword/%E4%B9%97%E8%BB%8A%E5%88%B8">乗車券</a>・PASPYは駅で販売している。<br />
+<br />
+=== 高速バス ===<br />
+* 広島 - 三次 - 庄原 - 東城線<br />
+** 広島駅前・広島バスセンター⇔<a href="http://localhost/keyword/%E6%9D%B1%E5%9F%8E%E9%A7%85">東城駅</a>前<br />
+<br />
+=== 路線バス ===<br />
+* 備北交通<br />
+** 中国バス担当便を除く東城発着路線<br />
+** 東城市街地循環バス<br />
+** 東城地域生活バス（一部）<br />
+** <a href="http://localhost/keyword/%E6%9D%B1%E5%9F%8E%E9%A7%85">東城駅</a>前⇔帝釈(一般道経由)⇔庄原日赤病院前⇔庄原バスセンター<br />
+* 中国バス<br />
+** 東廻り油木・東城線　 福山駅前⇔油木車庫⇔<a href="http://localhost/keyword/%E6%9D%B1%E5%9F%8E%E9%A7%85">東城駅</a>前　 （便数は平日・土曜4往復、休日2往復のみとなっている）<br />
+** 西廻り東城線　 福山駅前⇔新市駅前⇔呉ヶ峠⇔<a href="http://localhost/keyword/%E6%9D%B1%E5%9F%8E%E9%A7%85">東城駅</a>前　 （便数は1往復のみとなっている）<br />
+** 東城地域生活バス（一部）<br />
+なお、備北交通・中国バスともPASPYを使用できる。<br />
+<br />
+== 隣の駅 ==<br />
+; 西日本旅客鉄道<br />
+:  芸備線}}に従い路線記号・ラインカラーを表記しているが、実際の駅構内の主だった旅客案内には、20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>3月のダイヤ改正の段階では反映されていない。}}<br />
+:: 快速（早朝下り1本のみ運転、当駅から備後八幡方の各駅に停車）<br />
+::: 矢神駅 → &#39;<a href="http://localhost/keyword/%E6%9D%B1%E5%9F%8E%E9%A7%85">東城駅</a>&#39; → 備後八幡駅<br />
+:: 普通<br />
+::: 野馳駅 - &#39;<a href="http://localhost/keyword/%E6%9D%B1%E5%9F%8E%E9%A7%85">東城駅</a>&#39; - 備後八幡駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jr-odekake.net/eki/top.php?id=0650505 <a href="http://localhost/keyword/%E6%9D%B1%E5%9F%8E%E9%A7%85">東城駅</a>（JR西日本）]<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:庄原市の鉄道駅<br />
+うしよう<br />
+Category:西日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>開業の鉄道駅<br />

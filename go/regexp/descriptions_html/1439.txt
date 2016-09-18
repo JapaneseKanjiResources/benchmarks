@@ -1,0 +1,167 @@
+description<br />
+<br />
+|所在地   = 山口県<br />
+|起点     = 岩国駅<br />
+|終点     = <a href="http://localhost/keyword/%E6%AB%9B%E3%82%B1%E6%B5%9C%E9%A7%85">櫛ケ浜駅</a><br />
+|駅数     = 15駅<br />
+|開業     = 1<a href="http://localhost/keyword/929%E5%B9%B4">929年</a>4月5日（初開業）1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>12月1日（全通）<br />
+|廃止     = <br />
+|所有者   = 25px西日本旅客鉄道<br />
+|運営者   = 25px西日本旅客鉄道<br />
+|使用車両 = キハ40形・キハ47形気動車<br />
+|路線距離 = 43.7 km<br />
+|軌間     = 1,067 mm<br />
+|線路数   = 単線<br />
+|電化方式 = 非電化<br />
+|最高速度 = 95 km/h<br />
+|路線図   = <br />
+}}<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+|bottom=<br />
+----<br />
+<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E5%B2%A9%E5%BE%B3%E7%B7%9A">岩徳線</a>&#39;（がんとくせん）は、山口県岩国市の岩国駅から周防高森駅を経て、山口県周南市の<a href="http://localhost/keyword/%E6%AB%9B%E3%82%B1%E6%B5%9C%E9%A7%85">櫛ケ浜駅</a>（列車運行上は同市の徳山駅）に至る西日本旅客鉄道（JR西日本）の鉄道路線（地方交通線）である。<br />
+<br />
+== 概要 ==<br />
+全線非電化、単線の路線だが、元来は山陽本線の短絡線として計画され旧山陽道に沿うルートで建設された歴史的経緯があり、やや急な勾配と長いトンネル区間を有する。<br />
+<br />
+全区間を広島支社の徳山地域鉄道部が管轄している。路線図 - JRおでかけネット、20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>3月28日閲覧や駅掲示時刻表のシンボルで使用されているラインカラーは青緑（）。<br />
+<br />
+山陽本線の岩国駅 - <a href="http://localhost/keyword/%E6%AB%9B%E3%82%B1%E6%B5%9C%E9%A7%85">櫛ケ浜駅</a>間、山陽新幹線の新岩国駅 - 徳山駅間は経路特定区間に指定されており、この区間を通過する場合の運賃・料金は<a href="http://localhost/keyword/%E5%B2%A9%E5%BE%B3%E7%B7%9A">岩徳線</a>経由の営業キロおよび対応する運賃計算キロで計算する。<br />
+<br />
+=== 路線データ ===<br />
+* 管轄（事業種別）：西日本旅客鉄道（第一種鉄道事業者）<br />
+* 区間（営業キロ）：岩国駅 - 高水駅 - <a href="http://localhost/keyword/%E6%AB%9B%E3%82%B1%E6%B5%9C%E9%A7%85">櫛ケ浜駅</a> 43.7km<br />
+** 川西駅 - 森ヶ原信号場間 (1.9km) は、錦川鉄道錦川清流線と重複<br />
+* 軌間：1067mm<br />
+* 規格：甲線<br />
+* 駅数：15（起終点駅含む。ほかに信号場1）<br />
+** <a href="http://localhost/keyword/%E5%B2%A9%E5%BE%B3%E7%B7%9A">岩徳線</a>所属駅に限定した場合、山陽本線の所属である岩国駅と<a href="http://localhost/keyword/%E6%AB%9B%E3%82%B1%E6%B5%9C%E9%A7%85">櫛ケ浜駅</a>『停車場変遷大事典 国鉄・JR編』JTB、1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a>。ISBN 978-4-533-02980-6。が除外され、13駅となる。<br />
+* 複線区間：なし（全線単線）<br />
+* 電化区間：なし（全線非電化）<br />
+* 閉塞方式：自動閉塞式<br />
+* 最高速度：95km/h<br />
+* 運転指令所：広島総合指令所<br />
+* 平均通過人員（20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>度）：1347人/日 - 西日本旅客鉄道<br />
+<br />
+== 運行形態 ==<br />
+各駅に停車する普通列車のみで快速列車は設定されていない。徳山駅 - 岩国駅間の列車が1時間 - 2時間に1本程度が運転されている。平日と土曜日の朝には周防高森発岩国行きの列車がある。このほか、岩国駅 - 川西駅 - 森ヶ原信号場間には錦川鉄道錦川清流線の列車が乗り入れている。<br />
+<br />
+かつてJR西日本が閑散線区において線路保守のために月1回程度、日中の列車を運休していたときは、当線もその対象となっており、奇数月の第2水曜日に日中運休していた。ただし、岩国駅 - 森ヶ原信号場間に乗り入れる錦川鉄道の列車は、当該運休時間帯でも運休していなかった。一部を除きワンマン運転を実施している。<br />
+<br />
+運用車両はすべて下関総合車両所（旧・<a href="http://localhost/keyword/%E5%B1%B1%E5%8F%A3%E9%89%84%E9%81%93%E9%83%A8">山口鉄道部</a>車両管理室）配置のキハ40形かキハ47形である。キハ40形では2 - 3両で運転している場合もある。車両所のある新山口駅と徳山駅の間で回送列車が運行されている。この回送列車は200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>3月17日まで旅客を扱う<a href="http://localhost/keyword/%E5%B2%A9%E5%BE%B3%E7%B7%9A">岩徳線</a>経由の新山口発岩国行きの営業列車として運行されていた。またかつては、逆の岩国発新山口行き（<a href="http://localhost/keyword/%E5%B2%A9%E5%BE%B3%E7%B7%9A">岩徳線</a>経由）も運行されていた。国鉄時代には新南陽駅を発着する列車もあった。<br />
+<br />
+列車の速度は山陽線経由より遅いものの、距離が短いため、ダイヤによっては当線の列車が山陽本線の先発列車を追い抜く形で岩国や徳山に先着するケースもある。例えばかつて山陽本線下りで、山陽本線の普通列車が<a href="http://localhost/keyword/%E5%B2%A9%E5%BE%B3%E7%B7%9A">岩徳線</a>より数分先発するものの、貨物列車の待避のために柳井駅にて数分停車するため徳山には<a href="http://localhost/keyword/%E5%B2%A9%E5%BE%B3%E7%B7%9A">岩徳線</a>の列車が先着するケースが見られた。20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>3月現在のダイヤではそのような事例はない。<br />
+<br />
+国鉄時代は運行本数が少なく、末期に昼間毎時1本程度にまで増発されたが、200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>に1時間 - 1時間半毎程度に削減され、その後も削減傾向にある。<br />
+<br />
+== 歴史 ==<br />
+岩国駅停車中の午前の<a href="http://localhost/keyword/%E5%B2%A9%E5%BE%B3%E7%B7%9A">岩徳線</a>客車列車徳山行き。機関車はDE10 1053。（19<a href="http://localhost/keyword/76%E5%B9%B4">76年</a>）<br />
+1<a href="http://localhost/keyword/920%E5%B9%B4">920年</a>代に建設が始められた<a href="http://localhost/keyword/%E5%B2%A9%E5%BE%B3%E7%B7%9A">岩徳線</a>は、1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>に全通に至った。全通後はただちに山陽本線の一部とされ、元の山陽本線部分は柳井線と改称された。しかしその後、山陽本線の複線化が計画された際、勾配や<a href="http://localhost/keyword/%E3%82%AB%E3%83%BC%E3%83%96">カーブ</a>が多く、長大トンネル（欽明路トンネル）をもう1本掘らねばならないことから、複線化は元の山陽本線である柳井線経由で実施されることとなった。柳井線は1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>に複線化が完了して山陽本線に再編入され、こちらは<a href="http://localhost/keyword/%E5%B2%A9%E5%BE%B3%E7%B7%9A">岩徳線</a>に改称し地域輸送路線となった。なお、山陽本線はその後電化されたが、<a href="http://localhost/keyword/%E5%B2%A9%E5%BE%B3%E7%B7%9A">岩徳線</a>は電化は行われず、一時期あった電化計画も白紙に戻されている。<br />
+<br />
+戦前、山陽本線の一部だったその経緯から全通時に開業した駅の構内は幹線級の有効長が確保されており、非常に長い。かつては午前、午後各1往復の客車列車があり、1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>までは蒸気機関車（昭和<a href="http://localhost/keyword/30%E5%B9%B4">30年</a>代にはC62形、D51形が入線、後D51形のみ）、以後はディーゼル機関車（DE10形）が牽引、オハニ36形を含む旧形客車10両の長大編成も見られたが、その後50系客車に置き換えられた後1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a>3月5日に徳山客貨車区にオハ50形、オハフ50形各4両が落成配置（「鉄道ピクトリアル」200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>2月号）。に廃止。現在では最長でも朝夕に2 - 3両編成の気動車が発着するだけで、その機能を持て余している。しかしながら、山陽本線岩国駅 - <a href="http://localhost/keyword/%E6%AB%9B%E3%82%B1%E6%B5%9C%E9%A7%85">櫛ケ浜駅</a>間が災害などで不通になった際には迂回路として使用された実績もある。<br />
+<br />
+山陽本線は海側の柳井経由に戻ったが、現在は山陽新幹線と山陽自動車道が距離の短い<a href="http://localhost/keyword/%E5%B2%A9%E5%BE%B3%E7%B7%9A">岩徳線</a>に並行するルートを通っている。<br />
+<br />
+=== 岩徳東線 ===<br />
+* 1<a href="http://localhost/keyword/929%E5%B9%B4">929年</a>（昭和<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）4月5日：&#39;<a href="http://localhost/keyword/%E5%B2%A9%E5%BE%B3%E7%B7%9A">岩徳線</a>&#39;として麻里布駅 - 岩国駅間 (2.3M) が開業。岩国駅（2代目、現在の西岩国駅）が開業[ 鉄道省告示第45号・第46号『官報』1<a href="http://localhost/keyword/929%E5%B9%B4">929年</a>3月29日]（国立国会図書館デジタルコレクション）。ガソリン動車（キハニ5000形）を運行西岩国駅『西岩国駅開業50周年記念誌』西岩国駅（岩国）、19<a href="http://localhost/keyword/80%E5%B9%B4">80年</a>6月。。<br />
+** 開業と同時に、1<a href="http://localhost/keyword/909%E5%B9%B4">909年</a>に岩国町で運行が開始されていた路面電車の岩国電気軌道が、並行路線となるため廃止。<br />
+* 1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>（昭和<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）4月1日：営業距離の単位をマイルからメートルに変更（2.3M→3.7km）<br />
+* 1<a href="http://localhost/keyword/932%E5%B9%B4">932年</a>（昭和<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）5月29日：岩徳西線開業に伴い、&#39;岩徳東線&#39;に改称[ 鉄道省告示第157号『官報』1<a href="http://localhost/keyword/932%E5%B9%B4">932年</a>5月21日]（国立国会図書館デジタルコレクション）。<br />
+<br />
+=== 岩徳西線 ===<br />
+* 1<a href="http://localhost/keyword/932%E5%B9%B4">932年</a>（昭和<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）5月29日：&#39;岩徳西線&#39;として<a href="http://localhost/keyword/%E6%AB%9B%E3%82%B1%E6%B5%9C%E9%A7%85">櫛ケ浜駅</a> - 周防花岡駅間 (3.9km) が開業。周防花岡駅が開業[ 鉄道省告示第158号『官報』1<a href="http://localhost/keyword/932%E5%B9%B4">932年</a>5月21日]（国立国会図書館デジタルコレクション）。<br />
+* 1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>（昭和<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）3月28日：周防花岡駅 - 高水駅間 (11.0km) 延伸開業。<a href="http://localhost/keyword/%E5%91%A8%E9%98%B2%E4%B9%85%E4%BF%9D%E9%A7%85">周防久保駅</a>・勝間駅・高水駅が開業[ 鉄道省告示第104号・第105号『官報』1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>3月23日]（国立国会図書館デジタルコレクション）。<br />
+<br />
+=== 全通後 ===<br />
+* 1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>（昭和<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）12月1日：岩国駅 - 高水駅間 (25.1km) が延伸開業し全通記念スタンプ[ 「逓信省告示第3018号」『官報』1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>11月29日]（国立国会図書館デジタルコレクション）。&#39;山陽本線&#39;に新規開業区間・岩徳東線・岩徳西線を編入。柱野駅・玖珂駅・周防高森駅・米川駅が開業[ 鉄道省告示第533号]・[ 第534号]『官報』1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>11月1日（国立国会図書館デジタルコレクション）。<br />
+* 1<a href="http://localhost/keyword/942%E5%B9%B4">942年</a>（昭和<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）4月1日：麻里布駅が岩国駅（3代目）に、岩国駅（2代目）が西岩国駅に改称。<br />
+* 1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a>（昭和<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）3月31日：自動信号が設置される。<br />
+* 1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>（昭和<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）10月11日：山陽本線から分離され、岩国駅 - <a href="http://localhost/keyword/%E6%AB%9B%E3%82%B1%E6%B5%9C%E9%A7%85">櫛ケ浜駅</a>間 (43.7km) が&#39;<a href="http://localhost/keyword/%E5%B2%A9%E5%BE%B3%E7%B7%9A">岩徳線</a>&#39;となる[ 運輸通信省告示第506号『官報』 1<a href="http://localhost/keyword/944%E5%B9%B4">944年</a>10月11日]（国立国会図書館デジタルコレクション）。<br />
+* 1<a href="http://localhost/keyword/956%E5%B9%B4">956年</a>（昭和<a href="http://localhost/keyword/31%E5%B9%B4">31年</a>）4月16日：ディーゼルカー運転開始。<br />
+* 19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>（昭和<a href="http://localhost/keyword/35%E5%B9%B4">35年</a>）<br />
+** 4月16日：川西駅が開業。<br />
+** 11月1日：岩日線の開業に伴い、森ヶ原信号場が新設。<br />
+* 1<a href="http://localhost/keyword/965%E5%B9%B4">965年</a>（昭和40年）11月1日：自動列車停止装置 (ATS-S) 使用開始。<br />
+* 1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>（昭和<a href="http://localhost/keyword/46%E5%B9%B4">46年</a>）2月28日：<a href="http://localhost/keyword/%E5%B2%A9%E5%BE%B3%E7%B7%9A">岩徳線</a>での蒸気機関車の運転が終了。翌3月1日よりディーゼル機関車およびディーゼルカーによる無煙化。<br />
+* 1<a href="http://localhost/keyword/974%E5%B9%B4">974年</a>（昭和<a href="http://localhost/keyword/49%E5%B9%B4">49年</a>）10月1日：全線の貨物営業が廃止。<br />
+* 1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a>（昭和<a href="http://localhost/keyword/57%E5%B9%B4">57年</a>）3月10日：全線で列車集中制御装置 (CTC) が導入広島CTCセンター<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>のあゆみ編集委員会『広島CTCセンター<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>のあゆみ』広島CTCセンター<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>のあゆみ編集委員会、19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>、p.1。。CTCセンターは広島駅に設置。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）<br />
+** 3月27日：大河内駅・生野屋駅が開業。<br />
+** 4月1日：国鉄分割民営化により、西日本旅客鉄道が全線を継承。<br />
+* 19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>（平成<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）9月27日：欽明路駅が開業。<br />
+* 1<a href="http://localhost/keyword/992%E5%B9%B4">992年</a>（平成<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）3月14日：ワンマン運転開始『JR気動車客車編成表 2011』交通新聞社、20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>。ISBN 978-4-330-22011-6。。<br />
+* 1<a href="http://localhost/keyword/995%E5%B9%B4">995年</a>（平成<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）10月1日：徳山地域鉄道部発足に伴い、全区間が広島支社直轄から徳山地域鉄道部の管轄になる『データで見るJR西日本 2001』西日本旅客鉄道。<br />
+<br />
+== 駅一覧 ==<br />
+運行形態上、岩国駅 - 徳山駅間を記載。<br />
+<br />
+* 全列車普通列車（全駅に停車）。岩国駅 - 川西駅間では錦川清流線の列車も乗り入れる<br />
+* 線路（<a href="http://localhost/keyword/%E5%B2%A9%E5%BE%B3%E7%B7%9A">岩徳線</a>内は全線単線） … ◇・∨・∧：列車交換可能、＊：列車交換可能だが交換時は下り列車のみ客扱い可、｜：列車交換不可、∥：複線（山陽本線内）<br />
+* 全駅山口県内に所在<br />
+<br />
+<br />
+<br />
+*※：<a href="http://localhost/keyword/%E6%AB%9B%E3%82%B1%E6%B5%9C%E9%A7%85">櫛ケ浜駅</a> - 徳山駅間は山陽本線<br />
+<br />
+<a href="http://localhost/keyword/%E5%B2%A9%E5%BE%B3%E7%B7%9A">岩徳線</a>内において、JR西日本の直営駅は岩国駅のみ、ジェイアール西日本広島メンテックによる業務委託駅は<a href="http://localhost/keyword/%E6%AB%9B%E3%82%B1%E6%B5%9C%E9%A7%85">櫛ケ浜駅</a>のみで、西岩国駅・玖珂駅・周防高森駅が簡易委託駅であり、それ以外の駅は無人駅である。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 参考文献 ==<br />
+* 川島令三編著『山陽・山陰ライン - 全線・全駅・全配線』7 広島エリア、講談社、20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>。ISBN 978-4-06-295157-9。 <br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 日本の鉄道路線一覧<br />
+* 1<a href="http://localhost/keyword/934%E5%B9%B4">934年</a>12月1日国鉄ダイヤ改正<br />
+<br />
+<br />
+<br />
+Category:中国地方の鉄道路線<br />
+Category:西日本旅客鉄道の鉄道路線<br />
+Category:日本国有鉄道の鉄道路線<br />
+Category:山口県の交通<br />
+旧<br />

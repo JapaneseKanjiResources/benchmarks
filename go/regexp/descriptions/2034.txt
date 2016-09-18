@@ -1,0 +1,27 @@
+description
+'TwinVQ' ('Transform-domain Weighted Interleave Vector Quantization') はNTTヒューマンインターフェース研究所(現サイバースペース研究所)が開発した音声符号化技術。PCM音声を、約1/18のデータサイズまで圧縮することができる。
+
+64kbpsであった当時のISDN(INSネット64)での音声配信を容易にするための技術として開発された。MP3で行われていた情報の再配分に加え、情報をパターンになったブロックに分け、事前に用意された標準パターンと置き換える手法などを採用した。
+
+MP3より少ないビットレートで可聴帯域の周波数を記録することができ、64kbps以下であればMP3より優秀である。NTTは80kbpsで128kbpsのMP3に匹敵する音質であると公称していた。ただし低ビットレート域での音質は比較的良いものの、それ以外のビットレート域ではあまり評価は高くない。
+
+一部が変更された上でMPEG-4 General Audioの一つ（他にはAACがある）として採用された。
+また、音楽配信方式の1つである SolidAudio や、SoundVQ (ヤマハ)、Metasound (Voxware) にも採用されている。
+FFmpegがDemuxやデコードに対応しているため、VLCなどの多くのプレーヤで再生することができる。
+
+==仕様==
+; アルゴリズム : TwinVQ（変換領域重み付けインターリーブベクトル量子化）
+; サンプリングレート : 8kHz - 44.1kHz 
+; チャンネル数 : 1ch(mono), 2ch(stereo)
+; ビットレート : 1ch あたり 8kbps - 96kbps
+; MIME type : audio/x-twinvq, audio/x-twinvq-plugin
+
+==関連項目==
+*データ圧縮
+*ベクトル量子化
+*AAC
+
+
+
+
+TwinVQ

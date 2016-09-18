@@ -1,0 +1,92 @@
+description<br />
+ <br />
+|left=ガドリニウム<br />
+|right=ジスプロシウム<br />
+|above=-<br />
+|below=Bk<br />
+|series=ランタノイド<br />
+|group=3<br />
+|period=6<br />
+|block=f<br />
+|image name=Terbium-2.jpg<br />
+|appearance=銀白色<br />
+|atomic mass=158.92535<br />
+|electron configuration=&amp;#91;Xe&amp;#93; 4f9 6s2<br />
+|electrons per shell=2, 8, 18, 27, 8, 2<br />
+|phase=固体<br />
+|density gpcm3nrt=8.23<br />
+|density gpcm3mp=7.65<br />
+|melting point K=1629<br />
+|melting point C=<a href="http://localhost/keyword/135">135</a>6<br />
+|melting point F=2473<br />
+|boiling point K=3503<br />
+|boiling point C=3230<br />
+|boiling point F=5846<br />
+|heat fusion=10.15<br />
+|heat vaporization=293<br />
+|heat capacity=28.91<br />
+|vapor pressure 1=1789<br />
+|vapor pressure 10=1979<br />
+|vapor pressure 100=(2201)<br />
+|vapor pressure 1 k=(2505)<br />
+|vapor pressure 10 k=(2913)<br />
+|vapor pressure 100 k=(3491)<br />
+|vapor pressure comment=<br />
+|crystal structure=hexagonal<br />
+|japanese crystal structure=六方晶系<br />
+|oxidation states=4, &#39;3&#39;, 2, 1（弱塩基性酸化物）<br />
+|electronegativity=? 1.2<br />
+|number of ionization energies=3<br />
+|1st ionization energy=565.8<br />
+|2nd ionization energy=1<a href="http://localhost/keyword/110">110</a><br />
+|3rd ionization energy=2114<br />
+|atomic radius=177<br />
+|covalent radius=194 ± 5<br />
+|magnetic ordering=常磁性 (300 K)<br />
+|electrical resistivity=(r.t.) (α, poly) 1.150 µ<br />
+|thermal conductivity=11.1<br />
+|thermal expansion=(r.t.) (α, poly) 10.3<br />
+|speed of sound rod at 20=2620<br />
+|Young&#39;s modulus=(α form) 55.7<br />
+|Shear modulus=(α form) 22.1<br />
+|Bulk modulus=(α form) 38.7<br />
+|Poisson ratio=(α form) 0.261<br />
+|Vickers hardness=863<br />
+|Brinell hardness=677<br />
+|CAS number=7440-27-9<br />
+|isotopes=<br />
+<br />
+<br />
+<br />
+|isotopes comment=<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E3%83%86%E3%83%AB%E3%83%93%E3%82%A6%E3%83%A0">テルビウム</a>&#39; () は<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>65の元素。元素記号は &#39;Tb&#39;。スウェーデンの小さな町イッテルビー (Ytterby) にちなんで名づけられた。イッテルビーからは、<a href="http://localhost/keyword/%E3%83%86%E3%83%AB%E3%83%93%E3%82%A6%E3%83%A0">テルビウム</a>の他、イッ<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>、イッ<a href="http://localhost/keyword/%E3%83%86%E3%83%AB%E3%83%93%E3%82%A6%E3%83%A0">テルビウム</a>、エルビウムと合計四つの新元素が発見されている。これらの元素はいずれも、イッテルビー から名称の一部をとって命名された。希土類元素の一つ（ランタノイドにも属す）。<br />
+<br />
+== 性質 ==<br />
+銀白色の金属で、常温、常圧で安定な結晶構造は六方最密充填構造 (HCP)。比重は8.25、融点は<a href="http://localhost/keyword/135">135</a>6 、沸点は3123 （2750 という実験値もあり）。<br />
+<br />
+水にゆっくりと溶ける。酸に易溶。空気中で表面が酸化され、高温で燃えて Tb2O3、更に Tb4O7 となる。ハロゲンとも激しく反応する。原子価は+3、+4価で、4f8 の電子配置を取る淡紅色の+3価のイオン Tb3+ が安定である。水溶液中では+4価は不安定であり、Tb4O7 など高酸化状態のものを含む酸化物を酸に溶解すると酸素を発生して分解し、+3価に変化する。<br />
+: 4 Tb4+(aq) + 2 H2O = 4 Tb3+(aq) + 4 H+(aq) + O2<br />
+<br />
+低温では強磁性を示し、キュリー温度 &#39;&#39;T&#39;&#39;N は-52  (221 K) である。<br />
+<br />
+地殻中の存在量は希土類としては比較的少ない。ガドリン石、セル石、ゼノタイムなどに含まれる。<br />
+<br />
+== 用途 ==<br />
+テレビのブラウン管、水銀灯の蛍光体の材料に利用される。鉄-コバルト-<a href="http://localhost/keyword/%E3%83%86%E3%83%AB%E3%83%93%E3%82%A6%E3%83%A0">テルビウム</a>合金は光磁気ディスクの磁性膜の材料として、鉄-ジスプロシウム-<a href="http://localhost/keyword/%E3%83%86%E3%83%AB%E3%83%93%E3%82%A6%E3%83%A0">テルビウム</a>合金はプリンターの印字ヘッドに利用される。磁性ガラスには磁性を担う酸化<a href="http://localhost/keyword/%E3%83%86%E3%83%AB%E3%83%93%E3%82%A6%E3%83%A0">テルビウム</a>が添加される。<br />
+<br />
+== <a href="http://localhost/keyword/%E3%83%86%E3%83%AB%E3%83%93%E3%82%A6%E3%83%A0">テルビウム</a>の化合物 ==<br />
+* 酸化<a href="http://localhost/keyword/%E3%83%86%E3%83%AB%E3%83%93%E3%82%A6%E3%83%A0">テルビウム</a>(III) (Tb2O3)<br />
+* 酸化<a href="http://localhost/keyword/%E3%83%86%E3%83%AB%E3%83%93%E3%82%A6%E3%83%A0">テルビウム</a>(III,IV) (Tb4O7)<br />
+* <a href="http://localhost/keyword/%E3%83%86%E3%83%AB%E3%83%93%E3%82%A6%E3%83%A0">テルビウム</a>ガリウムガーネット (Tb3Ga5O12)<br />
+<br />
+== 同位体 ==<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+*<br />

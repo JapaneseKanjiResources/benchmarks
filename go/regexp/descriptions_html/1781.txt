@@ -1,0 +1,120 @@
+description<br />
+<br />
+|開業年月日 = 1<a href="http://localhost/keyword/898%E5%B9%B4">898年</a>（明治<a href="http://localhost/keyword/31%E5%B9%B4">31年</a>）9月1日<br />
+|駅構造 = 地上駅（橋上駅）<br />
+|ホーム = 2面3線<br />
+|乗車人員 = 2,952<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a><br />
+|所属路線 = 東北本線<br />
+|前の駅 = 古館<br />
+|駅間A = 3.6<br />
+|駅間B = 4.5<br />
+|次の駅 = 岩手飯岡*<br />
+|キロ程 = 525.1<br />
+|起点駅 = 東京<br />
+|備考 = 業務委託駅みどりの窓口 有<br />
+|備考全幅 = * この間に盛岡貨物ターミナル駅有り。（東京起点 528.8km）<br />
+}}<br />
+東口<br />
+旧駅舎（200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>8月）<br />
+&#39;<a href="http://localhost/keyword/%E7%9F%A2%E5%B9%85%E9%A7%85">矢幅駅</a>&#39;（やはばえき）は、岩手県紫波郡矢巾町大字又兵エ新田にある、東日本旅客鉄道（JR東日本）東北本線の駅。<br />
+<br />
+快速「はまゆり」・「アテルイ」が停車する。<br />
+<br />
+同じ読み方だが、自治体名の「矢&#39;巾&#39;」にたいして駅名は「矢&#39;幅&#39;」と違う漢字を使用している。歴史としては「矢幅」のほうが古く、現在も駅周辺の地名に残る。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/898%E5%B9%B4">898年</a>（明治<a href="http://localhost/keyword/31%E5%B9%B4">31年</a>）9月1日 - 日本鉄道の駅として開業。<br />
+* 1<a href="http://localhost/keyword/906%E5%B9%B4">906年</a>（明治<a href="http://localhost/keyword/39%E5%B9%B4">39年</a>）11月1日 - 日本鉄道が国有化され、国鉄の駅となる。<br />
+* 1<a href="http://localhost/keyword/977%E5%B9%B4">977年</a>（昭和<a href="http://localhost/keyword/52%E5%B9%B4">52年</a>）3月15日 - 駅舎を改築。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、東日本旅客鉄道の駅となる。<br />
+* 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>（平成<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）3月10日 - 業務委託化。<a href="http://localhost/keyword/%E7%9F%A2%E5%B9%85%E9%A7%85">矢幅駅</a>長（盛岡駅助役待遇）を廃止。<br />
+* 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>（平成<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）3月15日 - 橋上駅舎の新駅舎が供用を開始。窓口営業時間を延長。<br />
+* 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>（平成<a href="http://localhost/keyword/21%E5%B9%B4">21年</a>）3月14日 - 快速「はまゆり」停車駅となる。<br />
+* 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）8月9日 - 大雨により駅内の線路が水没[http://www.town.yahaba.iwate.jp/public_information/koho/backnumber/koho201309.pdf#search=&#39;%E7%9F%A2%E5%B9%85%E9%A7%85+%E6%B0%B4%E6%B2%A1&#39; 広報やはば9月号]<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線と島式ホーム1面2線、合計2面3線のホームを持つ地上駅で橋上駅舎を有する。東口は東北新幹線の高架下にあり、多目的ホール、インフォメーションコーナーを併設する。西口は交通広場となっている。<br />
+<br />
+旧駅舎は、東北新幹線高架下に1<a href="http://localhost/keyword/978%E5%B9%B4">978年</a>建設されていた。現在の橋上駅は整備計画を2000年に策定。200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）3月24日に仮駅舎となり、3月28日には工事安全祈願祭が行われた。事業費は14億4300万円でJR東日本が1億円、矢巾町は13億4300万円の負担である。新駅舎は200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>（平成<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）3月15日ダイヤ改正より供用が開始された。構造は鉄骨造2階建てでエレベーター4基・エスカレータ4基設置。<br />
+<br />
+盛岡駅管理の業務委託駅（早朝夜間駅員不在、JR東日本東北総合サービス委託）。みどりの窓口、タッチパネル式自動券売機1台設置。<br />
+<br />
+東西両入口と改札階（自由連絡通路）、ホームと改札階の間にエレベーターおよびエスカレーターが設置されている。<br />
+<br />
+NEWDAYS矢幅店が駅東口に設置されている。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>度の乗車人員は1日平均2,952人である。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+<br />
+=== 東口 ===<br />
+* 徳丹城跡（矢巾町歴史民俗資料館）<br />
+* 矢巾ショッピングセンター<br />
+** マックスバリュ矢巾店<br />
+** ホーマック矢巾店<br />
+** ショッピングモール アルコ<br />
+* 矢幅郵便局<br />
+* 岩手銀行矢巾支店<br />
+* 東北銀行矢巾支店<br />
+* 盛岡信用金庫矢巾支店<br />
+* 岩手医科大学矢巾キャンパス<br />
+* 岩手県産業技術短期大学校<br />
+* 岩手県立不来方高等学校<br />
+* 岩手県消防学校（総合防災センター併設）<br />
+<br />
+=== 西口 ===<br />
+* 矢巾町役場、矢巾町民総合体育館、田園ホール（矢巾町文化会館）<br />
+* 矢巾温泉、幣懸（ぬさかけ）の滝<br />
+<br />
+== バス ==<br />
+=== 東口 ===<br />
+* 岩手県交通<br />
+** 北高田線（路線番号513・514）矢巾営業所・医大矢巾キャンパス・北高田・盛岡駅方面<br />
+** 支線バス・手代森・矢巾駅コース（矢巾町役場・<a href="http://localhost/keyword/%E9%83%BD%E5%8D%97%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB">都南バスターミナル</a>方面）<br />
+** 矢巾医大線（医大矢巾キャンパス方面）：平日のみ<br />
+* 矢巾町循環バス「さわやか号」<br />
+** 北廻り線（矢巾温泉・矢巾営業所経由）：火・金のみ<br />
+<br />
+=== 西口 ===<br />
+* 岩手県交通<br />
+** 見前回り志和線（路線番号608）日詰駅・紫波営業所・志和町・盛岡南高校・盛岡駅方面<br />
+*** 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>10月1日から乗り入れ開始 - 岩手県交通（20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>10月1日改正）。<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 東北本線<br />
+:: 快速「はまゆり」<br />
+::: 花巻駅 - &#39;<a href="http://localhost/keyword/%E7%9F%A2%E5%B9%85%E9%A7%85">矢幅駅</a>&#39; - 盛岡駅<br />
+:: 快速「アテルイ」（朝下り1本のみ運転）<br />
+::: 花巻駅 → &#39;<a href="http://localhost/keyword/%E7%9F%A2%E5%B9%85%E9%A7%85">矢幅駅</a>&#39; → 仙北町駅<br />
+:: 普通<br />
+::: 古館駅 - &#39;<a href="http://localhost/keyword/%E7%9F%A2%E5%B9%85%E9%A7%85">矢幅駅</a>&#39; - （盛岡貨物ターミナル駅） - 岩手飯岡駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* <br />
+<br />
+<br />
+<br />
+<br />
+Category:岩手県の鉄道駅<br />
+はは<br />
+Category:日本鉄道<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:東北本線<br />
+やははえき<br />
+Category:1<a href="http://localhost/keyword/898%E5%B9%B4">898年</a>開業の鉄道駅<br />

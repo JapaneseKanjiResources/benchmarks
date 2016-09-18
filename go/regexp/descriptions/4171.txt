@@ -1,0 +1,10 @@
+description
+; SCE
+* 株式会社ソニー・コンピュータエンタテインメント（Sony Computer Entertainment Inc.）の略称。
+* 住電通信エンジニアリング株式会社（Sumiden Communication Engineering Co., Ltd.）の略称。
+* サザン・カリフォルニア・エジソン（Southern California Edison、米カリフォルニア州の電力会社）の略称。
+* 鉄道用直通ブレーキの一種。Straight air brake Car Emergency valve（非常弁付制御車用直通ブレーキ）の略称。
+* スコットランド統一試験（Scottish Certificate of Education）の略称。
+* 飽和カロメル電極（Saturated Calomel Electrode）の略称。
+
+

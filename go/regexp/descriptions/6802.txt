@@ -1,0 +1,46 @@
+description
+
+|   EINECS = 200-839-4
+|   PubChem = 6345
+|   SMILES = C(F)F
+|   InChI = 1/CH2F2/c2-1-3/h1H2
+|   RTECS = PA8537500
+  }}
+| Section2 =  (59&nbsp;)
+2.163 kg/m3 at 21.1&nbsp; (70&nbsp;)
+|   MeltingPt = −136 
+|   BoilingPt = −51.6 
+|   Solubility = 
+|   VaporPressure = 1518.92 kPa at 21.1&nbsp; (70&nbsp;)
+  }}
+| Section3 = 
+|   RPhrases = 
+|   SPhrases = , , 
+|   NFPA-H = 1
+|   NFPA-F = 4
+|   NFPA-R = 1
+|   NFPA-O = 
+  }}
+}}
+
+ジフルオロメタンは化学式'CH2F2'で表される有機化合物である。
+'フッ化メチレン'とも呼ばれる。フロンガスの一種（フロン32）。
+
+常温では気体。温室効果が高く、二酸化炭素の650倍の温室効果を持つ。
+
+一定の圧力・温度条件の下で、包接化合物を形成することが知られている。
+
+== 物理的性質 ==
+
+
+== 関連項目 ==
+* C1化学
+* 温室効果ガス
+* メタン
+* フロン
+
+Category:ハロメタン
+
+Category:有機フッ素化合物
+Category:温室効果ガス
+

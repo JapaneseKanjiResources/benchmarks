@@ -1,0 +1,15 @@
+description<br />
+<br />
+<br />
+&#39;<a href="http://localhost/keyword/X%E7%AB%AF%E6%9C%AB">X端末</a>&#39;（エックスたんまつ、X Terminal）はコンピュータの一つ。<br />
+<br />
+X Window SystemのXプロトコルを用いた通信により、他のコンピュータ上（ホスト）で実行されたXクライアントアプリケーションの実行結果を表示させる端末である（もちろん入力も出来る）。描画部分（と入力部分）のみを実行するため、処理に負荷がかかる描画処理部分をハードウェア的に分離し、ホストをアプリケーションの処理に特化することで、ホストの負荷を軽減できる。<br />
+<br />
+<a href="http://localhost/keyword/X%E7%AB%AF%E6%9C%AB">X端末</a>上で実行するXサーバは、<a href="http://localhost/keyword/X%E7%AB%AF%E6%9C%AB">X端末</a>上でファームウェアとして用意されている場合も、また、ホスト側から何らかの方法でダウンロードする方法もある。<br />
+<br />
+<a href="http://localhost/keyword/X%E7%AB%AF%E6%9C%AB">X端末</a>は、ホストと比べてハードディスクを持たず、かつ、メモリもXサーバが動作するだけの容量さえあればよいので、Xが動作するホスト（通常はUNIXマシン）よりも大幅にコストが下げられる、という利点があった。また、それ自身は、管理のための情報をほとんど持たない（ネットワークに接続するためのIPアドレス程度）ため、複数台設置しても管理が容易になる、という利点があった。しかし、UNIXマシンの大幅なコストダウンやPCの普及により、専用の<a href="http://localhost/keyword/X%E7%AB%AF%E6%9C%AB">X端末</a>というハードウェアをわざわざ用意する必然性が減ってきたため、最近ではハードウェアとしての<a href="http://localhost/keyword/X%E7%AB%AF%E6%9C%AB">X端末</a>は余り使われなくなってきている。<a href="http://localhost/keyword/X%E7%AB%AF%E6%9C%AB">X端末</a>を使いたい場合には、PC上でのPC Xサーバソフトウェア（例えば、Xming）を導入して実行させるか、あるいはFreeBSDやLinuxなどのオペレーティングシステム上でXを動かす、あるいは、Microsoft WindowsでCygwinのようなUNIX互換システムからXサーバを起動させる方法が取られている。<br />
+<br />
+<br />
+Category:コンピュータ端末<br />
+Category:コンピュータの形態<br />
+Category:X Window System<br />

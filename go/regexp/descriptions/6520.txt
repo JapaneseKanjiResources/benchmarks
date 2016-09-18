@@ -1,0 +1,13 @@
+description
+'COS', 'CoS'（しーおーえす、こす）
+
+* コルシカ語のISO 639-2言語コード。
+* 三角関数のうち余弦関数'コサイン'（cosine）
+* 慈善組織協会（'C'harity 'O'rganization 'S'ocieties）
+*  - データリンク層のイーサネットフレームヘッダーの項目の一つ。
+* フランス軍の特殊作戦司令部（:fr:Commandement des Opérations Spéciales）
+* 化学式COS。硫化カルボニル。
+* 中小企業信用機構（'C'redit 'O'rganization of 'S'mall and mediumu-sized enterprises Co., Ltd. ）
+* 切替スイッチ（'C'hange 'O'ver 'S'witch）
+* COS('C'hina 'O'perating 'S'ystem)
+

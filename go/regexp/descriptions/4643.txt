@@ -1,0 +1,17 @@
+description
+
+'PIAFS'(ピアフ、Personal Handyphone System Internet Access Forum Standard)は、PIAF（PHSインターネット・アクセス・フォーラム）によって策定されたPHSのデータ通信標準規格である。利用上は、有線区間が固定電話回線に依拠するため、無線区間も含めて回線交換方式を基本とする。
+
+* PIAFS1.0：ギャランティー方式32Kbps。
+* PIAFS2.0：ギャランティー方式64Kbps。
+* PIAFS2.1：ベストエフォート方式32Kbps/64Kbps。32Kbps通信と64Kbps通信を動的に切り替えることができる。
+* PIAFS2.2：ベストエフォート方式32Kbps/64Kbps。PIAFS2.1をベースに、PHS端末間同士での64Kbps通信を可能にするために拡張されたもの。
+
+となっている。なお、プロトコルオーバーヘッドから、正確な実効理論値は32Kbpsの場合29.2Kbps、64Kbpsの場合58.4Kbpsとなる。実利用環境についてはエラーの発生による再送（4TCHスロット=1PIAFSフレーム）などさらに落ちうる。
+
+ウィルコム（旧DDIポケット）の「AIR-EDGE」のパケット通信についてはPIAFS策定事項には含まれていないが、2004年に国際展開を目的として同社がライセンス契約による仕様公開をした。
+
+
+Category:携帯電話の通信規格
+Category:携帯電話 (PHS)
+Category:長大な項目名

@@ -1,0 +1,94 @@
+description<br />
+<br />
+<br />
+|latest release version = 3<br />
+|latest release date = 1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a><br />
+|container for = <br />
+|contained by = <br />
+|extended from = <br />
+|extended to = Encapsulated <a href="http://localhost/keyword/PostScript">PostScript</a><br />
+|standard = <br />
+}}<br />
+<br />
+<br />
+&#39;<a href="http://localhost/keyword/PostScript">PostScript</a>&#39;（ポストスクリプト）は、アドビシステムズが開発している、1<a href="http://localhost/keyword/984%E5%B9%B4">984年</a>に発表したページ記述言語。<br />
+<br />
+スタック指向型のプログラミング言語で、様々な計算・処理と共に描画命令を実行することができる。事前にデータをスタックに格納し、後の命令がデータを処理するというモデルで実行される。そのために記述法が逆ポーランド記法で一貫しており、名前は「追伸」の英語「post script」に後置記法といった意味を掛けている。<br />
+<br />
+== バージョン ==<br />
+*1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a> - <a href="http://localhost/keyword/PostScript">PostScript</a> Level 1。初期バージョン。<br />
+*19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a> - <a href="http://localhost/keyword/PostScript">PostScript</a> Level 2。日本語やカラー化対応。<br />
+*1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a> - <a href="http://localhost/keyword/PostScript">PostScript</a> 3。PDF形式への対応。（Level 3は正式名称ではない）<br />
+<br />
+== 概要 ==<br />
+<a href="http://localhost/keyword/PostScript">PostScript</a> は1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>にアップルコンピュータのプリンター、LaserWriterに採用された。モトローラ68000プロセッサと1.5メガバイトのRAM を搭載したこのプリンターは、プリンターでありながら当時のパーソナルコンピュータと同等の計算能力を持ち、それ自身が <a href="http://localhost/keyword/PostScript">PostScript</a> インタプリタを実行してページを生成した。同じ年、Linotype社により <a href="http://localhost/keyword/PostScript">PostScript</a> を採用したイメージセッタが発表された。<br />
+<br />
+当時はコンピューター・プリンター間の通信速度の遅さが印刷物の品質向上のネックになっていた。しかし、プリンター自身に高い計算能力を持たせて、プログラミング言語を実行するという大胆な発想により、一気に問題は解決された。<a href="http://localhost/keyword/PostScript">PostScript</a> 以前は伝統的な手法より品質が劣るとされてきた電子印刷が一気に商業印刷のレベルでも使われるようになり、今日当たり前のようになっている DTP が普及するきっかけとなった。<br />
+<br />
+後に印刷以外の用途でも使われ、ワークステーションである NeXT は描画エンジンとして Display <a href="http://localhost/keyword/PostScript">PostScript</a> を採用していた。<br />
+<br />
+今日ではパーソナルコンピュータの性能が上がると同時に、コンピュータ・プリンター間の接続速度が向上したため、個人レベルでパーソナルコンピュータに <a href="http://localhost/keyword/PostScript">PostScript</a> インタプリタを搭載し、生成されたイメージをプリンターに送るということも行われる。<br />
+<br />
+== 実装 ==<br />
+ほとんどは、レーザープリンターに実装されている。「PSプリンター」と呼ばれ、Macintosh の標準プリンターであり、Microsoft Windows でも利用されることがあるが、アドビシステムズへのライセンス料が高額なためか、価格が数十万～百万円以上と一般のレーザープリンターに比べ高価で、専ら DTP 用途に限られている。<br />
+<br />
+ソフトウェアによる実装では、アドビシステムズからライセンスを受けたラスターイメージプロセッサ (RIP) がエプソンなどいくつかのメーカーから自社製プリンターのために販売されていたが、PSプリンターの価格低下もあり、あまり普及していない。なお互換フリーソフトウェアとして Ghostscript がある。<br />
+<br />
+== サンプルプログラム ==<br />
+以下の内容を <a href="http://localhost/keyword/PostScript">PostScript</a> プリンターに送信すると、文字列「Hello World!」が印刷される。<br />
+<br />
+ /font /Courier findfont 24 scalefont def<br />
+ font setfont<br />
+ 100 100 moveto<br />
+ (Hello World!) show<br />
+ showpage<br />
+<br />
+<br />
+以下の内容を <a href="http://localhost/keyword/PostScript">PostScript</a> プリンターに送信すると、長方形と文字列が印刷される。また、テキストファイルとして保存し、Adobe Illustrator などで開くこともできる。<br />
+<br />
+ %!<br />
+ % macro (draw rectangle) ; usage: left top width height R<a href="http://localhost/keyword/REC">REC</a>T<br />
+ /R<a href="http://localhost/keyword/REC">REC</a>T { newpath 4 copy pop pop moveto dup 0 exch rlineto exch 0 rlineto neg 0 exch rlineto closepath pop pop } def<br />
+ <br />
+ 100 100 100 150 R<a href="http://localhost/keyword/REC">REC</a>T<br />
+ .5 setgray<br />
+ fill<br />
+ <br />
+ 100 300 moveto<br />
+ /Helvetica findfont<br />
+ 12 scalefont<br />
+ setfont<br />
+ .5 0 .5 0 setcmykcolor<br />
+ (test string) show<br />
+ <br />
+ showpage<br />
+<br />
+<br />
+== 参考文献 ==<br />
+<br />
+*<br />
+*<br />
+*<br />
+<br />
+== 関連項目 ==<br />
+*Encapsulated <a href="http://localhost/keyword/PostScript">PostScript</a> (EPS)<br />
+*Forth<br />
+*Portable Document Format (PDF)<br />
+*ラスターイメージプロセッサ<br />
+*NeWS<br />
+*<a href="http://localhost/keyword/PostScript">PostScript</a>フォント<br />
+*追伸 - 名称の語源<br />
+*プログラミング言語<br />
+*Scalable Vector Graphics (SVG) - 他のベクタ形式の画像フォーマット<br />
+*Windows Metafile (WMF, EMF) - 他のベクタ形式の画像フォーマット<br />
+<br />
+== 外部リンク ==<br />
+*[http://www.adobe.com/jp/print/postscript/ Adobe Printing Technologies -About <a href="http://localhost/keyword/PostScript">PostScript</a> 3]（アドビシステムズ）<br />
+*[http://partners.adobe.com/public/developer/ps/index_specs.html Adobe <a href="http://localhost/keyword/PostScript">PostScript</a> language specifications]（アドビシステムズ, 英語）<br />
+*[http://wwwnucl.ph.tsukuba.ac.jp/~inakura/ps/postscript.html How to Edit <a href="http://localhost/keyword/PostScript">PostScript</a>]（日本語）<br />
+*[http://tutorial.jp/graph/ps/psman.pdf <a href="http://localhost/keyword/PostScript">PostScript</a>実習マニュアル] (PDF)<br />
+<br />
+<br />
+<br />
+Category:アドビシステムズ<br />
+*<br />

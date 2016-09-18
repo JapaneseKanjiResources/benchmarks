@@ -1,0 +1,10 @@
+description
+'FLA'
+
+* フロリダ州
+** フロリダ・マーリンズ(MLB)
+* 米国富士通研究所
+* フラッシュランプアニール（Flash Lamp Aneal）
+* Adobe Flashの作業用ファイルの拡張子。
+* アメリカ公正労働協会（Fair Labor Association）
+

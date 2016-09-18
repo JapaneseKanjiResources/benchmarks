@@ -1,0 +1,48 @@
+description<br />
+ |<br />
+ 世紀=1 |<br />
+ 次世紀=2 |<br />
+<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=70 |<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=80 |<br />
+ <a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀=90 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=100 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=<a href="http://localhost/keyword/110">110</a> |<br />
+<br />
+ 3年前=89 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>前=90 |<br />
+ 1年前=91 |<br />
+ 年=92 |<br />
+ 1年後=93 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>後=94 |<br />
+ 3年後=95 |<br />
+}}<br />
+<br />
+<br />
+== 他の紀年法 ==<br />
+<br />
+* 干支 : 壬辰<br />
+* 日本<br />
+** 景行天皇<a href="http://localhost/keyword/22%E5%B9%B4">22年</a><br />
+** 皇紀<a href="http://localhost/keyword/752%E5%B9%B4">752年</a><br />
+*中国<br />
+** 後漢 : 永元<a href="http://localhost/keyword/4%E5%B9%B4">4年</a><br />
+* 朝鮮<br />
+** 高句麗 : 太祖王40年<br />
+** 新羅 : 婆娑王<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+** 百済 : 己婁王<a href="http://localhost/keyword/16%E5%B9%B4">16年</a><br />
+** 檀紀2<a href="http://localhost/keyword/425%E5%B9%B4">425年</a><br />
+* 仏滅紀元 : <a href="http://localhost/keyword/635%E5%B9%B4">635年</a><br />
+* ユダヤ暦 : 3<a href="http://localhost/keyword/852%E5%B9%B4">852年</a> - 3<a href="http://localhost/keyword/853%E5%B9%B4">853年</a><br />
+<br />
+== できごと ==<br />
+<br />
+== 誕生 ==<br />
+<br />
+== 死去 ==<br />
+* 竇憲、外戚の主導者<br />
+* 班固、漢書の著者の一人（* 3<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）<br />
+<br />
+*<br />
+<br />
+als:90er#Johr 92<br />

@@ -1,0 +1,75 @@
+description<br />
+}; border-top:5px } solid<br />
+| name = }<br />
+| other_name = <br />
+| image = MR nishi-futoh sta.jpg<br />
+| image_width = 300px<br />
+| image_alt = <br />
+| caption = 西埠頭駅周辺（200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>9月5日）<br />
+| type = <br />
+| status = <br />
+| start = 起点：三菱自工前駅<br />
+| end = 終点：西埠頭駅<br />
+| stations = 2駅<br />
+| open = <br />
+| event1label   = <br />
+| event1        = <br />
+| close = <br />
+| owner = 倉敷市交通局→水島臨海鉄道<br />
+| operator = <br />
+| depot = <br />
+| stock = 水島臨海鉄道#車両を参照<br />
+| linelength_km = 0.8<br />
+| linelength =  <br />
+| gauge = <br />
+| minradius = <br />
+| linenumber = <br />
+| el = 全線非電化<br />
+| speed = <br />
+| maxincline =<br />
+| map = <br />
+| map_state = <br />
+}}<br />
+<br />
+&#39;西埠頭線&#39;（にしふとうせん）は、岡山県倉敷市の三菱自工前駅から西埠頭駅に至る水島臨海鉄道の鉄道路線である。貨物営業のみを行っている貨物線であるが、現在貨物列車の運行は無い。<br />
+<br />
+== 路線データ ==<br />
+* 路線距離（営業キロ）：0.8km<br />
+* 軌間：1067mm<br />
+* 駅数：<br />
+** 旅客駅：1駅（三菱自工前駅）<br />
+** 貨物駅：1駅（西埠頭駅）<br />
+* 複線区間：なし（全線単線）<br />
+* 電化区間：なし（全線非電化）<br />
+* 閉塞方式：スタフ閉塞式<br />
+* 保安装置：ATS-SM<br />
+<br />
+西埠頭線は、『鉄道要覧』では独立した一路線として記載されているが国土交通省鉄道局監修『鉄道要覧』平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>度版、電気車研究会・鉄道図書刊行会、p.166、水島臨海鉄道のホームページでは一路線としてではなく、水島本線の引き込み線として記述されている[http://www.mizurin.co.jp/company/history.html 会社沿革] - 水島臨海鉄道、20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>7月20日閲覧。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>（昭和<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）7月1日 倉敷市営鉄道として水島港駅 - 西埠頭駅間 (1.4km) が開業。<br />
+* 1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>（昭和<a href="http://localhost/keyword/45%E5%B9%B4">45年</a>）4月1日 水島臨海鉄道に譲渡。<br />
+* 1<a href="http://localhost/keyword/983%E5%B9%B4">983年</a>（昭和<a href="http://localhost/keyword/58%E5%B9%B4">58年</a>）4月1日 起点を水島港駅から三菱自工前駅に変更 (+0.3km)。<br />
+* 200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>（平成<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）三菱自工前駅 - 西埠頭駅間 0.9km短縮。<br />
+<br />
+== 駅一覧 ==<br />
+三菱自工前駅 - 西埠頭駅<br />
+<br />
+== 接続路線 ==<br />
+* 三菱自工前駅：水島臨海鉄道水島本線<br />
+<br />
+== 現況 ==<br />
+20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>7月現在、途中にある3か所の踏切のうち2か所の線路側にバリケードを設置、遮断桿を撤去の上『警報器使用停止中』の看板が設置されており、また西埠頭駅構内も完全に雑草に覆われ、ゴミや砂利で線路が埋まっているなど、とても列車が運行できる状態ではなく、さながら廃線跡の様な様相を現している。しかし、踏切以外の信号設備は生きた状態のまま（駅間にある信号機は常時点燈状態）となっており、当路線が廃線や休止線でないことを示している。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道路線一覧<br />
+<br />
+<br />
+にしふとうせん<br />
+Category:第三セクター路線<br />
+路にしふとうせん<br />
+Category:岡山県の交通<br />

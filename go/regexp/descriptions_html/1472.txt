@@ -1,0 +1,75 @@
+description<br />
+宇部線<br />
+|キロ程 = 15.2<br />
+|起点駅 = 新山口<br />
+|所在地幅 = long<br />
+|所在地 = 山口県宇部市大字東岐波字切貫5034<br />
+|緯度度 = 33|緯度分 = 58|緯度秒 = 12.94<br />
+|経度度 =131|経度分 = 20|経度秒 = 12.26<br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/924%E5%B9%B4">924年</a>（大正<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）8月17日<br />
+|廃止年月日 =<br />
+|乗車人員 = 243<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|乗換 =<br />
+|備考 = 無人駅（自動券売機 有）<br />
+|備考全幅 =<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E4%B8%B8%E5%B0%BE%E9%A7%85">丸尾駅</a>&#39;（まるおえき）は、山口県宇部市大字東岐波字切貫にある、西日本旅客鉄道（JR西日本）宇部線の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/924%E5%B9%B4">924年</a>（大正<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）8月17日 - 宇部鉄道の本阿知須駅（現・阿知須駅） - 床波駅間延伸により開業。<br />
+* 1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a>（昭和<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）5月1日 - 宇部鉄道国有化。国有鉄道宇部東線の駅となる。<br />
+* 1<a href="http://localhost/keyword/948%E5%B9%B4">948年</a>（昭和<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）2月1日 - 宇部東線が宇部線に改称され、当駅もその所属となる。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により西日本旅客鉄道（JR西日本）が継承。<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）9月28日 - 簡易委託終了により無人化。<br />
+<br />
+== 駅構造 ==<br />
+宇部新川方面に向かって右側に単式ホーム1面1線を有する地上駅（停留所）。かつては交換可能駅であり、島式ホームの片面（下り線側）を使用している。線路が剥がされた上り線側の一部は、駅舎とホームをつなぐ通路によって埋められている。<br />
+<br />
+駅舎は上り線西側の新山口寄りに位置している。無人化の際、鉄道OBが車発機により切符を発券発売していたが、高齢により一旦窓口を閉鎖。200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>に地元シルバー人材センターにより窓口営業が復活し、平日のみ午前7時から午後6時まで駅員が配置（簡易委託駅、POS端末設置）されていたが、20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>に再び無人化された。駅の管理は山口地域鉄道部（宇部新川駅）が行っている。<br />
+<br />
+== 利用状況 ==<br />
+1日の平均乗車人員は以下の通りである。<br />
+<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+<br />
+<br />
+; 医療機関<br />
+* 宇部興産中央病院<br />
+; 教育機関<br />
+* 宇部市立東岐波中学校<br />
+* 宇部市立東岐波小学校<br />
+<br />
+; 金融機関<br />
+* 山口銀行東岐波出張所<br />
+* 西中国信用金庫東岐波支店<br />
+; 郵便局<br />
+* 丸尾簡易郵便局<br />
+<br />
+<br />
+== 隣の駅 ==<br />
+; 西日本旅客鉄道<br />
+: 宇部線<br />
+:: 岐波駅 - &#39;<a href="http://localhost/keyword/%E4%B8%B8%E5%B0%BE%E9%A7%85">丸尾駅</a>&#39; - 床波駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jr-odekake.net/eki/top.php?id=0802007 <a href="http://localhost/keyword/%E4%B8%B8%E5%B0%BE%E9%A7%85">丸尾駅</a>（JR西日本）]<br />
+<br />
+<br />
+<br />
+<br />
+Category:山口県の鉄道駅<br />
+るお<br />
+Category:西日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:宇部鉄道<br />
+まるおえき<br />
+Category:1<a href="http://localhost/keyword/924%E5%B9%B4">924年</a>開業の鉄道駅<br />

@@ -1,0 +1,14 @@
+description
+'ATC'
+
+* アジア太平洋トレードセンター (''Asia & Pacific Trade Center'')
+* 航空交通管制 (''Air Traffic Control'')
+* 三輪の全地形型車両 (''All Terrain Cycles'')
+* 自動工具交換装置 (''Automatic Tool Changer'')
+* 自動列車制御装置 (''Automatic Train Control'')
+* オールテレーンクレーン (''All Terrain Crane'')
+* アフターターボキャタリスト（''AfterTurbo Catalyst''） - ディーゼルエンジン用酸化触媒のひとつ。排出ガス温度の高いターボチャージャー直下に配置する。さらに下流のDPFや還元触媒と組み合わせて排出ガスの浄化に用いられる。
+* 'ATC分類'、'ATCコード'：解剖治療化学分類法（''Anatomical Therapeutic Chemical Classification System''）
+* 平均総費用 (''Average Total Cost'') - 平均費用（AC）と同義だが、固変分類が意識される時に使われることがある。
+
+

@@ -1,0 +1,8 @@
+description
+'OTS'
+*CORBAが提供するサービス「Object Transaction Service」の略。
+*アメリカ合衆国の貯蓄金融機関監督局。Office of Thrift Supervision。
+*大阪市の流通施設管理会社大阪港トランスポートシステムの略。
+*オンコセラピー・サイエンス (OncoTherapy Science)
+*日本のレンタカー会社。沖縄県と北海道のみで展開。
+

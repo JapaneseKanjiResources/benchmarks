@@ -1,0 +1,33 @@
+description<br />
+<br />
+&#39;<a href="http://localhost/keyword/SI%E7%B5%84%E7%AB%8B%E5%8D%98%E4%BD%8D">SI組立単位</a>&#39;（エスアイくみたてたんい）は、国際単位系(SI)の基本単位を組み合わせて作ることができる単位である。基本単位の冪乗の乗除だけで作ることができる組立単位は「一貫性のある組立単位」と言い、国際単位系は全ての組立単位が一貫性のある組立単位である、「一貫性のある単位系」である。<br />
+<br />
+ラジアンとステラジアンは、以前は補助単位とされていたが、1<a href="http://localhost/keyword/995%E5%B9%B4">995年</a>の国際度量衡総会(CGPM)において、補助単位という区分は廃止すること、この2つの単位は無次元の組立単位として解釈することが決議された。<br />
+<br />
+== <a href="http://localhost/keyword/SI%E7%B5%84%E7%AB%8B%E5%8D%98%E4%BD%8D">SI組立単位</a> ==<br />
+下に、SI国際文書第8版「2.2 SI 組立単位」で挙げられている<a href="http://localhost/keyword/SI%E7%B5%84%E7%AB%8B%E5%8D%98%E4%BD%8D">SI組立単位</a>、およびその他の<a href="http://localhost/keyword/SI%E7%B5%84%E7%AB%8B%E5%8D%98%E4%BD%8D">SI組立単位</a>を列挙する。世の中に存在する量は限りなくあり、全てを挙げることは不可能であるので、表2・表4ではその一例が挙げられている。<br />
+<br />
+=== 表2 基本単位を用いて表される一貫性のある<a href="http://localhost/keyword/SI%E7%B5%84%E7%AB%8B%E5%8D%98%E4%BD%8D">SI組立単位</a>の例 ===<br />
+屈折率と比透磁率の記号の「1」は無次元であることを示すもので、通常は単位記号の「1」は書かない。<br />
+<br />
+<br />
+=== 表3 固有の名称と記号で表される一貫性のある<a href="http://localhost/keyword/SI%E7%B5%84%E7%AB%8B%E5%8D%98%E4%BD%8D">SI組立単位</a> ===<br />
+いくつかの<a href="http://localhost/keyword/SI%E7%B5%84%E7%AB%8B%E5%8D%98%E4%BD%8D">SI組立単位</a>には、利便性の観点から固有の名称と記号が与えられている。固有の名称を持つ<a href="http://localhost/keyword/SI%E7%B5%84%E7%AB%8B%E5%8D%98%E4%BD%8D">SI組立単位</a>は、下記に示す22個である。下方の4つの単位は、健康保護の観点から特別に固有の名称を与えられたものである。<br />
+<br />
+<br />
+=== 表4 単位の中に固有の名称と記号を含む一貫性のある<a href="http://localhost/keyword/SI%E7%B5%84%E7%AB%8B%E5%8D%98%E4%BD%8D">SI組立単位</a>の例 ===<br />
+固有の名称を持つ<a href="http://localhost/keyword/SI%E7%B5%84%E7%AB%8B%E5%8D%98%E4%BD%8D">SI組立単位</a>は、SI基本単位や他の<a href="http://localhost/keyword/SI%E7%B5%84%E7%AB%8B%E5%8D%98%E4%BD%8D">SI組立単位</a>と組み合わせて他の組立量を表すために用いることができる。<br />
+<br />
+<br />
+=== その他の組立単位 ===<br />
+<br />
+<br />
+==関連項目==<br />
+* 国際単位系<br />
+* 物理単位<br />
+<br />
+<br />
+<br />
+*<br />
+<br />
+sv:SI-enhet#Härledda enheter<br />

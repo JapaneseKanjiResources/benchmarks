@@ -1,0 +1,20 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>&#39;（げんしばんごう）とは、原子において、その<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E6%A0%B8">原子核</a>の中にある陽子の個数を表した番号である。電荷をもたない原子においては、原子中の電子の数に等しい。Zで表すことが多いが、これはドイツ語のZahlの頭文字で数という意味である。<br />
+<br />
+== 概要 ==<br />
+元来、<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>は周期表におけるある元素の位置を示す番号のことであった。メンデレーエフによって元素がグループ化されたとき、元素を厳密に原子質量順に並べると、一部に元素の性質とのミスマッチが生じた。ヨウ素（<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>53、原子量126.9）とテルル（<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>52、原子量127.6）は順番を入れ替えることによって、周期表上の位置が暗示する化学的性質により一層適合していた。<br />
+<br />
+この不規則性は1<a href="http://localhost/keyword/913%E5%B9%B4">913年</a>に<a href="http://localhost/keyword/%E3%83%A2%E3%83%BC%E3%82%BA%E3%83%AA%E3%83%BC">モーズリー</a>によって説明された。彼は元素のX線回折スペクトルとその元素の周期表上の正しい位置との厳密な関係を発見した。のちに、<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>が<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E6%A0%B8">原子核</a>の電荷と対応していることが分かった。<br />
+<br />
+<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>は原子中の陽子と中性子の数の合計である質量数と密接に関連している。<br />
+<br />
+負の数の<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>もある（反水素は-1、反ヘリウムは-2）。<br />
+<br />
+== 関連項目 ==<br />
+<br />
+*物質<br />
+*<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>順に並べた原子の一覧<br />
+<br />
+<br />
+Category:原子<br />
+Category:<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E6%A0%B8">原子核</a>物理学<br />

@@ -1,0 +1,63 @@
+description<br />
+ |<br />
+ 世紀=1 |<br />
+ 次世紀=2 |<br />
+<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=40 |<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=50 |<br />
+ <a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀=60 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=70 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=80 |<br />
+<br />
+ 3年前=66 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>前=67 |<br />
+ 1年前=68 |<br />
+ 年=69 |<br />
+ 1年後=70 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>後=71 |<br />
+ 3年後=72 |<br />
+}}<br />
+<br />
+<br />
+== 他の紀年法 ==<br />
+<br />
+* 干支 : 己巳<br />
+* 日本<br />
+** 垂仁天皇<a href="http://localhost/keyword/98%E5%B9%B4">98年</a><br />
+** 皇紀<a href="http://localhost/keyword/729%E5%B9%B4">729年</a><br />
+*中国<br />
+** 後漢 : 永平<a href="http://localhost/keyword/12%E5%B9%B4">12年</a><br />
+* 朝鮮<br />
+** 高句麗 : 太祖王<a href="http://localhost/keyword/17%E5%B9%B4">17年</a><br />
+** 新羅 : 脱解王<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+** 百済 : 多婁王<a href="http://localhost/keyword/42%E5%B9%B4">42年</a><br />
+** 檀紀2<a href="http://localhost/keyword/402%E5%B9%B4">402年</a><br />
+* 仏滅紀元 : <a href="http://localhost/keyword/612%E5%B9%B4">612年</a><br />
+* ユダヤ暦 : 3<a href="http://localhost/keyword/829%E5%B9%B4">829年</a> - 3<a href="http://localhost/keyword/830%E5%B9%B4">830年</a><br />
+<br />
+== できごと ==<br />
+* ヴェスヴィオ山の裾野にあったエルコラーノやポンペイの町が、地震で大損害を受けた。以後<a href="http://localhost/keyword/79%E5%B9%B4">79年</a>まで続き、8月にはあの大噴火となった大久保雅弘著『地球の歴史を読みとく －ライエル「地質学原理」抄訳－』古今書院 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a> 65ページ。<br />
+<br />
+=== ローマ帝国 ===<br />
+==== 四皇帝の年(68-<a href="http://localhost/keyword/69%E5%B9%B4">69年</a>) ====<br />
+* 1月15日 - ガルバ殺害<br />
+* 1月15日 - オトがローマ皇帝に即位<br />
+* 4月15日 - オト自死<br />
+* 4月17日 - ウィテリウス即位<br />
+* 12月22日 - ウィテリウス殺害<br />
+<br />
+== 誕生 ==<br />
+<br />
+== 死去 ==<br />
+* 1月15日 - ガルバ、ローマ皇帝（* <a href="http://localhost/keyword/%E7%B4%80%E5%85%83%E5%89%8D3%E5%B9%B4">紀元前3年</a>）<br />
+* 4月15日 - オト、ローマ皇帝（* 3<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）<br />
+* 12月22日 - ウィテリウス、ローマ皇帝（* <a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 参考文献 ==<br />
+<br />
+*<br />
+<br />
+als:60er#69<br />

@@ -1,0 +1,11 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89">キーボード</a>&#39; (keyboard) は、鍵盤を意味する語。<br />
+<br />
+<br />
+* <a href="http://localhost/keyword/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89">キーボード</a> (楽器) - 鍵盤楽器の鍵盤のことだが、もっぱらシンセサイザーと一体化されているそれを指すことが多い。MIDI信号を送信するだけのMIDI<a href="http://localhost/keyword/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89">キーボード</a>といったものもある。<br />
+* <a href="http://localhost/keyword/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89">キーボード</a> (コンピュータ) - コンピュータへの入力装置。<br />
+<br />
+<br />
+<br />
+<br />
+Category:鍵盤<br />

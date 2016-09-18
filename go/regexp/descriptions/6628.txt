@@ -1,0 +1,35 @@
+description
+
+'ガラゴ属'（ガラゴぞく、''Galago''）は、哺乳綱サル目曲鼻猿亜目ロリス下目ガラゴ科の属である。
+* 'ガラゴ属'
+** ''G. senegalensis'' 群
+*** ショウガラゴ(ブッシュベイビー)、''Galago senegalensis''
+**** ''Galago senegalensis senegalensis''
+**** ''Galago senegalensis braccatus''
+**** ''Galago senegalensis sotikae''
+**** ''Galago senegalensis dunni''
+*** モホールガラゴ, ''Galago moholi''
+*** ソマリアガラゴ, ''Galago gallarum''
+** ''G. matschiei'' 群
+*** マチーガラゴ, ''Galago matschiei''
+** ''G. alleni'' 群 - ''Galagoides'' 属に分類されることもある。
+*** アレンガラゴ, ''Galago alleni''
+*** Cross River Bushbaby, ''Galago cameronensis''
+*** Gabon Bushbaby, ''Galago gabonensis''
+** ''G. zanzibaricus'' 群
+*** ザンジバルガラゴ, ''Galago zanzibaricus''
+**** ''Galago zanzibaricus zanzibaricus''
+**** ''Galago zanzibaricus cocos''
+*** Grant's Bushbaby, ''Galago granti''
+*** Malawi Bushbaby, ''Galago nyasae''
+** ''G. orinus'' 群
+*** Uluguru Bushbaby, ''Galago orinus''
+*** Rondo Bushbaby, ''Galago rondoensis''
+** ''G. demidoff'' 群
+*** Prince Demidoff's Bushbaby, ''Galago demidoff''
+*** トマスガラゴ, ''Galago thomasi''
+
+
+
+
+Category:サル目

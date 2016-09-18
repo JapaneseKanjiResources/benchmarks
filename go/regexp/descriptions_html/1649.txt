@@ -1,0 +1,55 @@
+description<br />
+&#39;<a href="http://localhost/keyword/GIMPS">GIMPS</a>&#39; は &#39;Great Internet Mersenne Prime Search&#39; の略称。メルセンヌ素数の発見を目的として1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a>に発足した。<br />
+<br />
+分散型コンピューティングによって、参加者のコンピュータの余剰処理能力などを利用して解析、検証作業を行う。参加者は、インターネットから無料でダウンロードできるオープンソースソフトウェアを用いて解析の手助けをする。このプロジェクトは George Woltman によってソフトが作られ、開始された。Scott Kurowski が研究を手助けするサーバを稼動させている。<br />
+<br />
+このプロジェクトはかなり成功しているといえる。15のメルセンヌ素数を発見し、そのうち13が発見時には最大のメルセンヌ素数であり、さらに発見されている素数の中でも最大のものである。現在発見されている最大のメルセンヌ素数は 2 &amp;minus; 1 である。<br />
+<br />
+== <a href="http://localhost/keyword/GIMPS">GIMPS</a>によって発見されたメルセンヌ素数 ==<br />
+以下は現在までに<a href="http://localhost/keyword/GIMPS">GIMPS</a>参加者が発見したメルセンヌ素数の一覧である。<br />
+;1<a href="http://localhost/keyword/996%E5%B9%B4">996年</a>11月13日<br />
+:Joel Armengaud が35番目のメルセンヌ素数、2 &amp;minus; 1 を発見。<br />
+;1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>8月24日<br />
+:Gordon Spence が36番目のメルセンヌ素数、2 &amp;minus; 1 を発見。<br />
+;1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a>1月27日<br />
+:Roland Clarkson が37番目のメルセンヌ素数、2 &amp;minus; 1 を発見。<br />
+;19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>6月1日<br />
+:Nayan Hajratwala が38番目のメルセンヌ素数、2 &amp;minus; 1 を発見。<br />
+;2001年11月14日<br />
+:Michael Cameron が39番目のメルセンヌ素数、2 &amp;minus; 1 を発見。<br />
+;2003年11月17日<br />
+:Michael Shafer が40番目のメルセンヌ素数、2 &amp;minus; 1 を発見。<br />
+;200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>5月15日<br />
+:Josh Findley が41番目のメルセンヌ素数、2 &amp;minus; 1 を発見。<br />
+;200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>2月18日<br />
+:Dr. Martin Nowak が42番目のメルセンヌ素数、2 &amp;minus; 1 を発見。<br />
+;200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>12月15日<br />
+:Dr. Curtis Cooper と Dr. Steven Boone が43番目のメルセンヌ素数、2 &amp;minus; 1 を発見。<br />
+;200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>9月4日<br />
+:Dr. Curtis Cooper と Dr. Steven Boone が44番目のメルセンヌ素数、2 &amp;minus; 1 を発見。<br />
+;200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>8月23日<br />
+:UCLA のコンピュータが現在分かっている中では47番目のメルセンヌ素数、2 &amp;minus; 1 を発見。<br />
+::これは、1000万桁を越す素数の初めての発見であり、EFF から10万ドルの賞金が与えられた。<br />
+;200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>9月6日<br />
+:Hans-Michael Elvenich が現在分かっている中では45番目のメルセンヌ素数、2 &amp;minus; 1 を発見。<br />
+;200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>4月12日<br />
+:Odd Magnar Strindmo が現在分かっている中では46番目のメルセンヌ素数、2 &amp;minus; 1 を発見。<br />
+;20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>1月25日<br />
+:Dr. Curtis Cooper が現在分かっている中では48番目のメルセンヌ素数、2 &amp;minus; 1 を発見。<br />
+;20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>9月17日<br />
+:Dr. Curtis Cooper が現在分かっている中では49番目のメルセンヌ素数、2 &amp;minus; 1 を発見。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+*メルセンヌ数<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.mersenne.org/ Homepage of <a href="http://localhost/keyword/GIMPS">GIMPS</a>]<br />
+<br />
+<br />
+<br />
+Category:計算数論<br />
+Category:分散コンピューティングプロジェクト<br />
+Category:数学に関する記事<br />

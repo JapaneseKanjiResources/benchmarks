@@ -1,0 +1,15 @@
+description<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E8%A9%A6%E8%A1%8C%E9%8C%AF%E8%AA%A4">試行錯誤</a>&#39;（しこうさくご）<br />
+<br />
+* 四字熟語の一つ。新しい物事を、いろいろ試して失敗しつつ完成に近づけてゆくこと。英語でtrial and errorという。技術の分野ではカット＆トライという言葉を用いることもある。<br />
+* エドワード・ソーンダイクがとなえた<a href="http://localhost/keyword/%E8%A9%A6%E8%A1%8C%E9%8C%AF%E8%AA%A4">試行錯誤</a>説のこと。<br />
+* 『&#39;試考錯誤&#39;』は、幻超二の漫画。<br />
+<br />
+<br />
+<br />
+category:技術<br />
+category:設計<br />
+category:学習<br />
+category:教育の手法<br />
+Category:ヒューリスティクス<br />

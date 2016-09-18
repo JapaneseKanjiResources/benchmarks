@@ -1,0 +1,41 @@
+description<br />
+<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E3%83%8E%E3%83%83%E3%83%88">ノット</a>&#39;（knot, 記号 kn,kt）は速さの単位である。1時間に1海里進む速さを示す。漢字では&#34;節&#34;という表記が用いられる。<br />
+<br />
+== 概要 ==<br />
+国際単位系の文書には非SI単位の一つとして掲げられており、その定義は、1<a href="http://localhost/keyword/%E3%83%8E%E3%83%83%E3%83%88">ノット</a> = (1852/3600) m/s である国際文書第8版 (2006) 国際単位系（SI）日本語版 http://www.nmij.jp/library/units/si/R8/SI8J.pdf　p.40 表 8  その他の非SI単位。換算すると、約 0.514 444 m/s ということになる。1時間に1海里進む速さということである。1海里（国際海里）は1852メートルであるので、1<a href="http://localhost/keyword/%E3%83%8E%E3%83%83%E3%83%88">ノット</a>は正確に1852メートル毎時となる。　<br />
+<br />
+<a href="http://localhost/keyword/%E3%83%8E%E3%83%83%E3%83%88">ノット</a>は「国際単位系 (SI)に属さない単位」 であるが、海里とともに「特別な状況でのみ使用される単位」とされ国際文書第8版 (2006) 国際単位系（SI）日本語版 http://www.nmij.jp/library/units/si/R8/SI8J.pdf pp.35,36,39-40、現在も船舶や航空機の速度をあらわす単位としてよく用いられている。これは海図上や航空図上で距離を測るには緯度1分に相当する海里を用いて計算するほうが容易であり、したがって速度も<a href="http://localhost/keyword/%E3%83%8E%E3%83%83%E3%83%88">ノット</a>を用いる方が便利であるためである[http://www.jsanet.or.jp/seminar/text/seminar_004.html 004　ロープの結び目から生まれた、船の速力の単位「<a href="http://localhost/keyword/%E3%83%8E%E3%83%83%E3%83%88">ノット</a>」] 日本船主協会：海運資料室：海運雑学ゼミ<a href="http://localhost/keyword/%E3%83%8A%E3%83%BC%E3%83%AB">ナール</a>。<a href="http://localhost/keyword/%E3%83%8E%E3%83%83%E3%83%88">ノット</a>を使用する際には、SI単位（この場合はキロメートル毎時など）との対応関係を示す必要がある。日本の計量法では「航海又は航空に係る速さの計量」に限定して使用が認められている[http://law.e-gov.go.jp/cgi-bin/idxselect.cgi?IDX_OPT=1&amp;H_NAME=%8c%76%97%ca&amp;H_NAME_YOMI=%82%a0&amp;H_NO_GENGO=H&amp;H_NO_YEAR=&amp;H_NO_TYPE=2&amp;H_NO_NO=&amp;H_F<a href="http://localhost/keyword/ILE">ILE</a>_NAME=H04SE357&amp;H_RYAKU=1&amp;H_CTG=1&amp;H_YOMI_GUN=1&amp;H_CTG_GUN=1] 計量単位令　別表第6、第9号、「航海又は航空に係る速さの計量、 <a href="http://localhost/keyword/%E3%83%8E%E3%83%83%E3%83%88">ノット</a>、 一時間に千八百五十二メートルの速さ」。<br />
+<br />
+<a href="http://localhost/keyword/%E3%83%8E%E3%83%83%E3%83%88">ノット</a>の単位記号には、国際的に合意された記号はないが、kn がよく使われる国際文書第8版 (2006) 国際単位系（SI）日本語版 [https://www.nmij.jp/library/units/si/R8/SI8J.pdf]  p.40、表8、注(f)「<a href="http://localhost/keyword/%E3%83%8E%E3%83%83%E3%83%88">ノット</a>は 1 時間に 1 海里進む速さである．国際的に合意された記号はないが，kn がよく使われる．」。ただし、日本の計量法では、単位記号は「kt」のみと定められている[http://law.e-gov.go.jp/cgi-bin/idxselect.cgi?IDX_OPT=1&amp;H_NAME=%8c%76%97%ca%92%50%88%ca%8b%4b%91%a5&amp;H_NAME_YOMI=%82%a0&amp;H_NO_GENGO=H&amp;H_NO_YEAR=&amp;H_NO_TYPE=2&amp;H_NO_NO=&amp;H_F<a href="http://localhost/keyword/ILE">ILE</a>_NAME=H04F03801000080&amp;H_RYAKU=1&amp;H_CTG=1&amp;H_YOMI_GUN=1&amp;H_CTG_GUN=1] 計量単位規則  別表第4。<br />
+<br />
+かつては海里の定義が様々に異なっていたので、<a href="http://localhost/keyword/%E3%83%8E%E3%83%83%E3%83%88">ノット</a>の定義も異なっていたが、現在では国際海里を基にしたものに統一されているただし、イギリスでの公式の定義では、（正確に）0.514 77 m/s である。これは、1海里を1853.184 m とし、これを3600秒で除した値を小数5桁に丸めたものである[http://www.legislation.gov.uk/uksi/1995/1804/schedule/made] RELEV<a href="http://localhost/keyword/ANT">ANT</a> IMPERIAL UNITS, CORRESPONDING METRIC UNITS AND METRIC EQUIVAL<a href="http://localhost/keyword/ENT">ENT</a>S　　最下段。国際海里は1<a href="http://localhost/keyword/929%E5%B9%B4">929年</a>に定められたが、アメリカは1<a href="http://localhost/keyword/954%E5%B9%B4">954年</a>まで1海里 = 正確に6080.20 測量フィート = 約1853.248 666メートル、イギリスは1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>まで1海里 = 正確に6080 国際フィート = 正確に1853.184メートルという定義を使っていた（この値は現在でも、イギリスの公式の<a href="http://localhost/keyword/%E3%83%8E%E3%83%83%E3%83%88">ノット</a>の定義の算出に用いられている）。<br />
+<br />
+== 起源 ==<br />
+<a href="http://localhost/keyword/%E3%83%8E%E3%83%83%E3%83%88">ノット</a>という言葉は英語で「結び目」を意味する。速度計の登場以前においては「ハンドログ」という器具を用いて「28秒砂時計の砂が落ちきる前にロープの等間隔の結び目（knot）をいくつ繰り出したか」で速度を測っていたhttp://www.jrtt.go.jp/01Organization/publicity/pdf/prm/no9_007.pdf。<br />
+<br />
+目立った目印のない海上や空中では、自船の位置は進行する方位と速さを求め、その速度で航行した時間を用いて把握していた。1海里は緯度1分に相当する平均的な子午線弧長に等しいことから、海図上では非常に分かりやすい単位となる。このため、海里を単位に含む<a href="http://localhost/keyword/%E3%83%8E%E3%83%83%E3%83%88">ノット</a>は、船舶や航空機（双発以上の大型機）でよく使用されることになった。<br />
+<br />
+航海・航空分野以外でも、気象観測における風速の単位として使われることがある。例えば、国際的な海上気象データの収集・保管には、<a href="http://localhost/keyword/%E3%83%8E%E3%83%83%E3%83%88">ノット</a>が現在も使用できる[http://www.jma.go.jp/jma//kishou/books/sokkou-kaiyou/75/vol75s139.pdf] 海上気象データの長期保管フォーマット、測候時報第75巻特別号(2008)、第 2.3.1 表　IMMPC（1982 年版） けた位置25-26、p.S147。<br />
+<br />
+== 簡便な換算 ==<br />
+1<a href="http://localhost/keyword/%E3%83%8E%E3%83%83%E3%83%88">ノット</a>は、約0.514 m/s なので、概数として、1<a href="http://localhost/keyword/%E3%83%8E%E3%83%83%E3%83%88">ノット</a>の2倍が 1 m/s であるとして、簡便に換算することが多い。さらに、1<a href="http://localhost/keyword/%E3%83%8E%E3%83%83%E3%83%88">ノット</a>を1.9 km/h、1海里を 1.9kmとして簡便に換算されることもある。[http://www.jma.go.jp/jma/kishou/know/yougo_hp/kansanhyo.html] 速度・風速・距離の換算表、気象等の知識、気象庁　[http://www.jma-net.go.jp/naha-airport/koku_kishojyoho/tanni_kt.htm]。例えば、<br />
+ *10<a href="http://localhost/keyword/%E3%83%8E%E3%83%83%E3%83%88">ノット</a>　→　約5 m/s　<br />
+ *10<a href="http://localhost/keyword/%E3%83%8E%E3%83%83%E3%83%88">ノット</a>　→　約19 km/h  （10海里　→　約19 km）<br />
+<br />
+<br />
+== 注釈 ==<br />
+<br />
+<br />
+== 出典 ==<br />
+<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 速さの比較<br />
+<br />
+<br />
+category:速度の単位<br />
+category:航海術<br />

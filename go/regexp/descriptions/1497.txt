@@ -1,0 +1,85 @@
+description
+'論理演算'（ろんりえんざん、logical operation, logical connection）あるいは'ブール演算'（ブールえんざん、boolean operation）とは、「真」と「偽」の二つの元（真理値と呼ばれる）だけを持つ集合における演算である。（これらの演算によって上記の集合は環となり、'ブール環'と呼ばれる）
+
+否定（NOT）・論理和（OR）・論理積（AND）・排他的論理和（XOR）・含意・同値などがある。
+
+コンピュータプログラミング言語では通常の論理演算のほか、数値のビット毎に論理演算を行なう演算があり、これは特にビット演算という。
+
+論理（論理学）でも使われるが、非古典論理では多値論理もあるので、真理値の集合の大きさが2よりも大きいこともある。
+
+== 演算の種類 ==
+論理演算には、一つの入力の演算（否定（NOT））と、二つの入力の演算（→#論理結合子）とがある。それ以上の数の入力はこれらの演算を組み合わせて演算する。
+
+二つの入力の論理演算の全ては否定（NOT）・論理和（OR）・論理積（AND）の演算を組み合わせて演算できることから、これら三つの演算は論理演算の基礎とされている。これら三つの演算もなお、否定論理和(NOR)あるいは否定論理積(NAND)のどちらか一方を複数用いることで演算できる。その場合、二つの入力に同じ値を入力することで否定(NOT)を演算し、またド・モルガンの法則を用いて論理和と論理積とを交換することで論理和と論理積を演算する。
+
+== 論理結合子 ==
+二つの二値入力 ''P''、''Q'' に対し、以下の16種類の論理演算がある。
+
+
+
+
+
+==公式==
+論理和 (OR) = \\lor、論理積 (AND) = \\land、否定 (NOT) = \\lnotとした場合、以下の法則が成り立つ。
+*べき等則
+\\begin{align}
+p \\lor p &\\equiv p \\\\
+p \\land p &\\equiv p \\\\
+\\end{align}
+*交換則
+\\begin{align}
+p \\lor q &\\equiv q \\lor p \\\\
+p \\land q &\\equiv q \\land p \\\\
+\\end{align}
+*結合則
+\\begin{align}
+p \\lor(q \\lor r) &\\equiv (p \\lor q)\\lor r \\\\
+p \\land(q \\land r) &\\equiv (p \\land q)\\land r \\\\
+\\end{align}
+*分配則
+\\begin{align}
+p \\lor(q \\land r) &\\equiv (p \\lor q)\\land(p \\lor r) \\\\
+p \\land(q \\lor r) &\\equiv (p \\land q)\\lor(p \\land r) \\\\
+\\end{align}
+*吸収則
+\\begin{align}
+p \\lor(p \\land q) &\\equiv p \\\\
+p \\land(p \\lor q) &\\equiv p \\\\
+\\end{align}
+*ド・モルガンの法則
+\\begin{align}
+\\lnot(p \\lor q) &\\equiv (\\lnot p)\\land(\\lnot q) \\\\
+\\lnot(p \\land q) &\\equiv (\\lnot p)\\lor(\\lnot q) \\\\
+\\end{align}
+*その他
+\\begin{align}
+&p \\lor 0 \\equiv p \\\\
+&p \\land 0 \\equiv 0 \\\\
+&p \\lor 1 \\equiv 1 \\\\
+&p \\land 1 \\equiv p \\\\
+&p \\lor (\\lnot p) \\equiv 1 \\\\
+&p \\land (\\lnot p) \\equiv 0 \\\\
+&\\lnot(\\lnot p) \\equiv p \\\\
+\\end{align}
+
+==関連項目==
+*カルノー図
+*ド・モルガンの法則
+*真理値
+*マスク (情報工学)
+*数学 - 数理論理学
+*論理学
+*論理回路
+*ブール関数 - ブール代数
+*ベン図 - オイラー図
+*プログラミング言語
+
+
+
+
+
+
+
+Category:数理論理学
+Category:数学に関する記事
+Category:命題論理

@@ -1,0 +1,33 @@
+description<br />
+&#39;<a href="http://localhost/keyword/JavaBeans">JavaBeans</a>&#39;（ジャバ ビーンズ）とは、Javaで書かれた再利用可能なソフトウェアコンポーネントまたはその技術仕様のこと。1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>後半に登場。JDKのjava.beansパッケージと共にRAD環境の構築を支援するために作られた。現在ではjava.beansパッケージの技術を活用し、RAD環境の構築に限らずJSP等幅広い用途で利用されている。<br />
+<br />
+== 概要 ==<br />
+Java Beansはプログラムの再利用を目的としており、汎用的なロジックで構成されているクラスである。Javaで作成された移植可能なプラットフォームに依存しないコンポーネント・モデルで、JavaBean仕様に従う[http://otndnld.oracle.co.jp/tech/java/htdocs/java_roadmap/glossary.htm#434709 オラクルの用語集より]。<br />
+サーバーサイド向けの<a href="http://localhost/keyword/JavaBeans">JavaBeans</a>はEnterprise <a href="http://localhost/keyword/JavaBeans">JavaBeans</a>と呼ばれている。<br />
+java.beansパッケージには、Beanの要件に沿ったGUIコンポーネントを編集するためのインターフェースとなるクラスが用意されておりhttps://docs.oracle.com/javase/jp/6/api/java/beans/package-summary.html、それらのクラスを利用することでRAD環境の開発者はGUIコンポーネントのクラスに依存しないRAD環境を構築することができる共に、構築を効率化することができる。<br />
+<br />
+<br />
+== Beanの必要条件 ==<br />
+*publicで引数なしのコンストラクタが必要<br />
+*メソッドの命名規則に従わなくてはならない(getter/setterメソッドが必要など)<br />
+*<a href="http://localhost/keyword/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA">シリアライズ</a>可能でなくてはならない<br />
+など。<br />
+<br />
+== 役割 ==<br />
+java.util.Observableやjava.beans.PropertyChangeSupportと組み合わせることでModel View Controller（MVC）ではModelに相当する役割をさせることができる。<br />
+<br />
+== 注釈 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+*EJB<br />
+<br />
+== 外部リンク ==<br />
+*[https://docs.oracle.com/javase/jp/6/api/java/beans/package-summary.html]<br />
+*[http://www.solar-system.tuis.ac.jp/Java/jdk-1_5_0-doc-ja/guide/beans/index.html <a href="http://localhost/keyword/JavaBeans">JavaBeans</a> Component API]<br />
+*[http://otndnld.oracle.co.jp/tech/java/htdocs/java_roadmap/javabean/listing.htm Oracle Javaロードマップ:<a href="http://localhost/keyword/JavaBeans">JavaBeans</a>]<br />
+<br />
+<br />
+<br />
+Category:Javaプラットフォーム<br />

@@ -1,0 +1,138 @@
+description
+
+'ドラムンベース'（）は、クラブミュージックのジャンルの内の1つ。BPMが約150〜200であり、高速で複雑なシンコペーションを用いたブレイクビーツサウンドにキックとベースを強調した重低音が特徴。通常はサンプリングやシンセサイザーを用いて制作される。略称として'DnB'、'D&B'、'D'n'B'などがあり、別表記は'Drum 'n' Bass'、'Drum & Bass'など。
+
+== 概要 ==
+ジャングルと同じく、1990年代初頭にイングランドで発祥したといわれる。どちらもブレイクビーツをルーツとしているが、ドラムンベースの特色として挙げられるのは、ジャングルよりもさらに複雑化したリズムであり、ヒップホップよりも速いBPMを用いることである。ドラムンベースの作曲方法は、サンプリングが基本であり、レコードやサンプリング音源から収録したサンプルをサンプラーで再構築し、シーケンサーを用いて演奏され、シンセサイザーでメロディなどが足されることが多い[http://www.ukadapta.com/contents/Music/Music_Drumnbass.html ukadapta ドラムンベースコラム]2015年11月29日閲覧。。
+
+「ドラムンベース」という名称は、ジャングルとの指向の違いや方向性を明確にするために、イギリスの音楽プロデューサー LTJ Bukem が名づけた名称が一般化したもの。
+
+ドラムンベースは主に160以上のBPMを用いているが、一拍（四分音符）を単位としてそのBPM通りに感じることでより上昇感・疾走感を強める方法と、二拍を単位としそのBPMの半分としてとらえることでゆったりとした感覚や空間的広がりを強める方法がある。
+
+また、近年はドラムンベースのリズムを更に複雑化させたドリルンベースというジャンルも誕生している。ドリルンベースはSquarepusherが始めたとされ、Aphex Twinを始めとするコーンウォール一派が有名である。
+
+==2000年以降の動向==
+2000年以降になるとドラムンベースは新しい動向を見せるようになり、その要因として以下の3つに大別される。
+
+一つ目はドラムンベース・アーティストの国際化。ブラジルからは DJ Marky & XRS が2002年に LK を大ヒットさせ、オーストラリアからは2003年以降 Pendulum が登場。その他にもニュージーランドからは MC Tali や Concord Dawn、オーストリアからは D.Kay、ドイツからはKabuki、オランダからはNoisia、そして日本からは Makoto がイギリスのドラムンベースシーンに台頭している。
+
+二つ目は 「リキッド・ファンク」 と呼ばれるソフトなドラムンベースが新たなジャンルとして確立したこと。これには、2004年に大ブレイクした Artificial Intelligence、ロジスティクス、High Contrastといった新たな才能がリキッド・ファンクのスタイルを得意としていることが大きい。それまでは LTJ Bukem と FabioしかこのスタイルのドラムンベースをDJとして選曲しなかったが、今ではあらゆるDJがかけるようになっている。これを受けて、V Recordings が姉妹レーベルとして Liquid V を、さらにはハードな選曲で知られる DJ Hype が Liq-weed Ganja をリキッド・ファンク専門のレコードレーベルとして立ち上げている。
+
+三つ目は、新しいアーティストによるスタイルの多様化である。Sub Focus、Chase and Status、Baron、Twisted Individualなどの登場により、上記のリキッド・ファンクだけでなく、レゲエ的要素、ラテン系音楽、ジャズのようなベースラインを取り入れたものなどが導入されるようになった。
+
+2007年以降は、もともとのドラムンベースの特徴である重低音ベースラインをより強調した音楽も見られるようになる。きっかけは、一般の家庭用スピーカーでは聞こえないほどの重低音ベースラインを得意とする Artificial Intelligence のブレイク。それ以降、ドラムンベースにおける低音域の下限がさらに下がり、クラブのスピーカーで聞かないと曲の良し悪しを味わえない度合いがさらに強まった。
+
+2008年になるとペンデュラムがドラムンベースとロックの融合を打ち出し注目されている。
+
+2009年、ドラムンベースの進化は遂にダーティ(dirty)、或いは、アシッド(acid)と形容されるものに達している。アシッドの形容詞が示すものは幻覚作用ある音色であるが、ハウスやジャズのアシッドと同様に変調させるものもあれば、より重低音を目指すもの、前述のドリルンベース様であったりするものもある。
+
+==サブジャンル==
+* ジャズステップ(Jazzstep)
+* ジャンプアップ(Jump Up)
+* ダークステップ(Darkstep)
+* テックステップ(Techstep)
+* ドラムステップ(Drumstep)
+* ニューロファンク(Neuro Funk)
+* ハードステップ(Hardstep)
+* リキッドファンク(Liquid Funk)
+* サンベース(Sambass)、ブラジリアンドラムンベース(Brazilian drum and bass)
+* アートコア(Artcore)
+* オーケストラル・ドラムンベース(Orchestral drum and bass)
+* ラガ・ドラムンベース(Ragga drum & bass)
+* アンビエント・ドラムンベース(Ambient drum & bass)
+
+== 派生ジャンル ==
+*ドリルンベース(Drill 'n' bass)
+
+==日本におけるドラムンベース==
+1996年より、[http://www.dbs-tokyo.com Drum & Bass Sessions]が本場イギリスのドラムンベースDJを積極的に日本に招致してきた。2001年からは、渋谷にあるクラブWOMBで毎月第1土曜に06Sと題するパーティーが開催されるようになる。また、Makotoが[http://www.humanelements.jp Human Elements]と題したパーティーを不定期に開催している。
+
+== 主なアーティスト ==
+
+* T.Kay (ティ.ケイ)
+* Phace & Misanthrop
+* Octane & DLR
+* Ed Rush & Optical
+* 4 Hero
+* Fabio(ファビオ)Creative Source
+* Lemon D (レモン ディー) Valve
+* DJ DIE（ダイ）Clear Skyz
+* MC Moose (ムース)
+* ロジスティクス Hospital
+* DJ Friction (フリクション) Shogun Audio 
+* Bryan Gee（ブライアン・ジー）V Recordings
+* Dillinja(ディリンジャ)Valve
+* Shy FX (シャイ エフエックス) Digital Soundboy
+* Mampi Swift (マンピ スイフト) Charge 
+* Grooverider(グルーヴライダー)Prototype
+* Photek (フォーテック) Photek Productions
+* LTJ Bukem(LTJブケム)Good Looking
+* Goldie(ゴールディー)Metalheadz
+* Roni Size(ロニ・サイズ)Full Cycle
+* Andy C(アンディー・シー)Ram Records
+* Total Science(トータルサイエンス)C.I.A.
+* ロンドン・エレクトリシティHospital
+* pentagon(ペンタゴン)
+* KABUKI (カブキ) 
+* DJ Hype (ハイプ) Trueplayaz
+* DJ Zinc (ジンク) Bingo Beats
+* ダニー・バードHospital
+* Tayla（タイラ）
+* TC a.k.a. Tommy Boy（ティー・シー）
+* Furney（ファーニー）
+* Redeyes（レッドアイズ）
+* Lenzman（レンズマン）
+* Utah Jazz（ユタジャズ）
+* Electro soul system（エレクトロソウルシステム）
+* Concept&shnek（コンセプト＆シュネック）
+* Mutt
+* Nookie（ヌーキー）
+* Qumulus
+* Qemists（ケミスツ）
+* Pete rann（ピートラン）
+* J laze（ジェイレイズ）
+* Zero T（ゼロティー）
+* Calibre（カリバ)
+* Saburuko（サブルコ）
+* Raw q
+* zyon base（ザイオンベース）
+* Alix perez
+* Phat Playaz（ファット・プレイヤーズ）
+* blade（ブレード）
+* tidal（タイダル）
+* pfm（プログレッシブ・フューチャー・ミュージック）
+* aquasion（アクアジオン）
+* chris inperspective（クリス・インパースペクティブ）
+* atp（エーティーピー）
+* dramatic&dbaudio（ドラマティック＆ディービーオーディオ）
+* steez（スティーズ）
+* place42（プレース42）
+* edword oberon（エドワード・オベロン）
+* paul t（ポール・ティー）
+* mr.joseph(ミスター・ジョセフ)
+* big bud(ビッグ・バド)
+* soultec(ソウル・テック)
+* dv8(ディーブイ8)
+* Talvin Singh (タルヴィン・シン)
+* arp-1
+* pennygiles
+* jrumhand
+* balde
+* deeper connection
+* scott alen
+* mjt
+* Brainshocker
+* DJ Fresh
+* Feint
+* Goldie
+
+
+== 出典 ==
+
+
+
+
+
+Category:音楽のジャンル
+Category:エレクトロニック・ダンス・ミュージック
+Category:テクノミュージック

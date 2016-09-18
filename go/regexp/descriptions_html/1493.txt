@@ -1,0 +1,78 @@
+description<br />
+&#39; <a href="http://localhost/keyword/%E6%92%AD%E4%BD%86%E7%B7%9A">播但線</a><br />
+|キロ程 = 8.2<br />
+|起点駅 = 姫路<br />
+|所在地 = 兵庫県姫路市仁豊野265-2<br />
+|座標    = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/896%E5%B9%B4">896年</a>（明治<a href="http://localhost/keyword/29%E5%B9%B4">29年</a>）8月19日<br />
+|廃止年月日 =<br />
+|乗車人員 = 1,059<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a><br />
+|乗換 =<br />
+|備考 = 業務委託駅<br />
+}}<br />
+姫路側からホームを望む<br />
+福崎側からホームを望む<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E4%BB%81%E8%B1%8A%E9%87%8E%E9%A7%85">仁豊野駅</a>&#39;（にぶのえき）は、兵庫県姫路市仁豊野にある、西日本旅客鉄道（JR西日本）<a href="http://localhost/keyword/%E6%92%AD%E4%BD%86%E7%B7%9A">播但線</a>の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/896%E5%B9%B4">896年</a>（明治<a href="http://localhost/keyword/29%E5%B9%B4">29年</a>）8月19日 - 播但鉄道の野里駅 - 香呂駅間に新設開業。旅客・貨物の取扱を開始。<br />
+* 1<a href="http://localhost/keyword/903%E5%B9%B4">903年</a>（明治<a href="http://localhost/keyword/36%E5%B9%B4">36年</a>）6月1日 - 播但鉄道が山陽鉄道に営業譲渡。山陽鉄道の駅となる。<br />
+* 1<a href="http://localhost/keyword/906%E5%B9%B4">906年</a>（明治<a href="http://localhost/keyword/39%E5%B9%B4">39年</a>）12月1日 - 山陽鉄道国有化により、国有鉄道の駅となる。<br />
+* 1<a href="http://localhost/keyword/909%E5%B9%B4">909年</a>（明治<a href="http://localhost/keyword/42%E5%B9%B4">42年</a>）10月12日 - 線路名称制定。<a href="http://localhost/keyword/%E6%92%AD%E4%BD%86%E7%B7%9A">播但線</a>の所属となる。<br />
+* 1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>（昭和<a href="http://localhost/keyword/46%E5%B9%B4">46年</a>）12月1日 - 貨物の取扱を廃止。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により西日本旅客鉄道の駅となる。<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）8月1日 - 窓口営業時間を変更。3時間40分延長し、7時10分 - 21時（変更前 - 17時20分）となる。<br />
+* 20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>（平成2<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）3月26日 - ICOCAの使用開始。<br />
+<br />
+=== 駅名の由来 ===<br />
+仁豊野は古図には「ニウノ」とある。「丹生野」、あるいは水辺を意味する「ミブ」が転じたものか播磨地名研究会（編著）『新・姫路の町名』　神戸新聞総合出版センター、200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>、ISBN 978-4-343-00444-4、pp.151-152。。<br />
+<br />
+== 駅構造 ==<br />
+相対式ホーム2面2線を持つ地上駅。駅舎は姫路方面行きホーム側にあり、反対側の寺前方面行きホームへは跨線橋で連絡している。配線上では姫路寄りの分岐がY字になっている関係で、停車列車のホームは方向別に分かれている。<br />
+<br />
+福知山支社管内にありながら、ジェイアール西日本交通サービス受託の業務委託駅であったが、200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>（平成<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）10月改正からジェイアール西日本福知山メンテックに移管された。福崎駅管理。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+== 利用状況 ==<br />
+1日平均の乗車人員は1,059人である（20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>度）。<br />
+近年の1日平均乗車人員は以下の通りである。<br />
+<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+和辻哲郎の出生地である。かつてはベトナム戦争の難民の定住センターが置かれていた。<br />
+* 国道312号<br />
+* 聖フランシスコ病院修道女会・姫路聖マリア病院<br />
+* 姫路セントラルパーク 当駅からタクシーで10分。姫路駅から神姫バスで約30分とされているが運行本数が少なく、市内の道が渋滞することもあり、仁豊野から姫路セントラルパークまでの道のりは比較的交通量が少ない。そのため、当駅からタクシーを使うほうが最速でつく場合もある。特に8月は入園者が多く、姫路城に観光する人も8月はやや多いため、8月は渋滞する傾向にある。<br />
+* 姫路ばら園 (姫路市豊富町) 開園期間は5月～6月と10月～11月で、国道312号線が毎年渋滞している。当駅から北へ徒歩12分<br />
+== 隣の駅 ==<br />
+; 西日本旅客鉄道<br />
+: &#39;&#39; <a href="http://localhost/keyword/%E6%92%AD%E4%BD%86%E7%B7%9A">播但線</a><br />
+:: 砥堀駅 - &#39;<a href="http://localhost/keyword/%E4%BB%81%E8%B1%8A%E9%87%8E%E9%A7%85">仁豊野駅</a>&#39; - 香呂駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jr-odekake.net/eki/top.php?id=0610207 <a href="http://localhost/keyword/%E4%BB%81%E8%B1%8A%E9%87%8E%E9%A7%85">仁豊野駅</a>（JR西日本）]<br />
+<br />
+<br />
+<br />
+<br />
+Category:姫路市の鉄道駅<br />
+ふの<br />
+Category:西日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:山陽鉄道<br />
+Category:播但鉄道<br />
+Category:1<a href="http://localhost/keyword/896%E5%B9%B4">896年</a>開業の鉄道駅<br />

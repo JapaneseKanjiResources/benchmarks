@@ -1,0 +1,40 @@
+description
+
+|亜目 = スズメ亜目 
+|小目 = スズメ小目 
+|上科 = スズメ上科 
+|科 = アトリ科 
+|亜科 = 'アトリ亜科' 
+|属 = 'アトリ属' 
+|学名 = ''Fringilla'' 
+|下位分類名 = 種
+|下位分類 =
+* ズアオアトリ 
+* アトリ 
+* カナリーアオアトリ 
+}}
+
+
+
+アトリ属（アトリぞく、学名 ）は、スズメ目アトリ科の1属である。
+
+全長15cmくらいの、互いに似た体型をしている。雛の餌に、近縁な他の鳥のような種子ではなく昆虫を与える。
+
+==系統と分類==
+アトリ科の中で最初に分岐した属であり、アトリ科の残り全てと姉妹群である。そのため単独でアトリ亜科に分類される。
+
+Sibley分類ではアトリ科アトリ亜科（アトリ科に相当）アトリ族  の唯一の属とされた。
+
+==種==
+3種が属する[http://www.worldbirdnames.org/n-finches.html IOC World Bird List 2.4: Finches] by Frank Gill, David Donsker and the IOC team。
+
+* , /[http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=LinkOut&id=37598&lvl=3&p=mapview&p=has_linkout&p=blast_url&p=genome_blast&srchmode=1&keep=1&unlock NCBI Taxonomy Browser: Fringilla coelebs] by NCBI, ズアオアトリ  - ヨーロッパ、北アフリカ、西アジア
+* ,  , カナリーアオアトリ  - カナリア諸島
+* , , アトリ - ユーラシア北部
+
+==出典==
+
+
+
+
+Category:アトリ科

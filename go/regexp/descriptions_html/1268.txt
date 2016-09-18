@@ -1,0 +1,135 @@
+description<br />
+<br />
+|left=アクチニウム<br />
+|right=プロトアクチニウム<br />
+|above=Ce<br />
+|below=Uqn<br />
+|group=n/a<br />
+|series=アクチノイド<br />
+|period=7<br />
+|block=f<br />
+|appearance=銀白色<br />
+|image name=Thorium sample 0.1g.jpg<br />
+|atomic mass=232.0381<br />
+|electron configuration=&amp;#91;Rn&amp;#93; 6d2 7s2<br />
+|electrons per shell=2, 8, 18, 32, 18, 10, 2<br />
+|phase=固体<br />
+|density gpcm3nrt=11.7<br />
+|melting point K=2115<br />
+|melting point C=1842<br />
+|melting point F=3348<br />
+|boiling point K=5061<br />
+|boiling point C=4788<br />
+|boiling point F=8650<br />
+|heat fusion=13.81<br />
+|heat vaporization=514<br />
+|heat capacity=26.230<br />
+|vapor pressure 1=2633<br />
+|vapor pressure 10=2907<br />
+|vapor pressure 100=3248<br />
+|vapor pressure 1 k=3683<br />
+|vapor pressure 10 k=4259<br />
+|vapor pressure 100 k=5055<br />
+|vapor pressure comment=<br />
+|crystal structure=face-centered cubic<br />
+|japanese crystal structure=面心立方<br />
+|oxidation states=&#39;4&#39;, 3, 2（弱塩基性酸化物）<br />
+|electronegativity=1.3<br />
+|number of ionization energies=3<br />
+|1st ionization energy=587<br />
+|2nd ionization energy=1<a href="http://localhost/keyword/110">110</a><br />
+|3rd ionization energy=1930<br />
+|atomic radius=179<br />
+|covalent radius=206 ± 6<br />
+|magnetic ordering=常磁性[http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf Magnetic susceptibility of the elements and inorganic compounds], in Handbook of Chemistry and Physics 81st edition, CRC press.<br />
+|electrical resistivity at 0=147 n<br />
+|thermal conductivity=54.0<br />
+|thermal expansion at 25=11.0<br />
+|speed of sound rod at 20=2490<br />
+|Young&#39;s modulus=79<br />
+|Shear modulus=31<br />
+|Bulk modulus=54<br />
+|Poisson ratio=0.27<br />
+|Mohs hardness=3.0<br />
+|Vickers hardness=350<br />
+|Brinell hardness=400<br />
+|CAS number=7440-29-1<br />
+|isotopes=<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+|isotopes comment=<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>&#39; (、漢字:鋀) は<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>90の元素で、元素記号は &#39;Th&#39; である。アクチノイド元素の一つで、銀白色の金属。<br />
+<br />
+1<a href="http://localhost/keyword/828%E5%B9%B4">828年</a>、スウェーデンのイェンス・ベルセリウスによってトール石 (thorite、ThSiO4) から発見され、その名の由来である北欧神話の雷神トールに因んで命名された。<br />
+<br />
+モナザイト砂に多く含まれ、多いもので10 %に達する。モナザイト砂は希土類元素（セリウム、ランタン、ネオジム）資源であり、その副生産物として得られる。主な産地はオーストラリア、インド、ブラジル、マレーシア、タイ。<br />
+<br />
+天然に存在する同位体は放射性の<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>232一種類だけで、安定同位体はない。しかし、<a href="http://localhost/keyword/%E5%8D%8A%E6%B8%9B%E6%9C%9F">半減期</a>が140.5億年と非常に長く、地殻中にもかなり豊富（10 ppm前後）に存在する。水に溶けにくく海水中には少ない。<br />
+<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>系列の親核種であり、放射能を持つ（アルファ崩壊）ことは、1<a href="http://localhost/keyword/898%E5%B9%B4">898年</a>にマリ・キュリーらによって発見された。 <br />
+<br />
+<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>232が中性子を吸収すると<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>233となり、これがベータ崩壊して、プロトアクチニウム233となる。これが更にベータ崩壊してウラン233となる。ウラン233は核燃料であるため、その原料となる<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>も核燃料として扱われる。<br />
+<br />
+== 性質 ==<br />
+銀白色の柔らかい金属で、非常に延性に富む。結晶構造は面心立方格子で、1400 付近で体心立方格子へ転移する。また、融点と沸点の差が大きく、液体状態をとる温度幅は2946 と元素中最大。<br />
+<br />
+酸化しやすいが、表面に酸化皮膜が形成されるとそれ以上進行しない。空気中で加熱すると白光を発して激しく燃焼し、粉末は常温で自然発火する。高温ではほかに、水素、窒素、ハロゲンと反応する。純度が高ければ空気中でも安定しているが、酸化物と混合すると酸化が促進され、灰色から最終的には黒色となる。高純度の試料でも0.1 %ほどの酸化物を含んでいる。<br />
+<br />
+水と反応して水酸化物を生じるが、不溶性なので不動態状となって反応は進みにくい。塩酸、王水には溶けるが、硝酸には不動態被膜が形成され溶けない。ただし、濃硝酸に触媒として少量のフッ化物イオンを加えると、不動態が破られ溶けるようになる。アルカリ溶液には不溶。<br />
+<br />
+酸化物は、ほとんどの酸に溶けにくい。塩類（塩酸塩、硝酸塩、硫酸塩）は水溶性だが、塩基性にすると不溶性の沈殿を生じる。<br />
+<br />
+== 化合物 ==<br />
+<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>の化合物はその酸化数が+4のとき安定となる。<br />
+<br />
+* 二酸化<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>　酸化物中、融点が最高 (3300 )。<br />
+* フッ化<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>(IV) ThF4)･4H2O　水和物をつくる。<br />
+* 水酸化<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>(IV) Th(OH)4　不溶性であり、両性ではない。<br />
+* 硝酸<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>(IV) Th(NO3)4･4H2O　水和物をつくる。<br />
+* 炭酸<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>(IV) Th(CO3)2<br />
+<br />
+* 過酸化物　不溶性固体の中にわずかに存在する。この性質を利用すると、他のイオンとの混合溶液から<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>を分離することができる。<br />
+* リン酸イオンの存在下では、Th4+ はさまざまな組成の化合物を作り、どれも水や酸性溶液に不溶である。<br />
+* フッ化カリウムやフッ化水素酸と混ぜると、Th4+ は ThF62- のような錯イオンを作り、不溶性の塩 K2ThF6 として沈殿する。<br />
+<br />
+== 同位体 ==<br />
+<br />
+<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>の同位体は全て<a href="http://localhost/keyword/%E6%94%BE%E5%B0%84%E6%80%A7%E5%90%8C%E4%BD%8D%E4%BD%93">放射性同位体</a>で、存在率100.00 %の<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>232をはじめ、27種が知られている。<br />
+原子量は210 uから236 uまで。<br />
+<br />
+ほとんどの同位体の<a href="http://localhost/keyword/%E5%8D%8A%E6%B8%9B%E6%9C%9F">半減期</a>は10分以内と短く、比較的安定な以下の4種を除いて全て30日以内である。<br />
+* <a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>230（イオニウム） ウラン238の崩壊生成物で、<a href="http://localhost/keyword/%E5%8D%8A%E6%B8%9B%E6%9C%9F">半減期</a>は75<a href="http://localhost/keyword/380%E5%B9%B4">380年</a>。<br />
+* <a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>229 励起エネルギーが7.6 eVと著しく低い核異性体を持つ。<a href="http://localhost/keyword/%E5%8D%8A%E6%B8%9B%E6%9C%9F">半減期</a>は7<a href="http://localhost/keyword/340%E5%B9%B4">340年</a>。<br />
+* <a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>228（ラジオ<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>） <a href="http://localhost/keyword/%E5%8D%8A%E6%B8%9B%E6%9C%9F">半減期</a>は1.<a href="http://localhost/keyword/92%E5%B9%B4">92年</a>。<br />
+<br />
+== 用途 ==<br />
+* 直熱型真空管：仕事関数を下げ熱電子放出を促進させるため、フィラメント表面に塗布された。主に送信管で使用され、<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>またはトリエーテッド・タングステン・フィラメントと呼ばれた。<br />
+* 高屈折率レンズ：1<a href="http://localhost/keyword/948%E5%B9%B4">948年</a>アメリカで発明された<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>レンズは、酸化<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>を10-30 %程含む超低分散光学ガラスによる。色収差が小さく、1950-1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>頃販売されたが、崩壊生成物放射線の懸念からランタノイドに置き換えられた。経年変化によるブラウニング現象でガラスが黄変するという欠点がある。通常の紫外線には反応しないが、短波長紫外線照射で青色蛍光を発するので鑑別できる「写真工業」200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>9月号。<br />
+* X線血管造影剤：第二次世界大戦前後、トロトラスト（二酸化<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>のコロイド製剤）が用いられたが、大部分が肝臓に沈着し、数十年後に肝腫瘍（肝内胆管癌、血管肉腫など）の原因となった。<br />
+* るつぼ：二酸化<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>が高融点酸化物で、高温下でも安定なことから用いられた。<br />
+* アーク溶接電極：着火性がよいTIG溶接用として、酸化<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>またはタングステン合金が用いられる。<br />
+* ガス灯のガスマントル：硝酸<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>を含浸させた繊維を灰化した発光体。炎中で硝酸<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>が酸化されて生じる酸化<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>は融点が非常に高いため安定で、加熱すると白色に強く発光することこから、白熱ガス灯やランタンのマントルとして利用されている。<br />
+* 合金素材：耐熱<a href="http://localhost/keyword/%E3%83%9E%E3%82%B0%E3%83%8D%E3%82%B7%E3%82%A6%E3%83%A0%E5%90%88%E9%87%91">マグネシウム合金</a>や、タングステンとの合金が、前述のフィラメント、アーク溶接棒として用いられる。<br />
+* 触媒：不飽和炭化水素の水素化反応に用いられる。<br />
+* 核燃料：第二次大戦後のアメリカで<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>燃料サイクルが着目、研究された。現在はインドの<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>炉で利用されている。<br />
+* 天文学：超新星爆発時の元素合成モデルの推定のため、スペクトル観測される[http://www.naoj.org/Pressrelease/2007/06/25/j_index.html 銀河系外の星にアクチノイド元素<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>を初検出]すばる望遠鏡。<br />
+<br />
+== 危険性 ==<br />
+* 燃焼性：粉末状態の<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>は自然発火性で、注意して扱うべき金属である。<br />
+* 放射性：<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>は<a href="http://localhost/keyword/%E5%8D%8A%E6%B8%9B%E6%9C%9F">半減期</a>の長いアルファ線源であり、外部被曝より内部被曝のリスクが高い。体内に入ると、肺、すい臓、肝臓について発癌危険性がある。国際がん研究機関 (IARC) は、<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>232とその崩壊生成物を「ヒトに対して発癌性がある」Group 1に分類している。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+*<br />
+Category:発癌性物質<br />

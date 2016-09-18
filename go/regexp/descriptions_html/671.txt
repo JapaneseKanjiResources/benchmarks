@@ -1,0 +1,58 @@
+description<br />
+ |<br />
+ 世紀=1 |<br />
+ 次世紀=2 |<br />
+<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=40 |<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=50 |<br />
+ <a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀=60 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=70 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=80 |<br />
+<br />
+ 3年前=65 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>前=66 |<br />
+ 1年前=67 |<br />
+ 年=68 |<br />
+ 1年後=69 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>後=70 |<br />
+ 3年後=71 |<br />
+}}<br />
+<br />
+<br />
+== 他の紀年法 ==<br />
+<br />
+* 干支 : 戊辰<br />
+* 日本<br />
+** 垂仁天皇<a href="http://localhost/keyword/97%E5%B9%B4">97年</a><br />
+** 皇紀<a href="http://localhost/keyword/728%E5%B9%B4">728年</a><br />
+* 中国<br />
+** 後漢 : 永平<a href="http://localhost/keyword/11%E5%B9%B4">11年</a><br />
+* 朝鮮<br />
+** 高句麗 : 太祖王<a href="http://localhost/keyword/16%E5%B9%B4">16年</a><br />
+** 新羅 : 脱解王<a href="http://localhost/keyword/12%E5%B9%B4">12年</a><br />
+** 百済 : 多婁王<a href="http://localhost/keyword/41%E5%B9%B4">41年</a><br />
+** 檀紀2<a href="http://localhost/keyword/401%E5%B9%B4">401年</a><br />
+* 仏滅紀元 : <a href="http://localhost/keyword/611%E5%B9%B4">611年</a><br />
+* ユダヤ暦 : 3<a href="http://localhost/keyword/828%E5%B9%B4">828年</a> - 3<a href="http://localhost/keyword/829%E5%B9%B4">829年</a><br />
+<br />
+== できごと ==<br />
+=== ローマ帝国 ===<br />
+==== 四皇帝の年（68-<a href="http://localhost/keyword/69%E5%B9%B4">69年</a>） ====<br />
+*（または<a href="http://localhost/keyword/67%E5%B9%B4">67年</a>末）ガリア・ルグドゥネンシス総督ウィンデクスが反乱を起こし、ガルバを皇帝に擁立するが、ウェルギニウスの軍団に鎮圧される。<br />
+* ヒスパニア・タッラコネンシス総督ガルバとルシタニア総督オトが反乱を起こしてローマに進軍する。6月8日 に元老院の推薦でローマ皇帝にガルバが即位（-<a href="http://localhost/keyword/69%E5%B9%B4">69年</a>）。翌6月9日に皇帝ネロが自殺。（ローマ内戦）<br />
+<br />
+<br />
+=== 後漢 ===<br />
+* 明帝の治世に仏教が中国大陸に伝わり、白馬寺が建立される。<br />
+<br />
+=== その他の地域 ===<br />
+*聖タデウス修道院が創建される。（伝承）<br />
+<br />
+== 誕生 ==<br />
+<br />
+== 死去 ==<br />
+* 6月9日 - ネロ、第5代ローマ皇帝（* <a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）<br />
+<br />
+*<br />
+<br />
+als:60er#68<br />

@@ -1,0 +1,81 @@
+description
+
+|id=
+|design= 跳開構造（はね橋）
+|mainspan= 
+|length= 
+|width=
+|clearance=
+|below=  (closed)  (open)''(mean high water spring tide)''
+|traffic=
+|open= 
+|closed=
+|toll=
+|heritage =Grade I listed structure
+|map_cue=
+|map_image=
+|map_text=
+|map_width=
+
+|latitude= 
+|longitude= 
+}}
+'タワー・ブリッジ' () は、イギリスのロンドン市内を流れるテムズ川に架かる跳開橋。1886年に着工、1894年に完成した。可動部分は初期の頃は蒸気機関で水をパイプに通して跳開部の端に水圧を掛けシーソーの原理を利用して開閉していた（この技術は世界で初めてこの橋が実用に供した）が、現在は電力を利用している。
+
+第二次世界大戦中はドイツ空軍の爆撃目標、あるいはV2ロケットなどの目標となり、1944年8月2日にV-1ロケット1発が車道部分に命中して被害を受けた。
+
+この橋はロンドンの観光定番スポットとなっているが、同じテムズ川のすぐ上流にある、民謡「ロンドン橋落ちた」で有名なロンドン橋であると、世界中の人からしばしば間違われている[http://vizts.com/london-bridge/london-bridge/ Visit all over the World] London Bridge[http://www.freetoursbyfoot.com/london-bridge-tower-bridge/] London Bridge vs. Tower Bridge[https://www.google.co.jp/search?q=London+bridge&hl=ja&biw=967&bih=590&site=webhp&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiupY6zn9HLAhXKJZQKHYZEBo8Q_AUIBygC] 「London Bridge」で動画を検索した結果。
+
+== 経緯 ==
+19世紀後半、イーストエンド・オブ・ロンドンの商業発展のためロンドン橋の下流に新たな橋が求められた。しかし、ロンドン橋とロンドン塔の間にプール・オブ・ロンドンが存在し、入港の障害となることを避けるため固定された橋の建設はできなかった。この問題を解決するため1876年に設立された委員会は、デザインの公募を行い、テムズ川を横断する方法を模索した。50以上集まった提案に対する評価の議論は長引き、1884年に都市建築家であるホーレス・ジョーンズの設計が承諾された。
+
+== 特徴 ==
+橋の長さは244m、左右にあるゴシック様式のタワーの高さは65mあり、内部は展望通路・歴史博物館がある。タワー間の橋桁の長さは61m、上部橋の高さは44mである。塔のデザインは鉄塔を腐食から守る目的と、名前の由来ともなっている付近のロンドン塔の景観への配慮から、コーンウォール産花崗岩とで覆われている。タワー上部には跳開用の水を流すパイプを通すために、跳開時用の歩道橋が設けられた。タワーの階段を上って通行できた上部橋は利用者が少なかったことから1910年に閉鎖されたが、エレベーターが設置されて1982年に展示室として公開された。
+上部橋の展示室内部
+
+== ギャラリー ==
+
+File:Girl With a Dolphin, Tower Bridge, London - geograph.org.uk - 1804004.jpg|タワーブリッジと『少女とイルカ』の像
+File:Tower_Bridge,London_Getting_Opened_1.jpg|開橋時1
+File:Tower_Bridge,London_Getting_Opened_2.jpg|開橋時2
+File:Tower_Bridge,London_Getting_Opened_3.jpg|開橋時3
+File:Tower_Bridge,London_Getting_Opened_4.jpg|開橋時4
+File:Tower_Bridge,London_Getting_Opened_5.jpg|開橋時5
+File:Tower_Bridge,London_Getting_Opened_6.jpg|開橋時6
+File:Fale London 43.jpg|橋梁内部の水平式蒸気機関
+
+
+
+
+== 注釈 ==
+
+
+== 関連項目 ==
+*ロンドン橋
+*テムズ川
+
+== 外部リンク ==
+
+* [http://www.towerbridge.org.uk/TowerBridge/Japanese/ タワーブリッジ公式サイト] 
+
+
+|upstream text = 上流:
+|downstream text = 下流:
+|upstream = ロンドン橋(道路)タワー・サブウェイ(鉄道)
+|downstream = テムズトンネル(鉄道)
+}}
+
+
+Category:可動橋
+Category:イギリスの橋
+Category:テムズ川の橋
+Category:イギリスの交通
+Category:ロンドンの建築物
+Category:ロンドンの博物館
+Category:タワーハムレッツ区
+Category:サザーク区
+Category:ロンドンの観光地
+Category:第一級指定建築物
+Category:19世紀の建築物
+
+

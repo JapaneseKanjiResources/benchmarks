@@ -1,0 +1,147 @@
+description<br />
+<br />
+（東京 - 郡山間）実キロ。東京 - 郡山間の営業キロはである。<br />
+|journeytime=<br />
+|frequency=<br />
+|trainnumber=<br />
+|line_used=東北新幹線<br />
+|class=グランクラス・グリーン車・普通車<br />
+|access=<br />
+|seating=グランクラス指定席グリーン車指定席普通車指定席普通車自由席<br />
+|sleeping=<br />
+|autorack=<br />
+|catering=<br />
+|observation=<br />
+|entertainment=<br />
+|baggage=<br />
+|otherfacilities=<br />
+|stock=E2系電車（新幹線総合車両センター） E3系電車（山形車両センター・秋田車両センター）E5系電車（新幹線総合車両センター）E6系電車（秋田車両センター）<br />
+|gauge=<br />
+|el=交流25,000 V・50 Hz（架空電車線方式）<br />
+|speed=最高<br />
+|owners=<br />
+|routenumber=<br />
+|map=<br />
+|map_state=<br />
+}}<br />
+&#39;なすの&#39;とは、東日本旅客鉄道（JR東日本）が東北新幹線の東京駅 - 那須塩原駅・郡山駅で運行している特別急行列車である。）。|date=20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>6月}}<br />
+<br />
+== 概要 ==<br />
+1<a href="http://localhost/keyword/995%E5%B9%B4">995年</a>（平成<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）12月1日に東北新幹線東京駅 - 那須塩原駅間で運転されていた「あおば」を分離し、近距離新幹線列車として運転を開始した。天皇や皇族が都内から那須御用邸へ移動する際に乗車することが多い。<br />
+<br />
+目的地である「那須野が原」にちなんでいる。2階建車両（E4系）のみの編成で運行される場合は「Maxなすの」と呼ばれていた。<br />
+<br />
+在来線では、上野駅 - 黒磯駅間を東北本線経由で運行する準急列車として登場し、その後急行列車、新特急（エル特急）の名称としても使用されていた。<br />
+<br />
+== 運行概況 ==<br />
+開業当時「あおば」という名称で運行開始された各駅停車タイプの東北新幹線列車のうち、首都圏の近距離新幹線列車（東京駅 - 那須塩原駅間を各駅停車で運行される系統）が分離され「なすの」が設定された。主な利用客は東京駅 - 小山駅・宇都宮駅間の通勤通学客およびビジネス客である。その後、東北新幹線の運行体系見直しなどにより、日中の一部列車の運行区間が郡山駅まで延長され、現行の運行形態となっている。<br />
+<br />
+定期列車の運行本数は、下り16本／上り17本（うち2往復は土曜日・休日運休）で、運行区間は東京駅 - 那須塩原駅間（下り10本／上り9本）、東京駅 - 郡山駅間（下り6本／上り7本）、東京駅 - 小山駅間（上り1本）である。<br />
+<br />
+通常は郡山駅以北では運行されていないが、20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>4月に福島駅まで臨時運行されたことがある。<br />
+<br />
+車内販売は20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>3月14日で全廃された。それまでは郡山駅発着列車（早朝の上り1本を除く）のみ営業していた。<br />
+<br />
+=== 停車駅 ===<br />
+<br />
+* ●：全列車停車 ○：一部列車のみ停車 －：通過<br />
+<br />
+=== 使用車両・編成 ===<br />
+<br />
+E2系・E3系・E5系・E6系が使用され、このうちE2系とE3系L編成を併結した17両編成、E5系とE3系R編成を併結した16両編成、E5系とE6系を併結した17両編成で運行されている。市販されている時刻表では、E6系が併結される「なすの」に「E6系」の表記がある。<br />
+<br />
+H5系を除く東北新幹線大宮以北で営業運転を行う営業用新幹線車両すべてが充当されている。通常「はやぶさ」＋「こまち」および「やまびこ」＋「つばさ」で運用されている他車の間合い運用を中心とした運用が行われる。<br />
+<br />
+E5系で運転される列車はグランクラスの営業も実施されるが、専任アテンダントによる車内サービスはなく、「はやぶさ」「はやて」「やまびこ」（一部列車を除く）より割安なグランクラス料金が設定される - 東日本旅客鉄道プレスリリース 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>12月16日。<br />
+<br />
+かつてはE1系・400系・200系・E4系も使用されていた。<br />
+<br />
+平日の東京駅17時台以降に発車する下り列車と9時台以前に東京駅に到着する上り列車は普通車が全車自由席となる。土曜日・休日は小山駅始発の252号を除く全列車に普通車の指定席が設定されている。<br />
+<br />
+<br />
+<br />
+File:Shinkansen E2-1000.JPG|E2系1000番台<br />
+File:E3 R18-E5 Coupling in omiya 20130608.jpg|E5系と連結して運転されるE3系<br />
+File:20100913153800.JPG|E2系より見た「なすの」E2系+E3系 連結部分※20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>9月のダイヤ改正で運用消滅。<br />
+File:JR East E3-1000 tsubasa +E2 yamabiko omiya.jpg|E3系1000番台<br />
+File:E3 L64-E2 Coupling in omiya 20140517.jpg|E3系2000番台   ‎<br />
+File:JRE-TEC-E5 omiya.JPG|E5系<br />
+File:E6-E5-Coupling in omiya 20130320.jpg|E5系と連結して運用されるE6系<br />
+<br />
+File:Shinkansen400 Tsubasa.JPG|20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>まで使用されていた400系<br />
+File:Shinkansen200 (K) renewal.JPG|20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>まで使用されていた200系<br />
+File:E4inKumagayaSt1.JPG|20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>まで使用されていたE4系<br />
+<br />
+<br />
+== 沿革 ==<br />
+=== 在来線 ===<br />
+<br />
+* 1<a href="http://localhost/keyword/959%E5%B9%B4">959年</a>（昭和<a href="http://localhost/keyword/34%E5%B9%B4">34年</a>）：多客期に上野駅 - 黒磯駅間を特別準急電車「日光形」157系で運行される不定期準急列車「なすの」が運転開始。<br />
+* 1<a href="http://localhost/keyword/963%E5%B9%B4">963年</a>（昭和<a href="http://localhost/keyword/38%E5%B9%B4">38年</a>）：「なすの」の使用車両が157系から急行形165系に変更される。<br />
+* 1<a href="http://localhost/keyword/966%E5%B9%B4">966年</a>（昭和<a href="http://localhost/keyword/41%E5%B9%B4">41年</a>）：不定期運行ながらも「なすの」は急行列車に格上げとなる。<br />
+* 1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>（昭和<a href="http://localhost/keyword/43%E5%B9%B4">43年</a>）：「しもつけ」が「なすの」に名称変更。「なすの」定期列車となる。同時に下り1本に115系電車、上り1本に455系・457系電車が充当され、455系・457系電車の上り1本が<a href="http://localhost/keyword/%E7%99%BD%E6%B2%B3%E9%A7%85">白河駅</a>始発になる。<br />
+* 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>（昭和<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>）：「なすの」が特急列車に格上げされ、「新特急なすの」に名称変更。185系電車（200番台）を使用。<br />
+* 19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>（平成<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）：「新特急なすの」の東京側始発・終着駅を新宿駅に変更。<a href="http://localhost/keyword/%E9%80%9A%E5%8B%A4%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC">通勤ライナー</a>に近い運行となる。<br />
+<br />
+=== 新幹線 ===<br />
+* 1<a href="http://localhost/keyword/995%E5%B9%B4">995年</a>（平成<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）12月1日：ダイヤ改正で、東北新幹線東京駅 - 那須塩原駅間で運転されていた「あおば」・「Maxあおば」を分離し、近距離新幹線「なすの」・「Maxなすの」となる。また、在来線特急の名称を「おはようとちぎ」・「ホームタウンとちぎ」（200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>11月までは列車名に「新特急」を冠する）に変更。<br />
+* 1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>（平成<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）<br />
+** 3月22日：E2系0番台およびE3系0番台が営業運転開始。E3系0番台は200系およびE2系0番台と併結。<br />
+** 10月1日：東北・上越新幹線の名称を行き先別に整理し、「あおば」・「Maxあおば」を廃止。<br />
+** 12月20日：E4系が営業運転開始。<br />
+* 1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a>（平成<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>）<br />
+** 10月26日 - 12月7日：E3系0番台を1両（14号車）増結し、順次6両編成化。<br />
+** 12月8日：E3系0番台の6両編成化完了。東京駅 - 那須塩原駅間運転の「なすの」2往復を郡山駅まで延長。<br />
+* 19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>（平成<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）<br />
+** 4月29日：E4系と400系の併結運転による「なすの」の運転を開始。<br />
+** 12月4日：E1系の定期運用終了。「Maxなすの」はE4系のみの運用となる。E3系1000番台の営業運転開始（E4系と併結）。200系とE3系0番台の併結運転終了。<br />
+* 2000年（平成<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）12月2日：「なすの」上り2本がE4系「Maxなすの」（8両編成）に変更。<br />
+* 2001年（平成<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）<br />
+** 9月20日：200系と400系およびE3系1000番台の併結運転終了。<br />
+** 12月1日：早朝時間帯に小山駅 → 東京駅間の「なすの」上り1本増発。<br />
+* 200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>（平成<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）<br />
+** 9月10日 - 11月30日：E2系0番台を8両編成から10両編成に増結。<br />
+** 12月1日：E2系1000番台の営業運転開始。200系・E1系の5号車が禁煙となる。<br />
+* 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>（平成<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）12月10日：一部の「Maxなすの」の運転区間を郡山駅まで延長。<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）3月18日：全車両禁煙になる。<br />
+* 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>（平成<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）12月20日：E3系2000番台の営業運転開始（E4系と併結）。<br />
+* 20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>（平成<a href="http://localhost/keyword/22%E5%B9%B4">22年</a>）4月18日：400系の定期運用終了。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）11月19日：200系の定期運用終了。<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）<br />
+** 3月17日：E5系「なすの」の営業運転開始。同時に、グランクラスの営業を開始（座席のみ）。E4系16両編成による「Maxなすの」の定期運用終了。E2系1000番台とE3系1000番台・2000番台の併結運転開始。<br />
+** 9月29日：E4系の定期運用終了。「Maxなすの」を廃止し、列車名を「なすの」に統一。E4系とE3系1000番台・2000番台の併結運用終了。<br />
+* 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）<br />
+** 3月16日：E6系「なすの」の営業運転開始（E5系と併結）。<br />
+** 9月28日：E2系とE3系0番台の併結運用終了。<br />
+* 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>（平成<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）3月14日：車内販売を全廃。<br />
+<br />
+== 脚注 ==<br />
+<br />
+=== 注釈 ===<br />
+<br />
+=== 出典 ===<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の列車愛称一覧<br />
+<br />
+== 外部リンク ==<br />
+* 東日本旅客鉄道<br />
+** 列車案内<br />
+*** [http://www.jreast.co.jp/train/shinkan/e2.html 新幹線＞E2系]<br />
+*** [http://www.jreast.co.jp/train/shinkan/e3.html 新幹線＞E3系]<br />
+*** [http://www.jreast.co.jp/train/shinkan/e5.html 新幹線＞E5系]<br />
+*** [http://www.jreast.co.jp/train/shinkan/e6.html 新幹線＞E6系]<br />
+** meets新幹線<br />
+*** [http://www.jreast-shinkansen.com/e5.index.html E5系について]<br />
+*** [http://www.jreast-shinkansen.com/e6.index.html E6系について]<br />
+<br />
+<br />
+<br />
+<br />
+category:日本の特急列車<br />
+すの<br />
+category:東日本旅客鉄道の列車<br />
+category:新幹線の列車愛称<br />
+Category:東北新幹線<br />
+Category:日本国有鉄道の列車<br />

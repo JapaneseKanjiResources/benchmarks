@@ -1,0 +1,9 @@
+description
+'TTS'
+* Telegraphic Transfer Selling rateの略で対顧客電信売相場のこと。⇒ '為替レート'
+* text to speechの略 ⇒ 音声合成
+* Technology Terminal Scriptの略
+* temporary threshold shiftの略 ⇒ 一時性聴力損失
+* Girls' Generation-TTS、少女時代-テティソの略
+
+

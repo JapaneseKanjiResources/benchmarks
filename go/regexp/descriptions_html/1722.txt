@@ -1,0 +1,22 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E3%83%AA%E3%83%8B%E3%82%A2">リニア</a>&#39;<br />
+*（英語 linear）線の、線形の、直線の<br />
+**一次関数（グラフに描くと直線になる関係）<br />
+**比例（グラフに描くと原点を通る直線になる関係）。<a href="http://localhost/keyword/%E3%83%AA%E3%83%8B%E3%82%A2">リニア</a>アンプは、入出力が良好な比例関係を持つ、すなわち歪みが少ないアンプのこと。<br />
+**線形性 - 加法性と斉次性（≒比例性）を併せ持つこと。<br />
+**（工学）離散的に対する連続的<br />
+***（電子）<a href="http://localhost/keyword/%E3%83%AA%E3%83%8B%E3%82%A2">リニア</a>電子回路はアナログ電子回路のこと。離散量を扱うデジタル電子回路に対して用いられる。<br />
+***（電子）<a href="http://localhost/keyword/%E3%83%AA%E3%83%8B%E3%82%A2">リニア</a>レギュレータは、シリーズレギュレータを参照。その中で一般に使われるものは三端子レギュレータを参照。脈動する安定化されていない直流電源の電圧を一定にし、安定化する目的で使われる。スイッチングレギュレータと対比される。<br />
+***（テレビ）<a href="http://localhost/keyword/%E3%83%AA%E3%83%8B%E3%82%A2">リニア</a>編集方式はテープを用いてコピーを行いつつ編集するビデオ編集方式（⇔ノン<a href="http://localhost/keyword/%E3%83%AA%E3%83%8B%E3%82%A2">リニア</a>編集方式：ランダムアクセス記録媒体を用いて自由な順序で再生することにより実質的に編集を行うビデオ編集方式）<br />
+**（工学）円形・環形（サーキュラー）に対する直線形。<a href="http://localhost/keyword/%E3%83%AA%E3%83%8B%E3%82%A2">リニア</a>アクセラレーター、<a href="http://localhost/keyword/%E3%83%AA%E3%83%8B%E3%82%A2">リニア</a>モーターなど。<br />
+***<a href="http://localhost/keyword/%E3%83%AA%E3%83%8B%E3%82%A2">リニア</a>モーターカーの略<br />
+****<a href="http://localhost/keyword/%E3%83%AA%E3%83%8B%E3%82%A2">リニア</a>モーターカーが走る予定の中央新幹線を指す場合もある。[http://linear.jr-central.co.jp/]<br />
+****<a href="http://localhost/keyword/%E3%83%AA%E3%83%8B%E3%82%A2">リニア</a>・鉄道館 - JR東海が愛知県名古屋市で20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>3月に開業した博物館。<br />
+**（言語学）線文字。<a href="http://localhost/keyword/%E6%A5%94%E5%BD%A2%E6%96%87%E5%AD%97">楔形文字</a>などに対し線でできた文字。特に、古代エーゲ文明の線文字A（<a href="http://localhost/keyword/%E3%83%AA%E3%83%8B%E3%82%A2">リニア</a>A）と線文字B（<a href="http://localhost/keyword/%E3%83%AA%E3%83%8B%E3%82%A2">リニア</a>B）。<br />
+*LINEAR (&#39;&#39;Li&#39;&#39;ncoln &#39;&#39;N&#39;&#39;ear-&#39;&#39;E&#39;&#39;arth &#39;&#39;A&#39;&#39;steroid &#39;&#39;R&#39;&#39;esearch)は、アメリカ空軍とNASAがMITに設立したリン<a href="http://localhost/keyword/%E3%82%AB%E3%83%BC%E3%83%B3">カーン</a>研究所による地球近傍小惑星サーベイ<br />
+**LINEAR彗星 - LINEARが発見した彗星（複数）<br />
+*<a href="http://localhost/keyword/%E3%83%AA%E3%83%8B%E3%82%A2">リニア</a>属 (&#39;&#39;Rhynia&#39;&#39;)。シルル紀に繁栄した植物の1属。特に、<a href="http://localhost/keyword/%E3%83%AA%E3%83%8B%E3%82%A2">リニア</a>属の唯一の種&#39;&#39;Rhynia gwynne-vaughanii&#39;&#39;。<br />
+*LINEAR (クラブイベント) - 音系・<a href="http://localhost/keyword/%E3%82%A2%E3%82%AD%E3%83%90">アキバ</a>系クラブイベントの名称。[http://www.linear.nu/]<br />
+*LINEAR (アルバム) - ストレイテナーのアルバム<br />
+<br />
+<br />

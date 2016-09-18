@@ -1,0 +1,56 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E3%83%8A%E3%83%BC%E3%83%AB">ナール</a>&#39; (NAR) は、写研が1<a href="http://localhost/keyword/973%E5%B9%B4">973年</a>に発売した<a href="http://localhost/keyword/%E4%B8%B8%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93">丸ゴシック体</a>。手動写植機のほか、電算写植・専用組版機に対応した製品。<br />
+<br />
+== 概要 ==<br />
+デザインは中村征宏による。名称の由来は「&#39;ナ&#39;カムラ+ア&#39;ール&#39; (&#39;R&#39;ound)」とされる。<br />
+<br />
+1<a href="http://localhost/keyword/972%E5%B9%B4">972年</a>、第1回の石井賞国際タイプフェイスコンテストで第1位を獲得し、翌年、手動写植機用文字盤として発売された。従来の<a href="http://localhost/keyword/%E4%B8%B8%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93">丸ゴシック体</a>のような字面の小さい<a href="http://localhost/keyword/%E4%B8%B8%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93">丸ゴシック体</a>に対し、仮想ボディを目一杯に使用、平仮名や漢字の「毎」などに顕著な、<a href="http://localhost/keyword/%E4%B8%B8%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93">丸ゴシック体</a>としての特徴であるラウンド処理を強調したデザインから、写植書体としてはスタンダードともいうべきシェアを誇り、その後の<a href="http://localhost/keyword/%E4%B8%B8%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93">丸ゴシック体</a>のデザインには大きな影響を及ぼしたといわれる。漢字の「毎」や、「海」「梅」などパーツに&#34;毋&#34;が含まれる文字は、&#34;毋&#34;の1・2・4画目が完全に平行四辺形の枠に収まっている。「母」や「晦」なども同様（ハネや付き抜けが省略されている）。<br />
+<br />
+そのゆったりとし、温かみのあるデザインはもとより、高い視認性・可読性からもグラフィックデザイン、出版分野では好評を博し、広告コピーから女性誌の本文、サインシステム、工業製品における操作表示など幅広く使用された。<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E3%83%8A%E3%83%BC%E3%83%AB">ナール</a>&#39;に先導された<a href="http://localhost/keyword/%E4%B8%B8%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93">丸ゴシック体</a>を、当時社会現象となった「丸文字（および若者文化）」に迎合するものだとする批判も見られたが、少なくとも中村と&#39;<a href="http://localhost/keyword/%E3%83%8A%E3%83%BC%E3%83%AB">ナール</a>&#39;に関していえば、それは適切とは言いがたい。これは彼の経歴において手描きテロップの制作に従事していた時代の、字詰などの技術的制約と視認性の接点に基づいているからである。<br />
+<br />
+のちに（手動写植用では）5種類のウェイト（文字の太さ）にファミリー展開され、電算写植、テロップシステム (TELOMAIYER) 用にはさらに太いウェイトも登場した。現在、本書体は同社製写植機および専用組版機にしか対応しておらず、DTPに対応したフォント製品はリリースされていない。デザイン制作におけるフィニッシュワークや組版の効率化、短納期化などからMacintoshによるDTP化が進んだ現在においても、本書体に対するニーズが、写研システム需要の少なくとも一部を支えているともいわれている。<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E3%83%8A%E3%83%BC%E3%83%AB">ナール</a>&#39;は、いわば<a href="http://localhost/keyword/%E4%B8%B8%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93">丸ゴシック体</a>の代名詞ともいうべき存在となり、写植全盛期を経験したディレクターや編集者には、他社製の<a href="http://localhost/keyword/%E4%B8%B8%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93">丸ゴシック体</a>をも「<a href="http://localhost/keyword/%E3%83%8A%E3%83%BC%E3%83%AB">ナール</a>」「<a href="http://localhost/keyword/%E3%83%8A%E3%83%BC%E3%83%AB">ナール</a>系の書体」などと呼称する者もいる。<br />
+<br />
+== 使用例 ==<br />
+* エコマークにおけるコピー、フレーズ - 「ちきゅうにやさしい」。VIマニュアルによって「写研<a href="http://localhost/keyword/%E3%83%8A%E3%83%BC%E3%83%AB">ナール</a>D」が指定書体とされている（ただし、じゅん34、スーラ等での代用も可）<br />
+* 道路標識 - 高い視認性から一般国道における標識・サインシステムに採用。1<a href="http://localhost/keyword/986%E5%B9%B4">986年</a>の法令改正で、これ以降に新設・更新された標識から採用された。<br />
+例・[[阪急電鉄の駅名標]]<br />
+*鉄道やバスの方向幕・駅名標<br />
+<br />
+その他、テレビ番組のテロップなど、様々な用途に多用されている。<br />
+<br />
+== ファミリー構成 ==<br />
+* <a href="http://localhost/keyword/%E3%83%8A%E3%83%BC%E3%83%AB">ナール</a> (NAR) - 極細<br />
+* <a href="http://localhost/keyword/%E3%83%8A%E3%83%BC%E3%83%AB">ナール</a>L (LNAR) - 細<br />
+* <a href="http://localhost/keyword/%E3%83%8A%E3%83%BC%E3%83%AB">ナール</a>M (MNAR) - 中<br />
+* <a href="http://localhost/keyword/%E3%83%8A%E3%83%BC%E3%83%AB">ナール</a>D (DNAR) - 中太<br />
+* <a href="http://localhost/keyword/%E3%83%8A%E3%83%BC%E3%83%AB">ナール</a>DB (DBNAR) - 中太太<br />
+* <a href="http://localhost/keyword/%E3%83%8A%E3%83%BC%E3%83%AB">ナール</a>E (ENAR) - 太<br />
+* <a href="http://localhost/keyword/%E3%83%8A%E3%83%BC%E3%83%AB">ナール</a>H (HNAR) - 極太（電算写植、TELOMAIYER用）<br />
+* <a href="http://localhost/keyword/%E3%83%8A%E3%83%BC%E3%83%AB">ナール</a>U (UNAR) - 超太（電算写植、TELOMAIYER用）<br />
+* <a href="http://localhost/keyword/%E3%83%8A%E3%83%BC%E3%83%AB">ナール</a>O (ONAR) - アウトライン<br />
+* <a href="http://localhost/keyword/%E3%83%8A%E3%83%BC%E3%83%AB">ナール</a>OS (OSNAR) - アウトライン影付き<br />
+* <a href="http://localhost/keyword/%E3%83%8A%E3%83%BC%E3%83%AB">ナール</a>SH (SHNAR) - 影付き<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* <a href="http://localhost/keyword/%E4%B8%B8%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93">丸ゴシック体</a><br />
+* 写研<br />
+* <a href="http://localhost/keyword/%E5%86%99%E7%9C%9F%E6%A4%8D%E5%AD%97">写真植字</a><br />
+* 電算写植<br />
+* 日本語フォントの比較<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.n-font.com/ 中村書体室]<br />
+* [http://www.jiyu-kobo.co.jp/mojimaga/mm_giants/03/mm_giants03_2.html もじマガ_文字の巨人] - [http://www.jiyu-kobo.co.jp/ 字游工房]サイト内<br />
+* [http://www.ecomark.jp/siyoutebiki.html エコマークの下段の表示（環境情報表示）について] - [http://www.ecomark.jp/index.html 日本環境協会エコマーク事務局]<br />
+<br />
+<br />
+Category:書体<br />
+Category:タイポグラフィ<br />

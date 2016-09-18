@@ -1,0 +1,19 @@
+description<br />
+<br />
+<br />
+ <br />
+&#39;<a href="http://localhost/keyword/III-V%E6%97%8F%E5%8D%8A%E5%B0%8E%E4%BD%93">III-V族半導体</a>&#39;（さんごぞくはんどうたい）は、III族元素とV族元素を用いた<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>である。2種類以上の元素を組み合わせた<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>を化合物<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>と呼び、III-V族化合物<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>とも呼ぶ。代表的なIII族(13族)元素としてはアルミニウム(Al)・ガリウム(Ga)・インジウム(In)、V族(15族)元素としては窒素(N)・リン(P)・ヒ素(As)・アンチモン(Sb)である。この他、ボロン(B)、タリウム(Tl)、ビスマス(Bi)もそのIII-V族化合物<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>を構成する元素である。<br />
+またV族元素として窒素を用いたGaN（窒化ガリウム）、AlN（窒化アルミニウム）、InN（窒化インジウム)等を特に窒化物<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>と呼ぶ。<br />
+<br />
+代表的な<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>であるシリコン(Si)と比較して、III-V族化合物<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>はその多くが直接遷移型の<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>であるため、発光ダイオード(LED)や、レーザダイオード(LD)をはじめとする発光素子に用いられる。またSiとはバンドギャップエネルギーが異なっているため、フォトダイオードといった受光素子にも用いられることがある。例えば現在の赤・緑・青色などの発光ダイオードは、ほぼすべて<a href="http://localhost/keyword/III-V%E6%97%8F%E5%8D%8A%E5%B0%8E%E4%BD%93">III-V族半導体</a>を材料としている。また、高い電子移動度を利用して、極超短波以上の増幅には、GaAsを用いた電界効果トランジスタ（FET）が広く使われている。<br />
+<br />
+これらIII族とV族元素を1つずつ組み合わせたGaAs（ヒ化ガリウム）、InP（リン化インジウム）、GaN(窒化ガリウム）といったものを2元系混晶と呼ぶ。<br />
+更に、結晶基板（GaAs,InP,エピタキシャルGaNなど）の上に結晶成長することで、例えばInGaAs、GaInNAs（ゲイナス）といった3元系や4元系の化合物<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>を作成することが可能である。3元以上の混晶では、その組成比によってバンドギャップエネルギーや、格子定数、光学特性を連続的に変化させることが特長である。また、結晶成長する際に格子定数を一定に保ったままバンドギャップエネルギーを変化させた層を組み合わせることで、量子井戸構造などの量子効果を得ることも可能である。<br />
+<br />
+== 関連項目 ==<br />
+* 化合物<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a><br />
+* II-VI族<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a><br />
+* 結晶成長<br />
+<br />
+<br />
+Category:<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>材料<br />

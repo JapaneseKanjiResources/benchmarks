@@ -1,0 +1,10 @@
+description
+'塩化銅'（えんかどう）とは、銅と塩素の化合物である。組成の違いにより、'塩化銅(I)'（塩化第一銅、CuCl）と'塩化銅(II)'（塩化第二銅、CuCl2）がある。　また塩化銅は電気分解すると銅と塩素に分かれる。
+
+Image:Copper(I) chloride.jpg|塩化銅(I)
+Image:Copper(II) chloride dihydrate.jpg|塩化銅(II)二水和物
+
+
+
+Category:銅の化合物
+Category:塩化物

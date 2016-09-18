@@ -1,0 +1,43 @@
+description<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E5%8A%B1%E8%B5%B7%E5%AD%90">励起子</a>&#39;（れいきし、exciton）とは、<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>又は絶縁体中で電子と正孔の対がクーロン力によって束縛状態となったもの。&#39;エキシトン&#39;とも呼ばれる。<br />
+<br />
+== 概要 ==<br />
+<a href="http://localhost/keyword/%E5%8A%B1%E8%B5%B7%E5%AD%90">励起子</a>の生成は多くの場合光励起などによる電子-正孔の対生成によって起こり、このことがその名の起源ともなっている。<br />
+光励起による<a href="http://localhost/keyword/%E5%8A%B1%E8%B5%B7%E5%AD%90">励起子</a>は以下のように生成される。<br />
+# 光などの励起によって、絶縁体又は<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>の<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90%E5%B8%AF">価電子帯</a>の電子が伝導帯に遷移して、<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90%E5%B8%AF">価電子帯</a>に正孔が、伝導帯に電子が形成される。<br />
+# 正孔は正の電荷を持つため、負の電荷を持つ電子との間にクーロン引力が生じる。この状態は、簡単には水素原子における核（陽子）と電子と同様の取り扱いができる。<br />
+# 陽子と電子がペアを組んだ状態が水素原子であるように、電子と正孔がペアを組んだ状態を一つの粒子として取り扱うことができ、この状態を&#39;<a href="http://localhost/keyword/%E5%8A%B1%E8%B5%B7%E5%AD%90">励起子</a>&#39;という。&#39;<a href="http://localhost/keyword/%E5%8A%B1%E8%B5%B7%E5%AD%90">励起子</a>&#39;は非金属結晶中における代表的な電子励起状態であり、光学特性に大きく寄与する。<br />
+<br />
+上記では<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90%E5%B8%AF">価電子帯</a>の正孔と導電体の電子による<a href="http://localhost/keyword/%E5%8A%B1%E8%B5%B7%E5%AD%90">励起子</a>を説明したが、励起された正孔と励起された電子でも<a href="http://localhost/keyword/%E5%8A%B1%E8%B5%B7%E5%AD%90">励起子</a>をつくることができる。<br />
+<br />
+== <a href="http://localhost/keyword/%E5%8A%B1%E8%B5%B7%E5%AD%90">励起子</a>のエネルギー ==<br />
+<a href="http://localhost/keyword/%E5%8A%B1%E8%B5%B7%E5%AD%90">励起子</a>のエネルギーは、電子と正孔の重心運動エネルギーと相対運動エネルギーの和である。相対運動の波動関数の広がりが、格子間隔に比べてかなり大きい場合は&#39;ワニエ<a href="http://localhost/keyword/%E5%8A%B1%E8%B5%B7%E5%AD%90">励起子</a>&#39;、小さい場合は&#39;<a href="http://localhost/keyword/%E3%83%95%E3%83%AC%E3%83%B3%E3%82%B1%E3%83%AB%E5%8A%B1%E8%B5%B7%E5%AD%90">フレンケル励起子</a>&#39;と呼ばれる。<br />
+<br />
+<a href="http://localhost/keyword/%E5%8A%B1%E8%B5%B7%E5%AD%90">励起子</a>を生成するために必要なエネルギーは、電子・正孔間の束縛エネルギーの分だけバンドギャップエネルギーよりも低い。つまり<a href="http://localhost/keyword/%E5%8A%B1%E8%B5%B7%E5%AD%90">励起子</a>状態は電子と正孔が孤立している状態よりも安定である。したがって、反射スペクトルにおいては、<a href="http://localhost/keyword/%E3%83%90%E3%83%B3%E3%83%89%E9%96%93%E9%81%B7%E7%A7%BB">バンド間遷移</a>による連続スペクトルよりも低エネルギー側に鋭いピークとなって現れる。<br />
+<br />
+== <a href="http://localhost/keyword/%E5%8A%B1%E8%B5%B7%E5%AD%90">励起子</a>の自己束縛 ==<br />
+=== 自由<a href="http://localhost/keyword/%E5%8A%B1%E8%B5%B7%E5%AD%90">励起子</a> ===<br />
+いかなるときも普遍である硬い格子を伝播する<a href="http://localhost/keyword/%E5%8A%B1%E8%B5%B7%E5%AD%90">励起子</a>は自由<a href="http://localhost/keyword/%E5%8A%B1%E8%B5%B7%E5%AD%90">励起子</a>と呼ばれる。[http://www.sys.wakayama-u.ac.jp/mc/act/categories/Scientific/Exciton_STE.html <a href="http://localhost/keyword/%E5%8A%B1%E8%B5%B7%E5%AD%90">励起子</a>と<a href="http://localhost/keyword/%E5%8A%B1%E8%B5%B7%E5%AD%90">励起子</a>の自己束縛]（[http://www.sys.wakayama-u.ac.jp/mc/act/index.html Active Materials Science Lab.]）自由<a href="http://localhost/keyword/%E5%8A%B1%E8%B5%B7%E5%AD%90">励起子</a>は結晶中を自由に動くことができる。<br />
+<br />
+=== 自己束縛<a href="http://localhost/keyword/%E5%8A%B1%E8%B5%B7%E5%AD%90">励起子</a> ===<br />
+原子、分子が格子振動している変形可能な格子を伝播する<a href="http://localhost/keyword/%E5%8A%B1%E8%B5%B7%E5%AD%90">励起子</a>は、格子振動との相互作用により、大きく性質を変化させる。この<a href="http://localhost/keyword/%E5%8A%B1%E8%B5%B7%E5%AD%90">励起子</a>-格子相互作用により、結晶格子が大きく歪んだ状態では、<a href="http://localhost/keyword/%E5%8A%B1%E8%B5%B7%E5%AD%90">励起子</a>は特定の場所に局在する。このような現象を<a href="http://localhost/keyword/%E5%8A%B1%E8%B5%B7%E5%AD%90">励起子</a>の自己束縛と呼び、この<a href="http://localhost/keyword/%E5%8A%B1%E8%B5%B7%E5%AD%90">励起子</a>を自己束縛<a href="http://localhost/keyword/%E5%8A%B1%E8%B5%B7%E5%AD%90">励起子</a>と呼ぶ。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* <a href="http://localhost/keyword/%E3%83%95%E3%83%AC%E3%83%B3%E3%82%B1%E3%83%AB%E5%8A%B1%E8%B5%B7%E5%AD%90">フレンケル励起子</a><br />
+* ワニエ<a href="http://localhost/keyword/%E5%8A%B1%E8%B5%B7%E5%AD%90">励起子</a><br />
+* 励起波<br />
+* <a href="http://localhost/keyword/%E5%8A%B1%E8%B5%B7%E5%AD%90">励起子</a>分子<br />
+* ポジトロニウム<br />
+* 電子正孔プラズマ<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:量子力学<br />
+Category:固体物理学<br />
+Category:準粒子<br />

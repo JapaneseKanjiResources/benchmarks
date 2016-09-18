@@ -1,0 +1,15 @@
+description
+'STP'
+
+* サントメ・プリンシペのISO 3166-1国名コード。
+*  - アフターマーケット向けオイル添加剤を販売する米国のメーカー。国内の輸入・発売元は[http://www.napolex.co.jp/brands/stp.html/ ナポレックス]。
+* STPケーブル (Shielded Twisted Pair cable) - シールドが施されたツイストペアケーブル。
+* Standard ambient Temperature and Pressure - 標準状態の定義のひとつ。
+* スパニングツリープロトコル(spanning tree protocol) - ネットワークにおいて、ループ構成を回避するための通信プロトコル。
+* ストーン・テンプル・パイロッツ - アメリカのグランジバンド。
+* ストレート・スルー・プロセッシング
+* studio TeaParty - WEBラジオのひとつ。
+* STPマーケティング - マーケティングにおける市場細分化(Segmentation)・標的の設定(Targeting)・独自性の分析(Positioning)のこと。
+*  - インド各地にあるハイテクパーク
+
+

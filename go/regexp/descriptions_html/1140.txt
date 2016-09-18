@@ -1,0 +1,40 @@
+description<br />
+<br />
+<br />
+&#39;<a href="http://localhost/keyword/Network%20News%20Transfer%20Protocol">Network News Transfer Protocol</a>&#39;（ネットワーク ニュース トランスファー プロトコル、&#39;N<a href="http://localhost/keyword/NTP">NTP</a>&#39;）は、インターネットアプリケーションプロトコルのひとつである。おもに、ネットニュース(Usenet)の記事を読むことと記事を投稿することのために使われる。記事はニュースサーバ間を相互に配送される。カリフォルニア大学サンディエゴ校の Brian Kantor とカリフォルニア大学バークレー校の Phil Lapsley が <a href="http://localhost/keyword/Network%20News%20Transfer%20Protocol">Network News Transfer Protocol</a> の仕様である RFC 977 を1<a href="http://localhost/keyword/986%E5%B9%B4">986年</a>の5月に完成させた。他の貢献者として、Baylor College of Medicine の Stan Barber とアップルコンピュータの Erik Fair がいる。<br />
+<br />
+Usenet はもともとは UUCP ネットワーク上での使用を前提として設計された。つまり、ほとんどの記事は電話回線で直接コンピュータ同士を接続して配送されていた。読者と投稿者は同じニュースサーバにログインし、そのサーバのディスクにある記事を直接読んでいた。<br />
+<br />
+LAN とインターネットが一般に普及すると、パーソナルコンピュータ上で使用できるニュースリーダーと、インターネット上で記事を配送する手段が必要とされた。インターネットで互換性のあるファイルシステムがまだ広くは利用できなかったため、SMTP に類似した新しいプロトコルを作ることになった。<br />
+<br />
+ウェルノウンTCPポート番号 である 119 番は N<a href="http://localhost/keyword/NTP">NTP</a> のために予約されている。クライアントが SSL でニュースサーバに接続するときは TCP のポート 563 番が使われる&#39;STARTTLS&#39;拡張コマンドでTLS (SSL) へ移行する方法が、RFC 4642で提案されている。。これは &#39;N<a href="http://localhost/keyword/NTP">NTP</a>S&#39; と呼ばれることがある。<br />
+<br />
+最近では、Webで利用可能なBBSやその他インターネットコミュニティサイトが普及したことと、N<a href="http://localhost/keyword/NTP">NTP</a>がボットネットの活動に利用されることが多くなったことが原因で、殆ど利用されなくなってきている。<br />
+<br />
+== Network News Reader Protocol(NNRP) ==<br />
+19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>代のはじめに N<a href="http://localhost/keyword/NTP">NTP</a> 標準が策定されようとしていたとき、N<a href="http://localhost/keyword/NTP">NTP</a> をクライアント側での使用に特化したもの(NNRP)が提案された。このプロトコルは決して完全には実装されていなかったが、INN に付属する &#39;nnrpd&#39; というプログラムでその名前が使われ続けている。結果として、クライアントにとって使いやすい標準的な N<a href="http://localhost/keyword/NTP">NTP</a> コマンドのサブセットが、今も &#39;NNRP&#39; と呼ばれている。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* ニュースグループ<br />
+* ネットニュース<br />
+* 電子<a href="http://localhost/keyword/%E6%8E%B2%E7%A4%BA%E6%9D%BF">掲示板</a><br />
+* SCTP<br />
+<br />
+== 外部リンク ==<br />
+* Kantor, Brian and Phil Lapsley. RFC 977 &#34;<a href="http://localhost/keyword/Network%20News%20Transfer%20Protocol">Network News Transfer Protocol</a>: A Proposed Standard for the Stream-Based Transmission of News.&#34; 1986.<br />
+* Horton, Mark, and R. Adams. RFC 1036 &#34;Standard for Interchange of USENET Messages.&#34; 1987.<br />
+* [http://www.academ.com/academ/nntp/ietf/1996-July/000022.html N<a href="http://localhost/keyword/NTP">NTP</a> Version 2 draft] an early, abandoned attempt to revise N<a href="http://localhost/keyword/NTP">NTP</a><br />
+* Barber, Stan, et al. RFC 2980 &#34;Common N<a href="http://localhost/keyword/NTP">NTP</a> Extensions.&#34; 2000<br />
+* [http://www.eyrie.org/~eagle/nntp/ietf.html IETF nntpext Working Group]<br />
+* RFC 3977 (October 2006)<br />
+* RFC 4642 (October 2006)<br />
+<br />
+== 翻訳元 == <br />
+&#39;&#39;:en:<a href="http://localhost/keyword/Network%20News%20Transfer%20Protocol">Network News Transfer Protocol</a> 2006-05-02 12:34 UTCより翻訳。著者 : Aldie, Nanshu, Christian, Fleminra ほか&#39;&#39;<br />
+<br />
+<br />
+Category:アプリケーション層プロトコル<br />
+0977<br />

@@ -1,0 +1,450 @@
+description<br />
+<br />
+<br />
+|開業年月日= 1<a href="http://localhost/keyword/883%E5%B9%B4">883年</a>（明治<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>）7月28日<br />
+|駅構造 = 高架駅<br />
+|ホーム = 3面6線 <br />
+|廃止年月日=<br />
+|乗車人員 = 87,650<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a><br />
+|乗入路線数= 4<br />
+|所属路線1 = 宇都宮線*（高崎線直通含む）（東北本線列車線）<br />
+|前の駅1 = 赤羽<br />
+|駅間A1 = 11.0<br />
+|駅間B1 = 4.5<br />
+|次の駅1 = <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>新都心<br />
+|駅番号1 =<br />
+|キロ程1 = 24.2km（東京起点）上野から尾久経由で20.8<br />
+|起点駅1 =<br />
+|所属路線2 = 湘南新宿ライン*（東北本線貨物線）<br />
+|前の駅2 = 赤羽<br />
+|駅間A2 = 11.0<br />
+|駅間B2 = 6.1<br />
+|次の駅2 = 大宮<br />
+|駅番号2 =<br />
+|キロ程2 =<br />
+|起点駅2 =<br />
+|所属路線3 = 京浜東北線*（東北本線電車線）<br />
+|前の駅3 = 南浦和<br />
+|駅間A3 = 1.7<br />
+|駅間B3 = 1.8<br />
+|次の駅3 = 北浦和<br />
+|駅番号3 =<br />
+|キロ程3 = 24.2km（東京起点）大宮から6.1<br />
+|備考 = みどりの窓口 有<br />
+|備考全幅 = * いずれも正式な線路名称は東北本線。<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>&#39;（うらわえき）は、埼玉県<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市浦和区高砂一丁目にある、東日本旅客鉄道（JR東日本）の駅である。<br />
+<br />
+== 概要 ==<br />
+埼玉県庁舎および<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市役所の最寄駅であり、JTBパブリッシングや交通新聞社（都道府県代表駅の記号がない「東京時刻表」を除く）の時刻表における県・市の代表駅として記載されている。1<a href="http://localhost/keyword/883%E5%B9%B4">883年</a>に上野と熊谷を結ぶ県内初の鉄道の開通と同時に開業し、<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市内で最も古い駅であるほか、県内でも熊谷駅、鴻巣駅、<a href="http://localhost/keyword/%E4%B8%8A%E5%B0%BE%E9%A7%85">上尾駅</a>と並んで最も古い駅の一つとなっている。成田エクスプレスを除く、ほぼ全ての特急・普通列車が停車する。当駅からの所要時間は東京駅へ最短25分・新宿駅へ最短21分となっている。<br />
+<br />
+<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>周辺の人口増加に伴って京浜東北線には北<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>（1<a href="http://localhost/keyword/936%E5%B9%B4">936年</a>）、南<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>（1<a href="http://localhost/keyword/961%E5%B9%B4">961年</a>）が開設され、1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>には埼京線が開業し武蔵<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>・中<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>が開設、当駅2キロ圏には5つの駅が存在することになり、利用客の分散が起きた。そのため市内から都内へ通勤する乗降客は比較的分散しているが、県・政令指定都市の代表駅として、ほぼ同等の人口を有する政令指定都市の代表駅である広島駅や仙台駅と同等ないしそれ以上の乗員数を記録している。また、他社との乗換駅でない単独駅としては大森駅、三鷹駅、赤羽駅に次ぎ国内4位の乗車数となっている。<br />
+<br />
+駅の所在する場所は当時の浦和宿の東はずれにあり、台地の縁にあたる部分に建設されたため、1階分の東西の高低差が生じている。また、開業当時は現在の県庁通りはまだ無く、駅に通じるメイン通りの停車場線として現在のさくら草通りが開通し、バスなどが乗り入れていた。その後再開発により駅に通じる西口メイン通りは県庁通りとなった。現在は駅南側に東西を結ぶ4車線道路として田島大牧線の工事が進んでいる。<br />
+<br />
+駅周辺は伊勢丹浦和店や浦和パルコなど商業施設も多く集積し、後述の通り浦和アトレとして駅ビルが建設中である。また、<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市の都市計画の中で当駅は「県都の玄関口」となっていることから駅前の再開発が進められている。<br />
+なお、当駅周辺は、古くから「鎌倉文士に浦和画家」と称される文教都市や住宅地のイメージを守るため、条例によって風俗店を営むことは禁止されている。そのため県庁所在地・市役所所在地としては繁華街の規模は小さく、居酒屋も雰囲気に馴染まず出店は少ないが、そのぶん高級料亭や老舗店、西洋料理店などが駅から至近に多く立地している。駅から離れた国道17号沿いには埼玉りそな銀行やNTT東日本-関信越などの本社オフィスが建ち並び、さらにその外周の常盤（別所沼公園周辺）や岸町などは高級住宅地として知られる。<br />
+<br />
+=== 乗り入れ路線 ===<br />
+乗り入れている路線は、線路名称上は東北本線単独駅である（詳細は路線記事および「鉄道路線の名称」を参照）が、当駅には電車線を走る京浜東北線電車および列車線を走る宇都宮線と高崎線（旅客案内ではそれぞれ別路線として案内されている）、東北貨物線を走る湘南新宿ラインの列車が停車する。宇都宮線と高崎線は上野駅発着系統のほかに、上野駅・東京駅経由で東海道線に直通する上野東京ライン系統がある。<br />
+<br />
+== 歴史 ==<br />
+=== 年表 ===<br />
+高架化工事開始前の駅南側。東北旅客線の上下線の間に保線用車両の留置線があった（2003年）<br />
+京浜東北線ホーム建設中の様子（200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）<br />
+かつてあった西口駅舎。駅ビル建設用地となっている。（200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）<br />
+かつてあった<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>西口駅舎（200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）<br />
+* 1<a href="http://localhost/keyword/883%E5%B9%B4">883年</a>（明治<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>）7月28日 - 開業。日本鉄道が現在の東北本線・高崎線にあたる鉄道の一部である上野 - 熊谷間を開業した際に開設された。当時の駅は上野・王子・浦和・上尾・鴻巣・熊谷のみで、当駅は現在の東北本線の列車停車駅では上野駅などと並ぶ最も歴史のある駅である。<br />
+** この際、当駅は旧浦和宿の中心ではなく、埼玉県庁に近い宿場町南東側の外れに設けられた（本陣などの置かれていた旧宿場の中心は現在の浦和センチュリーシティがある交差点付近）。<br />
+** 開業から間もない頃は2面3線の地上駅であった（旧浦和市作成の<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>前再開発に関する広報に写真の掲載あり）。<br />
+* 1<a href="http://localhost/keyword/890%E5%B9%B4">890年</a>（明治<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）12月 - 東北本線赤羽 - 大宮間複線化。<br />
+* 1<a href="http://localhost/keyword/906%E5%B9%B4">906年</a>（明治<a href="http://localhost/keyword/39%E5%B9%B4">39年</a>）11月1日 - 鉄道国有法により国有化。<br />
+* 1<a href="http://localhost/keyword/909%E5%B9%B4">909年</a>（明治<a href="http://localhost/keyword/42%E5%B9%B4">42年</a>）10月12日 - 線路名称制定により東北本線の所属となる。<br />
+* 1<a href="http://localhost/keyword/916%E5%B9%B4">916年</a>（大正<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）7月 -　鳩ヶ谷方面への乗合バスが運行開始（現在は運行していない）。<br />
+* 1<a href="http://localhost/keyword/921%E5%B9%B4">921年</a>（大正<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>）8月 - 志木・大門方面へのバスが運行開始（現在も運行）。<br />
+* 1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>（昭和<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）12月27日 - 東口が開設される。<br />
+* 1<a href="http://localhost/keyword/931%E5%B9%B4">931年</a>（昭和<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）12月1日 - 東北本線蕨 - 与野間の貨物線2線が増設され複々線化。貨物線は当駅にホームを設置しなかった。<br />
+** この頃、当駅は西口と東口にそれぞれ木造の駅舎を構え、その間を地下通路でつなぐ構造になっていた。現在西口の階段があるところが開業時の本屋側ホーム跡であったが、ここを走る貨物線には列車が停車しないため、木製の柵が設けられていた。また、戦前までは通称第一踏切が東西を結んでいたが戦後交通量増大で廃止された。<br />
+* 1<a href="http://localhost/keyword/932%E5%B9%B4">932年</a>（昭和<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）9月1日 - 東北本線電車（現在の京浜東北線）が大宮駅まで延伸開業し、当駅を含む区間で運行を開始。1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>まで高崎線と東北本線の列車のほとんどが当駅を通過するようになった。1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>の東北本線6線化まで京浜東北線電車と東北本線の中・長距離列車が同じレール上を走っていた。また、当駅南西に貨物駅が併設されており、貨物駅の配線が西口駅舎ぎりぎりまで伸びていた。この場所は現在東北貨物線が高架で跨いでおり、そのガード下に保線区が設けられている。<br />
+* 19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>（昭和<a href="http://localhost/keyword/35%E5%B9%B4">35年</a>）1月15日 - 貨物取り扱いを廃止する。現在も貨物駅の名残りとして当駅至近に浦和郵便局（現・浦和中郵便局）が所在する。<br />
+* 1<a href="http://localhost/keyword/967%E5%B9%B4">967年</a>（昭和<a href="http://localhost/keyword/42%E5%B9%B4">42年</a>） - 東北本線赤羽 - 与野間6線化に備え、西口駅舎を改築、20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>まで存在した2階建て西口駅舎が竣工する。<br />
+* 1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>（昭和<a href="http://localhost/keyword/43%E5%B9%B4">43年</a>）9月25日 - 東北本線赤羽 - 与野間に電車線2線が増設され6線化。京浜東北線と東北本線列車が初めて分離される。早くから市街化が進んでいた当駅周辺では新たな2線分の土地を確保できず、貨物駅のあった土地に高架の新設貨物線を通し、旧来貨物線として使われていたスペースに東北本線列車（高崎線列車含む）を通したため、地上を走る電車線、旅客線と西口駅舎背後を高架で走る貨物線という状況となった（いわゆる「通勤五方面作戦」の一環）。<br />
+* 1<a href="http://localhost/keyword/968%E5%B9%B4">968年</a>（昭和<a href="http://localhost/keyword/43%E5%B9%B4">43年</a>）10月1日 - 東北本線列車旅客線にホームを新設。朝夕ラッシュ時のみ中距離列車が停車を開始「浦和市史　通史編IV」p311-312。。<br />
+* 1<a href="http://localhost/keyword/982%E5%B9%B4">982年</a>（昭和<a href="http://localhost/keyword/57%E5%B9%B4">57年</a>）11月15日 - 中距離列車の終日停車を開始。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化によりJR東日本の駅となる。<br />
+* 2001年（平成<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）11月18日 - Suica供用開始。<br />
+* 200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>（平成<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>） - 開業以来市街地が東西に分断されていたことや、構造上停車できなかった湘南新宿ラインを停車させることを理由に高架化工事が開始。湘南新宿ラインの停車ホームを捻出するため、京浜東北線の東側に高架建設用の用地を確保し1線ずつ東側へずらす方法が取られた。まず高架化工事を前に東北列車線ホーム南側にあった保線機械用の留置線を撤去し、列車線と京浜東北線のホームと線路を西へ移設するための線路切り替えを行い、東側用地の捻出を完了させた。駅構内にポイントが一つも存在しない駅となった。<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）1月14日 - 京浜東北線の東側に高架線路とホームを建設し、京浜東北線南行（1番線）を新設の高架線に移設。<br />
+* 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>（平成<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）5月18日 - 旧南行線上に高架線路を建設し、北行（2番線）を新設の高架線に移設。これにより京浜東北線高架ホームが完成、県内の京浜東北線沿線では初の全面高架駅となった。<br />
+* 200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>（平成<a href="http://localhost/keyword/21%E5%B9%B4">21年</a>）12月20日 - 旧北行線上に高架線路とホームを建設し、東北旅客線（宇都宮線）上り（3番線）を新設の高架線に移設。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）3月6日 - 旧上り線上に高架線路を建設し、下り（4番線）を新設の高架線に移設。これにより東北旅客線高架ホームが完成。<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）春 - 東北貨物線（湘南新宿ライン）の5・6番線ホームを施工開始（20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>3月16日完了）。<br />
+* 20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>（平成<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）7月8日 - 旧下り線上に高架線路を建設し、東北貨物線南行を新設の高架線に移設。<br />
+* 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）3月16日 - 駅周辺高架化工事完了に伴い、東北貨物線にホームを新設。湘南新宿ラインと東武鉄道直通特急「日光」・「きぬがわ」・「スペーシアきぬがわ」。（旅客案内ではそれぞれ別路線として案内されている）、また大宮駅始発・終着で運転される臨時「スーパービュー踊り子」が停車となる。また同日にはこれを記念して<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a> - 熱海駅間に団体臨時列車「湘南新宿ライン<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>停車記念号」が253系を用いて運転された。高架下では幅員25m・長さ約50mの東西自由通路が開通し、東西にあった改札が駅中央に集約されたほか、幅員約4mの仲町地下道が平面化され10mに拡幅された。さらに東西自由通路が南北2か所に新設され、3か所の東西自由通路が開通した。駅南側で鉄道と交差する<a href="http://localhost/keyword/%E9%83%BD%E5%B8%82%E8%A8%88%E7%94%BB%E9%81%93%E8%B7%AF">都市計画道路</a>田島大牧線も高架より東側の幅員が25mに拡幅された。<br />
+* 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>） 7月20日 - 開業130周年を前に<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a> - 横川駅間に団体臨時列車「<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>開業130周年記念号」が485系ジョイフルトレインNO.DO.KA.を使用して運転された。<br />
+* 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>） 7月28日 - 開業130周年を迎え、<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>の記念入場券等が発行された。<br />
+* 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>（平成<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>）12月 - 東口駅前交通広場の整備が完了。<br />
+* 20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>（平成2<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）7月 - 県内のJR駅として初めてホームドアの設置工事を開始（京浜東北線ホーム）。20<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>7月完成予定。<br />
+* 20<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>（平成<a href="http://localhost/keyword/29%E5%B9%B4">29年</a>）3月 - JR東日本が進める省エネルギーや再生可能エネルギーなどの環境保全技術を駅に導入する取り組み「エコステ」を県内初めて<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>に導入予定。太陽光発電パネルなどを設置する予定。<br />
+<br />
+== 駅構造 ==<br />
+}<br />
+<br />
+<br />
+大宮、宇都宮、高崎、前橋方面<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+赤羽、上野、東京、新宿、横浜、大船方面<br />
+|}<br />
+|}<br />
+<br />
+島式ホーム3面6線を有する高架駅。1・2番線のホーム有効長は10両編成分、3・4・5・6番線は15両編成分である。5・6番線は1・2・3・4番線より一段高い位置に設けられている。以前は高架の貨物線に圧迫されるように地平ホームが所狭しと並ぶ駅であったが、浦和市（現：<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市）による駅周辺再開発事業の一環として隣接する建築物ぎりぎりまでの土地の拡張と全面高架化工事が行われており、周囲の大小の商業・業務ビルに挟まれた手狭な土地を最大限に利用しつつ、コンパクトにホームを配置した都心部の高架駅の様相を呈している。ホーム高架化に合わせて乗り換えコンコースとホームとの間には階段に加えエスカレーターとエレベーターが設置された。ホーム下に乗り換えコンコースを有し、コンコースの南側に中央改札口が、また20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>11月にはコンコースの北側にSuica専用のアトレ北口改札が設置された。<br />
+<br />
+中央改札口の外に駅の東西を連絡する幅25mの自由通路が設けられており、西口と東口の高低差を埋めるため改札を出て西口側には上り階段とエスカレーター、エレベーターが設けられている。中央改札口横に、みどりの窓口とびゅうプラザが設置されている。改札外に1か所、改札内に1か所コンビニエンスストアNEWDAYSが設けられているほか、改札内コンコースに飲食店などが出店している。<br />
+<br />
+駅の外観としては、すでにほぼ完成している駅の東側は駅前広場に面する部分がエメラルドグリーンの全面ガラス張りとなっている。駅西口に関しては20<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>度を完成目標に7階建てのアトレ駅ビル建設が予定されており、これに隠される形となるためホームは防風壁で覆われており、東西自由通路から駅前広場に出る通路も仮設のものとなっている。西口駅舎南側にはホテル<a href="http://localhost/keyword/%E3%83%A1%E3%83%83%E3%83%84">メッツ</a>浦和があり、駅直結のビジネスホテルとして機能している。<br />
+<br />
+工事開始以前の当駅は島式ホーム2面4線を有する地上駅だった（貨物線は旅客線の斜め上を高架線で通過）。東北貨物線が西口駅舎と東北旅客線の間を地上2階の高さで通過している構造上乗り換えのための跨線橋を造ることが困難であり、JRの地上駅としては珍しく跨線橋ではなく東西両駅舎を結ぶ地下通路が各ホームへの連絡を行っていた。そのためもあり跨線橋に比べ乗り換え通路の拡幅工事が容易ではなく、結果として19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>代に整備された駅構造を2000年代まで保つこととなり、増える旅客需要やバリアフリーの要求に応えることが難しくなっていた。また貨物線の直下に西口駅舎から地下通路に向かう階段が位置することや狭隘な土地条件から貨物線にホームを新設することができず、20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>3月16日のダイヤ改正まで湘南新宿ラインは当駅を通過していた。<br />
+<br />
+<br />
+ファイル:Urawa Sta jiyutsuro west.jpg|東西自由通路西口側（20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>3月）<br />
+ファイル:Urawa Sta CentralExit.JPG|中央改札口（20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>3月）<br />
+ファイル:Urawa Sta ticketoffice.jpg|みどりの窓口とびゅうプラザ（20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>3月）<br />
+ファイル:Urawa station tsuro201512.JPG|コンコース（20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>12月）<br />
+ファイル:JREast-Keihin-tohoku-line-Urawa-station-platform-night.jpg|京浜東北線ホーム1,2番線（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>8月）<br />
+ファイル:Urawa Sta stairs34.jpg|高架化とともに拡幅された3,4番線の階段（20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>3月）<br />
+ファイル:Urawa Sta Spacia.jpg|5,6番線（湘南新宿ライン）ホームには日光・鬼怒川温泉方面への特急なども発着する（20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>3月）<br />
+ファイル:Urawa Sta seenfromtrack5.jpg|5,6番線から1 - 4番線方面を望む。5,6番線ホームのみ一段高くなっている（20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>3月）<br />
+<br />
+<br />
+=== のりば ===<br />
+<br />
+* 本項では上野東京ラインのラインカラーを紫で示すが、実際のホーム案内はオ<a href="http://localhost/keyword/%E3%83%AC%E3%83%B3%E3%82%B8">レンジ</a>で案内されている。<br />
+* 西口の方が旧浦和宿に近く、乗降客も多いが、東側から順にホームを増設していった歴史的経緯もあり東口側が1番線である。<br />
+* その他、当駅の2番線の方面表記は高架化後も<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>新都心駅開業以前からの「北浦和・与野・大宮方面」で統一され、中距離列車の停車する<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>新都心駅は与野駅より乗降客が多いにもかかわらず唯一方面表記に入っていない。<br />
+* また4番線の方面表記では地上駅時代から引き続き「小山・宇都宮・高崎・前橋方面」と表記され、宇都宮線・高崎線東京近郊区間では珍しく大宮駅や熊谷駅の記載がない。一方で20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>に開設された湘南新宿ライン6番線ホームでは「大宮・宇都宮・高崎方面」と表記され、4番線との統一が図られていない。なお、国鉄時代以来駅高架化までホーム柱に掲げられていたホウロウ板に残っていた日光や黒磯などの方面表記はなくなっている。<br />
+<br />
+=== 発車メロディ ===<br />
+<br />
+<br />
+== 駅ビル アトレ浦和 ==<br />
+20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>3月の高架化工事終了後、商業拠点として充実をはかるために西口駅舎跡地に駅ビルを、高架化によって生まれた南北1.3km高架下の空間約2万1500平方メートルに商業施設などを整備することが決定した。高架下工事時の資材置き場・工事事務所を西口駅舎跡に確保し、高架下商業施設を20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>に先行開業させ、その<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>後（20<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）に6階建て(高架下改札前の高さを1階とすると、7階建て)の駅ビルを完成させることとなった。高架下商業施設は県内初進出の「アトレ浦和」として20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>11月25日に開業し、西口側にあった観光案内所や市民の窓口も移転した。このうち東西自由通路の南側の「&#39;South Area&#39;」はザ・ガーデン自由が丘や成城石井などの食料品店を中心とした店舗で構成され（25店舗）、浦和観光案内所が移転した。観光案内所はプロントとコラボした形態をとっている。また、駅舎北側の「&#39;North Area&#39;」にはSuica専用の「アトレ北口改札」が新設されて、駅と直結する。このエリアには飲食店やファミリーマートのほか、全国で5店舗目（県内初）となるカフェ併設型・コンシェルジュ付きの「&#39;浦和 蔦屋書店&#39;」がオープンし、店内にスターバックスが併設されている[http://www.saitama-np.co.jp/news/2015/10/08/07.html <a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>にアトレ誕生、北口改札も新設　県内初、１１月２５日オープン 埼玉新聞20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>10月8日]。また、<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>市民の窓口も移転し、認可保育園の「ココファン・ナーサリー浦和」も設置（20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>4月開園）されている。この他田島大牧線の南側に駐車場（47台）、南・北側に駐輪場（計532台）を整備している。オープンに先立つ11月18日からアトレクラブビューSuicaカード、アトレカード入会キャンペーンを開始し、開業と同時にアトレ浦和の情報誌「&#39;U La La -うらら-&#39;」が創刊したhttp://www.saitama-np.co.jp/news/2015/11/25/01.html アトレ浦和２５日開店、県内初進出　スタバ、蔦屋書店など３０店集結 埼玉新聞20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>11月24日。駅ビル開業と同時に伊勢丹浦和店方面への地下道が再整備される予定となっている。また、西口駅前には1階〜4階まで商業施設が入居する27階建の再開発事業も予定されており、商業施設の増加が期待されている。<br />
+<br />
+ファイル:AtreUrawa201512.jpg|アトレ浦和夜景（20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>12月）<br />
+ファイル:Urawa station atresouth.JPG|アトレ浦和(サウスエリア)（20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>12月）<br />
+ファイル:Urawa station north exit.JPG|<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>アトレ北口（20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>12月）<br />
+ファイル:Urawa station west exit2015 12.JPG|駅ビルの建設が予定されている西口（20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>12月）<br />
+<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>度の1日平均乗車人員は&#39;87,650人&#39;である[http://www.jreast.co.jp/passenger/index.html JR東日本 各駅の乗車人員（20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>度）]。JR東日本の駅では48位で、埼玉県内の駅では大宮駅に次ぐ2位であり、他社との乗り換え路線がない単独の駅では大森駅、三鷹駅、赤羽駅に次ぎ国内4位となっている。湘南新宿ラインの停車、上野東京ラインの開通の影響があり20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>から20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>にかけて1万人近く増加した。<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>から2キロ圏内の市街地には北<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>、南<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>、武蔵<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>と乗車人員5万人ほどの駅が3つあり、利用客が分散している。<br />
+<br />
+東北本線上野駅 - 盛岡駅間・高崎線全線の列車停車駅では大宮駅、上野駅、赤羽駅に次ぐ第4位、京浜東北線の駅では第19位である（根岸線区間除く）。<br />
+<br />
+近年の1日平均乗車人員推移は下表のとおりである。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>西口駅前広場（20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>12月）<br />
+<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>東口駅前広場（20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>12月）<br />
+西口の県庁通り（20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>3月）<br />
+東口の田島大牧線（20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>3月）<br />
+当駅周辺でも、特に駅西側は埼玉県や<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市の行政機関、主要政党の埼玉県支部、裁判所などが集まる埼玉県政、<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市政の中枢である。また、そのような中で駅から徒歩圏内に狛犬ならぬコマウサギで有名な調神社や枝垂桜で有名な玉蔵院などの古社寺が点在する。また、旧中山道沿いに駅から少し離れると老舗の菓子屋などの店舗も残り、近世以来の宿場町の名残りを今に伝えている。<br />
+<br />
+西口側では1<a href="http://localhost/keyword/963%E5%B9%B4">963年</a>8月に浦和都市計画街路が決定した後、1<a href="http://localhost/keyword/967%E5%B9%B4">967年</a>に駅前の再開発事業に着手した「浦和市史 通史編IV」p299-301。。1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a>3月に繁華街の再開発が完成して、伊勢丹浦和店、浦和コルソといった大型商業施設が同年に開店したほか、<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>西口バスターミナル、旧<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>前停車場線を整備したさくら草通り、旧中山道、玉蔵院通り周辺などが整備されている。なお、この頃の再開発は、例えばさくら草通りは自動車も通行する道路から歩行者専用道路になるなど、道路を歩くことの楽しさにも配慮していた。<br />
+<br />
+その後19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>代末期には旧中山道と市役所通の交差点に当たる旧浦和宿本陣近く、浦和市役所旧庁舎跡地（浦和市役所移転後は駐車場になっていた）に<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>周辺では初の超高層ビルとなる浦和センチュリーシティ（浦和ロイヤル<a href="http://localhost/keyword/%E3%83%91%E3%82%A4%E3%83%B3">パイン</a>ズホテルなどが入居）が完成した。<br />
+<br />
+そして、2000年代に入ってからは東口でも再開発工事が進められ、浦和パルコ、大丸、ユナイテッド・シネマ（シネマコンプレックス）などの商業施設と、<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市立中央図書館、COMUNALE、地下公共駐車場などの公共施設が入居する複合型再開発ビル「ストリームビル」が開業し、駅前交通広場も整備された。西口南地区では、既に駅南側を横断する田島大牧線より南側の開発が終了している。また、同道路よりも北側の駅前一等地についても20<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>（平成<a href="http://localhost/keyword/30%E5%B9%B4">30年</a>）完成予定として駅前広場の拡張や西口のシンボルとなるようなオフィス・商業施設も取り入れた27階建ての超高層マンションが計画されている。<br />
+<br />
+なお、200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>5月には旧浦和市の伝統産業であり、大宮の盆栽や岩槻の人形とともに、<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市の伝統産業に指定されている浦和のうなぎを記念して、漫画家のやなせたかしのデザインによる浦和うなこちゃん像が駅西口に設置された。20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>6月下旬からは中ノ島地下通路の建設工事（後述）のためコルソ・伊勢丹前バス降り場付近に仮移設されている。<br />
+<br />
+<br />
+また、200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>に制定された「<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市路上喫煙及び空き缶等のポイ捨ての防止に関する条例（→路上喫煙禁止条例）」により、周辺では西側の旧中山道から東側の高砂仲町線までの区域で喫煙所以外での路上喫煙や空き缶などの投げ捨てが取り締まり対象となっている。<br />
+<br />
+駅西口の台地上には、まず南北に走る旧中山道やこれを東西に横切る県庁通を軸とする商業地区が広がり、その西側、谷を挟んだ反対側の丘（鹿島台）の上に埼玉県庁や埼玉県警察本部などの県の行政施設、<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>地方裁判所や<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>地方検察庁などの国の行政施設が集中している。その西の縁を国道17号線が走っており、沿道を中心に<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市役所、<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>商工会議所、各種メディアの支局などが集まっている。国道17号を北に進むと市役所の北に埼玉りそな銀行本店（旧：埼玉銀行本店）が立地している。その北側には埼玉大学旧キャンパス跡地を利用した北浦和公園が現れ、北<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>周辺の商業地区へとつながる。<br />
+<br />
+これら駅西口の行政・商業機能の集積地を古くからの閑静な住宅街が取り囲み、首都圏有数の高級住宅街として知られ、駅前周辺では文教都市を売りにしたマンションの建設が相次いでいる。それらは14階〜20階と比較的高層なものが多く、環境の変化に反対する運動もみられる。特に岸町では近年低層住宅地から高層マンション街へと急速に変貌した。さらに南西に離れると住宅地は丘を降りるとともに徐々に新しい住宅街へと移りつつ、別所沼や白幡沼などかつての浦和の姿を今に伝える湖沼を利用した公園が現れ、埼京線や武蔵野線の沿線にも落ち着いた住宅地が広がる。<br />
+<br />
+=== 西口 ===<br />
+埼玉県庁（20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>3月）<br />
+[[浦和センチュリーシティ]]<br />
+&#39;&#39;高砂や仲町、常盤、岸町も参照。&#39;&#39;<br />
+==== 官公庁 ====<br />
+* 埼玉県庁<br />
+** 埼玉県警察本部<br />
+** 埼玉県庁内郵便局<br />
+* <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>法務総合庁舎（法務省・裁判所）<br />
+** <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>地方裁判所・<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>家庭裁判所・<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>簡易裁判所<br />
+** <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>地方検察庁・<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>区検察庁<br />
+* <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>拘置支所・<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>少年鑑別所<br />
+* 埼玉県危機管理防災センター<br />
+* 埼玉県教育委員会<br />
+* 埼玉県選挙管理委員会<br />
+* 埼玉県公安委員会<br />
+* 埼玉県企業局<br />
+* 埼玉県知事公館<br />
+* 埼玉会館<br />
+* 埼玉県浦和警察署<br />
+* 浦和地方合同庁舎<br />
+** 自衛隊埼玉地方協力本部<br />
+* 法務省<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>地方法務局浦和公証センター<br />
+* 法務省<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>公安調査事務所<br />
+* 財務省東京税関埼玉方面事務所<br />
+* 厚生労働省関東信越厚生局指導監査課（朝日生命浦和ビル）<br />
+* 農林水産省関東農政局<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>庁舎<br />
+* 警察庁関東管区警察局埼玉県情報通信部<br />
+* <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市役所<br />
+** <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市浦和区役所<br />
+** <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市教育委員会<br />
+* <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市消防局<br />
+* <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市危機管理センター<br />
+* <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市水道局南部営業所<br />
+* <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市立教育研究所<br />
+<br />
+==== その他 ====<br />
+; 商業・ホテル<br />
+* 伊勢丹浦和店 - 埼玉県内の百貨店で第1位、そして伊勢丹支店中1位（ただし20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>時点で同一企業の店舗である三越を除く）の売上高 - 三越伊勢丹「アニュアルレポート（20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>3月期）」より。である。<br />
+* 浦和コルソ - 浦和西口再開発により開業した複合商業施設で、伊勢丹と連絡している。市街地を分断しないために、伊勢丹との間および<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>側とさくら草通りの間の1階に通路があり、深夜を除き、自由に往来できる。<br />
+** 伊勢丹前にはJリーグ・浦和レッズの歴代監督・選手のフットレリーフや獲得タイトルの記念プレートなどが設置されている。<br />
+* 浦和センチュリーシティ・浦和ロイヤル<a href="http://localhost/keyword/%E3%83%91%E3%82%A4%E3%83%B3">パイン</a>ズホテル<br />
+** うらわ美術館<br />
+* イトーヨーカドー 浦和店<br />
+* ホテル<a href="http://localhost/keyword/%E3%83%A1%E3%83%83%E3%83%84">メッツ</a>浦和<br />
+* 浦和ワシントンホテル<br />
+* レッドボルテージ（浦和レッズオフィシャルショップ）<br />
+* 須原屋書店 本店<br />
+* 浦和うなこちゃん石像<br />
+<br />
+; マスメディア<br />
+* NHK<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>放送局<br />
+* テレビ埼玉<br />
+* CityFM<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>（REDS WAVE）<br />
+* テレビ朝日<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>支局<br />
+* 朝日新聞社<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>支局<br />
+* 読売新聞社<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>支局<br />
+* 日本経済新聞社<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>支局<br />
+* 東京新聞社<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>支局<br />
+* <a href="http://localhost/keyword/%E6%AF%8E%E6%97%A5%E6%96%B0%E8%81%9E%E7%A4%BE">毎日新聞社</a><a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>支局<br />
+* 産経新聞社<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>総局<br />
+* 日本工業新聞社<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>支局<br />
+* 日刊工業新聞社<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>支局<br />
+* 時事通信社<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>支局<br />
+* 共同通信社<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>支局<br />
+<br />
+; 政党支部<br />
+* 自由民主党埼玉県支部連合会<br />
+* 民主党埼玉県総支部連合会<br />
+* 社会民主党埼玉県連合<br />
+* 公明党埼玉県本部<br />
+<br />
+; 郵便・金融<br />
+* 浦和中郵便局<br />
+** ゆうちょ銀行浦和店<br />
+* 埼玉りそな銀行本店<br />
+* 埼玉りそな銀行 浦和中央支店 - 埼玉銀行時代には本店だった。<br />
+* 三井住友銀行 浦和支店<br />
+* 三菱東京<a href="http://localhost/keyword/UFJ">UFJ</a>銀行 浦和支店<br />
+* みずほ銀行 浦和支店<br />
+* 三菱<a href="http://localhost/keyword/UFJ">UFJ</a><a href="http://localhost/keyword/%E4%BF%A1%E8%A8%97%E9%8A%80%E8%A1%8C">信託銀行</a>浦和支店<br />
+* 三井住友<a href="http://localhost/keyword/%E4%BF%A1%E8%A8%97%E9%8A%80%E8%A1%8C">信託銀行</a>浦和支店<br />
+* みずほ<a href="http://localhost/keyword/%E4%BF%A1%E8%A8%97%E9%8A%80%E8%A1%8C">信託銀行</a>浦和支店<br />
+* 群馬銀行 浦和支店<br />
+* 足利銀行 浦和支店<br />
+* 東和銀行 浦和支店<br />
+* <a href="http://localhost/keyword/%E3%82%B7%E3%83%86%E3%82%A3%E3%83%90%E3%83%B3%E3%82%AF%E9%8A%80%E8%A1%8C">シティバンク銀行</a>浦和支店<br />
+* <a href="http://localhost/keyword/%E6%AD%A6%E8%94%B5%E9%87%8E%E9%8A%80%E8%A1%8C">武蔵野銀行</a> 県庁前支店<br />
+* 東京スター銀行 浦和支店<br />
+* 中央労働金庫 <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>支店<br />
+* 商工組合中央金庫 <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>支店<br />
+* 日本政策金融公庫浦和支店<br />
+* 埼玉縣信用金庫浦和支店<br />
+* あすか信用組合浦和支店<br />
+* 野村証券浦和支店<br />
+* SMBC日興証券浦和支店<br />
+* 大和証券浦和支店<br />
+* みずほ証券浦和支店<br />
+* むさし証券浦和支店<br />
+<br />
+; 公共施設・タワー<br />
+* 埼玉県県民健康センター<br />
+* <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市民会館うらわ<br />
+* エイペックスタワー浦和<br />
+* コスタ・タワー浦和<br />
+* シティハウス浦和高砂<br />
+* パークホームズ浦和仲町<br />
+* <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>商工会議所<br />
+* 埼玉県交通会館<br />
+* 埼玉県住宅供給公社<br />
+* 日本赤十字社埼玉県支部<br />
+* <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>住宅検査センター<br />
+* 明治安田生命浦和ビル<br />
+* 戸田建設関東支店<br />
+<br />
+; 道路<br />
+* 国道463号（旧中山道・県庁通など）<br />
+* 国道17号（中山道）<br />
+* さくら草通り<br />
+* 裏門通り<br />
+<br />
+; 寺社・学校・公園<br />
+* 調神社<br />
+* 玉蔵院<br />
+* 埼玉県立浦和第一女子高等学校<br />
+* 埼玉大学教育学部附属中学校<br />
+* 埼玉大学教育学部附属小学校<br />
+* 埼玉大学教育学部附属幼稚園<br />
+* <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市立高砂小学校<br />
+* <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市立白幡中学校<br />
+* <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市立岸町小学校<br />
+* <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市立浦和別所小学校<br />
+* <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市立浦和中央保育園<br />
+* 浦和中央公園<br />
+* 常盤公園<br />
+* 仲町公園（浦和宿本陣跡）<br />
+<br />
+==== <a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>西口地下道 ====<br />
+<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>西口地下道は、<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>西口出入り口前から中ノ島（<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>西口バスターミナル）と、浦和コルソ地下1階、伊勢丹地下1階と結ぶ地下道である。また、浦和コルソ地下1階出入り口手前と浦和伊勢丹地下1階出入り口手前にも地上へ行く階段が設置されている。<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>西口から中ノ島（<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>西口バスターミナル）まで道路を横断するのは危険なため、地下道の利用を促す看板が設置されている。平成<a href="http://localhost/keyword/30%E5%B9%B4">30年</a>春の完成を目標に東西自由通路と西口地下道を直通する中ノ島地下通路の建設が開始された。。<br />
+<br />
+<br />
+ファイル:UrawaNishiguchiChikadou.jpg|<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>西口地下道（20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>03月）<br />
+ファイル:Urawa Station West Underground Road.JPG|地下道入口（20<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>03月）<br />
+<br />
+<br />
+=== 東口 ===<br />
+浦和駒場スタジアム<br />
+浦和球場<br />
+* <a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>東口再開発複合施設ビル「ストリームビル」<br />
+** 浦和パルコ - 関東店舗グループ中では第1位（全店舗中では池袋パルコに次ぐ第3位）の売上高となっている[http://www.parco.co.jp/pdf/jp/library/file150407b_9yRGZAys.pdf 決算説明会資料]。<br />
+*** 大丸 浦和パルコ店<br />
+*** ユナイテッド・シネマ浦和<br />
+*** メガロス 浦和店<br />
+*** 紀伊国屋書店浦和店<br />
+*** ユザワヤ 浦和店<br />
+*** ノジマ 浦和店<br />
+** COMUNALE「コムナーレ」<br />
+*** <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市立中央図書館<br />
+*** <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市市民活動サポートセンター<br />
+*** <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市国際交流センター<br />
+*** <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市浦和消費者センター<br />
+*** <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市シルバーバンク<br />
+*** <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市役所市民活動支援室<br />
+* 前地通り商店街<br />
+* 東仲町商店街<br />
+* 浦和麗明高等学校<br />
+* <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市立浦和中学校・高等学校<br />
+* <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市立仲本小学校<br />
+* <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市立本太小学校<br />
+* <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市立原山中学校<br />
+* 浦和競馬場 - 前地通り経由で徒歩で約15分。無料バスは南<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>東口より運行されている。<br />
+* 浦和記念公園<br />
+* 浦和総合運動場<br />
+** <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%96%B6%E6%B5%A6%E5%92%8C%E7%90%83%E5%A0%B4">さいたま市営浦和球場</a><br />
+* 浦和駒場スタジアム<br />
+* 浦和駒場体育館<br />
+* <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市青少年宇宙科学館<br />
+* 原山市民プール<br />
+* 埼玉りそな銀行 浦和東口支店<br />
+* <a href="http://localhost/keyword/%E6%AD%A6%E8%94%B5%E9%87%8E%E9%8A%80%E8%A1%8C">武蔵野銀行</a> 浦和支店<br />
+* 埼玉縣信用金庫浦和東支店<br />
+* 浦和東高砂郵便局<br />
+* 浦和本太郵便局<br />
+* 氷川神社<br />
+* 大善院<br />
+* 川久保病院<br />
+<br />
+== バス路線 ==<br />
+当駅を発着するバス路線は、<a href="http://localhost/keyword/%E5%9B%BD%E9%9A%9B%E8%88%88%E6%A5%AD">国際興業</a>バスと東武バスウエストが運行している。西口は1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a>に現在のバスターミナルが完成し、<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>とは地下道でも接続している。東口バスターミナルは200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>11月1日に暫定完成し、20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>11月に全面完成した。200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>シーズンから埼玉スタジアム2002や駒場スタジアムへのシャトルバス乗り場が西口から東口に変更になった。ただし、スタジアムからの帰路は従来通り西口到着となる。<br />
+<br />
+20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>12月16日より、<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>西口と羽田空港を結ぶ空港連絡バスが運行を開始した。<br />
+<br />
+=== 西口 ===<br />
+<br />
+<br />
+=== 東口 ===<br />
+<br />
+<br />
+== 付記 ==<br />
+=== 「浦和」が付く駅名 ===<br />
+「浦和」の名に方角を冠する駅は、東西南北の全部が揃っている（東<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>・<a href="http://localhost/keyword/%E8%A5%BF%E6%B5%A6%E5%92%8C%E9%A7%85">西浦和駅</a>・南<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>・北<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>）。ちなみに、日本の鉄道駅で方角と地名のみの組み合わせで四方が揃っているのは浦和だけである。地名以外の名称が含まれている事例を含めると、他に仙台（東仙台駅・西仙台ハイランド駅〈臨時駅・廃駅〉・南仙台駅・<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>）や富山（<a href="http://localhost/keyword/%E6%9D%B1%E5%AF%8C%E5%B1%B1%E9%A7%85">東富山駅</a>・西富山駅・南富山駅・富山駅北駅）がある。また、3方向の場合は、新宿（東新宿駅・西新宿駅・南新宿駅）、立川（立川南駅・西立川駅・立川北駅）、船橋（東船橋駅・西船橋駅・南船橋駅）、大宮（東大宮駅・西大宮駅・北大宮駅）、広島（西広島駅・東広島駅・北広島駅〈北海道〉）などがある。また、かつてあった例としては、延岡（北延岡駅・南延岡駅・西延岡駅（廃止））、川口（東川口駅、西川口駅、北川口駅（北海道、廃止））がある。<br />
+<br />
+<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>と中<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>・武蔵<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>・浦和美園駅を含めると、浦和の名が付く駅が8つ存在する一方で、旧浦和市域で浦和の名の付かない駅は与野駅のみであり、9駅中8駅に同じ地名を付している点で特徴的である。埼京線開通後しばらくして、フジテレビ系のテレビ番組『タモリのスーパーボキャブラ天国』に山本リンダのヒット曲「狙いうち」をネタにした「…浦和は7つの駅がある」（当時開業していなかった浦和美園駅を除く7駅）という替え歌が投稿され、同番組のスペシャルで表彰されたことがある。また、「めおと楽団ジキジキ」がネタでこの替え歌を歌っている。<br />
+<br />
+これら「浦和」の付く8駅はすべて旧浦和市内にあったが、<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市発足後の浦和区内にあるのは<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>と北<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>のみで、他の6駅は浦和区外となっている（東<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>と浦和美園駅は緑区、<a href="http://localhost/keyword/%E8%A5%BF%E6%B5%A6%E5%92%8C%E9%A7%85">西浦和駅</a>は桜区、南<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>・中<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>・武蔵<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>は南区）。<br />
+<br />
+=== 埼玉スタジアム2002のアクセス駅 ===<br />
+200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>、浦和レッズが<a href="http://localhost/keyword/ACL">ACL</a>で優勝した際には駅西口周辺が真っ赤なイ<a href="http://localhost/keyword/%E3%83%AB%E3%83%9F%E3%83%8D">ルミネ</a>ーションに飾られた。<br />
+当駅は、Jリーグ・浦和レッズの本拠地のである埼玉スタジアム2002の主要アクセス駅の一つであり、また<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市駒場スタジアムの最寄り駅でもある。これらでレッズの試合やサッカー日本代表の試合が行われる日は多数の乗客が乗降し、駅とスタジアムの間は直行臨時バスが数十台以上発車する。また、浦和レッズ戦以外を含めて埼玉スタジアムで試合が行われる日でも、当駅から埼玉スタジアム行の直行臨時バスが発車する。<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 宇都宮線・高崎線<br />
+:* 特急「草津」「あかぎ」「スワローあかぎ」停車駅<br />
+:* 臨時特急「水上」停車駅<br />
+:* 臨時特急「踊り子」停車駅<br />
+:: 快速「ラビット」「アーバン」・通勤快速<br />
+::: 赤羽駅 - &#39;<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>&#39; - 大宮駅<br />
+:: 普通<br />
+::: 赤羽駅 - &#39;<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>&#39; - <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>新都心駅<br />
+: 湘南新宿ライン<br />
+:* 東武直通特急「日光」「きぬがわ」「スペーシアきぬがわ」停車駅<br />
+:* 臨時特急「スーパービュー踊り子」停車駅<br />
+:* 臨時特急「草津」停車駅<br />
+:: 特別快速・快速・普通<br />
+::: 赤羽駅 - &#39;<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>&#39; - 大宮駅<br />
+: 京浜東北線<br />
+:: 快速・各駅停車<br />
+::: 南<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a> - &#39;<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>&#39; - 北<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a><br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+=== 報道発表資料 ===<br />
+<br />
+<br />
+== 出典 ==<br />
+;JR東日本の19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>度以降の乗車人員<br />
+<br />
+;埼玉県統計年鑑<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=259 JR東日本 <a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>]<br />
+* [http://watchizu.gsi.go.jp/watchizu.aspx?id=53396500 2万5千分1地形図名：浦和（南西）]<br />
+* [http://www.jreast.co.jp/construction/elevate/index.html#11 JR東日本 <a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>付近高架化]<br />
+* [http://www.city.saitama.jp/www/genre/0000000000000/<a href="http://localhost/keyword/122">122</a>7510591610/index.html <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市 <a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>周辺高架化事業]<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市の鉄道駅<br />
+らわ<br />
+うらわえき<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+うらわえき<br />
+うらわえき<br />
+Category:1<a href="http://localhost/keyword/883%E5%B9%B4">883年</a>開業の鉄道駅<br />
+うらわえき<br />

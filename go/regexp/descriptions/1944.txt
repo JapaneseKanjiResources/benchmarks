@@ -1,0 +1,60 @@
+description
+、属格:
+ |symbology = the Peacock
+ |RA = 20
+ |dec = &minus;65
+ |culmination date = 8月25日21時
+ |quadrant = SQ4
+ |areatotal = 378
+ |arearank = 44
+ |numbermainstars = 7
+ |numberbfstars = 24
+ |numberstarsplanets = 3
+ |numberbrightstars = 1
+ |numbernearbystars = 2
+ |brighteststarname = &alpha; Pav
+ |starmagnitude = 1.910
+ |neareststarname = SCR 1845-6357
+ |stardistance = 12.6
+ |numbermessierobjects = 0
+ |meteorshowers = Delta Pavonids
+ |bordering = はちぶんぎ座ふうちょう座さいだん座ぼうえんきょう座インディアン座
+ |notes = 
+}}
+
+'くじゃく座'（孔雀座、Pavo）は南天の星座の1つ。
+
+== 主な天体 ==
+=== 恒星 ===
+
+* &alpha;星：ピーコックは、くじゃく座で最も明るい恒星で、唯一の2等星。
+* &delta;星：太陽系から近く、太陽と似ている恒星。
+* SCR 1845-6357：赤色矮星。太陽系から24番目に近い恒星。
+
+=== 星団・星雲・銀河 ===
+* NGC 6752：球状星団。肉眼で見ることも可能な全天で3番目に明るい球状星団。
+
+== 由来と歴史 ==
+
+くじゃく座は16世紀以降に作られた新しい星座であり、神話はないギリシア神話における孔雀に関する神話についてはアルゴスの項を参照。。
+
+ペーテル・ケイセルとフレデリック・デ・ハウトマンが残した観測記録を元にペトルス・プランシウスが1597年に作成した地球儀に残したものが最初である。ヨハン・バイエルが1603年に発刊したウラノメトリアでそれを引用したことにより世に知られるようになった。
+
+== 脚注 ==
+=== 注釈 ===
+
+
+=== 出典 ===
+
+
+
+
+
+
+
+
+
+
+
+*
+Category:天文学に関する記事

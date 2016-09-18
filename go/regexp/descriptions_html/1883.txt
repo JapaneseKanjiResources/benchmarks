@@ -1,0 +1,279 @@
+description<br />
+<br />
+地下鉄<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a> 北1出口（200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>8月）<br />
+<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>&#39;（きたせんだいえき）は、宮城県仙台市青葉区昭和町にある、東日本旅客鉄道（JR東日本）・仙台市地下鉄の駅である。<br />
+<br />
+== 乗り入れ路線 ==<br />
+JR東日本の仙山線（）と、仙台市交通局の仙台市地下鉄<a href="http://localhost/keyword/%E5%8D%97%E5%8C%97%E7%B7%9A">南北線</a>（）が乗り入れ、接続駅となっている。仙台市地下鉄の駅は仙台市営バスとの乗り継ぎ指定駅である。<br />
+<br />
+過去には仙台鉄道および仙台市電も乗り入れていたが、これらの路線は既に廃止されている。<br />
+<br />
+== 駅構造 ==<br />
+=== JR東日本 ===<br />
+仙山線<br />
+|キロ程 = 4.8<br />
+|起点駅 = 仙台<br />
+|所在地 = 仙台市青葉区昭和町6-1<br />
+| 緯度度 = 38 | 緯度分 = 16 | 緯度秒 = 54 | N(北緯)及びS(南緯) = N <br />
+| 経度度 = 140 |経度分 = 52 | 経度秒 = 9.1 | E(東経)及びW(西経) = E<br />
+| 地図国コード = JP<br />
+|駅構造 = 地上駅（盛土上）<br />
+|ホーム = 1面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/929%E5%B9%B4">929年</a>（昭和<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）9月29日<br />
+|廃止年月日 =<br />
+|乗車人員 = 4,560<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a><br />
+|乗換 =<br />
+|備考 = 直営駅（管理駅）みどりの窓口 有仙 仙台市内駅<br />
+}}<br />
+<br />
+島式ホーム1面2線を有する地上駅で、列車の行き違いが行われる。ホーム・コンコースともに1階にある地上駅であるが、線路が盛土の上に設置されているため、線路とホームは駅舎よりも高い位置に所在する。改札は駅南側の駅舎に1箇所設置されている。トイレは改札内に設置されており、車椅子用トイレも併設されている。改札外からは原則として利用できない。駅舎は1<a href="http://localhost/keyword/929%E5%B9%B4">929年</a>（昭和<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）に完成した開業以来の木造駅舎である。<br />
+<br />
+直営駅（駅長・助役配置）で管理駅でもあり、東照宮駅および北山駅・東北福祉<a href="http://localhost/keyword/%E5%A4%A7%E5%89%8D%E9%A7%85">大前駅</a>の3駅を管理下におく。みどりの窓口（営業時間6:40～20:30）、自動改札機および自動券売機、指定席券売機（稼働時間：5：30～23：40）を設置している（自動精算機はなし）。指定席券売機は仙山線内では唯一の設置駅である。<br />
+<br />
+JRの特定都区市内制度における「仙台市内」の駅である。<br />
+<br />
+開業以降、改札とホームを結ぶ昇降設備は階段のみであったが、20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）3月にエレベーター及び新通路がホーム中ほどに設置され、バリアフリー化が完了JR東日本仙台支社プレスリリース（20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>3月25日）。これに合わせ、ホームの改良や案内板の新設等も同時に行われた。開業当初から使用されている西側（山形側）の階段両壁には海中をイメージした熱帯魚の絵が描かれているほか、改札に向かう通路は高さが約2mと非常に低い。<br />
+<br />
+駅名標は「昭和モダン体」書体。他の仙山線の駅同様、LED発車標はホームではなく改札に設置されている。<br />
+<br />
+19<a href="http://localhost/keyword/80%E5%B9%B4">80年</a>（昭和<a href="http://localhost/keyword/55%E5%B9%B4">55年</a>）前半に利用者が落ち込んだ時期があり、仙山線のCTC化と同時に無人化が検討された。しかし、利用者の声と国鉄の余剰人員活用対策のために仙台駅機動要員センターからの派遣という形で駅員配置を存続した。ホーム中央にはCTC化まで使用されていた運転事務室が残り、ここで当務駅長が信号扱い・閉塞扱いを行っていた。<br />
+<br />
+==== のりば ====<br />
+<br />
+1・2番線とも仙台方・羽前千歳方に場内・出発信号機が備えられている。1番線が下り1番線、2番線が本線となっており、2番線は上下とも通過列車対応となっている（1番線の場内信号機は進行現示ができないため）。<br />
+<br />
+<br />
+=== 仙台市地下鉄 ===<br />
+<br />
+|所属事業者 = 仙台市交通局（20px 仙台市地下鉄）<br />
+|所属路線 = <a href="http://localhost/keyword/%E5%8D%97%E5%8C%97%E7%B7%9A">南北線</a><br />
+|キロ程 = 5.4<br />
+|起点駅 = 泉中央<br />
+|所在地 = 仙台市青葉区昭和町6-6先<br />
+| 緯度度 = 38 | 緯度分 = 16 | 緯度秒 = 56 | N(北緯)及びS(南緯) = N <br />
+| 経度度 = 140 |経度分 = 52 | 経度秒 = 6.5 | E(東経)及びW(西経) = E<br />
+| 地図国コード = JP<br />
+|駅構造 = 地下駅<br />
+|ホーム = 1面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）7月15日<br />
+|廃止年月日 =<br />
+|乗車人員 = 7,229<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換 =<br />
+|備考 =<br />
+}}<br />
+<br />
+島式ホーム1面2線を有する地下駅であり、ホームは地下2階、コンコースは地下1階にある。仙山線の<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>からやや西寄りに位置する。地上への出入り口は北1出口・北2出口・南1出口（仙山線乗換口）の3箇所。このほか、北1及び北2出口のコンコース中間部に、地上と改札階を結ぶエレベーターが1基設置されている。また北2出口には地下駐輪場も併設されており、駐輪場用出口も3箇所（うち1箇所は開業当初から使用不可）存在する。<br />
+<br />
+開業時、出口は北1・南1の2箇所のみだったが、再開発ビルであるエムズ北仙台の完成に合わせて北2出口が増設された。<br />
+<br />
+乗車ホームを分かりやすくするため、駅名表示板は方面別に色分けされている。ホーム・改札間にはエスカレータおよびエレベーターが設置されている。<br />
+<br />
+==== のりば ====<br />
+<br />
+<br />
+<br />
+== 利用状況 ==<br />
+<br />
+<br />
+1日平均乗車人員は以下の通り。<br />
+* JR東日本 : 4,560人（20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>度）<br />
+* 仙台市地下鉄 : 7,229人（20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度）<br />
+;一日平均乗車人員（単位：人/日）<br />
+<br />
+<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+=== 地下鉄南口・JR口 ===<br />
+* 仙台銀行北山支店北仙台出張所（店舗外ATM）<br />
+* <a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>前郵便局<br />
+* 仙台浅草<br />
+* ホシザキ東北株式会社<br />
+* 仙台北警察署<br />
+* 青葉神社<br />
+* 宮城県仙台合同庁舎<br />
+* 仙台市立上杉山中学校<br />
+* 宮城教育大学附属小学校・中学校<br />
+* 宮城県立視覚支援学校<br />
+* 七十七銀行北仙台支店<br />
+* 杜の都信用金庫北仙台支店<br />
+* アルファプレイスビル<br />
+* 西友北仙台店<br />
+* T<a href="http://localhost/keyword/SUT">SUT</a>AYA北仙台店<br />
+* 仙台小鳥のクリニック<br />
+<br />
+=== 地下鉄北口 ===<br />
+* エムズ北仙台<br />
+** 仙台市北部急患診療所<br />
+* 仙台市青葉体育館・仙台市武道館<br />
+* 宮城調理製菓専門学校<br />
+* MEGAドン.キホーテ仙台台原店（株式会社長崎屋）<br />
+<br />
+== バス路線 ==<br />
+=== バスプール（地下鉄<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>） ===<br />
+<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>北口（仙山線北側）に位置し、仙台市営バスのバスプールがある。地下鉄開業当初は<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>止まりのバスが多数設定されていたが、中山や桜ヶ丘方面から仙台駅へはバスで直通する場合の運賃より高額となるため、川内亀岡線（現在の70系統とは別経路）・女子商線（現在の918系統）を除き、全て仙台駅まで直通するようになった。<br />
+<br />
+しばらくは都心直通後もバスプールを経由していたが、JRへの乗継は前述の「<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>」停留所のほうが至便で、地下鉄のみ利用可能な北口バスプールを使用する必然性が無くなったため、現在は以下の系統を除く全ての便がバスプールに乗り入れなくなった。<br />
+* &#39;&#39;：[70]輪王寺・三条町経由川内駅<br />
+* &#39;&#39;：[917]西勝山、[X917]西勝山・実沢営業所、[918]貝ケ森一丁目・青陵中等教育学校前<br />
+* &#39;&#39;：[S917][S918]仙台駅<br />
+: 旧1番のりばには葉山町停留所の時刻表が掲示されているが、前述の事由により、当停留所からは利用できない。<br />
+<br />
+=== <a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>・葉山町 ===<br />
+地下鉄<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>バス停に対し単に<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>を名乗っているが、地下鉄バスプールを経由するバスはごく僅かで、JR駅と地下鉄駅南口間の距離も65mしか離れていないことから、JRと地下鉄両方の駅前という意味で、「<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>」となっている。なお、仙台市営バス（バスプール通過の葉山町経由便）では、地下鉄客は葉山町（<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>）で降りるよう車内放送を実施している。<br />
+<br />
+北山トンネルの開通に伴い、<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>経由のバス路線は減少傾向にある。<br />
+<br />
+* [S900-S918]仙台駅<br />
+** 急行仙台駅（時刻表表記なし）<br />
+* [70] 川内駅<br />
+* [900][902]桜ヶ丘団地<br />
+** [901]宮城学院<br />
+* [917]西勝山<br />
+** [X917]西勝山・実沢営業所<br />
+* [905]北中山・西中山<br />
+* [904]長命ヶ丘<br />
+* [910][X910]泉ビレジ<br />
+* [911]聖和短大・実沢（営） <br />
+* [918]貝ヶ森一丁目・青陵中等教育学校前（葉山町のみ停車）・・・200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>（平成<a href="http://localhost/keyword/21%E5%B9%B4">21年</a>）4月1日より<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>乗り入れ開始。<br />
+<br />
+=== 北仙台（旧<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>前） ===<br />
+<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>入口交差点から西よりの旧国道4号沿いに設置されており、かつては「<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>前」と称した。仙台市営バス（瞑想の松線・黒松団地線）と宮城交通は「中山・桜ヶ丘方面、仙山線ご利用の方はお乗り換えです（上り）」「<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>は経由いたしませんので、JR・地下鉄をご利用のお客様はこちらで乗換です（下り）」と両社局共通の車内アナウンスを行っている。<br />
+<br />
+==== 仙台市営バス ====<br />
+<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>を経由するバスの他、以下の路線がある。<br />
+* [159]瞑想の松循環<br />
+* [160][161]黒松二丁目・八乙女駅<br />
+<br />
+==== 宮城交通 ====<br />
+<br />
+* 仙台駅前<br />
+* 仙台港フェリーターミナル（仙台駅前・夢メッセみやぎ経由）<br />
+** 陸前<a href="http://localhost/keyword/%E9%AB%98%E7%A0%82%E9%A7%85">高砂駅</a>前（仙台駅前経由）<br />
+* 北根三丁目<br />
+* 虹の丘団地<br />
+** 八乙女駅・泉中央駅（虹の丘団地・みずほ台経由）<br />
+* 宮城学院（東勝山団地経由）<br />
+* 宮城大学（双葉ヶ丘入口経由）<br />
+** 宮城大学・工業団地（桂・高森経由）<br />
+* 泉中央駅<br />
+** 将監団地循環<br />
+* 向陽台団地<br />
+* 明石台団地（東向陽台経由）<br />
+<br />
+* 松森団地（永和台経由）<br />
+** 東北学院大学泉キャンパス<br />
+* 松陵ニュータウン<br />
+* 鶴が丘ニュータウン<br />
+* 新富谷ガーデンシティ<br />
+* 泉パークタウン<br />
+* 南富谷サニータウン（泉ヶ丘、鷹乃杜経由）<br />
+* パルタウン大富（泉ヶ丘経由）<br />
+* 富谷営業所（泉ヶ丘、パルタウン大富経由）<br />
+<br />
+<br />
+==== ミヤコーバス ====<br />
+* （高速）古川・大崎合同庁舎<br />
+<br />
+==== 東日本急行 ====<br />
+* （高速）栗原市金成庁舎<br />
+<br />
+== 宮城交通 北仙台ターミナル（廃止） ==<br />
+* 2003年（平成<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）に宮城交通の本社が現在地（泉区北部）に移転するまでは、当地が宮城交通の本社であり、それに付属するバスターミナルとして「北仙台ターミナル」が置かれた。<br />
+* これは、かつて仙台鉄道の始発駅があり、廃止後は仙北鉄道と合併して宮城バスとなった時代より続いているものであった。このため、当初は始発のバスが多数設定されていた。<br />
+* なお、本ターミナルは北仙台発便のみ乗車取扱を行い、それ以外の全系統及び北仙台着便は北仙台停留所のみを経由し、ターミナルへの乗り入れは行わなかった。<br />
+* 全盛期には岩沼、塩竈方面および秋保温泉、村田、川崎方面の他に太白区八木山麓の各団地（鈎取・山田）方面の一部も始発となっていたが、2000年（平成<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）に秋保線が県庁市役所始発になり、2003年（平成<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）にターミナル機能を北根車庫に移転（塩竈方面からの北仙台発着便は全便北根三丁目発着に変更、長町方面は従来通り）、200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>（平成<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）には仙台 - 村田普通便を廃止、12月には特急仙台 - 村田・<a href="http://localhost/keyword/%E8%94%B5%E7%8E%8B%E7%94%BA">蔵王町</a>線開業に伴い、仙台 - 村田特急便も廃止。川崎方面も大幅減便の上、仙台駅を始終点にして全廃された。<br />
+* 現在、宮城交通本社・北仙台ターミナル跡地は大京マンション「ライオンズタワー仙台青葉」となっている。<br />
+<br />
+== 歴史 ==<br />
+[[1<a href="http://localhost/keyword/927%E5%B9%B4">927年</a>（昭和<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）頃の仙台市および近郊地図。仙山東線は建設中だが実線で図示されている。仙台鉄道（仙臺軌道）の<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>は未設置。当時の仙台市電は、環状線、芭蕉の辻線、および、荒町まで敷いた長町線のみで営業。市電の計画路線は点線で表されており、<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>まで敷く予定の北仙台線も描かれている。]]<br />
+* 1<a href="http://localhost/keyword/929%E5%B9%B4">929年</a>（昭和<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）<br />
+** 9月29日 - 仙山東線仙台 - 愛子間開業により、宮城郡七北田村に国鉄の<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>が開業。<br />
+** 9月29日 仙台鉄道・<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>（）が開業。<br />
+* 1<a href="http://localhost/keyword/931%E5%B9%B4">931年</a>（昭和<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）4月 - 仙台市が七北田村荒巻等を編入合併し（仙台市）、<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>が仙台市内となる。<br />
+* 1<a href="http://localhost/keyword/937%E5%B9%B4">937年</a>（昭和<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）10月26日 - 仙台市電北仙台線（北四番丁駅 - <a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>前駅）開通により、仙台市電の<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>前駅（）が設置。<br />
+* 1<a href="http://localhost/keyword/956%E5%B9%B4">956年</a>（昭和<a href="http://localhost/keyword/31%E5%B9%B4">31年</a>）3月14日 - 仙台鉄道北仙台 - 加美中新田間廃線により、仙台鉄道の<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>が廃止。<br />
+* 19<a href="http://localhost/keyword/69%E5%B9%B4">69年</a>（昭和<a href="http://localhost/keyword/44%E5%B9%B4">44年</a>）4月1日 - 仙台市電北仙台線廃線により、仙台市電の<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>前電停が廃止。<br />
+* 1<a href="http://localhost/keyword/985%E5%B9%B4">985年</a>（昭和<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>）3月14日 - 駅員が仙台駅からの派遣になる（書類上の無人化）。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）<br />
+** 4月1日 - 国鉄分割民営化により、東日本旅客鉄道の駅となる。派遣中止、有人化。<br />
+** 7月15日 - 仙台市営地下鉄<a href="http://localhost/keyword/%E5%8D%97%E5%8C%97%E7%B7%9A">南北線</a>の<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>が開業。<br />
+* 1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a>（平成<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>） - 地下鉄<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>・北2出口供用開始。<br />
+* 2003年（平成<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）<br />
+** 3月6日 - JR<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>に自動改札導入。<br />
+** 10月26日 - JR<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>でICカードSuicaを導入。<br />
+** 11月1日 - 管理区分見直しにより、管理駅となる（それ以前は仙台駅長管理下）。<br />
+* 200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>（平成<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>）10月16日 - JR<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>改札口にLED発車標を導入。<br />
+* 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>（平成<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>） - JR<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>に「お知らせ」LED導入、発車標のデザインを変更。<br />
+* 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>（平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）12月15日 - JR<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>の管理範囲が変更。<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）3月 - KIOSK廃止。<br />
+* 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>（平成<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）<br />
+** 3月 - JR<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>のホーム待合室が改築・完成。<br />
+** 10月 - JR<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>駅舎に待合室が完成、指定席券売機運用開始。<br />
+* 20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>（平成<a href="http://localhost/keyword/22%E5%B9%B4">22年</a>）1月16日 - 地下鉄<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>に可動式ホーム柵の運用開始。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>（平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）3月7日 - JR<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>構内バリアフリー化完了。<br />
+* 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>（平成<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>）12月6日 - 地下鉄<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>、IC<a href="http://localhost/keyword/%E4%B9%97%E8%BB%8A%E5%88%B8">乗車券</a>・icsca導入[http://www.kahoku.co.jp/tohokunews/201412/20141207_15020.html イクスカ出発進行　仙台市地下鉄で利用始まる] 河北新報（20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>12月7日）。<br />
+<br />
+== その他 ==<br />
+* 仙台市電<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>前電停は仙山線<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>の出口付近に存在した。<br />
+<br />
+=== 駅名の由来 ===<br />
+仙台の北に置かれた駅なので、<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>と名づけられた。開業当初の<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>は旧仙台市の北限に位置し、当駅以北は荒巻村であった。1<a href="http://localhost/keyword/937%E5%B9%B4">937年</a>（昭和<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>） - 1<a href="http://localhost/keyword/956%E5%B9%B4">956年</a>（昭和<a href="http://localhost/keyword/31%E5%B9%B4">31年</a>）には仙山線、仙台市電、仙台鉄道が乗り入れ、後の宮城交通北仙台ターミナル設置もあり、駅周辺の地域を総称・通称して&#39;北仙台&#39;と呼ぶようになった。駅の所在地は昭和町であるが、多くの近隣施設が「北仙台」を冠した名称を使用している。<br />
+<br />
+== 隣の駅 ==<br />
+; link=東日本旅客鉄道東日本旅客鉄道<br />
+: 仙山線<br />
+:: 快速（一部）<br />
+::: 仙台駅 - &#39;<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>&#39; - 国見駅<br />
+:: 快速・普通<br />
+::: 東照宮駅 - &#39;<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>&#39; - 北山駅<br />
+<br />
+; link=仙台市地下鉄 仙台市地下鉄<br />
+: <a href="http://localhost/keyword/%E5%8D%97%E5%8C%97%E7%B7%9A">南北線</a><br />
+::: 台原駅 （N 05） - &#39;<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a> （N 06）&#39; - 北四番丁駅 （N 07）<br />
+<br />
+=== かつて存在した路線 ===<br />
+; 仙台鉄道<br />
+: 仙台鉄道線<br />
+::: 通町駅 - &#39;<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>&#39; - 東照宮前駅<br />
+<br />
+; 仙台市電<br />
+: 北仙台線<br />
+::: 堤通駅 - &#39;<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>&#39;<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* <a href="http://localhost/keyword/%E5%AE%AE%E5%9F%8E%E7%9C%8C%E9%81%93136%E5%8F%B7%E5%8C%97%E4%BB%99%E5%8F%B0%E5%81%9C%E8%BB%8A%E5%A0%B4%E7%B7%9A">宮城県道136号北仙台停車場線</a><br />
+* 北仙台<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=572 JR東日本 <a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>]<br />
+* [https://www.kotsu.city.sendai.jp/subway/guide/kita-sendai/index.html 地下鉄利用ガイド <a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>] - 仙台市交通局<br />
+* [http://www.geocities.jp/tokyoctrl/kitasendai/kitasdj.htm 写真集「<a href="http://localhost/keyword/%E5%8C%97%E4%BB%99%E5%8F%B0%E9%A7%85">北仙台駅</a>」] - (個人のサイト)<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:仙台市青葉区の鉄道駅<br />
+たせんたい<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:仙台市地下鉄の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:仙山線<br />
+Category:仙台鉄道<br />
+Category:1<a href="http://localhost/keyword/929%E5%B9%B4">929年</a>開業の鉄道駅<br />

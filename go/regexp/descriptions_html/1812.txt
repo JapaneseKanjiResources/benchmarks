@@ -1,0 +1,113 @@
+description<br />
+<br />
+|開業年月日= 1<a href="http://localhost/keyword/904%E5%B9%B4">904年</a>（明治<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）10月21日<br />
+|駅構造 = 地上駅<br />
+|ホーム = 2面3線<br />
+|廃止年月日=<br />
+|乗車人員 = 128<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a><br />
+|所属路線 = 奥羽本線<br />
+|前の駅 = 羽前豊里<br />
+|駅間A = 2.7<br />
+|駅間B = 9.2<br />
+|次の駅 = 釜淵<br />
+|駅番号 =<br />
+|キロ程 = 164.0<br />
+|起点駅 = 福島<br />
+|乗換 =<br />
+|備考 = 簡易委託駅* 1<a href="http://localhost/keyword/916%E5%B9%B4">916年</a>に新町駅から改称<br />
+|備考全幅 =<br />
+}}<br />
+ホーム<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E7%9C%9F%E5%AE%A4%E5%B7%9D%E9%A7%85">真室川駅</a>&#39;（まむろがわえき）は、山形県最上郡真室川町大字新町にある、東日本旅客鉄道（JR東日本）奥羽本線の駅である。<br />
+<br />
+新庄から当駅で折り返す区間列車が3往復設定されている。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム・島式ホーム混合2面3線をもち単式ホーム側に駅舎のある地上駅である。<br />
+<br />
+新庄駅管理の簡易委託駅。<br />
+<br />
+数年前までは木造で天井がほかの駅より少し高い駅舎を持っていたが、最近「真室川 森の停車場」と称する木造二階建てで瓦葺のとても立派なものに立て替えられた。駅舎の中には待合所のほかに売店などがある。この売店で平日のみ<a href="http://localhost/keyword/%E4%B9%97%E8%BB%8A%E5%88%B8">乗車券</a>（POS端末設置）の受託販売をしている。駅前の桜の木はライトアップされ、駅利用者の目を楽しませている。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>度の乗車人員は1日平均128人。<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+当駅は、東北地方の山形県を代表する民謡の一つで「私しゃ真室川の梅の花コーオリャ」の一節で知られる『真室川音頭』と、その歌詞にも謡われている梅で知られる真室川町の中心部にある。国設秋山スキー場や、縄文時代晩期の完全土偶が出土し国の重要文化財として指定されている五郎前遺跡等の最寄駅でもある。西部は市街地は駅を中心にして奥羽本線と並行して走る県道35号沿いにあり、東部は駅前まで迫っている丘陵地の沿道にある。<br />
+<br />
+* 真室川公園<br />
+* 秋山公園<br />
+* 高坂ダム<br />
+* 真室川町役場<br />
+* 真室川郵便局<br />
+* 山形県立新庄神室産業高等学校真室川校<br />
+* 鮭延城址<br />
+* 鮭川<br />
+* 真室川<br />
+* 金山川<br />
+** <a href="http://localhost/keyword/%E7%9C%9F%E5%AE%A4%E5%B7%9D%E9%A7%85">真室川駅</a>周辺を境にして南北に位置する鮭川は北上する真室川と西に向かう金山川に分岐する。<br />
+* 国道344号<br />
+* 山形銀行真室川支店<br />
+* 荘内銀行真室川支店<br />
+* 新庄警察署真室川駐在所<br />
+<br />
+== 路線バス ==<br />
+&#39;真室川町営バス&#39;<br />
+<br />
+（すべて日祝運休）<br />
+* 真室川病院 - &#39;<a href="http://localhost/keyword/%E7%9C%9F%E5%AE%A4%E5%B7%9D%E9%A7%85">真室川駅</a>&#39; - 川の内 - 栗谷沢 - 釜淵駅前 - 大滝駅前 - 及位駅前 - 中の股<br />
+* 真室川病院 - &#39;<a href="http://localhost/keyword/%E7%9C%9F%E5%AE%A4%E5%B7%9D%E9%A7%85">真室川駅</a>&#39; - 平岡 - 持越口 - 金山町役場<br />
+* 真室川病院 - &#39;<a href="http://localhost/keyword/%E7%9C%9F%E5%AE%A4%E5%B7%9D%E9%A7%85">真室川駅</a>&#39; - 高沢 - 秋山 - 高坂<br />
+* 真室川病院 - &#39;<a href="http://localhost/keyword/%E7%9C%9F%E5%AE%A4%E5%B7%9D%E9%A7%85">真室川駅</a>&#39; - 東町/宮町 - 野々村 - 東町/宮町 - &#39;<a href="http://localhost/keyword/%E7%9C%9F%E5%AE%A4%E5%B7%9D%E9%A7%85">真室川駅</a>&#39; - 真室川病院 (東循環)<br />
+* 真室川病院 - &#39;<a href="http://localhost/keyword/%E7%9C%9F%E5%AE%A4%E5%B7%9D%E9%A7%85">真室川駅</a>&#39; - 宮沢 - 秋山 - 木の下 - 真室川病院 (西循環)<br />
+* 真室川病院 - &#39;<a href="http://localhost/keyword/%E7%9C%9F%E5%AE%A4%E5%B7%9D%E9%A7%85">真室川駅</a>&#39; - 高沢 - 秋山 - 木の下 - 真室川病院<br />
+* 真室川病院 - &#39;<a href="http://localhost/keyword/%E7%9C%9F%E5%AE%A4%E5%B7%9D%E9%A7%85">真室川駅</a>&#39; - 高沢 - 宮沢 - &#39;<a href="http://localhost/keyword/%E7%9C%9F%E5%AE%A4%E5%B7%9D%E9%A7%85">真室川駅</a>&#39; - 真室川病院<br />
+<br />
+&#39;鮭川村営バス&#39;<br />
+<br />
+（土日祝運休）<br />
+* 町民体育館 - &#39;<a href="http://localhost/keyword/%E7%9C%9F%E5%AE%A4%E5%B7%9D%E9%A7%85">真室川駅</a>前&#39; - 町立病院前 - 木の下口 - 豊里駅前 - 京塚 - 鮭川村役場前 - 保健センター<br />
+<br />
+== 歴史 ==<br />
+この駅は1<a href="http://localhost/keyword/904%E5%B9%B4">904年</a>（明治<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）に奥羽南線（現在の奥羽本線）が新庄駅から院内駅まで開通するのと同時に開業した。当時は新庄と院内の間にはこの駅のほかに釜淵駅と及位駅しかなかった。<br />
+<br />
+この駅は開業当初は新町と称していたが1<a href="http://localhost/keyword/916%E5%B9%B4">916年</a>（大正<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）に町の名に合わせて真室川と改称された。<br />
+* 1<a href="http://localhost/keyword/904%E5%B9%B4">904年</a>（明治<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）10月21日 - &#39;新町駅&#39;（あらまちえき）として開業。<br />
+* 1<a href="http://localhost/keyword/916%E5%B9%B4">916年</a>（大正<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>）9月20日 - 現在の名称たる&#39;<a href="http://localhost/keyword/%E7%9C%9F%E5%AE%A4%E5%B7%9D%E9%A7%85">真室川駅</a>&#39;（まむろがわえき）に改称。<br />
+* 1<a href="http://localhost/keyword/986%E5%B9%B4">986年</a>（昭和<a href="http://localhost/keyword/61%E5%B9%B4">61年</a>）4月1日 - 簡易委託化。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化によりJR東日本の駅となる。<br />
+* 2003年（平成<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>）12月 - 駅舎改築。<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 奥羽本線<br />
+:: 羽前豊里駅 - &#39;<a href="http://localhost/keyword/%E7%9C%9F%E5%AE%A4%E5%B7%9D%E9%A7%85">真室川駅</a>&#39; - 釜淵駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=1451 JR東日本 <a href="http://localhost/keyword/%E7%9C%9F%E5%AE%A4%E5%B7%9D%E9%A7%85">真室川駅</a>]<br />
+* [http://watchizu.gsi.go.jp/cgi-bin/watchizu.cgi?id=58402200&amp;slidex=-152&amp;slidey=693 国土地理院地図閲覧システムによる<a href="http://localhost/keyword/%E7%9C%9F%E5%AE%A4%E5%B7%9D%E9%A7%85">真室川駅</a>周辺の地形図]<br />
+* [http://www.mapion.co.jp/c/f?uc=1&amp;grp=all&amp;scl=20000&amp;nl=38/51/19.000&amp;el=140/15/29.398 <a href="http://localhost/keyword/%E7%9C%9F%E5%AE%A4%E5%B7%9D%E9%A7%85">真室川駅</a>周辺地図（マピオン）]<br />
+<br />
+<br />
+<br />
+<br />
+Category:山形県の鉄道駅<br />
+むろかわ<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:奥羽本線<br />
+まむろかわえき<br />
+Category:1<a href="http://localhost/keyword/904%E5%B9%B4">904年</a>開業の鉄道駅<br />

@@ -1,0 +1,76 @@
+description
+
+|preceding1      = ゲーレン機関
+|dissolved       =
+|superseding     =
+|jurisdiction    =  ドイツ連邦共和国政府
+|headquarters    = プラッハとベルリン （2014年より）
+|employees       = 6500人 （2012年）
+|budget          = € 552.590.000 （2014）
+|minister1_name  = 
+|minister1_pfo   = Bundesminister für besondere Aufgaben
+|chief1_name     = 
+|chief1_position = 長官
+|chief2_name     = 
+|chief2_position = 副長官
+|chief3_name     = 少将
+|chief3_position = Vizepräsident für militärische Angelegenheiten
+|chief4_name     = グイド・ミュラー (Guido Müller)
+|chief4_position = Vizepräsident für Zentrale Aufgaben und Modernisierung
+|parent_agency   = 連邦首相府
+|child1_agency   =
+|child2_agency   =
+|website         = [http://www.bnd.bund.de/EN/_Home/home_node.html www.bnd.de]
+|footnotes       =
+}}
+
+'連邦情報局'（れんぽうじょうほうきょく）あるいは'連邦情報庁'（れんぽうじょうほうちょう）(; 'BND'、英：Federal Intelligence Service) は、ドイツの情報機関である。政治情報と経済情報の収集、その分析と評価を行う。
+
+== 歴史 ==
+1955年、第二次世界大戦中の対ソ情報機関であるゲーレン機関を基に創設された。
+
+2014年7月、職員の一人がPRISM (監視プログラム)に関する連邦議会の調査活動内容をアメリカに流していたとしてスパイ容疑で検察に逮捕された。
+
+== 組織 ==
+組織上、BNDは連邦官房に従属する。
+
+職員数は7000人以上に達し、そのうち、約2000人が国外での諜報情報の収集に従事している。
+
+BNDの本部は、ミュンヘン郊外のプラッハ・イム・イーザルタールに位置する。本部では、3000人以上の職員が働いている。他の国家組織と同様に、BNDの本部も、ベルリンへの移転が予定されている。
+
+*第1局 - ヒューミント (HUMINT)。
+*第2局 - シギント (SIGINT)。
+*第3局 - 情報分析
+*第4局 - 管理
+*第5局 - 国際テロ対策
+*第6局 - 技術支援
+*第7局 - 教育訓練
+*第8局 - 公安、対諜報
+
+== 歴代長官 ==
+
+
+== BNDが登場する作品 ==
+* 『Z-ツェット-』青池保子
+* 『ハイスクールAGENT』谷村ひとし
+* 『ゴルゴ13』さいとうたかを
+* 『名探偵コナン 純黒の悪夢』
+
+== 出典 ==
+
+
+== 関連項目 ==
+* BSI (ドイツ)
+* 連邦憲法擁護庁
+
+== 外部リンク ==
+
+* [http://www.bnd.bund.de/ 連邦情報局公式サイト]
+
+
+
+
+Category:西ドイツ
+Category:ドイツの諜報・情報機関
+Category:ドイツの連邦行政機関
+

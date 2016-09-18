@@ -1,0 +1,97 @@
+description<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a>&#39;（）とは、検索や蓄積が容易にできるよう整理された情報の集まり。<br />
+通常はコンピュータによって実現されたものを指すが、紙の住所録などを<a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a>と呼ぶ場合もある。<br />
+狭義には、<a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a>管理システム (Database Management System, DBMS) またはそれが扱う対象のことをいう。<br />
+<br />
+== <a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a>の実例 ==<br />
+実際の<a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a>の例として、次のようなものが挙げられる。<br />
+* 住所録<br />
+* 検索エンジン<br />
+* 電子カルテ<br />
+:* オーダリングシステム<br />
+* 企業<a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a><br />
+* 音楽<a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a><br />
+* 化学<a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a><br />
+* OPAC<br />
+* IPDL<br />
+: など<br />
+<br />
+<br />
+right<br />
+== データモデル ==<br />
+データモデルとは、<a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a>に格納するデータをどのように配置するかを論理的・物理的な側面から規定するものである。<br />
+<br />
+データモデルの例は以下に示す通りである。<br />
+* 階層型データモデル（ハイアラキカル・データモデル）<br />
+* ネットワーク型データモデル<br />
+* リレーショナルデータモデル （関係モデル、関係<a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a>）<br />
+* オブジェクトデータモデル （オブジェクト指向、オブジェクト<a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a>）<br />
+* カード型データモデル<br />
+<br />
+19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a>代から<a href="http://localhost/keyword/70%E5%B9%B4">70年</a>代にかけては階層型データモデルやネットワーク型データモデルが主流であったが、リレーショナルデータモデルがエドガー・F・コッドによって考案されてからは、それがもっとも広く普及している。<br />
+<br />
+=== リレーショナルデータモデル ===<br />
+IBMのエドガー・F・コッドによって考案されたDerivability, Redundancy and Consistency of Relations Stored in Large Data Banks. IBM Research Report, San Jose, California RJ599: (1969)現在もっとも広く用いられているデータモデルである。数学の集合論に基づき、複数の関係（リレーション）を基本的なデータ型とする。格納されたデータを獲得するための問い合わせは関係代数ないし関係論理の演算によって行う。<br />
+<br />
+リレーショナルデータモデルに関する詳細は関係モデルと関係<a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a>を参照されたい。<br />
+<br />
+== ファイルシステムと<a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a> ==<br />
+コンピュータ上の単純なファイルシステムには、それ自体にデータを統一的手法で操作する機能はない。したがって、ファイルシステムを用いてデータを管理する場合、アプリケーションソフトウェア側がデータの操作を担う必要がある。しかし、<a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a>はデータの操作を自ら行うため、応用プログラム側はデータの物理的格納状態を知る必要がない。また、データの物理的格納状態に変更があった場合にも応用プログラム側の処理に影響が及ばないことを保障することが<a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a>の前提条件となっている（プログラムとデータの独立性）。<br />
+<br />
+==著作権==<br />
+日本の著作権法における<a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a>は次の通り定義される。<br />
+<br />
+「論文、数値、図形その他の情報の集合物であつて、それらの情報を電子計算機を用いて検索することができるように体系的に構成したもの」（第二条の十の三）<br />
+<br />
+その著作物としての権利は次の通り定められている。<br />
+<br />
+「<a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a>で情報の選択又は体系的な構成によって創作性を有するものは、著作物として保護されている」（第十二条の二）<br />
+<br />
+== 参考資料 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* データモデリング<br />
+* <a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a>設計<br />
+* <a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a>管理システム (DBMS)<br />
+* 関係<a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a><br />
+** SQL<br />
+** オブジェクト関係<a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a><br />
+* オブジェクト<a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a><br />
+* XML<a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a><br />
+** XQuery<br />
+** XML Schema<br />
+* インデックス （索引）<br />
+* トランザクション<br />
+** ACID特性<br />
+** ロック<br />
+** トランザクション分離レベル<br />
+** 分散トランザクション<br />
+** オンライントランザクション処理 (OLTP)<br />
+* データウェアハウス<br />
+* データマイニング<br />
+* OLAP<br />
+* ディレクトリサービス<br />
+* 超高速<a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a><br />
+* DBM<br />
+* オブジェクト関係マッピング<br />
+* <a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a>スペシャリスト試験<br />
+<br />
+== 関連学会 ==<br />
+<br />
+*日本<a href="http://localhost/keyword/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">データベース</a>学会 http://www.dbsj.org/<br />
+*Special Interest Group on Management of Data (ACM SIGMOD)<br />
+**http://www.sigmod.org/<br />
+**http://www.sigmodj.org/<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+*<br />
+Category:データモデリング<br />
+Category:コンピュータのデータ<br />
+Category:コンピュータの利用<br />
+Category:コンピュータのユーザインタフェース<br />

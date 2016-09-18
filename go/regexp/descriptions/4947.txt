@@ -1,0 +1,161 @@
+description
+
+チェリュスキン岬の位置
+'チェリュスキン岬'（チェリュスキンみさき　, ）はシベリア北部、北極海に突き出たタイミル半島の北端の岬。ユーラシア大陸の最北端であり、地球上の大陸の最北端でもある。北緯77度43分、東経104度18分。
+
+北極点から約1,230km。北にヴィリキツキー海峡を隔ててセヴェルナヤ・ゼムリャ諸島がある。
+
+== 歴史 ==
+第2回カムチャツカ探検で、1742年にセミョン・チェリュスキンがはじめて到達し、'北東岬'（ほくとうみさき、）と名づけた。その100年後に、ロシア地理学協会がチェリュスキンを記念してチェリュスキン岬と改称した。この岬はヨーロッパとアジアを結ぶ「北東航路」（北極海航路）の中間かつ最北端であるが、流氷が年中を通して海を漂ううえに、レナ川やエニセイ川などの大河の河口が周囲にあり海流は複雑で、氷の状態の予測は困難であった。
+
+1878年にスウェーデン人探検家アドルフ・エリク・ノルデンショルドがはじめて船で岬を回った。1893年には、北極点を目指すノルウェー人探検家フリチョフ・ナンセンが訪れた。
+
+1932年に岬に極地観測所がつくられた。現在は電波気象台とよばれ、約100人が勤務している。チェリュスキン岬飛行場がある。
+
+== 気候 ==
+ケッペンの気候区分ではツンドラ気候（ET）に属する。
+
+|Jan record high C = 0.3
+|Feb record high C = -0.5
+|Mar record high C = -0.4
+|Apr record high C = 4.3
+|May record high C = 8.2
+|Jun record high C = 14.6
+|Jul record high C = 24.0
+|Aug record high C = 21.6
+|Sep record high C = 13.4
+|Oct record high C = 5.4
+|Nov record high C = -0.3
+|Dec record high C = -0.6
+|year record high C = 24.0
+|Jan high C = −25.0
+|Feb high C = -25.3
+|Mar high C = -23.5
+|Apr high C =  -17.1
+|May high C =  -7.5
+|Jun high C =  0.3
+|Jul high C =  3.5
+|Aug high C =  3.0
+|Sep high C =  -0.8
+|Oct high C =  -8.9
+|Nov high C =  −17.6
+|Dec high C = −22.7
+|year high C = -11.8
+|Jan mean C = -28.2
+|Feb mean C = -28.4
+|Mar mean C = -27.0
+|Apr mean C = -20.5
+|May mean C = -9.9
+|Jun mean C = -1.3
+|Jul mean C = 1.4
+|Aug mean C = 0.9
+|Sep mean C = -2.6
+|Oct mean C = -11.4
+|Nov mean C = -20.7
+|Dec mean C = -25.8
+|Jan low C = −31.6
+|Feb low C = −31.6
+|Mar low C = −30.2
+|Apr low C =  −23.6
+|May low C =  -12.3
+|Jun low C =  -2.8
+|Jul low C =  -0.1
+|Aug low C =  -0.5
+|Sep low C =  -4.4
+|Oct low C =  −14.4
+|Nov low C = −24.0
+|Dec low C = −28.9
+|year low C = -17.0
+|Jan record low C = -48.8
+|Feb record low C = -45.8
+|Mar record low C = -45.9
+|Apr record low C = -41.7
+|May record low C = -28.9
+|Jun record low C = -18.0
+|Jul record low C = -5.7
+|Aug record low C = -11.2
+|Sep record low C = -21.2
+|Oct record low C = -33.6
+|Nov record low C = -41.9
+|Dec record low C = -45.6
+|year record low C = -48.8
+|Jan precipitation mm = 14
+|Feb precipitation mm = 13
+|Mar precipitation mm = 13
+|Apr precipitation mm = 12
+|May precipitation mm = 14
+|Jun precipitation mm = 14
+|Jul precipitation mm = 26
+|Aug precipitation mm = 30
+|Sep precipitation mm = 23
+|Oct precipitation mm = 22
+|Nov precipitation mm = 12
+|Dec precipitation mm = 12
+|Jan rain days = 0
+|Feb rain days = 0
+|Mar rain days = 0
+|Apr rain days = 0
+|May rain days = 0.4
+|Jun rain days = 6
+|Jul rain days = 13
+|Aug rain days = 13
+|Sep rain days = 6
+|Oct rain days = 0.6
+|Nov rain days = 0
+|Dec rain days = 0
+|year rain days = 38
+|Jan snow days = 16
+|Feb snow days = 15
+|Mar snow days = 15
+|Apr snow days = 15
+|May snow days = 22
+|Jun snow days = 11
+|Jul snow days = 4
+|Aug snow days = 6
+|Sep snow days = 16
+|Oct snow days = 24
+|Nov snow days = 21
+|Dec snow days = 17
+|year snow days = 183
+|Jan humidity= 83
+|Feb humidity= 83
+|Mar humidity= 82
+|Apr humidity= 83
+|May humidity= 86
+|Jun humidity= 90
+|Jul humidity= 93
+|Aug humidity= 94
+|Sep humidity= 91
+|Oct humidity= 86
+|Nov humidity= 84
+|Dec humidity= 83
+|year humidity= 86
+|Jan sun = 0.0
+|Feb sun = 4.0
+|Mar sun = 113.0
+|Apr sun = 252.0
+|May sun = 216.0
+|Jun sun = 145.0
+|Jul sun = 161.0
+|Aug sun = 95.0
+|Sep sun = 43.0
+|Oct sun = 15.0
+|Nov sun = 0.0
+|Dec sun = 0.0
+|source 1 = pogoda.ru.net—[http://pogoda.ru.net/climate/20292.htm Погода и Климат]. Retrieved 17 November 2012.
+|source 2 =NOAA (sun only, 1961-1990)
+}}
+== 関連項目 ==
+*タンジュン・ピアイ - マレーシアにある。ユーラシア大陸の最南端。
+*デジニョフ岬 - ロシアにある。ユーラシア大陸の最東端。
+*ロカ岬 - ポルトガルにある。ユーラシア大陸の最西端。
+
+== 脚注 ==
+
+
+
+
+Category:ロシアの岬
+Category:北極の地理
+Category:クラスノヤルスク地方
+Category:北極海

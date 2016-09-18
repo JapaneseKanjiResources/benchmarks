@@ -1,0 +1,12 @@
+description
+'ODP'
+
+# コンピュータハードウェアにおいては、オーバードライブプロセッサ('O'ver 'D'rive 'P'rocessor)のこと。
+# WWW上では、Open Directory Projectのこと。
+# 国際深海掘削計画('O'cean 'D'rilling 'P'rogram)のこと。
+# オゾン破壊係数('O'zone 'D'epletion 'P'otential)のこと。
+# 受注生産方式またはその生産物('O'n 'D'emand 'P'roduct)のこと。
+# ISOでは、Open Distributed Processingのこと。
+# 洋上管制データ表示システム('O'ceanic Air Traffic Control 'D'ata 'P'rocessing System)のこと。
+
+

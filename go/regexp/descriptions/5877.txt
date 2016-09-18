@@ -1,0 +1,160 @@
+description
+
+|略称 = 
+|国籍 = 
+|郵便番号 = 174-8580
+|本社所在地 = 東京都板橋区蓮沼町75番1号
+|設立 = 1932年（昭和7年）9月1日
+|業種 = 3750
+|統一金融機関コード = 
+|SWIFTコード = 
+|事業内容 = 測量機器、医用機器、産業機器、光学デバイスの製造、販売
+|代表者 = 平野聡（取締役社長）
+|資本金 = 166億38百万円（2015年3月）
+|発行済株式総数 = 
+|売上高 = 連結1285億69百万円単独447億16百万円（2015年3月期）
+|営業利益 = 連結160億41百万円（2015年3月期）
+|純利益 = 連結86億70百万円（2015年3月期）
+|純資産 = 連結646億10百万円（2015年3月）
+|総資産 = 連結1431億81百万円（2015年3月）
+|従業員数 = 連結4148名、単独733名（2015年3月）
+|決算期 = 3月末日
+|主要株主 = State Street Bank and Trust Company 9.55%TAIYO FUND, L.P. 6.90%日本トラスティ・サービス信託銀行（信託口9） 4.13%第一生命保険 4.02%（2015年9月末現在）
+|主要子会社 = 関連会社参照
+|関係する人物 = 
+|外部リンク = [http://www.topcon.co.jp/ http://www.topcon.co.jp]
+|特記事項 = 
+}}
+
+'株式会社トプコン' () は、日本の光学機器メーカー。眼科関連の医療機器や測量機器等に強みを持つ。旧社名は'東京光学機械株式会社'で、本社は東京都板橋区。東京証券取引所一部上場（証券コード：7732）。
+
+== 概要 ==
+* 1960年（昭和35年）以降2015年（平成27年）9月までは東芝の関連会社であり、同年3月時点で同社が発行済み株式の30.13%を保有していた。
+* 元は光学兵器開発・製造のため、帝国陸軍が関与して1932年（昭和7年）9月1日に設立された。
+** 主に陸軍向けの火砲・銃の照準眼鏡（狙撃眼鏡）や、戦闘機・爆撃機用の射撃照準器・爆撃照準器を供給していた。当時、設立に海軍が関わっていた日本光学工業（現・ニコン）とともに軍需光学機器製造の双璧として「陸のトーコー・海のニッコ－」とも称されていた小倉磐夫「カメラと戦争 - 光学技術者たちの挑戦」1994年 朝日新聞社 ISBN 4023303119なお、関東大震災以降は日本光学も陸軍向け光学兵器を多数開発・製造している。
+* かつてはカメラメーカーとしても有名な存在だったが、1981年（昭和56年）に一般向けカメラ市場からは撤退している。
+* 現在は眼科向け医療用光学機器、土木・建築向け測量機器、GPS機器等を開発・製造している。
+
+== 沿革 ==
+* 1932年 - 服部時計店精工舎（現・セイコー）の測量機部門を母体とし、'東京光学機械株式会社'（東京光学）を創立。本社は東京府東京市京橋区銀座4丁目2番地、工場は東京市豊島区及び滝野川区。
+** 陸軍造兵廠東京工廠（東京第一陸軍造兵廠）・日本光学（現・ニコン）・高千穂光学工業（現・オリンパス）・東京芝浦電気（現・東芝）・富岡光学器械製作所（現・京セラオプテック）・榎本光学精機（現・富士フイルム旧・フジノン）などとともに主に日本軍の光学兵器を開発・製造する。
+* 1933年 - 東京市板橋区志村本蓮沼町180番地に本社工場を移転。
+* 1945年 - 第二次世界大戦終戦により、主に民生品開発に転換。双眼鏡、測量機、カメラ、顕微鏡などを製造する。
+* 1949年 - 東京証券取引所・大阪証券取引所に上場。
+* 1951年 - オートレフラクトメーターを発売(初の眼科医療向け機器)
+* 1960年 - 東芝の関連会社となる。
+* 1986年 - 東京証券取引所・大阪証券取引所第1部に指定替えとなる。
+* 1989年 - 社名を'株式会社トプコン'に変更。
+* 1994年 - 米Advanced Grade Technology社を買収。マシンコントロール事業に進出。
+* 2000年 - 米Javad Positioning Systems Inc.を買収。精密GPS受信機を販売開始。
+* 2008年 - 測量機器メーカーのソキア（現・ソキア・トプコン）の発行済み株式を全株取得し、傘下におさめる。
+* 2009年 - 大阪証券取引所上場廃止。
+* 2010年 - 米Opti Medica社の一部事業を買収。眼科レーザー治療分野に本格参入。
+* 2012年 - 旧ファインテック事業部(産業用光学機器部門)を、株式会社トプコンテクノハウスに集約。
+* 2015年 - 東芝グループが保有株式を売却し、東芝の関連会社でなくなる。
+
+
+== 事業内容 ==
+=== ポジショニングビジネス ===
+* 測量システム
+* GPS測量システム
+* レーザー測量機器
+* 土木施工システム
+* 画像計測システム
+* 3Dマッピングシステム
+* マシンコントロール機器
+* 精密農業システム
+
+=== アイケアビジネス ===
+* 眼科検査装置
+* 眼科診断装置
+* 眼科治療装置
+* 眼鏡店向け視力検査装置
+* 眼鏡店向け測定装置
+* 眼鏡店向けレンズ加工装置
+
+== 事業所 ==
+* 本社 - 東京都板橋区
+その他事業所、及び工場は主にグループ企業が展開している
+
+== 関連会社 ==
+=== 国内 ===
+* 株式会社トプコンソキアポジショニングジャパン - 東京都板橋区
+* 株式会社トプコンメディカルジャパン - 東京都板橋区
+* 株式会社トプコンビジョンケアジャパン - 東京都板橋区
+* 株式会社トプコンテクノハウス - 東京都板橋区
+* 株式会社ソキア・トプコン - 東京都板橋区
+* 株式会社トプコン山形 - 山形県山形市
+* 株式会社オプトネクサス - 福島県田村市
+* 株式会社トプコンサービス - 東京都板橋区
+* 株式会社トプコンジーエス - 東京都板橋区
+
+=== 海外 ===
+; 北米地区
+* Topcon America Corporation
+* Topcon Positioning Systems, Inc.
+* Wachendorff Electronics USA Inc.
+* Topcon Medical Systems, Inc.
+* Topcon Medical Laser Systems, Inc.
+* Topcon Canada, Inc.
+* Digi-Star, LLC
+; ヨーロッパ・中東・アフリカ地区
+* Topcon Europe B.V.
+* Topcon Europe Positioning B.V.
+* Topcon Europe Medical B.V.
+* Digi-Star Europe BV
+* Topcon Deutschland Medical G.m.b.H.
+* Topcon Deutschland Positioning G.m.b.H.
+* Wachendorff Elektronik GmbH & Co. KG
+* Topcon S.A.R.L.
+* Topcon Espana S.A.
+* Topcon Precision Ag Europe S.L.
+* Topcon Positioning Spain, S.L.
+* Topcon Positioning Portugal, L.D.A.
+* Topcon Positioning Canarias, S.L.
+* Topcon Positioning Italy s.r.l.
+* Topcon Scandinavia A.B.
+* Topcon (Great Britain) Ltd.
+* RDS Technology Ltd.
+* Topcon Polska Sp. zo .o.
+* Tierra S.p.A.
+* Topcon InfoMobility S.r.l.
+* DynaRoad Oy
+* Sokkia N.V.
+* Topcon Positioning Middle East and Africa FZE
+
+; アジア・オセアニア地区
+* Topcon Singapore Holdings Pte. Ltd.
+* Topcon Singapore Medical Pte. Ltd.
+* Topcon Singapore Positioning Pte. Ltd. 
+* Topcon Singapore Positioning Sales Pte. Ltd.
+* Sokkia Singapore Positioning Sales Pte. Ltd.
+* Topcon Instruments (Malaysia) Sdn. Bhd.
+* Topcon Instruments (Thailand) Co., Ltd
+* Topcon Precision Agriculture Pty Ltd. 
+* Topcon Positioning Systems (Australia) Pty Ltd.
+* iVolve Pty. Ltd.
+* Topcon Optical (H.K.) Ltd.
+* Topcon (Beijing) Opto-Electronics Development Corporation
+* Shanghai Topcon-Sokkia Technology & Trading Co., Ltd.
+* Topcon Optical (Dongguan) Technology Ltd.
+* Topcon HK (BD) Ltd.
+* Topcon Sokkia India Pvt. Ltd.
+* Sokkia Korea Co., Ltd
+
+== 脚注 ==
+
+
+== 外部リンク ==
+*[http://www.topcon.co.jp/ TOPCON]
+
+
+Category:日本のカメラメーカー・ブランド
+Category:測量機器メーカー・ブランド
+Category:日本の医療機器メーカー
+Category:日本の光学機器メーカー
+Category:板橋区の企業
+Category:多国籍企業
+Category:東芝の歴史
+Category:東証一部上場企業
+Category:1932年設立の企業

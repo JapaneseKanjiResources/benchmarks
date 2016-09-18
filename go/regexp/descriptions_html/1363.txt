@@ -1,0 +1,41 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E6%AD%A3%E5%A4%9A%E9%9D%A2%E4%BD%93">正多面体</a>&#39;（せいためんたい、regular polyhedron）、または&#39;プラトンの立体&#39;（プラトンのりったい、Platonic solid）とは、すべての面が同一の正多角形で構成されてあり、かつすべての頂点において接する面の数が等しい凸多面体のこと。<a href="http://localhost/keyword/%E6%AD%A3%E5%A4%9A%E9%9D%A2%E4%BD%93">正多面体</a>には正四面体、正六面体、正八面体、正十二面体、正二十面体の五種類がある。<br />
+<br />
+三次元空間の中に一つの頂点を取り、その周りに取ることが可能な正多角形に関する制限から、<a href="http://localhost/keyword/%E6%AD%A3%E5%A4%9A%E9%9D%A2%E4%BD%93">正多面体</a>が先に示した五種類のみであることが証明できる。このことは、オイラーの多面体公式からも証明できる。しかし、条件を緩めることによって、<a href="http://localhost/keyword/%E6%AD%A3%E5%A4%9A%E9%9D%A2%E4%BD%93">正多面体</a>の拡張を考えることができる（参照:星型<a href="http://localhost/keyword/%E6%AD%A3%E5%A4%9A%E9%9D%A2%E4%BD%93">正多面体</a>、ねじれ<a href="http://localhost/keyword/%E6%AD%A3%E5%A4%9A%E9%9D%A2%E4%BD%93">正多面体</a>、正平面充填形）。<a href="http://localhost/keyword/%E6%AD%A3%E5%A4%9A%E9%9D%A2%E4%BD%93">正多面体</a>の構成面を正 &#39;&#39;p&#39;&#39; 角形、頂点に集まる面の数を &#39;&#39;q&#39;&#39; として {&#39;&#39;p&#39;&#39;, &#39;&#39;q&#39;&#39;} のように表すことができる。これをシュレーフリ記号という。シュレーフリ記号は半<a href="http://localhost/keyword/%E6%AD%A3%E5%A4%9A%E9%9D%A2%E4%BD%93">正多面体</a>（別名：アルキメデスの立体）にも拡張することができる。<br />
+<br />
+==一覧==<br />
+<a href="http://localhost/keyword/%E6%AD%A3%E5%A4%9A%E9%9D%A2%E4%BD%93">正多面体</a>の表面積、体積は一辺を &#39;&#39;a&#39;&#39; とすれば、概略下記となる。<br />
+<br />
+<br />
+==双対==<br />
+<a href="http://localhost/keyword/%E6%AD%A3%E5%A4%9A%E9%9D%A2%E4%BD%93">正多面体</a>は、適切に頂点を選ぶことで別の<a href="http://localhost/keyword/%E6%AD%A3%E5%A4%9A%E9%9D%A2%E4%BD%93">正多面体</a>を作ることができる。<br />
+代表的なものは各面の中心を結ぶという操作で、<br />
+*正二十面体 &amp;harr; 正十二面体<br />
+*正六面体 &amp;harr; 正八面体<br />
+*正四面体 &amp;harr; 正四面体<br />
+の様に作ることが出来る。これらの関係を双対という。このうち正四面体は正四面体自身になる（自己双対）。<br />
+<br />
+ほかには、<br />
+*正六面体の1つおきの頂点 &amp;rarr; 正四面体<br />
+*正十二面体の適当な頂点 &amp;rarr; 正四面体、正六面体<br />
+*正四面体の各辺の中点 &amp;rarr; 正八面体<br />
+*正八面体の各辺を黄金分割して結ぶ &amp;rarr; 正二十面体<br />
+などがある。<br />
+<br />
+この他、星型<a href="http://localhost/keyword/%E6%AD%A3%E5%A4%9A%E9%9D%A2%E4%BD%93">正多面体</a>というものもある。<br />
+<br />
+== 外部リンク ==<br />
+*[http://woodenpolyhedra.web.fc2.com/making.pdf <a href="http://localhost/keyword/%E6%AD%A3%E5%A4%9A%E9%9D%A2%E4%BD%93">正多面体</a>の作り方]<br />
+<br />
+== 関連項目 ==<br />
+<br />
+*正多角形<br />
+*正多胞体<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+*<br />
+Category:回転<a href="http://localhost/keyword/%E5%AF%BE%E7%A7%B0%E6%80%A7">対称性</a><br />
+Category:数学に関する記事<br />

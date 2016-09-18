@@ -1,0 +1,50 @@
+description<br />
+ |<br />
+ 世紀=1 |<br />
+ 次世紀=2 |<br />
+<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=30 |<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=40 |<br />
+ <a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀=50 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=60 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=70 |<br />
+<br />
+ 3年前=52 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>前=53 |<br />
+ 1年前=54 |<br />
+ 年=55 |<br />
+ 1年後=56 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>後=57 |<br />
+ 3年後=58 |<br />
+}}<br />
+<br />
+<br />
+== 他の紀年法 ==<br />
+<br />
+* 干支 : 乙卯<br />
+* 日本<br />
+** 垂仁天皇<a href="http://localhost/keyword/84%E5%B9%B4">84年</a><br />
+** 皇紀<a href="http://localhost/keyword/715%E5%B9%B4">715年</a><br />
+*中国<br />
+** 後漢 : 建武<a href="http://localhost/keyword/31%E5%B9%B4">31年</a><br />
+* 朝鮮<br />
+** 高句麗 : 太祖王3年<br />
+** 新羅 : 儒理王3<a href="http://localhost/keyword/2%E5%B9%B4">2年</a><br />
+** 百済 : 多婁王2<a href="http://localhost/keyword/8%E5%B9%B4">8年</a><br />
+** 檀紀2<a href="http://localhost/keyword/388%E5%B9%B4">388年</a><br />
+* 仏滅紀元 : <a href="http://localhost/keyword/598%E5%B9%B4">598年</a><br />
+* ユダヤ暦 : 3<a href="http://localhost/keyword/815%E5%B9%B4">815年</a> - 3<a href="http://localhost/keyword/816%E5%B9%B4">816年</a><br />
+<br />
+== できごと ==<br />
+*2月11日 - ローマ皇帝ネロが義弟ブリタンニクス（第4代皇帝クラウディウスの実子）を暗殺。<br />
+*アルメニア王ラダミストゥスに対する反乱が起き、パルティア王ヴォノネス2世の王子がアルメニア王に即位。（）<br />
+*パルティアでヴォノネス2世の王子ヴァルダネス2世が反乱を起こす。<br />
+<br />
+== 誕生 ==<br />
+<br />
+== 死去 ==<br />
+* 2月11日 - ブリタンニクス、ローマ帝国の帝位後継者（* <a href="http://localhost/keyword/41%E5%B9%B4">41年</a>）<br />
+<br />
+Category:<a href="http://localhost/keyword/55%E5%B9%B4">55年</a><br />
+<br />
+als:50er#55<br />

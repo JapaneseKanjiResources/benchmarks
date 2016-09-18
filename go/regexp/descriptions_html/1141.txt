@@ -1,0 +1,97 @@
+description<br />
+4ストロークエンジン） (1)吸入 (2)圧縮 (3)燃焼・膨張 (4)排気]]<br />
+&#39;<a href="http://localhost/keyword/%E5%86%85%E7%87%83%E6%A9%9F%E9%96%A2">内燃機関</a>&#39;（ないねんきかん）とは、燃料をシリンダー内で燃焼させ、燃焼ガスを直接作動流体として用いて、その熱エネルギーによって仕事をする原動機[https://www.jpo.go.jp/shiryou/s_sonota/pdf/card/K8.pdf 意匠分類定義カード（K8）] 特許庁。これに対して、燃焼ガスと作動流体が異なる原動機を外燃機関という。<br />
+<br />
+インターナル・コンバッション・エンジン() の訳語であり、内部（インターナル）で燃料を燃焼（コンバッション）させて動力を取り出す機関（エンジン）である。「機関」も「エンジン」も、複雑な機構を持つ装置という意味を持つが、ここでは発動機という意味である。<br />
+<br />
+== 動作概要と原理 ==<br />
+航空機用<a href="http://localhost/keyword/%E3%82%AC%E3%82%B9%E3%82%BF%E3%83%BC">ガスター</a>ビンエンジンのカットモデル。右側のタービンの上下に見える空洞部が燃焼器。中央は圧縮機。<br />
+<br />
+熱エネルギーを機械エネルギーに変換する熱機関の一種である。容積型のピストンエンジン（レシプロエンジン）やロータリーエンジン、速度型の<a href="http://localhost/keyword/%E3%82%AC%E3%82%B9%E3%82%BF%E3%83%BC">ガスター</a>ビンエンジンやジェットエンジンなどがある。<br />
+<br />
+ピストンエンジンは「間欠燃焼」、<a href="http://localhost/keyword/%E3%82%AC%E3%82%B9%E3%82%BF%E3%83%BC">ガスター</a>ビンエンジンは「連続燃焼」という燃焼形態の違いはあるが、ともに燃焼熱により高圧となった燃焼ガスそのものを作動流体とすることは共通する<br />
+。これに対し蒸気機関などの外燃機関では、機関外部の熱源（燃料の燃焼など）により、燃焼ガスとは別の作動流体（水など）に熱エネルギーを与え、機関により動力を得る。<br />
+<br />
+ピストンエンジンの場合、シリンダー（気筒）の内部で燃料を燃焼させ、燃焼ガスがピストンを押す力を利用する。このピストンの往復運動をクランクにより回転運動に変換し、軸動力を得る。これに対し、ロータリーエンジンの場合、回転運動が直接に得られる。<br />
+<br />
+<a href="http://localhost/keyword/%E3%82%AC%E3%82%B9%E3%82%BF%E3%83%BC">ガスター</a>ビンエンジンの場合、燃焼器で燃料を燃焼させ、燃焼ガスが出力タービンを回転させることで軸動力を得る。軸動力ではなく推力を直接得るために、出力タービンを省き燃焼ガスを一方向に噴出させると、ジェットエンジンとなる。<br />
+<br />
+現代の<a href="http://localhost/keyword/%E5%86%85%E7%87%83%E6%A9%9F%E9%96%A2">内燃機関</a>では主に熱効率を高めるために、燃焼には出力の一部を利用して圧縮した空気を使用する。ディーゼルエンジン（ピストンエンジンの一種）のように、原理的に圧縮なしでは動作しない<a href="http://localhost/keyword/%E5%86%85%E7%87%83%E6%A9%9F%E9%96%A2">内燃機関</a>もある。<br />
+<br />
+積極的にデトネーションを利用する事で高効率化が期待され[http://www.waseda.jp/jp/news13/data/130709_engine.pdf 究極効率のエンジンを生む新圧縮燃焼原理を発見！][http://home.hiroshima-u.ac.jp/fges/theme/tendo.pdf デトネーションを利用した新しい<a href="http://localhost/keyword/%E5%86%85%E7%87%83%E6%A9%9F%E9%96%A2">内燃機関</a>][http://home.hiroshima-u.ac.jp/rgdlab/rgdl_html/conferences/conferences-pdf/2005_seibushibu_ochi.pdf プロパン−空気混合気を用いたパルスデトネーションタービンエンジンの作動実験]、パルス・デトネーション・エンジンの開発が各国で進められている。<br />
+<br />
+<a href="http://localhost/keyword/%E5%86%85%E7%87%83%E6%A9%9F%E9%96%A2">内燃機関</a>に限らず、燃焼プロセスを経る装置では、熱効率において<a href="http://localhost/keyword/%E3%82%AB%E3%83%AB%E3%83%8E%E3%83%BC">カルノー</a>効率を越えるものは、理論上ありえない。<br />
+<br />
+== 歴史 ==<br />
+19世紀より前から様々な<a href="http://localhost/keyword/%E5%86%85%E7%87%83%E6%A9%9F%E9%96%A2">内燃機関</a>が発明されてきたが、19世紀に入り都市ガスが普及し始めるとこれを燃料とする内燃レシプロエンジンの開発が活発となった。1<a href="http://localhost/keyword/860%E5%B9%B4">860年</a>代には様々な形式のガスエンジンが定置式の産業用原動機として普及し始め、ニコラウス・オットーらの4ストローク機関により完成の域に達した。同じ頃石油の採掘と精製が産業として確立し、ガスエンジンをガソリンで運転する試みが始められたが、ガソリンを継続的に気化する仕組みの開発がネックとなり、ガソリンエンジンの実用化はガスエンジンに多少遅れている。さらに少し遅れて、これら予混合燃焼の機関とは別のアプローチからディーゼルエンジンが発明された。<br />
+<br />
+貯蔵と運搬が容易な液体燃料を使用する<a href="http://localhost/keyword/%E5%86%85%E7%87%83%E6%A9%9F%E9%96%A2">内燃機関</a>の登場は、自動車の商業実用化や飛行機の発明を可能にし、特に輸送の分野に大きな発展をもたらした。<br />
+<br />
+[[ミネソタ州の Western Minnesota Steam Threshers Reunion にあるオットーサイクルの<a href="http://localhost/keyword/%E5%86%85%E7%87%83%E6%A9%9F%E9%96%A2">内燃機関</a>の動画（2分16秒、320×240、340kbit/s）]]<br />
+これらの初期の<a href="http://localhost/keyword/%E5%86%85%E7%87%83%E6%A9%9F%E9%96%A2">内燃機関</a>は、農業用機械の動力源として使われた。<br />
+<br />
+* 13世紀: <a href="http://localhost/keyword/%E5%86%85%E7%87%83%E6%A9%9F%E9%96%A2">内燃機関</a>の一種であるロケットエンジンが中国、モンゴル、アラブなどで使われていたchapters 1–2, &#39;&#39;Blazing the trail: the early history of spacecraft and rocketry&#39;&#39;, Mike Gruntman, AIAA, 2004, ISBN 156347705X.。<br />
+* 1<a href="http://localhost/keyword/509%E5%B9%B4">509年</a>: レオナルド・ダ・ヴィンチが無圧縮式<a href="http://localhost/keyword/%E5%86%85%E7%87%83%E6%A9%9F%E9%96%A2">内燃機関</a>についての記述を残している。<br />
+* 1<a href="http://localhost/keyword/673%E5%B9%B4">673年</a>: クリスティアーン・ホイヘンスが無圧縮式<a href="http://localhost/keyword/%E5%86%85%E7%87%83%E6%A9%9F%E9%96%A2">内燃機関</a>についての記述を残している。<br />
+* 17世紀: イングランドの発明家サミュエル・モーランドが、火薬の燃焼力で動作するポンプを発明。世界初の原始的なピストンエンジン。<br />
+* 1<a href="http://localhost/keyword/780%E5%B9%B4">780年</a>代: アレッサンドロ・ボルタが電気銃という玩具を製作[http://ppp.unipv.it/Volta/Pages/eF5struF.html Electric Pistol]。電気スパークで空気と水素の混合気体を燃焼させ、銃の先端に詰めたコルクを発射するもの。<br />
+* 1<a href="http://localhost/keyword/791%E5%B9%B4">791年</a>: ジョン・バーバーがイギリスで特許（第1833号、&#39;&#39;A Method for Rising Inflammable Air for the Purposes of Producing Motion and Facilitating Metallurgical Operations&#39;&#39;）を取得。その中でタービンを解説している。<br />
+* 1<a href="http://localhost/keyword/798%E5%B9%B4">798年</a>: ティープー・スルタン（インドのマイソール国王）が、鉄製のロケットを使いイギリス軍を攻撃。<br />
+* 1<a href="http://localhost/keyword/807%E5%B9%B4">807年</a>: スイス人技師 François Isaac de Rivaz が水素と酸素の混合気体を燃料とした<a href="http://localhost/keyword/%E5%86%85%E7%87%83%E6%A9%9F%E9%96%A2">内燃機関</a>を製作。<br />
+* 1<a href="http://localhost/keyword/823%E5%B9%B4">823年</a>: Samuel Brown が産業の動力源として使える世界初の<a href="http://localhost/keyword/%E5%86%85%E7%87%83%E6%A9%9F%E9%96%A2">内燃機関</a>の特許を取得。無圧縮式で当時既に古臭くなっていたサイクル &#34;Leonardo cycle&#34; を使っていた。<br />
+* 1<a href="http://localhost/keyword/824%E5%B9%B4">824年</a>: フランスの物理学者サディ・<a href="http://localhost/keyword/%E3%82%AB%E3%83%AB%E3%83%8E%E3%83%BC">カルノー</a>が理想的熱機関の熱力学理論を確立。この理論から、温度差を大きくするには圧縮が必要であることが科学的に裏付けられた。<br />
+* 1<a href="http://localhost/keyword/826%E5%B9%B4">826年</a>4月1日: アメリカのサミュエル・モーリーがガス作動の<a href="http://localhost/keyword/%E5%86%85%E7%87%83%E6%A9%9F%E9%96%A2">内燃機関</a>で特許を取得。<br />
+* 1<a href="http://localhost/keyword/838%E5%B9%B4">838年</a>: イギリス人のウィリアム・バーネットが特許を取得。その中で初めてシリンダー内での圧縮が示唆された。<br />
+* 1<a href="http://localhost/keyword/854%E5%B9%B4">854年</a>: イタリア人 Eugenio Barsanti と Felice Matteucci が、高効率で実動する世界初のフリーピストン機関の特許（特許番号1072）を取得したが、生産には至らなかった。<br />
+* 1<a href="http://localhost/keyword/856%E5%B9%B4">856年</a>: フィレンツェの企業 &#39;&#39;Fonderia del Pignone&#39;&#39;（現在はゼネラル・エレクトリックの子会社 Nuovo Pignone となっている）で、Pietro Benini が Barsanti-Matteucci 式の<a href="http://localhost/keyword/%E5%86%85%E7%87%83%E6%A9%9F%E9%96%A2">内燃機関</a>の実動プロトタイプを製作（5馬力）。その後も単気筒や2気筒のエンジンを製造し、蒸気機関の代替として販売した。<br />
+* 1<a href="http://localhost/keyword/860%E5%B9%B4">860年</a>: ベルギーのジャン＝ジョゼフ・エティエンヌ・ルノアール (1822–1900) がルノアール・エンジンを開発。外見や構造は蒸気機関とよく似ていて、蒸気の代わりに燃焼ガスを使ったものと言える。大量生産された世界初の<a href="http://localhost/keyword/%E5%86%85%E7%87%83%E6%A9%9F%E9%96%A2">内燃機関</a>となった。ルノアールは、表面気化器を用いてガソリンを燃料とする試みもしている。<br />
+* 1<a href="http://localhost/keyword/862%E5%B9%B4">862年</a>: ドイツの発明家ニコラウス・オットーが照明用ガスを燃料とする<a href="http://localhost/keyword/%E5%86%85%E7%87%83%E6%A9%9F%E9%96%A2">内燃機関</a>を設計し、オイゲン・ランゲンから資金援助を得ることに成功。また、ボー・ド・ロッシャが4ストロークエンジンの理論を公表。<br />
+* 1<a href="http://localhost/keyword/867%E5%B9%B4">867年</a>: オットーとランゲンのフリーピストン機関が、パリ万博で金賞を受賞。<br />
+* 18<a href="http://localhost/keyword/70%E5%B9%B4">70年</a>: ウィーンのジークフリート・マルクスが、初めて荷車にガソリンエンジンを搭載。<br />
+* 1<a href="http://localhost/keyword/876%E5%B9%B4">876年</a>: ニコラウス・オットーはゴットリープ・ダイムラーおよびヴィルヘルム・マイバッハと共に実用的な4ストローク機関を開発。しかしドイツの法廷は、シリンダー内で圧縮する<a href="http://localhost/keyword/%E5%86%85%E7%87%83%E6%A9%9F%E9%96%A2">内燃機関</a>全般だけでなく4ストローク機関についても特許を与えなかった。これ以降、シリンダー内での圧縮が一般化する。<br />
+* 1<a href="http://localhost/keyword/877%E5%B9%B4">877年</a>: Matteucciは、オットーのエンジンは自分とBarsantiの発案したものであると主張している。<br />
+* 1<a href="http://localhost/keyword/878%E5%B9%B4">878年</a>: スコットランド生まれのデュガルド・クラーク (:en:Dugald Clark)がクラーク式2ストロークエンジンを製作。1<a href="http://localhost/keyword/881%E5%B9%B4">881年</a>に英国特許を取得。オットー型4ストローク機関と競合する売れ行きを見せた。<br />
+* カール・ベンツが1<a href="http://localhost/keyword/886%E5%B9%B4">886年</a>1月29日に取得した自動車の特許の中核部をなす<a href="http://localhost/keyword/%E5%86%85%E7%87%83%E6%A9%9F%E9%96%A2">内燃機関</a>のレプリカ[[カール・ベンツ]] 1<a href="http://localhost/keyword/879%E5%B9%B4">879年</a>: カール・ベンツは、高信頼の2ストロークガスエンジンの特許を取得。これはオットーの4ストローク機関の設計に着想を得たものである。<br />
+* 1<a href="http://localhost/keyword/882%E5%B9%B4">882年</a>: ジェームズ・アトキンソンがアトキンソンサイクルの<a href="http://localhost/keyword/%E5%86%85%E7%87%83%E6%A9%9F%E9%96%A2">内燃機関</a>を発明。<br />
+* 1<a href="http://localhost/keyword/883%E5%B9%B4">883年</a>: ゴットリープ・ダイムラーが霧吹き型のキャブレターを備えた4ストロークガソリンエンジンを発明。1<a href="http://localhost/keyword/885%E5%B9%B4">885年</a>に特許取得。<br />
+* 1<a href="http://localhost/keyword/885%E5%B9%B4">885年</a>: ゴットリープ・ダイムラーが二輪車にガソリンエンジンを取り付けた車Reitwagenを製作。一方、カール・ベンツは独自の4ストロークガソリンエンジンを搭載した三輪自動車を製作。翌1<a href="http://localhost/keyword/886%E5%B9%B4">886年</a>に特許取得しベンツ・パテント・モトールヴァーゲン（:en:Benz Patent Motorwagen）と名付けた。<br />
+* 1<a href="http://localhost/keyword/887%E5%B9%B4">887年</a>: グスタフ・ド・ラバルがドラバル・ノズルを考案。<br />
+* 1<a href="http://localhost/keyword/889%E5%B9%B4">889年</a>: ロンドン生まれのジョゼフ・デイ (Joseph Day) が現在よく知られている形のシンプルな2ストローク・ガソリンエンジンを発明した。<br />
+* 1<a href="http://localhost/keyword/891%E5%B9%B4">891年</a>: Herbert Akroyd Stuart は独自の<a href="http://localhost/keyword/%E5%86%85%E7%87%83%E6%A9%9F%E9%96%A2">内燃機関</a>であるグローエンジン（焼玉エンジン）を開発し、その製造権をイギリスのHornsbyにリースした。世界初の低温で点火可能な圧縮点火<a href="http://localhost/keyword/%E5%86%85%E7%87%83%E6%A9%9F%E9%96%A2">内燃機関</a>である。翌年、ポンプ場に最初の装置を設置した。また同年、試験的に高圧版を作り、圧縮だけで発火する状態を作ることに成功。<br />
+* 1<a href="http://localhost/keyword/892%E5%B9%B4">892年</a>: ルドルフ・ディーゼルが<a href="http://localhost/keyword/%E3%82%AB%E3%83%AB%E3%83%8E%E3%83%BC">カルノー</a>サイクル式エンジンの特許を取得 DE patent 67207 Rudolf Diesel: „Arbeitsverfahren und Ausführungsart für Verbrennungskraftmaschinen“ pg 4. 。<br />
+* 1<a href="http://localhost/keyword/893%E5%B9%B4">893年</a> 2月23日: ルドルフ・ディーゼルがディーゼルエンジンの特許を取得。<br />
+* 1<a href="http://localhost/keyword/896%E5%B9%B4">896年</a>: カール・ベンツが水平対向エンジンを発明。ピストンの動きによる振動を抑える効果がある。<br />
+* 1<a href="http://localhost/keyword/900%E5%B9%B4">900年</a>: ディーゼルがピーナッツ油を燃料としたディーゼルエンジンをパリ万博に出展。<br />
+* 1<a href="http://localhost/keyword/903%E5%B9%B4">903年</a>: コンスタンチン・ツィオルコフスキーが宇宙に到達可能なロケットについての一連の論文を発表し始めた。エギディアス・エリング が遠心式圧縮機を使った世界初の実動する<a href="http://localhost/keyword/%E3%82%AC%E3%82%B9%E3%82%BF%E3%83%BC">ガスター</a>ビンを製作。<br />
+* 1<a href="http://localhost/keyword/908%E5%B9%B4">908年</a>: René Lorin がラムジェットエンジンの特許を取得。<br />
+* 1<a href="http://localhost/keyword/910%E5%B9%B4">910年</a>: アンリ・コアンダが世界初のジェット推進の航空機コアンダ=1910を製作。ただし、実際にジェットエンジンで飛行することはなかった。<br />
+* 1<a href="http://localhost/keyword/921%E5%B9%B4">921年</a>: Maxime Guillaume が軸流式<a href="http://localhost/keyword/%E3%82%AC%E3%82%B9%E3%82%BF%E3%83%BC">ガスター</a>ビンエンジンの特許を取得。圧縮機とタービンを多段式にし、1つだけ大きな燃焼室があるという構成だった。<br />
+* 1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>: アメリカ国立標準局の Edgar Buckingham がジェットエンジンは効率が低く現実的でないという報告を発表。特にピストンエンジンに比べて5倍の燃料を消費するとしていた[http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/1993009<a href="http://localhost/keyword/122">122</a>5_199309<a href="http://localhost/keyword/122">122</a>5.pdf JET PROPULSION FOR AIRPLANES]。<br />
+* 1<a href="http://localhost/keyword/924%E5%B9%B4">924年</a>: ベンツ社が初のトラック用ディーゼルエンジンの特許を取得。<br />
+* 19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>: スウェーデンの技術者 Jonas Hesselman が世界初のガソリン直噴エンジンを開発 (Translated title: &#39;&#39;Vehicle history of Scania 1891-1991&#39;&#39;) (Translated title: &#39;&#39;Volvo trucks yesterday and today&#39;&#39;))。<br />
+* 1<a href="http://localhost/keyword/926%E5%B9%B4">926年</a>: Alan Arnold Griffith は重要な論文 &#39;&#39;Aerodynamic Theory of Turbine Design&#39;&#39; を発表。これによってそれまで実現が疑問視されていたジェットエンジンが注目されるようになった。その中で、これまでの圧縮機は飛行には不向きで、ブレードを翼型に設計変更すべきだとし、実用的エンジンが製造可能であることを数学的に示すと共にターボプロップエンジンの構築法を解説した。同年、ロバート・ゴダードが世界初の液体燃料ロケットを打ち上げた。<br />
+* 1<a href="http://localhost/keyword/929%E5%B9%B4">929年</a>: フランク・ホイットルがジェットエンジンに関する論文を発表。<br />
+* 1<a href="http://localhost/keyword/930%E5%B9%B4">930年</a>: ホイットルが遠心圧縮式のジェットエンジンの特許を取得。<br />
+* 1<a href="http://localhost/keyword/936%E5%B9%B4">936年</a>: フランスの技術者 René Leduc が René Lorin のラムジェットエンジンを独自に再発明し、実験に世界で初めて成功。<br />
+* 1<a href="http://localhost/keyword/937%E5%B9%B4">937年</a>3月: 遠心式ターボジェットエンジン ハインケル HeS 1 の試験が行われた。<br />
+* 1<a href="http://localhost/keyword/939%E5%B9%B4">939年</a>8月27日: HeS 3bターボジェットエンジンを搭載したハインケルHe178が、世界初のジェットエンジンによる飛行に成功。<br />
+* 1<a href="http://localhost/keyword/957%E5%B9%B4">957年</a>: フェリクス・ヴァンケルが製作したロータリーエンジン試作機 DKM 54 が世界で初めて動作。<br />
+<br />
+==<a href="http://localhost/keyword/%E5%86%85%E7%87%83%E6%A9%9F%E9%96%A2">内燃機関</a>の種類==<br />
+<br />
+<br />
+== 出典 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+<br />
+* 熱機関の理論サイクル<br />
+* 空冷エンジン<br />
+* 水冷エンジン<br />
+* <a href="http://localhost/keyword/%E6%B2%B9%E5%86%B7%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3">油冷エンジン</a><br />
+* <a href="http://localhost/keyword/%E6%B6%B2%E5%86%B7%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3">液冷エンジン</a><br />
+<br />
+<br />
+<br />
+<br />
+Category:エンジン<br />

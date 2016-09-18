@@ -1,0 +1,87 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>&#39;（はんどうたい、）なお、「<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>」の名称は、英語 &#34;semiconductor&#34; の &#34;semi-&#34; ＝「半分」と &#34;conductor&#34; ＝「導体」に基づいたものである。とは、電気電導性の良い金属などの導体（良導体）と電気抵抗率の大きい絶縁体の中間的な抵抗率をもつ物質を言うシャイヴ(1961) p.9（抵抗率だけで<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>を論じるとそれは抵抗器と同じ特性しか持ち合わせない）。代表的なものとしては元素<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>のシリコン（Si）などがある。<br />
+<br />
+電子工学で使用されるICのような<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>素子はこの<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>の性質を利用している<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>は産業のコメだと言われるほど非常に重要な分野として扱われる。ムーアの法則の代表例として頻繁に用いられる。。<br />
+<br />
+良導体（通常の[[金属）、<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>、絶縁体におけるバンドギャップ（禁制帯幅）の模式図。ある種の<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>では比較的容易に電子が伝導帯へと遷移することで電気伝導性を持つ伝導電子が生じる。金属ではエネルギーバンド内に空き準位があり、<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90">価電子</a>がすぐ上の空き準位に移って伝導電子となるため、常に電気伝導性を示す。]]<br />
+<br />
+== 概要 ==<br />
+<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>の[[バンド構造の模式図。Eは電子の持つエネルギー、kは波数。Egがバンドギャップ。<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>（や絶縁体）では、絶対零度で電子が入っている一番上のエネルギーバンドが電子で満たされており（充満帯）、その上に禁制帯を隔てて空帯がある（伝導帯）。]]<br />
+金属などの導体とゴムなどの絶縁体の中間の抵抗率を持つ物質を&#39;<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>&#39;（semiconductor）と呼ぶ。<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>は、熱や光、磁場、電圧、電流、放射線などの影響でその電導性が顕著に変わるという特徴を持つバンド理論によれば、これらは適切な幅の禁制帯を持つバンド構造に由来し、電子が伝導電子になったり<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90">価電子</a>になったりすることで、電気的・光学的・熱的などの面で性質が変化する。が、これら特徴は固体のバンド理論によって説明される。<br />
+<br />
+<br />
+<br />
+なお、バンド理論を用いれば、<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>とは、<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90%E5%B8%AF">価電子帯</a>を埋める電子の状態は完全に詰まっている（充満帯である）ものの、禁制帯を挟んで、伝導帯を埋める電子の状態は存在しない（空帯である）物質として定義される通常、<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>として扱われる物質のバンドギャップは、シリコンで約1.1 eV、ゲルマニウムで約0.67 eV、ヒ化ガリウム化合物<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>で約1.4 eVである。発光ダイオードなどではもっと広いものも使われ、リン化ガリウムでは約2.3 eV、窒化ガリウムでは約3.4 eVである。現在では、ダイヤモンドで5.27 eV、窒化アルミニウムで5.9 eVの発光ダイオードが報告されている。ダイヤモンドは絶縁体として扱われることがあるが、実際には前述のようにダイヤモンドはバンドギャップの大きい<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>であり、窒化アルミニウム等と共に<a href="http://localhost/keyword/%E3%83%AF%E3%82%A4%E3%83%89">ワイド</a>バンドギャップ<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>と総称される。<br />
+。<br />
+=== 非オーム性抵抗（non-ohmic effect） ===<br />
+一般的に、抵抗は電流と電圧に関して直線的な関係を満たす、すなわちオームの法則が成り立つことからオーム性抵抗（ohmic resistance）と呼ばれるシャイヴ(1961) p.16。一方、電気回路においては、非オーム性抵抗素子はオーム性抵抗素子に劣らず重要である。<br />
+<br />
+<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>が重要視される性質の一つは、<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>と金属、または<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>同士を適当に接触させることでさまざまな非オーム性抵抗が得られることにあるシャイヴ(1961) p.16。<br />
+<br />
+具体的には、p型<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>とn型<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>をpn接合したダイオードや、n型<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>をp型<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>で挟んだ、もしくはp型<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>をn型<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>で挟んだトランジスタなどがある。太陽電池もpn接合を用いている。<br />
+<br />
+<br />
+==== 熱電効果（thermoelectric effect） ====<br />
+<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>では通常、温度が上がると電気伝導性が増す。<br />
+<br />
+室温では、キャリアが不純物原子から受ける束縛を離れて結晶中を動ける状態にある。言い方を変えれば、ドナーとアクセプターの原子は多くがイオン化しているが、温度が低下すると熱励起も弱くなり、不純物原子のクーロン引力による束縛の影響が相対的に大きくなる。キャリアが束縛を離れている温度の領域を&#39;飽和領域&#39;、あるいは&#39;出払い領域&#39;といい、キャリアが束縛を受ける温度領域を&#39;不純物領域&#39;という。また、温度を上昇させると<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90">価電子</a>までもが熱励起され、キャリアの供給源となり、この温度領域を&#39;真性領域&#39;と呼ぶ。<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>素子として利用する場合は飽和領域が利用される。<br />
+<br />
+逆バイアスされたpn接合などにおいて温度が上がりすぎると、キャリアの増加で電流が増加し、その抵抗発熱でさらに温度が上がる&#39;熱暴走&#39;が発生する。<br />
+=== 材料 ===<br />
+<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>となる材料には以下のものがある。<br />
+<br />
+* IV族<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>：Si、Geなど<br />
+* 化合物<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a><br />
+** II-VI族<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>：ZnSe、CdS、ZnOなど<br />
+** <a href="http://localhost/keyword/III-V%E6%97%8F%E5%8D%8A%E5%B0%8E%E4%BD%93">III-V族半導体</a>：GaAs、InP、GaNなど<br />
+** IV族化合物<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>：SiC、SiGeなど<br />
+** I-III-VI族<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>：CuInSe2などカルコパイライト系<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a><br />
+* 有機<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a><br />
+<br />
+== <a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>の型 ==<br />
+不純物や格子欠陥を全く含まない<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>を真性<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>（intrinsic semiconductor）と呼ぶ。真性<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>は、そのフェルミ準位は禁制帯の中央に位置し、全温度領域においてキャリアは<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90%E5%B8%AF">価電子帯</a>のエネルギーレベルにある電子の励起によってのみ供給されることから、電子回路に用いるような<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>素子としては使い難い。<br />
+<br />
+<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>素子として用いることができるような<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>は、真性<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>にドーパントと呼ばれる微量の添加物を混ぜて不純物<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>とする（ドープする）ことで作成する。このドープによって、<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>のキャリアである電子または正孔の密度が変化することとなるが、伝導現象を支配するキャリアとして電子が優勢である<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>をn型<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>（negative semiconductor）、逆に正孔が優勢なものをp型<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>（positive semiconductor）と呼ぶこのような優勢なキャリアを多数キャリア（majority carrier）、逆に劣勢なキャリアを少数キャリア（minority carrier）と呼ぶ。n型<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>であれば、<br />
+:多数キャリア：電子、少数キャリア：正孔、<br />
+であり、p型<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>であれば、<br />
+:多数キャリア：正孔、少数キャリア：電子<br />
+ということとなる。。<br />
+<br />
+=== n 型<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>（negative semiconductor） ===<br />
+&#39;n型<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>&#39;シリコン（Si）に[[リン（P）をドープした例である。5つの赤い丸がリン由来の<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90">価電子</a>。1つだけ余った e- と書かれている電子が電荷の運び手となり結晶中を動く。]]<br />
+n型<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>（negative semiconductor）とは、電圧がかけられると伝導電子や自由電子、ほとんど自由な電子とも呼ばれる電子の移動によって電荷が運ばれる<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>である。価数の多い元素をドーピングすることで作られる。例えばシリコンやゲルマニウム（4価の元素）の結晶に、ヒ素などの5価の原子を混ぜることでn型となる。<br />
+<br />
+不純物の導入によって生成されたキャリアは、導入された不純物原子から受けるクーロン引力により束縛される。ただしその束縛は弱く、ゲルマニウムのn型<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>では、電子束縛エネルギー = -0.01 eV、ボーア半径 = 4.2 nm 程度であるため、結晶内の原子間距離 0.25 nm、室温での熱励起は約 0.025 eV 程度では単独原子の束縛を離れて結晶の原子同士間を自由に動き、これらの原子は互いの電子を共有する状態となる。<br />
+バンド構造で言えば通常、ドーパント原子は禁制帯の上端付近にドナー準位を形成し、そこから熱エネルギーにて伝導帯へ励起される。フェルミ準位は禁制帯中のドナー準位に近い位置になる。<br />
+<br />
+&#39;p型<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>&#39;シリコン（Si）に[[ホウ素（B）をドープした例。]]<br />
+=== p 型<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>（positive semiconductor） ===<br />
+電圧がかけられると正孔の移動によって電荷が運ばれる<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>である。価数の少ない元素をドーピングすることで作られる。例えばシリコン（4価）の結晶にホウ素などの3価の原子を混ぜることでp型となる。<br />
+<br />
+電子が伝導帯側に遷移して<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90%E5%B8%AF">価電子帯</a>側の電子が不足することで生じる電子軌道上の空隙が正孔となる。結晶の原子同士間の自由電子が隣の正孔に移動することで正孔の位置は自由に移動でき、<br />
+電圧に応じて電子とは逆方向へ流れる。移動度は電子に比べて劣る。バンド構造で言えば、ドーパント原子は禁制帯の下端付近にアクセプター準位と呼ばれる空の準位を形成し、アクセプター準位へ<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90%E5%B8%AF">価電子帯</a>から熱エネルギーによって<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90">価電子</a>が励起されることで、<a href="http://localhost/keyword/%E4%BE%A1%E9%9B%BB%E5%AD%90%E5%B8%AF">価電子帯</a>に正孔が生じる。フェルミ準位は禁制帯中のアクセプター準位に近い位置になる。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 半金属 (バンド理論)<br />
+* ハイテク<br />
+* <a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>素子 - <a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>を使った電子素子<br />
+* 集積回路 - <a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>を使った集積回路<br />
+* 信頼性工学 - 統計的仮説検定<br />
+<br />
+== 参考文献 ==<br />
+* <br />
+* <br />
+* <br />
+<br />
+== 外部リンク ==<br />
+* [http://weblearningplaza.jst.go.jp/cgi-bin/user/top.pl?next=lesson_list&amp;type=simple&amp;field_code=41&amp;course_code=609 電子デバイス－<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>技術] (技術者Web学習システム)<br />
+<br />
+<br />
+<br />
+<br />
+*<br />
+Category:電磁気学<br />
+Category:固体物理学<br />

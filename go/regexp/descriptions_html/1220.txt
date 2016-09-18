@@ -1,0 +1,247 @@
+description<br />
+<br />
+<br />
+&#39;<a href="http://localhost/keyword/Java%20Platform,%20Enterprise%20Edition">Java Platform, Enterprise Edition</a>&#39; (&#39;Java EE&#39;) は、Javaの企業用機能セット。Java Platform, Standard Edition (Java SE) の拡張機能の形で提供される。<br />
+<br />
+== 概要 ==<br />
+[[JavaプラットフォームにおけるJava EEの位置づけ。Java EEはJava SEの拡張機能として位置づけられている。]]<br />
+<br />
+1<a href="http://localhost/keyword/998%E5%B9%B4">998年</a>に発表され、主に大規模システム（サーバ用途）向けに、Java Servlet（サーブレット）、JavaServer Pages (JSP)、Enterprise <a href="http://localhost/keyword/JavaBeans">JavaBeans</a> (EJB)、Java Transaction API (JTA)、Java Message Service (JMS)、JavaMail、Java EE Connector Architecture (JCA)、およびXML関連のAPI（JAXP等）などの機能をセットにして提供するもの。多層システムの構築ができ、EJBによりトランザクション管理・リモート接続などの自動化ができる。<br />
+<br />
+過去のリリースに伴い名称が変化しており、20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>現在のバージョンは<a href="http://localhost/keyword/Java%20Platform,%20Enterprise%20Edition">Java Platform, Enterprise Edition</a> 7 (Java EE 7) と命名されているが、Java EE 5より過去のバージョンはJava 2 Platform, Enterprise Edition (J2EE) と命名されていた。<br />
+<br />
+Java EE自体は仕様であるため、各社がライセンスを受け実装し、販売などをしている。<br />
+<br />
+== 歴史 ==<br />
+Java EEは19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>の登場以後、数年おきに新しいバージョンが策定されている。<br />
+<br />
+; Java 2 Platform, Enterprise Edition 1.2<br />
+: 最初のJ2EEの仕様。Sun Microsystemsが開発をし、19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>12月12日にリリースされた。1.2当初は以下のような技術から構成されていた。<br />
+: JDBC 2.0, JNDI 1.2, RMI-IIOP 1.0, Servlet 2.2, JSP 1.1, EJB 1.1, JMS 1.0, JTA 1.0,  1.1,  1.0<br />
+<br />
+; Java 2 Platform, Enterprise Edition 1.3<br />
+: JSR 58 として2001年9月24日にリリースされた。仕様検討は、Java Community Processの元で行われた。ベータ版が2001年4月にSunによってリリースされている。1.3では新たにJSPの標準カスタムタグライブラリであるJSTLや、JAXP, , といった技術が追加された。またEJBが2.0へと更新され、JNDIはJ2SEへの移行により取り除かれた。<br />
+<br />
+; Java 2 Platform, Enterprise Edition 1.4<br />
+: JSR 151 として2003年11月24日にリリースされた。ベータ版は200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>12月にSunによってリリースされている。1.4では新たにWebアプリケーションフレームワークであるJSFが採用され、またJSPがEL式を含む2.0へと更新された。<br />
+<br />
+; <a href="http://localhost/keyword/Java%20Platform,%20Enterprise%20Edition">Java Platform, Enterprise Edition</a> 5<br />
+: JSR 244として200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>5月11日にリリースされた。5からは名称・バージョン体系が改められており、またJ2SE 5.0で導入されたアノテーションを使った仕組みが導入されるなど、仕様自体も大きく変更された。中でもEJBはDIやPOJOの概念を取り入れ仕様を全面的に見直した3.0へと更新されており、さらにEJBから派生する形で永続化フレームワークであるJPAも追加されている。<br />
+<br />
+; <a href="http://localhost/keyword/Java%20Platform,%20Enterprise%20Edition">Java Platform, Enterprise Edition</a> 6<br />
+: JSR 316として200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>12月10日にリリースされた。6では新たにDIを実現するCDIや、バリデーションを提供するBean Validationといった技術が追加されている。<br />
+<br />
+; <a href="http://localhost/keyword/Java%20Platform,%20Enterprise%20Edition">Java Platform, Enterprise Edition</a> 7<br />
+: JSR 342として20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>5月28日にリリースされた。7ではJSFがHTML5に対応した2.2に更新されるなどする一方、WebSocketやバッチ処理に関する仕様が追加されている。Java EE 7は以下のような技術から構成されている。<br />
+: WebSocket, JSON Processing, Servlet 3.1, JSF 2.2, EL 3.0, JSP 2.3, JSTL 1.2, Batch Applications, Concurrency Utilities, CDI 1.1, DI 1.0, Bean Validation 1.1, EJB 3.2, Interceptors 1.2,  1.7, JPA 2.1,  1.2, JMS 2.0, JTA 1.2,  1.5, JAX-RS 2.0, Enterprise Web Services 1.3,  2.2, , JAX-RPC 1.1,  1.3,  1.0, JASPIC 1.1, Java ACC 1.5, Java EE Application Deployment 1.2,  1.1, Debugging Support for Other Languages 1.0, JAXB 2.2, JAXP 1.3, JDBC 4.0, JMX 2.0,  1.1, StAX<br />
+<br />
+== 主なAPI ==<br />
+Java EE APIは Java SE APIを元に機能拡張された様々な技術を包含している。<br />
+<br />
+* [http://docs.oracle.com/javaee/7/api Java EE 7 Platform Packages]<br />
+* [http://docs.oracle.com/javaee/6/api Java EE 6 Platform Packages]<br />
+* [http://docs.oracle.com/javaee/5/api Java EE 5 Platform Packages]<br />
+<br />
+===  ===<br />
+Servletパッケージでは、主にHTTPリクエストのためのAPIが定義されている。またJavaServer Pages (JSP) に関するAPIも含まれる。<br />
+<br />
+===  ===<br />
+WebSocketパッケージでは、WebSocketの通信に関するAPIが定義されている。<br />
+<br />
+===  ===<br />
+Facesパッケージでは、 Java Server Faces (JSF) に関するAPIが定義されている。JSFはコンポーネントによるUI構築技術である。<br />
+<br />
+===  ===<br />
+ELパッケージでは、Java EEのEL式に関するクラスとインターフェースが定義されている。EL式はJSPやJSFを作成するWebアプリケーション開発者のためにデザインされた簡単な構文である。主にJSFにおいてコンポーネントに管理beanを結びつけるために用いられるが、仕様自体は独立しており、それ以外の部分でも使用可能である。<br />
+<br />
+===  ===<br />
+Injectパッケージでは、[http://jcp.org/en/jsr/detail?id=299 Contexts and Dependency Injection] (CDI) APIのためのインジェクションアノテーションが定義されている。CDIは依存性の注入 (DI) に関する仕様である。<br />
+<br />
+===  ===<br />
+Contextパッケージでは、Contexts and Dependency Injection (CDI) APIのためのコンテキストアノテーションとインタフェースが定義されている。<br />
+<br />
+===  ===<br />
+Enterprise <a href="http://localhost/keyword/JavaBeans">JavaBeans</a> (EJB) パッケージでは、EJBコンテナがサポートするトランザクション処理 (JTA)、RPC（RMIまたはRMI-IIOP）、並行性制御、依存性の注入 (DI)、ビジネスオブジェクトのためのアクセス制御といった軽量APIが定義されている。またこのパッケージは、エンタープライズBeanとそのクライアント間、エンタープライズBeanとEJBコンテナ間の取り決めを定義したクラスとインタフェースも含む。<br />
+<br />
+===  ===<br />
+Validationパッケージでは、Bean Validation APIのためのアノテーションとインタフェースが定義されている。Bean Validationはbean（例えばJPAのモデルクラス）に対する統一されたバリデーション（値の検証）手法を提供する。Java EEの各要素では、JPAが永続化層におけるバリデーションに、JSFがビュー層におけるバリデーションにまた関与する。<br />
+<br />
+===  ===<br />
+Persistenceパッケージには、永続化プロバイダと管理クラス、それにJava Persistence API (JPA) クライアントの間の取り決めを定義したクラスとインタフェースが含まれている。<br />
+<br />
+===  ===<br />
+Transactionパッケージでは、Java EEのトランザクション処理を担うJava Transaction API (JTA) のインタフェースとアノテーションを含むAPIが定義されている。これらのAPIは低レベルAPIが抽象化されたものであり、通常のアプリケーション開発者がJava EEを用いて開発する場合は、EJBのより高レベルのトランザクション管理を用いたり、このAPIのアノテーションとCDIの管理Beanとを組み合わせて使用することが想定されている。<br />
+<br />
+===  ===<br />
+Messageパッケージでは、Java Authentication SPI (JASPIC) のインタフェースやクラスを含むAPIが定義されている。JASPICはセキュアなJava EEアプリケーションを構築するための仕様である。<br />
+<br />
+===  ===<br />
+Concurrentパッケージでは、Java EEプラットフォーム標準の管理されたスレッドプールと連携する、並行処理に関するインタフェースが定義されている。<br />
+<br />
+===  ===<br />
+JMSパッケージでは、Java Message Service (JMS) APIが定義されている。JMSはJavaプログラムにエンタープライズ<a href="http://localhost/keyword/%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8">メッセージ</a>の生成、送信、受信、読込のための手法を提供する。<br />
+<br />
+===  ===<br />
+BatchのAPIパッケージでは、Java EEのバッチ処理のためのAPIが定義されている。バッチ処理APIは、大容量のデータを扱う長時間に亘るバックグラウンドタスクや、定期的に実行されるタスクのための手法を提供する。<br />
+<br />
+===  ===<br />
+Resourceパッケージでは、 (JCA) APIが定義されている。JCAはEnterprise application integration (EAI) の一部であるアプリケーションサーバーや企業情報システム (EIS) の相互接続を実現するための技術である。このAPIはベンダーのための低レベルAPIであり、通常のアプリケーション開発者をターゲットとしてはいない。<br />
+<br />
+== Java EEの実装 ==<br />
+Java EEの機能を用いたアプリケーションを動作させるには、Java EEの仕様を実装した実行環境やライブラリが必要である。Java EE SDKには、Java EEに準拠したオープンソースのアプリケーションサーバであるGlassFish Open Source Editionが同梱されている。GlassFish 4.0はJava EE 7の参照実装である。NetBeansやEclipseといったJava開発ツールの多くもJava EEに対応している。<br />
+<br />
+以下に、Java EEに準拠した主なアプリケーションサーバを示す。表のバージョン番号は、該当するJava EE仕様に対応したバージョンを表している。<br />
+<br />
+<br />
+<br />
+== 例 ==<br />
+以下に、Java EE 7の様々な技術を組み合わせて作成した、ユーザーの登録を行うWeb入力画面のサンプルを示す。<br />
+<br />
+Java EEには、サーブレットにJSP、またJSFとFaceletsといった、Web UIを作ることが可能ないくつかの技術が存在する。以下はJSFとFaceletsを用いた例である。コード上では明示されていないが、入力コンポーネントでは入力値の検証にBean Validationを使用している。<br />
+<br />
+<br />
+<br />
+<br />
+    <br />
+        <br />
+    <br />
+        <br />
+    <br />
+                <br />
+        <br />
+                <br />
+                <br />
+                                              <br />
+                <br />
+                <br />
+                                <br />
+                <br />
+                <br />
+                           <br />
+                <br />
+            <br />
+        <br />
+        <br />
+    <br />
+<br />
+<br />
+<br />
+=== バッキングBeanの例 ===<br />
+Java EEでは、ビューの処理の実装にバッキングBean（画面の背後で処理するBean、管理Beanとも）と呼ばれる仕組みを用いる。以下はCDIとEJBを用いたバッキングBeanの例である。<br />
+<br />
+<br />
+@Named<br />
+@ViewScoped<br />
+public class UserEdit {<br />
+        <br />
+    private User user;<br />
+<br />
+    @Inject<br />
+    private UserDAO userDAO;<br />
+  <br />
+    public String saveUser() {<br />
+        userDAO.save(this.user);        <br />
+        addFlashMessage(&#34;User &#34; + this.user.getId() + &#34; saved&#34;);<br />
+                <br />
+        return &#34;users.xhtml?faces-redirect=true&#34;;<br />
+    }<br />
+<br />
+    public void setUser(User user) {<br />
+        this.user = user;<br />
+    }<br />
+<br />
+    public User getUser() {<br />
+        return user;<br />
+    }<br />
+}<br />
+<br />
+<br />
+=== DAOの例 ===<br />
+Java EEでは、ビジネスロジックの実装のためにEJBが用意されている。データの永続化ではJDBCやJPAが使用できる。以下はEJBとJPAを用いたData Access Object (DAO) の例である。コード上では明示されていないが、EJBではトランザクション管理にJTAが使用される。<br />
+<br />
+<br />
+@Stateless<br />
+public class UserDAO {<br />
+        <br />
+    @PersistenceContext<br />
+    private EntityManager entityManager;<br />
+        <br />
+    public void save(User user) {<br />
+        entityManager.persist(user);<br />
+    }<br />
+        <br />
+    public void update(User user) {<br />
+        entityManager.merge(user);<br />
+    }<br />
+<br />
+    public List getAll() {<br />
+        return entityManager.createNamedQuery(&#34;User.getAll&#34;, User.class)<br />
+                            .getResultList();<br />
+    }<br />
+<br />
+}<br />
+<br />
+<br />
+=== エンティティの例 ===<br />
+Java EEでは、エンティティ/モデルクラスのためにJPAが用意されており、またバリデーション（値の検証）ではBean Validationが使用できる。以下は両者を用いた例である。<br />
+<br />
+<br />
+@Entity<br />
+public class User {<br />
+<br />
+    @Id<br />
+    @GeneratedValue(strategy = ID<a href="http://localhost/keyword/ENT">ENT</a>ITY)<br />
+    private Integer id;<br />
+        <br />
+    @Size(min = 2, message=&#34;First name too short&#34;)<br />
+    private String firstName;<br />
+        <br />
+    @Size(min = 2, message=&#34;Last name too short&#34;)<br />
+    private String lastName;<br />
+  <br />
+    public Integer getId() {<br />
+        return id;<br />
+    }<br />
+        <br />
+    public void setId(Integer id) {<br />
+        this.id = id;<br />
+    }<br />
+  <br />
+    public String getFirstName() {<br />
+        return firstName;<br />
+    }<br />
+<br />
+    public void setFirstName(String firstName) {<br />
+        this.firstName = firstName;<br />
+    }<br />
+        <br />
+    public String getLastName() {<br />
+        return lastName;<br />
+    }<br />
+ <br />
+    public void setLastName(String lastName) {<br />
+        this.lastName = lastName;<br />
+    }<br />
+<br />
+}<br />
+<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+<br />
+<br />
+* EAR<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.oracle.com/technetwork/jp/java/javaee/overview/ Oracle - Java EE]<br />
+<br />
+<br />
+<br />
+Category:Java<br />
+Category:ウェブアプリケーション<br />
+Platform, Enterprise Edition<br />
+Category:Java enterprise platform<br />
+Category:Java specification requests<br />
+Category:長大な項目名<br />

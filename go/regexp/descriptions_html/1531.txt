@@ -1,0 +1,66 @@
+description<br />
+ 芸備線<br />
+|キロ程    = 6.5km（備中神代起点）新見から12.8<br />
+|起点駅    = <br />
+|所在地幅  = long<br />
+|所在地    = 岡山県新見市<a href="http://localhost/keyword/%E5%93%B2%E8%A5%BF%E7%94%BA">哲西町</a>上神代字荒神前1259-1<br />
+|緯度度=34|緯度分=57|緯度秒=58.4<br />
+|経度度=133|経度分=20|経度秒=48.3<br />
+|駅構造    = 地上駅<br />
+|ホーム    = 1面1線<br />
+|開業年月日= 1<a href="http://localhost/keyword/953%E5%B9%B4">953年</a>（昭和2<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）10月1日<br />
+|廃止年月日= <br />
+|乗車人員  = 10<br />
+|乗降人員  = <br />
+|統計年度  = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換      = <br />
+|備考      = 無人駅<br />
+|備考全幅  = <br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E5%B8%82%E5%B2%A1%E9%A7%85">市岡駅</a>&#39;（いちおかえき）は、岡山県新見市<a href="http://localhost/keyword/%E5%93%B2%E8%A5%BF%E7%94%BA">哲西町</a>上神代字荒神前にある、西日本旅客鉄道（JR西日本）芸備線の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/953%E5%B9%B4">953年</a>（昭和2<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）10月1日 - 国鉄芸備線の坂根 - 矢神間に新設開業。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、西日本旅客鉄道の駅となる。<br />
+<br />
+== 駅構造 ==<br />
+構内（200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>9月26日）<br />
+備後落合方面に向かって左側に単式ホーム1面1線を持つ地上駅（停留所）。駅舎はあるものの、新見駅管理の無人駅となっており、自動券売機も設置されていない。駅舎は「市岡ふれあいセンター」と名づけられた比較的新しいものとなっている。<br />
+<br />
+== 利用状況 ==<br />
+1日の平均乗車人員は以下の通りである出典：岡山県統計年報。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 市岡簡易郵便局<br />
+* 神代川<br />
+* 国道182号<br />
+<br />
+== 隣の駅 ==<br />
+; 西日本旅客鉄道<br />
+:  芸備線}}に従い路線記号・ラインカラーを表記しているが、実際の駅構内の主だった旅客案内には、20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>3月のダイヤ改正の段階では反映されていない。}}<br />
+:: 快速<br />
+::: &#39;通過&#39;<br />
+:: 普通<br />
+::: 坂根駅 - &#39;<a href="http://localhost/keyword/%E5%B8%82%E5%B2%A1%E9%A7%85">市岡駅</a>&#39; - 矢神駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jr-odekake.net/eki/top.php?id=0650502 <a href="http://localhost/keyword/%E5%B8%82%E5%B2%A1%E9%A7%85">市岡駅</a>（JR西日本）]<br />
+<br />
+<br />
+<br />
+<br />
+category:岡山県の鉄道駅<br />
+ちおか<br />
+Category:西日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+いちおかえき<br />
+Category:1<a href="http://localhost/keyword/953%E5%B9%B4">953年</a>開業の鉄道駅<br />

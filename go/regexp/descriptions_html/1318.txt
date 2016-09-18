@@ -1,0 +1,31 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E5%92%8C%E3%82%B8%E3%83%A9">和ジラ</a>&#39;（わジラ）とは、もじら組独自のMozillaビルドである。当時、検証不足やMozilla開発者の関心不足などが理由で放置されている日本語関連のパッチのテストを目的としてビルドされていた。<br />
+<br />
+1.5より前のバージョンでは、ユーザーインターフェイスを日本語にするローカライゼーションパックが添付されていたが、後述のように日本語版Mozillaと誤解されてしまう事例が多発することを踏まえて、バージョン1.5では<a href="http://localhost/keyword/%E5%92%8C%E3%82%B8%E3%83%A9">和ジラ</a>の目的ではないとして添付しなくなった。<br />
+<br />
+長らくリリースがMozilla 1.5をベースとしたもので止まっていたが、200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>10月プロジェクトページで正式に活動の終了を表明した。<br />
+<br />
+なお、開発元はmozilla.orgのビルドを「洋ジラ」と呼んでいた。<br />
+<br />
+== 日本語版Mozillaであるとの誤解 ==<br />
+<a href="http://localhost/keyword/%E5%92%8C%E3%82%B8%E3%83%A9">和ジラ</a>のことを「日本語版Mozilla」と誤解される事例も多かった。エッジ株式会社（現・株式会社ライブドア）が開発していたLindows OS 4.0日本語版のリリースの際に各ニュースサイトが「Lindows OSが<a href="http://localhost/keyword/%E5%92%8C%E3%82%B8%E3%83%A9">和ジラ</a>を採用した」と報じた例が顕著である。だが、その報道は誤報であるということになっている[http://www.mozilla.gr.jp/ml/logs/moz-users/5500/5525.html 【moz-users:05525】 <a href="http://localhost/keyword/%E5%92%8C%E3%82%B8%E3%83%A9">和ジラ</a>/Lindows問題について]http://wazilla.sourceforge.jp/ のニュースの2003/08/30。<br />
+<br />
+この件を基にもじら組では200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>にエイプリルフールネタ[http://web.archive.org/web/20050403010353/http://www.mozilla.gr.jp/bought.html 200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>のエイプリルフールネタ]（200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>4月3日時点のアーカイブ）を作成していた。<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* Mozilla<br />
+* もじら組<br />
+<br />
+== 外部リンク ==<br />
+* [http://web.archive.org/web/20070114125347/http://www.mozilla.gr.jp/wazilla/ <a href="http://localhost/keyword/%E5%92%8C%E3%82%B8%E3%83%A9">和ジラ</a>プロジェクト] - 閉鎖。（200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>1月14日時点のアーカイブ）<br />
+* [http://wazilla.sourceforge.jp/ <a href="http://localhost/keyword/%E5%92%8C%E3%82%B8%E3%83%A9">和ジラ</a>プロジェクト(旧)]<br />
+<br />
+<br />
+Category:Mozilla<br />
+Category:Geckoを用いたウェブブラウザ<br />
+Category:オープンソース<br />
+<br />
+<br />

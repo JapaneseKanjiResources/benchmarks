@@ -1,0 +1,11 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E4%B8%8D%E7%B4%94%E7%89%A9%E6%BA%96%E4%BD%8D">不純物準位</a>&#39;（ふじゅんぶつじゅんい、）は、物質中の不純物が作る準位のこと。特に、<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>のバンドギャップ中にこの<a href="http://localhost/keyword/%E4%B8%8D%E7%B4%94%E7%89%A9%E6%BA%96%E4%BD%8D">不純物準位</a>が出来る場合が非常に重要。バンドギャップ中に出来る準位の位置により、n型<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>、p型<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>を形成できる可能性がある（深い準位、例えばバンドギャップの真ん中に準位を形成してしまうこともある）。準位の位置は、その<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>と不純物の種類によって決まりP型<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>になる場合がアクセプタ準位、<a href="http://localhost/keyword/N%E5%9E%8B%E5%8D%8A%E5%B0%8E%E4%BD%93">N型半導体</a>になる場合がドナー準位と呼ぶ。<br />
+<br />
+== 関連項目 ==<br />
+*物理学<br />
+*物性物理学<br />
+<br />
+<br />
+<br />
+category:<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a><br />
+Category:電子状態<br />

@@ -1,0 +1,39 @@
+description
+
+|亜目 = ハクジラ亜目 
+|科 = マイルカ科 
+|属 = 'イロワケイルカ属' 
+|学名 = '''Cephalorhynchus'''
+|下位分類名 = 種
+|下位分類 =
+* イロワケイルカ ''C. commersonii''
+* ハラジロイルカ ''C. eutropia''
+* コシャチイルカ ''C. heavisidii''
+* セッパリイルカ ''C. hectori''
+}}
+
+'イロワケイルカ属' (''Cephalorhynchus'') は、クジラ目ハクジラ亜目マイルカ科の属の一つ。'セッパリイルカ属'とも呼ばれる。イロワケイルカ属は4種1亜種で構成される。
+
+イロワケイルカ属に属するイルカは小型で、最も大きいコシャチイルカでも180cm程度に過ぎない。セッパリイルカは140cmとイロワケイルカ属の中でも一番小さく、クジラ目全体でも最小の部類である。
+
+== 分類 ==
+イロワケイルカ属（セッパリイルカ属） 
+* イロワケイルカ（パンダイルカ） Commerson's Dolphin, ''Cephalorhyncus commersonii''
+* ハラジロイルカ Chilean Dolphin, ''Cephalorhyncus eutropia''
+* コシャチイルカ Heaviside's Dolphin, ''Cephalorhyncus heavisidii''
+* セッパリイルカ Hector's Dolphin, ''Cephalorhyncus hectori''
+** Maui's Dolphin ''Cephalorhynchus hectori maui''
+
+
+ファイル:Commerson Dolphin.jpg|イロワケイルカ
+ファイル:Heaviside-Delphin.jpg|コシャチイルカ
+ファイル:Hectors delfin.jpg|セッパリイルカ
+
+
+
+
+
+
+
+
+Category:マイルカ科

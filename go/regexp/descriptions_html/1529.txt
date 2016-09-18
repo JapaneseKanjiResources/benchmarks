@@ -1,0 +1,61 @@
+description<br />
+ 芸備線<br />
+|キロ程    = 37.8km（備中神代起点）新見から44.2<br />
+|起点駅    = <br />
+|所在地    = 広島県庄原市西城町高尾<br />
+|緯度度=35|緯度分=0|緯度秒=39.22<br />
+|経度度=133|経度分=10|経度秒=41.77<br />
+|駅構造    = 地上駅<br />
+|ホーム    = 1面1線<br />
+|開業年月日= 1<a href="http://localhost/keyword/936%E5%B9%B4">936年</a>（昭和<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）11月21日<br />
+|廃止年月日= <br />
+|乗車人員  = <br />
+|乗降人員  = <br />
+|統計年度  = <br />
+|乗入路線数= <br />
+|乗換      = <br />
+|備考      = 無人駅<br />
+|備考全幅  = <br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E9%81%93%E5%BE%8C%E5%B1%B1%E9%A7%85">道後山駅</a>&#39;（どうごやまえき）は、広島県庄原市西城町高尾にある、西日本旅客鉄道（JR西日本）芸備線の駅である。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/936%E5%B9%B4">936年</a>（昭和<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）11月21日 - 三神線（当時）小奴可 - 備後落合間に新設開業。<br />
+* 1<a href="http://localhost/keyword/937%E5%B9%B4">937年</a>（昭和<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）7月1日 - 三神線が芸備線の一部となり、当駅もその所属となる。<br />
+* 1<a href="http://localhost/keyword/974%E5%B9%B4">974年</a>（昭和<a href="http://localhost/keyword/49%E5%B9%B4">49年</a>） - この年を最後に急行列車の停車がなくなる。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、西日本旅客鉄道の駅となる。<br />
+<br />
+== 駅構造 ==<br />
+構内（200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>9月26日）<br />
+<a href="http://localhost/keyword/%E5%82%99%E5%BE%8C%E8%90%BD%E5%90%88%E9%A7%85">備後落合駅</a>に向かって右側に単式ホーム1面1線を有する地上駅。かつては相対式ホーム2面2線の構造を有したが、片側（駅舎反対側）の線路が撤去され、現在は停留所構造となっている。秘境駅として有名である。<br />
+<br />
+駅舎はあるが、新見駅管理の無人駅であり、自動券売機等の設備はない。駅事務室は現在、改修されて消防機庫として消防車が入っている。<br />
+<br />
+== 駅周辺 ==<br />
+* 高尾原スキー場跡（利用客低迷＆江府三次道路の建設に伴い、平成<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>に閉鎖された）<br />
+<br />
+== 隣の駅 ==<br />
+; 西日本旅客鉄道<br />
+:  芸備線}}に従い路線記号・ラインカラーを表記しているが、実際の駅構内の主だった旅客案内には、20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>3月のダイヤ改正の段階では反映されていない。}}<br />
+:: 快速・普通<br />
+::: 小奴可駅 - &#39;<a href="http://localhost/keyword/%E9%81%93%E5%BE%8C%E5%B1%B1%E9%A7%85">道後山駅</a>&#39; - <a href="http://localhost/keyword/%E5%82%99%E5%BE%8C%E8%90%BD%E5%90%88%E9%A7%85">備後落合駅</a><br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jr-odekake.net/eki/top.php?id=0650509 <a href="http://localhost/keyword/%E9%81%93%E5%BE%8C%E5%B1%B1%E9%A7%85">道後山駅</a>（JR西日本）]<br />
+<br />
+<br />
+<br />
+<br />
+Category:庄原市の鉄道駅<br />
+うこやま<br />
+Category:西日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/936%E5%B9%B4">936年</a>開業の鉄道駅<br />

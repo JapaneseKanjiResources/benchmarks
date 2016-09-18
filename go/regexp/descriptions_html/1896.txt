@@ -1,0 +1,161 @@
+description<br />
+武蔵野線<br />
+|前の駅1 = 北朝霞<br />
+|駅間A1 = 5.0<br />
+|駅間B1 = 2.0<br />
+|次の駅1 = 武蔵浦和<br />
+|キロ程1 = 56.6km（鶴見起点）府中本町から27.8<br />
+|起点駅1 = <br />
+|所属路線2 = 武蔵野線貨物支線（大宮支線）<br />
+|隣の駅2 = self<br />
+|前の駅2 = <br />
+|駅間A2 = <br />
+|駅間B2 = <br />
+|次の駅2 = (1.3km) （別所信号場）►(4.9km) 与野►►<br />
+|駅番号2 =<br />
+|キロ程2 = 0.0<br />
+|起点駅2 = 西浦和<br />
+|電報略号 = ニウ<br />
+|駅番号 =<br />
+|所属事業者 = 23px東日本旅客鉄道（JR東日本）<br />
+|所在地 = <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市桜区田島五丁目10-20<br />
+|緯度度=35|緯度分=50|緯度秒=39.17<br />
+|経度度=139|経度分=37|経度秒=40.51<br />
+|駅構造 = 高架駅<br />
+|ホーム = 1面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/973%E5%B9%B4">973年</a>（昭和<a href="http://localhost/keyword/48%E5%B9%B4">48年</a>）4月1日<br />
+|廃止年月日 =<br />
+|乗車人員 = 14,086<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗換 =<br />
+|備考 =<br />
+}}<br />
+<br />
+}<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+↓北朝霞駅<br />
+|}<br />
+|}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E8%A5%BF%E6%B5%A6%E5%92%8C%E9%A7%85">西浦和駅</a>&#39;（にしうらわえき）は、埼玉県<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市桜区田島五丁目にある、東日本旅客鉄道（JR東日本）武蔵野線の駅である。<br />
+<br />
+武蔵野線の本線のほか、東北本線与野駅までの支線（大宮支線。実際の東北貨物線との合流点は大宮操車場駅）が分岐している武蔵野線まるごと探見、pp.52-53。武蔵野線まるごと探見、pp.54-55。。この支線は主に貨物列車が使用するが、一部「むさしの号」などの<a href="http://localhost/keyword/%E6%97%85%E5%AE%A2%E5%88%97%E8%BB%8A">旅客列車</a>も経由している。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/973%E5%B9%B4">973年</a>（昭和<a href="http://localhost/keyword/48%E5%B9%B4">48年</a>）4月1日 - 国鉄の駅として開業。開業時から自動改札機を設置。<br />
+* 19<a href="http://localhost/keyword/80%E5%B9%B4">80年</a>（昭和<a href="http://localhost/keyword/55%E5%B9%B4">55年</a>）8月17日 - 付近の古タイヤ火災による高架橋損傷により、北朝霞との間が約1ヵ月間不通となる武蔵野線まるごと探見、pp.172-174。。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、JR東日本の駅となる。<br />
+* 2001年（平成<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）11月18日 - ICカードSuica供用開始。<br />
+* 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>（平成<a href="http://localhost/keyword/20%E5%B9%B4">20年</a>）1月 - 。<br />
+<br />
+== 駅構造 ==<br />
+島式ホーム1面2線の高架駅である。<a href="http://localhost/keyword/%E6%96%B0%E5%A4%A7%E5%AE%AE%E3%83%90%E3%82%A4%E3%83%91%E3%82%B9">新大宮バイパス</a>と交差する地点に設置されている。直営駅(東<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a>の被管理駅)。<br />
+<br />
+改札口は1か所で正面は<a href="http://localhost/keyword/%E6%96%B0%E5%A4%A7%E5%AE%AE%E3%83%90%E3%82%A4%E3%83%91%E3%82%B9">新大宮バイパス</a>上り線となっている。自動改札機、自動券売機が改札外に設置されている。。<br />
+<br />
+。エレベータは改札内〜ホームに1機設置されている。トイレは男女とも、改札内に1か所ある。また、車椅子用のトイレもある。<br />
+<br />
+武蔵野線の本線と大宮支線が分岐するため線路が4本あり、そのうち内側の2本が本線（2・3番線）、外側の2本が大宮支線（1・4番線）である。1・4番線にはホームがないため、当駅ののりばの番号は2番線からとなっている。<br />
+<br />
+駅本屋の施工は前田建設工業『鉄道建築ニュース 1<a href="http://localhost/keyword/973%E5%B9%B4">973年</a>4月』、鉄道建築協会、1<a href="http://localhost/keyword/973%E5%B9%B4">973年</a>4月。。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+<br />
+== 利用状況 ==<br />
+改札口（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>9月）<br />
+ホーム（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>7月）<br />
+西船橋方を望む。外側2線が大宮支線。]]<br />
+20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度の一日平均乗車人員は&#39;14,086人&#39;である[http://www.jreast.co.jp/passenger/2014_02.html JR東日本 各駅の乗車人員（20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度）]。<br />
+<br />
+近年の乗車人員の推移は下表のとおりである｡<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* ベッ<a href="http://localhost/keyword/%E3%82%AF%E3%82%B9%E3%82%B3">クスコ</a>ーヒーショップ<br />
+* 国道17号（<a href="http://localhost/keyword/%E6%96%B0%E5%A4%A7%E5%AE%AE%E3%83%90%E3%82%A4%E3%83%91%E3%82%B9">新大宮バイパス</a>）<br />
+* 首都高速道路埼玉大宮線<br />
+* プラザウエスト<br />
+* <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市記念総合体育館<br />
+* 田島団地<br />
+* 浦和田島郵便局<br />
+* 鴻沼資料館<br />
+* 浦和学院専門学校<br />
+* 埼玉県立浦和工業高校<br />
+* <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市立田島中学校<br />
+* <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市立田島小学校<br />
+* <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市立西浦和小学校<br />
+* <a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市立新開小学校<br />
+* 桜環境センター<br />
+* 浦和総合流通センター<br />
+* 三愛病院<br />
+* パシフィックシステム<br />
+* ダイエー西浦和店（旧・忠実屋）<br />
+* セイムス<br />
+* 国大セミナー 西浦和校<br />
+* 明光義塾 <a href="http://localhost/keyword/%E8%A5%BF%E6%B5%A6%E5%92%8C%E9%A7%85">西浦和駅</a>前教室<br />
+* <a href="http://localhost/keyword/%E5%9B%BD%E9%9A%9B%E8%88%88%E6%A5%AD">国際興業</a>バス西浦和営業所<br />
+* 秋ヶ瀬公園<br />
+* 田島ヶ原<br />
+* さくら草公園<br />
+* 荒川彩湖公園<br />
+<br />
+== 路線バス ==<br />
+駅前ロータリーは2003年に整備されるまでは無かった。ロータリー完成後も駅周辺の道路が狭いため、ロータリーにはコミュニティバス以外は乗り入れておらず、接続交通機関は主にタクシーとなっている。深夜バスとして池袋駅1時20分発の、ミッドナイトアロー高島平・中浦和が<a href="http://localhost/keyword/%E8%A5%BF%E6%B5%A6%E5%92%8C%E9%A7%85">西浦和駅</a>入口に停車する。<br />
+<br />
+<br />
+== その他 ==<br />
+<br />
+* 府中本町方面行きの<a href="http://localhost/keyword/%E6%97%85%E5%AE%A2%E5%88%97%E8%BB%8A">旅客列車</a>が当駅を出発して暫くすると、大宮支線との合流ポイントで列車が大きく横に揺れる。西船橋方面行きの<a href="http://localhost/keyword/%E6%97%85%E5%AE%A2%E5%88%97%E8%BB%8A">旅客列車</a>が当駅に接近する際も同様である。これは、武蔵野線自体が貨物輸送目的で建設された名残で、大宮支線が直進方向となっているためである。。<br />
+* 。<br />
+* 武蔵野線経由で大宮方面とを結ぶむさしの号は、当駅には停車しない。そのため、20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>12月4日以降、武蔵野線で唯一、大宮駅までの直通列車が停車しない駅である。<br />
+* かつては当駅の西船橋駅・別所信号場方にも分岐器が設置されており、例えば大宮支線の線路を通過線として走行し本線へ戻ることや、逆に本線のホームに停車して大宮支線へ行くこともできた。しかし、停車列車・通過列車にかかわらずに鶴見方にある分岐器で向かう方向へと分かれることがほとんどで、西船橋方の分岐器は、深夜帯の保線作業などで保守用車の通過くらいにしか使われていなかった。。<br />
+* 開業当時は、東京6号線（現在の都営地下鉄三田線）の延伸計画があり、開業した際に乗換駅になる予定とされていた『鉄道ピクトリアル』1<a href="http://localhost/keyword/973%E5%B9%B4">973年</a>9月号。<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 武蔵野線<br />
+:: むさしの号<br />
+::: &#39;通過&#39;<br />
+:: 各駅停車<br />
+::: 北朝霞駅 - &#39;<a href="http://localhost/keyword/%E8%A5%BF%E6%B5%A6%E5%92%8C%E9%A7%85">西浦和駅</a>&#39; - 武蔵<a href="http://localhost/keyword/%E6%B5%A6%E5%92%8C%E9%A7%85">浦和駅</a><br />
+: 武蔵野線貨物支線（大宮支線、<a href="http://localhost/keyword/%E6%97%85%E5%AE%A2%E5%88%97%E8%BB%8A">旅客列車</a>は全列車通過）<br />
+::: &#39;<a href="http://localhost/keyword/%E8%A5%BF%E6%B5%A6%E5%92%8C%E9%A7%85">西浦和駅</a>&#39; - （別所信号場） - 与野駅<br />
+:* むさしの号は当駅から大宮支線に入り、同線を経由して東北本線大宮駅へ直通するが、大宮支線用の線路にホームがないため、当駅は通過する。<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 参考文献 ==<br />
+* <br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=1148 JR東日本 <a href="http://localhost/keyword/%E8%A5%BF%E6%B5%A6%E5%92%8C%E9%A7%85">西浦和駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:<a href="http://localhost/keyword/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE">さいたま</a>市の鉄道駅<br />
+しうらわ<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:武蔵野線<br />
+Category:1<a href="http://localhost/keyword/973%E5%B9%B4">973年</a>開業の鉄道駅<br />
+Category:桜区の交通<br />

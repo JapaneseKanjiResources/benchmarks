@@ -1,0 +1,47 @@
+description
+
+|left= ウンビヘキシウム
+|right= ウンビオクチウム
+|above= (Ac)
+|below= Usb
+|series= 超アクチノイド元素
+|group= ?
+|period= 8
+|block= g
+|appearance= 
+|atomic mass= [ - ]
+|electron configuration= &#91;Uuo&#93; 7g2 8s2
+|electrons per shell= 2, 8, 18, 32, 34, 18, 8, 2
+|color= 
+|phase= 
+|oxidation states= 
+|electronegativity= 
+|number of ionization energies= 
+|1st ionization energy= 
+|2nd ionization energy= 
+|3rd ionization energy= 
+|atomic radius= 
+|covalent radius= 
+|Van der Waals radius= 
+|CAS number= 
+|isotopes= 
+|isotopes comment=
+}}
+'ウンビセプチウム' (Unbiseptium) は、原子番号127にあたる未発見の超重元素に付けられた一時的な仮名（元素の系統名）。
+
+== 歴史 ==
+1978年、ドイツのダルムシュタット市にある重イオン研究所でUNILAC加速器を使い、キセノン136イオンをタンタルに衝突させてこの元素を生成する実験が試みられたが、失敗したEmsley, John (2011). Nature's Building Blocks: An A-Z Guide to the Elements (New ed.). New York, NY: Oxford University Press. p. 588. ISBN 978-0-19-960563-7.。
+
+\\,^{nat}_{73}\\mathrm{Ta} +  \\,^{136}_{54}\\mathrm{Xe} \\to \\,^{316, 317}\\mathrm{Ubs} ^{*} \\to \\mbox{no atoms}
+
+== 参考文献 ==
+
+== 関連項目 ==
+* 未発見元素の一覧
+* 第8周期元素
+
+
+
+
+Category:元素
+Category:原子核物理学

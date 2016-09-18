@@ -1,0 +1,30 @@
+description
+数学において'不完全ベータ関数'（ふかんぜんベータかんすう、incomplete beta function）とは、ベータ関数の一般化の一つで、ベータ関数の定義に現れる定積分を不定積分に置き換えた関数である。ガンマ関数を一般化して不完全ガンマ関数を定義する方法に似ている。
+
+== 定義 ==
+不完全ベータ関数は0 \\leq \\mathrm{Re} \\ z \\leq 1に対して、以下の積分で定義される。
+
+
+
+この式においてz = 1のときが、ベータ関数である。不完全ベータ関数に対する用語として、普通のベータ関数を'完全ベータ関数' (complete beta function) ということもある。
+
+'正則化された不完全ベータ関数' (regularized incomplete beta function)（あるいは単に'正則ベータ関数' (regularized beta function)）とは、不完全ベータ関数とベータ関数を用いて以下のように定義される。
+
+
+== 性質 ==
+
+
+
+== 参考文献 ==
+* M. Abramowitz and I. A. Stegun, eds. (1972) Handbook of Mathematical Functions with Formulas, Graphs, and Mathematical Tables. New York: Dover. ''(See sections 6.6 and 26.5)''
+* W. H. Press, B. P. Flannery, S. A. Teukolsky, W. T. Vetterling. (1992) [http://nr.com/ Numerical Recipes] in C. Cambridge, UK: Cambridge University Press. Second edition. ''(See section 6.4)''
+* NIST: Digital Library of Mathematical Functions.  [http://dlmf.nist.gov/8.17　(section 8.17, Incomplete Beta Functinos)]
+
+== 関連項目 ==
+* ベータ関数
+
+
+Category:特殊関数
+Category:数学に関する記事
+
+en:Beta function#Incomplete beta function

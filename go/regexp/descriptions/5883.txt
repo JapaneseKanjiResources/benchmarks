@@ -1,0 +1,115 @@
+description
+
+
+'整形外科学'（せいけいげかがく、）は、人体の骨・関節・筋肉等の運動器系を主に診療研究する外科学の一分野。アメリカ合衆国では「orthopedic surgery」とも言われる。場合によりリウマチ学や形成外科学などと連携して治療にあたる。
+
+いわゆる「整形手術」は美容外科学の分野であり、整形外科学とは直接関係がない。
+
+== 歴史 ==
+1780年にジャン・アンドレ・ベネルが小児の骨格異常を扱う病院を設立したのが最初と言われている。また、オランダ軍医でアンドレ・マチセンが石膏でギプスを行っている。
+
+一般的に整形外科領域は戦争の外傷治療と共に発展してきている。中世では、戦場において創傷部位に馬の血を湿らせたバンドを施し、添え木を行ったりしていた。
+
+== 腰痛の8割は原因不明で痛み止め処方の実情 ==
+日本臨床整形外科学会協力のもと、厚生労働省の調査により腰痛の8割は原因不明で痛み止めが有効とされていた、という実情が平成25年3月24日の朝日新聞朝刊の1面にて取り上げられた。（デジタル版見出し：腰痛2800万人 厚労省推計、40～60代は4割悩み 8割原因不明…心の悲鳴かも）また、ストレッチが有効とも記述されている。
+
+== 治療 ==
+
+=== 保存的整復固定術 ===
+*シーネ
+*ギプス
+*スピードトラック牽引
+*グリソン牽引
+
+=== 観血的整復固定術 ===
+*デブリードマン
+*大腿骨頚部骨折
+**Pinning法
+**γ-nail
+**CHS法
+**Hannson pin術
+**人工骨頭置換術
+
+*変形性股関節症
+**人工骨頭置換術
+**人工股関節（人工関節）置換術
+*変形性膝関節症
+**人工膝関節置換術
+*特発性大腿骨頭壊死症
+**人工膝関節置換術
+**杉岡式回転骨切り術
+**内反骨切り術
+
+== 分野 ==
+
+=== 代謝性疾患 ===
+* 骨粗鬆症
+* 変形性関節症
+* 関節リウマチ
+
+=== 脊椎疾患 ===
+* 椎間板ヘルニア
+* 腰部脊柱管狭窄症
+* 小児椎間板石灰化
+
+左上腕骨骨折に対するキルシュナーワイヤーによる経皮的鋼線刺入固定法
+=== 手（上肢） ===
+* 手根管症候群
+* デュピュイトラン拘縮（Dupuytren拘縮）
+*: デュピュイトラン拘縮（でゅぴゅいとらんこうしゅく）は、原因不明のIP関節、MP関節での屈曲拘縮をきたす疾患.男性に多い。疾患。
+* ヘバーデン結節
+* ブシャール結節
+* 変形性母指手根中手関節症
+* 上腕二頭筋長頭腱炎
+* 肘内障
+
+=== 足（下肢） ===
+* 大腿骨頭辷り症（大腿骨頭骨端線離開）
+
+=== 外傷 ===
+* 骨折
+* 脱臼
+* 捻挫
+
+左第4[[中手骨に発生した骨巨細胞腫]]
+=== 腫瘍 ===
+*骨腫瘍
+**骨巨細胞腫
+**骨肉腫
+**軟骨肉腫
+**ユーイング肉腫
+*脊髄腫瘍
+
+== 参考文献 ==
+
+
+== 関連項目 ==
+* 骨折
+* 外科学
+* リウマチ学
+
+== 外部リンク ==
+
+* [http://www.ortho.wustl.edu/ Washington University Orthopedics]
+* [http://www.oxfordclinic.org.uk/ Oxford Clinic for Specialist Surgery - Orthopaedic Hospital]
+* [http://orthopaedics.yale.edu Yale Orthopaedics]
+* [http://www.worldortho.com/history.html The History of Orthopaedics]
+* [http://www.wheelessonline.com/index.htm Wheeless' Textbook of Orthopaedics]
+* [http://www.sicot.org/ The International Society of Orthopaedic Surgery and Traumatology]
+* [http://www.aaos.org/ American Academy of Orthopaedic Surgeons]
+* [http://www.sportsmed.org American Orthopaedic Society for Sports Medicine]
+* [http://www.gillettechildrens.org/default.cfm/PID=1.3.15 Pediatric Orthopaedics]
+* [http://www.aofoundation.org/wps/portal/surgeryskully AO Surgery Reference]
+* [http://www.jbjs.org.uk/ The Journal of Bone and Joint Surgery]
+* [http://www.orthosupersite.com Orthopedics News]
+* [http://www.paulbaxtarticles.com Orthopedic Surgery Articles written by Paul Baxt, MD]
+* [http://www.iasm.com The Institute for Arthroscopy and Sports Medicine - Jeffrey Halbrecht, MD]
+* [http://www.joa.or.jp/jp/ 日本整形外科学会]
+* [http://www.joa.or.jp/jp/public/sick/index.html 日本整形外科学会(症状・病気をしらべる)]
+* [http://www.jsfr.jp/ 日本骨折治療学会]
+
+
+
+*
+Category:リハビリテーション
+*

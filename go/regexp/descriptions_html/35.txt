@@ -1,0 +1,52 @@
+description<br />
+ |<br />
+ 世紀=1 |<br />
+ 次世紀=2 |<br />
+<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=50 |<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=60 |<br />
+ <a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀=70 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=80 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=90 |<br />
+<br />
+ 3年前=67 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>前=68 |<br />
+ 1年前=69 |<br />
+ 年=70 |<br />
+ 1年後=71 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>後=72 |<br />
+ 3年後=73 |<br />
+}}<br />
+<br />
+<br />
+== 他の紀年法 ==<br />
+<br />
+* 干支 : 庚午<br />
+* 日本<br />
+** 垂仁天皇<a href="http://localhost/keyword/99%E5%B9%B4">99年</a><br />
+** 皇紀<a href="http://localhost/keyword/730%E5%B9%B4">730年</a><br />
+*中国<br />
+** 後漢 : 永平<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+* 朝鮮<br />
+** 高句麗 : 太祖王<a href="http://localhost/keyword/18%E5%B9%B4">18年</a><br />
+** 新羅 : 脱解王<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+** 百済 : 多婁王<a href="http://localhost/keyword/43%E5%B9%B4">43年</a><br />
+** 檀紀2<a href="http://localhost/keyword/403%E5%B9%B4">403年</a><br />
+* 仏滅紀元 : <a href="http://localhost/keyword/613%E5%B9%B4">613年</a><br />
+* ユダヤ暦 : 3<a href="http://localhost/keyword/830%E5%B9%B4">830年</a> - 3<a href="http://localhost/keyword/831%E5%B9%B4">831年</a><br />
+<br />
+== できごと ==<br />
+* ウェスパシアヌス、ローマに入る。フラウィウス朝始まる（-<a href="http://localhost/keyword/96%E5%B9%B4">96年</a>）<br />
+* 9月7日 - エルサレム攻囲戦で都市とエルサレム神殿が破壊される。（ユダヤ戦争）<br />
+* コロッセオの建設が始まる（他説あり）<br />
+* ドミティアヌス、コルブロの娘と結婚<br />
+<br />
+== 誕生 ==<br />
+<br />
+== 死去 ==<br />
+* 8月8日（垂仁天皇<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>7月14日） - 垂仁天皇、第11代天皇（* 紀元前<a href="http://localhost/keyword/69%E5%B9%B4">69年</a>）<br />
+* アレクサンドリアのヘロン、古代ギリシアの数学者<br />
+* コルメラ、古代ローマの著述家（*<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>）<br />
+*<br />
+<br />
+als:70er#Johr 70<br />

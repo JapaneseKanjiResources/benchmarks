@@ -1,0 +1,6 @@
+description
+'SUT'
+* テレビ静岡の略称('S'hizuoka 'U'HF 'T'elevision)。
+* 東京理科大学の旧略称('S'cience 'U'niversity of 'T'okyo)。TUS(Tokyo University of Science)と並行して使われていた時期があったが、2000年頃にTUSに一本化したことにより、現在ではURL以外に使われていない。
+* スポーツユーティリティトラック（'S'port 'U'tility 'T'ruck)の略。主に北米向け。
+

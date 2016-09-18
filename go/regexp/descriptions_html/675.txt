@@ -1,0 +1,48 @@
+description<br />
+ |<br />
+ 世紀=1 |<br />
+ 次世紀=2 |<br />
+<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=30 |<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=40 |<br />
+ <a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀=50 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=60 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=70 |<br />
+<br />
+ 3年前=48 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>前=49 |<br />
+ 1年前=50 |<br />
+ 年=51 |<br />
+ 1年後=52 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>後=53 |<br />
+ 3年後=54 |<br />
+}}<br />
+<br />
+<br />
+== 他の紀年法 ==<br />
+<br />
+* 干支 : 辛亥<br />
+* 日本<br />
+** 垂仁天皇<a href="http://localhost/keyword/80%E5%B9%B4">80年</a><br />
+** 皇紀<a href="http://localhost/keyword/711%E5%B9%B4">711年</a><br />
+*中国<br />
+** 後漢 : 建武<a href="http://localhost/keyword/27%E5%B9%B4">27年</a><br />
+* 朝鮮<br />
+** 高句麗 : 慕本王<a href="http://localhost/keyword/4%E5%B9%B4">4年</a><br />
+** 新羅 : 儒理王2<a href="http://localhost/keyword/8%E5%B9%B4">8年</a><br />
+** 百済 : 多婁王<a href="http://localhost/keyword/24%E5%B9%B4">24年</a><br />
+** 檀紀2<a href="http://localhost/keyword/384%E5%B9%B4">384年</a><br />
+* 仏滅紀元 : <a href="http://localhost/keyword/594%E5%B9%B4">594年</a><br />
+* ユダヤ暦 : 3<a href="http://localhost/keyword/811%E5%B9%B4">811年</a> - 38<a href="http://localhost/keyword/12%E5%B9%B4">12年</a><br />
+<br />
+== できごと ==<br />
+*イベリア王子ラダミストゥスがアルメニア王を倒し、アルメニア王になる。<br />
+<br />
+== 誕生 ==<br />
+* 10月24日 - ドミティアヌス、第11代ローマ皇帝（* <a href="http://localhost/keyword/96%E5%B9%B4">96年</a>）<br />
+<br />
+== 死去 ==<br />
+<br />
+*<br />
+<br />
+als:50er#51<br />

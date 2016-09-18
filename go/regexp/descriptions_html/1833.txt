@@ -1,0 +1,33 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E6%81%92%E7%AD%89%E5%BC%8F">恒等式</a>&#39;（こうとうしき、）とは、等式すなわち等号 (=) を含む数式であって、そこに現れるあらゆる変数がどのような値にあっても、常に等号で結ばれた左右二つの数式の &#34;値&#34; が等しいもののことを言う。変数の動く範囲は、文脈によって異なる。<a href="http://localhost/keyword/%E6%81%92%E7%AD%89%E5%BC%8F">恒等式</a>であることを明示するとき、= の代わりに ≡ が使われる。<br />
+<br />
+重要な<a href="http://localhost/keyword/%E6%81%92%E7%AD%89%E5%BC%8F">恒等式</a>の中には、公式、定理、法則などと呼ばれて知られているものも多く存在する。オイラーの公式、三角関数の加法定理、指数法則などはその例である。<br />
+<br />
+== 例 ==<br />
+<br />
+* 次の式は実数 &#39;&#39;x&#39;&#39;, &#39;&#39;y&#39;&#39; について<a href="http://localhost/keyword/%E6%81%92%E7%AD%89%E5%BC%8F">恒等式</a>である。<br />
+:: x^2+2xy+y^2=(x+y)^2.<br />
+<br />
+* (1) が実変数 &#39;&#39;x&#39;&#39; について<a href="http://localhost/keyword/%E6%81%92%E7%AD%89%E5%BC%8F">恒等式</a>であるとき、(2) が成立する<br />
+:: ax^2+bx+c = 0 &amp;hellip; (1),<br />
+:: a=b=c=0 &amp;hellip; (2).<br />
+<br />
+* 三角関数は次のような<a href="http://localhost/keyword/%E6%81%92%E7%AD%89%E5%BC%8F">恒等式</a>で結ばれている。<br />
+::\\sin^2 x + \\cos^2 x = 1,<br />
+::\\tan x = \\sin x/\\cos x.<br />
+<br />
+* 1 = 1 はあらゆる変数に関する<a href="http://localhost/keyword/%E6%81%92%E7%AD%89%E5%BC%8F">恒等式</a>である。<br />
+<br />
+==関連項目==<br />
+<br />
+*恒真式<br />
+* 数式<br />
+* 等式<br />
+* 方程式<br />
+* 不等式<br />
+<br />
+==外部リンク==<br />
+* [http://encyclopedia-of-equation.webnode.jp/ <a href="http://localhost/keyword/%E6%81%92%E7%AD%89%E5%BC%8F">恒等式</a>の百科事典]<br />
+<br />
+こうとうしき<br />
+こうとうしき<br />

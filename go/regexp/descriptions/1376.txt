@@ -1,0 +1,7 @@
+description
+'QCD'
+* 量子色力学 (Quantum chromodynamics) の略。
+* 製造業におけるQuality, Cost, Delivery（品質、価格、納期）の略。生産技術を参照。
+* メディアプレーヤーソフト Quintessential Playerの略称
+
+

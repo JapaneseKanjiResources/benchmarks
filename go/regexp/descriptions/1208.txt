@@ -1,0 +1,15 @@
+description
+'PDA'
+
+* 略語
+** 携帯情報端末（Personal Digital Assistant）
+** 動脈管開存症（Patent Ductus Arteriosus）
+** 分電アセンブリ（Power Distribution Assembly）
+** 人口と地域開発協会（Population and Community Development Association）
+** プロパン脱瀝法（Propane Deasphalting Process）
+** プッシュダウン・オートマトン（Pushdown Automaton）
+** ポテトデキストロース寒天培地（Potato dextrose agar medium）
+** 公共での愛情の表現（Public Display of Affection） - 人前でイチャつく行為を指す。
+* ポジーリャ・アヴィアのICAOコード。
+
+

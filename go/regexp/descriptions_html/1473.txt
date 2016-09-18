@@ -1,0 +1,61 @@
+description<br />
+宇部線<br />
+|キロ程 = 2.8<br />
+|起点駅 = 新山口<br />
+|所在地 = 山口県山口市嘉川字野間5155<br />
+|緯度度 = 34|緯度分=4|緯度秒=25.3<br />
+|経度度 =131|経度分=22|経度秒=44.49<br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>（大正<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）3月26日<br />
+|廃止年月日 =<br />
+|乗車人員 = 53<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|乗換 =<br />
+|備考 = 無人駅<br />
+|備考全幅 =<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E4%B8%8A%E5%98%89%E5%B7%9D%E9%A7%85">上嘉川駅</a>&#39;（かみかがわえき）は、山口県山口市嘉川にある、西日本旅客鉄道（JR西日本）宇部線の駅。<br />
+<br />
+== 歴史 ==<br />
+* 19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>（大正<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>）3月26日 - 宇部鉄道の小郡駅（現・新山口駅） - 本阿知須駅（現・阿知須駅）間延伸により開業。<br />
+* 1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a>（昭和<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）5月1日 - 宇部鉄道国有化。国有鉄道宇部東線の駅となる。<br />
+* 1<a href="http://localhost/keyword/948%E5%B9%B4">948年</a>（昭和<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）2月1日 - 宇部東線は宇部線に改称され、当駅もその所属となる。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、西日本旅客鉄道の駅となる。<br />
+<br />
+== 駅構造 ==<br />
+プラットホーム<br />
+宇部新川方面に向かって右側に単式ホーム1面1線を持つ地上駅。山口地域鉄道部管理の無人駅で駅舎はなく、直接ホームに入る形になっている。自動券売機等の設備はない。<br />
+<br />
+== 駅周辺 ==<br />
+* 西日本旅客鉄道山陽本線 嘉川駅（南西約1km）<br />
+* 国道2号・国道9号小郡道路 大原IC<br />
+* 山口県道335号江崎陶線（旧国道2号・国道9号）<br />
+* 山口県道199号開作上嘉川停車場線<br />
+<br />
+== 利用状況 ==<br />
+1日の平均乗車人員は以下の通りである。<br />
+<br />
+<br />
+<br />
+== 隣の駅 ==<br />
+; 西日本旅客鉄道<br />
+: 宇部線<br />
+:: 新山口駅 - &#39;<a href="http://localhost/keyword/%E4%B8%8A%E5%98%89%E5%B7%9D%E9%A7%85">上嘉川駅</a>&#39; - 深溝駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.jr-odekake.net/eki/top.php?id=0802001 JR西日本（<a href="http://localhost/keyword/%E4%B8%8A%E5%98%89%E5%B7%9D%E9%A7%85">上嘉川駅</a>）]<br />
+<br />
+<br />
+<br />
+<br />
+Category:山口市の鉄道駅<br />
+みかかわ<br />
+Category:西日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:宇部鉄道<br />
+Category:19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>開業の鉄道駅<br />

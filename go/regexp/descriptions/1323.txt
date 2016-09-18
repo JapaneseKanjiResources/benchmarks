@@ -1,0 +1,126 @@
+description
+&lrm;, ''Arāmît''
+|pronunciation=
+|states=
+* アッシリア人のディアスポラ
+|speakers=約2,105,000人
+|familycolor=アフロ・アジア語族
+|fam1=アフロ・アジア語族
+|fam2=セム語派
+|fam3=
+|fam4=
+|script=アラム文字, シリア文字, ヘブライ文字, マンダ文字, アラビア文字 (日常語) デモティック[http://links.jstor.org/sici?sici=0003-0279(199104%2F06)111%3A2%3C362%3ATATIDS%3E2.0.CO%3B2-Y The Aramaic Text in Demotic Script: The Liturgy of a New Year's Festival Imported from Bethel to Syene by Exiles from Rash] – On JSTOR、漢字[http://links.jstor.org/sici?sici=0041-977X(1983)46%3A2%3C326%3AMAITCH%3E2.0.CO%3B2-4 Manichaean Aramaic in the Chinese Hymnscroll]の碑文が少数ながら見つかっている。
+|lc1=arc|ld1=公用アラム語 (700–300 BC)|ll1=none
+|lc2=oar|ld2=古アラム語 (-700 BC)|ll2=none
+|lc3=aii|ld3=アッシリア現代アラム語
+|lc4=aij|ld4=ノシャン語
+|lc5=amw|ld5=現代西アラム語
+|lc6=bhn|ld6=ボータン現代アラム語 
+|lc7=bjf|ld7=バルザニ・ユダヤ現代アラム語
+|lc8=cld|ld8=カルデア現代アラム語
+|lc9=hrt|ld9=ヘルテヴィン語
+|lc10=huy|ld10=ハラウラ語
+|lc11=jpa|ld11=パレスチナ・ユダヤ教徒アラム語
+|lc12=kqd|ld12=コイ・サンジャク・スラト 語
+|lc13=lhs|ld13=ムラハソー語
+|lc14=lsd|ld14=デニ語 
+|lc15=mid|ld15=マンダ語
+|lc16=myz|ld16=古典マンダ語
+|lc17=sam|ld17=サマリア・アラム語
+|lc18=syc|ld18=古典シリア語
+|lc19=syn|ld19=セナヤ語 
+|lc20=tmr|ld20=ユダヤ・バビロニア・アラム語
+|lc21=trg|ld21=ディダン語
+|lc22=tru|ld22=トゥロヨ語
+|lc23=xrm|ld23=Armazic(0–200 AD)|ll23=none
+}}
+
+
+'アラム語'（ܠܫܢܐ ܐܪܡܝܐ）は、かつてシリア地方、メソポタミアで紀元前500年から紀元600年頃に話され、現在もレバノンなどで話されるアフロ・アジア語族セム語派の言語で、系統的にはフェニキア語やヘブライ語、ウガリト語、などと同じに属す。
+
+アラム人によって話されて各地に広まり、アラム文字で書かれた。
+
+紀元前1000年前後にアラビア半島から出現したアラム人は、メソポタミア、シリア全域に浸透し、話者人口とその活動範囲を一挙に拡大した。続くアッシリア帝国、新バビロニア、アケメネス朝ペルシア帝国などの大帝国でもアラム語が使われ、国際共通語としての地位を確立し、アッシリア学の基礎となってる。近隣のセム語話者たちはその文章語、口語のアラム語化といった直接的な影響を受ける。
+
+「」やSefire stelesの研究からの解読が成功した。
+
+== 下位分類 ==
+アラム語は二つのグループに分けられる。
+* ''は、かつてアラビアのナバテア人、パルミラ人、パレスチナのキリスト教徒やアラム人ユダヤ教徒によって話された。イエスは西方アラム語の方言も話したと言われる。現在は、シリアのマアルーラ (Ma'loula) 村など三つの村で話される現代西方アラム語を除いてまったく消滅しているAFPBB News 2008年5月19日[http://www.afpbb.com/article/life-culture/culture-arts/2386061/2889664 【動画】キリストが話していた「アラム語」、21世紀に直面する消滅の危機]川又一英「アラム語を話す村マールーラ」、国立民族学博物館（監修）『季刊民族学』89号、1999年7月20日
+。
+* ''は、シリア語 (Syriac) やマンダ語 (Mandaic)、などを含む。現代アラム語の話者はキリスト教・ユダヤ教・マンダ教徒などがあり、シリア・イラク・イラン・トルコ・グルジア・アルメニアで話されているが、いずれの土地でも宗教的弾圧を受け、多くの話者が移住を余儀なくされている。アラム語を話すユダヤ教徒の一部は、現代のイスラエルとロサンゼルスへ移住したが、アラム語を話す能力を失いつつある。キリスト教の聖書のアラム語版はシリア語の方言であり、現代のキリスト教徒によって話される主な言語にアッシリア現代アラム語（少数民族アッシリア人（スリョイェ）によって話され、「アッシリア語」とも呼ばれる）、カルデア現代アラム語がある。これらと大きく異なる言語にトゥロヨ語や最近絶滅した Mlahsô 語（英語版）がある。
+
+== 注釈 ==
+
+
+== 参考文献 ==
+*古代語研究会、谷川政美 著 『ウガリト語入門』 キリスト新聞社 2003年
+*谷川政美 訳 『バアルの物語』 新風舎 1998年
+
+== 関連項目 ==
+*典礼言語
+*マンダ教、サービア教徒
+*十字架上のキリストの最後の7つの言葉
+*イエスが使った言語
+
+== 外部リンク ==
+
+*[http://www.learnassyrian.com/ Learn Assyrian Online] (英語)
+*[http://www.aina.org/aol/ Assyria Online] (英語)
+*[http://arabic.gooside.com/aramaic/ アラム語の頁]
+*[http://llmap.org/languages/arc.html LL-Map Imperial Aramaic]
+*[http://llmap.org/languages/oar.html LL-Map Old Aramaic]
+*[http://llmap.org/languages/aii.html LL-Map Sureth]
+*[http://llmap.org/languages/aij.html LL-Map Lishanid Noshan]
+*[http://llmap.org/languages/amw.html LL-Map Loghtha Siryanoytha]
+*[http://llmap.org/languages/bhn.html LL-Map Bohtan Neo-Aramaic]
+*[http://llmap.org/languages/bjf.html LL-Map Lishan Didan]
+*[http://llmap.org/languages/cld.html LL-Map Modern Chaldean]
+*[http://llmap.org/languages/hrt.html LL-Map Hértevin]
+*[http://llmap.org/languages/huy.html LL-Map Hulaulá]
+*[http://llmap.org/languages/jpa.html LL-Map Jewish Palestinian Aramaic]
+*[http://llmap.org/languages/kqd.html LL-Map Koy Sanjaq Soorit]
+*[http://llmap.org/languages/lhs.html LL-Map Mlaḥso]
+*[http://llmap.org/languages/lsd.html LL-Map Lishana Deni]
+*[http://llmap.org/languages/mid.html LL-Map Neo-Mandaic]
+*[http://llmap.org/languages/myz.html LL-Map Mandaic, Classical]
+*[http://llmap.org/languages/sam.html LL-Map Samaritan Aramaic]
+*[http://llmap.org/languages/syc.html LL-Map Suryaya]
+*[http://llmap.org/languages/syn.html LL-Map Senaya]
+*[http://llmap.org/languages/tmr.html LL-Map Jewish Babylonian Aramaic]
+*[http://llmap.org/languages/trg.html LL-Map Lishán Didán]
+*[http://llmap.org/languages/tru.html LL-Map Turoyo]
+*[http://llmap.org/languages/xrm.html LL-Map Armazic]
+*[http://multitree.org/codes/arc MultiTree Imperial Aramaic]（死語）
+*[http://multitree.org/codes/oar MultiTree Old Aramaic]（死語）
+*[http://multitree.org/codes/aii MultiTree Assyrian Neo-Aramaic] 219,330人
+*[http://multitree.org/codes/aij MultiTree Lishanid Noshan] 2,250人
+*[http://multitree.org/codes/amw MultiTree Western Neo-Aramaic] 15,000人
+*[http://multitree.org/codes/bhn MultiTree Bohtan Neo-Aramaic] 1,000人
+*[http://multitree.org/codes/bjf MultiTree Barzani Jewish Neo-Aramaic] 20人
+*[http://multitree.org/codes/cld MultiTree Chaldean Neo-Aramaic] 216,000人
+*[http://multitree.org/codes/hrt MultiTree Hértevin] 1,000人
+*[http://multitree.org/codes/huy MultiTree Hulaulá] 10,350人
+*[http://multitree.org/codes/jpa MultiTree Jewish Palestinian Aramaic]（死語）
+*[http://multitree.org/codes/kqd MultiTree Koy Sanjaq Surat] 900人
+*[http://multitree.org/codes/lhs MultiTree Mlahsö]（死語）
+*[http://multitree.org/codes/lsd MultiTree Lishana Deni] 7,500人
+*[http://multitree.org/codes/mid MultiTree Neo-Mandaic] 5,500人
+*[http://multitree.org/codes/myz MultiTree Mandaic]（死語）
+*[http://multitree.org/codes/sam MultiTree Samaritan Aramaic]（死語）
+*[http://multitree.org/codes/syc MultiTree Syriac]（死語）
+*[http://multitree.org/codes/syn MultiTree Senaya] 460人
+*[http://multitree.org/codes/tmr MultiTree Jewish Babylonian Aramaic]（死語）
+*[http://multitree.org/codes/trg MultiTree Lishán Didán] 4,450人
+*[http://multitree.org/codes/tru MultiTree Turoyo] 84,000人
+*[http://multitree.org/codes/xrm MultiTree Armazic]（死語）
+
+
+
+
+*
+Category:アラム語群
+Category:古代メソポタミア
+Category:聖書
+Category:ユダヤ諸語
+Category:シリアの歴史

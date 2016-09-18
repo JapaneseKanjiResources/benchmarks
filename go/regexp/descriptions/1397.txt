@@ -1,0 +1,45 @@
+description
+
+| ChemSpiderID = 5880
+| UNII_Ref = 
+| UNII = GMW67QNF9C
+| ChEMBL_Ref = 
+| ChEMBL = 291962
+| InChI = 1/C6H13NO2/c1-4(2)3-5(7)6(8)9/h4-5H,3,7H2,1-2H3,(H,8,9)/t5-/m0/s1
+| InChIKey = ROHFNLRQFUQHCH-YFKPBYRVBU
+| StdInChI_Ref = 
+| StdInChI = 1S/C6H13NO2/c1-4(2)3-5(7)6(8)9/h4-5H,3,7H2,1-2H3,(H,8,9)/t5-/m0/s1
+| StdInChIKey_Ref = 
+| StdInChIKey = ROHFNLRQFUQHCH-YFKPBYRVSA-N
+| CASNo = 61-90-5
+|  CASNo_Ref = 
+| PubChem = 6106
+| KEGG_Ref = 
+| KEGG = D00030
+| SMILES = CC(C)C[C@@H](C(=O)O)N
+}}
+| Section2 = 
+| Section3 = 
+}}
+
+'ロイシン' (leucine) は、アミノ酸の1種であり、側鎖に イソブチル基を持ため、疎水性アミノ酸に分類される。また、非極性側鎖アミノ酸で分枝鎖アミノ酸に分類される。略号は Leu あるいは L である。白色結晶となることから、ギリシャ語で『白い』を意味する "leuco" にちなみ命名された。英語式発音を片仮名転記すると「リューシーン」となる。
+
+タンパク質構成アミノ酸で、ヒトはロイシンを合成できないため、ヒトの必須アミノ酸の1つに数えられる。幼児では生長、成人では窒素平衡に必須である。ただし、遺伝子に異常がある場合、メープルシロップ尿症の原因になるアミノ酸の1つでもある。ケト原性を持つ。タンパク質の生成・分解を調整することによって筋肉の維持に関与する。なお、ロイシンは1つキラル中心を持っており天然型のロイシンは、S体のL-ロイシンであり、ヒトはこれを苦く感ずる。対して、天然にはほとんど見られないR体のD-ロイシンは、ヒトには甘く感じられる。
+
+== 出典 ==
+
+
+== 関連項目 ==
+* アミノ酸発酵
+* ロイシン発酵
+
+== 外部リンク ==
+* [http://hfnet.nih.go.jp/contents/indiv_agreement.html?633 ロイシン - 「健康食品」の安全性・有効性情報] （国立健康・栄養研究所）
+
+
+
+
+Category:タンパク質を構成するアミノ酸
+Category:必須アミノ酸
+Category:ケト原性アミノ酸
+Category:双性イオン

@@ -1,0 +1,55 @@
+description<br />
+山口線<br />
+|キロ程 = 89.6<br />
+|起点駅 = 新山口<br />
+|所在地 = 島根県益田市本俣賀町256<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>（昭和<a href="http://localhost/keyword/45%E5%B9%B4">45年</a>）4月1日*<br />
+|乗車人員 = 3<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|乗換 =<br />
+|備考 = 無人駅<br />
+|備考全幅 = * 仮乗降場として。1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日に正式な駅へ格上げ。<br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E6%9C%AC%E4%BF%A3%E8%B3%80%E9%A7%85">本俣賀駅</a>&#39;（ほんまたがえき）は、島根県益田市本俣賀町にある、西日本旅客鉄道（JR西日本）山口線の駅。<br />
+<br />
+隣の駅かつ山口線の終点である益田駅の場内信号機内方は米子支社浜田鉄道部の管轄になっているため、当駅が広島支社山口地域鉄道部が管轄する最北の駅となる。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>（昭和<a href="http://localhost/keyword/45%E5%B9%B4">45年</a>）4月1日 - 国鉄山口線の石見横田駅 - 益田駅間に、仮乗降場として設置。時刻表に掲載されなかった。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化にともない仮乗降場から駅に格上げ。西日本旅客鉄道の駅となる。<br />
+<br />
+== 駅構造 ==<br />
+益田方面に向かって右側に単式1面1線のホームを持つ地上駅（停留所）。前述のように山口地域鉄道部が管理する無人駅で駅舎はなく、ホーム上に待合室があるのみ。山口寄りの出入口から直接ホームに入る形である。自動券売機等の設備はない。<br />
+<br />
+== 駅周辺 ==<br />
+* 安富簡易郵便局<br />
+* 本俣賀川<br />
+<br />
+== 利用状況 ==<br />
+1日平均の乗車人員は3人である（20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>度）。200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>度は2人、1<a href="http://localhost/keyword/994%E5%B9%B4">994年</a>度は2人だった。<br />
+近年の1日平均乗車人員は以下の通りである。<br />
+<br />
+<br />
+== 隣の駅 ==<br />
+; 西日本旅客鉄道<br />
+: 山口線<br />
+:: 石見横田駅 - &#39;<a href="http://localhost/keyword/%E6%9C%AC%E4%BF%A3%E8%B3%80%E9%A7%85">本俣賀駅</a>&#39; - 益田駅<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+* <br />
+<br />
+<br />
+<br />
+<br />
+Category:島根県の鉄道駅<br />
+んまたか<br />
+Category:西日本旅客鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>開業の鉄道駅<br />
+ほんまたかえき<br />

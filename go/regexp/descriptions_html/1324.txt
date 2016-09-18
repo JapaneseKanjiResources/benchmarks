@@ -1,0 +1,25 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E5%86%99%E7%9C%9F%E6%A4%8D%E5%AD%97">写真植字</a>&#39;（しゃしんしょくじ、略称は&#39;写植&#39;、, ）は、<a href="http://localhost/keyword/%E5%86%99%E7%9C%9F%E6%A4%8D%E5%AD%97">写真植字</a>機を用いて文字などを印画紙やフィルムに印字して、写真製版用の版下などを作ること。また長らくテレビ放送用のテロップ用の版下としても使われた。<br />
+<br />
+活版印刷においては多くのサイズの活字が必要であったが、<a href="http://localhost/keyword/%E5%86%99%E7%9C%9F%E6%A4%8D%E5%AD%97">写真植字</a>では1個の文字ネガで足りる。オフセット印刷の普及とともに、<a href="http://localhost/keyword/%E5%86%99%E7%9C%9F%E6%A4%8D%E5%AD%97">写真植字</a>も急速に需要を拡大した。<a href="http://localhost/keyword/%E5%86%99%E7%9C%9F%E6%A4%8D%E5%AD%97">写真植字</a>のメリットとして、文字のネガをレンズで拡大または変形して印画紙に焼き付けるので、独特の柔らか味があり、DTPが普及した昨今でも、タイトル文字などに限って<a href="http://localhost/keyword/%E5%86%99%E7%9C%9F%E6%A4%8D%E5%AD%97">写真植字</a>を指定して使うケースが見られる。なお<a href="http://localhost/keyword/%E5%86%99%E7%9C%9F%E6%A4%8D%E5%AD%97">写真植字</a>の歴史は写研の歴史そのものと言ってよい。<br />
+<br />
+文字の大きさの単位をQ（または級）、文字の送り量の単位をH（または歯）とする。いずれも0.25mmを1とする。すなわち24Qといえば6mmの大きさの文字を意味する。<br />
+<br />
+[[写研の写植文字盤（サブプレート）]]<br />
+<br />
+== 関連項目 ==<br />
+* 印刷<br />
+* 出版<br />
+* 組版<br />
+* 写研（旧称：<a href="http://localhost/keyword/%E5%86%99%E7%9C%9F%E6%A4%8D%E5%AD%97">写真植字</a>機研究所）<br />
+* 活版<br />
+* 電算写植<br />
+* DTP<br />
+<br />
+== リンク ==<br />
+* [http://www.youtube.com/watch?v=o1XtiG0wvDg# インタビュー「<a href="http://localhost/keyword/%E5%86%99%E7%9C%9F%E6%A4%8D%E5%AD%97">写真植字</a>の時代」（ＤＴＰニュースvol.12）](YouTube)<br />
+<br />
+<br />
+<br />
+Category:印刷<br />
+<br />

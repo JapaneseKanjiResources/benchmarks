@@ -1,0 +1,65 @@
+description<br />
+北上線<br />
+|所在地 = 岩手県和賀郡西和賀町白木野67地割<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面1線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/948%E5%B9%B4">948年</a>（昭和<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）12月25日<br />
+|廃止年月日 =<br />
+|乗車人員 =<br />
+|乗降人員 =<br />
+|統計年度 =<br />
+|乗換 =<br />
+|備考 = 無人駅* 1<a href="http://localhost/keyword/991%E5%B9%B4">991年</a>に岩手湯田駅から改称。<br />
+}}<br />
+<br />
+<a href="http://localhost/keyword/%E3%82%86%E3%81%A0%E9%AB%98%E5%8E%9F%E9%A7%85">ゆだ高原駅</a>をホーム側から<br />
+&#39;<a href="http://localhost/keyword/%E3%82%86%E3%81%A0%E9%AB%98%E5%8E%9F%E9%A7%85">ゆだ高原駅</a>&#39;（ゆだこうげんえき）は、岩手県和賀郡西和賀町白木野にある、東日本旅客鉄道（JR東日本）北上線の駅である。北上駅管理の無人駅。<br />
+<br />
+起点の北上駅から当駅までの各駅の管轄は盛岡支社であり、当駅以西は秋田支社に変わる。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/948%E5%B9%B4">948年</a>（昭和<a href="http://localhost/keyword/23%E5%B9%B4">23年</a>）12月25日 - 国鉄横黒線&#39;岩手湯田駅&#39;として和賀郡湯田村に開業。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により東日本旅客鉄道の駅となる。<br />
+* 19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>（平成<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>） - 公民館兼用駅舎完成。<br />
+* 1<a href="http://localhost/keyword/991%E5%B9%B4">991年</a>（平成3年）6月20日 - &#39;<a href="http://localhost/keyword/%E3%82%86%E3%81%A0%E9%AB%98%E5%8E%9F%E9%A7%85">ゆだ高原駅</a>&#39;に改称。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線を有する地上駅である。<br />
+<br />
+左側が駅の入り口であり、待合室は公民館をかねて、図書も借りられる。駅舎の壁は絵画で装飾されている。<br />
+<br />
+== 駅周辺 ==<br />
+* 秋田自動車道・湯田IC<br />
+* 巣郷温泉<br />
+* 国道107号<br />
+* ゆだ高原簡易郵便局<br />
+* 中山牧場<br />
+* 西和賀町立越中畑小学校<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 北上線<br />
+:: ほっとゆだ駅 - &#39;<a href="http://localhost/keyword/%E3%82%86%E3%81%A0%E9%AB%98%E5%8E%9F%E9%A7%85">ゆだ高原駅</a>&#39; - 黒沢駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+* 日本の都道府県の東西南北端の駅の一覧<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* <br />
+<br />
+<br />
+<br />
+<br />
+Category:岩手県の鉄道駅<br />
+たこうけん<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+ゆたこうけんえき<br />
+ゆたこうけんえき<br />
+Category:1<a href="http://localhost/keyword/948%E5%B9%B4">948年</a>開業の鉄道駅<br />

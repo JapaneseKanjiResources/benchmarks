@@ -1,0 +1,52 @@
+description<br />
+<br />
+<br />
+<br />
+&#39;<a href="http://localhost/keyword/110">110</a>&#39;（&#39;百十&#39;、&#39;一一〇&#39;、&#39;壱百壱拾&#39;、ひゃくじゅう）は自然数、また整数において、109の次で111の前の数である。 <br />
+<br />
+== 性質 ==<br />
+* <a href="http://localhost/keyword/110">110</a> は合成数であり、約数は1,2,5,10,11,22,55と<a href="http://localhost/keyword/110">110</a>である。<br />
+**約数の和は216。<br />
+**約数の和が<a href="http://localhost/keyword/%E7%AB%8B%E6%96%B9%E6%95%B0">立方数</a>になる4番目の数である。1つ前は102、次は142。<br />
+* 8番目の楔数である。1つ前は105、次は114。<br />
+**楔数が3連続平方和になる最小の数である。次は434。<br />
+**楔数がハーシャッド数になる5番目の数である。1つ前は 102、次は 114。<br />
+* 10番目の矩形数 10×11 である。1つ前は90、次は132。<br />
+**<a href="http://localhost/keyword/110">110</a>=10+10。10の自然数乗の和と見たとき1つ前は10、次は1<a href="http://localhost/keyword/110">110</a>。<br />
+**<a href="http://localhost/keyword/110">110</a>=2+4+6+8+10+12+14+16+18+20<br />
+* <a href="http://localhost/keyword/110">110</a>2 + 1 = 12101 であり、&#39;&#39;n&#39;&#39;2 + 1 の形で素数を生む。<br />
+* <a href="http://localhost/keyword/110">110</a> = 52 + 62 + 72 、3つの連続した平方数の和として表せる。1つ前は77、次は149。<br />
+**3連続平方和がハーシャッド数になる2番目の数である。1つ前は50、次は770。<br />
+* 1/<a href="http://localhost/keyword/110">110</a> = 0.009…（下線部は循環節でその長さは2）<br />
+* 36番目のハーシャッド数である。1つ前は108、次は111。<br />
+** 2を基としたときの3番目のハーシャッド数である。1つ前は 20、次は 200 。<br />
+** <a href="http://localhost/keyword/110">110</a>, 111, 112 の3連続でハーシャッド数となる。<br />
+*約数の和が<a href="http://localhost/keyword/110">110</a>になる数は1個ある。(109) 約数の和1個で表せる27番目の数である。1つ前は102、次は112。<br />
+*各位の和が2となる5番目の数。1つ前は101、次は200。<br />
+*<a href="http://localhost/keyword/110">110</a>番目の素数：601<br />
+<br />
+== その他 <a href="http://localhost/keyword/110">110</a> に関連すること ==<br />
+* 西暦<a href="http://localhost/keyword/110%E5%B9%B4">110年</a><br />
+* <a href="http://localhost/keyword/%E9%83%B5%E4%BE%BF%E7%95%AA%E5%8F%B7">郵便番号</a><a href="http://localhost/keyword/110">110</a>は、東京都台東区の下谷地域（上野及び谷中を含む）を指す。<br />
+* 日本における、警察への緊急通報用電話番号（<a href="http://localhost/keyword/110">110</a>番）。正式名称「警察通報用電話」。これにちなんで1月10日は<a href="http://localhost/keyword/110">110</a>番の日とされる。またドイツや中国などでも警察への緊急通報用番号に割り当てられている。<br />
+* 『ダイヤル<a href="http://localhost/keyword/110">110</a>番』は、日本初の刑事ドラマである（日本テレビ放送網が1<a href="http://localhost/keyword/957%E5%B9%B4">957年</a>に制作した）。<br />
+* <a href="http://localhost/keyword/110">110</a>フィルムは写真フィルムの規格の1つ。一般に「ワンテン」と呼ばれる。1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>代に普及した小型カメラ向けのカートリッジ入りフィルム。<br />
+* <a href="http://localhost/keyword/110">110</a>メートルハードル（陸上競技）<br />
+* メッサーシュミット Bf<a href="http://localhost/keyword/110">110</a>はドイツの戦闘機。<br />
+* 第<a href="http://localhost/keyword/110">110</a>代天皇は後光明天皇。<br />
+* 第<a href="http://localhost/keyword/110">110</a>代ローマ教皇はステファヌス6世（在位：<a href="http://localhost/keyword/885%E5%B9%B4">885年</a>9月〜<a href="http://localhost/keyword/891%E5%B9%B4">891年</a>9月14日）である。<br />
+* クルアーンにおける第<a href="http://localhost/keyword/110">110</a>番目のスーラは援助である。<br />
+* <a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a><a href="http://localhost/keyword/110">110</a>の元素はダームスタチウム (Ds) 。<br />
+* 国鉄の蒸気機関車、<a href="http://localhost/keyword/110">110</a>形。<br />
+* 珍寿：<a href="http://localhost/keyword/110">110</a>歳のお祝い。その由来は、文字通り珍しい事から。<br />
+* TCP/IPでは受信メールサーバのプロトコルPOP3のポート番号。<br />
+* JR東日本の気動車:キハ<a href="http://localhost/keyword/110">110</a>系<br />
+* 空母信濃の母体となった大和型戦艦三番艦は、建造中は<a href="http://localhost/keyword/110">110</a>号艦と呼ばれていた。<br />
+<br />
+== 関連項目 ==<br />
+* 数の一覧<br />
+* 0 10 20 30 40 50 60 70 80 90 100<br />
+* 100 &#39;<a href="http://localhost/keyword/110">110</a>&#39; 120 130 140 150 160 170 180 190<br />
+* 100 200 300 400 500 600 700 800 900<br />
+* 10 100 1000 10000 100000 1000000 10000000 100000000<br />
+* 名数一覧<br />

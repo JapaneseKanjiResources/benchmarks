@@ -1,0 +1,163 @@
+description<br />
+}<br />
+| name          = 立山線<br />
+| image         = <a href="http://localhost/keyword/%E5%AF%8C%E5%B1%B1%E5%9C%B0%E6%96%B9%E9%89%84%E9%81%93%E7%AB%8B%E5%B1%B1%E7%B7%9A">富山地方鉄道立山線</a> 車両.jpg<br />
+| image_width   = 300px<br />
+| image_alt     = 立山線の列車<br />
+| caption       = 立山線の列車<br />
+| start         = 起点：寺田駅<br />
+| end           = 終点：立山駅<br />
+| stations      = 14駅<br />
+| event1label   = 立山鉄道開業<br />
+| event1        = <br />
+| event2label   = 富山県営鉄道開業<br />
+| event2        = <br />
+| lastextension = <br />
+| owner         = 立山鉄道＋富山県営鉄道→富山電気鉄道＋富山県営鉄道→富山地方鉄道→富山地方鉄道＋富山開発鉄道→富山地方鉄道<br />
+| linelength_km = 24.2<br />
+| gauge         = <br />
+| el            = 直流1,500 V,  架空電車線方式<br />
+| speed         = 最高70km/h<br />
+| website       = [http://www.chitetsu.co.jp/?page_id=18887 鉄道 - 駅情報]<br />
+| map           = 300px<br />
+}}<br />
+}<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+|}<br />
+|}<br />
+&#39;立山線&#39;（たてやません）は、富山県中新川郡立山町の寺田駅と立山駅とを結ぶ富山地方鉄道の鉄道路線である。<br />
+<br />
+== 路線データ ==<br />
+* 路線距離（営業キロ）：24.2km<br />
+* 軌間：1067mm<br />
+* 駅数：14駅（起終点駅含む）<br />
+* 複線区間：なし（全線単線）<br />
+* 電化区間：全線（直流1500V）<br />
+* 閉塞方式：自動閉塞式<br />
+* 最高速度：70km/h<br />
+<br />
+== 歴史 ==<br />
+=== 寺田駅 - <a href="http://localhost/keyword/%E5%B2%A9%E5%B3%85%E5%AF%BA%E9%A7%85">岩峅寺駅</a>間 ===<br />
+後に立山線となる路線で、最初に開業したのは、滑川駅 - 五百石駅間の路線を持っていた&#39;立山鉄道&#39;が、富山県営鉄道の建設に合わせて1<a href="http://localhost/keyword/921%E5%B9%B4">921年</a>（大正<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>）に開業させた、五百石駅 - 立山駅（現在の<a href="http://localhost/keyword/%E5%B2%A9%E5%B3%85%E5%AF%BA%E9%A7%85">岩峅寺駅</a>付近。現在の立山駅とは別）間である。立山鉄道の路線は、軌間762mmの軽便鉄道であった。<br />
+<br />
+寺田駅 - 五百石駅間は、本線の富山田地方駅（電鉄富山 - 稲荷町間。19<a href="http://localhost/keyword/69%E5%B9%B4">69年</a>廃止） - 上市口駅（現在の上市駅）間とともに&#39;富山電気鉄道&#39;の第一期事業として工事が始められた。その間の1<a href="http://localhost/keyword/931%E5%B9%B4">931年</a>（昭和<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）に、富山電気鉄道は立山鉄道を合併した。現在の立山線の区間にあたる五百石駅 - 立山駅は1067mmに改軌、電化された。1<a href="http://localhost/keyword/936%E5%B9%B4">936年</a>（昭和<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）には、立山駅を廃止して富山県営鉄道<a href="http://localhost/keyword/%E5%B2%A9%E5%B3%85%E5%AF%BA%E9%A7%85">岩峅寺駅</a>に乗り入れした。<br />
+<br />
+* 1<a href="http://localhost/keyword/913%E5%B9%B4">913年</a>（大正<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）6月25日 &#39;立山軽便鉄道&#39;が現在の本線にあたる滑川駅 - 五百石駅間を開業[ 「軽便鉄道運輸開始」『官報』1<a href="http://localhost/keyword/913%E5%B9%B4">913年</a>7月2日]（国立国会図書館デジタルコレクション）。軌間762mm。<br />
+* 1<a href="http://localhost/keyword/917%E5%B9%B4">917年</a>（大正<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）6月25日 立山軽便鉄道が&#39;立山鉄道&#39;に改称。<br />
+* 1<a href="http://localhost/keyword/921%E5%B9%B4">921年</a>（大正<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>）3月19日 五百石駅 - 立山駅（現在の<a href="http://localhost/keyword/%E5%B2%A9%E5%B3%85%E5%AF%BA%E9%A7%85">岩峅寺駅</a>付近。現在の立山駅とは別）間が開業[ 「地方鉄道運輸開始並停車場位置変更」『官報』1<a href="http://localhost/keyword/921%E5%B9%B4">921年</a>3月24日]（国立国会図書館デジタルコレクション）。<br />
+* 1<a href="http://localhost/keyword/921%E5%B9%B4">921年</a>（大正<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>） - 1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>（大正<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）頃 沢駅を沢中山駅に改称『日本鉄道旅行地図帳 6号 北信越』p.38。<br />
+* 1<a href="http://localhost/keyword/931%E5%B9%B4">931年</a>（昭和<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）<br />
+** 4月6日 立山鉄道が&#39;富山電気鉄道&#39;に合併される[ 『鉄道統計資料. 昭和<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>度』]（国立国会図書館デジタルコレクション）。<br />
+** 10月1日 <a href="http://localhost/keyword/%E6%B5%A6%E7%94%B0%E9%A7%85">浦田駅</a>を稚子塚駅に改称。<br />
+** 8月15日 寺田駅 - 五百石駅間が開業[ 「地方鉄道運輸開始」『官報』1<a href="http://localhost/keyword/931%E5%B9%B4">931年</a>8月26日]（国立国会図書館デジタルコレクション）。軌間1067mm、1500V電化。旧立山鉄道の寺田駅を沢端駅に改称。<br />
+* 1<a href="http://localhost/keyword/932%E5%B9%B4">932年</a>（昭和<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）12月22日 上市口駅（現在の上市駅） - 五百石駅間廃止12月17日許可[ 「鉄道営業廃止許可」『官報』1<a href="http://localhost/keyword/932%E5%B9%B4">932年</a>12月22日]（国立国会図書館デジタルコレクション）。<br />
+* 1<a href="http://localhost/keyword/936%E5%B9%B4">936年</a>（昭和<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）<br />
+** 8月18日 五百石駅 - <a href="http://localhost/keyword/%E5%B2%A9%E5%B3%85%E5%AF%BA%E9%A7%85">岩峅寺駅</a>が1067mmに改軌、1500V電化。立山駅を廃止して富山県営鉄道<a href="http://localhost/keyword/%E5%B2%A9%E5%B3%85%E5%AF%BA%E9%A7%85">岩峅寺駅</a>に乗り入れ開始。<br />
+** 12月26日 下段駅開業。<br />
+* 1<a href="http://localhost/keyword/942%E5%B9%B4">942年</a>（昭和<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）10月31日 稚子塚駅廃止。<br />
+<br />
+=== <a href="http://localhost/keyword/%E5%B2%A9%E5%B3%85%E5%AF%BA%E9%A7%85">岩峅寺駅</a> - 粟巣野駅間 ===<br />
+[[<a href="http://localhost/keyword/%E5%B2%A9%E5%B3%85%E5%AF%BA%E9%A7%85">岩峅寺駅</a>-横江駅間の踏切より<a href="http://localhost/keyword/%E5%B2%A9%E5%B3%85%E5%AF%BA%E9%A7%85">岩峅寺駅</a>方向を撮影]]<br />
+<a href="http://localhost/keyword/%E5%B2%A9%E5%B3%85%E5%AF%BA%E9%A7%85">岩峅寺駅</a> - 粟巣野駅（<a href="http://localhost/keyword/%E6%9C%AC%E5%AE%AE%E9%A7%85">本宮駅</a> - 立山駅間。1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a>廃止）間は、&#39;富山県営鉄道&#39;が常願寺川の治水と電源開発のために敷設したものである。1<a href="http://localhost/keyword/921%E5%B9%B4">921年</a>（大正<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>）に南富山駅 - 上滝駅間が開業したのに始まり、1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>（大正<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）には千垣駅まで延長され、1<a href="http://localhost/keyword/927%E5%B9%B4">927年</a>（昭和<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）には電化された。千垣駅から先は当初は常願寺川右岸を通り、藤橋（立山駅の対岸）に至るルートで計画されていたが、有峰ダムの建設が決まったことから、現在の常願寺川左岸を通るルートに変更された『にっぽん列島鉄道紀行 No.13 黒部峡谷鉄道・富山地方鉄道・アルペンルート』13ページ。1<a href="http://localhost/keyword/937%E5%B9%B4">937年</a>（昭和<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）に粟巣野駅まで延長された。1<a href="http://localhost/keyword/942%E5%B9%B4">942年</a>（昭和<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）に千垣駅 - 粟巣野駅間は県営電力事業とともに日本発送電に譲渡されたが、運営は引き続き県が行った。1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a>（昭和<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）の交通大統合により、県営鉄道・日本発送電の鉄道ともに富山地方鉄道に譲渡された。<br />
+<br />
+粟巣野駅 - 千寿ヶ原駅（現在の立山駅）間は、&#39;立山開発鉄道&#39;（200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>（平成<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）に立山黒部貫光に合併）によって1<a href="http://localhost/keyword/955%E5%B9%B4">955年</a>（昭和<a href="http://localhost/keyword/30%E5%B9%B4">30年</a>）に開業し、1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>（昭和<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）に富山地方鉄道に譲渡された。<br />
+<br />
+* 1<a href="http://localhost/keyword/921%E5%B9%B4">921年</a>（大正<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>）<br />
+** 4月25日 現在の上滝線にあたる南富山駅 - 上滝駅間が開業[ 「地方鉄道運輸開始」『官報』1<a href="http://localhost/keyword/921%E5%B9%B4">921年</a>4月29日]（国立国会図書館デジタルコレクション）。<br />
+** 8月20日 上滝駅 - <a href="http://localhost/keyword/%E5%B2%A9%E5%B3%85%E5%AF%BA%E9%A7%85">岩峅寺駅</a>が開業[ 「地方鉄道運輸開始」『官報』1<a href="http://localhost/keyword/921%E5%B9%B4">921年</a>8月26日]（国立国会図書館デジタルコレクション）。<br />
+** 10月11日 <a href="http://localhost/keyword/%E5%B2%A9%E5%B3%85%E5%AF%BA%E9%A7%85">岩峅寺駅</a> - 横江駅（後の上横江駅・1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>廃止）間が開業[ 「地方鉄道運輸開始」『官報』1<a href="http://localhost/keyword/921%E5%B9%B4">921年</a>10月18日]（国立国会図書館デジタルコレクション）。<br />
+* 1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>（大正<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）4月20日 横江駅 - 千垣駅が開業[ 「地方鉄道運輸開始」『官報』1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>4月25日]（国立国会図書館デジタルコレクション）。<br />
+* 1<a href="http://localhost/keyword/927%E5%B9%B4">927年</a>（昭和<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）6月10日 全線600V電化[ 『地方鉄道及軌道一覧 : 附・専用鉄道. 昭和<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>4月1日現在』]（国立国会図書館デジタルコレクション）。<br />
+* 1<a href="http://localhost/keyword/931%E5%B9%B4">931年</a>（昭和<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>）5月15日 尖山駅（現在の横江駅）開業。<br />
+* 1<a href="http://localhost/keyword/937%E5%B9%B4">937年</a>（昭和<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）<br />
+** 6月20日 全線の架線電圧を1500Vに昇圧。<br />
+** 10月1日 千垣 - 粟巣野駅が開業[ 「地方鉄道運輸開始」『官報』1<a href="http://localhost/keyword/937%E5%B9%B4">937年</a>10月13日]（国立国会図書館デジタルコレクション）。<br />
+* 1<a href="http://localhost/keyword/942%E5%B9%B4">942年</a>（昭和<a href="http://localhost/keyword/17%E5%B9%B4">17年</a>）6月1日 千垣駅 - 粟巣野駅間を日本発送電に譲渡5月28日許可[ 「鉄道譲渡許可」『官報』1<a href="http://localhost/keyword/942%E5%B9%B4">942年</a>7月14日]（国立国会図書館デジタルコレクション）。<br />
+* 1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a>（昭和<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）1月1日 県営鉄道・日本発送電の鉄道ともに&#39;富山地方鉄道&#39;に譲渡1<a href="http://localhost/keyword/942%E5%B9%B4">942年</a>12月22日許可[ 「鉄道譲渡」、「鉄道及鉄道敷設権譲渡」『官報』1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a>1月9日]（国立国会図書館デジタルコレクション）。稲荷町駅 - 粟巣野駅間が&#39;立山線&#39;、寺田駅 - <a href="http://localhost/keyword/%E5%B2%A9%E5%B3%85%E5%AF%BA%E9%A7%85">岩峅寺駅</a>間が&#39;五百石線&#39;となる。<br />
+<br />
+=== 富山地方鉄道に合併後 ===<br />
+* 1<a href="http://localhost/keyword/943%E5%B9%B4">943年</a>（昭和<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）6月20日 立山線（富南線）稲荷町 - 南富山間が電化され、立山線と直通運転開始。<br />
+* 1<a href="http://localhost/keyword/946%E5%B9%B4">946年</a>（昭和<a href="http://localhost/keyword/21%E5%B9%B4">21年</a>）<br />
+**6月1日 本線（富南線）電鉄富山駅 - 稲荷町駅間のうち非電化だった旧富南鉄道線の軌道が電化され、南富山駅経由で電鉄富山駅 - 粟巣野駅間の直通運転開始。<br />
+**同年以降 稚子塚駅開業。<br />
+* 1<a href="http://localhost/keyword/954%E5%B9%B4">954年</a>（昭和<a href="http://localhost/keyword/29%E5%B9%B4">29年</a>）4月1日 小見駅（現在の有峰口駅） - 粟巣野駅間が&#39;立山開発鉄道&#39;に譲渡。<br />
+* 1<a href="http://localhost/keyword/955%E5%B9%B4">955年</a>（昭和<a href="http://localhost/keyword/30%E5%B9%B4">30年</a>）7月1日 粟巣野駅 - 千寿ヶ原駅（現在の立山駅）間が開業。<br />
+* 1<a href="http://localhost/keyword/959%E5%B9%B4">959年</a>（昭和<a href="http://localhost/keyword/34%E5%B9%B4">34年</a>）1月1日 五百石駅を立山町駅（現在の五百石駅）に改称。<br />
+* 1<a href="http://localhost/keyword/962%E5%B9%B4">962年</a>（昭和<a href="http://localhost/keyword/37%E5%B9%B4">37年</a>）4月1日 小見駅 - 粟巣野駅 - 千寿ヶ原駅が富山地方鉄道に譲渡。<br />
+* 1<a href="http://localhost/keyword/965%E5%B9%B4">965年</a>（昭和40年）4月15日 尖山駅を横江駅に、横江駅を上横江駅に改称。<br />
+* 19<a href="http://localhost/keyword/69%E5%B9%B4">69年</a>（昭和<a href="http://localhost/keyword/44%E5%B9%B4">44年</a>）4月1日 路線名変更。五百石線が立山線に編入され、立山線稲荷町駅 - 南富山駅間を不二越線、南富山駅 - <a href="http://localhost/keyword/%E5%B2%A9%E5%B3%85%E5%AF%BA%E9%A7%85">岩峅寺駅</a>間を上滝線として分離。寺田駅 - 千寿ヶ原駅間が立山線になる。電鉄富山駅 - 立山駅間の列車を上滝経由から寺田経由に変更。<br />
+* 1<a href="http://localhost/keyword/970%E5%B9%B4">970年</a>（昭和<a href="http://localhost/keyword/45%E5%B9%B4">45年</a>）7月1日 立山町駅を五百石駅に、小見駅を有峰口駅に、千寿ヶ原駅を立山駅に改称。<br />
+* 19<a href="http://localhost/keyword/76%E5%B9%B4">76年</a>（昭和<a href="http://localhost/keyword/51%E5%B9%B4">51年</a>）7月8日 CTC化。<br />
+* 1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a>（昭和<a href="http://localhost/keyword/56%E5%B9%B4">56年</a>）5月22日 有峰口駅 - 立山駅間の粟巣野駅廃止。<br />
+* 1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>（平成<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）4月1日 横江駅 - 千垣駅間の上横江駅廃止。ワンマン運転開始。<br />
+<br />
+== 運行形態 ==<br />
+普通列車と急行、快速急行、特急「立山」のほか、宇奈月温泉駅 - 立山駅間の「アルペン特急」が運行される。アルペン特急をのぞく全列車が電鉄富山駅発着で、電鉄富山駅 - 寺田駅間は本線に乗り入れる。<br />
+<br />
+アルペン特急は平日1往復、土休日2往復が設定されているが、本線の特急「うなづき」とは違いゴールデンウィークや夏休みなどの行楽シーズンに合わせた不定期運転列車になっている。立山線内の途中停車駅はない。<br />
+<br />
+特急「立山」は立山黒部アルペンルートの開設期間のみ運行される特急列車であり、朝に下り1本が設定されている。20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>12月26日のダイヤ改正で新設された（実際の運行開始は20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>4月16日）。かつても同じ停車駅で特急が運行されており、電鉄富山駅の停車駅案内では廃止後も特急の案内が残されていた。<br />
+<br />
+快速急行は早朝に下り1本のみ設定されている。この列車は20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>12月26日のダイヤ改正で急行から快速急行に格上げされた。急行時代と停車駅は同じである。<br />
+<br />
+急行は平日1往復、土休日1.5往復が設定され、上り1本は立山黒部アルペンルートの開設期間に合わせて、平日の下り1本は夏季限定で運転される不定期列車である。<br />
+<br />
+運転パターンは電鉄富山駅 - 立山駅間の全線を走る列車が約60分おき（深夜をのぞく）に設定されているほか、電鉄富山駅 - <a href="http://localhost/keyword/%E5%B2%A9%E5%B3%85%E5%AF%BA%E9%A7%85">岩峅寺駅</a>間の区間列車が多数設定されている。電鉄富山駅からは不二越・上滝線経由の岩峅寺行きも発着しているため、列車の方向幕や電鉄富山駅の行先案内板の備考欄には立山線系統の岩峅寺行きは「寺田経由」、不二越・上滝線系統の岩峅寺行きには「南富山経由」と付加されている。<br />
+<br />
+以前は国鉄・JR西日本や名鉄から特急・急行列車が乗り入れていたが、名鉄は1<a href="http://localhost/keyword/983%E5%B9%B4">983年</a>、JR西日本は19<a href="http://localhost/keyword/99%E5%B9%B4">99年</a>頃を最後に乗り入れがなくなっている。<br />
+<br />
+== 車窓 ==<br />
+寺田駅から<a href="http://localhost/keyword/%E5%B2%A9%E5%B3%85%E5%AF%BA%E9%A7%85">岩峅寺駅</a>にかけては郊外および田園風景が広がる中を走る。<a href="http://localhost/keyword/%E5%B2%A9%E5%B3%85%E5%AF%BA%E9%A7%85">岩峅寺駅</a>から先は山岳鉄道の様相を呈し、森に囲まれた急坂を立山駅に向けて登っていく。<br />
+立山駅に近づくと常願寺川の渓流が望め、千垣駅 - 有峰口駅間と立山駅西側の2つの橋では観光のために徐行運転が行われることがあり、橋上からの景色を眺めることができる。<br />
+<br />
+== 駅一覧 ==<br />
+* 全線富山県内に所在<br />
+* 線路（全線単線） … ◇：列車交換可、｜：列車交換不可<br />
+* ●はすべて停車、▲は一部停車、｜、↓は通過。↓は片方向のみ運転。<br />
+* 普通列車は各駅に停車。<br />
+<br />
+<br />
+=== 廃駅 ===<br />
+* 上横江駅（横江駅 - 千垣駅間、1<a href="http://localhost/keyword/921%E5%B9%B4">921年</a>（大正<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>）10月11日開業、1<a href="http://localhost/keyword/997%E5%B9%B4">997年</a>（平成<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>）4月1日廃止）<br />
+* 芦峅寺駅（<a href="http://localhost/keyword/%E6%9C%AC%E5%AE%AE%E9%A7%85">本宮駅</a> - 粟巣野駅間、1<a href="http://localhost/keyword/937%E5%B9%B4">937年</a>（昭和<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）10月1日開業、1<a href="http://localhost/keyword/953%E5%B9%B4">953年</a>（昭和2<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>） - 1<a href="http://localhost/keyword/957%E5%B9%B4">957年</a>（昭和3<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）頃廃止）<br />
+* 粟巣野駅（<a href="http://localhost/keyword/%E6%9C%AC%E5%AE%AE%E9%A7%85">本宮駅</a> - 立山駅間、1<a href="http://localhost/keyword/937%E5%B9%B4">937年</a>（昭和<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）10月1日開業、1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a>（昭和<a href="http://localhost/keyword/56%E5%B9%B4">56年</a>）5月22日廃止）<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道路線一覧<br />
+<br />
+<br />
+<br />
+たてやません<br />
+たてやません<br />

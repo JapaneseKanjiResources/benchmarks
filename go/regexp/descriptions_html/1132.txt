@@ -1,0 +1,12 @@
+description<br />
+&#39;<a href="http://localhost/keyword/PHP">PHP</a>&#39;<br />
+* <a href="http://localhost/keyword/PHP">PHP</a>: Hypertext Preprocessor - Webページ作成のために用いられるプログラミング言語の一種。<br />
+* <a href="http://localhost/keyword/PHP">PHP</a>研究所 - 松下幸之助によって創設された出版社・民間シンクタンク。<br />
+** <a href="http://localhost/keyword/PHP">PHP</a>新書 - <a href="http://localhost/keyword/PHP">PHP</a>研究所が刊行する新書。<br />
+** <a href="http://localhost/keyword/PHP">PHP</a> (雑誌) - <a href="http://localhost/keyword/PHP">PHP</a>研究所が発行する雑誌。<br />
+** <a href="http://localhost/keyword/PHP">PHP</a>文庫 - <a href="http://localhost/keyword/PHP">PHP</a>研究所が発行する文庫。<br />
+* Personal Handy Phone - PHSの旧名称。<br />
+* フィリピンの通貨、フィリピン・ペソのISO 4217コード。<br />
+* 鳩の巣原理: Pidgeon Hole Principle - n+1羽の鳩をn個の巣に入れたとき2羽以上入る巣が存在するという数学の理論。<br />
+* Preferential Handling Procedure - 少数輸入自動車のために特別に設けられた認証制度。 <br />
+<br />

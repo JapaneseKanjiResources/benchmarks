@@ -1,0 +1,5 @@
+description
+*正規表現 (regular expression) の別名
+*数学の表現論における正則表現 (regular representation)
+
+

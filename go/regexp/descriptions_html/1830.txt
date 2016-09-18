@@ -1,0 +1,85 @@
+description<br />
+&#39;<br />
+|建国時期 = 1<a href="http://localhost/keyword/949%E5%B9%B4">949年</a><br />
+|亡国時期 = 1<a href="http://localhost/keyword/955%E5%B9%B4">955年</a><br />
+|先代1 = フランス領インドシナ<br />
+|先旗1 = Flag of Colonial Vietnam.svg<br />
+|先代2 = コーチシナ共和国<br />
+|先旗2 = Flag of Republic of Cochinchina.svg<br />
+|次代1 = ベトナム共和国<br />
+|次旗1 = Flag of South Vietnam.svg<br />
+|国旗画像 = Flag of South Vietnam.svg<br />
+|国旗リンク = <br />
+|国旗説明 = <br />
+|国旗幅 = <br />
+|国旗縁 = <br />
+|国章画像 = Coat_of_Arms_of_South_Vietnam_(1954_-_1955).svg<br />
+|国章リンク = <br />
+|国章説明 = <br />
+|国章幅 = <br />
+|標語 = <br />
+|国歌名 = 青年行曲<br />
+|国歌追記 = <br />
+|位置画像 = LocationofVietnam.png<br />
+|位置画像説明 = <a href="http://localhost/keyword/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E5%9B%BD">ベトナム国</a>はベトナム全土の領有権を主張したが、北部はベトナム民主共和国が実効支配しており、1<a href="http://localhost/keyword/954%E5%B9%B4">954年</a>のジュネーヴ協定でベトナムは北緯17度線を境に分断された<br />
+|公用語 = ベトナム語<br />
+|首都 = サイゴン<br />
+|元首等肩書 = 国長<br />
+|元首等年代始1 = 1<a href="http://localhost/keyword/949%E5%B9%B4">949年</a><br />
+|元首等年代終1 = 1<a href="http://localhost/keyword/955%E5%B9%B4">955年</a><br />
+|元首等氏名1 = バオ・ダイ<br />
+|首相等肩書 = 首相<br />
+|首相等年代始1 = 1<a href="http://localhost/keyword/949%E5%B9%B4">949年</a><br />
+|首相等年代終1 = 1<a href="http://localhost/keyword/950%E5%B9%B4">950年</a><br />
+|首相等氏名1 = バオ・ダイ<br />
+|首相等年代始2 = 1<a href="http://localhost/keyword/954%E5%B9%B4">954年</a><br />
+|首相等年代終2 = 1<a href="http://localhost/keyword/955%E5%B9%B4">955年</a><br />
+|首相等氏名2 = ゴ・ディン・ジエム<br />
+|面積測定時期1 = 1<a href="http://localhost/keyword/955%E5%B9%B4">955年</a><br />
+|面積値1 = 173,809<br />
+|人口測定時期1 = <br />
+|人口値1 = <br />
+|変遷1 = フランスより独立<br />
+|変遷年月日1 = 1<a href="http://localhost/keyword/949%E5%B9%B4">949年</a>6月14日<br />
+|変遷2 = ジュネーヴ協定締結<br />
+|変遷年月日2 = 1<a href="http://localhost/keyword/954%E5%B9%B4">954年</a>7月21日<br />
+|変遷3 = 消滅<br />
+|変遷年月日3 = 1<a href="http://localhost/keyword/955%E5%B9%B4">955年</a>10月26日<br />
+|通貨 = フランス領インドシナ・ピアストル<br />
+|時間帯 = <br />
+|夏時間 = <br />
+|時間帯追記 = <br />
+|ccTLD = <br />
+|ccTLD追記 = <br />
+|国際電話番号 = <br />
+|国際電話番号追記 = <br />
+|注記 = <br />
+}}<br />
+&#39;<a href="http://localhost/keyword/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E5%9B%BD">ベトナム国</a>&#39;（ベトナムこく、）は、1<a href="http://localhost/keyword/949%E5%B9%B4">949年</a>から1<a href="http://localhost/keyword/955%E5%B9%B4">955年</a>までベトナムに存在した国家。フランスの傀儡国家であり、阮朝の最後の皇帝であったバオ・ダイ（保大帝）を元首とし、ベトナムの正統な国家としてベトナム民主共和国に対抗した。そのため、&#39;バオ・ダイ政権&#39;と呼称されることもあるが、最終的にはゴ・ディン・ジエム（）が<a href="http://localhost/keyword/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E5%9B%BD">ベトナム国</a>を掌握し、ベトナム共和国の成立とともに消滅した。<br />
+<br />
+国家元首の称号は「国長（ベトナム語: Quốc trưởng／國長）」であった。<br />
+<br />
+== 歴史 ==<br />
+第二次世界大戦以前より、インドシナにおける反仏独立運動は、様々な形で展開されていたがコミンテルンの指示をうけていたインドシナ共産党の指導下で八月革命が勃発し、各地で共産勢力による権力争奪闘争が引き起こされていた。しかし連合国によるインドシナ処理はすでに決まっていて北から中華民国軍、南からイギリス軍が経由してフランスに再び引き継ぐ取り決めになっていた。フランスはベトミン政権を「フランス連合」の一員として認める合意に達していたが日増しに双方の関係は悪化し、フランスは、独立を目指すベトナム民主共和国との全面的な戦争（<a href="http://localhost/keyword/%E3%82%A4%E3%83%B3%E3%83%89%E3%82%B7%E3%83%8A%E6%88%A6%E4%BA%89">インドシナ戦争</a>）に直面し、それが長期化する状況に置かれていた。そのため、事態改善のためにベトナム民主共和国のホー・チ・ミン（胡志明）の代わりとなるベトナム人の交渉相手を求め、最終的に香港に亡命していた阮朝最後の皇帝バオ・ダイを、<a href="http://localhost/keyword/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E5%9B%BD">ベトナム国</a>の元首として擁立することとした。このバオ・ダイ首班の<a href="http://localhost/keyword/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E5%9B%BD">ベトナム国</a>建国の動きは、ベトナム労働党主導のベトナム民主共和国に反感を持つ反共知識人や反共民族主義者、阮朝時代の官人や南部ベトナムの諸宗教団体などから支持を得ることとなり、1<a href="http://localhost/keyword/948%E5%B9%B4">948年</a>にベトナムの諸勢力とフランスが折衝した結果、同年5月27日に暫定政府として&#39;ベトナム臨時中央政府&#39;が成立し、さらには、フランス議会とコーチシナ共和国議会が、自治を前提としてコーチシナ共和国のベトナム臨時中央政府への編入を決議した。その後、バオ・ダイは1<a href="http://localhost/keyword/949%E5%B9%B4">949年</a>3月にフランス・ベトナム協定を締結し、同年6月14日に正式な<a href="http://localhost/keyword/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E5%9B%BD">ベトナム国</a>が成立し、ベトナムは、<a href="http://localhost/keyword/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E5%9B%BD">ベトナム国</a>によって全土が形式的に統一されることとなった（ただし<a href="http://localhost/keyword/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E5%9B%BD">ベトナム国</a>は南部しか実効支配していない）。しかしそれは、ベトナムがベトナム民主共和国と<a href="http://localhost/keyword/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E5%9B%BD">ベトナム国</a>という二つの正統な国家に分裂されることを意味していた。<br />
+<br />
+その後、1<a href="http://localhost/keyword/954%E5%B9%B4">954年</a>のジュネーヴ協定によってベトナムが南北に分割されてからは北緯17度線の南側を統治する国家となったが、同時にフランスというバオ・ダイの後ろ盾もベトナムから撤収したため、1<a href="http://localhost/keyword/955%E5%B9%B4">955年</a>にバオ・ダイは元首の座をゴ・ディン・ジエムに取って代わられ、同年のうちに<a href="http://localhost/keyword/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E5%9B%BD">ベトナム国</a>は消滅し、代わってベトナム共和国が成立した。<br />
+<br />
+以降ベトナムは1<a href="http://localhost/keyword/975%E5%B9%B4">975年</a>まで分断国家の状態が続いた。<br />
+<br />
+== 関連項目 ==<br />
+* 南ベトナム<br />
+* ベトナムの歴史<br />
+* ベトナム戦争<br />
+<br />
+== 外部リンク ==<br />
+* [http://www.geocities.co.jp/SilkRoad-Lake/2917/syometsu/cochinchina.html 消滅した国々-コーチシナ共和国]<br />
+* [http://www.geocities.co.jp/SilkRoad-Lake/2917/syometsu/vietnamnam.html 消滅した国々-南ベトナム]<br />
+<br />
+<br />
+<br />
+Category:南ベトナム<br />
+Category:かつて存在したアジアの国家<br />
+Category:フランスの歴史的地域<br />
+Category:1<a href="http://localhost/keyword/949%E5%B9%B4">949年</a>に成立した国家・領域<br />
+Category:1<a href="http://localhost/keyword/955%E5%B9%B4">955年</a>に廃止された国家・領域<br />
+<br />

@@ -1,0 +1,46 @@
+description
+
+|left= ウンビトリウム
+|right= ウンビペンチウム
+|above= (Ac)
+|below= (Usq)
+|series= 超アクチノイド元素
+|group= ?
+|period= 8
+|block= g
+|appearance= 
+|atomic mass= [ - ]
+|electron configuration= &#91;Uuo&#93; 5g4 8s2
+|electrons per shell= 2, 8, 18, 32, 36, 18, 8, 2
+|color= 
+|phase= 
+|oxidation states= 
+|electronegativity= 
+|number of ionization energies= 
+|1st ionization energy= 
+|2nd ionization energy= 
+|3rd ionization energy= 
+|atomic radius= 
+|covalent radius= 
+|Van der Waals radius= 
+|CAS number= 
+|isotopes= 
+|isotopes comment=
+}}
+
+'ウンビクアジウム' (Unbiquadium) は、原子番号124にあたる未発見の超重元素に付けられた一時的な仮名（元素の系統名）。
+
+== 歴史 ==
+2006年、フランス国立重イオン加速器研究所の研究チームが、ウランに天然ゲルマニウムを照射する新手法で複数同位体の半減期研究を試みている[http://hal.archives-ouvertes.fr/docs/00/12/91/31/PDF/WAPHE06_EPJ_preprint1.pdf Direct experimental evidence for very long fission times of super-heavy elements]HAL（フランスのオープンアーカイブ）。
+
+
+== 参考資料 ==
+
+
+== 関連項目 ==
+* 未発見元素の一覧
+
+
+
+Category:元素
+Category:原子核物理学

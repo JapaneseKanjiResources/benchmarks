@@ -1,0 +1,23 @@
+description
+'Fedora Project'（フェドラ・プロジェクト、フィドーラ・プロジェクト、フェドーラ・プロジェクト）とは、Linuxのディストリビューションの一つであるFedoraを開発するためのコミュニティである。
+
+== 由来 ==
+もともとRed Hat Linux Projectと、Fedora Linux Projectが合流したプロジェクトであるため、Red Hat Linuxの流れを受け継ぐ。Red Hat Linux 10の開発中に、Fedora Linux Projectと合流し、レッドハットをスポンサーとしつつも、レッドハットとは独立した組織として立ち上げられた。2003年11月5日にFedora Projectとして最初のリリースとしてFedora Core 1が公開された。これをもしRed Hat Linuxのバージョンで例えれば、Red Hat Linux 10に相当する。 以後、Fedora Projectは、Red Hat Linuxの後継ディストリビューションの一つに当たる「Fedora」の開発にあたり、いっぽうRed Hat社自体の事業は企業向けのRed Hat Enterprise Linuxの開発に専念することになった。
+
+== スポンサー ==
+レッドハット社が後援している。
+
+== 関連項目 ==
+
+* Fedora
+* Red Hat Linux
+* Fedora Legacy
+
+== 関連サイト ==
+* https://getfedora.org/ja/ (Fedoraダウンロード公式サイト、日本語版) 
+
+
+
+Category:Linux
+Category:オープンソース
+Category:非営利組織

@@ -1,0 +1,133 @@
+description<br />
+<br />
+|駅構造    = 地上駅<br />
+|ホーム    = 2面3線<br />
+|開業年月日= 1<a href="http://localhost/keyword/891%E5%B9%B4">891年</a>（明治<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）3月18日<br />
+|廃止年月日= <br />
+|乗車人員  = 1,361<br />
+|乗降人員  = <br />
+|統計年度  = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|所属路線  =  山陽本線<br />
+|前の駅    = 吉永<br />
+|駅間A    = 5.3<br />
+|駅間B    = 4.6<br />
+|次の駅    = 熊山<br />
+|駅番号    =<br />
+|キロ程    = 114.8<br />
+|起点駅    = 神戸<br />
+|乗換      = <br />
+|備考      = 直営駅みどりの窓口 有<br />
+|備考全幅  = * 1<a href="http://localhost/keyword/991%E5%B9%B4">991年</a>まで同和鉱業片上鉄道も乗り入れていた。<br />
+}}<br />
+ホーム<br />
+片上鉄道<a href="http://localhost/keyword/%E5%92%8C%E6%B0%97%E9%A7%85">和気駅</a> ホーム1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a>（昭和<a href="http://localhost/keyword/56%E5%B9%B4">56年</a>）頃<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E5%92%8C%E6%B0%97%E9%A7%85">和気駅</a>&#39;（わけえき）は、岡山県和気郡和気町福富にある、西日本旅客鉄道（JR西日本）山陽本線の駅である。<br />
+<br />
+== 概要 ==<br />
+駅構内には、運転取り扱い業務に携わるJR西日本岡山支社管内の社員の訓練を行う「実設訓練センター」がある。岡山方面からの普通列車の半数近くが当駅で折り返しとなる。当駅から先、相生・姫路方面へ向かう列車は1時間あたり1本となる。なお、相生・姫路方面だけでなく、三石・吉永方面も含めると、1時間あたり2本の時間帯もある。<br />
+<br />
+1<a href="http://localhost/keyword/991%E5%B9%B4">991年</a>までは、同和鉱業片上鉄道との接続駅であった。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/891%E5%B9%B4">891年</a>（明治<a href="http://localhost/keyword/24%E5%B9%B4">24年</a>）3月18日 - 山陽鉄道 三石駅 - 岡山駅間の開通と同時に開業『JR全駅ものしりガイド』185頁。<br />
+* 1<a href="http://localhost/keyword/906%E5%B9%B4">906年</a>（明治<a href="http://localhost/keyword/39%E5%B9%B4">39年</a>）12月1日 - 山陽鉄道の国有化により国有鉄道の駅となる。<br />
+* 1<a href="http://localhost/keyword/909%E5%B9%B4">909年</a>（明治<a href="http://localhost/keyword/42%E5%B9%B4">42年</a>）10月12日 - 線路名称制定。山陽本線の所属となる。<br />
+* 1<a href="http://localhost/keyword/923%E5%B9%B4">923年</a>（大正<a href="http://localhost/keyword/12%E5%B9%B4">12年</a>）1月1日 - 片上鉄道（後の同和鉱業片上鉄道）の駅が開業。<br />
+* 1<a href="http://localhost/keyword/971%E5%B9%B4">971年</a>（昭和<a href="http://localhost/keyword/46%E5%B9%B4">46年</a>）8月15日 - 貨物の取扱を廃止。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、山陽本線の駅は西日本旅客鉄道（JR西日本）の駅となる。<br />
+* 1<a href="http://localhost/keyword/991%E5%B9%B4">991年</a>（平成3年）7月1日 - 同和鉱業片上鉄道が廃止。<br />
+* 200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）6月15日 - ICOCA対応簡易型自動改札機導入。同年9月1日よりICOCAが利用可能となる。<br />
+<br />
+== 駅構造 ==<br />
+単式ホーム1面1線と島式ホーム1面2線、合計2面3線のホームを持つ地上駅。駅舎は1番のりば側にあり、島式の2・3番のりばへは跨線橋で連絡している。通常は1・3番のりばのみが使用され、2番のりばは当駅折返し列車や、当駅で特急を待避する列車が使用する。<br />
+<br />
+かつては片上鉄道の島式ホームがさらに1面あった。同線の廃止後はほとんどの施設が撤去され、現在はJR西日本社員の訓練に使われる踏切や信号機付きの線路2線が整備されており、実際の車両を使った訓練が1ヶ月に1回程度行われている。<br />
+<br />
+直営駅で、東岡山駅の管理下にあり、地区駅として位置付けられている。<br />
+<br />
+200<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（平成<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>）夏にICOCA対応の自動改札機が当駅から南岩国駅まで導入され、同年9月1日より利用可能となった。ただし、当駅以東ではICOCAの利用ができない（京阪神地区の利用エリアである相生駅以東に行くこともできない）。なお、当駅の自動改札機は集札機能のない簡易タイプであるため、降車客の<a href="http://localhost/keyword/%E4%B9%97%E8%BB%8A%E5%88%B8">乗車券</a>は駅係員が集札する（窓口非営業時は改札機裏側の集札箱に<a href="http://localhost/keyword/%E4%B9%97%E8%BB%8A%E5%88%B8">乗車券</a>を投入する）。改札外にICOCA入金機設置。<br />
+<br />
+便所は、改札外・改札内ともに男女別の水洗式便所がある。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+上り本線は1番のりば、下り本線は3番のりばであり、2番のりばは上下共用の待避線（中線）である。<br />
+<br />
+2番のりばから姫路方面へ発車する<a href="http://localhost/keyword/%E6%97%85%E5%AE%A2%E5%88%97%E8%BB%8A">旅客列車</a>は200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>3月改正まで設定されていなかったが、20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>（平成<a href="http://localhost/keyword/27%E5%B9%B4">27年</a>）3月14日改正時点では、当駅で「スーパーいなば」を待避する上り列車が17時台に設定されており、当該列車が2番のりばを使用する。<br />
+<br />
+朝5時台に、当駅始発で広島駅まで直通する普通列車が1本だけある。（岡山駅から回送）<br />
+<br />
+== 利用状況 ==<br />
+1日の平均乗車人員は以下の通りである出典：岡山県統計年報。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+* 公共機関<br />
+** 和気町役場<br />
+** 岡山県備前県民局東備地域事務所<br />
+** 備前警察署<a href="http://localhost/keyword/%E5%92%8C%E6%B0%97%E9%A7%85">和気駅</a>前交番<br />
+** 和気公共職業安定所<br />
+** 和気労働基準監督署<br />
+<br />
+* 金融機関<br />
+** 和気郵便局<br />
+** 本荘郵便局<br />
+** 中国銀行和気支店<br />
+** <a href="http://localhost/keyword/%E3%83%88%E3%83%9E%E3%83%88%E9%8A%80%E8%A1%8C">トマト銀行</a>和気支店<br />
+<br />
+* 商業施設<br />
+** ハピーマート和気店<br />
+** ザ・ビッグ和気店<br />
+** 百菜市場和気店<br />
+** ほっかほっか亭和気町店<br />
+** うどんむらさき和気店<br />
+** ザグザグ和気店<br />
+<br />
+* 交通・運輸<br />
+** 国道374号<br />
+** 岡山県道・兵庫県道96号岡山赤穂線<br />
+** 岡山県道181号和気停車場線<br />
+** 岡山県道703号備前柵原自転車道線（片鉄ロマン街道）<br />
+** 日生運輸（備前バス）<br />
+*** <a href="http://localhost/keyword/%E5%92%8C%E6%B0%97%E9%A7%85">和気駅</a>前・富士見橋バス停<br />
+*** 備前市（片上）方面／和気町（矢田）・赤磐市（周匝）方面<br />
+<br />
+* その他<br />
+** 和気神社（町名の由来となった和気清麻呂が祀ってある）隣接地に和気町藤公園<br />
+** 岡山県立和気閑谷高等学校<br />
+** 和気鵜飼谷温泉<br />
+<br />
+== 隣の駅 ==<br />
+; 西日本旅客鉄道<br />
+:  山陽本線<br />
+:: 吉永駅 - &#39;<a href="http://localhost/keyword/%E5%92%8C%E6%B0%97%E9%A7%85">和気駅</a>&#39; - 熊山駅<br />
+<br />
+=== かつて存在した路線 ===<br />
+; 同和鉱業<br />
+: 片上鉄道<br />
+:: 中山駅 - &#39;<a href="http://localhost/keyword/%E5%92%8C%E6%B0%97%E9%A7%85">和気駅</a>&#39; - 本<a href="http://localhost/keyword/%E5%92%8C%E6%B0%97%E9%A7%85">和気駅</a><br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連記事 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.jr-odekake.net/eki/top.php?id=0650603 <a href="http://localhost/keyword/%E5%92%8C%E6%B0%97%E9%A7%85">和気駅</a>（JR西日本）]<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:岡山県の鉄道駅<br />
+け<br />
+Category:西日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:山陽鉄道<br />
+Category:同和鉱業片上鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/891%E5%B9%B4">891年</a>開業の鉄道駅<br />
+わけえき<br />

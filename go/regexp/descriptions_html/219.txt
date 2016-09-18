@@ -1,0 +1,48 @@
+description<br />
+ |<br />
+ 世紀=1 |<br />
+ 次世紀=2 |<br />
+<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=20 |<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=30 |<br />
+ <a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀=40 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=50 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=60 |<br />
+<br />
+ 3年前=46 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>前=47 |<br />
+ 1年前=48 |<br />
+ 年=49 |<br />
+ 1年後=50 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>後=51 |<br />
+ 3年後=52 |<br />
+}}<br />
+<br />
+<br />
+== 他の紀年法 ==<br />
+<br />
+* 干支 : 己酉<br />
+* 日本<br />
+** 垂仁天皇<a href="http://localhost/keyword/78%E5%B9%B4">78年</a><br />
+** 皇紀<a href="http://localhost/keyword/709%E5%B9%B4">709年</a><br />
+*中国<br />
+** 後漢 : 建武<a href="http://localhost/keyword/25%E5%B9%B4">25年</a><br />
+* 朝鮮<br />
+** 高句麗 : 慕本王<a href="http://localhost/keyword/2%E5%B9%B4">2年</a><br />
+** 新羅 : 儒理王<a href="http://localhost/keyword/26%E5%B9%B4">26年</a><br />
+** 百済 : 多婁王<a href="http://localhost/keyword/22%E5%B9%B4">22年</a><br />
+** 檀紀2<a href="http://localhost/keyword/382%E5%B9%B4">382年</a><br />
+* 仏滅紀元 : <a href="http://localhost/keyword/592%E5%B9%B4">592年</a><br />
+* ユダヤ暦 : 3<a href="http://localhost/keyword/809%E5%B9%B4">809年</a> - 38<a href="http://localhost/keyword/10%E5%B9%B4">10年</a><br />
+<br />
+== できごと ==<br />
+* 小アグリッピナがローマ皇帝クラウディウスと結婚<br />
+<br />
+== 誕生 ==<br />
+<br />
+== 死去 ==<br />
+*馬援 - 後漢の武将（* <a href="http://localhost/keyword/%E7%B4%80%E5%85%83%E5%89%8D14%E5%B9%B4">紀元前14年</a>）<br />
+<br />
+*<br />
+<br />
+als:40er#49<br />

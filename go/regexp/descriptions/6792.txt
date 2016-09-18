@@ -1,0 +1,41 @@
+description
+
+
+'アスチュート級原子力潜水艦'（アスチュートきゅうげんしりょくせんすいかん、Astute class submarine）は、イギリス海軍の最新型の攻撃型原子力潜水艦である。
+
+== 概要 ==
+本艦級は、当初スウィフトシュア級原子力潜水艦を代替するために建造されたものであったが、計画が遅れたためスウィフトシュア級は先に退役し、トラファルガー級原子力潜水艦を代替する予定である。
+
+1番艦は2010年に就役した。
+
+== 特徴 ==
+本艦級は潜水艦戦闘システム(SMCS,submarine combat system)を発展させたアステュート戦闘管理システム(ACMS,astute combat management system)を搭載してセンサーからの情報を複合的に活用できる。また、各種ミサイルと魚雷を有し、対潜任務、対艦任務、対地任務のいずれにも対応できる能力を有するとされる。ヴァンガード級原子力潜水艦の支援任務にも利用される予定。
+
+同艦の制御系統には商用オフザシェルフが多用され、市販品と同じ光ファイバーやCPUが使われている。
+
+== 同型艦 ==
+
+
+== 登場作品 ==
+; 『ザ・ラストシップ』
+: シーズン2第5話より、架空のアスチュート級原子力潜水艦「アキレス」が登場。主人公たちが乗る架空のアーレイ・バーク級駆逐艦「ネイサン・ジェームズ」と戦闘を繰り広げる。
+
+==脚注==
+
+
+== 関連項目 ==
+
+*イギリス海軍艦艇一覧
+
+== 外部リンク ==
+* [http://www.royal-navy.mod.uk/server/show/nav.2550 Royal Navy official site]
+* [http://www.bbc.co.uk/cumbria/content/image_galleries/astute_launch_08062007_gallery.shtml Photos from the roll out / launch (BBC)]
+* [http://www.thisislondon.co.uk/news/article-23399926-details/Britain+launches+nuclear+sub+that+can+hear+a+ship+from+across+the+Atlantic/article.do ThisIsLondon article "Britain launches massive submarine that can hear a ship from across the Atlantic"] (June 8th, 2007)
+* [http://navy-matters.beedall.com/astute.htm Navy Matters - Astute Class]
+* [http://www.ships-net.co.jp/detl/200709/069-071.html 世界の艦船2007年9月号]
+
+
+
+
++あすちゆときゆうけんしりよくせんすいかん
+Category:原子力潜水艦

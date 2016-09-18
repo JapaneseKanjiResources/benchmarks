@@ -1,0 +1,62 @@
+description<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E6%B5%B7%E6%B4%8B%E5%AD%A6">海洋学</a>&#39;（かいようがく、英語：oceanography）は自然科学の一分野であり、海洋を研究する学問である。地球を対象とした地球科学の一分野として、海棲生物やプレートテクトニクス、海流などの海洋の諸現象・変動を様々な自然科学的側面からとらえる。海洋のどの性質を主に解析するかによって、海洋物理学・海洋化学・生物<a href="http://localhost/keyword/%E6%B5%B7%E6%B4%8B%E5%AD%A6">海洋学</a>（海洋生物学）・海洋地質学などの主要分野に分けられる。<br />
+<br />
+== 主要分野 ==<br />
+*海洋化学 : 海水の化学的性質やその分布・変動を研究対象とした学問。地球化学の一分野でもある。<br />
+*生物<a href="http://localhost/keyword/%E6%B5%B7%E6%B4%8B%E5%AD%A6">海洋学</a>（海洋生物学） : 海棲生物（動植物プランクトン、魚類等）の生態などを研究対象とした学問。水産<a href="http://localhost/keyword/%E6%B5%B7%E6%B4%8B%E5%AD%A6">海洋学</a>との関連も深い。<br />
+*海洋地質学 : プレートテクトニクスなど海洋底の地質学的性質や変動を研究対象とした学問。<br />
+*海洋物理学 : 海洋の物理的な性質や変動（海流、潮汐など）を研究対象とした学問。地球物理学の一分野でもあり、海面を通して接している大気との相互作用が重視されるため気象学との関連も深い。地球温暖化のような気候変動現象の解析にも関わっている。<br />
+<br />
+== 研究手法 ==<br />
+=== 海洋観測 ===<br />
+海洋を実際に観測する方法として、研究船を用いたもの、商船などの篤志観測船(Voluntary Observing Ship: VOS)によるもの、漂流/定点ブイによるもの、リモートセンシング衛星によるもの（衛星<a href="http://localhost/keyword/%E6%B5%B7%E6%B4%8B%E5%AD%A6">海洋学</a>）などが挙げられる。<br />
+<br />
+研究船による海洋観測では、対象とする海域に設けた観測点において、CTDによる水温、塩分の鉛直プロファイルの観測を行うとともに、CTDとともにフレームに取り付けた溶存酸素計、蛍光光度計、流速計、濁度計の同時観測、採水器による深さごとの採水、現場法、疑似現場法による基礎生産力の測定、様々なネットや採水法によるプランクトンやネクトン、ベントスの採集などが行われる。<br />
+<br />
+=== 数値シミュレーション ===<br />
+海洋の物理的な性質に関する数値解析（シミュレーション）は気象学におけるそれとほぼ同じくらいの歴史を持っており、近年では地球シミュレータの完成などにより、残された課題はまだあるものの現実に近い海流分布の再現なども可能になっている。近年では海洋の化学・生物学的な要素も数値シミュレーションに組み込もうという試みが進んでいる。<br />
+<br />
+== <a href="http://localhost/keyword/%E6%B5%B7%E6%B4%8B%E5%AD%A6">海洋学</a>史 ==<br />
+海洋についての研究は早くギリシア時代から行われていたが、科学としての形をとるほどにはならなかった。19世紀になって航海の安全を図るため、船員が海上の気象や、海水温、海流などの観測を行って、航海日誌に書き入れ航海の参考とするようになった。1<a href="http://localhost/keyword/872%E5%B9%B4">872年</a>から1<a href="http://localhost/keyword/876%E5%B9%B4">876年</a>にかけて、チャ<a href="http://localhost/keyword/%E3%83%AC%E3%83%B3%E3%82%B8">レンジ</a>ャー号による海洋観測が行われ（チャ<a href="http://localhost/keyword/%E3%83%AC%E3%83%B3%E3%82%B8">レンジ</a>ャー号探検航海）、これによって<a href="http://localhost/keyword/%E6%B5%B7%E6%B4%8B%E5%AD%A6">海洋学</a>は初めて学問としての形を整えた。1<a href="http://localhost/keyword/893%E5%B9%B4">893年</a>から1<a href="http://localhost/keyword/896%E5%B9%B4">896年</a>にはナンセンによる北極探検が行われ、その観測結果よりエクマンが吹走流理論を確立した。海洋研究が盛んになるにつれて、これらの研究を国際的に共同に行う必要が生まれて1<a href="http://localhost/keyword/900%E5%B9%B4">900年</a>国際海洋開発委員会がコペンハーゲンを本部として設立される。その後各国による南極観測、探検が盛んとなるが、第一次世界大戦中は戦争に加わらなかったノルウェー以外のほとんどの国では海洋観測はとまってしまった。戦後、ドイツの観測船メテオール、アメリカのカーネギー号、アトランティス号、ノーチラス号が各所で観測を行う。第二次世界大戦中は海洋研究は主に軍事上の立場から行われていた。とくに潜水艦作戦のための海中音波の伝播など水中の音響関係の研究が著しく発展した。<br />
+<br />
+=== 日本 ===<br />
+日本の海洋研究はイギリス、フランスなどに比べおよそ一世紀遅れて、18<a href="http://localhost/keyword/70%E5%B9%B4">70年</a>に初めて海軍で水路作業が実施され、翌年に水路部が創設され、海洋観測が始まった。やがて先進国の事業を取り入れて次第に盛んとなり、太平洋の西半分の南北に渡る大掛かりな観測を行うようになった。19<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>には音響測深を取り入れた。日本をめぐる海流の様子を、はっきりとさせるため1<a href="http://localhost/keyword/883%E5%B9%B4">883年</a>中央気象台の和田雄治が初めて海流瓶を流して、日本のまわりの海流を明らかにして、親潮、黒潮の様子がはっきりした。その後和田は1<a href="http://localhost/keyword/913%E5%B9%B4">913年</a> - 1<a href="http://localhost/keyword/917%E5%B9%B4">917年</a>にかけてさらに大規模な調査を行い、その結果は1<a href="http://localhost/keyword/922%E5%B9%B4">922年</a>に「日本環海海流調査業績」として出版された。水産関係では1<a href="http://localhost/keyword/893%E5%B9%B4">893年</a>水産調査所が新設され、まもなく廃止されたが水産局の中に水産調査課ができて、岸上鎌吉、北原多作、岡村金太郎らがいろいろな仕事をした。1<a href="http://localhost/keyword/920%E5%B9%B4">920年</a>に岡田武松を台長として神戸海洋気象台が創設され、航海者、漁業者、気象関係者のために海洋研究を行い、物理学的、生物学的な海洋研究が始まった。1<a href="http://localhost/keyword/929%E5%B9%B4">929年</a>には農林省に水産試験場ができた。1<a href="http://localhost/keyword/932%E5%B9%B4">932年</a>から数年にわたって宇田道隆などの指導によって、全国都道府県の水産試験場と協力して、数十隻の調査船により同時に海洋の一斉調査を行った。この当時の日本の海洋観測量は世界的なものであった。1<a href="http://localhost/keyword/941%E5%B9%B4">941年</a>に日本<a href="http://localhost/keyword/%E6%B5%B7%E6%B4%8B%E5%AD%A6">海洋学</a>会ができ、終戦後は海軍水路部は運輸省に移った。<br />
+<br />
+== 関連項目 ==<br />
+* 海 - 大洋<br />
+* 海流 - 暖流と寒流<br />
+* 海洋気象学会<br />
+* 海洋調査技術学会<br />
+* 潮汐<br />
+* コリオリの力<br />
+* メタンハイドレート<br />
+* 津波<br />
+* <a href="http://localhost/keyword/%E6%B0%B4%E7%94%A3%E5%AD%A6">水産学</a><br />
+* 生物地球化学<br />
+* <a href="http://localhost/keyword/%E6%B5%B7%E6%B4%8B%E5%AD%A6">海洋学</a>部<br />
+<br />
+== 外部リンク ==<br />
+<br />
+;学会<br />
+* [http://www.kaiyo-gakkai.jp/main/ 日本<a href="http://localhost/keyword/%E6%B5%B7%E6%B4%8B%E5%AD%A6">海洋学</a>会]<br />
+* [http://www.jsfo.jp/ 水産<a href="http://localhost/keyword/%E6%B5%B7%E6%B4%8B%E5%AD%A6">海洋学</a>会]<br />
+<br />
+;学会誌<br />
+* [Oceanography and Marine Biology]<br />
+* [http://aslo.org/lo/toc/index.html Limnology and Oceanography]<br />
+* [http://www.agu.org/journals/pa/ Paleoceanography]<br />
+* [http://www.sciencedirect.com/science/journal/03044203 Marine Chemistry]<br />
+* [http://www.sciencedirect.com/science/journal/00796611 Progress in Oceanography]<br />
+* [http://www.ametsoc.org/pubs/journals/jpo/index.html Journal of Physical Oceanography]<br />
+* [http://www.sciencedirect.com/science/journal/09670637 Deep Sea Research Part I]<br />
+* [http://www.terrapub.co.jp/journals/JO/index.html Journal of Oceanography]<br />
+<br />
+;その他<br />
+* [http://www.h5.dion.ne.jp/~komori-n/seaography/ 海理学のディレクトリ] - <a href="http://localhost/keyword/%E6%B5%B7%E6%B4%8B%E5%AD%A6">海洋学</a>関連の公募情報、大学・研究機関、プロジェクト等のリンク集<br />
+<br />
+<br />
+<br />
+<br />
+*<br />
+Category:地球科学<br />

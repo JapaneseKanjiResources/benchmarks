@@ -1,0 +1,42 @@
+description<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E3%83%A1%E3%83%88%E3%83%B3%E5%91%A8%E6%9C%9F">メトン周期</a>&#39;（）とはある日付での月相が一致する周期の1つである。19太陽年は235<a href="http://localhost/keyword/%E6%9C%94%E6%9C%9B%E6%9C%88">朔望月</a>にほぼ等しいという周期のこと。<br />
+<br />
+<a href="http://localhost/keyword/%E7%B4%80%E5%85%83%E5%89%8D433%E5%B9%B4">紀元前433年</a>、アテナイの数学者・メトンが発見したのでこの名がある。中国では、<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>を1章と呼ぶことから&#39;章法&#39;（しょうほう）と呼ばれた（独自に発見したとも、東漸したとも言われる）。<br />
+<br />
+== 特徴 ==<br />
+この周期は、太陰太陽暦で閏月を入れる回数を求めるのに用いられた。19太陽年は日×19=日、235<a href="http://localhost/keyword/%E6%9C%94%E6%9C%9B%E6%9C%88">朔望月</a>は日×235=日でほぼ等しくなっている。12か月×<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>=228か月であるので、<a href="http://localhost/keyword/%E3%83%A1%E3%83%88%E3%83%B3%E5%91%A8%E6%9C%9F">メトン周期</a>に従うと<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>間に7回の閏月を入れれば太陽年とのずれが解消されることになる。ただし19太陽年と235<a href="http://localhost/keyword/%E6%9C%94%E6%9C%9B%E6%9C%88">朔望月</a>とは完全に一致しているのではなく、19太陽年につき約日ずれている。この微小な差が蓄積され、219太陽年が経過すると、ほぼ1日ずれることになる。このため時々改暦を行い、ずれを修正する必要があった。<br />
+<br />
+メトンは1太陽年を365日ちょうどとし19太陽年=235<a href="http://localhost/keyword/%E6%9C%94%E6%9C%9B%E6%9C%88">朔望月</a>=日として計算しているので、のちにカリポスやヒッパルコスによって修正された。<br />
+<br />
+== <a href="http://localhost/keyword/%E3%83%A1%E3%83%88%E3%83%B3%E5%91%A8%E6%9C%9F">メトン周期</a>の修正 ==<br />
+=== カリポス周期 ===<br />
+キュジコスの天文学者・カリポス（紀元前<a href="http://localhost/keyword/370%E5%B9%B4">370年</a>? - 紀元前<a href="http://localhost/keyword/300%E5%B9%B4">300年</a>?）は<a href="http://localhost/keyword/%E3%83%A1%E3%83%88%E3%83%B3%E5%91%A8%E6%9C%9F">メトン周期</a>を修正して、1太陽年を365.25日として計算した。つまり<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>すると日となり、これを4倍した<a href="http://localhost/keyword/76%E5%B9%B4">76年</a>は日となり<a href="http://localhost/keyword/%E3%83%A1%E3%83%88%E3%83%B3%E5%91%A8%E6%9C%9F">メトン周期</a>より1日減ることになる。235月を4倍した940月を日とした（1<a href="http://localhost/keyword/%E6%9C%94%E6%9C%9B%E6%9C%88">朔望月</a>は日となる）。この76太陽年=940<a href="http://localhost/keyword/%E6%9C%94%E6%9C%9B%E6%9C%88">朔望月</a>=日のカリポス周期（Callipic cycle）は紀元前<a href="http://localhost/keyword/330%E5%B9%B4">330年</a>に採用された。中国では四分暦に採用され、<a href="http://localhost/keyword/76%E5%B9%B4">76年</a>を1蔀とよばれている。<br />
+<br />
+=== ヒッパルコス周期 ===<br />
+ニカイアのヒッパルコス（紀元前<a href="http://localhost/keyword/190%E5%B9%B4">190年</a>? - 紀元前<a href="http://localhost/keyword/120%E5%B9%B4">120年</a>?）はカリポス周期をさらに4倍して1日引き、<a href="http://localhost/keyword/304%E5%B9%B4">304年</a>=3760月=日とした（ヒッパルコス周期 Hipparchic cycle）。これにより1太陽年はおよそ日、1<a href="http://localhost/keyword/%E6%9C%94%E6%9C%9B%E6%9C%88">朔望月</a>はおよそ日とされた。<br />
+<br />
+==参考==<br />
+1太陽年は平均約日、1<a href="http://localhost/keyword/%E6%9C%94%E6%9C%9B%E6%9C%88">朔望月</a>は平均約日である。1太陽年を1<a href="http://localhost/keyword/%E6%9C%94%E6%9C%9B%E6%9C%88">朔望月</a>で割るととなるが、無限小数のままでは暦に使うことができない。そこでこの値に少しでも近い分数を求めると（ディオファントス近似）25/2、37/3、99/<a href="http://localhost/keyword/88%E5%B9%B4">88年</a>法に相当する。、136/11、235/19、4131/334、…という値が得られる/}}を正則連分数展開すると、となり、これを有限項で打ち切る事で、が得られる。}}。この中の235/19（）が<a href="http://localhost/keyword/%E3%83%A1%E3%83%88%E3%83%B3%E5%91%A8%E6%9C%9F">メトン周期</a>に相当する。<br />
+<br />
+== 破章法 ==<br />
+中国では章法と呼ばれていた<a href="http://localhost/keyword/%E3%83%A1%E3%83%88%E3%83%B3%E5%91%A8%E6%9C%9F">メトン周期</a>に従って太陽太陰暦が編纂され<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>7閏によって構成される周期を章と呼び、その切替の年を章首と呼んだ。そして章を開始する基準日として章首の年における冬至を11月1日と定めて、<a href="http://localhost/keyword/19%E5%B9%B4">19年</a>7閏を経て再び同じ日が巡ってくるように暦が編纂されていた。この冬至は特に朔旦冬至と呼ばれ定期的な朔旦冬至の到来は暦の安定、ひいてはその暦を作成・頒布する王朝の安定の象徴として宮廷においては盛大な祝賀行事が行われた。<br />
+<br />
+ところが五胡十六国時代、北涼の玄始暦（<a href="http://localhost/keyword/412%E5%B9%B4">412年</a>施行）から<a href="http://localhost/keyword/%E3%83%A1%E3%83%88%E3%83%B3%E5%91%A8%E6%9C%9F">メトン周期</a>によらない暦法（これを「破章法」という。）が行われた。例えば、玄始暦では600太陽年=<a href="http://localhost/keyword/%E6%9C%94%E6%9C%9B%E6%9C%88">朔望月</a>（}}）とし、南朝の大明暦（<a href="http://localhost/keyword/510%E5%B9%B4">510年</a>施行）では391太陽年=<a href="http://localhost/keyword/%E6%9C%94%E6%9C%9B%E6%9C%88">朔望月</a>（）としている。<br />
+<br />
+高度な計算に基づく破章法によって暦の精度が良くなったのであるが、その代償として章首の冬至が必ず朔旦冬至になるとは限らなくなり、冬至の日がずれたり逆に章首以外の年に朔旦冬至が発生する事態も起こった。中国の朔旦冬至の儀式と破章法暦法の両方を継承した日本ではこうした事態を不吉として捉えて、月の大小や閏月の順序を入れ替えることで強引に章首の朔旦冬至を実現させていた（「改暦」）。<br />
+<br />
+== 太陽周期 ==<br />
+&#39;太陽周期&#39;とは、ある日付での七曜が一致する周期の1つで、ユリウス暦では2<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>周期となる。<a href="http://localhost/keyword/%E3%83%A1%E3%83%88%E3%83%B3%E5%91%A8%E6%9C%9F">メトン周期</a>（章法）の考え方を、月相ではなく七曜に当てはめたものである。太陽章ともいう。<br />
+<br />
+==脚注==<br />
+<br />
+<br />
+<br />
+===計算結果===<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:暦法<br />

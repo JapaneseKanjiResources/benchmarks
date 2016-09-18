@@ -1,0 +1,7 @@
+description<br />
+#<a href="http://localhost/keyword/CDMA">CDMA</a>（Code Division Multiple Access）符号分割多元接続のこと。<br />
+#1.の技術を用いた移動通信システムcdmaOneおよび<a href="http://localhost/keyword/CDMA">CDMA</a>2000、<a href="http://localhost/keyword/CDMA">CDMA</a>2000 1xの略称（ただしW-<a href="http://localhost/keyword/CDMA">CDMA</a>は含まれない）。<br />
+<br />
+<br />
+<br />
+Category:携帯電話<br />

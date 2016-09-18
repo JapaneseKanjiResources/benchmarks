@@ -1,0 +1,11 @@
+description
+'GRC'
+* ガバナンス・リスク・コンプライアンス - Governance Risk Compliance の略称。
+* ギリシャのISO 3166-1国名コード及びIOCコード
+* 古代ギリシャ語のISO言語コード
+* 王立カナダ騎馬警察 () - カナダの連邦警察。
+* グレン研究所 () - NASAの研究所。
+* ガラス繊維補強セメント（Glass fiber Reinforced Cement） - セメントの一種。
+* グラフィックリサーチ - 日本のコンピュータゲーム制作会社。
+
+

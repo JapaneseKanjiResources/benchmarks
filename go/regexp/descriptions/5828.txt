@@ -1,0 +1,30 @@
+description
+
+
+フェルミ研究所
+
+'フェルミ国立加速器研究所'（フェルミこくりつかそくきけんきゅうじょ、英称：Fermi National Accelerator Laboratory、通称：'フェルミ研究所'、'Fermilab'、'FNAL'）は、アメリカ合衆国イリノイ州シカゴ近郊バタヴィアにある米国エネルギー省の国立高エネルギー物理学研究所。
+
+超伝導磁石を用いた大型（直径約2km、磁場の最大強さ2テスラ）の陽子・反陽子衝突型加速器テバトロン (Tevatron) を有し、トップクォークの検出に成功したことでも有名。
+
+研究所の名前は、「原子炉の父」こと原子物理学者エンリコ・フェルミに由来する。
+
+== 関連項目 ==
+* ロバート・ラスバン・ウィルソン - 初代所長。フェルミ研究所を企画、建設した。
+* ピエルマリア・オッドーネ - 現所長。
+* 山内泰二 - 1977年のウプシロン粒子の発見を主導した。1980年から2002年までPPO長 (Head, Program Planning Office)。
+* Scientific Linux - 欧州原子核研究機構と共同開発したオペレーティングシステム。
+
+== 外部リンク ==
+* [http://www.fnal.gov/ Fermilab Official Site] 
+* [http://www-ed.fnal.gov/ Fermilab Education Office] - フェルミ研究所の子ども向け教育サイト 
+
+
+
+
+Category:アメリカ合衆国の研究所
+Category:アメリカ合衆国エネルギー省
+Category:加速器
+Category:素粒子物理学
+Category:連邦政府出資研究開発センター
+Category:ケーン郡 (イリノイ州)

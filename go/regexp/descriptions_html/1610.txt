@@ -1,0 +1,148 @@
+description<br />
+<br />
+<br />
+|subdivision_type1\t= 州<br />
+|subdivision_name1\t= ザクセン州<br />
+|subdivision_type2\t= 行政管区<br />
+|subdivision_name2\t= <a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>行政管区<br />
+|subdivision_type3\t= 郡<br />
+|subdivision_name3\t= 郡独立市<br />
+|parts_type\t\t= 行政区域<br />
+|parts\t\t\t= 10 Ortsämter9 Ortschaften<br />
+|leader_title\t\t= 市長<br />
+|leader_name\t\t= ヘルマ・オロス (CDU) <br />
+|area_total_km2\t\t= 328.31<br />
+|population_as_of\t= <br />
+|population_total\t= <br />
+|population_footnotes = <br />
+|population_density_km2\t= /328.31 round 0}}<br />
+|latd = 51 |latm = 3 |lats = 0 |latNS = N<br />
+|longd = 13 |longm = 44 |longs = 0 |longEW = E<br />
+|elevation_m\t\t= 113<br />
+|postal_code_type\t= <a href="http://localhost/keyword/%E9%83%B5%E4%BE%BF%E7%95%AA%E5%8F%B7">郵便番号</a><br />
+|postal_code\t\t= 01001–01328<br />
+|area_code\t\t= 0351<br />
+|blank_name\t\t= ナンバープレート<br />
+|blank_info\t\t= DD<br />
+|blank1_name\t\t= 自治体コード<br />
+|blank1_info\t\t= 14 6 12 000<br />
+|website\t\t= [http://www.dresden.de/ www.dresden.de]<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>&#39;（&#39;ド<a href="http://localhost/keyword/%E3%83%AC%E3%83%BC%E3%82%B9">レース</a>デン&#39;、Dresden、）は、ドイツ連邦共和国ザクセン州の州都でありエルベ川の谷間に位置している都市である。人口は約51万人（200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>）である。<br />
+<br />
+== 地勢 ==<br />
+エルベ（Elbe）川沿いの平地に開けた町である。ドイツの東の端、チェコ共和国との国境近く30キロメートルほどに位置する。陶磁器の町として有名なマイセンまで約25キロメートルと近く、エルベ川を通じて交通がなされてきた。<br />
+1<a href="http://localhost/keyword/900%E5%B9%B4">900年</a>頃の<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>市街遠望<br />
+<br />
+== 歴史 ==<br />
+<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>は、1<a href="http://localhost/keyword/206%E5%B9%B4">206年</a>にドレスデネ(Dresdene)という名称で歴史に現れている。<a href="http://localhost/keyword/135">135</a>0年には、エルベ右岸の地区が「古ドレスディン(Antiqua Dressdin)」という名称で現れ、1<a href="http://localhost/keyword/403%E5%B9%B4">403年</a>に都市権を与えられている。これが現在の新市街（ノイシュタット）で、エルベの右岸と左岸は、1<a href="http://localhost/keyword/549%E5%B9%B4">549年</a>まで別の町として扱われていた。<br />
+[[1<a href="http://localhost/keyword/750%E5%B9%B4">750年</a>の<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>市街図。星型要塞に周囲を囲まれている]]<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>が発展するきっかけとなったのは、ザクセン選帝侯フリードリヒ2世の2人の息子、エルンストとアルブレヒトが、1<a href="http://localhost/keyword/485%E5%B9%B4">485年</a>に、兄弟で領土を分割（ライプツィヒの分割）したことに始まる。<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>を中心とする領土を与えられた弟アルブレヒトは、ザクセン公を称し、<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>を都として地域を支配することとなった。こうして、<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>は、アルベルティン家の宮廷都市として栄えることになる。<br />
+その後、アルベルティン家は1<a href="http://localhost/keyword/547%E5%B9%B4">547年</a>のモーリッツの時に選帝侯となり、<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>がザクセンの中心地として発展することになった。エルベ川に沿ったアウグスト通り沿いの外壁には、歴代君主たちを描いたおおよそ100メートルにわたるマイセン (陶磁器)による壁画「君主たちの行列」がほぼオリジナルの状態で現存している。<br />
+<br />
+1<a href="http://localhost/keyword/900%E5%B9%B4">900年</a>頃のツヴィンガー宮殿<br />
+現在(2007)のツヴィンガー宮殿<br />
+ピルニッツ宮殿にある山の宮殿<br />
+君主たちの行列<br />
+ブリュールのテラス付近の夜景<br />
+ <br />
+<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>が最も発展したのは、1<a href="http://localhost/keyword/711%E5%B9%B4">711年</a>から1<a href="http://localhost/keyword/728%E5%B9%B4">728年</a>のフリードリヒ・アウグスト1世（アウグスト強王）の治世である。<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>を代表する建築物となっているツヴィンガー宮殿（Zwinger）は、アウグスト強王が、ダニエル・ペッペルマンに命じ、1<a href="http://localhost/keyword/711%E5%B9%B4">711年</a>から1<a href="http://localhost/keyword/728%E5%B9%B4">728年</a>に、城から近い場所に自らの居城として後期バロック様式によって建立させたものである。同時に、エルベ川の10キロほど上流にあるピルニッツ宮殿も、大幅に増築されている。一方、市の中心部では、1<a href="http://localhost/keyword/726%E5%B9%B4">726年</a>に聖母教会（フラウエン教会）の建築が開始されている。こうして形成された<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>の町並みは、18世紀中期の姿がベルナルド・ベッロットによる絵画として残されている。<br />
+1<a href="http://localhost/keyword/806%E5%B9%B4">806年</a>に神聖ローマ帝国が解体し、ザクセン王国が成立した後は、<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>はその首都となった。<br />
+<br />
+第二次世界大戦では徹底した爆撃にあい市内中心部はほぼ灰燼に帰した（<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>爆撃）。ソ連占領地域にあったため、戦後はドイツ民主共和国（東ドイツ）領となり、ライプツィヒなどと並ぶ工業都市として発展したほか、近年では<a href="http://localhost/keyword/%E8%A6%B3%E5%85%89%E5%9C%B0">観光地</a>としての開発も顕著で、東部ドイツ有数の大都市として賑わいを見せており、19<a href="http://localhost/keyword/90%E5%B9%B4">90年</a>の東西ドイツ統合後、歴史的建築物の再建計画が一層推進されつつある。廃墟のまま放置されていた王妃の宮殿（Taschenbergpalais）が再建されて高級ホテルに生まれ変わったほか、同じく瓦礫の堆積のままの状態で放置されていた聖母教会の再建には、世界中から182億円もの寄付が集まり、200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>10月に工事が完了した。瓦礫から掘り出したオリジナルの部材をコンピューターを活用して可能な限り元の位置に組み込む作業は「ヨーロッパ最大のジグソーパズル」と評された。新しい部材との組み合わせがモザイク模様を描き出しているこの建物は、新しい名所となっている。<br />
+修復された聖母教会<br />
+<br />
+== 文化 ==<br />
+[[クリスマス<a href="http://localhost/keyword/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88">マーケット</a>(Striezelmarkt)]]<br />
+ヤパーニッシュ・パレ。1<a href="http://localhost/keyword/715%E5%B9%B4">715年</a>建造。[[アウグスト2世 (ポーランド王)の東洋陶磁器コレクションの倉庫だった。現在は民俗博物館]]<br />
+音楽はザクセン侯宮廷の傾向を反映して、古くからイタリアの影響を受けてきた。シャイト・シュッツらはルター派典礼音楽にイタリア音楽の傾向を付け加えた。ミヒャエル・プレトリウスもしばらく<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>で活動したこともあり、17世紀ドイツにおける音楽の中心地のひとつであった。モーツァルトもまた<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>で作品の初演を行っている。オペラ座、通称ゼンパー・オーパーは新古典主義建築の代表作としても知られ、オペラ座のオーケストラであるシュターツカペレ・<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>（「<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>国立歌劇場管弦楽団」と呼ばれることも多い）は、最古のオーケストラとして知られている。ドイツ鉄道ウィーン～<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>間の夜行特別列車「ゼンパーオーパー」はこの劇場の名にちなんだものである。<br />
+<br />
+ザクセン侯の美術コレクションは現在ツヴィンガー宮殿の一角を占める<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>美術館のアルテ・マイスター絵画館（Alte Meister）などで展示されている。アルテ・マイスターのコレクションの中にはラファエロの「システィーナの聖母」が含まれる。そのほかレンブラント、ルーベンス、ルーカス・クラナッハ、デューラーなどヨーロッパを代表する画家たちの膨大な数の作品が公開されている。この美術館はヨーロッパでも重要なコレクションを有する施設のひとつと言ってよいであろう。<br />
+<br />
+上記の様な旧市街（アルトシュタット、Altstadt）で主に見られる文化の他に、新市街（ノイシュタット、Neustadt）の文化も興味深い。<br />
+<br />
+名前だけから見ると若そうにとれる新市街は、実は旧市街よりも歴史はかなり古い。ザクセン選帝侯時代、今の新市街地区のほぼ全域を焼失させる大火災があった。そこから比較的早く復興したため、それを記念し、全く新しく生まれ変わって繁栄してほしい、という願いを込めて、選帝侯がノイシュタットと名付けられたと言われている（原典不明）。<br />
+<br />
+築 100 年を超える建物が多く、世代を超えても当時の雰囲気を比較的良く保っている、数少ない街である。空襲で完全に焼け落ちたにもかかわらず、歴史的建造物を除きアルトシュタット以上によく保守された地区と言ってもよい。<br />
+<br />
+街の空気がやや古典的で、狭い路地が続く町並みには、レストランやバーが無数に存在し、週末は地元人達で賑う。また、美術・芸術家などの個展や、<a href="http://localhost/keyword/%E6%BC%94%E5%A5%8F%E4%BC%9A">演奏会</a>・音楽サロンが街のあちこちで毎週のように開かれ、地元人の関心も常に高い。文化・芸術が生活と密接に関わっている<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>ならでは、と言えよう。<br />
+<br />
+500px<br />
+<br />
+<br />
+== 宗教 ==<br />
+カトリック宮廷教会<br />
+<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>十字架教会<br />
+<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>では1<a href="http://localhost/keyword/539%E5%B9%B4">539年</a>に宗教改革が導入された。1<a href="http://localhost/keyword/571%E5%B9%B4">571年</a>頃から厳格なルター主義を代表する都市になった。1<a href="http://localhost/keyword/661%E5%B9%B4">661年</a>になって<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>において再びローマ・カトリック教会のミサがおこなわれた。ザクセン選帝侯フリードリヒ・アウグスト1世はアウグスト2世としてポーランド王に即位するために、1<a href="http://localhost/keyword/697%E5%B9%B4">697年</a>に<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>の宮廷をカトリック信仰に変更させた。ローマ・カトリック教会共同体は<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>市において1<a href="http://localhost/keyword/807%E5%B9%B4">807年</a>に初めて福音主義教会と同等に扱われるようになった。以来、ローマ・カトリック教会は<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>では少数派として存続している。<br />
+<br />
+第1次世界大戦後の君主制終焉によって、<a href="http://localhost/keyword/%E3%82%AD%E3%83%AA%E3%82%B9%E3%83%88">キリスト</a>教会と国家の関係は大きく変化し、1<a href="http://localhost/keyword/922%E5%B9%B4">922年</a>には最初のザクセン州教会監督が選出された[http://www.evlks.de/landeskirche/geschichte/index.html Dresden ist seit 1922 Sitz eines (evangelischen) Bischofs].。<br />
+東独時代において福音主義教会信徒の比率は約85%(1949)から22%(1989)に減少した。ホーネッカー時代の19<a href="http://localhost/keyword/80%E5%B9%B4">80年</a>にローマ・カトリック教会の司教座が<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>に置かれた。カトリック宮廷教会が<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>＝マイセン司教区の司教座聖堂に昇格したからであった。<br />
+ <br />
+今日、<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>市民の大多数(約80%)は無宗派であり、どの宗教団体にも属していない。約2万人がローマ・カトリック教会の信徒であり、約7万5千人がドイツ福音主義教会(EKD)に加盟しているザクセン福音ルター派州教会の教会員である。<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>市民におけるローマ・カトリック教会信徒の比率は約4%、ルター派教会信徒の比率は約15%である。<br />
+<br />
+ルター派や改革派等の<a href="http://localhost/keyword/%E3%82%AD%E3%83%AA%E3%82%B9%E3%83%88">キリスト</a>教自由教会と非<a href="http://localhost/keyword/%E3%82%AD%E3%83%AA%E3%82%B9%E3%83%88">キリスト</a>教宗教団体に属する会員数は<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>市当局の見積もりによると約5千人である。18世紀、<a href="http://localhost/keyword/176">176</a><a href="http://localhost/keyword/4%E5%B9%B4">4年</a>に<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>に最初の改革派教会が建てられた。ルター派と同じ公的権利が<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>の改革派教会に与えられたのは1<a href="http://localhost/keyword/811%E5%B9%B4">811年</a>であった。この<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>の改革派教会はドイツ福音主義教会(EKD)に属さない自由教会で約6百人の教会員がいる[http://www.ev-ref-gem-dresden.de/gs_leitungsstruktur.htm Gemeindestruktur]。ザクセン州にはライプツィヒ、ケムニッツにも改革派教会があるが、これらの教会はドイツ福音主義教会(EKD)に属している州教会である。現在の<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>には約760人のユダヤ教徒が住んでいるStand 13. November 2011: 761 Juden, mündliche Angabe der Vorsitzenden der Jüdischen Gemeinde, Nora Goldenbogen, in der Begrüßungsrede zur Festveranstaltung zur Zehn-Jahres-Feier der Neuen Synagoge Dresden.<br />
+<br />
+== 経済 ==<br />
+グレーゼルネ・マヌファクテュア<br />
+中部のグローサーガルテン (Großer Garten) 地区にフォルクスワーゲンの自動車工場である「グレーゼルネ・マヌファクテュア」（Gläserne Manufaktur、ガラスの工場の意）が設立されている。同工場は200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>に操業開始し、フォルクスワーゲン・フェートンなどの製造を行っている。<br />
+<br />
+また、近年では独インフィニオン・テクノロジーズ社から独立したキマンダ社、米AMD社の<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>製造部門が独立したGLOBALFOUNDRIES (グローバルファウンドリーズ)社 などの製造拠点が置かれ、欧州における<a href="http://localhost/keyword/%E5%8D%8A%E5%B0%8E%E4%BD%93">半導体</a>製造拠点のひとつとなっている。<br />
+<br />
+<br />
+== 交通 ==<br />
+<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>の路面電車<br />
+カーゴトラム<br />
+<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>・モノレール<br />
+* <a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>空港<br />
+* <a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>中央駅は、ベルリン、プラハ、ニュルンベルクとの間に直通列車を持つ。<br />
+** 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>の市誕生<a href="http://localhost/keyword/800%E5%B9%B4">800年</a>のお祝いに向けて、<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>中央駅の周辺は整備計画が進行中である。最近、駅舎の改修工事の一部が完成をみた。これらの整備に伴い、今後数年間のうちに中央駅周辺は大きく発展することが期待される。<br />
+* 市内交通を担う存在として、<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>交通企業体の運営による路面電車がある。東西ドイツ分断の頃にモータリゼーションの影響が遅れたため、路線廃止が行われていない為、人口50万人の都市としてはかなり長い総延長130km余りの路線を有する。車両はかつては東欧のタトラ社製の「タトラカー」が主力だったが、東西ドイツ統合後は超低床車のコンビーノ(シーメンス社製)やフレキシティ・クラシック(ボンバルディア社製)が投入され、老朽化したタトラカーを順次置き換えを進めている。利用者が多い為、列車編成も約45mと長大である。<br />
+** また<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>では世界的にも例を見ない電車方式の貨物列車、｢カーゴトラム」 (CarGoTram) を2001年より運行している。これは前述のフォルクスワーゲンのグレーゼルネ・マヌファクテュアの設立に端を発する。乗用車の生産に伴って発生する有害物質の削減等、エコロジーに重点を置いている同工場は、敷地面積が若干狭く、資材や部品の倉庫を設置できなかった為、市西部にあるドイツ鉄道の貨物駅に隣接して倉庫を建設した。そこで部品運搬の手段が問題となり、試算した結果工場と倉庫を一日170台の大型トラックが往来する事となり、大気汚染等の環境問題、道路交通の安全性等の懸念から、既存の路面電車を活用する事となった。工場と倉庫には本線と接続した引込み線が設けられ、実に60t、トラック約3台分の荷物を積載が可能な5~7両編成の貨物列車（両端が電動車、中間が付随車のいずれも有蓋車）が40分間隔で、約18分掛けて往復している。四代目となるフォルクスワーゲン・ゴルフが発表された際、荷台にゴルフを載せて市民にお披露目するというプロモーションを行った事もある。このカーゴトラムは、自動車と鉄道という相反する物を有機的に結び付けただけでなく、環境問題への取り組みとして注目されている。<br />
+** 市東部のエルベ川に「青い奇跡」（Blaues Wunder (de)、正式名称はロシュヴィッツァー橋）と呼ばれる鉄骨構造の橋が架かっているが、その北岸の丘陵地に、ケーブルカーとモノレールがある。ケーブルカー「<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>鋼索鉄道」 (Standseilbahn Dresden) は路線の長さ547m、高低差95mで、1<a href="http://localhost/keyword/895%E5%B9%B4">895年</a>に開業しており、モノレール「空中鉄道<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>」 (Schwebebahn Dresden) は長さ274m、高低差が84mで、1<a href="http://localhost/keyword/901%E5%B9%B4">901年</a>の開業である。両交通機関は、1<a href="http://localhost/keyword/893%E5%B9%B4">893年</a>に完成した橋「青い奇跡」と並んで、世界遺産<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>・エルベ渓谷の産業遺産とされていたが、ヴァルトシュロッセン橋の建設により、200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>に世界遺産の登録が抹消されている。<br />
+<br />
+== その他 ==<br />
+<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>の63%の地域が緑に囲まれている<br />
+冬の<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a><br />
+* 200<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>夏の洪水(英語版)により<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>も大きな被害を受けた。<br />
+* 200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>、歴史的建造物の残る文化的景観が評価され、<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>・エルベ渓谷が世界遺産に登録された。<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>を中心にしたエルベ川流域18kmが対象であった（面積1930ha）。しかし、交通量の増加に対応するためにエルベ川に車両用の橋を建設する案が検討されたことから、200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>に危機にさらされている世界遺産リストに登録され、その後、ユネスコの世界遺産委員会からの警告にもかかわらず建設が推進されたため、200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>の第33回世界遺産委員会で世界遺産リストからの登録抹消が決議された。<br />
+* 町の中心部近くにある聖母教会の再建は、当初の200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>完成予定に対し、200<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>には内部の見学が一部可能となり、200<a href="http://localhost/keyword/5%E5%B9%B4">5年</a>に前倒し完成となった。<br />
+* 旧東ドイツの名門サッカークラブである1.FCディナモ・<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>は、東西ドイツ再統一後に一時低迷していたが、その後持ち直しており20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>現在ブンデスリーガ2部で活躍中である。<br />
+* 200<a href="http://localhost/keyword/8%E5%B9%B4">8年</a>には<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>で第38回チェス・オリンピアードが開催された。<br />
+* 20<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>、グリュックスガス・シュタディオンでFIFA女子ワールド<a href="http://localhost/keyword/%E3%82%AB%E3%83%83%E3%83%97">カップ</a>が開催された。<br />
+<br />
+== 姉妹都市 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 森鴎外<br />
+** 1<a href="http://localhost/keyword/884%E5%B9%B4">884年</a>から約<a href="http://localhost/keyword/4%E5%B9%B4">4年</a>間のドイツ留学をしていた鴎外は、1<a href="http://localhost/keyword/885%E5%B9%B4">885年</a>10月11日から翌1<a href="http://localhost/keyword/886%E5%B9%B4">886年</a>の3月初旬まで、約5ヶ月間<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>に滞在していたことがある。小説『文づかひ』は<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>を舞台にした作品である。<br />
+* ゲーテ<br />
+** <a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>が気に入ったゲーテは、幾度かこの地を訪れている。彼はエルベ川からみて旧市街地側の川に沿って続く小高い歩道を好んで散歩した。それは森鴎外が滞在するおよそ<a href="http://localhost/keyword/100%E5%B9%B4">100年</a>前のことであった。<br />
+* ゼンパー・オーパー - <a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>歌劇場<br />
+* エーリッヒ・ケストナー - <a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>出身の詩人・作家<br />
+* ローター・シュミット - <a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>出身のチェスプレーヤー<br />
+* <a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>交通企業体 - <a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>の公共交通会社<br />
+* <a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>・ポルツェラン<br />
+* <a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>の思い出 - ヨハン・<a href="http://localhost/keyword/%E3%82%B7%E3%83%A5%E3%83%88%E3%83%A9%E3%82%A6%E3%82%B9">シュトラウス</a>2世の弟エドゥアルト・<a href="http://localhost/keyword/%E3%82%B7%E3%83%A5%E3%83%88%E3%83%A9%E3%82%A6%E3%82%B9">シュトラウス</a>1世の作曲したポルカ・フランセーズ。<br />
+<br />
+== <a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>が舞台の作品 ==<br />
+=== 映画 ===<br />
+* <a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>、運命の日 - 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>のドイツ映画。第二次世界大戦末期の<a href="http://localhost/keyword/%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3">ドレスデン</a>を舞台にしている。<br />
+== 脚注 ==<br />
+<br />
+<br />
+<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.dresden.de/ Landeshauptstadt Dresden（多言語版）]<br />
+* [http://www.dresden.info/ Dresden.info travel guide]<br />
+<br />
+<br />
+<br />
+<br />
+ <br />
+Category:ドイツの主要都市<br />
+Category:ドイツの州都<br />
+Category:ザクセン州の行政区画<br />
+Category:古都<br />

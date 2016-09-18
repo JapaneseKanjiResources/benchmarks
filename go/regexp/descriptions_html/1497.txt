@@ -1,0 +1,85 @@
+description<br />
+&#39;<a href="http://localhost/keyword/%E8%AB%96%E7%90%86%E6%BC%94%E7%AE%97">論理演算</a>&#39;（ろんりえんざん、logical operation, logical connection）あるいは&#39;ブール演算&#39;（ブールえんざん、boolean operation）とは、「真」と「偽」の二つの元（真理値と呼ばれる）だけを持つ集合における演算である。（これらの演算によって上記の集合は環となり、&#39;ブール環&#39;と呼ばれる）<br />
+<br />
+否定（NOT）・論理和（OR）・<a href="http://localhost/keyword/%E8%AB%96%E7%90%86%E7%A9%8D">論理積</a>（AND）・排他的論理和（XOR）・含意・同値などがある。<br />
+<br />
+コンピュータプログラミング言語では通常の<a href="http://localhost/keyword/%E8%AB%96%E7%90%86%E6%BC%94%E7%AE%97">論理演算</a>のほか、数値のビット毎に<a href="http://localhost/keyword/%E8%AB%96%E7%90%86%E6%BC%94%E7%AE%97">論理演算</a>を行なう演算があり、これは特にビット演算という。<br />
+<br />
+論理（論理学）でも使われるが、非古典論理では多値論理もあるので、真理値の集合の大きさが2よりも大きいこともある。<br />
+<br />
+== 演算の種類 ==<br />
+<a href="http://localhost/keyword/%E8%AB%96%E7%90%86%E6%BC%94%E7%AE%97">論理演算</a>には、一つの入力の演算（否定（NOT））と、二つの入力の演算（→#論理結合子）とがある。それ以上の数の入力はこれらの演算を組み合わせて演算する。<br />
+<br />
+二つの入力の<a href="http://localhost/keyword/%E8%AB%96%E7%90%86%E6%BC%94%E7%AE%97">論理演算</a>の全ては否定（NOT）・論理和（OR）・<a href="http://localhost/keyword/%E8%AB%96%E7%90%86%E7%A9%8D">論理積</a>（AND）の演算を組み合わせて演算できることから、これら三つの演算は<a href="http://localhost/keyword/%E8%AB%96%E7%90%86%E6%BC%94%E7%AE%97">論理演算</a>の基礎とされている。これら三つの演算もなお、否定論理和(NOR)あるいは否定<a href="http://localhost/keyword/%E8%AB%96%E7%90%86%E7%A9%8D">論理積</a>(NAND)のどちらか一方を複数用いることで演算できる。その場合、二つの入力に同じ値を入力することで否定(NOT)を演算し、またド・モルガンの法則を用いて論理和と<a href="http://localhost/keyword/%E8%AB%96%E7%90%86%E7%A9%8D">論理積</a>とを交換することで論理和と<a href="http://localhost/keyword/%E8%AB%96%E7%90%86%E7%A9%8D">論理積</a>を演算する。<br />
+<br />
+== 論理結合子 ==<br />
+二つの二値入力 &#39;&#39;P&#39;&#39;、&#39;&#39;Q&#39;&#39; に対し、以下の16種類の<a href="http://localhost/keyword/%E8%AB%96%E7%90%86%E6%BC%94%E7%AE%97">論理演算</a>がある。<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+==公式==<br />
+論理和 (OR) = \\lor、<a href="http://localhost/keyword/%E8%AB%96%E7%90%86%E7%A9%8D">論理積</a> (AND) = \\land、否定 (NOT) = \\lnotとした場合、以下の法則が成り立つ。<br />
+*べき等則<br />
+\\begin{align}<br />
+p \\lor p &amp;\\equiv p \\\\<br />
+p \\land p &amp;\\equiv p \\\\<br />
+\\end{align}<br />
+*交換則<br />
+\\begin{align}<br />
+p \\lor q &amp;\\equiv q \\lor p \\\\<br />
+p \\land q &amp;\\equiv q \\land p \\\\<br />
+\\end{align}<br />
+*結合則<br />
+\\begin{align}<br />
+p \\lor(q \\lor r) &amp;\\equiv (p \\lor q)\\lor r \\\\<br />
+p \\land(q \\land r) &amp;\\equiv (p \\land q)\\land r \\\\<br />
+\\end{align}<br />
+*分配則<br />
+\\begin{align}<br />
+p \\lor(q \\land r) &amp;\\equiv (p \\lor q)\\land(p \\lor r) \\\\<br />
+p \\land(q \\lor r) &amp;\\equiv (p \\land q)\\lor(p \\land r) \\\\<br />
+\\end{align}<br />
+*吸収則<br />
+\\begin{align}<br />
+p \\lor(p \\land q) &amp;\\equiv p \\\\<br />
+p \\land(p \\lor q) &amp;\\equiv p \\\\<br />
+\\end{align}<br />
+*ド・モルガンの法則<br />
+\\begin{align}<br />
+\\lnot(p \\lor q) &amp;\\equiv (\\lnot p)\\land(\\lnot q) \\\\<br />
+\\lnot(p \\land q) &amp;\\equiv (\\lnot p)\\lor(\\lnot q) \\\\<br />
+\\end{align}<br />
+*その他<br />
+\\begin{align}<br />
+&amp;p \\lor 0 \\equiv p \\\\<br />
+&amp;p \\land 0 \\equiv 0 \\\\<br />
+&amp;p \\lor 1 \\equiv 1 \\\\<br />
+&amp;p \\land 1 \\equiv p \\\\<br />
+&amp;p \\lor (\\lnot p) \\equiv 1 \\\\<br />
+&amp;p \\land (\\lnot p) \\equiv 0 \\\\<br />
+&amp;\\lnot(\\lnot p) \\equiv p \\\\<br />
+\\end{align}<br />
+<br />
+==関連項目==<br />
+*<a href="http://localhost/keyword/%E3%82%AB%E3%83%AB%E3%83%8E%E3%83%BC">カルノー</a>図<br />
+*ド・モルガンの法則<br />
+*真理値<br />
+*マスク (情報工学)<br />
+*数学 - 数理論理学<br />
+*論理学<br />
+*論理回路<br />
+*ブール関数 - ブール代数<br />
+*ベン図 - オイラー図<br />
+*プログラミング言語<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:数理論理学<br />
+Category:数学に関する記事<br />
+Category:命題論理<br />

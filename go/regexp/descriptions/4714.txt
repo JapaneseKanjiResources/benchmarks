@@ -1,0 +1,31 @@
+description
+
+''（略称：'SFTP'）とは、SSHの仕組みを使用しコンピューター間でファイルを安全に転送するプロトコルである。sftpは、このプロトコルを利用するコマンドの名前である。
+
+OpenSSHには、sftpコマンドがサブシステムとして含まれる。
+
+== 利用するアプリケーション ==
+このSFTPを利用できるアプリケーションには、コマンドライン形式のsftpコマンドだけでなく、以下のものが存在する。
+*WinSCP
+*FileZilla
+*EmFTP
+*Cyberduck
+*Transmit
+
+== 関連項目 ==
+* Secure Shell
+* Telnet
+* Secure copy
+* File Transfer Protocol
+* WebDAV
+* FTPS
+* FISH
+
+== 外部リンク ==
+* [http://tools.ietf.org/id/draft-ietf-secsh-filexfer-13.txt インターネット・ドラフト第 13 版] 
+* [http://www.openssh.com/ OpenSSH] 
+* [http://winscp.net/ WinSCP]
+* [http://sourceforge.net/projects/filezilla/ filezilla]
+* [http://www.emftp.com/jp/ EmFTP]
+
+Category:コンピュータ・ネットワーク・セキュリティ

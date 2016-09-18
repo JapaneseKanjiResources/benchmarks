@@ -1,0 +1,69 @@
+description<br />
+山口線<br />
+|キロ程 = 49.9<br />
+|起点駅 = 新山口<br />
+|所在地 = 山口県山口市阿東徳佐中<br />
+|座標 = <br />
+|駅構造 = 地上駅<br />
+|ホーム = 1面2線<br />
+|開業年月日 = 1<a href="http://localhost/keyword/918%E5%B9%B4">918年</a>（大正<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）11月3日<br />
+|乗車人員 = 88<br />
+|乗降人員 =<br />
+|統計年度 = 20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a><br />
+|乗換 =<br />
+|備考 = 簡易委託駅POS端末設置<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E5%BE%B3%E4%BD%90%E9%A7%85">徳佐駅</a>&#39;（とくさえき）は、山口県山口市阿東徳佐中にある、西日本旅客鉄道（JR西日本）山口線の駅である。<br />
+<br />
+== 歴史 ==<br />
+*1<a href="http://localhost/keyword/918%E5%B9%B4">918年</a>（大正<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>）11月3日 - 山口線が三谷駅から延伸した際の終着駅として開業。<br />
+*1<a href="http://localhost/keyword/922%E5%B9%B4">922年</a>（大正<a href="http://localhost/keyword/11%E5%B9%B4">11年</a>）8月5日 - 山口線が当駅から津和野駅まで延伸。途中駅となる。<br />
+*1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により西日本旅客鉄道が継承。<br />
+*20<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>（平成<a href="http://localhost/keyword/25%E5%B9%B4">25年</a>）7月28日 - 豪雨災害により線路が被災し、当駅を含む<a href="http://localhost/keyword/%E5%AE%AE%E9%87%8E%E9%A7%85">宮野駅</a> - 益田駅間が運休（<a href="http://localhost/keyword/%E5%AE%AE%E9%87%8E%E9%A7%85">宮野駅</a> - 地福駅間については8月5日に、津和野駅 - 益田駅については11月16日に運行再開。）。地福駅 - 津和野駅間の運転再開は平成<a href="http://localhost/keyword/26%E5%B9%B4">26年</a>8月23日[http://www.westjr.co.jp/press/article/2014/07/page_5902.html 山陰線（須佐～奈古駅間）、山口線（地福～津和野駅間）の運転再開見込みなどについて] - 西日本旅客鉄道プレスリリース、20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>7月16日。<br />
+<br />
+== 駅構造 ==<br />
+島式1面2線のホームを持ち、交換設備を有する地上駅。駅舎は上り線東側益田寄りにあり、ホームへは跨線橋で連絡している。<br />
+<br />
+きっぷうりばが昼間のみ営業しており（簡易委託）、POS端末による発券を行う。駅の管理は山口地域鉄道部が行っている。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+実際には上記ののりば番号はない。上記の番号は列車運転指令上の番線番号である。なお、どちらのホームも両方向の入線・出発に対応している。<br />
+<br />
+== 駅周辺 ==<br />
+* 山口市役所阿東総合支所<br />
+* 徳佐郵便局<br />
+* 山口県立山口高等学校徳佐分校<br />
+* 山口市立阿東東中学校<br />
+* 国道9号<br />
+<br />
+== 利用状況 ==<br />
+1日の平均乗車人員は以下の通りである。<br />
+<br />
+<br />
+<br />
+== 隣の駅 ==<br />
+※特急「スーパーおき」・臨時快速「SLやまぐち号」の隣の停車駅は各列車記事を参照のこと。<br />
+;西日本旅客鉄道<br />
+: 山口線<br />
+:: 鍋倉駅 - &#39;<a href="http://localhost/keyword/%E5%BE%B3%E4%BD%90%E9%A7%85">徳佐駅</a>&#39; - 船平山駅<br />
+<br />
+== 関連項目 ==<br />
+*日本の鉄道駅一覧<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 外部リンク ==<br />
+*[http://www.jr-odekake.net/eki/top.php?id=0801915 JR西日本（<a href="http://localhost/keyword/%E5%BE%B3%E4%BD%90%E9%A7%85">徳佐駅</a>）]<br />
+<br />
+<br />
+<br />
+<br />
+Category:山口市の鉄道駅<br />
+くさ<br />
+Category:西日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/918%E5%B9%B4">918年</a>開業の鉄道駅<br />

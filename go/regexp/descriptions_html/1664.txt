@@ -1,0 +1,55 @@
+description<br />
+  <br />
+|number=117<br />
+|symbol=Uus<br />
+|left=リバモリウム<br />
+|right=ウンウンオクチウム<br />
+|above=At<br />
+|below=Uhs<br />
+|series comment=不明<br />
+|group=17<br />
+|period=7<br />
+|block=p<br />
+|appearance=不明<br />
+|atomic mass=[294]<br />
+|electron configuration=不明<br />
+|electrons per shell=2, 8, 18, 32, 32, 18, 7（推定）<br />
+|CAS number=54101-14-3<br />
+|isotopes=<br />
+<br />
+<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E3%82%A6%E3%83%B3%E3%82%A6%E3%83%B3%E3%82%BB%E3%83%97%E3%83%81%E3%82%A6%E3%83%A0">ウンウンセプチウム</a>&#39;（）は、<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E7%95%AA%E5%8F%B7">原子番号</a>117の元素。元素記号は&#39;Uus&#39;。発見報告のある中では最も新しい元素で、正式名称が決定していないため、IUPAC による系統名で呼ばれている。<br />
+<br />
+== 歴史 ==<br />
+200<a href="http://localhost/keyword/9%E5%B9%B4">9年</a>10月、ロシアのドゥブナ合同<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E6%A0%B8">原子核</a>研究所のフレロフ核反応研究所でバークリウムとカルシウムから元素合成され[http://blogs.physicstoday.org/newspicks/2010/04/element-117-discovered.html Element 117 discovered]PhysicsToday誌 アメリカ物理学協会[http://www.jinr.ru/img_sections/PAC/NP/31/PAK_NP_31_recom_eng.pdf 審査委員会 (PAC) 議長の報告書]ドゥブナ合同<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E6%A0%B8">原子核</a>研究所、20<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>4月9日発表された。<br />
+<br />
+<br />
+<br />
+<br />
+実験は7ヶ月間続けられ、<a href="http://localhost/keyword/%E3%82%A6%E3%83%B3%E3%82%A6%E3%83%B3%E3%82%BB%E3%83%97%E3%83%81%E3%82%A6%E3%83%A0">ウンウンセプチウム</a>294および293が6原子観測され、294Uus は6回のα崩壊を経て 270Db に崩壊した。293Uus は4回のα崩壊で 277Mt に崩壊した後自発核分裂した。<a href="http://localhost/keyword/%E5%8D%8A%E6%B8%9B%E6%9C%9F">半減期</a>や崩壊エネルギーは未確定である。<br />
+<br />
+ドイツ重イオン研究所では、入手の難しいバークリウムを使う代わりに 244Pu + 51V、または 243Am + 50Ti の方式による<a href="http://localhost/keyword/%E3%82%A6%E3%83%B3%E3%82%A6%E3%83%B3%E3%82%BB%E3%83%97%E3%83%81%E3%82%A6%E3%83%A0">ウンウンセプチウム</a>の合成を研究しており[http://www-win.gsi.de/tasca08/contributions/TASCA08_Cont_Duellmann2b.pdf ]ドイツ重イオン研究所、20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>5月には<a href="http://localhost/keyword/%E3%82%A6%E3%83%B3%E3%82%A6%E3%83%B3%E3%82%BB%E3%83%97%E3%83%81%E3%82%A6%E3%83%A0">ウンウンセプチウム</a>原子4つの合成および観測に成功したと発表した。<br />
+<br />
+20<a href="http://localhost/keyword/15%E5%B9%B4">15年</a>12月、IUPAC は、IUPAC/IUPAP の合同作業部会が117番元素の発見を承認し、115番元素とともにドゥブナ合同<a href="http://localhost/keyword/%E5%8E%9F%E5%AD%90%E6%A0%B8">原子核</a>研究所とアメリカのローレンス・リバモア国立研究所、オークリッジ国立研究所の共同研究チームが命名権を獲得したことを発表した[http://www.iupac.org/news/news-detail/article/discovery-and-assignment-of-elements-with-atomic-numbers-113-115-117-and-118.html Discovery and Assignment of Elements with Atomic Numbers 113, 115, 117 and 118]IUPAC。<br />
+<br />
+== 命名 ==<br />
+20<a href="http://localhost/keyword/16%E5%B9%B4">16年</a>6月8日、IUPAC はウンウン<a href="http://localhost/keyword/%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0">トリウム</a>（113番元素）、ウンウンペンチウム（115番元素）、<a href="http://localhost/keyword/%E3%82%A6%E3%83%B3%E3%82%A6%E3%83%B3%E3%82%BB%E3%83%97%E3%83%81%E3%82%A6%E3%83%A0">ウンウンセプチウム</a>（117番元素）およびウンウンオクチウム（118番元素）の名称案を発表、パブリックレビューを開始した。<a href="http://localhost/keyword/%E3%82%A6%E3%83%B3%E3%82%A6%E3%83%B3%E3%82%BB%E3%83%97%E3%83%81%E3%82%A6%E3%83%A0">ウンウンセプチウム</a>の名称案はオークリッジ国立研究所、テネシー大学、ヴァンダービルト大学といった研究機関が集積するテネシー州にちなんで、「&#39;Tennessine&#39;（&#39;テネシン&#39;）」（元素記号：&#39;Ts&#39;）とされた。<br />
+<br />
+新元素名に関する IUPAC のガイドラインでは、金属元素は末尾を -ium とすることになっている。しかし、117番元素は周期表より&#39;ハロゲン元素&#39;（第17族元素）に当たる。現在発見済みのハロゲン元素は全て末尾が &#39;-ine&#39; であり、&#34;Tennessine&#34;の名称が承認されれば、ハロゲン元素の慣例に外れずに従ったことになる。<br />
+<br />
+== 性質 ==<br />
+<a href="http://localhost/keyword/%E3%82%A6%E3%83%B3%E3%82%A6%E3%83%B3%E3%82%BB%E3%83%97%E3%83%81%E3%82%A6%E3%83%A0">ウンウンセプチウム</a>同位体（294Uusおよび293Uuｓ）の崩壊系列。崩壊エネルギーと<a href="http://localhost/keyword/%E5%8D%8A%E6%B8%9B%E6%9C%9F">半減期</a>は実験値を黒、理論値を青で表記している。<br />
+第17族元素であることからハロゲンの性質を持つと考えられ、周期表でアスタチンの下にあることから「エカアスタチン」とも呼ばれる。より軽いハロゲンの傾向などから融点は700 K程度、主な酸化数は-1とみられ、アスタチンと同様に半金属性の性質を持つと推測されている。<br />
+<br />
+== 出典 ==<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:ハロゲン<br />
+Category:元素<br />

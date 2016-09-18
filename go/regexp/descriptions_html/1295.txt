@@ -1,0 +1,126 @@
+description<br />
+<br />
+<br />
+|開業年月日 = 1<a href="http://localhost/keyword/899%E5%B9%B4">899年</a>（明治3<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）9月13日三好好三 『総武線<a href="http://localhost/keyword/120%E5%B9%B4">120年</a>の軌跡』 JTBパブリッシング、20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>2月。ISBN 978-4533096310<br />
+|駅構造 = 高架駅<br />
+|ホーム = 2面4線<br />
+|乗車人員 = 49,489<br />
+|乗降人員 = <br />
+|統計年度 = 20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a><br />
+|乗入路線数= 2<br />
+|所属路線1 = 総武線（快速）<br />
+|前の駅1 = 津田沼<br />
+|駅間A1 = 9.2<br />
+|駅間B1 = 3.3<br />
+|次の駅1 = 千葉<br />
+|キロ程1 = 35.9<br />
+|起点駅1 = 東京<br />
+|所属路線2 = 総武線（各駅停車）<br />
+|前の駅2 = 新検見川<br />
+|駅間A2 = 2.7<br />
+|駅間B2 = 1.9<br />
+|次の駅2 = 西千葉<br />
+|キロ程2 = 35.9km（東京起点）千葉から3.3<br />
+|起点駅2 =<br />
+|備考 = 2路線とも正式名称は総武本線みどりの窓口 有<br />
+}}<br />
+<br />
+&#39;<a href="http://localhost/keyword/%E7%A8%B2%E6%AF%9B%E9%A7%85">稲毛駅</a>&#39;（いなげえき）は、千葉県千葉市稲毛区稲毛東三丁目にある、東日本旅客鉄道（JR東日本）総武本線の駅である。 <br />
+<br />
+運転系統としては、快速線を走る総武快速線、および緩行線を走る中央・総武線各駅停車の2系統が停車する。<br />
+<br />
+== 歴史 ==<br />
+* 1<a href="http://localhost/keyword/899%E5%B9%B4">899年</a>（明治3<a href="http://localhost/keyword/2%E5%B9%B4">2年</a>）9月13日 - 総武鉄道幕張 - 千葉間に開業。旅客・貨物の取り扱いを開始。<br />
+* 190<a href="http://localhost/keyword/7%E5%B9%B4">7年</a>（明治40年）9月1日 - 鉄道国有法により買収され、国有鉄道の駅となる。<br />
+* 19<a href="http://localhost/keyword/60%E5%B9%B4">60年</a> (昭和<a href="http://localhost/keyword/35%E5%B9%B4">35年</a>) 10月1日 - <a href="http://localhost/keyword/%E7%A8%B2%E6%AF%9B%E9%A7%85">稲毛駅</a>東口開設促進会の働き掛けにより東口完成。<br />
+* 1<a href="http://localhost/keyword/978%E5%B9%B4">978年</a>（昭和<a href="http://localhost/keyword/53%E5%B9%B4">53年</a>）3月31日 - 貨物扱いを廃止。<br />
+* 1<a href="http://localhost/keyword/981%E5%B9%B4">981年</a>（昭和<a href="http://localhost/keyword/56%E5%B9%B4">56年</a>）10月1日 - 総武快速線の停車駅となる。<br />
+* 1<a href="http://localhost/keyword/987%E5%B9%B4">987年</a>（昭和<a href="http://localhost/keyword/62%E5%B9%B4">62年</a>）4月1日 - 国鉄分割民営化により、JR東日本の駅となる。<br />
+* 2001年（平成<a href="http://localhost/keyword/13%E5%B9%B4">13年</a>）11月18日 - ICカードSuica供用開始。<br />
+* 200<a href="http://localhost/keyword/6%E5%B9%B4">6年</a>（平成<a href="http://localhost/keyword/18%E5%B9%B4">18年</a>）3月 - 上下エスカレーター・エレベーター設置。<br />
+<br />
+== 駅構造 ==<br />
+島式ホーム2面4線を有する高架駅である。みどりの窓口（営業時間 6:00 - 22:00）、Suica対応自動改札機、指定席券売機が設置されている。<br />
+<br />
+=== のりば ===<br />
+<br />
+<br />
+<br />
+== 利用状況 ==<br />
+20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度の一日平均乗車人員は49,489人で、JR東日本全体で93位、千葉市の駅の中では第3位であった（1位は千葉駅、2位は<a href="http://localhost/keyword/%E6%B5%B7%E6%B5%9C%E5%B9%95%E5%BC%B5%E9%A7%85">海浜幕張駅</a>）[http://www.jreast.co.jp/passenger/index.html JR東日本 各駅の乗車人員（20<a href="http://localhost/keyword/14%E5%B9%B4">14年</a>度）]。<br />
+<br />
+JR東日本および千葉県統計年鑑によると、1日の平均乗車人員は以下の通りである。<br />
+<br />
+<br />
+== 駅周辺 ==<br />
+ショッピングモール「ペリエ」（かつては「めりーな」だった）があり、専用の改札口が併設されている。<br />
+千葉市の条例により、駅周辺の多くが路上喫煙禁止区域になっている。<br />
+=== 東口 ===<br />
+* イオン 稲毛店<br />
+* みずほ銀行 稲毛支店<br />
+* 京葉銀行 稲毛支店<br />
+* 稲毛区役所<br />
+* 稲毛図書館<br />
+* 千葉市立小中台小学校<br />
+*千葉市立千葉高等学校<br />
+* 千葉県立千葉女子高等学校<br />
+* 敬愛学園高等学校<br />
+* 敬愛大学<br />
+* 放射線医学総合研究所<br />
+* 稲毛病院<br />
+<br />
+。<br />
+<br />
+=== 西口 ===<br />
+* 千葉銀行 稲毛支店<br />
+* 千葉西警察署 <a href="http://localhost/keyword/%E7%A8%B2%E6%AF%9B%E9%A7%85">稲毛駅</a>前交番<br />
+* 稲毛浅間神社 - 毎年7月14日の前夜祭と、翌15日の例大祭は賑わう。<br />
+* 京成<a href="http://localhost/keyword/%E7%A8%B2%E6%AF%9B%E9%A7%85">稲毛駅</a>（京成千葉線） - 距離700m、徒歩約10分<br />
+<br />
+== バス路線 ==<br />
+=== 東口 ===<br />
+穴川十字路・スポーツセンター方面（京成バス、ちばシティバス）や、スカイタウン・平和交通本社・にれの木台方面（平和交通）へのバスが発着している。また、千葉内陸バスと東京空港交通の共同運行便である羽田空港 - 四街道・稲毛地区の空港リムジンバスも発着する。<br />
+<br />
+この駅からは独立行政法人高齢・障害・求職者雇用支援機構千葉支部千葉職業能力開発促進センター（愛称：ポリテクセンター千葉）へのバス路線がある。<br />
+<br />
+<br />
+<br />
+=== 西口 ===<br />
+幸町、高洲、高浜、稲毛海岸駅、稲毛海浜公園方面へのバス（千葉海浜交通、あすか交通、ちばシティバス）が発着している。<br />
+<br />
+<br />
+== 隣の駅 ==<br />
+; 東日本旅客鉄道<br />
+: 総武線（快速）<br />
+:* ホームライナー千葉停車駅<br />
+::特別快速・通勤快速<br />
+::: &#39;通過&#39;<br />
+:: 快速<br />
+::: 津田沼駅 - &#39;<a href="http://localhost/keyword/%E7%A8%B2%E6%AF%9B%E9%A7%85">稲毛駅</a>&#39; - （黒砂信号場） - 千葉駅<br />
+: 総武線（各駅停車）<br />
+::: 新検見川駅 - &#39;<a href="http://localhost/keyword/%E7%A8%B2%E6%AF%9B%E9%A7%85">稲毛駅</a>&#39; - 西千葉駅<br />
+<br />
+== 脚注 ==<br />
+<br />
+<br />
+== 関連項目 ==<br />
+* 日本の鉄道駅一覧<br />
+<br />
+== 外部リンク ==<br />
+<br />
+* [http://www.jreast.co.jp/estation/station/info.aspx?StationCd=146 JR東日本 <a href="http://localhost/keyword/%E7%A8%B2%E6%AF%9B%E9%A7%85">稲毛駅</a>]<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Category:千葉市の鉄道駅<br />
+なけ<br />
+Category:東日本旅客鉄道の鉄道駅<br />
+Category:日本国有鉄道の鉄道駅<br />
+Category:1<a href="http://localhost/keyword/899%E5%B9%B4">899年</a>開業の鉄道駅<br />
+Category:横須賀・総武快速線<br />
+Category:中央・総武緩行線<br />
+Category:総武鉄道<br />
+いなけえき<br />

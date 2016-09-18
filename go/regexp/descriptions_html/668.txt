@@ -1,0 +1,49 @@
+description<br />
+ |<br />
+ 世紀=1 |<br />
+ 次世紀=2 |<br />
+<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=0 |<br />
+ 前<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=10 |<br />
+ <a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀=20 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀1=30 |<br />
+ 次<a href="http://localhost/keyword/10%E5%B9%B4">10年</a>紀2=40 |<br />
+<br />
+ 3年前=23 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>前=24 |<br />
+ 1年前=25 |<br />
+ 年=26 |<br />
+ 1年後=27 |<br />
+ <a href="http://localhost/keyword/2%E5%B9%B4">2年</a>後=28 |<br />
+ 3年後=29 |<br />
+}}<br />
+<br />
+<br />
+== 他の紀年法 ==<br />
+<br />
+* 干支 : 丙戌<br />
+* 日本<br />
+** 垂仁天皇<a href="http://localhost/keyword/55%E5%B9%B4">55年</a><br />
+** 皇紀<a href="http://localhost/keyword/686%E5%B9%B4">686年</a><br />
+*中国<br />
+** 後漢 : 建武<a href="http://localhost/keyword/2%E5%B9%B4">2年</a><br />
+*** 隗囂 : 漢復<a href="http://localhost/keyword/4%E5%B9%B4">4年</a><br />
+*** 公孫述 : 龍興<a href="http://localhost/keyword/2%E5%B9%B4">2年</a><br />
+*** 劉盆子 : 建世<a href="http://localhost/keyword/2%E5%B9%B4">2年</a><br />
+* 朝鮮<br />
+** 高句麗 : 大武神王<a href="http://localhost/keyword/9%E5%B9%B4">9年</a><br />
+** 新羅 : 儒理王3年<br />
+** 百済 : 温祚王<a href="http://localhost/keyword/44%E5%B9%B4">44年</a><br />
+** 檀紀2<a href="http://localhost/keyword/359%E5%B9%B4">359年</a><br />
+* 仏滅紀元 : <a href="http://localhost/keyword/569%E5%B9%B4">569年</a><br />
+* ユダヤ暦 : 3<a href="http://localhost/keyword/786%E5%B9%B4">786年</a> - 3<a href="http://localhost/keyword/787%E5%B9%B4">787年</a><br />
+<br />
+== できごと ==<br />
+<br />
+== 誕生 ==<br />
+<br />
+== 死去 ==<br />
+<br />
+Category:<a href="http://localhost/keyword/26%E5%B9%B4">26年</a><br />
+<br />
+als:20er#26<br />
